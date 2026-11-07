@@ -1,0 +1,1243 @@
+{
+  "project_id": "P162278",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "008aa498",
+  "started_at": "2026-11-07T03:22:10Z",
+  "ended_at": "2026-11-07T03:22:47Z",
+  "input_fingerprint": "33c3acb3792030a0",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 17,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P162278-A1",
+      "project_id": "P162278",
+      "name": "national georeferenced cadastral platform consolidating municipal and multi-agency data",
+      "description": "A national GIS platform consolidates municipal and multi-agency cadastral data, integrating disaster risk maps to produce hazard exposure information for planning. Practices: national cadastral information system consolidating municipal cadaster data; georeferenced land information system for risk and land-use planning; national data platform consolidating urban cadaster data; Cadastral data integrated with disaster risk maps for hazard exposure; Centralized GIS cadastral database integrating multi-agency data; National Urban Cadaster platform for urban management information.",
+      "why_innovative": "New system: national-level cadastral information system consolidating municipal data | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "780681579143657248",
+        "doc_type": "PAD",
+        "doc_date": "2019-12-03",
+        "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+        "char_start": 40471,
+        "char_end": 40561,
+        "text": "(iii) the development and implementation of a national level cadastral information system;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 38107,
+          "char_end": 38110,
+          "text": "21.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 42357,
+          "char_end": 42556,
+          "text": "The generation of cadastral information will enable the creation of a geographically referenced land information system that will be used for resilient land use and disaster risk management planning.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 42557,
+          "char_end": 42844,
+          "text": "For example, the combination and aggregation of use of different types of imagery and other data with the municipal cadasters produced by the Project could inform risk mitigation efforts as well as climate change adaptation scenarios for land use planning and infrastructure investments.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 63325,
+          "char_end": 63420,
+          "text": "(v) Fifth, the Project will design a national data platform to consolidate urban cadaster data.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 62607,
+          "char_end": 62953,
+          "text": "(iii) Third, by providing detailed granular information about the properties in their districts and by linking information systems across the taxation and urban planning units, the Project will strengthen the information base of Project municipalities to plan and implement land, housing, disaster risk 10 According to the Municipal Taxation Law.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 82005,
+          "char_end": 82305,
+          "text": "This will be Semi-annual execution management plans PIU municipalities with improved hazard done by integrating the progress - including disaster risk exposure data municipal disaster risk reports maps - using urban management plans with cadastral information. integrated urban cadastral information.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 81768,
+          "char_end": 82004,
+          "text": "Number of people living in municipalities that have Municipalities will increased data related to Project verify the completion of exposure, or assets at risk of physical disaster risk Number of people living in project natural hazards.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 120779,
+          "char_end": 120945,
+          "text": "COFOPRI is also is responsible for developing the GIS Data Base, which will be integrating the information from the multiple agencies generating cadaster information.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 120946,
+          "char_end": 121198,
+          "text": "This integration process should gradually take place once all the agencies responsible for generating cadaster information homogenize the production, administration, maintenance and updating of information according to the system’s technical standards.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 121199,
+          "char_end": 121381,
+          "text": "The Technical Secretariat should act as a gatekeeper, assessing that agencies have complied with those standards and a given area can be formally incorporated to the national system.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 126662,
+          "char_end": 126863,
+          "text": "The MVCS has established the NUC as a platform for updating and creating urban cadastral information that can be used to improve the policy actions and investments of government agencies at all levels.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 126868,
+          "char_end": 126961,
+          "text": "The National Urban Cadaster (NUC) is an instrument of urban management at the national level.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "780681579143657248",
+          "doc_type": "PAD",
+          "doc_date": "2019-12-03",
+          "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+          "char_start": 126962,
+          "char_end": 127208,
+          "text": "Once established, the NUC will contain quantitative and qualitative information on urban infrastructure, formal and informal buildings, urban equipment, and public spaces within urban centers, and urban settlements, including urban conglomerates.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: national cadastral data system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Infrastructure",
+        "code": "",
+        "confidence": null,
+        "rationale": "National cadastral information system consolidating data is an ICT system build.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: national cadastral information system | Innovative: consolidates municipal cadasters | Category: new system; LADM not in evidence",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New system: national-level cadastral information system consolidating municipal data",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P162278",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "guid": "780681579143657248",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:22:10Z",
+      "ended_at": "2026-11-07T03:22:11Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 20 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:22:11Z",
+      "ended_at": "2026-11-07T03:22:11Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-01-10, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:22:11Z",
+      "ended_at": "2026-11-07T03:22:18Z",
+      "status": "ok",
+      "note": "17 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 17,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 1,
+          "innovation": 1,
+          "innovation_cycle": 5,
+          "innovation_types": 6,
+          "enabling_technologies": 4
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:22:18Z",
+      "ended_at": "2026-11-07T03:22:18Z",
+      "status": "ok",
+      "note": "PAD 2019-12-03 (P162278_PAD_2019-12-03_780681579143657248.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P162278",
+            "doc_type": "PAD",
+            "doc_date": "2019-12-03",
+            "guid": "780681579143657248",
+            "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:22:18Z",
+      "ended_at": "2026-11-07T03:22:18Z",
+      "status": "ok",
+      "note": "90 reading units (30 numbered paragraphs) from 823 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 90
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:22:18Z",
+      "ended_at": "2026-11-07T03:22:23Z",
+      "status": "ok",
+      "note": "55 of 90 units carry a digital / AI cue (8 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 55,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 8
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:22:23Z",
+      "ended_at": "2026-11-07T03:22:34Z",
+      "status": "ok",
+      "note": "17 candidate practices from 55 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 184829,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1173,
+          "cached_tokens": 37888,
+          "cache_write_tokens": 0,
+          "output_tokens": 3400,
+          "seconds": 32.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0047
+        },
+        "extracted": 17
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:22:34Z",
+      "ended_at": "2026-11-07T03:22:39Z",
+      "status": "ok",
+      "note": "12 accepted, 5 rejected (not_digital 3, not_innovative 2); 0 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 69300,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 8596,
+          "cached_tokens": 5888,
+          "cache_write_tokens": 0,
+          "output_tokens": 1456,
+          "seconds": 8.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0044
+        },
+        "accepted": 12,
+        "rejected": 5,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 3,
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:22:39Z",
+      "ended_at": "2026-11-07T03:22:42Z",
+      "status": "ok",
+      "note": "12 of 12 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2971,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 630,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 447,
+          "seconds": 3.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:22:42Z",
+      "ended_at": "2026-11-07T03:22:44Z",
+      "status": "ok",
+      "note": "12 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 3199,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 680,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 185,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "merged": 9,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:22:44Z",
+      "ended_at": "2026-11-07T03:22:46Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7421,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1194,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 205,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:22:46Z",
+      "ended_at": "2026-11-07T03:22:46Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 14 evidence rows, 11 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:22:46Z",
+      "ended_at": "2026-11-07T03:22:47Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 14
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P162278-A1-E1",
+      "approach_id": "P162278-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U27",
+      "para_no": 21,
+      "sentence_position": 269,
+      "char_start": 40471,
+      "char_end": 40561,
+      "sentence": "(iii) the development and implementation of a national level cadastral information system;",
+      "practice": "national cadastral information system consolidating municipal cadaster data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: national cadastral information system | Not routine: consolidates cadaster nationally | Adoption: 'development and implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: national cadastral information system | Innovative: consolidates municipal cadasters | Category: new system; LADM not in evidence",
+      "keywords_hit": "cadastral;information system;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New system: national-level cadastral information system consolidating municipal data",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E2",
+      "approach_id": "P162278-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U27",
+      "para_no": 21,
+      "sentence_position": 256,
+      "char_start": 38107,
+      "char_end": 38110,
+      "sentence": "21.",
+      "practice": "national cadastral information system consolidating municipal cadaster data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: national cadastral information system | Not routine: consolidates cadaster nationally | Adoption: 'development and implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: national cadastral information system | Innovative: consolidates municipal cadasters | Category: new system; LADM not in evidence",
+      "keywords_hit": "cadastral;information system;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New system: national-level cadastral information system consolidating municipal data",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E3",
+      "approach_id": "P162278-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U29",
+      "para_no": null,
+      "sentence_position": 280,
+      "char_start": 42357,
+      "char_end": 42556,
+      "sentence": "The generation of cadastral information will enable the creation of a geographically referenced land information system that will be used for resilient land use and disaster risk management planning.",
+      "practice": "georeferenced land information system for risk and land-use planning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: georeferenced land information system | Not routine: fuses imagery with cadaster for DRM | Adoption: 'will enable the creation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: georeferenced land information system | Innovative: imagery fused with cadaster for DRM | Category: new system",
+      "keywords_hit": "cadastral;information system;land information system;spatial data",
+      "innovation_cues": "",
+      "innovation_basis": "New system: georeferenced land information system for DRM - cue: 'spatial data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E4",
+      "approach_id": "P162278-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U29",
+      "para_no": null,
+      "sentence_position": 281,
+      "char_start": 42557,
+      "char_end": 42844,
+      "sentence": "For example, the combination and aggregation of use of different types of imagery and other data with the municipal cadasters produced by the Project could inform risk mitigation efforts as well as climate change adaptation scenarios for land use planning and infrastructure investments.",
+      "practice": "georeferenced land information system for risk and land-use planning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: georeferenced land information system | Not routine: fuses imagery with cadaster for DRM | Adoption: 'will enable the creation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: georeferenced land information system | Innovative: imagery fused with cadaster for DRM | Category: new system",
+      "keywords_hit": "cadastral;information system;land information system;spatial data",
+      "innovation_cues": "",
+      "innovation_basis": "New system: georeferenced land information system for DRM - cue: 'spatial data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E5",
+      "approach_id": "P162278-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 416,
+      "char_start": 63325,
+      "char_end": 63420,
+      "sentence": "(v) Fifth, the Project will design a national data platform to consolidate urban cadaster data.",
+      "practice": "national data platform consolidating urban cadaster data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: national cadaster data platform | Not routine: consolidates municipal cadasters nationally | Adoption: 'will design'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national cadaster data platform | Innovative: consolidates municipal cadasters | Category: new platform",
+      "keywords_hit": "cadastral;data platform;information system;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: national platform consolidating municipal cadaster data - cue: 'design'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E6",
+      "approach_id": "P162278-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 412,
+      "char_start": 62607,
+      "char_end": 62953,
+      "sentence": "(iii) Third, by providing detailed granular information about the properties in their districts and by linking information systems across the taxation and urban planning units, the Project will strengthen the information base of Project municipalities to plan and implement land, housing, disaster risk 10 According to the Municipal Taxation Law.",
+      "practice": "national data platform consolidating urban cadaster data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: national cadaster data platform | Not routine: consolidates municipal cadasters nationally | Adoption: 'will design'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national cadaster data platform | Innovative: consolidates municipal cadasters | Category: new platform",
+      "keywords_hit": "cadastral;data platform;information system;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: national platform consolidating municipal cadaster data - cue: 'design'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E7",
+      "approach_id": "P162278-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U56",
+      "para_no": null,
+      "sentence_position": 534,
+      "char_start": 82005,
+      "char_end": 82305,
+      "sentence": "This will be Semi-annual execution management plans PIU municipalities with improved hazard done by integrating the progress - including disaster risk exposure data municipal disaster risk reports maps - using urban management plans with cadastral information. integrated urban cadastral information.",
+      "practice": "Cadastral data integrated with disaster risk maps for hazard exposure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: integrated cadaster-hazard GIS data | Not routine: cadaster linked to risk maps | Adoption: 'will be done by integrating'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: integrated cadaster-hazard GIS data | Innovative: cadaster linked to risk maps | Category: data integration",
+      "keywords_hit": "cadastral",
+      "innovation_cues": "",
+      "innovation_basis": "New process: linking cadaster records to hazard risk maps - cue: 'integrating'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E8",
+      "approach_id": "P162278-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U56",
+      "para_no": null,
+      "sentence_position": 533,
+      "char_start": 81768,
+      "char_end": 82004,
+      "sentence": "Number of people living in municipalities that have Municipalities will increased data related to Project verify the completion of exposure, or assets at risk of physical disaster risk Number of people living in project natural hazards.",
+      "practice": "Cadastral data integrated with disaster risk maps for hazard exposure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: integrated cadaster-hazard GIS data | Not routine: cadaster linked to risk maps | Adoption: 'will be done by integrating'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: integrated cadaster-hazard GIS data | Innovative: cadaster linked to risk maps | Category: data integration",
+      "keywords_hit": "cadastral",
+      "innovation_cues": "",
+      "innovation_basis": "New process: linking cadaster records to hazard risk maps - cue: 'integrating'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E9",
+      "approach_id": "P162278-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U85",
+      "para_no": null,
+      "sentence_position": 772,
+      "char_start": 120779,
+      "char_end": 120945,
+      "sentence": "COFOPRI is also is responsible for developing the GIS Data Base, which will be integrating the information from the multiple agencies generating cadaster information.",
+      "practice": "Centralized GIS cadastral database integrating multi-agency data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: GIS cadastral database | Not routine: integrates scattered agency databases | Adoption: 'responsible for developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS cadastral database | Innovative: integrates scattered agency databases under standards | Category: data platform",
+      "keywords_hit": "GIS;accessibility;conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New product: unified national GIS cadastral data platform - cue: 'GIS Data Base'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E10",
+      "approach_id": "P162278-A1",
+      "evidence_no": 10,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U85",
+      "para_no": null,
+      "sentence_position": 773,
+      "char_start": 120946,
+      "char_end": 121198,
+      "sentence": "This integration process should gradually take place once all the agencies responsible for generating cadaster information homogenize the production, administration, maintenance and updating of information according to the system’s technical standards.",
+      "practice": "Centralized GIS cadastral database integrating multi-agency data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: GIS cadastral database | Not routine: integrates scattered agency databases | Adoption: 'responsible for developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS cadastral database | Innovative: integrates scattered agency databases under standards | Category: data platform",
+      "keywords_hit": "GIS;accessibility;conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New product: unified national GIS cadastral data platform - cue: 'GIS Data Base'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E11",
+      "approach_id": "P162278-A1",
+      "evidence_no": 11,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U85",
+      "para_no": null,
+      "sentence_position": 774,
+      "char_start": 121199,
+      "char_end": 121381,
+      "sentence": "The Technical Secretariat should act as a gatekeeper, assessing that agencies have complied with those standards and a given area can be formally incorporated to the national system.",
+      "practice": "Centralized GIS cadastral database integrating multi-agency data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: GIS cadastral database | Not routine: integrates scattered agency databases | Adoption: 'responsible for developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS cadastral database | Innovative: integrates scattered agency databases under standards | Category: data platform",
+      "keywords_hit": "GIS;accessibility;conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New product: unified national GIS cadastral data platform - cue: 'GIS Data Base'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E12",
+      "approach_id": "P162278-A1",
+      "evidence_no": 12,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 815,
+      "char_start": 126662,
+      "char_end": 126863,
+      "sentence": "The MVCS has established the NUC as a platform for updating and creating urban cadastral information that can be used to improve the policy actions and investments of government agencies at all levels.",
+      "practice": "National Urban Cadaster platform for urban management information",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: NUC cadastral platform | Not routine: national urban data for policy | Adoption: 'established the NUC'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: NUC platform | Innovative: national urban data for policy | Category: data platform",
+      "keywords_hit": "cadastral",
+      "innovation_cues": "",
+      "innovation_basis": "New product: national urban cadastral information platform - cue: 'platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E13",
+      "approach_id": "P162278-A1",
+      "evidence_no": 13,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 817,
+      "char_start": 126868,
+      "char_end": 126961,
+      "sentence": "The National Urban Cadaster (NUC) is an instrument of urban management at the national level.",
+      "practice": "National Urban Cadaster platform for urban management information",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: NUC cadastral platform | Not routine: national urban data for policy | Adoption: 'established the NUC'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: NUC platform | Innovative: national urban data for policy | Category: data platform",
+      "keywords_hit": "cadastral",
+      "innovation_cues": "",
+      "innovation_basis": "New product: national urban cadastral information platform - cue: 'platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    },
+    {
+      "row_id": "P162278-A1-E14",
+      "approach_id": "P162278-A1",
+      "evidence_no": 14,
+      "number_of_evidence": 14,
+      "project_id": "P162278",
+      "doc_id": "780681579143657248",
+      "doc_type": "PAD",
+      "doc_date": "2019-12-03",
+      "file_name": "P162278_PAD_2019-12-03_780681579143657248.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 818,
+      "char_start": 126962,
+      "char_end": 127208,
+      "sentence": "Once established, the NUC will contain quantitative and qualitative information on urban infrastructure, formal and informal buildings, urban equipment, and public spaces within urban centers, and urban settlements, including urban conglomerates.",
+      "practice": "National Urban Cadaster platform for urban management information",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: NUC cadastral platform | Not routine: national urban data for policy | Adoption: 'established the NUC'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: NUC platform | Innovative: national urban data for policy | Category: data platform",
+      "keywords_hit": "cadastral",
+      "innovation_cues": "",
+      "innovation_basis": "New product: national urban cadastral information platform - cue: 'platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "008aa498"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 210,
+      "char_start": 31372,
+      "char_end": 31724,
+      "sentence": "Investments will be framed within a strategy that recognizes the diverse needs and capacities of Peruvian municipalities and the need for a “fit for purpose” progressive approach according to the needs and resources of each municipality, which will significantly reduce the costs of generating, maintaining, managing and updating cadastral information.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "fit-for-purpose progressive municipal cadaster development strategy",
+      "reason": "reject: Fit-for-purpose rollout strategy is programme design, not a named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: tiered cadaster rollout matched to municipal capacity - cue: 'fit for purpose'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Fit-for-purpose rollout strategy is programme design, not a named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1362
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 211,
+      "char_start": 31725,
+      "char_end": 31989,
+      "sentence": "The project will leverage citizen participation for the development of the cadaster and will generate key actionable information that can be used by authorities to address spatial disparities that affect disproportionally women and people living with disabilities.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "citizen participation in building and updating urban cadasters",
+      "reason": "reject: Citizen participation process; no named digital tool or channel does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: residents co-produce cadastral data - cue: 'citizen participation'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Citizen participation process; no named digital tool or channel does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1362
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 265,
+      "char_start": 39628,
+      "char_end": 40032,
+      "sentence": "This sub-component will finance the design, implementation and management of face-to-face TA and a virtual learning platform to build capacities in selected municipalities in aspects related to the collection, use, maintenance, and updating of the cadastral information, as well as in the use of this information for property tax collection, land use planning, urban and FM, and disaster risk management.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "virtual learning platform for municipal cadaster capacity",
+      "reason": "reject: Virtual learning platform is routine training delivery, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: online cadaster training for municipalities - cue: 'virtual learning platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Virtual learning platform is routine training delivery, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 2454
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 270,
+      "char_start": 40562,
+      "char_end": 40787,
+      "sentence": "(iv) development of guidelines for the use of climate and hazard data with the cadaster data for disaster risk management decisions; and (v) institutional strengthening activities for the MVCS and COFOPRI in urban management.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "climate and hazard data integrated with cadaster for DRM",
+      "reason": "reject: Guidelines document, not a digital system or dataset doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: hazard layers fused with cadastral data - cue: 'guidelines'",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Guidelines document, not a digital system or dataset doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1207
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 592,
+      "char_start": 92915,
+      "char_end": 93144,
+      "sentence": "(vi) participate in the design, implementation, and management of the face-to-face TA and a virtual learning platform to build capacities; and (vii) also coordinate with the SNCP on the cadaster standards and implementation.13 8.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "virtual learning platform for cadastral capacity building",
+      "reason": "reject: Virtual learning platform is standard training channel, not a distinctive new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: online platform delivering cadastral training - cue: 'virtual learning platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Virtual learning platform is standard training channel, not a distinctive new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1307
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 201,
+      "char_start": 29453,
+      "char_end": 29730,
+      "sentence": "Given this experience, the government is taking a new approach to consolidate cadastral information, link cadasters to property tax and urban planning systems at the local level and build local capacity to use cadastral data to improve municipalities’ urban management efforts.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Municipal urban cadasters linked to property tax and urban planning units",
+      "reason": "reject: final check round 1: digital: incidental - Digital: cadaster data supports tax/planning but approach is municipal institutional linkage | Before 2019: municipal cadaster-tax linkage standard in WBG land administration projects for decades",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: cadaster data linked to municipal tax and planning units, consolidated into National Urban Cadaster",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: municipal cadaster linked to tax/planning units | Innovative: data reuse for tax and planning | Category: delivery arrangement",
+          "reject_code": "",
+          "context_chars": 1414
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: cadaster data supports tax/planning but approach is municipal institutional linkage | Before 2019: municipal cadaster-tax linkage standard in WBG land administration projects for decades",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 519,
+      "char_start": 77540,
+      "char_end": 77737,
+      "sentence": "(ii) cadastral surveys and field operations are planned and carried out with the active involvement of local governments; and (iii) MVCS has real time access and control of the cadastral databases.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "MVCS real-time access and control over municipal cadastral databases",
+      "reason": "reject: final check round 1: digital: incidental - Digital: cadaster data supports tax/planning but approach is municipal institutional linkage | Before 2019: municipal cadaster-tax linkage standard in WBG land administration projects for decades",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: central real-time access/control over locally built cadastral databases, mitigating COFOPRI delegation risk",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: cadastral databases | Innovative: central real-time control over local data | Category: delivery arrangement | Adoption: risk-mitigation measure, not 'will be mitigated'",
+          "reject_code": "",
+          "context_chars": 1240
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: cadaster data supports tax/planning but approach is municipal institutional linkage | Before 2019: municipal cadaster-tax linkage standard in WBG land administration projects for decades",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 259,
+      "char_start": 38608,
+      "char_end": 38800,
+      "sentence": "Subcomponent 1.1: Creation of an urban cadastral information system for tax purposes and urban management in Selected Municipalities (US$63.6 million, of which US$40 million is Bank-financed).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "urban cadastral information system linked to property tax databases",
+      "reason": "reject: final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New system: cadaster-linked municipal property tax databases - cue: 'information system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: cadastral information system | Innovative: updates tax databases from cadaster | Category: new system",
+          "reject_code": "",
+          "context_chars": 2454
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 287,
+      "char_start": 43423,
+      "char_end": 43645,
+      "sentence": "To address this gap, the project will ensure that, during cadastral information collection, occupancy of parcels/cadastral units by women (both individually and jointly with their domestic partners) is adequately recorded.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "gender-disaggregated cadastral occupancy data collection",
+      "reason": "reject: final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: gender-tagged cadastral occupancy records - cue: 'gender disaggregated'",
+      "innovation_cues": "mainstreaming",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: cadastral data collection | Innovative: records women's occupancy for tenure | Category: data process",
+          "reject_code": "",
+          "context_chars": 1859
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 406,
+      "char_start": 61731,
+      "char_end": 61975,
+      "sentence": "(ii) Second, the Project will use a “fit-for-purpose” approach to ensure that municipalities can achieve high returns as the initial stages of the implementation will increase property tax revenues significantly with relatively low investments.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "fit-for-purpose simplified property valuation for cadastral surveys",
+      "reason": "reject: final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: simplified four-attribute property valuation methodology - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: simplified cadastral valuation dataset | Innovative: four attributes halve survey cost | Category: data method",
+          "reject_code": "",
+          "context_chars": 2415
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "780681579143657248",
+      "doc_type": "PAD",
+      "position": 412,
+      "char_start": 62607,
+      "char_end": 62953,
+      "sentence": "(iii) Third, by providing detailed granular information about the properties in their districts and by linking information systems across the taxation and urban planning units, the Project will strengthen the information base of Project municipalities to plan and implement land, housing, disaster risk 10 According to the Municipal Taxation Law.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "linked taxation and urban-planning information systems in municipalities",
+      "reason": "reject: final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: cross-linking tax and planning information systems - cue: 'linking'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: linked municipal tax-planning systems | Innovative: integrates siloed municipal databases | Category: system integration",
+          "reject_code": "",
+          "context_chars": 879
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: cadastral information system with databases, hardware/software is the solution | Before 2019: WBG land administration/cadaster IT systems routine, e.g. earlier Peru, Eastern Europe projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 12273,
+    "cached_tokens": 44160,
+    "cache_write_tokens": 0,
+    "output_tokens": 5693,
+    "seconds": 47.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0108
+  }
+}

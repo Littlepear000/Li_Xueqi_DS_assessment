@@ -1,0 +1,653 @@
+{
+  "project_id": "P166539",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "54aca40e",
+  "started_at": "2026-11-07T03:24:07Z",
+  "ended_at": "2026-11-07T03:24:38Z",
+  "input_fingerprint": "be80ad63516f8b9a",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 41,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P166539-A1",
+      "project_id": "P166539",
+      "name": "Inter-agency data exchange for one-stop business registration",
+      "description": "Project builds a data exchange solution linking Registrar General, Revenue Authority, Social Security and Metropolitan Authority into a one-stop e-Registrar.",
+      "why_innovative": "New delivery arrangement: inter-agency data exchange one-stop registry - cue: 'one-stop' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "351101562378424349",
+        "doc_type": "PAD",
+        "doc_date": "2019-06-11",
+        "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+        "char_start": 56178,
+        "char_end": 56424,
+        "text": "It will also support the inter-connectivity of all agencies related to new business registrations (Registrar General, Ghana Revenue Authority, Social Security, Metropolitan Authority), in order to create a one-stop shop for business registration.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "351101562378424349",
+          "doc_type": "PAD",
+          "doc_date": "2019-06-11",
+          "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+          "char_start": 56425,
+          "char_end": 56591,
+          "text": "This will include development of a data exchange solution, as well as required staff training to effectively support, maintain, and operate this e-Registrar solution.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "351101562378424349",
+          "doc_type": "PAD",
+          "doc_date": "2019-06-11",
+          "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+          "char_start": 56592,
+          "char_end": 57257,
+          "text": "By investing in these tools and capacity building, this support will lead to a more streamlined registration procedure for businesses, leading to the following outcomes: • Reduce the regulatory burden on foreign and domestic businesses to start up a business through reducing time and cost of compliance with business-registration procedures; • Improve the efficiency of business-registration services through simplifying and streamlining procedures for business registration, and automating registry functions; • Shift from the revenue-generating approach for the registration services to a self-sustained model covering cost of provision of registration services;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers registration delivery across agencies, not a new technology per se",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Industry, Trade and Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "One-stop business registration and inter-agency data exchange directly serve public administration of trade and services.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166996",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicated_by",
+          "evidence": "ically redundant activities: i. DANIDA has announced that its private sector development program will be phasing out by 2020 as part of the reduction of Danish Aid involvement. The Skills Development Fund previously supported by DANIDA will be supported under the World Bank Jobs and Skills Project (P166996), which will work in close collaboration with the MarketConnect type activity of the Economi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: e-Registrar data exchange linking RGD, GRA, SSNIT, MMDAs | Innovative: cross-agency one-stop registration | Category: re-engineered delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: inter-agency data exchange one-stop registry - cue: 'one-stop'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P166539-A2",
+      "project_id": "P166539",
+      "name": "Investor relationship management system for investment promotion",
+      "description": "Project upgrades GIPC's investor tracking system into an IRMS managing relationships with existing and potential investors.",
+      "why_innovative": "New service: upgraded IRMS for investor attraction and retention - cue: 'upgrade' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "351101562378424349",
+        "doc_type": "PAD",
+        "doc_date": "2019-06-11",
+        "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+        "char_start": 59477,
+        "char_end": 59994,
+        "text": "Improving GIPC’s Systems and Tools: This subcomponent project will support the enhancement and/or deployment of the systems and tools to ensure that GIPC is efficient and maximizes its ability to service investors, by providing software, hardware and training as needed, including: • Investor relationship management system (IRMS): GIPC uses an investor tracking system where registered projects are recorded according to parameters such as sector, source country, and region in Ghana where the investment took place.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "351101562378424349",
+          "doc_type": "PAD",
+          "doc_date": "2019-06-11",
+          "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+          "char_start": 59995,
+          "char_end": 60439,
+          "text": "The project will provide for the update and upgrade of the existing system to serve as a real tool for managing the relationship with existing and potential investors and supporting investment attraction and retention. • Investor information system (IIS): the IIS refers to the content, platform and mechanism for storing, updating and disseminating the information that investors request from an Investment Promotion Agency (IPA) such as GIPC.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the IRMS software is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Industry, Trade and Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Investment promotion and investor relationship management are public administration functions for trade and investment.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166996",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicated_by",
+          "evidence": "ically redundant activities: i. DANIDA has announced that its private sector development program will be phasing out by 2020 as part of the reduction of Danish Aid involvement. The Skills Development Fund previously supported by DANIDA will be supported under the World Bank Jobs and Skills Project (P166996), which will work in close collaboration with the MarketConnect type activity of the Economi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: upgraded IRMS tracking investor relationships | Innovative: tracking system becomes relationship-management tool | Category: adapted technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: upgraded IRMS for investor attraction and retention - cue: 'upgrade'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P166539",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "guid": "351101562378424349",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:24:07Z",
+      "ended_at": "2026-11-07T03:24:21Z",
+      "status": "ok",
+      "note": "17 document(s) fetched from the WBG API; 22 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:24:21Z",
+      "ended_at": "2026-11-07T03:24:21Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-07-02, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:24:21Z",
+      "ended_at": "2026-11-07T03:24:24Z",
+      "status": "ok",
+      "note": "41 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 41,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 6,
+          "innovation_types": 12,
+          "enabling_processes": 3,
+          "results_based_management": 3,
+          "innovation_cycle": 11,
+          "public_good": 3,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:24:24Z",
+      "ended_at": "2026-11-07T03:24:24Z",
+      "status": "ok",
+      "note": "PAD 2019-06-11 (P166539_PAD_2019-06-11_351101562378424349.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P166539",
+            "doc_type": "PAD",
+            "doc_date": "2019-06-11",
+            "guid": "351101562378424349",
+            "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:24:24Z",
+      "ended_at": "2026-11-07T03:24:24Z",
+      "status": "ok",
+      "note": "177 reading units (29 numbered paragraphs) from 1292 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 177
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:24:24Z",
+      "ended_at": "2026-11-07T03:24:26Z",
+      "status": "ok",
+      "note": "65 of 177 units carry a digital / AI cue (24 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 65,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 24
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:24:26Z",
+      "ended_at": "2026-11-07T03:24:32Z",
+      "status": "ok",
+      "note": "4 candidate practices from 65 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 207901,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1371,
+          "cached_tokens": 42880,
+          "cache_write_tokens": 0,
+          "output_tokens": 1630,
+          "seconds": 15.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "extracted": 4
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:24:32Z",
+      "ended_at": "2026-11-07T03:24:34Z",
+      "status": "ok",
+      "note": "2 accepted, 2 rejected (not_innovative 2); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 25501,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 2080,
+          "cached_tokens": 3072,
+          "cache_write_tokens": 0,
+          "output_tokens": 315,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.001
+        },
+        "accepted": 2,
+        "rejected": 2,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:24:34Z",
+      "ended_at": "2026-11-07T03:24:36Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1176,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 144,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 93,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:24:36Z",
+      "ended_at": "2026-11-07T03:24:36Z",
+      "status": "ok",
+      "note": "2 approaches -> 2 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:24:36Z",
+      "ended_at": "2026-11-07T03:24:38Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5567,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 744,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 133,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:24:38Z",
+      "ended_at": "2026-11-07T03:24:38Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 5 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:24:38Z",
+      "ended_at": "2026-11-07T03:24:38Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P166996",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicated_by",
+            "evidence": "ically redundant activities: i. DANIDA has announced that its private sector development program will be phasing out by 2020 as part of the reduction of Danish Aid involvement. The Skills Development Fund previously supported by DANIDA will be supported under the World Bank Jobs and Skills Project (P166996), which will work in close collaboration with the MarketConnect type activity of the Economi"
+          }
+        ],
+        "store_size": 31
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P166539-A1-E1",
+      "approach_id": "P166539-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P166539",
+      "doc_id": "351101562378424349",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 292,
+      "char_start": 56178,
+      "char_end": 56424,
+      "sentence": "It will also support the inter-connectivity of all agencies related to new business registrations (Registrar General, Ghana Revenue Authority, Social Security, Metropolitan Authority), in order to create a one-stop shop for business registration.",
+      "practice": "Inter-agency data exchange for one-stop business registration",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: e-Registrar data exchange platform | Not routine: cross-agency one-stop registration | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-Registrar data exchange linking RGD, GRA, SSNIT, MMDAs | Innovative: cross-agency one-stop registration | Category: re-engineered delivery arrangement",
+      "keywords_hit": "connectivity;data exchange;one-stop;start-up",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: inter-agency data exchange one-stop registry - cue: 'one-stop'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "54aca40e"
+    },
+    {
+      "row_id": "P166539-A1-E2",
+      "approach_id": "P166539-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P166539",
+      "doc_id": "351101562378424349",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 293,
+      "char_start": 56425,
+      "char_end": 56591,
+      "sentence": "This will include development of a data exchange solution, as well as required staff training to effectively support, maintain, and operate this e-Registrar solution.",
+      "practice": "Inter-agency data exchange for one-stop business registration",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: e-Registrar data exchange platform | Not routine: cross-agency one-stop registration | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-Registrar data exchange linking RGD, GRA, SSNIT, MMDAs | Innovative: cross-agency one-stop registration | Category: re-engineered delivery arrangement",
+      "keywords_hit": "connectivity;data exchange;one-stop;start-up",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: inter-agency data exchange one-stop registry - cue: 'one-stop'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "54aca40e"
+    },
+    {
+      "row_id": "P166539-A1-E3",
+      "approach_id": "P166539-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P166539",
+      "doc_id": "351101562378424349",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 294,
+      "char_start": 56592,
+      "char_end": 57257,
+      "sentence": "By investing in these tools and capacity building, this support will lead to a more streamlined registration procedure for businesses, leading to the following outcomes: • Reduce the regulatory burden on foreign and domestic businesses to start up a business through reducing time and cost of compliance with business-registration procedures; • Improve the efficiency of business-registration services through simplifying and streamlining procedures for business registration, and automating registry functions; • Shift from the revenue-generating approach for the registration services to a self-sustained model covering cost of provision of registration services;",
+      "practice": "Inter-agency data exchange for one-stop business registration",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: e-Registrar data exchange platform | Not routine: cross-agency one-stop registration | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-Registrar data exchange linking RGD, GRA, SSNIT, MMDAs | Innovative: cross-agency one-stop registration | Category: re-engineered delivery arrangement",
+      "keywords_hit": "connectivity;data exchange;one-stop;start-up",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: inter-agency data exchange one-stop registry - cue: 'one-stop'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "54aca40e"
+    },
+    {
+      "row_id": "P166539-A2-E1",
+      "approach_id": "P166539-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P166539",
+      "doc_id": "351101562378424349",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 305,
+      "char_start": 59477,
+      "char_end": 59994,
+      "sentence": "Improving GIPC’s Systems and Tools: This subcomponent project will support the enhancement and/or deployment of the systems and tools to ensure that GIPC is efficient and maximizes its ability to service investors, by providing software, hardware and training as needed, including: • Investor relationship management system (IRMS): GIPC uses an investor tracking system where registered projects are recorded according to parameters such as sector, source country, and region in Ghana where the investment took place.",
+      "practice": "Investor relationship management system for investment promotion",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: investor relationship management system | Not routine: converts tracking into relationship management | Adoption: 'will provide for the update and upgrade'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: upgraded IRMS tracking investor relationships | Innovative: tracking system becomes relationship-management tool | Category: adapted technology",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New service: upgraded IRMS for investor attraction and retention - cue: 'upgrade'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "54aca40e"
+    },
+    {
+      "row_id": "P166539-A2-E2",
+      "approach_id": "P166539-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P166539",
+      "doc_id": "351101562378424349",
+      "doc_type": "PAD",
+      "doc_date": "2019-06-11",
+      "file_name": "P166539_PAD_2019-06-11_351101562378424349.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 306,
+      "char_start": 59995,
+      "char_end": 60439,
+      "sentence": "The project will provide for the update and upgrade of the existing system to serve as a real tool for managing the relationship with existing and potential investors and supporting investment attraction and retention. • Investor information system (IIS): the IIS refers to the content, platform and mechanism for storing, updating and disseminating the information that investors request from an Investment Promotion Agency (IPA) such as GIPC.",
+      "practice": "Investor relationship management system for investment promotion",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: investor relationship management system | Not routine: converts tracking into relationship management | Adoption: 'will provide for the update and upgrade'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: upgraded IRMS tracking investor relationships | Innovative: tracking system becomes relationship-management tool | Category: adapted technology",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New service: upgraded IRMS for investor attraction and retention - cue: 'upgrade'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "54aca40e"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "351101562378424349",
+      "doc_type": "PAD",
+      "position": 800,
+      "char_start": 155975,
+      "char_end": 156148,
+      "sentence": "To close the gap on the feedback provided, this survey will cover the same group of beneficiaries year on year to ensure that the feedback is being appropriately acted upon.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Longitudinal beneficiary survey tracking same respondents yearly",
+      "reason": "reject: Annual beneficiary survey is standard M&E and reporting, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: repeated panel survey of same beneficiaries - cue: 'year on year'",
+      "innovation_cues": "innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Annual beneficiary survey is standard M&E and reporting, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1575
+        }
+      ]
+    },
+    {
+      "guid": "351101562378424349",
+      "doc_type": "PAD",
+      "position": 933,
+      "char_start": 181296,
+      "char_end": 181456,
+      "sentence": "It is expected that this project will be part of selected IDA funded projects piloting the use of GIFMIS system to account and record on the use of donor funds.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "GIFMIS pilot for recording and accounting donor funds",
+      "reason": "reject: Piloting donor funds on GIFMIS is fiduciary accounting arrangement, not a development innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: donor funds on country IFMIS - cue: 'piloting'",
+      "innovation_cues": "piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Piloting donor funds on GIFMIS is fiduciary accounting arrangement, not a development innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 2832
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 4339,
+    "cached_tokens": 46464,
+    "cache_write_tokens": 0,
+    "output_tokens": 2171,
+    "seconds": 22.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0042
+  }
+}

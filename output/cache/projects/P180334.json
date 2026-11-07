@@ -1,0 +1,668 @@
+{
+  "project_id": "P180334",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "2cffb6ec",
+  "started_at": "2026-11-07T03:36:13Z",
+  "ended_at": "2026-11-07T03:36:33Z",
+  "input_fingerprint": "f3ed3813068c2cbb",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 11,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P180334-A1",
+      "project_id": "P180334",
+      "name": "land productivity map and land use decision tool",
+      "description": "Finances a land productivity map and decision tool to guide agri-food land use decisions.",
+      "why_innovative": "New product: geospatial land productivity map and decision tool - cue: 'remote sensing' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099062323172035771",
+        "doc_type": "PID",
+        "doc_date": "2023-06-23",
+        "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+        "char_start": 45534,
+        "char_end": 45720,
+        "text": "It will finance: (i) a food system diagnostic, including agricultural and industrial censuses, and agri-food related surveus;35 (ii) a land productivity map and a land use decision tool;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099062323172035771",
+          "doc_type": "PID",
+          "doc_date": "2023-06-23",
+          "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+          "char_start": 45721,
+          "char_end": 45950,
+          "text": "(iii) digitizing the MoA’s agricultural services, process and communication, including digitalization of extension services and support for the farmers registry and building the capacity of MoA on the use of remote sensing tools;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: remote-sensing data tool is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Extension, Research, and Other Support Activities",
+        "code": "",
+        "confidence": null,
+        "rationale": "Land productivity mapping and decision tool supports research/extension advisory functions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: geospatial land productivity map and decision tool | Innovative: remote-sensing land use decision tool | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: geospatial land productivity map and decision tool - cue: 'remote sensing'",
+      "innovation_cues": [
+        "climate-smart",
+        "innovations"
+      ]
+    },
+    {
+      "approach_id": "P180334-A2",
+      "project_id": "P180334",
+      "name": "digitized MoA extension services and farmers registry",
+      "description": "Digitizes Ministry of Agriculture extension services, processes and farmers registry, with remote sensing capacity.",
+      "why_innovative": "New process: digital extension services and farmers registry - cue: 'digital innovations' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099062323172035771",
+        "doc_type": "PID",
+        "doc_date": "2023-06-23",
+        "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+        "char_start": 45721,
+        "char_end": 45950,
+        "text": "(iii) digitizing the MoA’s agricultural services, process and communication, including digitalization of extension services and support for the farmers registry and building the capacity of MoA on the use of remote sensing tools;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099062323172035771",
+          "doc_type": "PID",
+          "doc_date": "2023-06-23",
+          "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+          "char_start": 45245,
+          "char_end": 45533,
+          "text": "This sub-component aims to improve the knowledge base for decision-making in the agri- food sector, including for policy makers, farmers, and agribusinesses, and to accelerate the use of digital innovations and tools in areas such as land use monitoring and agricultural extension system.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital registry and extension platform are core",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Agriculture, Fishing & Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digitizing Ministry of Agriculture extension services and registry is core public administration.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: digital extension services and farmers registry | Innovative: replaces paper extension and registry | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital extension services and farmers registry - cue: 'digital innovations'",
+      "innovation_cues": [
+        "climate-smart",
+        "innovations"
+      ]
+    },
+    {
+      "approach_id": "P180334-A3",
+      "project_id": "P180334",
+      "name": "SPS e-Certification system integrated with ePHYTO",
+      "description": "Finances digitization of agri-food certificates and licenses via SPS e-Certification linked to ePHYTO.",
+      "why_innovative": "New process: digital SPS certification integrated with ePHYTO - cue: 'digitization' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099062323172035771",
+        "doc_type": "PID",
+        "doc_date": "2023-06-23",
+        "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+        "char_start": 47271,
+        "char_end": 47444,
+        "text": "(b) the digitization of agri-food related certificates and licenses, including the establishment of (i) an SPS e-Certification system and integration into the ePHYTO system;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099062323172035771",
+          "doc_type": "PID",
+          "doc_date": "2023-06-23",
+          "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+          "char_start": 47445,
+          "char_end": 47546,
+          "text": "(ii) the registration and administration system for food business operators including food exporters;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: e-certification platform is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural markets, commercialization and agri-business",
+        "code": "",
+        "confidence": null,
+        "rationale": "SPS e-certification and ePHYTO facilitate agri-food trade and commercialization.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SPS e-Certification linked to ePHYTO | Innovative: replaces paper certificates and licenses | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital SPS certification integrated with ePHYTO - cue: 'digitization'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P180334",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "guid": "099062323172035771",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:13Z",
+      "ended_at": "2026-11-07T03:36:20Z",
+      "status": "ok",
+      "note": "7 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:20Z",
+      "ended_at": "2026-11-07T03:36:20Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-06-28, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:20Z",
+      "ended_at": "2026-11-07T03:36:22Z",
+      "status": "ok",
+      "note": "11 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 11,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 2,
+          "innovation": 3,
+          "results_based_management": 2,
+          "innovation_types": 1,
+          "innovation_cycle": 1,
+          "enabling_technologies": 1,
+          "enabling_processes": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:22Z",
+      "ended_at": "2026-11-07T03:36:22Z",
+      "status": "ok",
+      "note": "PID 2023-06-23 (P180334_PID_2023-06-23_099062323172035771.txt); skipped non-Latin: P180334_PAD_2023-06-02_099913308072493475.txt (latin share 0.05)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P180334",
+            "doc_type": "PID",
+            "doc_date": "2023-06-23",
+            "guid": "099062323172035771",
+            "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": [
+          "P180334_PAD_2023-06-02_099913308072493475.txt (latin share 0.05)"
+        ]
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:22Z",
+      "ended_at": "2026-11-07T03:36:22Z",
+      "status": "ok",
+      "note": "42 reading units (0 numbered paragraphs) from 348 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 42
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:22Z",
+      "ended_at": "2026-11-07T03:36:23Z",
+      "status": "ok",
+      "note": "21 of 42 units carry a digital / AI cue (5 also an innovation cue); 0 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 21,
+        "dropped": 0,
+        "legal_condition": 0,
+        "with_innovation_cue": 5
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:23Z",
+      "ended_at": "2026-11-07T03:36:26Z",
+      "status": "ok",
+      "note": "3 candidate practices from 21 units in 3 calls",
+      "llm_calls": 3,
+      "input_chars": 76015,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 620,
+          "cached_tokens": 15744,
+          "cache_write_tokens": 0,
+          "output_tokens": 775,
+          "seconds": 5.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0012
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:26Z",
+      "ended_at": "2026-11-07T03:36:29Z",
+      "status": "ok",
+      "note": "3 accepted, 0 rejected; 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 21788,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1558,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 303,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0008
+        },
+        "accepted": 3,
+        "rejected": 0,
+        "expanded": 0,
+        "reject_codes": {}
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:29Z",
+      "ended_at": "2026-11-07T03:36:30Z",
+      "status": "ok",
+      "note": "3 of 3 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1358,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 325,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 132,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:30Z",
+      "ended_at": "2026-11-07T03:36:30Z",
+      "status": "ok",
+      "note": "3 approaches -> 3 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:30Z",
+      "ended_at": "2026-11-07T03:36:32Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7207,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1092,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 204,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:32Z",
+      "ended_at": "2026-11-07T03:36:32Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 6 evidence rows, 0 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:32Z",
+      "ended_at": "2026-11-07T03:36:33Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 227
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P180334-A1-E1",
+      "approach_id": "P180334-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 282,
+      "char_start": 45534,
+      "char_end": 45720,
+      "sentence": "It will finance: (i) a food system diagnostic, including agricultural and industrial censuses, and agri-food related surveus;35 (ii) a land productivity map and a land use decision tool;",
+      "practice": "land productivity map and land use decision tool",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: land productivity map and decision tool | Not routine: geospatial decision tool for land use | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial land productivity map and decision tool | Innovative: remote-sensing land use decision tool | Category: Technological",
+      "keywords_hit": "census;digitalization of;remote sensing;remote-sensing",
+      "innovation_cues": "climate-smart;innovations",
+      "innovation_basis": "New product: geospatial land productivity map and decision tool - cue: 'remote sensing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    },
+    {
+      "row_id": "P180334-A1-E2",
+      "approach_id": "P180334-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 283,
+      "char_start": 45721,
+      "char_end": 45950,
+      "sentence": "(iii) digitizing the MoA’s agricultural services, process and communication, including digitalization of extension services and support for the farmers registry and building the capacity of MoA on the use of remote sensing tools;",
+      "practice": "land productivity map and land use decision tool",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: land productivity map and decision tool | Not routine: geospatial decision tool for land use | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial land productivity map and decision tool | Innovative: remote-sensing land use decision tool | Category: Technological",
+      "keywords_hit": "census;digitalization of;remote sensing;remote-sensing",
+      "innovation_cues": "climate-smart;innovations",
+      "innovation_basis": "New product: geospatial land productivity map and decision tool - cue: 'remote sensing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    },
+    {
+      "row_id": "P180334-A2-E1",
+      "approach_id": "P180334-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 283,
+      "char_start": 45721,
+      "char_end": 45950,
+      "sentence": "(iii) digitizing the MoA’s agricultural services, process and communication, including digitalization of extension services and support for the farmers registry and building the capacity of MoA on the use of remote sensing tools;",
+      "practice": "digitized MoA extension services and farmers registry",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "Digital core: digital extension and farmers registry | Not routine: replaces paper extension and registry | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital extension services and farmers registry | Innovative: replaces paper extension and registry | Category: Technological",
+      "keywords_hit": "census;digitalization of;remote sensing;remote-sensing",
+      "innovation_cues": "climate-smart;innovations",
+      "innovation_basis": "New process: digital extension services and farmers registry - cue: 'digital innovations'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    },
+    {
+      "row_id": "P180334-A2-E2",
+      "approach_id": "P180334-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 281,
+      "char_start": 45245,
+      "char_end": 45533,
+      "sentence": "This sub-component aims to improve the knowledge base for decision-making in the agri- food sector, including for policy makers, farmers, and agribusinesses, and to accelerate the use of digital innovations and tools in areas such as land use monitoring and agricultural extension system.",
+      "practice": "digitized MoA extension services and farmers registry",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "Digital core: digital extension and farmers registry | Not routine: replaces paper extension and registry | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital extension services and farmers registry | Innovative: replaces paper extension and registry | Category: Technological",
+      "keywords_hit": "census;digitalization of;remote sensing;remote-sensing",
+      "innovation_cues": "climate-smart;innovations",
+      "innovation_basis": "New process: digital extension services and farmers registry - cue: 'digital innovations'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    },
+    {
+      "row_id": "P180334-A3-E1",
+      "approach_id": "P180334-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U36",
+      "para_no": null,
+      "sentence_position": 292,
+      "char_start": 47271,
+      "char_end": 47444,
+      "sentence": "(b) the digitization of agri-food related certificates and licenses, including the establishment of (i) an SPS e-Certification system and integration into the ePHYTO system;",
+      "practice": "SPS e-Certification system integrated with ePHYTO",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: SPS e-Certification and ePHYTO | Not routine: replaces paper certificates and licenses | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPS e-Certification linked to ePHYTO | Innovative: replaces paper certificates and licenses | Category: Technological",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital SPS certification integrated with ePHYTO - cue: 'digitization'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    },
+    {
+      "row_id": "P180334-A3-E2",
+      "approach_id": "P180334-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P180334",
+      "doc_id": "099062323172035771",
+      "doc_type": "PID",
+      "doc_date": "2023-06-23",
+      "file_name": "P180334_PID_2023-06-23_099062323172035771.txt",
+      "unit_id": "U36",
+      "para_no": null,
+      "sentence_position": 293,
+      "char_start": 47445,
+      "char_end": 47546,
+      "sentence": "(ii) the registration and administration system for food business operators including food exporters;",
+      "practice": "SPS e-Certification system integrated with ePHYTO",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: SPS e-Certification and ePHYTO | Not routine: replaces paper certificates and licenses | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPS e-Certification linked to ePHYTO | Innovative: replaces paper certificates and licenses | Category: Technological",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital SPS certification integrated with ePHYTO - cue: 'digitization'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "2cffb6ec"
+    }
+  ],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 6,
+    "input_tokens": 3595,
+    "cached_tokens": 19072,
+    "cache_write_tokens": 0,
+    "output_tokens": 1414,
+    "seconds": 11.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0029
+  }
+}

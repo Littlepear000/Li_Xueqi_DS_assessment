@@ -1,0 +1,576 @@
+{
+  "project_id": "P504253",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "99c0db55",
+  "started_at": "2026-11-07T03:37:03Z",
+  "ended_at": "2026-11-07T03:37:22Z",
+  "input_fingerprint": "57695aec37e8a983",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 27,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P504253-A1",
+      "project_id": "P504253",
+      "name": "early warning and geospatial tools for climate-resilient roads",
+      "description": "The project builds early warning and real-time hazard monitoring systems and a geospatial tool with manual to map road network climate vulnerability and enable preventive maintenance. Practices: Early warning systems and real-time climate data for road maintenance; geospatial tool and manual for climate-resilient road adaptation.",
+      "why_innovative": "Real-time hazard monitoring feeding preventive maintenance and emergency protocols | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099022725161517501",
+        "doc_type": "PAD",
+        "doc_date": "2025-02-27",
+        "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+        "char_start": 95436,
+        "char_end": 95873,
+        "text": "(ii) Capacity building among the agencies and contractors, and preparedness planning (Component 2) will reduce the risk of climate impacts, involving comprehensive training and the development of early warning systems and real-time data for monitoring climate conditions and hazards (enabling preventive maintenance), 55 For example, road resilience requirements include removal of debris and elimination of weeds from drainage networks.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099022725161517501",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+          "char_start": 113528,
+          "char_end": 114720,
+          "text": "Dec/2032 0 3 Length of Safe and Resilient State road corridors under PBCs (Kilometers) Jun/2024 Dec/2032 0 1,262 ➢Length of safe and resilient State road corridors under CREMA - DBM (8 to 10 year contract with full rehabilitation) (Kilometers) Jun/2024 Dec/2032 0 1,034 Safe, sustainable and Resilient road asset management: Strategic Plan for Network Maintenance with implemented Maintenance Fund (Yes/No) Jun/2024 Dec/2032 no yes Safe, sustainable and Resilient road asset management: Geospatial Tool and Manual for Climate Resilience Adaptation Adopted (Yes/No) (Yes/No) Sep/2024 Dec/2030 no yes Requests included in the Grievance Redress Mechanism of the Project satisfactorily solved (Percentage) Jun/2024 Dec/2032 0 60 Physical progress of the length of urbanized areas along the selected municipalities with pedestrian, cycling and drainage infrastructure implemented and improved (Kilometers) Jun/2024 Dec/2030 0` 12 ➢Length of urban areas along the selected State roads with pedestrian infrastructure implemented and improved (Kilometers) Jun/2024 Dec/2032 0 12 ➢Length of urbanized areas along the selected logistical state road corridors with cycling infrastructure implemented and",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099022725161517501",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+          "char_start": 124752,
+          "char_end": 125882,
+          "text": "Frequency Each semester Data source SIE-SC Methodology for Plan developed (Y/N) Data Collection Responsibility for SIE-SC Data Collection Safe, sustainable and Resilient road asset management: Geospatial Tool and Manual for Climate Resilience Adaptation Adopted (Yes/No) Description Tool developed for improving climate vulnerability knowledge of the State Network Frequency Each semester Data source SIE-SC Methodology for Tool developed (Y/N) Data Collection Responsibility for SIE-SC Data Collection Safe, sustainable and Resilient road asset management: Lead Road Agency established and operational (Yes/No) Description This indicator will track the establishment of a Lead Road Agency in the State Frequency Each semester Data source SIE-SC Methodology for Agency implemented and operational (Y/N) Data Collection Responsibility for SIE-SC Page 29 The World Bank Brazil Proactive, Inclusive, Safe, and Resilient Road Asset Management Program - Phase 3 - Santa Catarina (P504253) Data Collection Social inclusion and gender: Women engineers trained and certified in medium- and high-skilled jobs in road construction (number).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: real-time data and warning systems are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Urban Transport",
+        "code": "",
+        "confidence": null,
+        "rationale": "Early warning and monitoring systems directly support road maintenance operations, the project's dominant transport focus.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P506142",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicated_by",
+          "evidence": "nt inter alia, studies, TA, training and the acquisition of tools to better understand and mitigate the potential effect of climate change on roads; (iii) road safety, including, inter alia, a diagnostic of 41 Linked to the Santa Catarina Rural Development Project for Sustainability and Innovation (P506142) main areas of interests – strengthening synergies among the two projects. 42 Including manu"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: early warning and real-time hazard data | New: preventive maintenance triggered by monitoring | Category: technological monitoring system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Real-time hazard monitoring feeding preventive maintenance and emergency protocols",
+      "innovation_cues": [
+        "PPP",
+        "early-warning",
+        "grievance-redress",
+        "nature-based",
+        "private-capital"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P504253",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "guid": "099022725161517501",
+      "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:37:03Z",
+      "ended_at": "2026-11-07T03:37:04Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:37:04Z",
+      "ended_at": "2026-11-07T03:37:04Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-02-27, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:37:04Z",
+      "ended_at": "2026-11-07T03:37:05Z",
+      "status": "ok",
+      "note": "27 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 27,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 9,
+          "results_based_management": 3,
+          "enabling_processes": 3,
+          "innovation_cycle": 5,
+          "innovation": 5,
+          "public_good": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:37:05Z",
+      "ended_at": "2026-11-07T03:37:05Z",
+      "status": "ok",
+      "note": "PAD 2025-02-27 (P504253_PAD_2025-02-27_099022725161517501.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P504253",
+            "doc_type": "PAD",
+            "doc_date": "2025-02-27",
+            "guid": "099022725161517501",
+            "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:37:05Z",
+      "ended_at": "2026-11-07T03:37:05Z",
+      "status": "ok",
+      "note": "84 reading units (34 numbered paragraphs) from 743 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 84
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:37:05Z",
+      "ended_at": "2026-11-07T03:37:06Z",
+      "status": "ok",
+      "note": "34 of 84 units carry a digital / AI cue (22 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 34,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 22
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:37:06Z",
+      "ended_at": "2026-11-07T03:37:11Z",
+      "status": "ok",
+      "note": "6 candidate practices from 34 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 127801,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 825,
+          "cached_tokens": 26368,
+          "cache_write_tokens": 0,
+          "output_tokens": 1414,
+          "seconds": 10.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0021
+        },
+        "extracted": 6
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:37:11Z",
+      "ended_at": "2026-11-07T03:37:17Z",
+      "status": "ok",
+      "note": "4 accepted, 2 rejected (not_digital 2); 3 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 61860,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7086,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 618,
+          "seconds": 5.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0029
+        },
+        "accepted": 4,
+        "rejected": 2,
+        "expanded": 3,
+        "reject_codes": {
+          "not_digital": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:17Z",
+      "ended_at": "2026-11-07T03:37:19Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1420,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 320,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 151,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:19Z",
+      "ended_at": "2026-11-07T03:37:20Z",
+      "status": "ok",
+      "note": "4 approaches -> 2 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1454,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 333,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 64,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 2,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:20Z",
+      "ended_at": "2026-11-07T03:37:22Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5745,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 796,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 142,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:22Z",
+      "ended_at": "2026-11-07T03:37:22Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 3 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:22Z",
+      "ended_at": "2026-11-07T03:37:22Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P506142",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicated_by",
+            "evidence": "nt inter alia, studies, TA, training and the acquisition of tools to better understand and mitigate the potential effect of climate change on roads; (iii) road safety, including, inter alia, a diagnostic of 41 Linked to the Santa Catarina Rural Development Project for Sustainability and Innovation (P506142) main areas of interests – strengthening synergies among the two projects. 42 Including manu"
+          }
+        ],
+        "store_size": 242
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P504253-A1-E1",
+      "approach_id": "P504253-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P504253",
+      "doc_id": "099022725161517501",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+      "unit_id": "U63",
+      "para_no": 46,
+      "sentence_position": 586,
+      "char_start": 95436,
+      "char_end": 95873,
+      "sentence": "(ii) Capacity building among the agencies and contractors, and preparedness planning (Component 2) will reduce the risk of climate impacts, involving comprehensive training and the development of early warning systems and real-time data for monitoring climate conditions and hazards (enabling preventive maintenance), 55 For example, road resilience requirements include removal of debris and elimination of weeds from drainage networks.",
+      "practice": "Early warning systems and real-time climate data for road maintenance",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: early warning and real-time climate data | Not routine: enables preventive maintenance | Adoption: 'development of early warning systems'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: early warning and real-time hazard data | New: preventive maintenance triggered by monitoring | Category: technological monitoring system",
+      "keywords_hit": "early warning;early warning system",
+      "innovation_cues": "early-warning;nature-based",
+      "innovation_basis": "Real-time hazard monitoring feeding preventive maintenance and emergency protocols",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "99c0db55"
+    },
+    {
+      "row_id": "P504253-A1-E2",
+      "approach_id": "P504253-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P504253",
+      "doc_id": "099022725161517501",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+      "unit_id": "U73",
+      "para_no": null,
+      "sentence_position": 699,
+      "char_start": 113528,
+      "char_end": 114720,
+      "sentence": "Dec/2032 0 3 Length of Safe and Resilient State road corridors under PBCs (Kilometers) Jun/2024 Dec/2032 0 1,262 ➢Length of safe and resilient State road corridors under CREMA - DBM (8 to 10 year contract with full rehabilitation) (Kilometers) Jun/2024 Dec/2032 0 1,034 Safe, sustainable and Resilient road asset management: Strategic Plan for Network Maintenance with implemented Maintenance Fund (Yes/No) Jun/2024 Dec/2032 no yes Safe, sustainable and Resilient road asset management: Geospatial Tool and Manual for Climate Resilience Adaptation Adopted (Yes/No) (Yes/No) Sep/2024 Dec/2030 no yes Requests included in the Grievance Redress Mechanism of the Project satisfactorily solved (Percentage) Jun/2024 Dec/2032 0 60 Physical progress of the length of urbanized areas along the selected municipalities with pedestrian, cycling and drainage infrastructure implemented and improved (Kilometers) Jun/2024 Dec/2030 0` 12 ➢Length of urban areas along the selected State roads with pedestrian infrastructure implemented and improved (Kilometers) Jun/2024 Dec/2032 0 12 ➢Length of urbanized areas along the selected logistical state road corridors with cycling infrastructure implemented and",
+      "practice": "geospatial tool and manual for climate-resilient road adaptation",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: geospatial climate-vulnerability mapping tool | Not routine: network-wide climate risk tool | Adoption: 'Adopted (Yes/No)'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial climate-vulnerability tool | Innovative: network-wide climate risk mapping | Category: new technology tool",
+      "keywords_hit": "geospatial",
+      "innovation_cues": "PPP;grievance-redress;private-capital",
+      "innovation_basis": "New product: geospatial climate-vulnerability tool for road network - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "99c0db55"
+    },
+    {
+      "row_id": "P504253-A1-E3",
+      "approach_id": "P504253-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P504253",
+      "doc_id": "099022725161517501",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P504253_PAD_2025-02-27_099022725161517501.txt",
+      "unit_id": "U79",
+      "para_no": null,
+      "sentence_position": 724,
+      "char_start": 124752,
+      "char_end": 125882,
+      "sentence": "Frequency Each semester Data source SIE-SC Methodology for Plan developed (Y/N) Data Collection Responsibility for SIE-SC Data Collection Safe, sustainable and Resilient road asset management: Geospatial Tool and Manual for Climate Resilience Adaptation Adopted (Yes/No) Description Tool developed for improving climate vulnerability knowledge of the State Network Frequency Each semester Data source SIE-SC Methodology for Tool developed (Y/N) Data Collection Responsibility for SIE-SC Data Collection Safe, sustainable and Resilient road asset management: Lead Road Agency established and operational (Yes/No) Description This indicator will track the establishment of a Lead Road Agency in the State Frequency Each semester Data source SIE-SC Methodology for Agency implemented and operational (Y/N) Data Collection Responsibility for SIE-SC Page 29 The World Bank Brazil Proactive, Inclusive, Safe, and Resilient Road Asset Management Program - Phase 3 - Santa Catarina (P504253) Data Collection Social inclusion and gender: Women engineers trained and certified in medium- and high-skilled jobs in road construction (number).",
+      "practice": "geospatial tool and manual for climate-resilient road adaptation",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: geospatial climate-vulnerability tool | Not routine: network-wide climate risk tool | Adoption: 'Tool developed'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial climate-vulnerability tool | Innovative: network-wide climate risk mapping | Category: new technology tool",
+      "keywords_hit": "data collection;geospatial;methodolog",
+      "innovation_cues": "PPP",
+      "innovation_basis": "New product: geospatial climate-vulnerability tool for roads - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "99c0db55"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099022725161517501",
+      "doc_type": "PAD",
+      "position": 701,
+      "char_start": 115915,
+      "char_end": 117105,
+      "sentence": "infrastructure in the selected municipalities (Percentage) Jun/2024 Dec/2032 0 65 ➢Level of satisfaction with the interventions in the selected municipalities of women (Percentage) Jun/2024 Dec/2032 0 65 Social inclusion and gender: Women engineers trained and certified in medium and high skilled jobs in road construction (Number) Jun/2024 Dec/2030 0 20 Green Mobility and Logistics: Sustainable mobility studies for Greater Florianópolis area under implementation (Yes/No) Jun/2024 Dec/2030 no yes Implementation of data-based planning and programming to identify and intervene is areas of trafficking of minors and sexual exploitation and abuse along state roads part of the project (Yes/No) Jan/2025 Dec/2032 No Yes Page 25 The World Bank Brazil Proactive, Inclusive, Safe, and Resilient Road Asset Management Program - Phase 3 - Santa Catarina(P504253) Proactive safe and resilient road asset management based on long-term (8–25 years) CREMA Total value of Private Capital Enabling for additional PPPs (Amount(USD)) Jun/2024 Dec/2032 0 100,000,000 Institutional strengthening Safe, sustainable and Resilient road asset management: Lead Road Agency established and operational (Yes/No)",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "data-based planning to map minor-trafficking and SEA risk areas",
+      "reason": "reject: Yes/No indicator for police data-based planning; no named digital system built",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: data-driven mapping of exploitation hotspots - cue: 'programming'",
+      "innovation_cues": "PPP;private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Indicator name only; unclear what data system or method the data-based planning actually uses",
+          "reject_code": "",
+          "context_chars": 2384
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Yes/No indicator for police data-based planning; no named digital system built",
+          "reject_code": "not_digital",
+          "context_chars": 4996
+        }
+      ]
+    },
+    {
+      "guid": "099022725161517501",
+      "doc_type": "PAD",
+      "position": 730,
+      "char_start": 127067,
+      "char_end": 127566,
+      "sentence": "Data Collection Responsibility for SIE-SC Data Collection Implementation of data-based planning and programming to identify and intervene is areas of trafficking of minors and sexual exploitation and abuse along state roads part of the project (Yes/No) This indicator will track whether the data-based planning and programming to identify and intervene is areas of Description trafficking of minors and sexual exploitation and abuse along state roads part of the project has been implemented or not.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "data-based planning to map minor-trafficking and SEA risk areas",
+      "reason": "reject: M&E indicator tracking police planning; no digital tool or dataset specified",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: data-driven mapping of exploitation hotspots - cue: 'programming'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Indicator description only; unclear what data-based planning system or method is used",
+          "reject_code": "",
+          "context_chars": 1683
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "M&E indicator tracking police planning; no digital tool or dataset specified",
+          "reject_code": "not_digital",
+          "context_chars": 3259
+        }
+      ]
+    },
+    {
+      "guid": "099022725161517501",
+      "doc_type": "PAD",
+      "position": 443,
+      "char_start": 74640,
+      "char_end": 74768,
+      "sentence": "The MEL is organized as a platform of knowledge that favors innovation and exchanges between the different participating states.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "MEL knowledge platform for inter-state road innovation exchange",
+      "reason": "reject: final check round 1: digital: incidental - Digital: MEL knowledge platform/database supports exchange but approach is professional network and knowledge docs | Before 2019: WBG/ADB knowledge platforms and communities of practice common by 2010s",
+      "reject_code": "not_digital",
+      "innovation_basis": "Digital knowledge database and professional network platform sharing CREMA guidelines, manuals and ToRs across participating states",
+      "innovation_cues": "PPP;adaptive;cutting-edge;innovation;pilots",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: MEL knowledge database/platform | Innovative: multi-state professional network for road management | Category: multi-actor knowledge exchange",
+          "reject_code": "",
+          "context_chars": 2444
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: MEL knowledge platform/database supports exchange but approach is professional network and knowledge docs | Before 2019: WBG/ADB knowledge platforms and communities of practice common by 2010s",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 9360,
+    "cached_tokens": 32256,
+    "cache_write_tokens": 0,
+    "output_tokens": 2389,
+    "seconds": 21.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0059
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "v4.0",
+    "hash": "8bf7fe8f5020",
+    "date": "2026-11-06",
+    "note": "4 categories x sector x theme - first tagged state (same code as the output_v4 runs)",
+    "package_version": "0.2.0",
+    "aliases": [
+      "2ac8a7d97b69"
+    ]
+  }
+]

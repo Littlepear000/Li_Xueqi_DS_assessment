@@ -1,0 +1,447 @@
+﻿        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+
+
+                       Project Information Document (PID)
+
+                      Concept Stage | Date Prepared/Updated: 04-Jun-2019 | Report No: PIDC26676
+
+
+
+
+May 06, 2019                                                                                      Page 1 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Peru                                           P170658                                                 CENTRALIZED
+                                                                                                         EMERGENCY RESPONSE
+                                                                                                         SYSTEM IN PERU
+                                                                                                         (P170658)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  LATIN AMERICA AND                              Jul 22, 2019               Sep 05, 2019                 Digital Development
+  CARIBBEAN
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Ministry of Economy and    Programa Nacional de
+                                                 Finance                    Telecomunicaciones
+                                                                            (PRONATEL)
+
+   Proposed Development Objective(s)
+
+    The proposed project development objective is to increase response efficiency in case of emergencies, and increase
+    coordination between emergency response units in Metropolitan Lima and Callao
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                    55.00
+
+   Total Financing                                                                                                      55.00
+                             of which IBRD/IDA                                                                          44.00
+
+   Financing Gap                                                                                                          0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                       44.00
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                                11.00
+          Borrower/Recipient                                                                                             11.00
+
+
+May 06, 2019                                                                                                         Page 2 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+
+
+  Environmental and Social Risk Classification                       Concept Review Decision
+  Moderate                                                           Track II-The review did authorize the preparation to
+                                                                     continue
+
+
+
+  Other Decision (as needed)
+
+
+
+  B. Introduction and Context
+
+  Country Context
+
+ 1.      Peru is an upper middle-income country (MIC) with remarkable economic growth over the last decade.
+ Economic growth accelerated to 4.0 percent in 2018, from 2.5 percent in 2017, supported by: (i) the return of investors'
+ confidence, reflected in stronger general investment activity; (ii) an increase in export prices, such as copper, reactivating
+ investment initiatives, particularly in the mining sector; and, (iii) a recovery in public investment. However, after a long
+ and positive trend in poverty reduction, for the first time this century, Peru’s national poverty rate increased in 2017. The
+ national poverty rate increased from 20.7 percent in 2016 to 21.7 percent in 2017, while the extreme poverty rate
+ stagnated. This reversal took place in the context of a deceleration of growth in overall and private consumption in 2017.
+ As the economy recovers, the poverty rate is expected to fall again between 2018 and 2020. Projections based on the
+ upper middle-income country poverty line of $5.5 per day (2011 Purchasing Power Parity) show that the poverty rate is
+ expected to fall by about 1.5 percentage points between 2018 and 2020.
+
+ 2. Peru’s geography, natural endowments, and diverse population have shaped its unbalanced economic
+ development and service delivery. The country’s plentiful natural and human endowments shaped its economic
+ development based on capital-intensive growth that resulted in spatially unbalanced outcomes for the population. The
+ population in Metropolitan Lima and Callao reached 10,479,899 in 2017, accounting for one third of the total population
+ of the country. The cost of service delivery and connectivity in the vast Sierra and Selva regions is high, which has
+ concentrated economic activity in the Costa region, especially in the area of Lima, the country’s capital.
+
+ 3.       According to the figures of the Ministry of Interior, between 2011 and 2017 crimes increased by 8.91% at the
+ national level. In the case of the districts of Metropolitan Lima and Callao, the number of crimes increased by 6.07% and
+ 3.58% annually respectively during the same period. Likewise, the cases of emergencies registered by the Firefighter
+ department of Peru have increased by 2.68%, between 2012 and 2018. In 2018, the main emergencies attended where
+ the following: medical emergencies (52.68%), traffic accidents (13.39%) and fires (11.25%). According to national surveys
+ that correspond to the January-June 2018 semester, 85.3% of the population of the urban area perceive that in the next
+ twelve months they may be victims of criminal offenses that may threaten their safety.
+
+ 4.      Gender based violence (GBV) in Peru is one of the highest in Latin America and is present in all regions and
+ across all socioeconomic strata. Two out of three women in Peru experience intimate partner violence (IPV), however
+
+
+May 06, 2019                                                                                                         Page 3 of 10
+           The World Bank
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+ only 29% seeks help from an institution, typically the police. Women with higher incomes and education than their
+ partners are more at risk to experience violence in the domestic realm. Women who live in neighborhoods with high
+ levels of violence and criminality are at a higher risk of violence by their partners. GBV rates are high everywhere, however,
+ they are higher in the Andean regions. Moreover, there is high acceptance of GBV in society: 40% believe that it is justified
+ if a wife is unfaithful to their partner or if she disregards her children.
+
+
+
+
+                                          Figure 1: Gender Based Violence by Region in Peru
+
+
+
+
+                    Source: ENDES
+
+ 5. Indigenous and Afro-Peruvians, who make up around 45% and 3%, respectively, face further disadvantages in living
+ conditions. Of the total indigenous population, around 16% speak a language other than Spanish as their native language.
+ Peru’s indigenous population is disadvantaged in terms of poverty and access to services. Furthermore, a historically low
+ presence of the State in isolated regions has fueled a lack of trust in the State that is still visible in the generally low
+ compliance with rules and regulations.
+
+
+     Sectoral and Institutional Context
+
+ 6.      The average response time of an emergency by first response units is 45 minutes.1 There are three main entities
+ in Peru with competencies to respond in case of an emergency, (i) the National Police Department (PNP), (ii) Sistema de
+ Atención Móvil de Urgencia (Samu-health care provider), and (iii) the Fire Department. Each agency has a different
+ assistance telephone number and targets a different population, which creates confusion among the citizens regarding
+ the identification of the most suitable number in the event of an emergency and reduces the efficiency of coordination
+
+ 1
+     Information provided by the Ministry of Transport and Communications
+
+May 06, 2019                                                                                                         Page 4 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+ between entities when an emergency requires action from two or more of them. The National Police Department counts
+ with an average of 50 operators, there are normally 25 operators on each shift. As regards the Samu, they have 4 operators
+ and the Fire department has 10 volunteer operators. The emergency response numbers that will be compiled into the
+ centralized number 911 are described in Annex I. The lack of coordination between the different response units and the
+ existence of different telephone numbers which causes confusion among citizens whenever there is an emergency, is one
+ of the main factors for high time response.
+
+ 7.       There is a lack of automated interconnection and interoperable communications system between all the
+ emergency response units leading to inefficiencies. Each emergency response unit uses a different information system
+ for collecting all the data needed in the case of an emergency. The lack of integration and nonexistence of interconnected
+ systems impacts emergency response effectiveness and results in an increased response time and poor coordination of
+ agencies at all levels. In this regard, the nonexistence of a centralized emergency system is hampering citizen security.
+
+ 8.       The National Police under the Ministry of Interior receives 90% of emergency calls and lacks the necessary
+ digital and physical infrastructure to attend emergencies more efficiently. In this regard, there is not an interoperable
+ communications system between first response units; input of data to attend an emergency is frequently duplicated by
+ the different agents that attend emergencies and the DataCenter employed to monitor emergency operations is outdated
+ and unreliable. Furthermore, 94% of the calls are malicious calls2 .
+
+ 9.      Other first response units, such as Samu and the firefighter department also lack the adequate infrastructure
+ to connect with the National Police whenever the mobilization of their resources is essential. Current means of
+ communication between first response units include radios and internal telephone calls which result in the need to
+ duplicate information regarding the emergency situation and replicating efforts to target the emergency which results in
+ delayed attention and service response planning since the collection of information and connection between the units is
+ not currently interoperable.
+
+ 10.     Although there is a law that regulates malicious calls to emergency response numbers, there is a lack of an
+ enforcement framework and registry mechanisms for this type of calls. Of the data from the different emergency
+ response units, 94% of the calls are malicious or non-emergency calls, which include disturbing, silent and repeated calls.
+ The lack of a regulatory framework establishing enforcement and registry mechanisms for malicious calls, nor public
+ awareness campaigns for the citizens to understand the use and value of the emergency response numbers, hinders the
+ effectiveness of the service and consequently leads to the incapacity of attending real emergencies.
+
+ 11.      In addition, the regulatory framework in Peru does not allow for real-time and immediate localization of the
+ calls received whenever there is an emergency. In the event of an emergency when calling to any of the telephone
+ numbers described in table 1, the operator needs to request the user’s location and manually introduce the address or
+ approximate location where the emergency is happening, leading to inaccuracies and adding to the time of the response.
+ Moreover, in some of the emergency response centers this information is entered manually two or three times.
+
+ 12.     The Government’s National Plan for the 2016-20213 period focuses on four strategic areas: i) Jobs, formalization
+ and Economic Growth; ii) Public Security and the Fight Against Corruption; iii) Opportunities and Social Investment; iv)
+ Bringing the State Closer to the Citizen. Several of these areas entail an improvement of the justice system.
+
+
+ 2
+   Malicious calls are defined in the present Concept Note as the calls received by the first response emergency units which are not
+ considered real emergencies. It includes disturbing, false, mistaken, silent, repeated calls and calls requesting information.
+ 3
+   Plan de Gobierno 2016-2021. http://www.presidencia.gob.pe/plan-de-gobierno
+
+May 06, 2019                                                                                                                 Page 5 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+ 13.     The second strategic area on Public Security aims to provide better public services, including the adoption of an
+ emergency system to increase its efficiency, expand access, and promote transparency, integrity and accountability. The
+ current limitations in access to quality of basic public services across and within Peru’s regions deprive the population of
+ the opportunity they need to continue to improve their livelihoods, thus slowing progress towards Peru’s shared-
+ prosperity goals.
+ 14.     The fourth strategic area, Bringing the State closer to the Citizen, is focused on modernizing public institutions
+ at the national and subnational levels, with a view of simplifying administrative processes and offering tailored public
+ services that match citizens’ needs through the reengineering of processes to increase speed and access to services.
+ Central to this effort, the Government plans to improve the efficiency in emergency events through the creation of a single
+ telephone number to address all emergency situations. Overall, the creation of a centralized emergency response system
+ would play an important role in achieving the strategic objectives set out in the current administration’s agenda, which
+ include offering better public services and security to citizens, crime prevention and control, modernization of
+ government, and improving the overall efficiency of services.
+
+ 15.      Peru is also highly vulnerable to multiple natural hazards that impact its development, especially its efforts to
+ reduce poverty and promote inclusive growth. Since 2007, the Government has implemented important actions to
+ improve disaster risk management (DRM) supported by the WB with two CAT-DDO operations. The poor are highly
+ vulnerable to climate change directly (e.g., floods, landslides) and indirectly (e.g., through the impact that global warming
+ has on water availability, and on crops and associated jobs). The creation of the centralized emergency response system
+ will also foster inclusiveness and equal access to services, in any condition but more specifically in the event of a disaster
+ or emergency. Peru has been very proactive in developing its disaster risk reduction policies and procedures considering
+ it is located in one of the most active seismic zones of the world. In 2011, a new law on disaster risk management
+ established a comprehensive National Disaster Risk Management System (Sistema Nacional de Gestión del Riesgo de
+ Desastres, SINAGERD). The objective of the Peru Disaster Risk Financing Project (P155564) was to reduce the financial
+ vulnerability of the Government of Peru to natural disasters by improving its financial response capacity in the aftermath
+ of natural disasters while protecting its long term fiscal balance. The purpose of the proposed project was to increase the
+ capacity of the public and private stakeholders in the financial protection of the state against natural disasters in order to
+ meet post-disaster funding needs without compromising fiscal balances and development objectives.
+
+ 16.     In this context, it is crucial for Peru to continue to strengthen the management and response to emergency
+ situations, which has led to the Ministry of Transport and Communication developing a plan to promote the
+ development of a more efficient and faster response to emergencies. To build on this strength, the World Bank Group
+ is committed to provide Peru with integrated solutions, combining both global knowledge and smart financing—all
+ designed against the backdrop of the country’s need to increase the efficiency and effectiveness of emergency response.
+
+ 17.      With the Government of Peru’s plans to develop a centralized emergency system, greater integration and
+ connectivity of platforms should be implemented to achieve a more efficient response to emergencies. Peru needs to
+ improve the network infrastructure and connectivity between all relevant actors to help unlock the potential to develop
+ a quality integrated emergency service.
+
+ 18.      In this regard, scarcely interconnected ICT infrastructure and limited usage of Information and Communications
+ Technologies (ICT) are hampering public safety and adequate emergency response in the region. Overcoming the lack
+ of an integrated centralized emergency response system constitutes an important step to promote economic growth and
+ well-being of the population.
+
+
+
+
+May 06, 2019                                                                                                         Page 6 of 10
+          The World Bank
+          CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+ 19.     International experience shows that without an adequate emergency response system with an appropriate
+ interconnection and interoperability between all players, the level and effectiveness of response to an emergency is
+ constrained, resulting in incompetent and inefficient results. Therefore, it is essential to leverage existing resources and
+ implement new components (such as necessary infrastructure, software, hardware, and network linkages) in order to
+ provide a more effective emergency service.
+
+
+  C. Proposed Development Objective(s)
+
+ 20.     The proposed project development objective is to increase response efficiency in case of emergencies to the
+ population, and increase coordination between emergency response units in Metropolitan Lima and Callao.
+
+  Key Results (From PCN)
+
+ 21.     The Project will enhance the capacity to effectively prepare for, respond to, and dispatch emergency events in
+ the Metropolitan Lima and Callao, including the ability to reduce the number of malicious calls. The key indicators for
+ tracking progress towards the project objectives are as follows: The creation of the Centralized Emergency Response
+ System will enable the following:
+
+         a)       reduction of the rates of malicious calls by maximizing the functionalities of new networks and multimedia
+         access devices, allowing to optimize the process of attention, dispatch and monitoring of emergency calls to the
+         population
+         b)       reducing emergency response times through the creation of the Centralized Emergency Response System,
+         c)       improving coordination between responding units by increasing the number of coordinated actions
+         carried out by the emergency response units and the centralized emergency response Center,
+         d)       improving perception of security and emergency responsiveness within the population
+         e)       strengthening the institutional capacities of emergency response service providers (including, but not
+         limited to digital skills, emergency response skills, psychosocial and indigenous languages skills), and
+ increasing public awareness within the population with regards to the use of the emergency response service (911).
+
+  D. Concept Description
+
+ 22.      The duration of the Project will be four (4) years. This Project will ensure that the population of the districts of
+ Metropolitan Lima and Callao receive appropriate attention in the event of emergencies through the integration of all the
+ existing emergency numbers into a unique number, where the calls will be monitored and dispatched at a centralized
+ emergency response Center and referred to the corresponding emergency response units.
+
+ 23.      The proposed project would serve to improve the critical capacity and infrastructure for emergency planning and
+ response through the implementation of a single number for emergency calls and a dedicated line for GBV cases, which
+ will allow the population to access the centralized emergency response Center more quickly and will consequently
+ increase the efficiency on the provision of the emergency service while reducing the time of response.
+
+ 24.   The project will finance the activities described in the Profile Study shared by PRONATEL which is divided in 12
+ modules. The proposed operation consists of four components:
+
+      -    Component 1: Enabling environment (Estimated cost: USD5,000,000).
+
+
+May 06, 2019                                                                                                        Page 7 of 10
+          The World Bank
+          CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+           This component will support the Ministry of Transport and Communications in designing and implementing the
+           institutional, regulatory, and procedural improvements needed for the correct functioning of a centralized
+           emergency response platform
+
+      -    Component 2: Building infrastructure to control and support the emergency response system and appropriate
+           routing (Estimated cost: USD15,000,000)
+           The construction of the centralized emergency response center where the emergency calls will be attended,
+           processed and dispatched as well as the necessary infrastructure needed to attend the emergency will be
+           financed under the present component.
+
+      -    Component 3: Digital Infrastructure for the centralized emergency response platform (Estimated cost:
+           USD30,000,000).
+           Hardware, software and equipment required for the implementation of the 911 Centralized Emergency
+           Response Platform.
+
+      -    Component 4: Extension and Interconnection of Emergency Services to Gender-based Violence Hotline
+           (Estimated cost: USD5,000,000)
+           This component seeks to provide an easy to access “port of entry�? for victims of GBV.
+
+
+  Legal Operational Policies                                                           Triggered?
+  Projects on International Waterways OP 7.50                                          No
+  Projects in Disputed Areas OP 7.60                                                   No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+
+  Environmental risks related to capacity for implementation are considered Moderate. The environmental proposed risk
+  classification for this project ise ER Program is Moderate under the World Bank ESF. The 911 building will be constructed
+  in Chorrillos, a district where there is no potential risk of affecting environmentally sensitive areas, indigenous
+  communities nor human settlements. Classification responds to potential environmental risks and impacts stemming
+  from the construction of the 911 building under Component 2, which are not likely to be significant. These: (i) are
+  predictable and expected to be temporary and/or reversible; (ii) are low in magnitude; (iii) are site-specific, without
+  likelihood of impacts beyond the actual footprint of the infrastructure; (iv) occur in an urban area, away from
+  environmentally sensitive areas, and thus no impacts are expected over natural or critical natural habitats; (v) are not
+  expected to cause serious adverse effects to the environment; and (vi) can be easily mitigated in a predictable manner.
+  Based on the review of available documentation, and discussions with PRONATEL, key anticipated environmental risks
+  and impacts are related to noise, dust, traffic congestion and waste management, community health and safety, (third
+  party accidents), or inadvertent impacts on cultural heritage.
+
+  The Project is expected to have positive social impacts on vulnerable populations, as its main objectives are intended to
+  improve access to emergency response services, (via “911�? emergency line or “100�? GBV hotline). Evidence identifies
+  that people living in poorer neighborhoods with higher criminal rates are more likely to experience some form of
+  violence. Social risks associated to this operation are considered low. The project provides a unique opportunity to
+  strengthened emergency response services in the country and develop communications, advocacy and citizen
+
+May 06, 2019                                                                                                      Page 8 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+  engagement initiatives, including support for the integration of the “100�? gender-based violence hot line. In order to
+  adequately assess key risks and opportunities, The social safeguards team recommends carrying out a stand-alone social
+  assessment will be carried out to inform the design of the project, (ESS1 – Environmental and Social Assessment).
+  Aspects that will be assessed include regarding: (i) citizen experiences using emergency services in the country, including
+  a specific section on GBV, (ii) operators’ perceptions about the services provided, including training and working
+  conditions, (iii) frequency of use of indigenous native languages in the delivery of emergency services, and (iv) existing
+  advocacy and citizen engagement practices in the country, identifying the most successful. The assessment for GBV
+  victims should take stock of scope demand for psychosocial support services and the handling of cases from indigenous
+  communities. The social safeguards team recommends that special attention is given to strengthen phyco-social and
+  languages training of operators to manage and process emergency calls, including handling calls in native indigenous
+  communities. In addition, interinstitutional coordination and arrangements will be needed, particularly for the “100�?
+  Line, including referral services to other assistance services. As part of the Environmental and Social Framework (ESF),
+  ESS 10, a Stakeholder Engagement Plan will be needed developed and will including different government institution, 51
+  municipalities in Lima and Callao and different advocacy groups in the country. Further to ESS1 and ESS10, ESS2 – Labor
+  and Working Conditions, ESS4 – Community Health and Safety, and ESS7 - ESS7 Indigenous Peoples/Sub-Saharan African
+  Historically Underserved Traditional Local Communities will apply (further details in ESRS).
+
+ Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document.
+
+
+
+  CONTACT POINT
+
+
+  World Bank
+  Rocio Sanchez Vigueras
+  Digital Development Specialist
+
+
+  Borrower/Client/Recipient
+  Ministry of Economy and Finance
+  Sheila Joana Miranda Leo
+  General Director Public Investment
+  smiranda@mef.gob.pe
+
+  Implementing Agencies
+
+  Programa Nacional de Telecomunicaciones (PRONATEL)
+  Raul Marco Garcia Loli
+  Executive Director
+  rgarcial@mtc.gob.pe
+
+
+
+
+May 06, 2019                                                                                                       Page 9 of 10
+        The World Bank
+        CENTRALIZED EMERGENCY RESPONSE SYSTEM IN PERU (P170658)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                 Rocio Sanchez Vigueras
+
+ Approved By
+ APPROVALTBL
+  Practice Manager/Manager:
+
+  Country Director:
+
+
+
+
+May 06, 2019                                                      Page 10 of 10
+

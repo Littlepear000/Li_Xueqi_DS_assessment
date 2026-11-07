@@ -1,0 +1,551 @@
+﻿       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+
+
+   Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+
+
+
+                       Project Information Document/
+                 Integrated Safeguards Data Sheet (PID/ISDS)
+
+                       Concept Stage | Date Prepared/Updated: 02-Nov-2017 | Report No: PIDISDSC21926
+
+
+
+
+Jun 05, 2017                                                                                                      Page 1 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                        Project ID                      Parent Project ID (if any)    Project Name
+  Benin                          P162599                                                       Benin Digital Solutions
+                                                                                               for Sustainable
+                                                                                               Development
+                                                                                               (P162599)
+  Region                         Estimated Appraisal Date        Estimated Board Date          Practice Area (Lead)
+  AFRICA                         Dec 11, 2017                    Feb 12, 2018                  Transport & ICT
+
+  Financing Instrument           Borrower(s)                     Implementing Agency
+  Investment Project Financing   Republic of Benin               Ministère de l'Economie
+                                                                 Numérique et de la Poste
+
+   Proposed Development Objective(s)
+
+    To improve access to affordable broadband in rural communities and leverage e-services to improve supply-chain
+    efficiency and access to markets.
+
+  Financing (in USD Million)
+   Finance OLD
+   Financing Source                                                     Amount
+   FRANCE: French Agency for Development                                 26.60
+   International Development Association (IDA)                           30.00
+   Total Project Cost                                                    56.60
+  Environmental Assessment Category                             Concept Review Decision
+   B-Partial Assessment                                         Track II-The review did authorize the preparation to
+                                                                continue
+
+
+
+
+   Note to Task Teams: End of system generated content, document is editable from here.
+
+
+ Other Decision (as needed)
+
+
+
+
+Jun 05, 2017                                                                                                  Page 2 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+ B. Introduction and Context
+
+ Country Context
+  1. Benin is a low-income economy which has made significant progress economically and politically over the last 25
+     years – With a population of 10.9m, the Gross National Income per capita (Atlas method) was US$ 8,40 in 2015,
+     which is around half the Sub-Saharan Africa (SSA) regional average (US$ 1,637). 52% of its population lives in urban
+     areas, and the population and the economy are mostly concentrated on the southern parts of the country, near to
+     the sea and the biggest cities of Cotonou – the economic capital – and Porto-Novo – the political capital. Benin is
+     considered a low human development country and is 166th out of 188 countries considering its Human
+     Development Index. Economic growth, though slightly improving since 2011, has remained too low to achieve
+     meaningful poverty reduction and Benin has maintained its ranking as one of the least developed countries in the
+     world. The significant population growth rate during the past years and the low and non-inclusive pattern of
+     growth have hindered the country’s efforts to curb persistent poverty. Benin is unlikely to have met most of the
+     Millenium Development Goals (MDGs) by 2015, including targets on universal primary education, gender equality,
+     child mortality, maternal health and global partnership for development.
+  2. The economy of Benin remains dependent on subsistence agriculture, cotton production, and regional trade –
+     The country’s recent enhanced growth performance has been supported by the Port of Cotonou, a vital regional
+     trade hub. Benin also benefits from strong cotton and non-cotton agricultural production. However, agricultural
+     growth has been mostly driven by the expansion of cultivated land rather than by increased productivity. The low
+     productivity is mainly explained by: (i) credit constraints; and (ii) high degree of informality which often results in
+     low wages, limited job security and a high degree of economic uncertainty.
+  3. The widening urban/rural gap hinders the achievement of shared prosperity and poverty elimination – In 2015,
+     the poverty rate was estimated at 40% – up from 36% in 2011, with important disparities between urban areas
+     (36%) and rural areas (44%). Like many developing countries, Benin faces both challenges of reduction of poverty
+     and inequalities, among others between rural and urban communities. Rural communities are more vulnerable to
+     climate and environmental disasters. As illustration, in 2011 in the four departments which were the main victims
+     of 2010 floods (Couffo, Collines, Mono and Zou), there was an increase of the poverty rates between 2009 and
+     2011 to alarming levels, at least 5% above the national average of 36%. Moreover, rural population suffer from
+     inadequate infrastructures: only 15% of the rural population has access to electricity compared to 68% of the urban
+     population; 72% of the rural population has access to potable water compared to 85% for urban population.
+  4. Development progress in the country has been frustrated by governance issues – Benin has made significant
+     progress in consolidating its political transformation to a multiparty democracy since the 1990’s. Political
+     alternation has occurred without incident and the effective separation of powers has enabled both parliament and
+     the judiciary to act as a check on executive powers. However, recent corruption scandals have affected the
+     relationship between the country and the international community. In 2015, the Netherlands announced that it
+     would suspend its bilateral aid to Benin, after a previous audit showed that US$4.4m in funds for Benin's Water and
+     Sanitation Support Program had disappeared. A forensic audit jointly commissioned by Benin and the Netherlands
+     concluded that at least US$13.5 million in public funds have been misappropriated in recent years. To tackle the
+     issue, the European Commission announced in December 2016 that it will provide a package of financial support
+     worth US$ 200 million, with a first financing agreement consisting of a Good Governance and Development
+     Contract (GGDC) for US$ 125 million aimed at direct budgetary support over the next five years. The project also
+     intends to improve financial governance, fight corruption and strengthen legal protections for business
+     investments. This funding will provide an opportunity for the Government to deliver on its promise to institute
+     good governance initiatives and strengthen the judiciary.
+
+
+Jun 05, 2017                                                                                                      Page 3 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+  5. The government has launched new investment initiatives to boost growth – The government has started
+     discussions on a new IMF program and a deal is expected by end 2017; the authorities will likely focus on
+     strengthening public financial management and domestic revenue mobilization, for example through
+     comprehensive tax administration and customs management reforms. Furthermore, the authorities will focus on
+     large public investment projects aimed at strengthening the country's infrastructure. However, execution of these
+     projects may be hindered both by administrative constraints and by difficulties in securing enough financing to
+     match their ambitious program. The government will rely heavily on foreign donors and private investors to
+     support these investment plans. Yet bureaucratic inefficiencies and infrastructure gaps will remain a deterrent for
+     many investors. The difficulty in attracting private investors, coupled with limited fiscal space for public capital
+     spending, will slow down progress on infrastructure improvements. The government also plans to increase the
+     efficiency of public investment and state-owned enterprises, improve production capacity in the agriculture sector,
+     develop the tourism sector and ensure access to water and electricity. However, financial constraints, a fragmented
+     legislature and weak underlying administration capacities mean that progress on reforms and controversial
+     restructurings will continue to be sluggish.
+
+
+
+ Sectoral and Institutional Context
+
+ B.1 Rural economy and rural agriculture sectoral and institutional context
+
+  6. The economy of Benin is mainly based on agriculture, and regional trade supported by the Port of Cotonou, a
+     vital regional trade hub. Agriculture , which is the most important sector in term of contribution to national GDP
+     (36% of GDP) provides 70% of the country's employment, and 75 to 90% of official exports . Most of the farms are
+     very small to medium size family properties. Their number was estimated to about 550,000 in 2011, and their
+     average area at 1.7ha.
+  7. Agricultural growth is typically around 3% annually, often offset by the relatively high population growth (3
+     percent). Cotton is the primary export commodity with 44% of official exports in 2014 , followed by the fruits
+     (except nuts) which represent 19% of national export, or an equivalent of 43,705.8 million FCFA. Cotton production
+     and transformation have faced many challenges which undermine its profitability during the last years. They
+     represented 3.5% of national GDP between 2006 and 2011. Other agricultural related activities represented 32% of
+     the national GDP in 2011 of which 47.5% was due to food crop agriculture, 18.2% to food craft and 12.5% to animal
+     husbandry and hunting. According to IFAD , “artisanal fishing provides direct employment for 50,000 fishers and
+     20,000 wholesale fish merchants, mainly women, most of them operating in continental fishing. The subsector’s
+     contribution to GDP is estimated at 3%. Stagnating fish production is attributable to degraded ecosystems,
+     exacerbated by the widespread use of ill-advised techniques.�?
+  8. Rural economy, and especially rural agriculture, suffers from five gaps crippling economic productivity and
+     related to: (i) Enabling environment; (ii) Access to land; (iii) Access to finance; (iv) Skills and technology; (v)
+     Physical capital – Poor performance in agriculture undermines shared prosperity and poverty elimination, with five
+     major gaps hindering the development of the rural agriculture sector:
+     a. Gap #1: Lack of accurate data and enabling environment gap – The agriculture sector suffers from the absence
+        of a policy and certification norms and process. The Benin financial system is in general disinclined to take risks
+        by making loan to entrepreneurs. This hampers the investments and development of private sector in general,
+        and of agriculture in particular. The sector is also impacted by a high degree of informality which often results in
+        low wages, limited job security and a high degree of economic uncertainty. Stakeholders of the sector also
+
+
+Jun 05, 2017                                                                                                       Page 4 of 12
+          The World Bank
+          Benin Digital Solutions for Sustainable Development (P162599)
+
+
+            report a difficult access to relevant and accurate information. This manifests in: (i) A gap in the access to
+            knowledge, as most producers ignore how to master water, adapt to climate change effects, and produce good
+            quality inputs. The high level of illiteracy and the decrease of the number of agricultural counsellors impact the
+            ability of the farmer to learn and apply the best methods to increase production efficiently, safely and in
+            sustainable way. (ii) A gap in the access to information on goods, as stakeholders report an insufficient and
+            unreliable information flow on the availability of seeds, tools, crops, and other inputs and harvest, which leads
+            to massive loss of time, and money.
+     b.     Gap #2 – Access to land gap – There is a lot of tenure problems and land insecurity because of the coexistence
+            of two land law regimes: the traditional (more used) and the modern. This leads to many problems including the
+            non-respect of the environment, in particular the natural water beds for land acquisition, an increasing partition
+            of the lands preventing the development of big agriculture exploitations, and the hoarding of big superficies not
+            used. As a result, only a low proportion of less than 20% (2007) of agricultural area available are really
+            cultivated. A new land regime, the Plan foncier rural (PFR) was introduced in 2007 to solve this problem.
+            Besides, there is the diminution of the fertility of the lands because of the use of inadequate farming techniques.
+     c.     Gap #3 – Access to finance – Access to sources of finance are limited because there are important barriers to
+            access credits for the farmers. The lend requirements set by the finance institutions are so high that they cannot
+            been met by most of the farmers. In addition, the insecurity of land tenure increases these barriers, as the lands
+            can hardly been used as guarantees. Moreover, interest rates dictated by the finance institution for crop year
+            credits are exorbitant (24% for CLCAM for example). Specific insurance and retreat policies have recently been
+            introduced to reduce farmers’ vulnerability to environmental shocks, but they are reluctant to adopt them.
+     d.     Gap #4 – Skills and technology gap – There is also the problem of availability of good quality and adequate
+            agriculture inputs and fertilizers for cultures other than cotton. Because of difficult access to finance, investment
+            in production machinery is problematic for producers. In addition, the lightweight taxation texts on importation
+            of agriculture materials are not applied at the border, discouraging the investment in technology.
+     e.     Gap #5 – Physical capital gap – Farmers cannot sell their products easily due to a lack of adequate transport
+            infrastructure and market facilities. The bad states of roads and of transport infrastructure in general, especially
+            during the rain period, the lack of appropriate storerooms and markets are other major obstacles to the sale of
+            crops. In addition, due to the size of the country and of its population, the national market is relatively small.
+
+ B.2 Digital economy sectoral and institutional context
+
+  9. In Benin, the overall sector strategy and development falls under the responsibility of Ministry of Digital
+     Economy and Communication (Ministère de l’Economie Numérique et de la Communication MENC). As part of the
+     restructuration of the sector, a new body of law on electronic Communications and Post (No. 2014-14) was
+     adopted on 9 July 2014 and three major public players were born or consolidated during the last three years:
+     a. The Authority for Regulation of Electronic Communications and Post (ARCEP), an autonomous regulatory body,
+        became permanent on 9 October 2014.
+     b. The Beninese Agency of Universal Service of Electronic communications and Post (ABSU-CEP), in charge of
+        managing the universal service fund of electronic communication and post, fed by the operators, was
+        established on 30 December 2013.
+     c. The Beninese Agency of ICT (ABETIC), implemented via Decree No. 2013-554 of 30 December 2013, is in charge
+        of all government ICT project.
+  10. The Benin telecommunication market has shown a noticeable growth in the last years. It generated 257.7 billion
+      of CFA (US$440 million), which is 6% of the country GDP in 2014 from 1.4% in 2005. The part of revenue invested
+      also grew from 35% in 2005 to 40.5%, which represents 60.6 billion of CFA (US$ 10 million) in 2014. Based on
+
+
+Jun 05, 2017                                                                                                           Page 5 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+      international indicators the ICT sector in Benin remains one of the least performing compared to other countries in
+      the world. Several organizations ranking the ICT situation with different criteria (ICT connectivity and affordability,
+      digital literacy, e-Government, e-Commerce) highlight the relatively poor global ranking of Benin, which is also
+      ranked in the second half among Sub-Sahara African (SSA) countries.
+
+ Table 1: ICT Ranking of Cote d’Ivoire, Benin and Guinea by international institutions
+
+  11. The ICT sector in Benin produced mixed outcomes – Mobile voice performs well but prices remain high. While
+      mobile broadband is growing steadily, the fixed broadband remains in its infancy:
+     a. Mobile standard service (voice and SMS) penetration – There were more than nine million of active SIM in
+        Benin on September 2015 (ARCEP, June 2015) for a population of around 10.3 millions of people (INSAE, 2015),
+        that is a mobile penetration rate of 85%, compared to 77% for Sub-Saharan Africa. This could be explained by a
+        multi SIM ownership phenomenon (about 1.86 SIM per subscriber according to GSMA Intelligence, 2015). The
+        number of unique subscribers is estimated to about 4.9 million, that is a unique subscribers’ penetration rate of
+        44.61% (GSMA, 2015). Moreover, the regulator changed the methodology of counting the subscribers in 2015,
+        by considering only active SIM.
+     b. Fixed broadband penetration – Contrarily to the mobile market, fixed broadband penetration remains is in its
+        infancy with 46 947 subscribers and 0.45% of penetration rate because of the many barriers to access: First, as
+        in most African countries, the fixed phone penetration is very low at 1.89. In addition, the subscribers are mainly
+        enterprises and public institutions, of which less than third are connected by copper wireline. The rest are
+        connected through wireless technology (CDMA). Therefore, the broadband Internet remains a service used by
+        industry, government, and a few privileged households, far below the regional average of 4.6%.
+     c. Mobile broadband service penetration – Despite a prominent growth of more than 600% in five years, the
+        mobile internet penetration, which represent 97.88% of total internet (fixed and mobile) market, was only
+        12.09% at the third quarter of 2015.
+     d. ICT Retail Prices – ICT are expensive in Benin. The mobile cellular sub-basket was 13.8 $US/month against a sub-
+        Saharan average of 11.7$US/month, while the broadband sub-basket was 50.6 $US/month against
+        44.9$US/month. Despite the installation of an IXP and the reduction of the cost of international capacity due to
+        the landing of a second submarine cable and the restructuration of historical operators, the price of internet
+        service to the end users remains high and unaffordable for most Beninese
+
+ Relationship to CPF
+
+  12. The proposed project is designed to contribute to the World Bank Group’s twin goals of ending extreme poverty
+      and boosting shared prosperity – The project will help the country achieve the twin objectives through promoting
+      agricultural growth which is inclusive of smallholder farmers. The proposed project is consistent with the Bank’s
+      CPF (FY13-FY17), and especially with ‘Pillar I: Increasing Sustainable Growth, Competitiveness and Employment’
+      which comprises four objectives that the project will directly or indirectly support.
+  13. The project will directly contribute to three objectives of the CPF regarding infrastructure, agriculture, and
+      business climate – (i) The project will contribute to ‘Objective #1: Increase access to and quality of infrastructure
+      services’. By extending ICT connectivity in rural areas, the project will directly enhance digital infrastructure and
+      provide workarounds to inadequate logistics services. This will positively impact rural agriculture and economy by
+      enabling easier access to consumer markets at competitive costs. (ii) The project will also contribute to ‘Objective
+      #2: Improved Agriculture Productivity and Diversification and sustainable management of natural resources ’.
+
+
+Jun 05, 2017                                                                                                       Page 6 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+      Unpredictable weather patterns, unreliable pricing information and crop failure due to diseases are a few of the
+      issues that digital services could tackle in Benin. The project will directly support the objective of improving
+      productivity by promoting digital solutions that will: (a) empower smallholder farmers to access information and
+      markets, leading to increase in productivity and sales, and reduction in post-harvest loss; and (b) enable public
+      institutions to collect and gather agricultural and rural statistics to drive public policy and strategy. (iii) Finally, the
+      project will contribute to ‘Objective #3: Develop High Potential Value Chains and Improve Business Climate/Public
+      Private Partnerships’. By extending the reach of ICT connectivity and facilitating the digitization of economic
+      transactions, the project will support both: (a) the increase in mobile banking usage; and (b) the ability for
+      smallholders to get a credit with traditional banks thanks to a track record on which their financial performance can
+      be assessed. The project will also facilitate the development of ICT platforms to provide cheap and reliable tools to
+      register land and deliver land certificates. Enhancing the registering process of land is fundamental to improve land
+      security and support informed land transactions for both smallholders and private investors, and are a prerequisite
+      for shared growth.
+  C. Proposed Development Objective(s)
+
+   Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your convenience.
+   Please keep it up to date whenever it is changed in the datasheet.
+
+
+   To improve access to affordable broadband in rural communities and leverage e-services to improve supply-chain
+   efficiency and access to markets.
+
+  Key Results (From PCN)
+
+
+
+  D. Concept Description
+
+  14. To achieve the Project Development Objectives, the proposed project follows an integrated transformational
+      solutions approach with three components:
+           a. Component #1 ICT Infrastructure – Extending the coverage of ICT services in rural areas, and thereby
+              improving the number of individuals, public administrations, and businesses that will be able to access both
+              mobile services (voice and SMS) and the internet to improve productivity;
+           b. Component #2 Digital services for rural development – Stimulating the development of digital services for
+              rural development (with an emphasis on e-Agriculture), improving public service delivery in rural areas, and
+              encouraging development of local content, applications, and services, through the setting up of electronic
+              platforms and the creation of business incubators;
+           c. Component #3 Project implementation – Project management, coordination, monitoring, and evaluation.
+  15. Component 1 ICT Infrastructure – Component 1 will contribute to achieving the PDO by increasing coverage of ICT
+      services in rural areas. The task team has initiated a Cascade Approach (Figure 1) and has established a set of
+      criteria (cf. below §Error! Reference source not found.) for the identification of target areas (where the
+      infrastructure needs to be deployed) and project design (how can the project support the deployment).
+
+
+
+
+Jun 05, 2017                                                                                                            Page 7 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+              For target areas, workshops with public stakeholders and private operators led to the identification of
+               geographic “white areas�? in which the supply of ICT connectivity is nonexistent and may not be reached
+               under pure market terms because the inherent profitability of investment is too low (“market failure�?).
+              For project design, Component 1 will first focus on improving the legal and regulatory framework to
+               address the market failure and bring about positive incentives for additional infrastructure roll-out. Yet, this
+               alone will not be sufficient to solve the lack of ICT connectivity in rural areas and reach an envisaged level
+               of supply. Therefore, Component 1 will also provide financial support to overcome the lack of ICT
+               connectivity if there is no alternative. Financial support will first come IFC involvement, and second from
+               Public-Private Partnership (PPP) model combining private investments and public funds. Depending on the
+               targeted region and community, the PPP model will be adjusted.
+
+                         Figure 1: Cascade-Decision Making Approach used by the team to structure Component 1
+
+
+
+
+           a. Sub-Component 1.1 – Help improve the institutional and regulatory environment to address market failure
+              wherever possible. This subcomponent will fund legal review of the current environment and identify
+              bottlenecks that hamper private investment (stage 2 of the Cascade Approach)
+           b. Sub-Component 1.2 – In areas where public funding is not immediately needed, IFC may envisage to
+              partner with potential investors, using the new Private Sector Window (PSW) IDA Facility to go beyond its
+              standard market/risks frameworks (stage 3 of the Cascade Approach). Although IFC involvement in the
+              proposed project is not guaranteed, a joint World Bank/IFC team holds regular meetings with the client to
+              determine the best approach. In areas where public subsidy is needed (stage 4 of the Cascade Approach),
+              the project will implement a Public-Private Partnership (PPP) model combining private investments and
+              public funds to subsidy a ‘wholesale open access’ broadband infrastructure. Public funds will be channeled
+              – if relevant and possible – through the existing mechanisms established by the Beninese Agency of
+              Universal Service of Electronic communications and Post (ABSU-CEP). When designing the PPP, the guiding
+              principle is that public intervention should limit as much as possible the risk of crowding out or replacing
+
+Jun 05, 2017                                                                                                         Page 8 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+               private investments, of altering commercial investment incentives, and ultimately of distorting competition
+               (cf. §Error! Reference source not found. for more details).
+  16. Component #2 Digital services for rural development – Component #2 will contribute to achieving the PDO with
+      two sub-components:
+           a. Sub-component 2.1 – Help improve the performance of the rural development public institutions in Benin
+              in gathering relevant, detailed, and recent data to monitor the rural economy and assist in shaping public
+              policy;
+           b. Sub-component 2.2 –Provide digital solutions to smallholders for selected crops that will increase crop
+              yields, increase volumes of sales, reduce post-harvest loss, and improve market linkages. To that effect, a
+              comprehensive program of activities will be implemented under this component that will be geared at: (i)
+              improving the outreach and quality of crop extension and advisory services by strengthening the skills of
+              public extension workers, promoting ICT in agricultural extension services, and supporting farmer-to-
+              farmer extension; (ii) developing farmers’ skills to scale-up the dissemination of Good Agricultural Practices
+              (GAPs); and (iii) fostering the emergence of a digital innovation ecosystem aimed at providing local content,
+              applications, and services for rural development through the creation and leveraging of e-Government
+              platforms.
+  17. Component #3 Project implementation – This Component will support the setting up of a dedicated Project
+      Implementation Unit (PIU) and will also cover training, office equipment, operating costs, audits and
+      communications as well as Monitoring & Evaluation (M&E), environmental and social studies, their implementation
+      and/or the monitoring of their implementation.
+
+
+   Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+
+
+  SAFEGUARDS
+
+  A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+  Infrastructure financed by this project will be mainly targeting Northern regions of the country and exclusively rural
+ areas:Vallée du Niger ; Alibori Sud -Borgou Nord-2KP ; Atacora Ouest ; Borgou Sud, Donga – Collines ; Zou-Couffo ; Plateau
+ ; Ouémé-Atlantique, Mono
+
+  B. Borrower’s Institutional Capacity for Safeguard Policies
+
+  The Beninese Environmental Agency which is involved in all projects around the country has capacities to assist the PIU in
+ implementing safeguard policies requirements. In addition, a full assessment of both ministries implementing units will be
+ carried out to ensure they have the appropriate capacity strengthening for fulfilling environmental and social
+ requirements.
+
+  C. Environmental and Social Safeguards Specialists on the Team
+
+ Abdoul Wahabi Seini, Social Safeguards Specialist
+ Fatoumata Diallo, Social Safeguards Specialist
+
+Jun 05, 2017                                                                                                      Page 9 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+ Abdoulaye Gadiere, Environmental Safeguards Specialist
+
+  D. Policies that might apply
+
+ Safeguard Policies                          Triggered?         Explanation (Optional)
+                                                                The component 1 aims at extending the coverage of
+                                                                ICT services in rural areas Among expected activities,
+                                                                there are the roll-out of infrastructure, the setting up
+                                                                of electronic platforms and business incubators. Some
+                                                                of these activities may affect environment.
+                                                                However, as the exact locations of those activities are
+ Environmental Assessment OP/BP 4.01         Yes
+                                                                unknown to date, an Environmental and Social
+                                                                Management Framework (ESMF) will be developed,
+                                                                reviewed, consulted upon and disclosed both within
+                                                                Benin and at the World Bank’s Website prior to the
+                                                                Decision meeting.
+
+                                                                The project activities will not be implemented in areas
+ Natural Habitats OP/BP 4.04                 No
+                                                                hosting natural habitats.
+                                                                The project will not support activities related to forest
+ Forests OP/BP 4.36                          No                 exploitation or management or might have potential
+                                                                adverse impacts on forested areas.
+ Pest Management OP 4.09                     No                 The project does not involve pest management
+                                                                Some activities related to civil works will
+                                                                unquestionably involve excavations with possibilities
+                                                                to discover Physical cultural resources. However, the
+                                                                triggering of this policy does not entail the preparation
+ Physical Cultural Resources OP/BP 4.11      Yes
+                                                                of a specific safeguard instrument. Only a specific
+                                                                chapter will be included in the ESMF with the aim of
+                                                                providing guidance for properly managing way in case
+                                                                physical cultural resources would be discovered.
+                                                                The Project location does not cover Indigenous
+ Indigenous Peoples OP/BP 4.10               No
+                                                                Peoples as defined by the World bank.
+                                                                The implementation of the poles, towers, or antenna
+                                                                and access rural roads investment expected in the
+                                                                project may lead to land acquisition. Therefore, a
+                                                                Resettlement Policy Framework (RPF) will be prepared
+                                                                for the activities triggered by the OP 4.12 as a due
+ Involuntary Resettlement OP/BP 4.12         Yes
+                                                                diligence given that the specific sites or impacts of
+                                                                envisioned physical investments are not known. The
+                                                                Resettlement Policy Framework (RPF) consistent with
+                                                                OP 4.12 will be prepared by the Borrower, reviewed
+                                                                and cleared by the team and disclosed by Appraisal.
+ Safety of Dams OP/BP 4.37                   No                 The project will not finance dams, not rely on dams
+
+
+
+Jun 05, 2017                                                                                                   Page 10 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+ Projects on International Waterways                                 The project is not expected to affect international
+                                              No
+ OP/BP 7.50                                                          waterways
+ Projects in Disputed Areas OP/BP 7.60        No                     The project will not be located in a disputed area.
+
+  E. Safeguard Preparation Plan
+
+  Tentative target date for preparing the Appraisal Stage PID/ISDS
+
+  Sep 08, 2017
+
+ Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and
+ their timing should be specified in the Appraisal Stage PID/ISDS
+
+  The following safeguard instruments are expected to be prepared during the preparation phase: i) an Environmental and
+ Social Management Framework (ESMF) and, ii) a Resettlement Policy Framework (RPF). All these safeguard documents
+ will be reviewed consulted upon and disclosed by the Government of the Republic of Benin, and at the World Bank’s
+ Website prior to the Decision Meeting.
+
+
+CONTACT POINT
+
+
+  World Bank
+  Marc Jean Yves Lixi, Erick Herman Abiassi
+  Senior Operations Officer
+
+
+  Borrower/Client/Recipient
+  Republic of Benin
+  Abdoulaye Bio Tchané
+  Ministre du Plan et du Développement
+  contact@developpement.gouv.bj
+
+  Implementing Agencies
+
+  Ministère de l'Economie Numérique et de la Poste
+  Olivier Capo-Chichi
+  Coordonnateur National
+  capochichio@yahoo.fr
+
+
+
+
+Jun 05, 2017                                                                                                       Page 11 of 12
+       The World Bank
+       Benin Digital Solutions for Sustainable Development (P162599)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+ APPROVAL
+
+ Task Team Leader(s):                     Marc Jean Yves Lixi, Erick Herman Abiassi
+
+Approved By
+APPROVALTBL
+ Safeguards Advisor:                     Maman-Sani Issa                         03-Nov-2017
+
+ Practice Manager/Manager:               Boutheina Guermazi                      04-Nov-2017
+
+ Country Director:                       Pierre Laporte                          07-Nov-2017
+
+
+
+   Note to Task Teams: End of system generated content, document is editable from here.
+
+
+
+
+Jun 05, 2017                                                                                   Page 12 of 12
+

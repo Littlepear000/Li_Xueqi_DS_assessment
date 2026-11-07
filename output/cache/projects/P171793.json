@@ -1,0 +1,1144 @@
+{
+  "project_id": "P171793",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "cdc3ce1e",
+  "started_at": "2026-11-07T03:29:09Z",
+  "ended_at": "2026-11-07T03:29:42Z",
+  "input_fingerprint": "2f93b325d65bf063",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 27,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P171793-A1",
+      "project_id": "P171793",
+      "name": "satellite, smartphone and geo-enabled platforms for remote road supervision",
+      "description": "Uses satellite imagery, smartphone roughness surveys, GEMS geo-location and RSSAT screening to supervise and design road works remotely. Practices: satellite imagery and smartphone road-condition data for remote supervision; GEMS geo-enabled monitoring and supervision platform; Road Safety Screening and Appraisal Tool for road design.",
+      "why_innovative": "New process: remote digital supervision replacing site visits - cue: 'smart approaches' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "503451614999709202",
+        "doc_type": "PAD",
+        "doc_date": "2021-02-04",
+        "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+        "char_start": 70168,
+        "char_end": 70492,
+        "text": "Due to the large project area, the volatile security situation in the Sahelian strip, and the impact of COVID-19, the project will rely on a variety of smart approaches leveraging digital technologies to facilitate the implementation of project activities, consultation process, as well as enhance monitoring and evaluation.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 70493,
+          "char_end": 70599,
+          "text": "The activities will include, but are not limited to: (a) direct remote monitoring using satellite imagery;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 70600,
+          "char_end": 70706,
+          "text": "(b) use of smartphones for road data collection (such as road roughness before and after the civil works);",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 70707,
+          "char_end": 70839,
+          "text": "(c) mobile-based iterative beneficiary monitoring mechanisms; and (d) geo-enabling initiative for monitoring and supervision (GEMS).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 101832,
+          "char_end": 101994,
+          "text": "The Road Safety Screening and Appraisal Tool (RSSAT) was applied to assess the road safety impact of the proposed rehabilitation of the Tanout - Tiguidit section.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 101995,
+          "char_end": 102316,
+          "text": "Given the lack of relevant granular data, efforts focused on collecting, verifying, processing and coding data from various possible sources and based on good practices (e.g. using the engineering pre-feasibility design studies, the most up-to-date road traffic injuries, WHO estimates (2018) and available traffic data).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: remote sensing and mobile data collection are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Rural and Inter-Urban Roads",
+        "code": "",
+        "confidence": null,
+        "rationale": "Remote supervision of road works directly supports road construction quality.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: satellite imagery, smartphone roughness surveys | Innovative: remote supervision in insecure Sahel | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: remote digital supervision replacing site visits - cue: 'smart approaches'",
+      "innovation_cues": [
+        "performance-based"
+      ]
+    },
+    {
+      "approach_id": "P171793-A2",
+      "project_id": "P171793",
+      "name": "road crash and fatality data systems for safety decisions",
+      "description": "Upgrades a crash database and pilots vehicle-km fatality data collection to support evidence-based road safety decisions. Practices: Road crash database upgrade for evidence-based safety decisions; ICT-based road fatality data collection system.",
+      "why_innovative": "New system: crash database enabling data-driven safety decisions - cue: 'data collection' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "503451614999709202",
+        "doc_type": "PAD",
+        "doc_date": "2021-02-04",
+        "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+        "char_start": 104952,
+        "char_end": 105123,
+        "text": "Institutionally, the project will support the upgrade of a road crash database to enable data collection, verification, and analysis for evidence-informed decision making.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 153061,
+          "char_end": 153303,
+          "text": "The baseline the data section system to be and the target will be collection implemented by the adjusted based once the system to be project). data collection system to be implemented piloted under the project is by the operational. project).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 152705,
+          "char_end": 152887,
+          "text": "Agadez and Zinder WHO Number of deaths per reports and million vehicle km traveled survey Surveys for average on the Tanout - Tiguidit reports (and annual daily traffic (and section.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 152888,
+          "char_end": 153060,
+          "text": "Definition of a once once operational, death covering 30 days after operational, Fatality rate on the Tanout - Tiguidit Annual the data collection PCU/ ANISER the accident.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the crash database is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Transportation",
+        "code": "",
+        "confidence": null,
+        "rationale": "Crash database upgrade supports transport sector safety management.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: upgraded crash database | Innovative: crash data collection/analysis for decisions | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New system: crash database enabling data-driven safety decisions - cue: 'data collection'",
+      "innovation_cues": [
+        "piloted"
+      ]
+    },
+    {
+      "approach_id": "P171793-A3",
+      "project_id": "P171793",
+      "name": "GEMS spatial mapping of partner activities and community needs",
+      "description": "Annually maps all projects' activities and community needs on the GEMS spatial platform to define complementary activities.",
+      "why_innovative": "New process: shared spatial platform maps partner projects and community needs - cue: 'piloted' | category Collaborative; adoption prospect; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "503451614999709202",
+        "doc_type": "PAD",
+        "doc_date": "2021-02-04",
+        "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+        "char_start": 87526,
+        "char_end": 88000,
+        "text": "Coordination and complementarity will be achieved through smart monitoring tools planned to be piloted under Component 3, a mapping of all the activities being undertaken by these various projects will be done annually in a manner of defining the complementary activities to be covered by this project as well as by sharing with the other projects the needs as expressed by these communities through the community engagement process and listed via the GEMS spatial platform.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "503451614999709202",
+          "doc_type": "PAD",
+          "doc_date": "2021-02-04",
+          "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+          "char_start": 163695,
+          "char_end": 164168,
+          "text": "Coordination will be achieved through smart monitoring tools planned to be piloted under Component 3, a mapping of all the activities being undertaken by these various projects will be done annually in a manner of defining the complementary activities to be covered by this project as well as by sharing with the other projects the needs of the communities as expressed by these communities through the community engagement process and listed via the GEMS spatial platform.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: multi-actor coordination via shared spatial data platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Transportation",
+        "code": "",
+        "confidence": null,
+        "rationale": "Cross-project coordination and mapping is a transport administration function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "mentioned_only",
+      "adoption": {
+        "value": "prospect",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: GEMS spatial mapping | Innovative: cross-project geodata coordination | Adoption: only 'planned to be piloted'",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: shared spatial platform maps partner projects and community needs - cue: 'piloted'",
+      "innovation_cues": [
+        "climate-smart",
+        "piloted"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P171793",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "guid": "503451614999709202",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:29:09Z",
+      "ended_at": "2026-11-07T03:29:15Z",
+      "status": "ok",
+      "note": "12 document(s) fetched from the WBG API; 17 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:29:15Z",
+      "ended_at": "2026-11-07T03:29:15Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-03-02, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:29:15Z",
+      "ended_at": "2026-11-07T03:29:19Z",
+      "status": "ok",
+      "note": "27 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 27,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 7,
+          "enabling_processes": 4,
+          "innovation_cycle": 7,
+          "innovation": 3,
+          "public_good": 3,
+          "results_based_management": 1,
+          "enabling_technologies": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:29:19Z",
+      "ended_at": "2026-11-07T03:29:19Z",
+      "status": "ok",
+      "note": "PAD 2021-02-04 (P171793_PAD_2021-02-04_503451614999709202.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P171793",
+            "doc_type": "PAD",
+            "doc_date": "2021-02-04",
+            "guid": "503451614999709202",
+            "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:29:19Z",
+      "ended_at": "2026-11-07T03:29:19Z",
+      "status": "ok",
+      "note": "149 reading units (19 numbered paragraphs) from 1304 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 149
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:29:19Z",
+      "ended_at": "2026-11-07T03:29:22Z",
+      "status": "ok",
+      "note": "94 of 149 units carry a digital / AI cue (23 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 94,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 23
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:22Z",
+      "ended_at": "2026-11-07T03:29:30Z",
+      "status": "ok",
+      "note": "15 candidate practices from 94 units in 10 calls",
+      "llm_calls": 10,
+      "input_chars": 301316,
+      "output": {
+        "usage": {
+          "calls": 10,
+          "input_tokens": 1833,
+          "cached_tokens": 64512,
+          "cache_write_tokens": 0,
+          "output_tokens": 3676,
+          "seconds": 29.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0053
+        },
+        "extracted": 15
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:29:30Z",
+      "ended_at": "2026-11-07T03:29:35Z",
+      "status": "ok",
+      "note": "7 accepted, 8 rejected (not_digital 3, generic 2, not_innovative 2, background_or_other_programme 1); 0 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 63422,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7371,
+          "cached_tokens": 5888,
+          "cache_write_tokens": 0,
+          "output_tokens": 1083,
+          "seconds": 7.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0035
+        },
+        "accepted": 7,
+        "rejected": 8,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 3,
+          "generic": 2,
+          "not_innovative": 2,
+          "background_or_other_programme": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:29:35Z",
+      "ended_at": "2026-11-07T03:29:38Z",
+      "status": "ok",
+      "note": "7 of 7 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2037,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 447,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 248,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:29:38Z",
+      "ended_at": "2026-11-07T03:29:40Z",
+      "status": "ok",
+      "note": "7 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2361,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 513,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 160,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 4,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:29:40Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7450,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1159,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 208,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:29:42Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "3 approaches (2 applied), 12 evidence rows, 8 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:29:42Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 104
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P171793-A1-E1",
+      "approach_id": "P171793-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 420,
+      "char_start": 70168,
+      "char_end": 70492,
+      "sentence": "Due to the large project area, the volatile security situation in the Sahelian strip, and the impact of COVID-19, the project will rely on a variety of smart approaches leveraging digital technologies to facilitate the implementation of project activities, consultation process, as well as enhance monitoring and evaluation.",
+      "practice": "satellite imagery and smartphone road-condition data for remote supervision",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: satellite imagery, smartphone road surveys | Not routine: remote supervision in insecure Sahel | Adoption: 'will rely on'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite imagery, smartphone roughness surveys | Innovative: remote supervision in insecure Sahel | Category: Technological",
+      "keywords_hit": "data collection;data protection;digital technolog;satellite imagery;smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New process: remote digital supervision replacing site visits - cue: 'smart approaches'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A1-E2",
+      "approach_id": "P171793-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 421,
+      "char_start": 70493,
+      "char_end": 70599,
+      "sentence": "The activities will include, but are not limited to: (a) direct remote monitoring using satellite imagery;",
+      "practice": "satellite imagery and smartphone road-condition data for remote supervision",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: satellite imagery, smartphone road surveys | Not routine: remote supervision in insecure Sahel | Adoption: 'will rely on'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite imagery, smartphone roughness surveys | Innovative: remote supervision in insecure Sahel | Category: Technological",
+      "keywords_hit": "data collection;data protection;digital technolog;satellite imagery;smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New process: remote digital supervision replacing site visits - cue: 'smart approaches'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A1-E3",
+      "approach_id": "P171793-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 422,
+      "char_start": 70600,
+      "char_end": 70706,
+      "sentence": "(b) use of smartphones for road data collection (such as road roughness before and after the civil works);",
+      "practice": "satellite imagery and smartphone road-condition data for remote supervision",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: satellite imagery, smartphone road surveys | Not routine: remote supervision in insecure Sahel | Adoption: 'will rely on'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite imagery, smartphone roughness surveys | Innovative: remote supervision in insecure Sahel | Category: Technological",
+      "keywords_hit": "data collection;data protection;digital technolog;satellite imagery;smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New process: remote digital supervision replacing site visits - cue: 'smart approaches'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A1-E4",
+      "approach_id": "P171793-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 423,
+      "char_start": 70707,
+      "char_end": 70839,
+      "sentence": "(c) mobile-based iterative beneficiary monitoring mechanisms; and (d) geo-enabling initiative for monitoring and supervision (GEMS).",
+      "practice": "GEMS geo-enabled monitoring and supervision platform",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: GEMS geo-enabling platform | Not routine: geo-spatial supervision in fragile area | Adoption: 'activities will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GEMS geo-mapping platform | Innovative: geo-spatial supervision in fragile area | Category: Technological",
+      "keywords_hit": "data collection;data protection;digital technolog;satellite imagery;smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: geo-enabled monitoring platform for field supervision - cue: 'GEMS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A1-E5",
+      "approach_id": "P171793-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U73",
+      "para_no": null,
+      "sentence_position": 640,
+      "char_start": 101832,
+      "char_end": 101994,
+      "sentence": "The Road Safety Screening and Appraisal Tool (RSSAT) was applied to assess the road safety impact of the proposed rehabilitation of the Tanout - Tiguidit section.",
+      "practice": "Road Safety Screening and Appraisal Tool for road design",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: RSSAT screening tool | Not routine: codes crash data for design | Adoption: 'was applied'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: RSSAT screening tool | Innovative: coded crash/traffic data for design | Category: Technological",
+      "keywords_hit": "coding",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New process: RSSAT screening of road safety impact - cue: 'performance-based'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A1-E6",
+      "approach_id": "P171793-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U73",
+      "para_no": null,
+      "sentence_position": 641,
+      "char_start": 101995,
+      "char_end": 102316,
+      "sentence": "Given the lack of relevant granular data, efforts focused on collecting, verifying, processing and coding data from various possible sources and based on good practices (e.g. using the engineering pre-feasibility design studies, the most up-to-date road traffic injuries, WHO estimates (2018) and available traffic data).",
+      "practice": "Road Safety Screening and Appraisal Tool for road design",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: RSSAT screening tool | Not routine: codes crash data for design | Adoption: 'was applied'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: RSSAT screening tool | Innovative: coded crash/traffic data for design | Category: Technological",
+      "keywords_hit": "coding",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New process: RSSAT screening of road safety impact - cue: 'performance-based'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A2-E1",
+      "approach_id": "P171793-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U75",
+      "para_no": null,
+      "sentence_position": 655,
+      "char_start": 104952,
+      "char_end": 105123,
+      "sentence": "Institutionally, the project will support the upgrade of a road crash database to enable data collection, verification, and analysis for evidence-informed decision making.",
+      "practice": "Road crash database upgrade for evidence-based safety decisions",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: upgraded road crash database | Not routine: enables crash data analysis | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: upgraded crash database | Innovative: crash data collection/analysis for decisions | Category: Technological",
+      "keywords_hit": "data collection",
+      "innovation_cues": "",
+      "innovation_basis": "New system: crash database enabling data-driven safety decisions - cue: 'data collection'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A2-E2",
+      "approach_id": "P171793-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U110",
+      "para_no": null,
+      "sentence_position": 964,
+      "char_start": 153061,
+      "char_end": 153303,
+      "sentence": "The baseline the data section system to be and the target will be collection implemented by the adjusted based once the system to be project). data collection system to be implemented piloted under the project is by the operational. project).",
+      "practice": "ICT-based road fatality data collection system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: fatality data collection system | Not routine: new road-safety measurement piloted | Adoption: 'to be piloted under the project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: fatality data collection system | Innovative: piloted fatality-rate measurement | Category: Technological",
+      "keywords_hit": "connectivity;data collection;methodolog;survey",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New process: piloted crash/fatality data system for road safety - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A2-E3",
+      "approach_id": "P171793-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U110",
+      "para_no": null,
+      "sentence_position": 962,
+      "char_start": 152705,
+      "char_end": 152887,
+      "sentence": "Agadez and Zinder WHO Number of deaths per reports and million vehicle km traveled survey Surveys for average on the Tanout - Tiguidit reports (and annual daily traffic (and section.",
+      "practice": "ICT-based road fatality data collection system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: fatality data collection system | Not routine: new road-safety measurement piloted | Adoption: 'to be piloted under the project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: fatality data collection system | Innovative: piloted fatality-rate measurement | Category: Technological",
+      "keywords_hit": "connectivity;data collection;methodolog;survey",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New process: piloted crash/fatality data system for road safety - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A2-E4",
+      "approach_id": "P171793-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U110",
+      "para_no": null,
+      "sentence_position": 963,
+      "char_start": 152888,
+      "char_end": 153060,
+      "sentence": "Definition of a once once operational, death covering 30 days after operational, Fatality rate on the Tanout - Tiguidit Annual the data collection PCU/ ANISER the accident.",
+      "practice": "ICT-based road fatality data collection system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: fatality data collection system | Not routine: new road-safety measurement piloted | Adoption: 'to be piloted under the project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: fatality data collection system | Innovative: piloted fatality-rate measurement | Category: Technological",
+      "keywords_hit": "connectivity;data collection;methodolog;survey",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New process: piloted crash/fatality data system for road safety - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A3-E1",
+      "approach_id": "P171793-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U62",
+      "para_no": null,
+      "sentence_position": 544,
+      "char_start": 87526,
+      "char_end": 88000,
+      "sentence": "Coordination and complementarity will be achieved through smart monitoring tools planned to be piloted under Component 3, a mapping of all the activities being undertaken by these various projects will be done annually in a manner of defining the complementary activities to be covered by this project as well as by sharing with the other projects the needs as expressed by these communities through the community engagement process and listed via the GEMS spatial platform.",
+      "practice": "GEMS spatial platform for cross-project activity mapping",
+      "category": "Collaborative",
+      "adoption": "prospect",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: GEMS spatial mapping platform | Not routine: annual cross-project activity mapping | Adoption: 'will be done annually'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: GEMS spatial mapping | Innovative: cross-project geodata coordination | Adoption: only 'planned to be piloted'",
+      "keywords_hit": "mapping",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New process: shared spatial platform maps partner projects and community needs - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    },
+    {
+      "row_id": "P171793-A3-E2",
+      "approach_id": "P171793-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P171793",
+      "doc_id": "503451614999709202",
+      "doc_type": "PAD",
+      "doc_date": "2021-02-04",
+      "file_name": "P171793_PAD_2021-02-04_503451614999709202.txt",
+      "unit_id": "U117",
+      "para_no": null,
+      "sentence_position": 1008,
+      "char_start": 163695,
+      "char_end": 164168,
+      "sentence": "Coordination will be achieved through smart monitoring tools planned to be piloted under Component 3, a mapping of all the activities being undertaken by these various projects will be done annually in a manner of defining the complementary activities to be covered by this project as well as by sharing with the other projects the needs of the communities as expressed by these communities through the community engagement process and listed via the GEMS spatial platform.",
+      "practice": "GEMS spatial platform for cross-project activity mapping",
+      "category": "Collaborative",
+      "adoption": "prospect",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: GEMS spatial mapping platform | Not routine: cross-project coordination via shared geodata | Adoption: 'planned to be piloted'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: GEMS spatial mapping | Innovative: cross-project geodata coordination | Adoption: only 'planned to be piloted'",
+      "keywords_hit": "humanitarian;mapping",
+      "innovation_cues": "climate-smart;piloted",
+      "innovation_basis": "New process: shared spatial platform maps partner projects and community needs - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "cdc3ce1e"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 308,
+      "char_start": 51275,
+      "char_end": 51486,
+      "sentence": "The project proposes an innovative performance-based model proposed for private sector contracting for the rehabilitation of the Tanout – Tiguidit section and the maintenance of the full Zinder – Agadez section.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Performance-based OPRC contracts for road rehabilitation and maintenance",
+      "reason": "reject: Performance-based road contract model; no digital/data/AI system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: long-term OPRC bundling works and maintenance - cue: 'innovative performance-based'",
+      "innovation_cues": "innovative;performance-based;scale-up;transformative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance-based road contract model; no digital/data/AI system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 2076
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 334,
+      "char_start": 55474,
+      "char_end": 55672,
+      "sentence": "Page 15 of 64 The World Bank ENHANCING NIGER NORTHEASTERN CONNECTIVITY PROJECT (P171793) performance-based management and maintenance of the 425 km national road section between Zinder and Agadez25.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Eight-year OPRC combining road reconstruction with performance-based maintenance",
+      "reason": "reject: Eight-year OPRC bundling works and maintenance; contract design, no digital core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: single long-term contract for works plus maintenance - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Eight-year OPRC bundling works and maintenance; contract design, no digital core",
+          "reject_code": "not_digital",
+          "context_chars": 1295
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 553,
+      "char_start": 88519,
+      "char_end": 88669,
+      "sentence": "A system of smart monitoring designed for unsafe locations and community monitoring to receive feedback from direct beneficiaries will be established.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Smart monitoring and community feedback system for unsafe locations",
+      "reason": "reject: 'Smart monitoring system' named without any mechanism; details deferred to Sub-component 3.1",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: monitoring adapted to insecure FCV locations - cue: 'smart monitoring'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "'Smart monitoring system' named without any mechanism; details deferred to Sub-component 3.1",
+          "reject_code": "generic",
+          "context_chars": 1226
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 934,
+      "char_start": 143641,
+      "char_end": 144031,
+      "sentence": "In addition, the working relationship between the PCU and the local government may be impacted by the remoteness of communes and this will also be addressed under Sub-component 3.1 through the piloting of a variety of smart approaches leveraging digital technologies to facilitate the implementation of project activities, consultation process, as well as enhance monitoring and evaluation.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Piloted smart digital tools for consultation and M&E",
+      "reason": "reject: 'Variety of smart approaches leveraging digital technologies' - no named tool or system",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: digital tools for remote consultation and monitoring - cue: 'piloting'",
+      "innovation_cues": "piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "'Variety of smart approaches leveraging digital technologies' - no named tool or system",
+          "reject_code": "generic",
+          "context_chars": 1583
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 965,
+      "char_start": 153304,
+      "char_end": 153589,
+      "sentence": "The survey will be Share of beneficiaries conduced using ICT and Share of beneficiaries reporting Reports/surv reporting satisfaction with Annual independent focal PCU satisfaction with the selected rural eys the selected rural point. community infrastructure community infrastructure.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ICT-based beneficiary satisfaction surveys",
+      "reason": "reject: Routine annual satisfaction survey; 'using ICT' is standard M&E, no named system",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: ICT-enabled satisfaction survey of infrastructure beneficiaries - cue: 'using ICT'",
+      "innovation_cues": "piloted",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine annual satisfaction survey; 'using ICT' is standard M&E, no named system",
+          "reject_code": "not_innovative",
+          "context_chars": 1653
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 1018,
+      "char_start": 164912,
+      "char_end": 165122,
+      "sentence": "The monitoring will take the form of in‐person missions where feasible, as well as by video-conference, and use of geographic information systems and project data (such as the GEMS) where the team cannot visit.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS and GEMS project data for remote supervision",
+      "reason": "reject: Standard Bank supervision tool (GIS/GEMS) for monitoring, not a project-financed innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS/GEMS data substitute for in-person site supervision - cue: 'geographic information systems'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard Bank supervision tool (GIS/GEMS) for monitoring, not a project-financed innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1272
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 1119,
+      "char_start": 177211,
+      "char_end": 177299,
+      "sentence": "A specific SEA/SH-sensitive and survivor-centered GRM will be developed for the project.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "SEA/SH-sensitive survivor-centered GBV grievance mechanism",
+      "reason": "reject: NGO-run GBV referral GRM; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: NGO-run confidential GBV case management and referral - cue: 'survivor-centered'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "NGO-run GBV referral GRM; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1315
+        }
+      ]
+    },
+    {
+      "guid": "503451614999709202",
+      "doc_type": "PAD",
+      "position": 1252,
+      "char_start": 198077,
+      "char_end": 198570,
+      "sentence": "Integrating • How can smart implementation support be used to help monitor security risks: GEMS, iterative security risk beneficiary monitoring (IBM), remote sensing, etc.? monitoring and • Since reputational risks will be significant, how will security feature in any project outreach management into community outreach strategy? implementation • What United Nation (UN) agencies, bilateral or multilateral partners, NGOs, CSOs or faith-based support groups, operate in insecure environments?",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Remote sensing and beneficiary monitoring for security risk oversight",
+      "reason": "reject: Brainstorming questions on possible tools, not a committed project practice",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: remote-sensing and IBM security risk monitoring - cue: 'remote sensing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Brainstorming questions on possible tools, not a committed project practice",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1318
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 15,
+    "input_tokens": 11323,
+    "cached_tokens": 70784,
+    "cache_write_tokens": 0,
+    "output_tokens": 5375,
+    "seconds": 43.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0103
+  }
+}

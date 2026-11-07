@@ -1,0 +1,791 @@
+Official Use Only
+$
+Report No: RES01985
+RESTRUCTURING PAPER
+ON A
+PROPOSED PROJECT RESTRUCTURING
+OF
+Lao PDR Strengthening the National Statistical System
+APPROVED ON 16-Dec-2022
+TO
+Lao People’s Democratic Republic
+Poverty and Equity
+East Asia And Pacific
+Regional Vice President: Carlos Felipe Jaramillo
+Regional Director: Lalita M. Moorty
+Country Director: Mariam J. Sherman
+Practice Manager: Benu Bidani
+Task Team Leader(s): Dung Doan
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Official Use Only
+ABBREVIATIONS AND ACRONYMS
+BOL Bank of Laos
+CPI Consumer Price Index
+ESF Environmental and Social Framework
+FM Financial Management
+GDP Gross Domestic Product
+GIS Geographic Information System
+GRM Grievance Redress Mechanism
+LASES Lao Academy of Social and Economic Sciences
+LECS Lao Expenditure and Consumption Survey
+LFS Labor Force Survey
+LSB Lao Statistics Bureau
+MAE Ministry of Agriculture and Environment
+MEM Ministry of Energy and Mines
+MOF Ministry of Finance
+MOHA Ministry of Home Affairs
+MOIC Ministry of Industry and Commerce
+MOLSW Ministry of Labor and Social Welfare
+MOTC Ministry of Technology and Communications
+MPI Ministry of Planning and Investment
+NPISH Non-Profit Institutions Serving Households
+NUOL National University of Laos
+PHC Population and Housing Census
+PIMT Project Implementation and Management Team
+PIU Project Implementation Unit
+PPI Producer Price Index
+SEZO Special Economic Zone Promotion and Management Office
+SNA System of National Accounts
+WFA Withdrawal Financing Application
+XMPI Export-Import Price Index
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+i
+Official Use Only
+@#&OPS~Doctype~OPS^dynamics@restrhybridbasicdata#doctemplate
+BASIC DATA
+Product Information
+Operation ID Operation Name
+P178002 Lao PDR Strengthening the National Statistical System
+Product/Financing Instrument Geographical Identifier
+Investment Project Financing (IPF) Lao People's Democratic Republic
+Approval Date Current Closing Date
+16-Dec-2022 15-Feb-2028
+Environmental and Social Risk Classification (ESRC)
+Low
+Organizations
+Borrower Responsible Agency
+Lao People’s Democratic Republic Lao Statistics Bureau, Ministry of Planning and Investment
+@#&OPS~Doctype~OPS^dynamics@restrhybridoperationstatus#doctemplate
+OPERATION STATUS
+Project Development Objective (DO)
+Original Development Objective
+The PDO is to improve the capacity of the Lao PDR Statistical System to produce and disseminate good quality statistics in a timely manner and to enhance use of key statistics, and in case of an Eligible Crisis or Emergency, respond promptly and effectively to it.
+Disbursement Summary (in USD million)
+Source of Funds Net Commitment Disbursed Undisbursed % Disbursed
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+ii
+Official Use Only
+IBRD -- -- -- 0
+IDA 22.21 14.68 7.53 66.10
+Grants -- -- -- 0
+Policy Waivers
+Does this restructuring trigger the need for any policy waiver(s)? No
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Official Use Only
+TABLE OF CONTENTS
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................9
+III. PROPOSED CHANGES..............................................................................................................................................17
+IV. DETAILED CHANGE(S) .............................................................................................................................................17
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 1
+Official Use Only
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+A. Project description
+1. Project background. LAOSTAT-II is an IDA-financed Investment Project Financing operation supporting the
+Government of Lao PDR to strengthen the national statistical system. The project supports production and dissemination of good-quality statistics; enhanced use of statistics through data integration, dissemination, ICT infrastructure, and user engagement; and institutional capacity and project management. The PDO is closely aligned with the Country Partnership Framework FY22-26 in terms of strengthening governance and institution; it also directly supports the M&E framework of the National Socio-Economic Development Plan 2021–2025. The project was approved on 19 December 2022, became effective on 12 May 2023, and is scheduled to close on 15
+February 2028.
+2. Project components. The project has four components: i) improving availability and quality of statistics; ii)
+enhancing use of statistics; iii) strengthening institutional capacity and project management; and iv) Contingent
+Emergency Response (CERC). Each of the three main components consists of several sub-components, as displayed in Table 1 below. To date, the CERC component has not been activated.
+
+Table 1: Project components and budget allocations
+Budget
+(US$ million)
+Budget share (%)
+Activity code
+Activity name and description
+Component 1 11.74 55.9 1 Improving availability and quality of statistics
+1.1 Economic Statistics
+1.1.1 System of National Accounts
+1.1.2 Price statistics
+1.1.3 Sectoral statistics
+1.1.4 Enterprise census and Annual Enterprise survey
+Component 1.1 5.87 27.95
+1.1.5 Agriculture survey
+1.2 Social Statistics
+1.2.1 Annual labor force survey
+1.2.2 Lao Expenditure and Consumption Survey
+1.2.3 Population and housing census
+Component 1.2 5.87 27.95
+1.2.4 Gender statistics
+Component 2 5.96 28.4 2 Enhancing use of statistics
+2.1 Data integration
+2.1.1 Integrated data platform
+2.1.2 Data sharing framework
+2.1.3 Data Quality Assessment Framework
+Component 2.1 0.91 4.3
+2.1.4 Capacity building for data management
+2.2 Data dissemination
+2.2.1 Centralized data portal
+2.2.2 Communication and dissemination
+2.2.3 User engagement and data literacy
+Component 2.2 2.50 11.9
+2.2.4
+Enhanced General Data Dissemination System & advance release calendar
+Component 2.3 2.55 12.1 2.3 ICT infrastructure
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 2
+Official Use Only
+Component 3 2.2 10.5 3
+Strengthening institutional capacity and project management
+3.1 Strengthen institutional capacity
+3.1.1 Statistics law and Special Data Dissemination Standard
+Component 3.1 1.5 7.1
+3.1.2 Human resources development and capacity building
+Component 3.2 1.8 8.6 3.2 Project management
+Component 4 0 0 4 Contingent Emergency Response (CERC)
+3. Implementation arrangements. The project has been managed by the Lao Statistics Bureau (LSB) under the
+oversight of a Project Steering Committee, consisting of representatives from involved ministries. The Project
+Implementation and Management Team (PIMT) is fully staffed with the Head of LSB serving as the Project
+Director and a Deputy Director General of LSB serving as the Project Manager. The project initially involved 17
+Project Implementation Units (PIUs) across eight ministries, two research institutes, the Bank of Laos, and the
+National University of Laos. After the government restructuring in 2025, the number of PIUs decreased to 13, as illustrated in Figure 1 below.
+
+Figure 1: Project Implementation Units by project components
+4. Project Management:
+a. The government restructuring in 2025 required significant adjustments on project coordination and management. The most impactful change from the restructuring is the remapping of LSB, the main implementing agency, from Ministry of Planning and Investment (MPI) to Ministry of Finance (MoF). New approval processes at MoF require adjustments to workflows and longer preparation time to implement
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 3
+Official Use Only activities and procure goods and consulting services. New compliance requirements on data storage and sharing, external communication, and IT infrastructure necessitate adjustments of project activities related to data integration and dissemination (under Component 2).
+b. Notwithstanding these institutional changes, the PIMT and PIUs remain committed to the project. The
+Project Steering Committee meets quarterly to discuss project status, annual workplan and budget.
+Following recommendations from the Bank Task Team during the Mid-term Review (MTR), quarterly meetings between PIMT and PIUs have also been arranged and, thus, helped improve coordination, despite that there is still room for improvement.
+B. Project implementation status
+5. Operational performance:
+a. Disbursement: As of the most recent ISM (18-21 May 2026), total disbursement reached 54%. Actual project spending, while still low as a percentage of the approved Annual Workplan and Budget, has gradually improved over time from 6% in 2023, to 40% and 41% in 2024 and 2025, respectively, and 44%
+in Q1 2026.
+b. Procurement: 55 packages have been cleared by the Bank in STEP, of which 52 packages have signed or completed contracts with a total value of US$5.79 million. Due to delays in some key packages (e.g.
+selecting the firm to develop a data portal) and lengthy bid evaluation and approval processes, the
+Procurement performance rating has been downgraded to Moderately Satisfactory at the last ISM in May
+2026.
+c. Financial Management: The project maintains compliance with core FM requirements including timely submission of Interim Financial Reports and Audited Financial Statements of acceptable quality. There is no overdue audit report. FM performance rating was upgraded at the MTR and has been maintained at
+Satisfactory. Agreed FM actions from the MTR were successfully implemented.
+d. Environment & Social Framework: E&S risk management performance was upgraded from “Moderately
+Satisfactory” to “Satisfactory” at the last ISM. The risk level remains at “Low”. No new GRM case was reported at the last ISM. Corrective actions following the motorbike incidents during project-funded data collection fieldwork were implemented and Occupational Health Safety training has been provided to all enumerators ahead of the fieldwork. Additionally, the PIMT recently appointed new ESF focal points at the province level to help coordinate E&S tasks and reporting.
+e. Implementation support. The Mid-term Review (MTR) was timely conducted 30 months after effectiveness, on 17-21 November 2025. The 5th and most recent ISM was conducted on 18-22 May 2026.
+The World Bank Task Team has provided close technical and implementation support to the project, including Hands-on Implementation Extended Support for procurement in FY26, fortnightly meetings with each subcomponent and operational aspect (ESF, FM, and Procurement) to monitor progress and provide assistance where applicable, as well as regular technical assistance on statistics, survey design, data dissemination and data management system.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 4
+Official Use Only
+
+Table 2: Project Ratings
+Previous
+(November 2025)
+Current
+(May 2026)
+PDO S MS
+Implementation Progress S MS
+Component 1 S MS
+Component 2 MS MS
+Component 3 S S
+Project Management S S
+Financial Management S S
+Procurement S MS
+Environmental and Social Framework MS S
+S: Satisfactory; MS: Moderately Satisfactory
+6. Implementation of project activities.
+a. Achievements: Since effectiveness in May 2023, the project has achieved important milestones on GDP statistics (Component 1.1) and Social Statistics (Component 1.2). In particular, since 2024 the project has produced and regularly published GDP by expenditure (current and structure) and, for the first time in
+Lao PDR, quarterly GDP (current, constant, structure, growth rate), raising the number of published economic aggregates to 13. The project has also produced key social data and statistics, namely the Laos
+Expenditure and Consumption Survey 2024/25, the Gender Factbook based on the Labor Force Survey
+2022, and the Population and Housing Census (with fieldwork completed on 28 Dec 2025 and additional funding provided by the project in response to request from LSB). Export-Import Price Index and a new
+Consumer Price Index basket have been constructed to serve the upcoming National Account rebasing exercise. The first Annual Labor Force Survey commenced fieldwork in late August 2026, with on-going monthly data collection. Various capacity building activities, including data literacy workshops, training, and funding for key personnel to attend international conferences on statistics, have been conducted.
+The project has also provided ICT equipment and infrastructure to LSB, National University of Laos, and selected PIUs to improve their statistical and operational capacity.
+b. Progress toward the PDO indicators has been mixed, with slow progress and critical delays in Component 1.1
+(Economic Statistics) and Component 2 (Enhancing Use of Statistics) now threatening overall project success.
+There has been limited progress on these components since the MTR in November 2025, and consequently, no progress on PDO 1 and PDO 3. The project is on track to achieve PDO 2, as shown in Table 2.
+i. The sub-optimal performance on PDO 1 is due to delays in activities that feed into the National Account rebasing, limited technical capacity, weak coordination among and within PIUs, and lengthy approval processes for procurement of consulting services. While 13 economic aggregates earmarked for publication under PDO 1 have been produced, they are still based on the existing GDP base year of
+2012 and thus do not reflect the recent economic landscape and are not compliant with the 2008
+System of National Account guidelines. To achieve PDO 1, the rebasing of National Accounts to the new base year of 2025 must be completed and the rebased economic aggregates published by
+February 2027.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 5
+Official Use Only ii. Similarly, the weak performance on PDO 3 is related to weak dissemination efforts and delays in
+Component 2, which in turn are partly due to limited technical capacity, lack of experience of LSB IT team in preparing bidding documents, lengthy bid evaluation and approval processes for procurement packages and technical specification of ICT infrastructure, and inefficient coordination between the
+LSB IT team and PIMT and other PIUs. Another factor that has affected progress in Component 2 is the restructuring of LSB as a department of MoF, which has led to significant adjustments in ICT arrangements and external communication protocols, and additional time to liaise with MoF’s Finance
+Information Technology Department (FITD).
+c. Progress toward IRIs has also been mixed. Intermediate Result Indicator (IRI) 3, IRI 5 and IRI 10 have been achieved. IRI 7 is on track for full achievement. However, the remaining six IRIs have seen little progress, largely due to the delays in data integration and dissemination under Component 2.
+7. Overall, the implementation of project activities has been constrained by various challenges, both on-going and
+temporal. They include:
+a. On-going challenges:
+i. Low absorptive capacity in PIUs relative to the project’s scale and complexity.
+ii. Weak coordination mechanism across PIUs and within LSB iii. Cumbersome approval processes and a lack of empowerment of technical staff in PIUs iv. Difficulties in collecting administrative data from line ministries to construct macroeconomic statistics due to weak data sharing mechanisms and weak coordination.
+v. Large number of procurement packages, combined with lack of experience in preparing TORs, bidding documents and evaluating bids, weak technical capacity and coordination, is a key challenge to timely implementation b. Temporal shocks:
+i. Between January and May 2026, three project consultants for Procurement, ESF, and Communication resigned at their own will. This has further restricted human resources available to implement the project.
+ii. The 2026 fuel price crisis caused delays in various data collection activities, as budgets required adjustments and travels were restricted due to a period of fuel shortages.
+iii. Since LSB is mapped to MoF, new approval processes at MoF for project activities and procurement packages require extra preparation time and have caused significant delays in key procurement packages.
+iv. The government restructuring in 2025 also caused significant disruptions and loss of time to the project. Uncertainties in duty assignment created confusion and unwillingness to take actions in both
+LSB and line ministries. Project staff were only endorsed by MoF on 14 September 2025 and staffing of PIUs in several line ministries was only confirmed at the end of 2025. This challenge has now been resolved.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 6
+Official Use Only
+
+Table 3: Result Indicators
+Targets
+Indicator Description Baseline Intermediate Endline
+As of May
+2026
+PDO 1
+Number of economic aggregates produced according to the 2008 SNA guidelines and published over at least one year and to the end of the project (Number)
+6 7 12 6*
+PDO2
+Number of e-GDDS macro and financial indicators published in compliance with the recommended timeliness over at least one year and to the end of the project (Number)
+2 3 5 4
+PDO3
+Increase in number of downloads of datasets and publications during the most recent 6-month period (%)
+0 15 30 -26**
+IRI 1
+Number of price statistics published over at least one year and to the end of the project
+12 16 24 12
+IRI 2
+Number of annual labor force survey results published within 9 months after the fieldwork completed
+0 1 3 0
+IRI 3 Number of SGS gender economic indicators published 7 10 14 15
+IRI 4
+Number of agencies/departments exchanging data through the automated system to the integrated platform
+0 1 3 0
+IRI 5 Number of portal visits in one year (two-year average) 18,830 21,830 26,830 55,984
+IRI 6
+Number of government officials and statistical users trained in data literacy
+0 250 500 234
+IRI 7
+Number of female government officials and statistical users trained in data literacy
+0 80 160 113
+IRI 8
+Number of surveys (microdata or metadata) available in the portal
+0 5 10 0
+IRI 9 Percentage increase in user satisfaction score 0 5 10 54%***
+IRI 10
+Number of LSB and LSS staff trained as part of the capacity building
+0 600 1,200 1,781#
+Source: PIMT
+* Including quarterly GDP, monthly CPI, quarterly BOP and daily exchange rate.
+** based on number of downloads during November 2025-April 2026 relative to the baseline period of June-November
+2023, i.e. 6 months after the project effectiveness.
+*** The reported satisfaction score is the average share of data users satisfied with LSB statistics across three main
+statistics groups (population, social and national account statistics). Data are from the first User Satisfaction survey which was completed in March 2026. This serves as the baseline for monitoring user satisfaction. The next round of the survey will be conducted in early 2027.
+# based on person-time basis instead of headcount of individual staff members trained.
+C. Rationale for restructuring
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 7
+Official Use Only
+8. The proposed Level 2 restructuring follows findings from the MTR and the 5th ISM as well as technical discussions
+between LSB/MoF and the World Bank task team. A formal request letter for the Restructuring, signed by the
+Deputy Prime Minister and Minister of Finance, was received by the World Bank on 23 June 2026. This will be the first restructuring of the project.
+9. The restructuring would involve (i) removal of some project activities under Components 1 and 2 to strengthen
+efficiency and reduce implementation bottlenecks, while maintaining the PDO and core outputs, (ii) revise some result indicators to better and more realistically monitor progress, and (iii) reallocate some budget from
+Component 2 to Components 1 and 3 to optimize resources for evolving technical needs. The proposed removal of some project activities requires a corresponding amendment to the Financing Agreement. The project remains focused on (i) production of key economic and social statistics, including national accounts, labor statistics, and price statistics; (ii) data integration; and (iii) data dissemination. The proposed restructuring would address three key challenges that are impeding implementation progress, as follows.
+10. Limited capacity and human resources in PIUs are overstretched to handle the current complexity and scope of
+the project. The executing agencies’ low technical capacity, weak coordination, and limited resources remain key obstacles to project implementation. Currently, both PIMT and the key PIU within LSB – the Department of
+Economic and Social Statistics – are stretched thin to implement Components 1 and 2, with the activities under their responsibilities accounting for the major share of the project’s budget and planned procurement packages.
+The National Account rebasing exercise alone requires various activities under sub-components 1.1.1, 1.1.2 and
+1.1.3 to be implemented in parallel, with extensive data sharing and coordination among LSB and the PIUs in line ministries and the Bank of Laos. While the Task Team provides regular technical assistance and helps bridge the coordination across PIUs, maintaining the current activity load on them is unsustainable and counterproductive.
+With only 18 months left until closing date, the project would be more impactful to focus its resources on key building blocks of the statistical system, namely the production of key economic statistics, including the rebased
+National Accounts. By dropping non-essential activities, the PIMT and PIUs can better focus their efforts and resources on the more important tasks that feed directly into the result indicators.
+11. Evolving needs of the government call for adjustments on budget allocations.
+a. Component 1 requires more budget to meet evolving needs of the government in monitoring poverty and social development.
+b. As stated in the Project Appraisal Document, sub-component 1.1.4 supports the Enterprise Census and
+Survey. At Appraisal, it was expected that the Enterprise Census would be conducted in 2025 with government funding, and the Enterprise Survey would start in 2026 with the project’s funding, using the
+2025 census as a sampling frame. However, due to conflicting schedules with the 2025 PHC, the Economic census was postponed. The AES was implemented in 2026 as planned, but with an incomplete sampling frame. The Economic Census is now needed to re-weight the Enterprise Survey sample for the purpose of rebasing National Accounts. Given the government’s on-going efforts to improve domestic resource mobilization, MoF has also expressed renewed interest in the Enterprise Census to strengthen the country’s tax base. The project is well positioned to finance a part of this census.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 8
+Official Use Only c. As stated in the Project Appraisal Document, sub-component 1.2.2 supports the design and implementation of the LECS. At the project’s Appraisal, it was expected that only one round of LECS, i.e.
+LECS 2024/25, would be implemented within the life of the project. However, the government has recently set poverty reduction as a formal National Agenda for the period of 2026-30. To monitor poverty progress and assess outcomes of this agenda and the National Socio-economic Development Plan (NSEDP)
+2026-30. MoF now expects the next LECS to be pushed forward to 2028 instead of 2029, for which design of survey instruments, purchase of enumeration kits and training of enumerators need to be completed in 2027. Given the fundamental role of LECS in monitoring poverty and informing the assessment of the
+NSED and the Bank’s strong engagement on poverty reduction in Laos, there is solid value for the Bank to continue supporting this survey, and the project is well positioned to do so.
+d. Component 3.2 needs slightly more budget to finance increased costs of project management. As noted in the Aide Memoire of the 5th ISM, budget estimates for many procurement packages, particularly the costs of individual consultants were unrealistic due to reactive (instead of proactive) communication between PIMT and PIUs on procurement planning and the finalization of technical specifications/TORs.
+Due to inflation-based wage adjustments and high-than-expected cost of individual consultants, the current allocation is expected to run short by the end of project.
+e. The project’s current budget allocation across sub-components does not support the above needs. In addition to the emerging needs that were not expected at Appraisal, another factor has contributed to the need for budget reallocation. Responding to a request from MoF in September 2025, the project provided additional financial resources (approximately US$1.04 million) to the PHC 2025 (sub-component
+1.2.3), funding the training of trainers, training of enumerators and part of the data collection fieldwork.
+This was on top of the initially planned budget for this sub-component. While this extra support did not affect the budget allocation at that time, it meant that as new needs emerge under Component 1, adjustments to allocation across subcomponents are needed.
+12. Some existing endline targets were hard to measure or too ambitious. Table 6 presents the rationale for each
+adjustment to the result indicators. Most notably:
+a. PDO 3 measures changes in number of downloads number of downloads relative to the baseline period of
+June-November 2023, i.e. 6 months after the project effectiveness. However, monthly downloads fluctuate, partly depending on the release of new publications and datasets. As noted in the Aide Memoire of the MTR, the definition of PDO 3 does not effectively indicate progress on data dissemination, and it should be reviewed and revised.
+b. The ALFS was delayed for more than two years due to slow start of project implementation during the first year of the project and the PHC in 2025 fully occupying LSB’s Social Statistics division. By the end of the project, only 5 quarters of labor market data can be completed. This means that the original endline target of IR 2 is no longer realistic.
+Both intermediate and endline target of IRI 10 are well above the total number of LSB staff members which is only 101.
+The indicator’s definition also makes it difficult to capture the fact that one staff member could receive multiple training as part of the project’s capacity building.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 9
+Official Use Only
+II. DESCRIPTION OF PROPOSED CHANGES
+13. The following adjustments to the project are proposed:
+a. Drop non-critical activities to optimize project resources to support the building blocks of the Laos
+Statistical System and accelerate progress toward full achievement of the Project Development
+Objectives. These include sub-components 1.1.5, 2.1.2, 2.1.3, 2.1.4, and 2.2.4 (see Table 4). The
+Financing Agreement will be amended to reflect the removal of these sub-components from the
+Project’s scope.
+b. Reallocate budget from Component 2 to Component 1.2 and Component 3.2, to better support evolving needs of the government and reflect the removal of sub-components above. See Table 5 for more details.
+c. Adjust the result framework as follows:
+i. Revise PDO 3 to reduce seasonal fluctuation in the data and better monitor progress in data dissemination and access.
+ii. Revise four intermediate results indicators (IRI 1, IRI 2, IRI 9, and IRI 10) to better track progress and set more realistic endline targets in line with current implementation progress and data availability. Table 6 describes the proposed revisions and their rationale in detail.
+14. Expected impacts of the restructuring on implementation performance and result framework:
+a. The restructuring does not change the existing PDO, financing envelope, implementation arrangements, fiduciary arrangements, procurement arrangements, E&S scope and risk classification, and closing date.
+b. The activities to be dropped have not commenced; no disbursement or expenditure has been incurred on them. They are not operationally related to any of the remaining activities. Their expected outputs, if they are to be retained, do not contribute to the PDO indicators and IRIs. Thus, dropping them at this stage would not result in unfinished activities nor affect the remaining activities or the result framework.
+The task team will ensure that the dropped activities are reflected consistently in STEP, updated Annual
+Workplan and Budget, future ISRs, and the project’s record.
+c. The proposed budget reallocation would allow sufficient funding for key data collection activities that have become more policy relevant, namely the Economic Census, the 8th LECS, as well as increased project management costs due to inflation.
+d. The revision of the result framework will more realistically and more accurately monitor progress, given the current implementation status and data availability.
+
+Table 4: Proposed adjustments to project activities
+Component
+Activity code
+Activity name
+Proposed adjustment
+Rationale for dropping
+1.1.1 System of National Accounts No change
+1.1.2 Price statistics No change
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 10
+Official Use Only
+1.1.3
+Sectoral statistics (International
+Investment Position online survey platform, farm-gate price survey,
+Tourism Satellite Account)
+No change
+1.1.4
+Enterprise census and Annual
+Enterprise survey
+No change
+Component 1.1
+Economic
+Statistics
+1.1.5 Agriculture survey Drop
+This activity is not critical to achieving the PDO indicators. It largely overlaps with existing outputs from the Lao
+Expenditure and Consumption Survey and the Farm-gate Price survey.
+1.2.1 Annual labor force survey No change
+1.2.2
+Lao Expenditure and Consumption
+Survey
+No change
+1.2.3 Population and housing census No change
+Component 1.2
+Social Statistics
+1.2.4 Gender statistics No change
+2.1.1 Integrated data platform No change
+2.1.2 Data sharing framework Drop
+This activity is not critical to achieving the PDO. The essence of this activity is organically embedded in data integration process.
+2.1.3 Data Quality Assessment Framework Drop
+This activity is not critical to achieving the PDO. The essence of this activity is organically embedded in data integration process.
+Component 2.1
+Data integration
+2.1.4
+Capacity building for data management
+Drop
+This activity is not critical to achieving the PDO. The essence of this activity is organically embedded in data integration process.
+2.2.1 Centralized data portal No change
+2.2.2 Communication and dissemination No change
+2.2.3 User engagement and data literacy No change
+Component 2.2
+Data dissemination
+2.2.4
+Enhanced General Data
+Dissemination System & advance release calendar
+Drop
+This activity is not critical to achieving the PDO. The essence of this activity is organically embedded in data dissemination process.
+Component 2.3 ICT infrastructure No change
+3.1.1
+Statistics law and Special Data
+Dissemination Standard
+No change
+Component 3.1
+Strengthen institutional capacity
+3.1.2
+Human resources development and capacity building
+No change
+Component 3.2 Project management No change
+15. Fiduciary, Disbursement, Legal, and Environmental and Social considerations
+a. Financial management. The project's latest financial management performance is Satisfactory. FM arrangements, including the FM Manual, remain adequate for the project. There is no outstanding audit or IFR. The latest project's financial statement audit (FY25) received an unmodified (clean) audit opinion.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 11
+Official Use Only
+No change to the FM arrangement expected. The updated AWPB 2026 received No Objection from the
+Task Team on 30 July 2026.
+b. Disbursement and WFA. No change to disbursement arrangements, withdrawal categories, closing date, or cancellation is proposed at this stage. The proposed reallocation of budget only involves adjusting budget allocation across project sub-components. It does not affect project disbursement by expenditure categories because the project has only one spending category, namely “Goods, non-
+consulting services and consulting services, training and workshops, and operating costs for the project”
+– see below extract from the PAD. Since the CERC component has not been activated, “Emergency
+Expenditure under Component 4” remains with zero budget allocation.
+Extract from the Project Appraisal Document: Project disbursement by category as reflected in the Legal
+Agreements c. Environmental and Social Framework. The proposed adjustments remain within the existing E&S scope and risk classification. ESF restructuring entry and disclosure action is not needed. No adjustment to E&S documents is needed.
+d. Procurement. The current Procurement Plan (version 23st) has been cleared by the Task Team on STEP on 4 September 2026. This Procurement Plan does not include any package for the activities proposed to be dropped. The procurement arrangement remains the same under the supervision of the Project
+Director, with one Procurement National Consultant and two Procurement Assistants.
+16. Budget reallocation and projected withdrawals
+a. Table 5 displays the reallocation of project budget across components to support evolving needs of the government and reflect the removal of sub-components described in paragraph 13.
+b. It is projected that the project will expend approximately $3.05 million in each semester in 2027 and approximately $0.3 million in early 2028, fully utilizing the project budget.
+
+Table 5: Proposed reallocation of budget
+Actual expenditure (as of 30
+June 2026, US$ million)
+Current budget
+(US$ million)
+Reallocated budget
+(US$ million)
+Component 1 6.95 11.74 12.30
+Component 1.1 0.99 5.87 4.70
+Component 1.2 5.96 5.87 7.60
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 12
+Official Use Only
+Component 2 1.12 5.96 5.38
+Component 2.1 0.08 0.91 0.53
+Component 2.2 0.28 2.50 2.30
+Component 2.3 0.76 2.55 2.55
+Component 3 1.57 3.3 3.32
+Component 3.1 0.36 1.5 1.27
+Component 3.2 1.21 1.8 2.05
+Component 4 0 0 0
+Total 9.65 21 21
+Note: The total amount committed to the project is XDR $16.4 million, equivalent to USD 21 million at Project
+Appraisal. Due to the depreciation of the local currency, as of 10 September 2026 the committed amount is equivalent to US$ 22.5 million, with US$7.6 million (or XDR$ 5.56 million) to be disbursed.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 13
+Official Use Only
+
+Table 6: Proposed changes to the result framework
+Indicator name
+Revised indicator name
+Definition Revised definition
+Endline target
+Current
+Revised endline target
+Rationale for changes
+PDO1
+Number of economic aggregates produced according to the 2008 SNA guidelines and published over at least one year and to the end of the project
+(Number)
+Number of economic aggregates produced according to the
+2008 SNA guidelines and published on a regular basis and to the end of the project (Number)
+The proposed indicator focuses on 16 economic aggregates:
+GDP by production (current prices, constant prices, structure, growth), GDP by expenditure (current prices, constant prices, structure, growth), GDP by income, GDP per capita, GNI, GNI per capita, and quarterly GDP (current prices, constant prices, structure, growth). It measures the number of economic aggregates produced each year and that they are published over at least one year and to the end of the project. The baseline is that each year six economic aggregates are publicly available including
+GDP by production (current prices, constant prices, structure, growth), GDP by expenditure in current prices and GDP per capita.
+The proposed indicator focuses on 16 economic aggregates: GDP by production (current prices, constant prices, structure, growth), GDP by expenditure
+(current prices, constant prices, structure, growth),
+GDP by income, GDP per capita, GNI, GNI per capita, and quarterly GDP (current prices, constant prices, structure, growth). It measures the number of economic aggregates produced each year and that they are published regularly –
+quarterly for quarterly statistics and annually for annual statistics – and to the end of the project. The baseline is that each year six economic aggregates are publicly available including
+GDP by production (current prices, constant prices, structure, growth), GDP by expenditure in current prices and GDP per capita.
+12 6 12
+It is proposed that the indicator replaces the publication condition “over at least one year” with “regularly –
+quarterly for quarterly statistics and annually for annual statistics”. This would encourage regular and timely release of key statistics and be more realistic, given the delays in activities that feed into the
+National Account rebasing.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 14
+Official Use Only
+PDO2
+Number of e-
+GDDS macro and financial indicators published in compliance with the recommended timeliness over at least one year and to the end of the project
+(Number)
+Number of e-GDDS macro and financial indicators published in compliance with the recommended timeliness and to the end of the project (Number)
+The proposed indicator will evaluate improvements in the timeliness of data dissemination. It measures the number of the IMF’s e-
+GDDS macro and financial indicators published each year with a publication time lag that meets the e-GDDS standards. The baseline is that only CPI and BOP publications follow the e-
+GDDS standards.
+No change 5 4 5
+The indicator definition already specifies the required timeliness as per the e-GDDS standards. So it is proposed that the indicator name removed “over at least one year” condition for simplicity.
+PDO3
+Increased number of downloads of datasets and publications during the most recent six-month period (%)
+Increase in 2-year average number of downloads of datasets and publications as compared to the baseline period
+(%).
+The proposed indicator is a percentage increase in downloads of data products
+(datasets and publications)
+supported by the project in the most recent six-month period relative to the six months after project start date. The indicator is dependent on an increase in the number of datasets and publications available on the website and the extent to which dissemination activities lead to increased downloads of data products.
+The indicator is a percentage increase in annual downloads of data products (datasets and publications) supported by the project publications as compared to the baseline period of one year before the project start date, i.e. Apr
+2022-May 2023.
+30 -26 15
+As noted in the Aide Memoire of the MTR, the definition of
+PDO 3 does not effectively indicate progress on data dissemination. Monthly downloads fluctuate, partly depending on whether new datasets or publications are released. Thus, six-months average fluctuates wildly.
+Changing the measurement to annual downloads help reduce the impact of such ad hoc fluctuations.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 15
+Official Use Only
+IRI 1
+Number of price statistics published over at least one year and to the end of the project
+Number of price statistics published on a regular basis and to the end of the project
+Number of price statistics publications including monthly
+CPI, quarterly PPI, quarterly
+XMPI and quarterly construction price index published in one year.
+No change 24 12 20
+To prioritize resources and staff time for activities essential for
+National Account rebasing, the
+PIMT has decided to postpone the development of the
+Construction Price index to
+2027. This leads to
+postponement of the
+Construction Price index publication and would make it ineligible to be counted in IRI 1.
+Thus, the endline target is proposed to decrease from 24 to 20, i.e. excluding 4 quarterly
+Construction Price index.
+IRI 2
+Number of annual labor force survey results published within 9 months after the fieldwork completed
+No change
+Cumulative counts of the number of LFS briefs or reports financed by the project that were produced and published within 9 months after fieldwork completion in the last 3 years.
+No change 3 0 1
+At Project Appraisal, the ALFS was envisioned to be conducted 4 times during the project’s life, and thus, would result in 4 annual labor market reports. However, the survey was significantly delayed due to slow start in the first year of the project and the PHC fully occupying LSB’s Social Statistics division in 2025. Given the remaining time until project closing date, it is realistic to expect only one round of ALFS.
+IRI 9
+Percentage increase in user
+Percentage of users satisfied with data services
+User satisfaction score with
+LSB’s statistical products and dissemination activities
+Percentage of users reported satisfaction with LSB’s statistical products and dissemination activities
+10 54% 65%
+The first Annual User
+Satisfaction Survey was completed in March 2026 and
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 16
+Official Use Only satisfaction score obtained from website users on an ongoing basis and an annual user satisfaction survey targeting specific user groups such as ministerial departments, international organizations, academia, and the private sector.
+obtained from an annual user satisfaction survey targeting ministerial departments, international organizations, academia, and the private sector. The recorded percentage is the average share of data users satisfied with LSB statistics across three statistics groups: population, social, and national account.
+serves as baseline. LSB does not have capacity and resources to collect satisfaction of website users on an ongoing basis.
+IRI 10
+Number of LSB and LSS staff trained as part of the capacity building
+Count of LSB and
+LSS staff-time trained in capacity building activities
+Number of LSB and LSS staff that participate in trainings financed by the project with positive performance based on training-specific assessments.
+Number of times that LSB and
+LSS staff participate in trainings financed by the project with positive performance based on training-specific assessments. If one staff member participates in two or more training courses, the number of trainings they attend is counted toward the indicator, instead of the headcount of the staff member.
+1,200
+1,781 person-time
+3,000 person-
+time
+Since the project provides various training courses that
+LSB and LSS staff can attend based on business needs, counting person-time instead of headcount would better capture the extent that the project contributes to strengthening technical capacity of the statistic system.
+Also, PIUs have been recording person-time based on hand-
+written attendance sheets of capacity building events, as per usual practice in government events. It is challenging to record headcount due to their limited analytical capacity to transcribe attendance sheets and distinguish duplication when a person attends more than one event.
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 17
+Official Use Only
+@#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+III. PROPOSED CHANGES
+Operation Information Proposed Changes Operation Information Proposed Changes
+Results Yes Reallocations Yes
+Components Yes Loan Closing Date Extension No
+Development Objective No Loan Cancellations No
+Summary Description
+(Operation Abstract)
+No Financial Management No
+Legal Operational Policies No Procurement No
+MFD/PCE No Institutional Arrangement No
+Risks No Implementation Schedule No
+Legal Covenants No
+Conditions No
+Implementation Modalities No
+Disbursements Estimates No
+Disbursements Arrangements No
+DDO No
+Clients No
+Appraisal Summary No
+@#&OPS~Doctype~OPS^dynamics@restrhybriddetailedchanges-disclose#doctemplate
+IV. DETAILED CHANGE(S)
+COMPONENTS
+Current
+Component Name
+Current
+Cost (USD)
+Action
+Proposed
+Component Name
+Proposed Cost
+(USD)
+Component 1: Improving availability and quality of statistics
+11,740,000.00 Revised
+Component 1: Improving availability and quality of statistics
+12,300,000.00
+Component 2: Enhancing use of statistics
+5,960,000.00 Revised Enhancing use of statistics 5,380,000.00
+Component 3: Strengthening institutional capacity and project management
+3,300,000.00 Revised
+Strengthening institutional capacity and project management
+3,320,000.00
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 18
+Official Use Only
+Component 4: Contingent
+Emergency Response (CERC)
+0.00 No Change
+Contingent Emergency
+Response (CERC)
+0.00
+TOTAL 21,000,000.00 21,000,000.00
+COSTS & FINANCING
+Private Capital Facilitation
+Is this an MFD-Enabling Project (MFD-EP)?
+Is this project Private Capital Enabling (PCE)?
+Reallocations
+IDA-72380-001
+Currency: XDR
+Cancellations (if any):
+0.00
+New Allocation:
+0.00
+Financing %
+(Type Total)
+Cate gory
+No.
+Expenditure
+Category
+Current
+Allocation
+Actuals +
+Committed
+Proposed
+Allocation Current Proposed
+1 G,NCS,CS,TR&WS,O
+C
+12,500,000.00 3,299,468.97 12,500,000.00 100.00 100.00
+2 EMERGENCY
+EXPENDITURES
+0.00 0.00 0.00 100.00 0.00
+Total 12,500,000.00 12,500,000.00
+IDA-72390-001
+Currency: XDR
+Cancellations (if any):
+0.00
+New Allocation:
+0.00
+Financing %
+(Type Total)
+Cate gory
+No.
+Expenditure
+Category
+Current
+Allocation
+Actuals +
+Committed
+Proposed
+Allocation Current Proposed
+1 G,NCS,CS,TR&WS,O
+C
+3,900,000.00 3,831,913.26 3,900,000.00 100.00 100.00
+2 EMERGENCY
+EXPENDITURES
+0.00 0.00 0.00 100.00 0.00
+Total 3,900,000.00 3,900,000.00
+ENVIRONMENTAL & SOCIAL
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 19
+Official Use Only
+Environmental & Social Assessment
+According to the E/S Specialist are there changes proposed to the operation’s design that would impact the Bank’s E&S assessment?”
+No
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 20
+Official Use Only
+RESULTS
+COUNTRY: Lao People's Democratic Republic
+Lao PDR Strengthening the National Statistical System
+@#&OPS~Doctype~OPS^dynamics@restrannexpolicyandresult#doctemplate
+PDO Indicators by PDO Outcomes
+Production and dissemination of good quality statistics
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+6.00 Dec/2022 6.00 22-May-2025 6.00 22-May-2025 12.00 Jan/2028
+Number of economic aggregates produced according to the 2008 SNA guidelines and published over at least one year and to the end of the project (Number)
+Comments on achieving targets The number of published economic aggregates listed under PDO-1 reached 13, exceeding the target of 12, after
+Quarterly GDP was published for the first time for Q4 2024. To fully achieve PDO-1, it is required that the project completes GDP rebasing in 2026 (with 2025 as the new base year) and publishes the rebased economic aggregates by February 2027 and regularly until the end of the project.
+Timely dissemination
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+2.00 Dec/2022 4 22-May-2026 4 22-May-2026 5.00 Jan/2028
+Number of e-GDDS macro and financial indicators published in compliance with the recommended timeliness over at least one year and to the end of the project (Number)
+Comments on achieving targets Quarterly GDP and GDP by expenditure (in current prices and growth rate) have been published. To meet timeliness recommendations for International Merchandise Trade Statistics (IMTS) and International Investment
+Position (IIP) Statistics, harmonization and automated data sharing between the Lao Statistics Bureau and the
+Ministry of Finance for IMTS have been tested and agreed upon at the technical level, while development of the
+IIP online survey platform is underway.
+Use and re-use of statistics
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+0.00 Dec/2022 -26 22-May-2026 -26 22-May-2026 30.00 Jan/2028
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 21
+Official Use Only
+Increased number of downloads of datasets and publications during the most recent six-month period
+(Percentage)
+Comments on achieving targets Based on number of downloads during November 2025-April 2026 relative to the baseline period of June-
+November 2023, i.e. 6 months after the project effectiveness. However, monthly downloads fluctuate, partly depending on the release of new publications and datasets. As noted in the Aide Memoire of the MTR, the definition of PDO 3 does not effectively indicate progress on data dissemination. This indicator will be reviewed and revised as appropriate during the upcoming Project Restructuring.
+Intermediate Results Indicators by Components
+Component 1: Improving availability and quality of statistics Revised
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+12.00 Dec/2022 12.00 22-May-2026 12.00 22-May-2026 24.00 Jan/2028
+Number of price statistics published over at least one year and to the end of the project (Number)
+Comments on achieving targets Compilation of the export-import price index was completed for the first time in 2025. The index is on track to be published in mid-2026.
+0.00 Dec/2022 0.00 22-May-2026 0.00 22-May-2026 3.00 Jan/2028
+Number of annual labor force survey results published within 9 months after fieldwork completion
+(Number)
+Comments on achieving targets Delay in the Annual Labor Force Survey implementation has affected achievement of this indicator, with the final number expected to be 1 to 2. The first ALFS is expected to roll out in August 2026, with on-going monthly data collection.
+7.00 Dec/2022 15 22-May-2026 15 22-May-2026 14.00 Jan/2028
+Number of SGS gender economic indicators published (Number)
+Comments on achieving targets This target has been over-achieved. The second Gender Fact book based on data from the Lao Expenditure and
+Consumption Survey 2024/25 is being finalized and on track for publication by late 2026, which will further boost this indicator.
+Enhancing use of statistics Revised
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+0.00 Dec/2022 0.00 22-May-2026 0.00 22-May-2026 3.00 Jan/2028
+Number of agencies/departments exchanging data through the automated system to the integrated platform (Number)
+Comments on achieving targets Automated data sharing between the Lao Statistics Bureau, the Ministry of Finance, and the Ministry of Industry and Commerce have been agreed upon at the technical level. The government restructuring in 2025 has required adjustments in data sharing arrangements, inter-agency coordination and the project's workflow,
+The World Bank
+Lao PDR Strengthening the National Statistical System (P178002)
+Page 22
+Official Use Only leading to delays. Development of an integrated information system and centralized portal, which is expected to commence by Q2 2026, is necessary for achieving the target.
+31,645 Dec/2022 55,984 22-May-2026 55,984 22-May-2026 26,830 Jan/2028
+Revise Number of portal visits in one year (two-year average) (Number) Comments on achieving targets The target has been achieved but needs to be maintained or improved until the project closing date.
+0.00 Dec/2022 234 22-May-2026 234 22-May-2026 500.00 Jan/2028
+Number of government officials and statistical users trained in data literacy (Number)
+Comments on achieving targets Three data literacy workshops have been conducted during Q3 2025 - Q1 2026 for government officials, university lecturers and students.
+Number of female government officials and statistical users trained in data literacy (Number)
+0.00 Dec/2022 113 22-May-2026 113 22-May-2026 160.00 Jan/2028
+0.00 Dec/2022 0.00 22-May-2026 0.00 22-May-2026 10.00 Jan/2028
+Number of surveys (microdata or metadata) available in the portal
+(Number)
+Comments on achieving targets Microdata library is one of the features of the new centralized data portal, which is expected to launch in late
+2026.
+0.00 Jun/2023 54 22-May-2026 54 22-May-2026 10.00 Jan/2028
+Increased user satisfaction score
+(Percentage)
+Comments on achieving targets The reported satisfaction score is the average shares of data users satisfied with LSB statistics across three main statistics groups (population, social and national account statistics). Data are from the first User Satisfaction survey which was completed in March 2026. This serves as the baseline for monitoring user satisfaction. The next round of the survey will be conducted in early 2027.
+Strengthening institutional capacity and project management Revised
+Baseline Actual (Previous) Actual (Current) Closing Period
+Indicator Name
+Result Month/Year Result Date Result Date Result Month/Year
+0.00 Dec/2022 1,781 22-May-2026 1,781 22-May-2026 1,200.00 Jan/2028
+Number of LSB and LSS staff trained as part of the capacity building
+(Number)
+Comments on achieving targets Based on person-time basis instead of count of individual staff members trained. The value in the last ISR was incorrectly reported by PIMT - it is the number of participants in meetings and workshops conducted by the project, not the number of staff trained. The correct value as of end of 2025 is 1,251 staff members.

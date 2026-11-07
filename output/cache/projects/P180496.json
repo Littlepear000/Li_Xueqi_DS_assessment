@@ -1,0 +1,654 @@
+{
+  "project_id": "P180496",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "9d83b176",
+  "started_at": "2026-11-07T03:36:17Z",
+  "ended_at": "2026-11-07T03:36:32Z",
+  "input_fingerprint": "86513c7c65169868",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 21,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P180496-A1",
+      "project_id": "P180496",
+      "name": "Regulated indirect SPEI participation scheme for payment institutions",
+      "description": "Prior action sets rules letting financial entities join SPEI indirectly, cutting cost of digital payments",
+      "why_innovative": "New process: indirect participation rules widen payment access - cue: 'digital payment' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099060123144018717",
+        "doc_type": "ProgramDocument",
+        "doc_date": "2023-05-25",
+        "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+        "char_start": 104407,
+        "char_end": 104704,
+        "text": "The PA supports regulatory reforms to enhance the availability of digital payment services through clear rules for the indirect participation of financial institutions in SPEI while also enhancing the consumer experience for SPEI and CoDi services and ensuring a robust and modern payments system.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099060123144018717",
+          "doc_type": "ProgramDocument",
+          "doc_date": "2023-05-25",
+          "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+          "char_start": 104705,
+          "char_end": 104883,
+          "text": "The regulations establish rules for indirect participation in SPEI and set out the specific parameters under which direct participants will offer indirect participation services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099060123144018717",
+          "doc_type": "ProgramDocument",
+          "doc_date": "2023-05-25",
+          "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+          "char_start": 105037,
+          "char_end": 105401,
+          "text": "The new regulated indirect participation scheme is expected to have a positive impact on financial inclusion by enabling greater and more affordable46 access to SPEI for financial institutions and thus improving accessibility and affordability of SPEI-enabled digital payment services (for example, international remittances and CoDi payments) for their customers.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: changes payment market access and affordability",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Banking Institutions",
+        "code": "",
+        "confidence": null,
+        "rationale": "SPEI payment system participation rules for financial entities directly serve banking/payment institutions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SPEI indirect participation rules | Innovative: opens interbank rails to indirect participants | Category: financial access",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: indirect participation rules widen payment access - cue: 'digital payment'",
+      "innovation_cues": [
+        "digital payment",
+        "guarantee"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P180496",
+      "doc_type": "ProgramDocument",
+      "doc_date": "2023-05-25",
+      "guid": "099060123144018717",
+      "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:17Z",
+      "ended_at": "2026-11-07T03:36:17Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 1 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:17Z",
+      "ended_at": "2026-11-07T03:36:17Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-06-23, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:17Z",
+      "ended_at": "2026-11-07T03:36:18Z",
+      "status": "ok",
+      "note": "21 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 21,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 2,
+          "innovation_types": 8,
+          "innovation_cycle": 4,
+          "enabling_processes": 5,
+          "results_based_management": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:18Z",
+      "ended_at": "2026-11-07T03:36:18Z",
+      "status": "ok",
+      "note": "ProgramDocument 2023-05-25 (P180496_ProgramDocument_2023-05-25_099060123144018717.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P180496",
+            "doc_type": "ProgramDocument",
+            "doc_date": "2023-05-25",
+            "guid": "099060123144018717",
+            "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:18Z",
+      "ended_at": "2026-11-07T03:36:18Z",
+      "status": "ok",
+      "note": "156 reading units (50 numbered paragraphs) from 1450 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 156
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:18Z",
+      "ended_at": "2026-11-07T03:36:20Z",
+      "status": "ok",
+      "note": "55 of 156 units carry a digital / AI cue (20 also an innovation cue); 0 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 55,
+        "dropped": 0,
+        "legal_condition": 0,
+        "with_innovation_cue": 20
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:20Z",
+      "ended_at": "2026-11-07T03:36:26Z",
+      "status": "ok",
+      "note": "9 candidate practices from 55 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 194048,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1148,
+          "cached_tokens": 41983,
+          "cache_write_tokens": 0,
+          "output_tokens": 2137,
+          "seconds": 16.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0032
+        },
+        "extracted": 9
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:26Z",
+      "ended_at": "2026-11-07T03:36:29Z",
+      "status": "ok",
+      "note": "1 accepted, 8 rejected (unsupported_by_evidence 5, not_innovative 2, generic 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 36275,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4483,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 479,
+          "seconds": 3.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0019
+        },
+        "accepted": 1,
+        "rejected": 8,
+        "expanded": 0,
+        "reject_codes": {
+          "unsupported_by_evidence": 5,
+          "not_innovative": 2,
+          "generic": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:29Z",
+      "ended_at": "2026-11-07T03:36:30Z",
+      "status": "ok",
+      "note": "1 of 1 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 924,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 228,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 43,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:30Z",
+      "ended_at": "2026-11-07T03:36:30Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:30Z",
+      "ended_at": "2026-11-07T03:36:32Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4109,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 470,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 81,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:32Z",
+      "ended_at": "2026-11-07T03:36:32Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 3 evidence rows, 8 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:32Z",
+      "ended_at": "2026-11-07T03:36:32Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 224
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P180496-A1-E1",
+      "approach_id": "P180496-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P180496",
+      "doc_id": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "doc_date": "2023-05-25",
+      "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+      "unit_id": "U69",
+      "para_no": 54,
+      "sentence_position": 655,
+      "char_start": 104407,
+      "char_end": 104704,
+      "sentence": "The PA supports regulatory reforms to enhance the availability of digital payment services through clear rules for the indirect participation of financial institutions in SPEI while also enhancing the consumer experience for SPEI and CoDi services and ensuring a robust and modern payments system.",
+      "practice": "Regulated indirect SPEI participation scheme for payment institutions",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Banking Institutions",
+      "extractor_reason": "Digital core: SPEI indirect participation rules | Not routine: previously unclear access rules | Adoption: 'PA supports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPEI indirect participation rules | Innovative: opens interbank rails to indirect participants | Category: financial access",
+      "keywords_hit": "accessibility;digital payment",
+      "innovation_cues": "digital payment;guarantee",
+      "innovation_basis": "New process: indirect participation rules widen payment access - cue: 'digital payment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9d83b176"
+    },
+    {
+      "row_id": "P180496-A1-E2",
+      "approach_id": "P180496-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P180496",
+      "doc_id": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "doc_date": "2023-05-25",
+      "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+      "unit_id": "U69",
+      "para_no": 54,
+      "sentence_position": 656,
+      "char_start": 104705,
+      "char_end": 104883,
+      "sentence": "The regulations establish rules for indirect participation in SPEI and set out the specific parameters under which direct participants will offer indirect participation services.",
+      "practice": "Regulated indirect SPEI participation scheme for payment institutions",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Banking Institutions",
+      "extractor_reason": "Digital core: SPEI indirect participation rules | Not routine: previously unclear access rules | Adoption: 'PA supports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPEI indirect participation rules | Innovative: opens interbank rails to indirect participants | Category: financial access",
+      "keywords_hit": "accessibility;digital payment",
+      "innovation_cues": "digital payment;guarantee",
+      "innovation_basis": "New process: indirect participation rules widen payment access - cue: 'digital payment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9d83b176"
+    },
+    {
+      "row_id": "P180496-A1-E3",
+      "approach_id": "P180496-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P180496",
+      "doc_id": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "doc_date": "2023-05-25",
+      "file_name": "P180496_ProgramDocument_2023-05-25_099060123144018717.txt",
+      "unit_id": "U69",
+      "para_no": 54,
+      "sentence_position": 658,
+      "char_start": 105037,
+      "char_end": 105401,
+      "sentence": "The new regulated indirect participation scheme is expected to have a positive impact on financial inclusion by enabling greater and more affordable46 access to SPEI for financial institutions and thus improving accessibility and affordability of SPEI-enabled digital payment services (for example, international remittances and CoDi payments) for their customers.",
+      "practice": "Regulated indirect SPEI participation scheme for payment institutions",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Banking Institutions",
+      "extractor_reason": "Digital core: SPEI indirect participation rules | Not routine: previously unclear access rules | Adoption: 'PA supports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPEI indirect participation rules | Innovative: opens interbank rails to indirect participants | Category: financial access",
+      "keywords_hit": "accessibility;digital payment",
+      "innovation_cues": "digital payment;guarantee",
+      "innovation_basis": "New process: indirect participation rules widen payment access - cue: 'digital payment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9d83b176"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 635,
+      "char_start": 100318,
+      "char_end": 100726,
+      "sentence": "PA6: The Borrower’s Central Bank has promoted digital financial inclusion by approving measures to regulate the indirect participation of financial entities in the Interbank Electronic Payment System (“SPEI”), enhance SPEI’s processing capacity, and widen the range of transactions and services that consumers can make through SPEI and the electronic payments platform (“CoDi”), as evidenced by Circulars No.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "SPEI/CoDi regulation enabling indirect participation of payment institutions",
+      "reason": "reject: Cited sentences describe prior action evidence, not SPEI/CoDi regulation content; duplicates A2",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: regulated indirect access to fast payment system - cue: 'digital payment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentences describe prior action evidence, not SPEI/CoDi regulation content; duplicates A2",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1429
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 659,
+      "char_start": 105402,
+      "char_end": 105628,
+      "sentence": "The regulation also establishes separate processing modules for different types of SPEI transactions to guarantee the operational resiliency of the system and ensure that all payments are processed with high service standards.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Separate SPEI processing modules for transaction resiliency",
+      "reason": "reject: Payment-system resiliency modules are standard infrastructure design, not a new development practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: modular processing for payment system resilience - cue: 'guarantee'",
+      "innovation_cues": "digital payment;guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Payment-system resiliency modules are standard infrastructure design, not a new development practice",
+          "reject_code": "not_innovative",
+          "context_chars": 2206
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 661,
+      "char_start": 105845,
+      "char_end": 106036,
+      "sentence": "Finally, the reform increases the transaction limit for CoDi transfers from MXN 8,000 to MXN 21,000, which is expected to make CoDi more attractive to a larger segment of merchants and users.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "CoDi transaction limit increase to attract merchants",
+      "reason": "reject: Raising a transaction cap is a routine regulatory parameter change",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: higher-value CoDi digital payment use - cue: 'digital payment'",
+      "innovation_cues": "digital payment;guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Raising a transaction cap is a routine regulatory parameter change",
+          "reject_code": "not_innovative",
+          "context_chars": 2206
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 927,
+      "char_start": 151809,
+      "char_end": 152043,
+      "sentence": "Overall, PA6 fostering digital financial inclusion by enhancing digital payment services such as mobile-enabled QR payments platform is expected to have neutral effects on the Mexican environment, forests, and other natural resources.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Mobile-enabled QR payments platform for digital financial inclusion",
+      "reason": "reject: Environmental-effects sentence; no named QR system mechanism described",
+      "reject_code": "generic",
+      "innovation_basis": "New service: mobile QR payment channel for inclusion - cue: 'digital payment'",
+      "innovation_cues": "digital payment",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Environmental-effects sentence; no named QR system mechanism described",
+          "reject_code": "generic",
+          "context_chars": 1491
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 1055,
+      "char_start": 174129,
+      "char_end": 174689,
+      "sentence": "PA6: The Borrower’s Central Bank has promoted digital financial Results Indicator 6: inclusion by approving measures to regulate the indirect participation of Gender gap in the share of adults financial entities in the Interbank Electronic Payment System (“SPEI”), (age 18 to 70) making digital enhance SPEI’s processing capacity, and widen the range of transactions merchant payments (in percentage 6.3 (2021) 5.0 (12/2024) and services that consumers can make through SPEI and the electronic points). payments platform (“CoDi”), as evidenced by Circulars No.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "SPEI/CoDi real-time electronic payment expansion via central bank regulation",
+      "reason": "reject: Duplicates A2; cited text is prior-action evidence listing, not a distinct practice",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: opening SPEI/CoDi to indirect participants - cue: 'digital payment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicates A2; cited text is prior-action evidence listing, not a distinct practice",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1257
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 1096,
+      "char_start": 185313,
+      "char_end": 185475,
+      "sentence": "3/2022, which were published on March 23, 2022, to regulate the indirect participation of financial entities in the interbanking electronic payment system (SPEI).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "SPEI/CoDI regulation widening indirect payment participation",
+      "reason": "reject: Duplicates A2; same SPEI/CoDi indirect participation regulation",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: indirect participation in interbank payment system - cue: 'digital financial inclusion'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicates A2; same SPEI/CoDi indirect participation regulation",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 1123,
+      "char_start": 194038,
+      "char_end": 194265,
+      "sentence": "No significant positive or negative financial inclusion by approving measures to regulate the to long term environmental effects are expected to result from indirect participation of financial entities in the Interbank this PA.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "SPEI/CoDI payment-rail regulation for digital financial inclusion",
+      "reason": "reject: Duplicates A2; same SPEI/CoDi circulars",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: indirect participation in interbank payment system - cue: 'digital financial inclusion'",
+      "innovation_cues": "climate-smart",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicates A2; same SPEI/CoDi circulars",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1208
+        }
+      ]
+    },
+    {
+      "guid": "099060123144018717",
+      "doc_type": "ProgramDocument",
+      "position": 1254,
+      "char_start": 213816,
+      "char_end": 214233,
+      "sentence": "PA6: The Borrower’s National Central Bank has promoted digital financial inclusion by approving measures to regulate the indirect participation of financial entities in the Interbank Electronic Payment System (“SPEI”), enhance SPEI’s processing capacity, and widen the range of transactions and services that consumers can make through SPEI and the electronic payments platform (“CoDi\"), as evidenced by Circulars No.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "SPEI/CoDI payment-rail regulation for digital financial inclusion",
+      "reason": "reject: Duplicates A2; same SPEI/CoDi circulars",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: indirect participation in interbank payment system - cue: 'digital financial inclusion'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicates A2; same SPEI/CoDi circulars",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1377
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 6329,
+    "cached_tokens": 45311,
+    "cache_write_tokens": 0,
+    "output_tokens": 2740,
+    "seconds": 22.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0055
+  }
+}

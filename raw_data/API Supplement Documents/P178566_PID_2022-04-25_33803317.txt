@@ -1,0 +1,800 @@
+﻿         The World Bank
+         Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+
+
+                      Project Information Document (PID)
+
+
+                     Appraisal Stage | Date Prepared/Updated: 23-Apr-2022 | Report No: PIDA33852
+
+
+
+
+Mar 28, 2022                                                                                       Page 1 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                             Project ID                   Project Name                 Parent Project ID (if any)
+   Eastern Africa                      P178566                      Food Systems Resilience
+                                                                    Program for Eastern and
+                                                                    Southern Africa
+   Region                              Estimated Appraisal Date     Estimated Board Date         Practice Area (Lead)
+   AFRICA EAST                         26-Apr-2022                  16-Jun-2022                  Agriculture and Food
+
+   Financing Instrument                Borrower(s)                  Implementing Agency
+   Investment Project Financing        Ministry of Finance,         Ministry of Agriculture,
+                                       Ethiopia,                    Ethiopia, Ministry of
+                                       Intergovernmental            Agriculture and Livestock,
+                                       Authority on Development     Madagascar, IGAD
+                                       (IGAD), Ministry of          Agriculture and
+                                       Economy and Finance,         Environmental Division,
+                                       Madagascar, Center for       Center for Coordination of
+                                       Coordination of              Agricultural Research and
+                                       Agricultural Research and    Development for
+                                       Development for Southern     Southern Africa
+                                       Africa (CCARDESA)            (CCARDESA)
+
+   Proposed Development Objective(s)
+
+   To increase the resilience of food systems and preparedness for food insecurity in project areas.
+
+   Components
+   (Re-)building Resilient Agriculture Production Capacity
+   Supporting the Sustainable Development of Natural Resources for Resilient Agricultural Landscapes
+   Getting to Market
+   Promoting a Greater Focus on Food Systems Resilience in National and Regional Policymaking
+   Project Management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY      -NewFin1
+
+
+
+
+   Total Project Cost                                                                                              1,028.60
+   Total Financing                                                                                                1,028.60
+
+
+Mar 28, 2022                                                                                                       Page 2 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+
+                             of which IBRD/IDA                                                                     938.10
+   Financing Gap                                                                                                         0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                      938.10
+          IDA Credit                                                                                                   454.05
+          IDA Grant                                                                                                    484.05
+
+   Non-World Bank Group Financing
+      Counterpart Funding                                                                                               25.00
+
+          Local Beneficiaries                                                                                           25.00
+
+      Other Sources                                                                                                     65.50
+          MULTIPLE DONORS                                                                                               65.50
+
+   Environmental and Social Risk Classification
+   High
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+   Other Decision (as needed)
+
+   B. Introduction and Context
+
+   Regional Context
+    1.     The food systems of Eastern and Southern Africa (AFE) are some of the most vulnerable in the world.
+    AFE is home to over 656 million people, many of whom are extremely poor and face significant challenges
+    accessing adequate, safe, and nutritious food every day. The region’s food systems are generally beset by low
+    levels of agricultural productivity, a severely degraded and stressed natural resource base, pronounced gender
+    inequities in food and resource access, and relatively low levels of food trade and regional market integration.
+    AFE is also among the regions most affected by fragility, conflict and violence (FCV) as well as the effects of
+    climate change. And food system shocks—including ones precipitated by extreme weather, pest and disease
+    outbreaks, political and market instability, and conflict—are generally becoming more frequent and severe,
+    putting more people at risk of being affected by both chronic and acute forms of food insecurity. Shocks to
+    global food and energy systems have the potential to impact food systems in the entire Africa region. Together,
+    the increasing weight of food system shocks in the region and the interdependent nature of the above
+    challenges underscore the need to enhance regional food systems’ resilience to recover from setbacks.
+
+Mar 28, 2022                                                                                                      Page 3 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    2.    In recent years, the vulnerability of AFE’s food systems has translated into a deteriorating food security
+    situation. Over 40 percent of AFE’s population lives on less than US$1.90 PPP per day, and as of 2019, nearly
+    two-thirds was affected by moderate-to-severe food insecurity—27 percent of the population, severely so.1 AFE
+    accounted for one-fifth of all severely food insecure people in the world in 2019 (18 percent of those affected
+    by moderate-to-severe food insecurity), and the situation has been deteriorating. Between the periods 2014–
+    2016 and 2018–2020, the number of severely food insecure people in AFE grew by roughly 22 percent (SOFI
+    2021).2 Just since 2019, extreme weather, conflict, and the corona virus disease-2019 (COVID-19) pandemic
+    have pushed nearly 50 million additional people into acute food insecurity across Sub-Saharan Africa (SSA), with
+    120 million now affected versus 73 million in 2019. In AFE specifically, the share of undernourished people was
+    projected to increase from 21 percent in 2019 to 29 percent in 2030 —and as of 2020, it had already increased
+    to over 25 percent. In 2018–2020, undernourishment affected over 131 million people in AFE—an estimate that
+    excludes multiple countries for which data were not available.3 This year alone, an estimated 66.4 million people
+    in AFE are projected to experience food stress or find themselves in a food crisis, emergency, or famine (IPC2+)
+    by July 2022.
+    3.      In addition, the war in Ukraine has delivered a major shock to global food, fuel and fertilizer markets,
+    which is expected to further affect food and nutrition insecurity. Russia and Ukraine together represent
+    between 25 and 30 percent of the global wheat market, while Russia (and Belarus) are also major exporters of
+    fertilizers. In 2021, Russia was the largest natural gas-exporting country in the world, and the second-largest
+    crude oil and condensates-exporting country. The disruptions from the conflict (sanctions, breakdowns in
+    supply, etc.) had an immediate impact on global fuel and food prices. Oil prices have increased by about 90
+    percent compared to March 2021. Wheat prices have increased by 50 percent since early February 2022 and
+    80 percent since March 2021, and they are now at an all-time high.
+    4.    A major long-term contributor to food insecurity in AFE is the changing climate. Climate change has
+    already increased the frequency and severity of extreme weather events across SSA and accelerated the cycle
+    of food production shocks. Across SSA, drought- and flood- related shocks to the food system that occurred
+    once every 12.5 years on average in 1982–2006 occurred every 2.5 years in 2007–2016. Agriculture in AFE is
+    particularly vulnerable to drought considering that about 90 percent of crop production is rainfed4. Climate
+    change also affects pest and disease vectors with the potential to harm crops and animals, and major locust
+    outbreaks have plagued the Horn of African (HoA) in recent years.
+    5.    Violent conflict has surged since 2010, food and water insecurity being both a consequence and a cause
+    of conflict. AFE harbors some of Africa’s most protracted conflicts, and these have left a number of countries in
+    a fragile state. Increased internal competition for land and water, particularly between pastoralists and crop
+    producers, is a significant source of conflict, such as one evidenced in South Sudan. In turn, physical insecurity
+    dissuades investment and disrupts the distribution systems that move food from surplus to deficit areas, while
+    open conflict destroys infrastructure and other capital stocks essential for income growth. As violence
+    intensifies, accompanying uncertainties cause food production shifts from commercial orientation towards
+    more of a subsistence one, due to restrictions in accessing farmland and markets, while hindering regional
+
+
+          1 Note that World Bank (WDI 2022) poverty data are available for only 17 of 26 AFE, and the latest data year ranges from 2015–
+          2019. For those countries, the weighted average poverty rate was nearly 43 percent. 2019 food insecurity data were available
+          for 20 of 26 AFE countries.
+          2 The State of Food Security and Nutrition in the World 2021.
+          3 The estimate, based on SOFI 2020, is based on data from 18 AFE countries. https://www.fao.org/3/cb4474en/cb4474en.pdf.
+
+          4    World Bank. The African Continental Free Trade Area: Economic and Distributional Effects. Washington, DC: World Bank.
+
+
+Mar 28, 2022                                                                                                                           Page 4 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    integration and trade.
+    6.     In AFE, the effects of food insecurity on women are dire, and frequently come on top of inequalities in
+    access to health care, markets, and income. Meanwhile, the impacts of climate change on food and agriculture
+    have been shown to worsen gender-based violence (GBV). For example, more than two-thirds of women in
+    Malawi indicated a decrease in food availability due to increases in the price of commodities. In Rwanda, women
+    were more likely than men to indicate that their household's food production did not meet their food needs.
+    Across the region, female farmers lacked access to productive assets, input and output markets, and
+    information, even before the pandemic began. Although these vulnerabilities have made women and girls more
+    food insecure over the past years, there have been some notable signs of progress. In South Africa and
+    elsewhere, social assistance targeting women directly has enhanced economic stability and improved their
+    nutritional outcomes by enhancing their agency and control over resources. Experience generally shows that
+    investment in women’s access to markets, their better integration into value chains, and the removal of
+    institutional, legal, and regulatory barriers to their productive activities can all greatly improve women’s capacity
+    to absorb shocks.
+   Sectoral and Institutional Context
+    7.     Agricultural productivity in AFE remains low by international standards and has not been the primary
+    driver of sector growth. Cereal yields in SSA rose by 38 percent in the 38 years from 1980 to 2018, or roughly
+    half the rate observed in South and Southeast Asia. Over the past several decades, agricultural growth in SSA
+    has been owed more to agriculture’s expansion than to its intensification, with studies suggesting that only
+    about one-quarter of growth in crop output has been attributable to yield growth.
+    8.     Agriculture’s expansion has been damaging to the region’s forests, water resources, soils, and
+    biodiversity. In fact, the agricultural sector has been the leading driver of soil degradation, land-use change, and
+    forest and biodiversity loss in AFE and the wider region. And in recent decades, the rate of deforestation in AFE
+    has largely exceeded the global average. Between 1990 and 2006, while the world lost an average of 0.1 percent
+    of its forests each year over, AFE lost an average of 0.3 percent per year. Poor agricultural land management
+    practices have also been harmful to ecosystem services, leading among other things to a decline in soil fertility,
+    carbon sequestration, and groundwater recharge, and to the degradation of watersheds. Desertification and
+    soil degradation affect about 29 percent of the land area in the Nile Valley and the HoA. And across SSA, the
+    native vegetation carbon stocks suppressed by current uses of pasture are equivalent to 113 gigatons of carbon
+    dioxide—more than twice the global emissions of all greenhouse gases.5
+    9.    In turn, the conversion of forests and grasslands into cropland and pasture, the degradation of soil and
+    water resources, and the loss of ecosystem services, have put downward pressure on agricultural
+    productivity. For example, large volumes of sediment have progressively silted up irrigation systems, lakes,
+    reservoirs, and pastoral watering points, affecting communities’ livelihoods and the productivity of cropland
+    and pasture. Land degradation costs an average of US$108 per person per year, or 9 percent of gross domestic
+    product (GDP), in land productivity losses related to a combination of human-induced soil erosion, acidification,
+    nutrient leaching, and compaction. Small-scale farmers suffer the most because poor soil conditions, climate
+    and weather variability, land tenure insecurity, and limited access to markets pressure them to make short-term
+    tradeoffs that compromise long-term gains. Land degradation reduces options to meet both food demands and
+    environmental needs sustainably. Overall, agriculture has driven the region’s natural resources endowment to
+    decline on a per capita basis, further stressing its food production capacity in a context of rapid demographic
+
+          5Based on vegetative cover, this estimate (31 Gt of C) by Hayek et al. 2021 in Nature Research does not account for the loss of
+          soil carbon stores.
+
+Mar 28, 2022                                                                                                                            Page 5 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    growth and climate change. In fact, the interaction of land degradation with climate change represents one of
+    Africa’s biggest and most urgent challenges. Yet these interactions have not been a central focus of adaptation
+    planning.
+    10. Investments in knowledge solutions and the diffusion of climate-smart technologies are needed to close
+    existing productivity gaps in environmentally sustainable and risk-ready ways. Important opportunities exist
+    within AFE to strengthen agricultural innovation systems, reorient agricultural research and development (R&D)
+    to meet emerging climate challenges, modernize agricultural extension services, and build innovation capacity
+    throughout the food economy. The high level of uncertainty implied by climate change points particularly to the
+    need to build up the capacity, within different parts of the food system, to innovate. At the same time, there is
+    a need to ensure that research and technology development be responsive to farmers’ and other end -users’
+    circumstances and needs, have a path to commercialization and diffusion, and can ultimately reach farmers and
+    be put into use effectively. In that respect, acting at both the national and regional levels can help increase the
+    relevance and reach of innovation.
+    11. There is significant scope for improving the management of natural capital in the region, thereby
+    strengthening the very foundations of resilient food production and rural livelihoods. Improved soil and water
+    management is critical for food systems resilience. More efficient irrigation can help support agricultural
+    productivity and diversification under a changing climate. Soil is widely and significantly degraded, yet of critical
+    importance to agricultural productivity, water-use efficiency, water quality management, and carbon storage.
+    A multitude of agroecological farming practices involving managed grazing, reduced tillage, cover cropping,
+    permaculture, polyculture, landscape features, and more, can contribute to promoting soil health and build soil
+    organic matter and carbon storage capacity. The International Water Management Institute (IWMI) estimates
+    that 29 percent more irrigated land will be required by the year 2025 to sustain food production and reduce
+    poverty on the African continent. Studies generally point to lower rates of food insecurity in irrigator households
+    compared to non-irrigator ones. Scaling up investments in irrigation and water storage infrastructure, and
+    watershed or landscape management interventions that promote “natural storage,�? are needed to unlock the
+    region’s full agricultural and economic potential. Importantly, the needs of pastoralists also need to be
+    considered in agricultural and water management planning, given its importance to food security and livelihoods
+    in dryland areas. Improving the management of natural resources can also help diffuse conflict driven by
+    competition over land and water resources.
+    12. Efforts to foster a more favorable enabling environment can help boost the region’s small but budding
+    agribusiness sector, contributing to efficiencies in food production and supply, more and better jobs, and a
+    stronger economic footing from which to weather shocks. A vibrant business sector can help develop things
+    like digital platforms and technologies, agricultural advisory services, professional farming and logistics services,
+    farm input and equipment supply, aggregation and coordination services, agrifintech, and more. While trade
+    can also help expand agrifood business opportunities, it can also help stabilize food availability and access across
+    the region’s markets in a context of increasingly frequent and intense climate and other shocks. In that respect,
+    the removal of physical and regulatory barriers to (intraregional) agricultural trade holds particular promise for
+    ensuring food security and food systems resilience, especially under a changing climate.
+    13. More generally, the food systems resilience agenda calls for strengthening food systems governance
+    and policy at the national, subnational, and regional levels. On the one hand, strong public policies and
+    institutions are needed to use and leverage public and private resources more effectively. In that respect, efforts
+    are needed to align resources with evidence-based priorities; coordinate efforts across sectors, agencies, levels
+    of government, and polities; enable knowledge-sharing and learning; and identify and pursue spending
+    synergies. Building food systems resilience at every level, from rural communities to urban agglomerations
+
+Mar 28, 2022                                                                                                           Page 6 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    across AFE, will ultimately rest on strengthening food systems governance, working with regional organizations,
+    national and subnational ministries, cities, and civil society. On the other hand, regional and cross-regional
+    partnerships, coalitions, and investments in public goods are another way of amplifying scarce public resources
+    in support of food systems resilience in AFE.
+    14. Momentum to address food systems resilience is building at the regional level. In 2019, the African Food
+    Security Leadership Dialogue (AFSLD) was convened in Kigali, bringing together African leaders and
+    development partners and raising the ambition for joint action to solve the region’s food security challenges.
+    Key priorities identified by the AFSLD include food systems adaptation to climate change, leveraging science and
+    digital technology, and strengthened collaboration among development partners. It emphasized the need to
+    implement existing agricultural and food security commitments including the African Union (AU) Agenda 2063,
+    and the Malabo Declaration. The proposed Program is designed to respond specifically to these aspirations by
+    providing a comprehensive framework to intervene at both the national and regional levels.
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+  To increase the resilience of food systems and preparedness for food insecurity in participating countries .
+
+   Key Results
+    15. The Food Systems Resilience Program (FSRP)—referred to in this document as “the MPA,�? or “the
+    Program�?—aims both to tackle the underlying structural challenges of food insecurity and reduce beneficiaries’
+    sensitivity to unpredictable climate, crisis, and conflict events. It aims to achieve this by building resilient food
+    production capacity, promoting the sustainable use of natural resources, enhancing food marketing, fostering
+    resilience-focused public policies, and improving regional coordination.
+    16.   The PrDO indicators include:
+               •   Reduction in food insecure people in Program- targeted areas (percentage)
+               •   Farmers adopting resilience-enhancing technologies and practices (number) (percentage of
+                   female farmers; percentage of climate-resilient technologies)
+               •   Increase in land area under sustainable land management practices (hectares)
+               •   Increased volume of agricultural production sold on domestic and regional markets (Percentage)
+               •   Policy products adopted with program’s support related to agriculture, natural resource
+                   management, and food system resilience (Number)
+
+   D. Project Description
+    Component 1: Responding to a Deteriorating Food Security Situation
+    17. This component will provide short-term support to farmers and households to restore basic productive
+    capacity following climate-related production. It will also provide support to participating countries in
+    mitigating the impact of the global crisis and price spikes in food, feed and fertilizers on the most vulnerable
+    populations. The component will provide a range of support which the Bank has considerable experience
+    with. This support may include procuring and distributing agricultural inputs, vouchers for the purchase of
+    inputs from local markets if available, animal feed, and livestock; clearing and restoring affected areas or on-
+    farm facilities; and facilitating access to fertilizers as short-cycle or rapid food production solutions. In some
+    circumstances, the procurement for the import of food, feed and fertilizers may be necessary, either in the
+
+Mar 28, 2022                                                                                                           Page 7 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    context of managing strategic reserves or as a social protection adaptation measure. Financing for the labor-
+    intensive restoration of infrastructure, engaging crisis-affected populations, will also made available to
+    borrowers. Participating countries will also be able to either trigger a contingent emergency response under
+    Component 6, restructure their existing project to include short-term activities under this subcomponent, or
+    seek additional financing.
+    Component 2: (Re-)Building Resilient Agricultural Production Capacity
+    18. Component 2 aims to strengthen the resilience of food supply to climate change and other shocks and
+    stressors with a focus on agricultural production and related supporting services.6 It will build climate
+    resilience and support agricultural producers’ access to quality inputs, technology, and know-how, and a suite
+    of upstream and downstream agricultural services. It will also support agricultural research and innovation
+    systems, extension and advisory services, agricultural information systems, the provision and financing of high-
+    quality inputs (like seed, fertilizer, and equipment) and risk management tools, quality assurance systems for
+    farm inputs and outputs, productive infrastructure (like storage facilities, sheds, barns, and so on), and other
+    publicly and privately provided goods and services with a particular focus on resilience. The component will
+    support both the development of these services (including via public-private partnerships [PPP]), as well as
+    farmers’ ability to benefit from them—working not just with farmers but with the full “ecosystem�? of
+    stakeholders involved in primary food production. In addition to medium-term investment to increase
+    resilience, it will provide short-term support in case of a rapidly deteriorating food security situation.
+    Component 2 is organized around two subcomponents: 2.1: Developing National or Regional Agricultural
+    Information Systems; and Subcomponent 2.2: Developing and Delivering Resilience-Enhancing Technologies and
+    Services.
+    Component 3: Supporting the Sustainable Development of Natural Resources for Resilient Agricultural
+    Landscapes
+    19. Component 3 will adopt a watershed or landscape approach to enhance the sustainable and resilient use
+    of natural resources for food systems and livelihoods within priority areas, consistent with the spatial,
+    ecological, and socioeconomic contexts of the participating countries and responding to changing climatic
+    conditions. The component is structured around two subcomponents. Subcomponent 3.1: Identification and
+    Validation of Interventions at the Local or Watershed Level finances the planning of activities at the local or
+    watershed level including knowledge, information, and institutional capacity building pertinent to the use of
+    natural resources. Subcomponent 3.2: Investments in Sustainable Natural Resources Management finances
+    investments in sustainable land, water, ecosystem services, and biodiversity management, and related
+    knowledge. The component will finance technical assistance, analytical and advisory work, consultancies, goods,
+    civil works, operating costs, training, community-led grants and revolving fund schemes, and policy and
+    institutional reforms.
+
+
+
+
+          6Shocks are understood to be transitory adverse events such as natural disasters like floods, hurricanes, landslides, and acute
+          drought events, crop, livestock, and human disease outbreaks, (armed) conflict, and significant market disruptions. Stressors
+          are understood to be persistent adverse trends, examples of which include long-term droughts, desertification, and protracted
+          conflict dynamics.
+
+
+
+Mar 28, 2022                                                                                                                            Page 8 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    Component 4: Getting to Market
+
+    20. Component 4 aims to improve physical and economic access to sufficient, safe, and nutritious food by
+    improving agrifood producers’ access to domestic and international markets and enhancing marketing
+    infrastructure. The component will help agricultural producers and agro-entrepreneurs create and capture
+    more value from their agricultural products by supporting (i) producers’ capacity to participate in domestic and
+    international markets, including by helping them organize and meet market standards; and (ii) the development
+    of well-functioning distribution, logistics, other marketing, and quality infrastructure. Component 4 is structured
+    around two subcomponents. Subcomponent 4.1: Strengthening Agrifood Value Chain involves strengthening
+    agrifood value chains in ways that will open new opportunities for rural producers, expand their access to
+    domestic and international markets, and increase food supply in domestic economic and regional markets.
+    Subcomponent 4.2: Upgrading Agrifood Marketing Infrastructure involves establishing or upgrading agrifood
+    marketing infrastructure in ways that will increase value addition and market connectivity. To support these
+    subcomponents, the Program will finance analytical and advisory work, TA, capacity building, matching grants,
+    construction and rehabilitation work, and the crowding-in of private investments.
+    Component 5: Promoting a Greater Focus on Food Systems Resilience in National and Regional Policymaking
+    21. Component 5 aims to promote a greater focus on food systems resilience in policymaking. By elevating
+    and “mainstreaming�? this orientation within national governments and regional organizations, Component 5
+    aims to enhance public sector organizations’ overarching capacity to anticipate and respond to various shocks
+    and stressors more effectively. To do this, the component will work closely with national government agencies
+    and regional organizations to support high-level policies, initiatives, institutional arrangements, and even
+    budgeting decisions that have cross-cutting relevance to food systems resilience. It is in this high-level and cross-
+    cutting focus that Component 5 distinguishes itself from the more thematically- or sector-focused policy efforts
+    of Components 2, 3, and 4. Component 5 comprises three subcomponents. Subcomponent 5.1: Making Food
+    Systems Resilience a Priority in Public Policies and Spending involves bringing a food systems resilience focus to
+    public institutions, policy, and spending at the national and regional levels. Subcomponent 5.2: Building
+    Institutional Capacity to Implement Resilience-Focused Policies involves building the capacity of national
+    governments to implement such policies. Subcomponent 5.3: Supporting regional organizations to build food
+    systems resilience transnationally supports regional institutions to lead or facilitate relevant country and
+    transnational initiatives. Component 5 will generally engage in these activities by funding analytical and advisory
+    activities, technical assistance, consultative and multistakeholder collaboration processes, knowledge
+    exchange, capacity building, and the procurement of goods and services.
+    Component 6: Contingent Emergency Response Component (CERC)
+    22. This component will finance eligible expenditures in the event of an emergency precipitated by a
+    disaster. Activation of this component allows funds to be disbursed rapidly to reduce damage to infrastructure,
+    ensure business continuity, and recover more rapidly from a disaster. Following a major disaster, the affected
+    participating country may request that the World Bank channel resources from other MPA components into the
+    CERC. As a condition for disbursement, an emergency response manual (ERM) will be developed for each
+    country, stipulating the fiduciary, safeguards, monitoring, and reporting requirements related to invoking the
+    CERC, as well as other coordination and implementation arrangements.
+    Component 7: Program Management.
+
+    23. Component 7 will finance all aspects of program management. They include equipment and materials,
+    training, compliance with fiduciary, procurement, and safeguards (environmental and social) requirements,
+
+Mar 28, 2022                                                                                                           Page 9 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    M&E and impact assessment, knowledge management and communications. At the national level, these
+    activities will be performed by the project implementation units (PIUs).
+
+                                                          Phase 1 Project Costs7
+
+     (Re-)Building Resilient Agriculture Production Capacity                                              348.0 million
+     Supporting the Sustainable Development of Natural Resources for Resilient                            300.8 million
+     Agricultural Landscapes
+     Getting to Market                                                                                    215.0 million
+     Promoting a Greater Focus on Food Systems Resilience in National and Regional                        30.0 million
+     Policy Making
+     Project Management                                                                                   135.3 million
+     TOTAL                                                                                                1,029.1 million
+
+  .
+  .
+  Legal Operational Policies
+                                                                                     Triggered?
+
+   Projects on International Waterways OP 7.50                                      Yes
+
+   Projects in Disputed Areas OP 7.60                                               No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+    24. The overall environment and social risk of the MPA is rated high. The MPA will have significant positive
+    environmental and social outcomes as activities to be financed involve management of water resources for
+    resilient and sustainable water supply for productive food systems and water and soil moisture conservation
+    investments, as well as support for productive sustainable livelihoods including from natural resources and
+    enhancing access to market through capacity building and quality physical investments, amongst others.
+    However, there are also various environmental, social and health and safety risks that need to be properly
+    managed.
+    25. The environmental risk of the Program is rated as substantial. Activities to be financed under
+    Components 1 and 2 (“[Re-]Building Resilient Agricultural Production Capacity�?) could lead to an increased
+    demand for agrochemicals and will require management of wastes that may be generated from animal
+    healthcare services. The Program will also finance the rehabilitation and construction of small-scale irrigation
+    schemes (Component 3); and the construction and rehabilitation of market infrastructure (Component 4) for
+    value addition, food safety and reduced food loss and waste (for example, storage, cold chain, processing, and
+    marketing). The latter can result in various environmental, health and safety risks and impacts including: (i) the
+    inappropriate use and disposal of agrochemicals including pesticides as well as agricultural research laboratory
+    chemicals; (ii) health and safety risks and impacts during construction works and agricultural research laboratory
+    activities; (iii) the inappropriate use of water resources through overuse and agrochemical contamination, which
+
+
+          7    The participating countries and organizations of Phase 1 are: Ethiopia, Madagascar, IGAD and CCARDESA
+
+
+Mar 28, 2022                                                                                                                Page 10 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    can affect water quantity and quality in neighboring communities and downstream; (iv) the physical and
+    chemical degradation of soils due to unsuitable land management techniques; (v) impacts on biodiversity and
+    ecosystems of agricultural activities including agricultural water usage and pollution, and the introduction of
+    invasive species ; and (vi) air, construction, waste, noise, water, and other environmental pollution linked to the
+    construction of small-scale infrastructure such as storage facilities and small-scale irrigation schemes, although
+    environmental pollution is expected to be site-specific and small in scale in the context of the Program.
+    26. Agricultural activities produce greenhouse gas (GHG) emissions including methane, nitrous oxide, and
+    carbon dioxide at different stages in the production cycle. However, the activities to be financed by the
+    Program are expected to be community driven development (CDD) type activities and hence no significant
+    emissions are expected. The small irrigation schemes to be financed by the Program will meet the Bank’s
+    requirements for small dams. The Program will be implemented in existing agricultural lands and hence will not
+    lead to conversion of natural habitats. Considering the nature of the activities to be financed by the Program,
+    the environmental risk of the Program is rated as substantial at this stage.
+    27. The Program’s social risk level is rated high. The intended beneficiaries of the proposed program are
+    expected to benefit through increased food systems resilience and ability to respond to shocks. The MPA will
+    also result in the creation of job opportunities (including for youth and women), increased agricultural yields,
+    increased access to diverse food and nutrition, improved livelihoods, improved access to markets, improved
+    access to finance, and an improved skill and knowledge base. The social risks of the Program are considered
+    high due to the nature and scope of the proposed activities as well as the range of contextual risks that exist
+    across Eastern and Southern Africa (those risks including conflict, social tensions around rights to land and
+    natural resources, and the risk of exclusion).
+    28. Components 2, 3 and 4 include various types of civil work that could lead to land acquisition and
+    possibly involuntary resettlement. Under those components, the Program may invest in agricultural
+    infrastructure, small-scale irrigation schemes, small dams, water points, market infrastructure, and roads. Social
+    risks related to involuntary resettlement include physical resettlement, the loss of land or access to land, the
+    loss of access to natural resources, economic displacement, and the loss of other assets (such as crops,
+    structures, and water points) at either the individual, household or community levels. Affected people are also
+    at risk of exclusion (especially vulnerable groups such as women, people living with disabilities and the elderly),
+    inadequate consultation and engagement, a lack of compensation at replacement cost, and a lack of access to
+    grievance redress mechanisms. Investments may also be implemented in areas where Indigenous People / Sub-
+    Saharan African Historically Underserved Traditional Local Communities (IP/SSAHUTLC) are present. Members
+    of these communities may reside in or have collective attachment to land in Program areas. These realities will
+    need to be considered in the planning and implementation of investments, and Free Prior and Informed Consent
+    (FPIC) may be needed for activities on such land, which may be complicated to achieve. Program activities may
+    also create or exacerbate existing conflicts or tensions between groups over the use and rights to land (e.g.
+    pasture and cropland), natural resources (water points, dams), and access to project benefits, which will need
+    to be considered in project planning and implementation through engagement strategies and, if needed,
+    security management planning. The livelihood strategies of IP/SSAHUTLC as well as other disadvantaged and
+    vulnerable groups will need to be considered when designing project activities to ensure their inclusion in
+    decision making and access to benefits.
+    29. Other social risks are associated with not only civil work but also other Program activities. For example,
+    social risks may be associated with the provision of extension services, and the capacity building of farmers and
+    other beneficiaries. These risks include: (i) insufficient community and other stakeholder engagement (including
+    the potential exclusion of vulnerable individuals or groups); (ii) elite capture of project benefits; (iii) the exclusion
+
+Mar 28, 2022                                                                                                              Page 11 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    of vulnerable groups or individuals from project benefits due to poorly designed, disseminated, or
+    nontransparent beneficiary selection processes or eligibility criteria; (iv) social tension and conflict induced by
+    competition over agricultural resources including irrigation water, and by ongoing contextual security risks in
+    conflict-affected areas; (v) labor influx and associated risks including community health and safety, transmission
+    of diseases; (vi) sexual exploitation and abuse and sexual harassment (SEA/SH), and other forms of GBV either
+    as a result of labor influx or changes in power dynamics in homes among men and women; (vii) failure to comply
+    with labor standards, including due to the use of child labor (a known risk in the agricultural sector); (viii)
+    operational concerns due to remoteness and insecurity, namely in relation to the monitoring and supervision of
+    social risks and grievance management; and (ix) weak implementation capacity, especially at the grassroots level
+    characterized by limited functional structures and trained manpower. The propagation of COVID-19 during the
+    implementation of Program activities has also been identified as a cross-cutting risk.
+    30. Technical assistance activities at the country and regional levels are classified as ‘Type 2 Supporting the
+    formulation of policies, programs, plans, strategies or legal frameworks’ and ‘Type 3 capacity building
+    activities’ as defined in the OESRC Advisory Note Technical Assistance and the Environmental and Social
+    Framework. The aim is to build resilience through technical assistance, capacity building, and institutional
+    strengthening activities that will help enhance the ability of selected entities and communities to prepare for,
+    respond to, and develop food systems resilience. As such, direct environmental and social risks in a defined
+    physical footprint are not expected. Nevertheless, the Project will ensure that consultancies, studies, capacity
+    building, training and any other TA activities are carried out in accordance with the relevant requirements of
+    the ESF. Any outputs from the TA activities, shall also be consistent with the ESF.
+    31. To identify and manage the potential environmental, social, health, and safety risks, the relevant
+    national Ministry of Agriculture (or implementation agency) will prepare the required environmental and
+    social instruments. Environmental and social instruments to be prepared include i) a stakeholder engagement
+    plan (SEP) and ii) an environmental and social commitment plan (ESCP). Additional instruments will also be
+    prepared as required depending on the proposed activities including (but not limited to):: (i) an environmental
+    and social management framework (ESMF) to screen project activities and guide the development of site-
+    specific instruments; (ii) an integrated pest management plan (IPMP) to mitigate potential risks and impacts
+    associated with the application of pesticides; (iii) a resettlement framework (ReF) to guide the development of
+    site specific resettlement plans; (iv) an IP/SSAHUTLC framework or plan; (vi) labor management procedures; (vii)
+    SEA/SH action plans; and (viii) security management plans. These plans will also include any client capacity
+    building requirements needed to enable the management of the identified environmental and social risks.
+    Furthermore, site-specific risk management instruments and plans will be prepared during project
+    implementation, following the requirements of the framework documents. Those instruments and plans will
+    include environmental and social management plans (ESMPs), environmental and social impact assessments
+    (ESIAs), and resettlement plans (RPs), depending on the nature and scope of project activities selected by the
+    participating countries. Associated facilities, if any, will be clearly identified in the course of project preparation
+    at the national level and the ESMF will also cover the potential risks and mitigation measures of the associated
+    facilities.
+    32. Risks associated with the implementation of the TA by participating regional entities relate to inclusion,
+    ensuring the requirements of the ESF are fully reflected in TA activities, access to information, consideration of
+    vulnerable groups; contextual issues (e.g. drought, climate change or overexploitation of natural resources) and
+    cumulative impacts. To address these risks the regional entities will prepare (i) SEPs and (ii) ESCPs.
+
+
+
+
+Mar 28, 2022                                                                                                            Page 12 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+    Country Level Implementation
+    33. At the country level, project implementation will be the responsibility of the respective borrowers and
+    conducted through either newly established PIUs or ones already in place. In Ethiopia, for example, project
+    implementation will be handled by the PIU of the Food Systems Resilience Project (P176167) and in Madagascar
+    by the PIU of the Sustainable Landscape Management Project (P154698). Where needed, country-based
+    implementation structures will be strengthened through the recruitment of additional staff and consultants who
+    will be made responsible for program management tasks including administration, M&E, communication,
+    procurement, financial management, and safeguards. The latter will include ones relating to GBV, sexual
+    exploitation and abuse, and sexual harassment (SEA/SH). In each PIU, experts from the different relevant
+    technical disciplines (such as agronomy, integrated landscape management (ILM), water management,
+    irrigation, hydrometeorology) will be contracted as needed.
+    34. Each country will establish a national steering committee to provide policy and project implementation
+    guidance. The committee will meet at least two times per year to, among other actions, review and approve the
+    draft annual work plan and budget (AWPB), and to review the annual report and the status of implementation
+    progress. This SC will include representatives of the ministries of agriculture, water, and environment. Each
+    country will also prepare a detailed project implementation manual (PIM) that will incorporate all operational
+    details at the national level including a description of technical and M&E activities, as well as administrative,
+    Environmental and Social Framework (ESF) and fiduciary procedures.
+    35. At the local level, communities will be involved in the selection of priority activities, and validation and
+    implementation of the activities. Investments will be identified, prioritized, and selected through joint-agency
+    (multi-ministerial) visits in the communities. Seeing the different state actors aligned and presenting a unified
+    interface with the communities is also an important element of restoring communities’ trust in the government
+    agencies. To support these efforts, NGOs or facilitators working with local organizations (or both) will be hired,
+    depending on the country context.
+    36. Given the broad geographic coverage of the proposed Program, the implementation arrangements used
+    by participating countries will necessarily vary. Participating countries facing FCV or natural disaster conditions
+    may need to take advantage of alternative implementation arrangements, particularly if they first need to
+    stabilize the food security situation to enable the longer-term work on food systems resilience. In such cases,
+    member countries can choose to contract with an UN agency to implement their project in part or in
+    whole. Output agreements already negotiated between the World Bank and several UN organizations will
+    enable participating governments to sole source–contract an agency, which would then report to the PIU as it
+    carries out the contract. In the event of extreme insecurity or fragility in a participating country, full UN
+    implementation may be warranted. In rare cases, the Program will accommodate such an arrangement to the
+    extent that it can help stabilize the system and enable the country to move to a resilience agenda. Such an
+    arrangement would be managed in coordination with the relevant World Bank country management unit,
+    regional vice president, and the Operational Policy and Country Services (OPCS) vice presidential unit.
+    Regional Level Implementation
+    37. The regional activities will be implemented by various regional organizations including, but not limited to,
+    IGAD, CCARDESA, AUC, ASERECA, and SADC’s Food Agriculture and Natural Resources (FANR). In the first Phase,
+
+
+Mar 28, 2022                                                                                                        Page 13 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+    regional activities will be implemented by IGAD and CCARDESA. Each participating regional organization will
+    have its own financing agreement with clear accountability and monitor and coordinate the implementation of
+    their respective parts of the Program. These organizations have managed World Bank-funded projects in the
+    past and have the capacity to deal with fiduciary arrangements, including procurement and financial
+    management, and have experience with the World Bank’s ESF.
+    Bank’s Coordinating Role
+    38. At the World Bank level, the MPA will be monitored by a Bank team comprising a task team for the overall
+    MPA, and country task team leaders. The Bank team will facilitate coordination among Bank country task teams
+    and focal points in operational and technical units as needed. It will also monitor the implementation of
+    individual projects and keep World Bank management and the Board of Executive Directors informed. In doing
+    so, the Bank team will operate as a unified cross-country team to address key issues. It may for example help
+    align the implementation of different country-level operations, monitor Program achievements and its use of
+    key indicators, facilitate knowledge exchange and communication, develop harmonized reporting mechanisms
+    and identify gaps in monitoring, report to and coordinate with different partners and stakeholders, and develop
+    adaptive strategies.
+
+    Results Monitoring and Evaluation Arrangements
+
+    39. To provide timely and reliable information to facilitate informed decision-making in program
+    management, an M&E framework for the Program has been developed. At the country level, results frameworks
+    will be developed and include both Program-level and country-level indicators. The latter will be based on the
+    project activities that participating countries decide to pursue.8 The data will be disaggregated by gender
+    wherever possible. In addition to being an important management tool, the M&E system will be a valuable
+    source of learning and a knowledge management mechanism.
+    40. The regional partners and national PIUs will be responsible for the internal monitoring of program
+    outcome and output indicators as defined. Each M&E unit, as well as all key implementing entities, will produce
+    semi-annual progress reports along with notes synthesizing information on risks, resilience, and food security
+    at the level of program beneficiaries. Within each country, the results-based M&E activities will be built on its
+    existing M&E system and arrangements of implementing ministry including knowledge management guided by
+    program knowledge management strategy and comprehensive M&E manual. The main program M&E activities
+    include: (i) where applicable, establishment of program specific MIS using existing client countries’ online M&E
+    MIS system platform and will be linked with the implementing agency’s broader data base system; (ii) the
+    Program will use the Geo-enabling Initiative for Monitoring and Supervision (GEMS) KOBO Toolbox to collect
+    real-time and geo tagged data for the program investment mapping and monitoring. GEMS is also useful for
+    establishing a baseline for carbon accounting and understanding changes in carbon sequestration in soils and
+    on land. That information can contribute to assessments of the potential to mobilize climate finance to sustain
+    funding beyond the life of the Program; (iii) in each country’s PIM, detailed M&E requirements will be included
+    based on the PrDO and intermediate results and indicator to guide the overall M&E system implementation;
+    and (iv) a baseline survey will be conducted during the onset of program implementation, and additional surveys
+    will be held at the midterm review (MTR) stage and Program completion. External consultants will be recruited
+    to conduct these surveys and evaluations in every participating country and regional organization. MPA
+    participants will be encouraged to share their M&E insights and experience to ensure continuous learning at the
+
+
+          8    Results frameworks have already been developed by Phase 1 countries.
+
+Mar 28, 2022                                                                                                      Page 14 of 17
+            The World Bank
+            Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+      Program level.
+      41. The World Bank will explore additional technical assistance to carry out rigorous impact evaluation at
+      country or Program level. Potential focus areas include the food security and resilience impacts of sustainable
+      land and water management practices, climate-smart technology adoption, and regional trade facilitation. This
+      activity will involve setting up a data system to track key market, productivity, and food security indicators at a
+      high frequency in order to capture responses to climate shocks and evaluate the extent to which Program
+      interventions support the capacities of target communities to absorb these shocks and recover.
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Pierre Olivier Colleye
+      Sr Agricultural Spec.
+
+      Laura Bonzanigo
+      Senior Water Specialist
+
+      Stephen Paul D'Alessandro
+      Sr Agricultural Spec.
+
+      Tahira Syed
+      Senior Rural Development Specialist
+
+      Vikas Choudhary
+      Senior Agriculture Specialist
+
+      Borrower/Client/Recipient
+      Ministry of Finance, Ethiopia
+      Abebe Tadesse Feyisa
+      Director
+      abebetadessef@gmail.com
+
+      Intergovernmental Authority on Development (IGAD)
+      Workneh Gebeyehu
+      Exective Director
+      workneh.gebeyehu@igad.int
+
+      Ministry of Economy and Finance, Madagascar
+      Mrs. Rindra Hasimbelo Rabarinirinarison
+      Minister
+      ministrerindra@mef.gov.mg
+
+Mar 28, 2022                                                                                                          Page 15 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+
+
+   Center for Coordination of Agricultural Research and Development for Southern Africa (CCARDESA)
+   Cliff Dlamini
+   Executive Director
+   cdlamini@ccardesa.org
+   Implementing Agencies
+   Ministry of Agriculture, Ethiopia
+   Keberu Belayneh
+   Project Director
+   keberu.belayneh@yahoo.com
+
+   Ministry of Agriculture and Livestock, Madagascar
+   Mrs. Fanja Andriantsoa Raharinomena
+   General Secretary
+   andriantsoafanja@gmail.com
+
+   IGAD Agriculture and Environmental Division
+   Daher Elmi
+   Director
+   daher.elmi@igad.int
+
+   Center for Coordination of Agricultural Research and Development for Southern Africa (CCARDESA)
+   Cliff Dlamini
+   Executive Director
+   cdlamini@ccardesa.org
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                         Pierre Olivier Colleye
+                                         Laura Bonzanigo
+   Task Team Leader(s):
+                                         Stephen Paul D'Alessandro
+                                         Tahira Syed
+
+Mar 28, 2022                                                                                         Page 16 of 17
+          The World Bank
+          Food Systems Resilience Program for Eastern and Southern Africa (P178566)
+
+
+
+                                         Vikas Choudhary
+
+
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                     Boutheina Guermazi                     26-Apr-2022
+
+
+
+
+Mar 28, 2022                                                                                  Page 17 of 17
+

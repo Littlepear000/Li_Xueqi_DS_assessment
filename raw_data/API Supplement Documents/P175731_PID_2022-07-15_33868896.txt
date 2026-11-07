@@ -1,0 +1,610 @@
+﻿         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+
+
+                          Project Information Document (PID)
+
+                          Concept Stage | Date Prepared/Updated: 13-Jul-2022 | Report No: PIDC32786
+
+
+
+
+Jun 07, 2022                                                                                          Page 1 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                  Parent Project ID (if any)   Project Name
+  Southern Africa                                P175731                                                  SADC Regional
+                                                                                                          Statistics Project
+                                                                                                          (P175731)
+  Region                                         Estimated Appraisal Date    Estimated Board Date         Practice Area (Lead)
+  EASTERN AND SOUTHERN                           Dec 12, 2022                Jul 28, 2023                 Poverty and Equity
+  AFRICA
+  Financing Instrument                           Borrower(s)                 Implementing Agency
+  Investment Project Financing                   African Union, Democratic   Southern African
+                                                 Republic of São Tomé and    Development Community
+                                                 Príncipe, Republic of
+                                                 Madagascar, Republic of
+                                                 Malawi, Republic of
+                                                 Mozambique, Southern
+                                                 African Development
+                                                 Community
+
+   Proposed Development Objective(s)
+
+    The project seeks to strengthen regional harmonization, dissemination, and use of core economic and social statistics
+    for beneficiary countries, aligned with the Strategy for Harmonization of Statistics in Africa 2017-2026 (SHaSA2).
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                    185.00
+
+    Total Financing                                                                                                       185.00
+
+                             of which IBRD/IDA                                                                            185.00
+
+    Financing Gap                                                                                                            0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Development Association (IDA)                                                                        185.00
+          IDA Credit                                                                                                        87.00
+
+
+Jun 07, 2022                                                                                                            Page 2 of 12
+           The World Bank
+           SADC Regional Statistics Project (P175731)
+
+
+
+            IDA Grant                                                                                                                     98.00
+
+
+
+
+     Environmental and Social Risk Classification                              Concept Review Decision
+     Moderate                                                                 Track II-The review did authorize the preparation to
+                                                                              continue
+
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+
+       1. With only moderate growth, Sub-Saharan Africa has made only some progress in reducing poverty
+          with an uncertain outlook for the future. The poverty rate in Sub-Saharan Africa was 40.2 percent in
+          2018, using a poverty line of US$1.90 per day. No other region comes close to this level, with poverty
+          rates for all other regions remaining in the single digits.1 Sub-Saharan Africa is also of particular concern
+          as the region with the highest absolute number of poor people at 433.4 million. Growth is a major driver
+          of poverty reduction, and throughout the 1990s and early 2000s many poor managed to escape poverty
+          also thanks to relatively high growth rates. However, GDP per capita growth in Sub-Saharan Africa has
+          been weak and erratic, averaging around 2 percent and has been falling in recent years.
+
+       2. These regional trends are also seen in this project’s focal countries, which comprise the member states
+          of the Southern African Development Community (SADC). The SADC is a Regional Economic Community
+          (EC) comprising 16 member states: Angola, Botswana, Comoros, Democratic Republic of Congo,
+          Eswatini, Lesotho, Madagascar, Malawi, Mauritius, Mozambique, Namibia, Seychelles, South Africa,
+          Tanzania, Zambia, and Zimbabwe.2 The project will also include São Tomé and Príncipe, which is an
+          International Development Association (IDA) country, and which has a similar statistical development
+          status to that of SADC countries. In addition, its official language is Portuguese, which make is similar to
+          Mozambique and Angola – both of which form part of the SADC. In fact, SSA broadly (and, within it, SADC
+          specifically) remains one of the most unequal regions in the world. Overall, these challenges suggest
+          there is an important role that data can play to better advance the region’s de velopment objectives.
+
+       3. Sub-Saharan Africa is highly vulnerable to economic and climatic shocks, making frequently collected
+          and good-quality data important for monitoring impacts and informing policy responses. The COVID-
+
+ 1World Bank. 2020. Poverty and Shared Prosperity 2020: Reversals of Fortune. Washington, DC: World Bank. Detailed data are not available for
+ South Asia, but estimates for the regional poverty rate do not exceed 10 percent.
+ 2
+     Of the 16 SADC member countries, 10 are IDA countries, and 6 middle- and high-income countries.
+
+Jun 07, 2022                                                                                                                          Page 3 of 12
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+           19 pandemic has exacerbated poverty and inequality. The pandemic is projected to have contracted
+           global per capita GDP growth by between 5 percent and 8 percent in 2020, a result of its adverse impact
+           on the economy and public health. This has led to a reversal of gains made in poverty reduction, leading
+           to the first increase in global poverty since the 1998 Asian financial crisis. Estimates suggest an increase
+           in the additional extreme poor in SSA of between 26 million and 40 million in 2020 due to COVID-19.3
+           Besides the recent shock from the pandemic, SSA is highly vulnerable to climate risks and shocks,
+           adversely impacting development in the region. The recent Russia-Ukraine war also presents an
+           economic shock to the subcontinent, evident in increased food and fuel prices.
+
+     Sectoral and Institutional Context
+
+
+       4. There has been progress in the production of statistics over the last 20 years in SSA. From the early
+          2000s, strategic planning through National Strategies for the Development of Statistics (NSDS) has been
+          adopted, with most African countries having implemented one or more strategies by 2020. These have
+          helped countries improve their legal framework with new statistical laws and strengthen the status of
+          their national statistical offices (NSOs). Several countries use the 2008 System of National Accounts
+          (SNA). The geographic coverage and timeliness of the consumer price index (CPI) has also improved.
+          External trade statistics are harmonized in many countries. The number of household surveys that collect
+          data on monetary and non-monetary dimensions of poverty has increased, thanks to donor-funded
+          programs such as the Multiple Indicator Cluster Survey and the Demographic and Health Survey.
+
+       5. The increase in the World Bank Statistical Capacity Indicator (SCI)4 confirms the overall progress in
+          statistical capacity building in SSA, but the continent still lags other regions. The SCI provides a grade
+          for every country in the world on the methodology, data sources, and periodicity and timeliness of core
+          economic and social statistics. The SCI for Sub-Saharan African countries (excluding high-income
+          countries) increased from 55.2 in 2004 to 59.0 in 2019, albeit with a drop back in 2020 to 57 (a slight
+          increase of 1.8 score points occurred in the 2004-20 period). Despite this progress, the SCI for SSA is still
+          the lowest among developing regions. Best performers are Europe and Central Asia (see Figure 2).
+
+
+
+
+ 3
+   World Bank (2020) Poverty and Shared Prosperity 2020: Reversals of Fortune. Washington, DC: World Bank.
+ 4
+   The World Bank’s SCI is a composite score assessing a country’s statistical system based on a diagnostic framework assessing
+ methodology, data sources, and periodicity and timeliness. Countries are scored on 25 criteria in these areas using publicly available
+ information and country input. The overall SCI score is calculated as the average of all three area scores on a scale of 0 to 100.
+
+Jun 07, 2022                                                                                                                Page 4 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+                                                  Figure 2: SCI score by regions 2004-2020
+                        85
+
+                        80
+
+                        75
+                  SCI
+
+
+
+
+                        70
+
+                        65
+
+                        60
+
+                        55
+
+                        50
+                             2004
+
+                                    2005
+
+                                           2006
+
+                                                   2007
+
+                                                          2008
+
+                                                                    2009
+
+                                                                           2010
+
+                                                                                  2011
+
+                                                                                         2012
+
+                                                                                                2013
+
+                                                                                                       2014
+
+                                                                                                              2015
+
+                                                                                                                     2016
+
+                                                                                                                            2017
+
+                                                                                                                                   2018
+
+                                                                                                                                          2019
+
+                                                                                                                                                 2020
+                                                                 East Asia & Pacific (excluding high income)
+                                                                 Middle East & North Africa (excluding high income)
+                                                                 Europe & Central Asia (excluding high income)
+                                                                 Latin America & Caribbean (excluding high income)
+                                                                 South Asia
+                                                                 Sub-Saharan Africa (excluding high income)
+
+
+
+
+     6. The SCI for the 16 SADC countries members increased from 55 in 2004 to 61.0 in 2019, showing a better
+        performance than the average for SSA countries (an increase of 3.8 score points) . That said,
+        considerable variation exists between countries. Comoros, Angola, and Democratic Republic of Congo
+        are the worst performers scoring 42.1, 46.7 and 47.1, respectively. The best performers are Mauritius,
+        South Africa, and Malawi, scoring 82.2, 77.7, and 76.4, respectively (Figure 3).
+
+                                       Figure 3: Best and worst SCI performers in SADC countries
+
+
+
+
+Jun 07, 2022                                                                                                                                            Page 5 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+                        100
+
+                        90
+
+                        80
+
+                        70
+                  SCI
+
+
+
+
+                        60
+
+                        50
+
+                        40
+
+                        30
+
+                        20
+
+                        10
+
+                         0
+                              2004
+
+                                     2005
+
+                                            2006
+
+                                                     2007
+
+                                                            2008
+
+                                                                   2009
+
+                                                                          2010
+
+                                                                                 2011
+
+                                                                                        2012
+
+                                                                                               2013
+
+                                                                                                       2014
+
+                                                                                                              2015
+
+                                                                                                                     2016
+
+                                                                                                                            2017
+
+                                                                                                                                   2018
+
+                                                                                                                                            2019
+
+                                                                                                                                                    2020
+                              Angola               Malawi          Mauritius            South Africa            Congo, Rep.               Comoros
+
+     7. Important data gaps remain in terms of availability, timeliness, quality and harmonization of data due
+        to institutional weaknesses, capacity limitations and funding constrains. Institutional weaknesses and
+        inconsistent financing limit the quality of statistics in SADC and Africa as a whole. Lack of relevant gender
+        statistics hinders the region’s effort to track progress on gender equality and to design relevant policies
+        in response. Data standards are outdated, access to data is weak, and the use of data for policy making
+        is limited. As across most of Africa, the national monitoring and evaluation systems (M&E) used in SADC
+        have weaknesses, most of which relate to the timeliness and reliability of data.
+
+     8. A regional approach is needed to close gaps in the availability, timeliness, quality, and harmonization
+        of data at the national, regional, and international level. Comparable statistics are instrumental in areas
+        such as promotion of free trade and creation of a unique currency, as well as meeting the SADC priorities.
+        A regional approach facilitates coordination among NSOs by introducing and expanding innovations, and
+        by encouraging peer-to-peer reviewing and learning, all of which can generate positive externalities.
+
+
+  Relationship to CPF
+
+     9. The regional approach of the project is aligned with SHaSA2, a continent-wide initiative that the
+        African heads of state adopted to address the constraints faced by African statistical systems and
+        promote the regional integration agenda. SHaSA2 is one of the core commitments of the heads of state
+        for the Minimum Integration Program. For that reason, its principles guide all African regional
+        organizations, regional integration communities, and regional development organizations, such as
+        UNECA and the African Development Bank, that support statistical development in Africa. It is also timely
+        because in recent years African governments and the international community have called for an
+        improved effort to monitor international and regional development commitments, such as the SDGs and
+        the AU’s Vision 2063.
+
+
+Jun 07, 2022                                                                                                                                               Page 6 of 12
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+       10. The project supports the implementation of the SADC Regional Strategy for the Development of
+           Statistics (RSDS) 2020-2030, which is also aligned with SHaSA2. SADC RSDS has harmonization of
+           regional statistics as one of its strategic intervention areas and can therefore be used as a regional body
+           for this project’s implementation. By harmonizing economic statistics, filling the gap on important data,
+           and producing harmonized SDG estimates, the project will be a powerful means of implementing the
+           SADC RSDS 2020-2030 strategy. Other intervention areas of the RSDS include institutional and
+           organizational development, digital transformation of regional statistics, and statistical capacity
+           building. The overall goal is to raise the living standards of its member country populations. Timely, well-
+           harmonized statistics will be needed to gauge progress toward this goal.
+
+       11. The project reflects priorities emphasized in World Bank country strategies . Country Partnership
+           Frameworks (CPFs) and systematic country diagnostics have identified weaknesses in statistics as a
+           barrier to the effective monitoring of strategies of development and the SDGs. For example, under the
+           fourth objective of the CPF FY17 – FY21, Madagascar puts availability of good data at the center of
+           enhancing transparency and accountability. For Malawi, meanwhile, the CPF FY21 – FY25 states that the
+           World Bank Group will invest in the country’s D4P ecosystem. As for Mozambique, its CPF aims to
+           address the need for basic data and statistics required to inform economic policy, monitor progress, and
+           adapt strategies. The core goals behind this commitment are to enhance citizen engagement and
+           produce better-quality data as important underpinnings of transparency and accountability, while
+           simultaneously helping the country to operationalize the Right-to-Information bill.
+
+     C. Proposed Development Objective(s)
+
+
+     The project seeks to strengthen regional harmonization, dissemination, and use of core economic and social
+     statistics for beneficiary countries, aligned with the Strategy for Harmonization of Statistics in Africa 2017-
+     2026 (SHaSA2).
+
+     Key Results (From PCN)
+
+       12. The achievement of the PDO level results will be measured by five high-level indicators. The proposed
+           indicators cover the strengthening of the statistical systems as well as the harmonization, production,
+           timely dissemination, and enhanced use of statistics:
+               a. Improved statistical capacity: measured by the average of the Statistical Needs Assessment
+                  indicator, and the average of a composite score derived from the Statistical Performance
+                  Indicator (SPI) methodology.5 This indicator will define a composite index for SPI specifying the
+
+ 5 The World Bank’s 2021 report “A Review of ICRs and ICRRs of a Selected Sample of Statistical Capacity Building
+ Operations�? cautions that Bank indicators of statistical capacity should be within the projects’ results framework. In particular,
+ using indicators such as the SPI (and the Statistical Capacity Indicator before it) has proven problematic in earlier projects
+ due to frequent volatility in the measurement of the indicator arising from changes external to the project itself. While the
+ SPI will likely have lower volatility, there will still be some large annual changes (at the extremes, a 30 percent increase in
+ Guyana between 2017 to 2018 and a nearly 20 percent decline in São Tomé and Príncipe between 2018 and 2019). Given
+ the magnitude of these potential shifts in the overall SPI year to year, the report does not recommend the SPI for use in the
+
+Jun 07, 2022                                                                                                             Page 7 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+                  specific dimensions and elements directly involved with data producction and statistical capacity
+                  activities under the project.
+             b. Improved availability of harmonized statistics: measured by the number of core social and
+                  economic indicators harmonized across beneficiary countries. This indicator will consider the
+                  performace indicators developed under the SHaSA2initiative organized by themes and strategic
+                  objetives.6
+             c. Improved production and availability of statistics: measured by the average D4P index. D4P will
+                  be estimated at country level and a the year 2021 will be used as the baseline.
+             d. Improved timeliness of dissemination resulting in improved access to microdata: measured by
+                  the proportion of releases within timelines as stipulated in advanced release calendars.7
+             e. Improved use of statistics: measured by the number of downloads of datasets and reports8
+                  supported by the project, and improved monitoring systems for public programs using higher-
+                  quality data derived from the project.
+     13. The project will enhance the production, dissemination, and use of harmonized high-quality statistics.
+         With the help of the project and coordination of the regional body of SADC, quality and harmonized D4P
+         statistics will be produced and disseminated. The timely release of better disseminated statistics will
+         lead to the enhanced use of statistics. This, in turn, will encourage more production of statistics, creating
+         a positive feedback loop that strengthens the sustainability of the project objective. NSOs and specialized
+         agencies from participating national governments will receive specialized training and capacity-building
+         activities on national monitoring and evaluation systems in order to promote evidence-based policy
+         making. At a national level, a wide range of technical assistance activities will close statistical capacity
+         gaps based on specific country-by-country requirements. Figure 6 presents the results chain framework.
+
+
+  D. Concept Description
+
+     14. The proposed regional project will include three SADC IDA countries: Madagascar, Malawi, and
+         Mozambique. A non-SADC state, São Tomé and Príncipe has expressed interest in being part of the
+         project.
+
+     15. The project has three components: Component 1: Harmonization, quality, and dissemination of core
+          social and economic statistics, which seeks to address the challenge of limited capacity to monitor
+          economic progress and inform regional policy decisions. It aims to support the implementation of
+          continental and regional agreements on statistics – specifically, the SHaSA2 initiative by the AU and
+          SADC’s RSDS 2020-2030. It will also produce a common toolkit. This will have the effect of: improving
+          the harmonization and quality of statistics; increasing human resource capacity of SADC Secretariat and
+
+ results frameworks of future statistical capacity building projects. Based on this, a composite SPI index will be developed
+ identifying the specific dimensions and elements of the SPI directly linked with the project.
+ 6
+   See Strategy for the Harmonization of Statistics in Africa – SHaSA (2017). African Union, African Development Bank and United
+ Nations Economic Commission for Africa.
+ 7 This project will consider existing statistical calendars and promote its development in countries that do not currently have
+
+ them.
+ 8
+   Along with counterparts, the World Bank team will define the list of relevant reports that will be released through NSOs’ website s.
+
+Jun 07, 2022                                                                                                                Page 8 of 12
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+           African Union aimed to promote harmonization; and advancing the access, dissemination, and use of
+           data and statistics to support evidence-based policy and decision making. This component, therefore,
+           underscores statistics as a public good for regional integration. Component 2: Close data production,
+           infrastructure, and statistical capacity gaps at national level represent a country-level component to
+           address capacity constraints that are not necessarily common to all participants but that will enable
+           NSOs to leverage regional activities, such as filling infrastructure and software needs. In the main, the
+           country-level component seeks to extend the D4P package in beneficiary countries under the
+           harmonizing guidelines, recognizing initial institutional and human resource capacities and
+           acknowledging the amount of existing core statistics. The activities within this component, will therefore
+           aim to close gaps in data production, infrastructure, and statistical capacity at a country level.
+           Component 3: Project Management will oversee, supervise, and monitor the first two components. The
+           World Bank’s support is planned for five years. The estimated cost is $185.0 million, to be provided
+           through a combination of IDA credits and grants from country-specific and regional windows. The
+           structure of the project is summarized in Table 2.
+
+                                                   Table 2. Project Structure
+    Component          Description
+    Component 1        Improve harmonization, quality, and dissemination of core social and economic statistics
+    1.1                Support implementation of SHaSA2 initiative by the AU and SADC’s RSDS 2020-2030
+    1.2                Improve harmonization and quality of statistics
+                       Improve human resource capacity at the Regional Body (SADC) and country level to implement
+    1.3
+                       the harmonization guidelines
+    1.4                Improve access, dissemination, and use of data and statistics
+    Component 2        Close data production, infrastructure, and statistical capacity gaps at country level
+    2.1                Close data production gaps
+    2.2                Close infrastructure and statistical capacity gaps
+                       Upgrade physical, information and communications technologies (ICT), and statistical
+       2.2.1
+                       infrastructure
+      2.2.2            Enhance statistical capacity
+    Component 3        Project management and monitoring and evaluation (M&E)
+    3.1                Establish project implementation units (PIUs) at regional and country levels
+    3.2                Monitor and evaluating project implementation
+
+
+
+
+Jun 07, 2022                                                                                                 Page 9 of 12
+           The World Bank
+           SADC Regional Statistics Project (P175731)
+
+
+
+     Legal Operational Policies                                                             Triggered?
+     Projects on International Waterways OP 7.50                                            No
+     Projects in Disputed Areas OP 7.60                                                     No
+
+     Summary of Screening of Environmental and Social Risks and Impacts
+     .
+
+
+  The environmental and social risk rating has been classified as Moderate. Key adverse environmental and social risks and
+ impacts relate to ensuring that (i) minor civil works and installation of ICT equipment are managed adequately
+ considering mitigation hierarchy, particularly in relation to construction waste generation and occupational health and
+ safety issues; (ii) the replacement, transportation and disposal of old ITC equipment (e-waste) as well new acquired are
+ undertaken properly; (iii) TA activities including face-to-face trainings, workshops and statistical survey follows prevention
+ measure against COVID-19; (iv) the Terms of Reference for TA type-2 activities (review or development of new policies,
+ plans & strategies) have been reviewed and approved by WB to ensure consistency with the ESF; (v) any statistical
+ guidelines and frameworks established under the project include considerations of digital data protection and digital
+ security; (vi) there is appropriate stakeholder engagement at the regional and national level with all stakeholders,
+ including civil society and marginalized groups, in a manner that is understandable and transparent and explains the
+ benefits and impacts of the activities; (vii) labor conditions, especially with regards to HR restructuring activities, salary re-
+ adjustments and skills needs assessments, as well as occupational health and safety (minor cuts and injuries, road safety,
+ etc. during work); (viii) ensuring that inclusion and data protection covers vulnerable and marginalized groups; and (iv)
+ possible risks of sexual exploitation and abuse and sexual harassment (SEA/SH) at the work place and during the roll out
+ of surveys/censuses.
+
+ Capacity of the PIU and respective implementing agencies to manage environmental and social risk is expected to be
+ limited, however, as the nature of the proposed environmental and social risks are relatively low to moderate these risks
+ and impacts should be manageable through known mitigation measures.
+
+ The following standards have been identified as relevant for the project; ESS1, ESS2, ESS3, ESS4, and ESS10. The project
+ will be required to prepare a Code of Practices for e-Waste Management , COVID-19 Contingency Plan, Environmental
+ and Social Commitment Plan, Stakeholder Engagement Plan and Labor Management Procedures.
+
+
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Alejandro Medina Giopp
+     Senior Economist
+
+
+     Borrower/Client/Recipient
+
+
+Jun 07, 2022                                                                                                          Page 10 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+  African Union
+
+
+
+
+  Democratic Republic of São Tomé and Príncipe
+
+
+
+
+  Republic of Madagascar
+
+
+
+
+  Republic of Malawi
+
+
+
+
+  Republic of Mozambique
+
+
+
+
+  Southern African Development Community
+
+
+
+
+  Implementing Agencies
+
+  Southern African Development Community
+  Deepchandsingh Jagai
+  Senior Officer
+  djagai@sadc.int
+
+
+
+
+Jun 07, 2022                                          Page 11 of 12
+         The World Bank
+         SADC Regional Statistics Project (P175731)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                       Alejandro Medina Giopp
+
+  Approved By
+  APPROVALTBL
+  Practice Manager/Manager:
+
+  Country Director:                         Mohammed Dalil Essakali   14-Jul-2022
+
+
+
+
+Jun 07, 2022                                                                        Page 12 of 12
+

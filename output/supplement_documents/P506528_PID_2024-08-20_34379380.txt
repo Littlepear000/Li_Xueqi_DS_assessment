@@ -1,0 +1,350 @@
+﻿    The World Bank
+    Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+                  Project Information Document (PID)
+
+                Appraisal Stage | Date Prepared/Updated: 20-Aug-2024 | Report No: PIDIA00870
+      The World Bank
+      Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                        Operation ID                   Operation Name
+                               WESTERN AND CENTRAL                                          Human Capital Protection
+Burkina Faso                                                 P506528
+                               AFRICA                                                       Project
+Financing Instrument           Estimated Appraisal Date      Estimated Approval Date        Practice Area (Lead)
+Investment Project
+                               24-Jul-2024                   19-Sept-2024                   Governance
+Financing (IPF)
+Borrower(s)                    Implementing Agency
+MEF                            DGDT
+
+Proposed Development Objective(s)
+To support the Government’s efforts to ensure the provision of essential social services.
+
+Components
+Ensuring the provision of essential health and education services
+Project management
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                             100.40
+
+  Total Financing                                                                                                  100.40
+               of which IBRD/IDA                                                                               100.40
+  Financing Gap                                                                                                      0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+                                                                                                                      Page 1
+         The World Bank
+         Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+       International Development Association (IDA)                                                                     100.40
+            of which IDA Recommitted                                                                                   100.40
+          IDA Credit                                                                                                   100.40
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Moderate
+
+
+    Decision
+    The review did authorize the team to appraise and negotiate
+
+
+
+
+    Other Decision (as needed)
+    B. Introduction and Context
+    Country Context
+1.      Due to escalating insecurity, Burkina Faso has experienced significant political instability in recent years.
+Beginning in 2016, increased violence from the Sahel countries and heightened attacks by violent extremist organizations
+spread across Burkina Faso, even reaching the capital, Ouagadougou, and resulting in two unconstitutional changes in
+2022. In response, the authorities introduced the Action Plan for Stabilization and Development (PA-SD) for 2023–2025,
+which prioritizes four areas: (a) fight terrorism and restore territorial integrity, (b) respond to the humanitarian crisis, (c)
+rebuild the State and improve governance, and (d) work toward national reconciliation and social cohesion.
+2.       Since 2019, significant external and domestic shocks have affected the country’s macro-fiscal stability. Initially
+marked by robust growth and fiscal consolidation, the onset of insecurity in 2019 impeded investment, particularly in
+sectors such as gold mining, and curtailed overall economic expansion. The COVID-19 pandemic further exacerbated these
+issues in 2020, compounded by mine closures driven by insecurity and the broader impacts of the Russian Federation’s
+invasion of Ukraine in 2022, which collectively resulted in the country experiencing its first two episodes of negative per
+capita growth since 2000.
+3.      The security crisis and the COVID-19 pandemic increased the poverty rate. Poverty increased 1.8 percentage
+points between 2018/19 and 2021/22, reaching 43.2 percent in 2021/22, and is estimated to have remained roughly
+constant1. The annual number of reported fatalities from security incidents has increased as follows: 303 (2018), 2220
+(2019), 2304 (2020), 2374 (2021), 4244 (2022), 8499 (2023), 4695 (2024*).2 The humanitarian situation remains severe,
+with approximately 2.1 million Internally Displaced Persons (IDPs) by the end of 2023 and an estimated 3 million people
+facing severe food insecurity during the 2024 lean season.3 The presence of IDPs adds additional pressure on host
+communities, particularly in terms of food supply and the delivery of essential social services like education and
+healthcare.
+
+
+1 https://www.insd.bf/sites/default/files/2024-01/Principaux%20r%C3%A9sultats%20EHCVM-2021.pdf
+2 Figures from https://acleddata.com/, accessed on July 20, 2020, with data for 2024 until this date.
+3 European Commission: Emergency Response Coordination Centre:
+
+https://erccportal.jrc.ec.europa.eu/API/ERCC/Maps/DownloadPublicMap?fileN=MainFile&forceDownload
+
+                                                                                                                           Page 2
+       The World Bank
+       Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+4.      Poverty, food insecurity, and fragility are exacerbated by Burkina Faso being the 29th most vulnerable country
+in the world to climate impacts and the 35th least ready to improve resilience. The country is highly dependent on
+natural resources and is prone to heat waves, chronic drought, flash floods, windstorms, and disease outbreaks This poses
+serious threats to agricultural production, food security, and a rise in vector-borne diseases.
+ Sectoral and Institutional Context
+5.       The Government has adopted strategies in the education and health sectors to maintain the provision of
+essential social services in the short and medium term to ensure long-term improvements in human capital indicators.
+In the health sector, the National Health Development Plan 2021–2030 aims to (a) improve the quality of health and
+nutrition services through the provision of free healthcare and universal health coverage, (b) develop human resources,
+and (c) strengthen the response to health emergencies. Regarding the education sector, the Education Sector Plan 2017–
+2030 aims to increase access to education and improve education quality.
+Health Sector Context
+6.     Burkina Faso has made significant strides in improving healthcare for children and women, and it is essential to
+maintain this progress despite the country’s security situation.
+7.       Despite the improvements in several health sub-sectors, health outcomes were still relatively poor in
+international comparison at the onset of the security and COVID-19 crises. Burkina Faso had, as of 2021, one of the least
+resilient health systems in the world, as shown by its score of 29.8 out of 100 on the Global Health Security Index. The
+country faces a high total fertility rate of 4.4 children per woman and a young median age of 17.9 years. With a growing
+population, there is increasing demand for children’s healthcare services, including immunizations and treatment for
+malaria and other infectious diseases.
+8.      Also, the country may run out of key vaccines for children under five. As of the end of June 2024, nine out of
+twelve vaccines had an average stock of less than three months, against a target of six months. Bacillus Calmette-Guerin
+and Tetanus vaccines have only one month of coverage, which may affect the progress made on immunization. Despite
+numerous social challenges, such as conflict, Burkina Faso maintains overall immunization coverage levels well above the
+regional average—91 percent for diphtheria, typhoid, and pertussis vaccine in 2022, compared to a regional average of
+72 percent.
+9.      Finally, the free health program is affected by public financial management (PFM) shortcomings. Financial
+constraints and the security situation have significantly limited the reach of the free healthcare program (gratuité) for
+children under the age of five and pregnant women. This includes an increasing debt of the Central Purchasing Agency for
+Generic Medicines (CAMEG) by 30 percent over 2017–2021 for central drug purchasing, medicine stock-outs, unpaid bills
+in health facilities, and delays in fund disbursement resulting from financial and administrative bottlenecks. The primary
+challenges to effective healthcare provision, specifically within the free healthcare program, are financial and geographical
+due to the distance to medical facilities.
+Education Sector Context
+10.     The country recorded considerable improvements in schooling and literacy rates between 2010 and 2020.
+During the decade leading up to the significant shocks of the early 2020s with the global pandemic and domestic insecurity,
+Burkina Faso showed notable progress along multiple education indicators. In only six years, between 2012 and 2018, the
+country managed to increase the gross enrollment ratio for primary education by 10 percent of the population, reaching
+92 percent.
+11.     Despite progress, Burkina Faso faces multiple challenges in ensuring equitable access to quality education
+across all levels. Approximately 40 percent of children ages 6–11 and 32 percent ages 12–15 are not enrolled in school.
+The prevalence of learning poverty is alarmingly high, affecting around 75 percent of Burkinabè children under 10 years
+
+                                                                                                                         Page 3
+       The World Bank
+       Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+of age, indicating that three-quarters struggle to read and comprehend basic text. Gender disparities persist in educational
+access and outcomes, with girls generally lagging boys in enrollment and achievement at the secondary and tertiary levels.
+Access to secondary education remains limited.
+12.      The impact of fragility on education service delivery remains pronounced. Over the past years, armed groups
+and extremists have targeted 12 of Burkina Faso’s 13 regions, leading to displacement and the closure of schools.
+However, there has been a gradual improvement, with 1,080 schools reopened during the first quarter of the school year,
+indicating a decrease in the impact of the crisis on education. Burkina Faso’s Government has implemented a well-
+regarded Education in Emergency strategy through a technical secretariat within the Ministry in charge of national
+education (Ministère de l’Education Nationale, de l’Alphabétisation et de la Promotion des Langues Nationales,
+MENAPLN). Despite these efforts, education indicators have seen alarming declines.
+13.   Among the various factors explaining this poor performance, teachers’ capacity and assessment of students’
+knowledge emerge as crucial, in addition to the issue of insufficient infrastructure.
+        •      Teachers’ capacity. The training of teachers through pedagogical conferences, pedagogical days,
+               conferences for school management, and pedagogical kits has been identified in MENALPN’s strategy as a
+               critical reform to improve the quality of teaching.
+        •      Assessment of students’ knowledge and skills by organizing school exams at all levels . This knowledge
+               assessment is subject to severe funding constraints against a backdrop of rising costs due to the logistical
+               complexities of organizing exams in security-challenged areas. In addition to the funding constraints, the
+               knowledge assessment faces structural challenges, including the time taken to issue diplomas, a backlog of
+               sessions from 2020 to 2023, and the timely availability of diplomas for the next examination sessions.
+ C. Proposed Development Objective(s)
+
+ Development Objective(s) (From PAD)
+ To support the Government’s efforts to ensure the provision of essential healthcare and education services.
+ Key Results
+        •      Ensuring the provision of essential healthcare services
+               o    Free healthcare consultations provided for women and children under five (number)
+               o    Children’s vaccination coverage on Pentavalent (percentage)
+        •      Ensuring the provision of essential education services
+               o    Students benefiting from the annual exams (percentage)
+               o    Teachers certified (number)
+  D. Project Description
+14.      The project has two components: (a) ensuring the provision of essential health and education services (US$100
+million) and (b) project management (US$1 million). The project will ensure the provision of essential services in the health
+and education sectors for 2024 and 2025.
+15.      Component 1: Ensuring the provision of essential health and education services (US$100 million). The operation
+will finance essential health and education services under the goods and services economic classification (see table 1). The
+component is divided into two subcomponents.
+
+
+
+                                                                                                                        Page 4
+       The World Bank
+       Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+                                Table 1. Summary of Essential Services Selected (US$, millions)
+                                                                       Execution    Budget        Execution    Execution
+          Sector              Essential Services Selected               rate in    Allocation     as of May     rate in
+                                                                         2023         2024           2024      2024 (%)
+                     Implementing the free health care strategy            100%          48.3           25.8         53.2
+       Health                                                                                                        35.1
+                     Operating costs of hospitals and health centers       100%         47.3            16.6
+       programs
+                     Acquiring and administrating routine vaccines         100%           6.7             0           0.0
+                     Organizing exams and competitions                      96%         41.6            17.3         41.6
+       Education
+                     Providing training and support to teachers             95%         21.4            6.1          28.5
+       programs
+                     Equipping teachers with pedagogical kits               99%          4.2              0          0.0
+       Total                                                                98%        169.5           65.8         38.8
+
+
+16.     Subcomponent 1.1: Ensuring the provision of essential health services (US$60 million). The selected services in
+the health sector relate to implementing the free healthcare program, hospitals, and health centers services, and providing
+routine vaccines.
+17.      Subcomponent 1.2: Ensuring the provision of essential education services (US$40 million). The selected services
+relate to organizing exams and competitions, training and supervising teachers, and equipping teachers with materials.
+18.     Component 2: Project management (US$1 million). The purpose of this component is to finance the operating
+costs required for implementation of the project, including managing its fiduciary risk. In line with the lessons learned
+from a similar project implemented in Burkina Faso (P169486), the technical assistance component focuses on a limited
+number of activities to address well-identified PFM shortcomings associated with the selected services.
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                               Triggered?
+ Projects on International Waterways OP 7.50                                              No
+ Projects in Disputed Area OP 7.60                                                        No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+Environmental and Social Risk Classification
+19.      Environmental risk rating: Moderate. The environmental risk is considered moderate, as the activities are not
+expected to directly generate irreversible risks or many negative environmental impacts. The project will not finance any
+civil engineering works that might induce risks and/or negative environmental impacts. However, some health-related
+activities may generate environmental and community health risks from inadequate storage, transportation, and disposal
+of infected medical waste and conditions of transportation and use of oxygen bottles. In addition, the risks of insecurity
+arising from (a) the grouping of pupils and teachers in the framework of the organization of exams and concours and (b)
+the training of education personnel and the organization of conferences for teachers are also to be considered during the
+environmental and social assessments.
+20.     Social risk rating: Moderate. The social risk is considered moderate, as the activities to be financed are limited to
+the recurrent costs of selected health and education services. The main social risks from the proposed project are related
+
+                                                                                                                            Page 5
+       The World Bank
+       Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+to the potential exclusion of beneficiaries due to inadequacies in information and selection systems as well the security
+and violence context of the country (for example, challenges in setting the selection criteria for project activities both for
+structures and persons and ensuring the safety and security of children, especially girls, in the schools and health centers
+in red insecurity areas); labor issues related to the Project Implementation Unit (PIU) or the people hired for the health
+and education activities, vulnerabilities among some beneficiaries; and collateral risks to education, social protection, and
+health workers delivering services mainly in insecure areas.
+21.     Environmental and Social Risk Classification (ESRC): Moderate.
+22.     Sexual exploitation and abuse/sexual harassment (SEA/SH) risk rating: Moderate.
+23.     Current SEA/SH Risk Rating: Moderate. The SEA/SH risk is considered to be moderate. Project activities, as
+currently described, are not likely to significantly exacerbate project-related SEA/SH risks since they are mainly focused
+on financing recurrent costs of health and education services. The PIU has significant experience in managing SEA/SH risks
+and has already responded to SEA/SH incidents in a satisfactory manner. Gender-based violence mapping has been
+conducted in some of the project areas. Given the selected sectors (education and health), this project offers a great
+opportunity to introduce sectoral-level mitigation measures such as the application of sectoral code of conduct for health
+workers or teachers prohibiting and sanctioning SEA/SH. These measures would de facto strengthen the accountability
+framework of the education and health sectors.
+ E. Implementation
+  Institutional and Implementation Arrangements
+24.       MEFP will be responsible for overall project implementation in liaison with the ministries in charge of education,
+health, and other stakeholders. A PIU will be established within the PUDTR (P175382) under the MEFP and will implement
+activities and coordinate with the ministries in charge of education and health and other stakeholders involved in the
+project. The PIU will rely on Emergency Local Development and Resilience Project (PUDTR) adequate track record. The
+latter is endowed with a fiduciary platform including a manual of procedures, an information management system in
+financial management, and an external audit arrangement. Its current staffing includes a program coordinator,
+procurement specialist, monitoring and evaluation specialist, financial management specialist, accountants, internal
+auditors, environmental and social specialists, Gender-Based Violence (GBV) specialist, and security specialist. This team
+is well conversant with donors’ procedures including the World Bank’s rules and procedures. The PIU will update the
+existing operational manual enforced at PUDTR to incorporate the project’s specificities. The PIU will also be responsible
+for implementing a clear communications strategy to ensure beneficiary participation and have appropriate guidelines
+reflected in the updated manual.
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Kolie Ousmane Maurice Megnan
+   Senior Public Sector Specialist
+
+   Christophe Lemiere
+   Lead Economist, Health
+
+ Borrower/Client/Recipient
+
+
+
+                                                                                                                         Page 6
+     The World Bank
+     Burkina Faso Human Capital Recurrent Cost Financing (P506528)
+
+
+ MEF
+ Inoussa OUIMINGA
+ DGCOOP
+ jouiminga@yahoo.fr
+
+Implementing Agencies
+ DGDT
+ Wilfried BASSOLE
+ Coordinator
+ mbassole@yahoo.fr
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Kolie Ousmane Maurice Megnan, Christophe Lemiere
+
+Approved By
+
+Practice Manager/Manager:
+
+Country Director:
+
+
+
+
+                                                                                          Page 7
+

@@ -1,0 +1,266 @@
+{
+  "project_id": "P179109",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "38d39fd7",
+  "started_at": "2026-11-07T03:35:51Z",
+  "ended_at": "2026-11-07T03:36:03Z",
+  "input_fingerprint": "e685689989c4a54e",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 15,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P179109",
+      "doc_type": "PAD",
+      "doc_date": "2024-02-27",
+      "guid": "099030124140043615",
+      "file_name": "P179109_PAD_2024-02-27_099030124140043615.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:51Z",
+      "ended_at": "2026-11-07T03:35:55Z",
+      "status": "ok",
+      "note": "4 document(s) fetched from the WBG API; 8 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:55Z",
+      "ended_at": "2026-11-07T03:35:55Z",
+      "status": "ok",
+      "note": "in scope (approved 2024-03-20, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:55Z",
+      "ended_at": "2026-11-07T03:35:56Z",
+      "status": "ok",
+      "note": "15 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 15,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 8,
+          "innovation_cycle": 5,
+          "enabling_processes": 1,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:56Z",
+      "ended_at": "2026-11-07T03:35:56Z",
+      "status": "ok",
+      "note": "PAD 2024-02-27 (P179109_PAD_2024-02-27_099030124140043615.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P179109",
+            "doc_type": "PAD",
+            "doc_date": "2024-02-27",
+            "guid": "099030124140043615",
+            "file_name": "P179109_PAD_2024-02-27_099030124140043615.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:56Z",
+      "ended_at": "2026-11-07T03:35:56Z",
+      "status": "ok",
+      "note": "98 reading units (20 numbered paragraphs) from 850 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 98
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:56Z",
+      "ended_at": "2026-11-07T03:35:57Z",
+      "status": "ok",
+      "note": "54 of 98 units carry a digital / AI cue (24 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 54,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 24
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:57Z",
+      "ended_at": "2026-11-07T03:36:00Z",
+      "status": "ok",
+      "note": "1 candidate practices from 54 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 175220,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1281,
+          "cached_tokens": 37248,
+          "cache_write_tokens": 0,
+          "output_tokens": 971,
+          "seconds": 10.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "extracted": 1
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:00Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "ok",
+      "note": "0 accepted, 1 rejected (not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 17348,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 589,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 53,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "accepted": 0,
+        "rejected": 1,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:03Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 219
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "099030124140043615",
+      "doc_type": "PAD",
+      "position": 316,
+      "char_start": 45774,
+      "char_end": 45847,
+      "sentence": "The new passenger boat program will be implemented under a PPP framework.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Government-owned passenger boats leased to private operators",
+      "reason": "reject: Leasing/PPP arrangement for boats; no digital system, data or AI core.",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: public boat ownership leased to private operators - cue: 'PPP'",
+      "innovation_cues": "PPP",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Leasing/PPP arrangement for boats; no digital system, data or AI core.",
+          "reject_code": "not_digital",
+          "context_chars": 1255
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 7,
+    "input_tokens": 1870,
+    "cached_tokens": 40192,
+    "cache_write_tokens": 0,
+    "output_tokens": 1024,
+    "seconds": 11.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.002
+  }
+}

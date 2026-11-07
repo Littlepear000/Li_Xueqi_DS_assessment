@@ -1,0 +1,1111 @@
+{
+  "project_id": "P176163",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4a64762f",
+  "started_at": "2026-11-07T03:32:36Z",
+  "ended_at": "2026-11-07T03:33:03Z",
+  "input_fingerprint": "f0ba61789f53a4f5",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 24,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P176163-A1",
+      "project_id": "P176163",
+      "name": "unified GIS information system for sanitation monitoring",
+      "description": "The project designs a unified GIS-based information system that municipalities use to monitor sanitation service provision and environmental protection. Practices: unified information system to monitor sanitation service provision and environmental protection; GIS-based information system for municipal sanitation monitoring; Unified information system monitoring sanitation service provision and environmental protection.",
+      "why_innovative": "New service: unified sanitation and environment monitoring system integrating service and environmental data | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099111023132548060",
+        "doc_type": "PAD",
+        "doc_date": "2023-11-07",
+        "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+        "char_start": 50398,
+        "char_end": 50727,
+        "text": "30 Applies to (i), (ii) and (iii) Page 13 The World Bank Clean and Resilient Environment for Blue Sea Project (P176163) implementing a unified information system to monitor the provision of sanitation service and environmental protection; and (vi) technical inputs to update the regulatory framework on sanitation cost structure.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 113826,
+          "char_end": 113968,
+          "text": "It does so by assessing the number of municipalities having implemented and using the GIS-based information system designed under the project.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 113354,
+          "char_end": 113825,
+          "text": "Frequency Twice during the life of the project (mid-term review and project completion) Data source Mid-Term and Final Beneficiaries Survey Methodology for Data Survey Collection Responsibility for Data MoTE/AKUM Collection Municipalities with a GIS-based information system operational (Number) This indicator measures the number of municipalities benefitting from the improved monitoring of the provision of Description sanitation services and environmental protection.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 201830,
+          "char_end": 202095,
+          "text": "(v) designing and implementing a unified information system to monitor the provision of sanitation service and environmental protection; and (vi) technical assistance to carry out studies to support the update of a regulatory framework on sanitation cost structure.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the information system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sanitation",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly monitors sanitation service provision via information system.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: unified sanitation/environment information system | Innovative: integrates service and environment monitoring | Category: Technological system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: unified sanitation and environment monitoring system integrating service and environmental data",
+      "innovation_cues": [
+        "nature-based"
+      ]
+    },
+    {
+      "approach_id": "P176163-A2",
+      "project_id": "P176163",
+      "name": "waste data management and reporting system for EPBI eligibility",
+      "description": "Municipalities must operate a waste data management, monitoring and reporting system to qualify for performance-based investments. Practices: waste data management and reporting system for municipal EPBI eligibility; Waste data management system as EPBI eligibility criterion.",
+      "why_innovative": "New delivery arrangement: data system gates municipal investment eligibility - cue: 'eligibility criteria' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099111023132548060",
+        "doc_type": "PAD",
+        "doc_date": "2023-11-07",
+        "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+        "char_start": 66329,
+        "char_end": 66644,
+        "text": "Municipalities will be eligible for EPBIs in accordance to eligibility criteria and procedures as set forth in the loan agreement and the EPBI Manual, which will include the obligations to (i) have established a waste data management, monitoring, and reporting system, to the Borrower’s and the Bank’s satisfaction;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 66686,
+          "char_end": 66823,
+          "text": "(iii) provide adequate technical waste management staff for planning and operations, as well as data management and monitoring functions;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 178572,
+          "char_end": 178777,
+          "text": "The minimum criterion for municipality eligibility is the establishment of a waste data management, monitoring, and reporting system which will be supported through TA from the project (sub-component 1.1).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 179346,
+          "char_end": 179739,
+          "text": "The provision of the EPBI investments will be based on how well each municipality performs on the following performance indicators which will be used to monitor progress: (a) percentage of waste collected/increased service coverage of population, (b) percentage of households covered by solid waste services, and (c) cost recovery of services at the municipality (local government unit) level.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: data system conditions access to performance-based financing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Waste Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "Waste data management system for municipal waste investments.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: municipal waste data system | Innovative: data system as EPBI eligibility gate | Category: delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: data system gates municipal investment eligibility - cue: 'eligibility criteria'",
+      "innovation_cues": [
+        "circular economy"
+      ]
+    },
+    {
+      "approach_id": "P176163-A3",
+      "project_id": "P176163",
+      "name": "Municipal waste MIS reporting key performance indicators",
+      "description": "Project sets up MIS in municipalities to monitor solid waste management performance indicators.",
+      "why_innovative": "New service: municipal waste MIS tracking KPIs - cue: 'MIS set up by the project' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099111023132548060",
+        "doc_type": "PAD",
+        "doc_date": "2023-11-07",
+        "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+        "char_start": 108599,
+        "char_end": 108896,
+        "text": "Information Systems (MIS) for municipal solid waste that is operational and reporting on key KPIs (Number) This indicator measures the operationalization and effective adoption by targeted municipalities of the MIS set up by the Description project for monitoring municipal solid waste management.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099111023132548060",
+          "doc_type": "PAD",
+          "doc_date": "2023-11-07",
+          "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+          "char_start": 107402,
+          "char_end": 108598,
+          "text": "More specifically, the indicator Description measures the share of annual revenue from waste management (fee collection) against the operating costs of waste management faced by the municipality (i.e. collection, recycling, transfer, and/or disposal costs) Frequency Yearly Data source Performance Monitoring Information System established at municipalities/ Project progress reports Methodology for Data Annual revenue from waste management (fee collection) as a percentage of the total cost of municipal solid waste Collection service delivery in selected municipalities that qualify for EPBI investments Responsibility for Data Municipalities/NEA Collection Municipal waste recycled (Metric tons/year) Description This indicator measures the weight of waste collected annually by municipalities that is then separated for recycling Frequency Yearly Data source Reports produced by the municipal wasterecycling centers Methodology for Data Total municipal waste collected and separated for further processing (recycling) is weighed at municipal waste recycling Collection centers Responsibility for Data Municipalities/NEA/ site operators Collection Municipalities with a Performance Monitoring",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the MIS is the core monitoring system built",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Waste Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "MIS monitors solid waste management performance indicators.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: municipal waste MIS | Innovative: project-built MIS adopted by municipalities for KPIs | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: municipal waste MIS tracking KPIs - cue: 'MIS set up by the project'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176163",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "guid": "099111023132548060",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:32:36Z",
+      "ended_at": "2026-11-07T03:32:39Z",
+      "status": "ok",
+      "note": "5 document(s) fetched from the WBG API; 9 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:32:39Z",
+      "ended_at": "2026-11-07T03:32:39Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-12-01, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:32:39Z",
+      "ended_at": "2026-11-07T03:32:40Z",
+      "status": "ok",
+      "note": "24 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 24,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 4,
+          "innovation_types": 4,
+          "enabling_processes": 5,
+          "enabling_technologies": 1,
+          "innovation_cycle": 6,
+          "results_based_management": 2,
+          "innovation": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:32:40Z",
+      "ended_at": "2026-11-07T03:32:40Z",
+      "status": "ok",
+      "note": "PAD 2023-11-07 (P176163_PAD_2023-11-07_099111023132548060.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176163",
+            "doc_type": "PAD",
+            "doc_date": "2023-11-07",
+            "guid": "099111023132548060",
+            "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:32:40Z",
+      "ended_at": "2026-11-07T03:32:40Z",
+      "status": "ok",
+      "note": "173 reading units (36 numbered paragraphs) from 1405 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 173
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:32:40Z",
+      "ended_at": "2026-11-07T03:32:43Z",
+      "status": "ok",
+      "note": "43 of 173 units carry a digital / AI cue (18 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 43,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 18
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:32:43Z",
+      "ended_at": "2026-11-07T03:32:49Z",
+      "status": "ok",
+      "note": "15 candidate practices from 43 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 145008,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 799,
+          "cached_tokens": 29696,
+          "cache_write_tokens": 0,
+          "output_tokens": 2789,
+          "seconds": 19.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0038
+        },
+        "extracted": 15
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:32:49Z",
+      "ended_at": "2026-11-07T03:32:55Z",
+      "status": "ok",
+      "note": "8 accepted, 7 rejected (generic 2, unsupported_by_evidence 2, not_digital 2, not_innovative 1); 2 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 207756,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 31657,
+          "cached_tokens": 8448,
+          "cache_write_tokens": 0,
+          "output_tokens": 1191,
+          "seconds": 8.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.011
+        },
+        "accepted": 8,
+        "rejected": 7,
+        "expanded": 2,
+        "reject_codes": {
+          "generic": 2,
+          "unsupported_by_evidence": 2,
+          "not_digital": 2,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:32:55Z",
+      "ended_at": "2026-11-07T03:32:58Z",
+      "status": "ok",
+      "note": "8 of 8 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2457,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 473,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 252,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:32:58Z",
+      "ended_at": "2026-11-07T03:32:59Z",
+      "status": "ok",
+      "note": "8 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2453,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 481,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 155,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 4,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:32:59Z",
+      "ended_at": "2026-11-07T03:33:01Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8997,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1382,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 244,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:01Z",
+      "ended_at": "2026-11-07T03:33:01Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 10 evidence rows, 9 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:01Z",
+      "ended_at": "2026-11-07T03:33:03Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 165
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176163-A1-E1",
+      "approach_id": "P176163-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U37",
+      "para_no": null,
+      "sentence_position": 366,
+      "char_start": 50398,
+      "char_end": 50727,
+      "sentence": "30 Applies to (i), (ii) and (iii) Page 13 The World Bank Clean and Resilient Environment for Blue Sea Project (P176163) implementing a unified information system to monitor the provision of sanitation service and environmental protection; and (vi) technical inputs to update the regulatory framework on sanitation cost structure.",
+      "practice": "unified information system to monitor sanitation service provision and environmental protection",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sanitation",
+      "extractor_reason": "Digital core: unified sanitation monitoring information system | Not routine: integrates service and environment monitoring | Adoption: 'designing and implementing'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: unified sanitation/environment information system | Innovative: integrates service and environment monitoring | Category: Technological system",
+      "keywords_hit": "information system",
+      "innovation_cues": "nature-based",
+      "innovation_basis": "New service: unified sanitation and environment monitoring system integrating service and environmental data",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A1-E2",
+      "approach_id": "P176163-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U83",
+      "para_no": null,
+      "sentence_position": 730,
+      "char_start": 113826,
+      "char_end": 113968,
+      "sentence": "It does so by assessing the number of municipalities having implemented and using the GIS-based information system designed under the project.",
+      "practice": "GIS-based information system for municipal sanitation monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sanitation",
+      "extractor_reason": "Digital core: municipal GIS sanitation system | Not routine: new system designed and used by municipalities | Adoption: 'implemented and using'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS sanitation monitoring system | Innovative: project-designed GIS used by municipalities | Category: Technological",
+      "keywords_hit": "GIS;information system;methodolog;survey;survey methodology",
+      "innovation_cues": "",
+      "innovation_basis": "New service: GIS monitoring of sanitation provision - cue: 'designed under the project'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A1-E3",
+      "approach_id": "P176163-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U83",
+      "para_no": null,
+      "sentence_position": 729,
+      "char_start": 113354,
+      "char_end": 113825,
+      "sentence": "Frequency Twice during the life of the project (mid-term review and project completion) Data source Mid-Term and Final Beneficiaries Survey Methodology for Data Survey Collection Responsibility for Data MoTE/AKUM Collection Municipalities with a GIS-based information system operational (Number) This indicator measures the number of municipalities benefitting from the improved monitoring of the provision of Description sanitation services and environmental protection.",
+      "practice": "GIS-based information system for municipal sanitation monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sanitation",
+      "extractor_reason": "Digital core: municipal GIS sanitation system | Not routine: new system designed and used by municipalities | Adoption: 'implemented and using'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS sanitation monitoring system | Innovative: project-designed GIS used by municipalities | Category: Technological",
+      "keywords_hit": "GIS;information system;methodolog;survey;survey methodology",
+      "innovation_cues": "",
+      "innovation_basis": "New service: GIS monitoring of sanitation provision - cue: 'designed under the project'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A1-E4",
+      "approach_id": "P176163-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U157",
+      "para_no": null,
+      "sentence_position": 1270,
+      "char_start": 201830,
+      "char_end": 202095,
+      "sentence": "(v) designing and implementing a unified information system to monitor the provision of sanitation service and environmental protection; and (vi) technical assistance to carry out studies to support the update of a regulatory framework on sanitation cost structure.",
+      "practice": "Unified information system monitoring sanitation service provision and environmental protection",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sanitation",
+      "extractor_reason": "Digital core: unified sanitation monitoring information system | Not routine: integrates service and environment data | Adoption: 'designing and implementing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: unified sanitation/environment monitoring system | Innovative: integrates service and environment data | Category: new digital system",
+      "keywords_hit": "information system",
+      "innovation_cues": "nature-based",
+      "innovation_basis": "New product: unified sanitation and environment monitoring system - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A2-E1",
+      "approach_id": "P176163-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 466,
+      "char_start": 66329,
+      "char_end": 66644,
+      "sentence": "Municipalities will be eligible for EPBIs in accordance to eligibility criteria and procedures as set forth in the loan agreement and the EPBI Manual, which will include the obligations to (i) have established a waste data management, monitoring, and reporting system, to the Borrower’s and the Bank’s satisfaction;",
+      "practice": "waste data management and reporting system for municipal EPBI eligibility",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: municipal waste data management system | Not routine: data system as eligibility gate | Adoption: 'will include the obligations to'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: municipal waste data system | Innovative: data system as EPBI eligibility gate | Category: delivery arrangement",
+      "keywords_hit": "data management",
+      "innovation_cues": "circular economy",
+      "innovation_basis": "New delivery arrangement: data system gates municipal investment eligibility - cue: 'eligibility criteria'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A2-E2",
+      "approach_id": "P176163-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 468,
+      "char_start": 66686,
+      "char_end": 66823,
+      "sentence": "(iii) provide adequate technical waste management staff for planning and operations, as well as data management and monitoring functions;",
+      "practice": "waste data management and reporting system for municipal EPBI eligibility",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: municipal waste data management system | Not routine: data system as eligibility gate | Adoption: 'will include the obligations to'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: municipal waste data system | Innovative: data system as EPBI eligibility gate | Category: delivery arrangement",
+      "keywords_hit": "data management",
+      "innovation_cues": "circular economy",
+      "innovation_basis": "New delivery arrangement: data system gates municipal investment eligibility - cue: 'eligibility criteria'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A2-E3",
+      "approach_id": "P176163-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U140",
+      "para_no": null,
+      "sentence_position": 1142,
+      "char_start": 178572,
+      "char_end": 178777,
+      "sentence": "The minimum criterion for municipality eligibility is the establishment of a waste data management, monitoring, and reporting system which will be supported through TA from the project (sub-component 1.1).",
+      "practice": "Waste data management system as EPBI eligibility criterion",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: waste data monitoring system | Not routine: data system gates investment access | Adoption: 'minimum criterion'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: waste data monitoring system | Innovative: data system gates investment access | Category: delivery arrangement",
+      "keywords_hit": "data management",
+      "innovation_cues": "circular economy",
+      "innovation_basis": "New organizational practice: data system precondition for investment access - cue: 'circular economy'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A2-E4",
+      "approach_id": "P176163-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U140",
+      "para_no": null,
+      "sentence_position": 1145,
+      "char_start": 179346,
+      "char_end": 179739,
+      "sentence": "The provision of the EPBI investments will be based on how well each municipality performs on the following performance indicators which will be used to monitor progress: (a) percentage of waste collected/increased service coverage of population, (b) percentage of households covered by solid waste services, and (c) cost recovery of services at the municipality (local government unit) level.",
+      "practice": "Waste data management system as EPBI eligibility criterion",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: waste data monitoring system | Not routine: data system gates investment access | Adoption: 'minimum criterion'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: waste data monitoring system | Innovative: data system gates investment access | Category: delivery arrangement",
+      "keywords_hit": "data management",
+      "innovation_cues": "circular economy",
+      "innovation_basis": "New organizational practice: data system precondition for investment access - cue: 'circular economy'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A3-E1",
+      "approach_id": "P176163-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U79",
+      "para_no": null,
+      "sentence_position": 718,
+      "char_start": 108599,
+      "char_end": 108896,
+      "sentence": "Information Systems (MIS) for municipal solid waste that is operational and reporting on key KPIs (Number) This indicator measures the operationalization and effective adoption by targeted municipalities of the MIS set up by the Description project for monitoring municipal solid waste management.",
+      "practice": "Municipal waste MIS reporting key performance indicators",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: municipal waste performance MIS | Not routine: new system built and adopted by municipalities | Adoption: 'set up by the project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: municipal waste MIS | Innovative: project-built MIS adopted by municipalities for KPIs | Category: Technological",
+      "keywords_hit": "MIS;information system;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New service: municipal waste MIS tracking KPIs - cue: 'MIS set up by the project'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    },
+    {
+      "row_id": "P176163-A3-E2",
+      "approach_id": "P176163-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P176163",
+      "doc_id": "099111023132548060",
+      "doc_type": "PAD",
+      "doc_date": "2023-11-07",
+      "file_name": "P176163_PAD_2023-11-07_099111023132548060.txt",
+      "unit_id": "U79",
+      "para_no": null,
+      "sentence_position": 717,
+      "char_start": 107402,
+      "char_end": 108598,
+      "sentence": "More specifically, the indicator Description measures the share of annual revenue from waste management (fee collection) against the operating costs of waste management faced by the municipality (i.e. collection, recycling, transfer, and/or disposal costs) Frequency Yearly Data source Performance Monitoring Information System established at municipalities/ Project progress reports Methodology for Data Annual revenue from waste management (fee collection) as a percentage of the total cost of municipal solid waste Collection service delivery in selected municipalities that qualify for EPBI investments Responsibility for Data Municipalities/NEA Collection Municipal waste recycled (Metric tons/year) Description This indicator measures the weight of waste collected annually by municipalities that is then separated for recycling Frequency Yearly Data source Reports produced by the municipal wasterecycling centers Methodology for Data Total municipal waste collected and separated for further processing (recycling) is weighed at municipal waste recycling Collection centers Responsibility for Data Municipalities/NEA/ site operators Collection Municipalities with a Performance Monitoring",
+      "practice": "Municipal waste MIS reporting key performance indicators",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Waste Management",
+      "extractor_reason": "Digital core: municipal waste performance MIS | Not routine: new system built and adopted by municipalities | Adoption: 'set up by the project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: municipal waste MIS | Innovative: project-built MIS adopted by municipalities for KPIs | Category: Technological",
+      "keywords_hit": "MIS;information system;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New service: municipal waste MIS tracking KPIs - cue: 'MIS set up by the project'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4a64762f"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 327,
+      "char_start": 43544,
+      "char_end": 44143,
+      "sentence": "The following activities will be financed: (i) provision of technical support for data management and performance monitoring of solid waste management, including (a) support for data management and verification systems at the municipal level, (b) monitoring performance and developing an enforcement mechanism for municipal waste management activities, and (c) improved performance capacity, including training, to Eligible Municipalities to ensure the enabling environment for management and implementation of the Environmental-Performance Based Investments (EPBIs) financed under subcomponent 1.2;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "municipal waste data management and verification systems",
+      "reason": "reject: Vague 'data management and verification systems'; no named digital system or mechanism described",
+      "reject_code": "generic",
+      "innovation_basis": "New process: verified municipal waste performance data - cue: 'performance monitoring'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Vague 'data management and verification systems'; no named digital system or mechanism described",
+          "reject_code": "generic",
+          "context_chars": 1267
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 701,
+      "char_start": 100212,
+      "char_end": 101409,
+      "sentence": "RESULTS FRAMEWORK AND MONITORING @#&OPS~Doctype~OPS^dynamics@padannexresultframework#doctemplate PDO Indicators by PDO Outcomes Baseline Closing Period To reduce pollution from land-based sources into the aquatic environment in selected areas Population covered by municipal waste collection service (Percentage) Jul/2023 Jan/2030 75.00 90.00 Wastewater flows from urban agglomerations safely treated (Percentage) Jul/2023 Jan/2030 0.00 80.00 Nutrients pollution filtered and avoided (Percentage) Jul/2023 Jan/2030 0.00 45.00 Intermediate Indicators by Components Baseline Closing Period Component 1: Promote Integrated & Circular Approaches for Protection of Landscapes & Water Resources Municipalities improving waste management service performance (Number) Jul/2023 Jan/2030 0.00 6.00 Cost recovery rate for municipal solid waste management services of selected municipalities (Percentage) Jul/2023 Jan/2030 64.00 80.00 Municipal waste recycled (Metric tons/year) Mar/2023 Apr/2029 0.00 1,300.00 Municipalities with a Performance Monitoring Information Systems (MIS) for municipal solid waste that is operational and reporting on key KPIs (Number) Mar/2023 Apr/2029 Page 26 The World Bank Clean",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "performance monitoring information system for municipal solid waste KPIs",
+      "reason": "reject: Cited sentence is results-framework table; no description of MIS design or novelty",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: MIS reporting municipal waste KPIs - cue: 'Performance Monitoring Information Systems'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentence is results-framework table; no description of MIS design or novelty",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 2179
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 702,
+      "char_start": 101410,
+      "char_end": 102606,
+      "sentence": "and Resilient Environment for Blue Sea Project(P176163) 0.00 4.00 Component 2: Reduce Water Pollution in the Vjosa River New treatment plants for wastewater / sludge established and operational (Number) Mar/2023 Apr/2029 0.00 6.00 Infrastructure integrating climate change related risks in the design (Percentage) Mar/2023 Apr/2029 0.00 100.00 On-site/decentralized sanitation solutions implemented and operational (Number) Jul/2023 Jan/2030 0.00 2,800.00 People provided with access to improved sanitation services (Number) CRI Mar/2023 Apr/2029 0.00 51800.00 People provided with access to improved sanitation services - Female (RMS requirement) (Number) CRI 0.00 26000.00 People provided with access to improved sanitation services - rural (Number) CRI 0.00 11500.00 People provided with access to improved sanitation services - urban (Number) CRI 0.00 30000.00 People with access to safely managed sanitation services (Number) Mar/2023 Apr/2029 0.00 51,800.00 Municipalities with a GIS-based information system operational (Number) Mar/2023 Apr/2029 0.00 6.00 Women-headed household's who receive Intra-Domiciliary Sanitation Investments (Percentage) Jul/2023 Jan/2030 0.00 15.00 Land area",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS-based information system for municipal waste and sanitation management",
+      "reason": "reject: Only an indicator count; no description of GIS system or what it does",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: GIS system operational in municipalities - cue: 'GIS-based information system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Only an indicator count; no description of GIS system or what it does",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1649
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1040,
+      "char_start": 159253,
+      "char_end": 159711,
+      "sentence": "Robust information and • For Component 2, the IDSIs for improved sanitation facilities, the feedback mechanism for the PMT will establish a robust and socially inclusive information and EPBI feedback mechanism that enables beneficiary households to receive accessible information, to provide feedback on IDSI arrangements and functionality (ease of access, transparency, quality, and processes) and, if necessary, to join working groups to improve the IDSIs.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Beneficiary feedback mechanism on improved sanitation facilities",
+      "reason": "reject: Feedback mechanism described as information channel and working groups; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: beneficiary feedback loop on sanitation services - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Cannot tell whether feedback mechanism is a digital channel or a routine grievance process",
+          "reject_code": "",
+          "context_chars": 1563
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Feedback mechanism described as information channel and working groups; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 64927
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1044,
+      "char_start": 160344,
+      "char_end": 160816,
+      "sentence": "Rapid and frequent citizen • Collect data on beneficiaries’ perceptions on infrastructure satisfaction surveys— improvements and the EPBIs—if they reflect their needs. complemented with annual • Annually disseminate and publicly discuss survey results at public public forums/roundtables forums/roundtables, so beneficiaries know what difference their feedback has made during the implementation (close the feedback loop)—specific outreach to • households will be ensured.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Citizen satisfaction surveys with public forum feedback loop",
+      "reason": "reject: Citizen satisfaction surveys with public forums are routine MDB citizen engagement practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: survey results publicly discussed to close loop - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether surveys are digital/data-driven or standard M&E; public forums are non-digital",
+          "reject_code": "",
+          "context_chars": 1563
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Citizen satisfaction surveys with public forums are routine MDB citizen engagement practice",
+          "reject_code": "not_innovative",
+          "context_chars": 64927
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1126,
+      "char_start": 175059,
+      "char_end": 175760,
+      "sentence": "To accomplish this goal the following activities will be financed: (i) provision of technical support for data management and performance monitoring of solid waste management, including (a) support for data management and verification systems at the municipal level, (b) monitoring performance and developing an enforcement mechanism for municipal waste management activities, and (c) Improved performance Page 56 The World Bank Clean and Resilient Environment for Blue Sea Project (P176163) capacity, including training, to Eligible Municipalities to ensure the enabling environment for management and implementation of the Environmental-Performance Based Investments financed under subcomponent 1.2;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Municipal waste data management and verification system",
+      "reason": "reject: Same vague 'data management and verification systems' with no named digital system",
+      "reject_code": "generic",
+      "innovation_basis": "New service: municipal waste data verification system - cue: 'performance-based'",
+      "innovation_cues": "circular economy;performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same vague 'data management and verification systems' with no named digital system",
+          "reject_code": "generic",
+          "context_chars": 1339
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1163,
+      "char_start": 182535,
+      "char_end": 182915,
+      "sentence": "(Measuring Indicator 1 in the National Waste Management Strategy: In 2019, 25 out of 61 municipalities met this standard.) Collection coverage Incremental If local government improves = quantity of waste collected/quantity of waste generated performance performance or remains a high performer, an incentive will be (Measuring Indicator 5 in the National Waste Management granted.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Incremental performance incentives from annually reported municipal waste KPIs",
+      "reason": "reject: Annual KPI reporting and incentive grants; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: rewards incremental KPI gains from annual reporting - cue: 'incentive will be granted'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Annual KPI reporting and incentive grants; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1401
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1139,
+      "char_start": 178133,
+      "char_end": 178316,
+      "sentence": "Municipalities will receive local investment upon measurable and sustained improvements on solid waste collection, increased solid waste service coverage levels, and/or cost recovery.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Environmental-performance-based investments tied to verified waste KPIs",
+      "reason": "reject: final check round 1: digital: incidental - Digital: KPIs verified via data systems but approach is performance-based financing | Before 2019: PforR/performance-based municipal grants common at WBG",
+      "reject_code": "not_digital",
+      "innovation_basis": "Results-based disbursement: municipal investment released on measured waste collection and cost-recovery KPIs",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: verified performance data | Innovative: investment released on measured KPIs | Category: results-based financing",
+          "reject_code": "",
+          "context_chars": 1337
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: KPIs verified via data systems but approach is performance-based financing | Before 2019: PforR/performance-based municipal grants common at WBG",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099111023132548060",
+      "doc_type": "PAD",
+      "position": 1162,
+      "char_start": 182250,
+      "char_end": 182534,
+      "sentence": "Indicative List of Performance Indicators Performance Indicator Incentive Criteria Waste management monitoring Yes/No If data management system is in = Establishment of waste management data measurement, place, local governments receive an management, and reporting systems incentive.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Performance-based municipal investment allocation tied to waste data systems",
+      "reason": "reject: final check round 1: digital: incidental - Digital: KPIs verified via data systems but approach is performance-based financing | Before 2019: PforR/performance-based municipal grants common at WBG",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: incentive payments conditioned on waste data systems - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: waste data measurement/reporting system | Innovative: incentive allocation gated on data system | Category: results-linked disbursement",
+          "reject_code": "",
+          "context_chars": 1477
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: KPIs verified via data systems but approach is performance-based financing | Before 2019: PforR/performance-based municipal grants common at WBG",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 34792,
+    "cached_tokens": 38528,
+    "cache_write_tokens": 0,
+    "output_tokens": 4631,
+    "seconds": 33.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0162
+  }
+}

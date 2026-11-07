@@ -1,0 +1,1320 @@
+﻿          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+
+                  Combined Project Information Documents /
+                  Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 27-Feb-2018 | Report No: PIDISDSA23278
+
+
+
+
+Feb. 22, 2018                                                                                         Page 1 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+   BASIC INFORMATION
+
+  OPS_TABLE_BASIC_DATA
+   A. Basic Project Data
+
+    Country                           Project ID                 Project Name                  Parent Project ID (if any)
+    Dominican Republic                P163260                    DR Resilient Agriculture
+                                                                 and Integrated Water
+                                                                 Resources Management
+    Region                      Estimated Appraisal Date         Estimated Board Date          Practice Area (Lead)
+    LATIN AMERICA AND CARIBBEAN 26-Feb-2018                      25-Apr-2018                   Agriculture
+
+    Financing Instrument              Borrower(s)                Implementing Agency
+    Investment Project Financing      Dominican Republic         Ministerio de Economia,
+                                                                 Planificacion y Desarrollo,
+                                                                 Instituto Nacional de
+                                                                 Recursos Hidraulicos,
+                                                                 Ministerio de Agricultura,
+                                                                 Instituto Nacional de
+                                                                 Aguas Potables y
+                                                                 Alcantarillado (INAPA),
+                                                                 Ministerio de Medio
+                                                                 Ambiente y Recursos
+                                                                 Naturales
+
+   Proposed Development Objective(s)
+
+   The Project Development Objective is to contribute to improved sustainable landscape management and access to
+   water supply and sanitation services in targeted river basins.
+
+   Components
+   Component 1: Sustainable Productive Management of Agroecosystems
+   Component 2: Enhancement of Resilience and Management of Hydraulic Infrastructures
+   Component 3: Reducing contamination through Improvement of Water Supply and Sanitation Services in Prioritized
+   Areas
+   Component 4: Capacity Building for Natural Resources Management and Governance, and Project Management
+
+
+   Financing (in USD Million)
+    Finance OLD
+    Financing Source                                                                                       Amount
+    FRANCE: French Agency for Development                                                                     23.00
+    International Bank for Reconstruction and Development                                                     80.00
+
+
+Feb. 22, 2018                                                                                                    Page 2 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+    Total Project Cost                                                                                                           103.00
+
+
+   Environmental Assessment Category
+   B - Partial Assessment
+
+    Decision
+    The review did authorize the preparation to continue
+
+    Other Decision (as needed)
+
+   B. Introduction and Context
+
+    Country Context
+      The Dominican Republic has enjoyed one of the strongest growth rates in Latin America and the
+      Caribbean over the past 25 years. In the period 2001-2013, the Dominican Republic economy grew
+      at an average rate of 5.1 percent, placing the Dominican economy in 4 th place in the group of top
+      growth performers (after Panama, Argentina and Peru). This good performance got even better more
+      recently when economic growth rates averaged 7.1 percent in 2014-2016, fueled by strong domestic
+      demand. This overall dynamic growth has enabled a convergence of the DR’s GNI per capita (US$6,259
+      in 2015 and US$6,574 in 2016) with that of the region 1 from 57 percent in 1992 to 90 percent of the
+      regional average in 2015. Estimates show that if the pace of growth observed during the past five
+      years continues, the gap would disappear by 2020.
+      Despite this remarkable economic performance, growth has not been inclusive during the period
+      2000-2013. In 2000, the poverty incidence in the DR was 32 percent. In the wake of the banking crisis
+      of 2003-04, the country’s GDP that had grown by 6 percent in 2002 contracted by 0.3 percent in 2003.
+      Thus, an estimated 1.7 million people moved into poverty and the poverty rate reached 50 percent
+      of the population in 2004. When the economy recovered after the crisis, poverty rates began to fall
+      slowly and have only returned to the pre-crisis level in 2015 2 but above the average for LAC. 3 At the
+      same time, it is worth noticing that inequality improved between 2000 and 2015 (with the Gini index
+      falling from 0.520 to 0.449).
+      Although over the last few years, poverty has declined substantially, more effort is needed to
+      sustain these gains and to address the remaining poverty and equity challenges. After remaining
+      above 40 percent since the crisis observed in 2003 in the DR, poverty calculations for 2014 point to a
+      sizeable one-year reduction and data for 2015 suggest a continued reduction in poverty. Per the latest
+      official data available, monetary poverty declined to 36.4 percent in 2014, dropping further to 32.3
+      percent in 2015. Extreme poverty declined less, moving from 8.4 percent in 2014 to 7 percent in 2015.
+
+            1 GNI per capita, Atlas Method. World Development Indicators.
+            2 World Bank, 2014a. “When Prosperity is not Shared: the Puzzle of the Weak Links between Growth and Equity in the Dominican
+            Republic�?. Equity Assessment, The World Bank, Washington, DC.
+            3 See SEDLAC. http://sedlac.econo.unlp.edu.ar/eng/statistics-detalle.php?idE=34
+
+
+
+Feb. 22, 2018                                                                                                                        Page 3 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      The main challenges on poverty are the significant disparities in poverty levels across regions and
+      between rural and urban areas. Poverty rates in the southern and western regions along the Haitian
+      border are the highest in the country at about 50 percent. Levels of extreme poverty are several times
+      higher than the national rate. Despite the trend of general reduction since 2004, moderate poverty is
+      still proportionally more predominant in rural areas than urban (38 percent against 27 percent in
+      2016). Agricultural productivity is low and natural disasters such as hurricanes and tropical storms are
+      a recurring threat to rural areas and to the living conditions and incomes of the rural population.
+      Despite progress in some areas, Dominican women face additional barriers to their development
+      and full inclusion in society. With respect to economic opportunities, participation in the labor force
+      among women ages 29-54 increased from 59.5 percent in 2001 to 71.8 percent in 2016, accompanied
+      by increases in the occupation rate from 47.2 to 60.5 percent in the same period. However, more
+      than a fourth of all women are unemployed (26 percent), with young women experiencing even
+      higher rates of unemployment at 53 percent in 2016.
+      To sustain high economic growth rates and address remaining poverty and equity challenges, the
+      DR needs a concerted reform effort. The Policy Notes, published in October 2016, stressed four inter-
+      related areas that could self-reinforce effects on long-term growth: (a) macro and fiscal management;
+      (b) competitiveness of the economy for inclusive growth (including several factors, such as, for
+      example the quality of infrastructure, the business environment, the soundness of the financial
+      sector, among others); (c) factors that affect social sustainability (including the quality of public
+      service delivery in core sectors such as education, health, water and sanitation, and electricity); and
+      (d) environmental sustainability and resilience to climate change.
+
+    Sectoral and Institutional Context
+      This section encompasses the main topics covered by the project: agriculture, disaster risk
+      management, water security (including Water Supply and Sanitation and Integrated Water Resources
+      Management), environmental sustainability, and resilience to climate changes.
+      The development of the agri-food sector, one of the engines of growth in the DR, creates important
+      pressure on natural resources. The sector (agriculture, livestock, forestry, fisheries and agroindustry)
+      contributes 16% to the national GDP4. Primary agricultural production has been contributing a
+      relatively constant 6 to 7% to the national GDP over the past 10 years. Agri-food exports (animal,
+      vegetable and foodstuff) accounted for 20% of total value of official exports in 2012. Three quarters
+      of the agricultural production is transformed downstream the value chain by the agroindustry sector5,
+      adding value and creating jobs in the country. Despite encouraging progress in reversing
+      deforestation trends and increases of the forest cover, additional efforts are needed to reduce
+      ecosystem degradation in specific regions of the country as a result of intense agricultural activity.
+      This sector is contributing to deforestation in upper watersheds, soil erosion, and pollution of water
+      sources that are threatening the landscapes, the country’s economic development and the health of
+      its population. The majority of deforestation (60%) continues to be caused by the expansion of slash
+            4   Junta Agroempresarial Dominicana, 2009: Estrategia para el Desarrollo Agropecuario y Agroindustrial Sostenible para la RD .
+            5   Ministerio de Agricultura, 2011: Plan Estratégico Sectorial de Desarrollo Agropecuario 2010-2012.
+
+Feb. 22, 2018                                                                                                                           Page 4 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      and burn agriculture and poor extensive livestock production practices in protected areas on the
+      borders with Haiti. Other direct causes of deforestation and forest degradation include illegal logging,
+      unsustainable cattle grazing, natural disasters, forest fires, and infrastructure projects for mining,
+      energy and tourism.
+      Like many other countries in the Caribbean, the DR is also extremely vulnerable to natural disasters.
+      The DR is highly exposed to rapid weather related disasters (tropical storms, hurricanes, cyclones,
+      floods and landslides), slow climate change processes (sea-level rise and desertification) and seismic
+      events such as earthquakes and landslides. The country ranks as the 8 th most vulnerable country to
+      climate change6. Roughly 92 percent of its economic production and 97 percent of its population are
+      located in areas vulnerable to two or more types of natural disaster.7 Geographic location plays a
+      large role in explaining this high degree of exposure to weather events, but so do structural
+      weaknesses such as inadequate management of large water storage infrastructures, unplanned urban
+      growth, land degradation, and weak enforcement of building codes and zoning regulations.
+      The agri-food sector in particular faces important challenges of resilience to climatic vulnerabilities
+      (floods and droughts). This adversity is likely to worsen in the near future. According the National
+      Strategy for Adaptation to Climate Change in Agriculture 2014-20208, total annual rainfall may
+      decrease to 1,137 mm in 2030 (11% decrease from 2010). Climate scenarios project an increase of
+      temperature of 0.5 to 1°C by 2030 and by1 to 2.5°C by 2050. Areas currently subject to drought could
+      become permanently arid with climate change.
+      Sustainable forest management and conservation may provide additional resilience to climate
+      variability. Forest cover in agriculture landscapes supports the maintenance of ecosystems services
+      such as biodiversity, water provision, and timber and non-timber forest products. Diversity of sources
+      of income from forest sustainable use provides diversified sources of income, thus enhancing
+      resiliency. DR has been increasing its net forest cover over the last decades. FAO estimated in 1973
+      the forest cover at 22% coming up to 38% by 20119 consisting mainly of consisting of broadleaf,
+      coniferous, and dry forests. Partially this is due to the reduction of the agricultural areas that, in 1996,
+      covered 48% of the territory while in 2003 were estimated to cover 38%.
+      The largest user of water in the country is the agricultural sector, consuming 83% of the available
+      volume10, an amount considered sufficient for the country to enhance its food sovereignty; although,
+      the low efficiency in the management of the irrigation systems (25%), questions this possibility. The
+      water supply sector does not have a large demand on the resource, as it consumes only 7% of the
+
+
+
+            6 Global Climate Risk Index 2015 https://germanwatch.org/en/cri
+            7 World Bank, 2005, Natural disaster hotspots: A global risk analysis. Washington, DC: World Bank:
+            http://documents.worldbank.org/curated/en/2005/04/6433734/natural-disaster-hotspots-global-risk-analysis
+            8 Estrategia Nacional de Adaptación al Cambio Climático en el sector Agropecuario de la RD 2014-2020, prepared by the National
+
+            Council for CC and Clean Development Mechanism (Consejo Nacional para el CC y el Mecanismo de Desarrollo Limpio ).
+            9    Mapa de uso y cobertura del Ministerio de Medio Ambiente y Recursos Naturales (2011)
+            http://www.ambiente.gob.do/Noticias/Documents/Informe%20USO%20Y%20COBERTURA-%20web.pdf; y FRA FAO (2010)
+            “Evaluación de los Recursos Forestales�?
+            10 FAO, 2016. AQUASTAT website. Food and Agriculture Organization of the United Nations (FAO). Website accessed on
+
+            [2017/04/14].
+
+Feb. 22, 2018                                                                                                                          Page 5 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      available volume, but represents the second largest polluter of water resources, behind the
+      agricultural sector11.
+      The Water and Agriculture Sectors have been identified as key areas in the Intended Nationally
+      Determined Contribution (INDC), prepared in August 2015. The sectors identified as most vulnerable
+      on the Adaptation agenda are: Water Supply, Energy (power generation component), National
+      System of Protected Areas, Human Settlements and Tourism. On the Mitigation agenda, agriculture,
+      land use changes and forest management are key sectors. The Government has committed to reduce
+      by 2030, the tCO2e per capita emission by 25% 12.
+      Even though the DR has expanded access to WSS services, service still remains unequal. As of 2015,
+      85 percent of Dominicans had access to an improved source of water (85 percent in urban and 82
+      percent in rural areas), and 84 percent to improved sanitation facilities (86 percent in urban and 76
+      percent in rural areas). Despite increasing (albeit unequal) coverage levels the quality of service
+      delivery has been deteriorating. The aforementioned figures of access to WSS services hide the fact
+      that public networks are failing to provide quality services and customers need to turn to often
+      costlier alternatives. For example, 78 percent of households consume processed water ( botellones),
+      while only 11 percent of households drink the water from the public network. This latter figure
+      increases to 21 percent in rural areas.13
+      While access rates to WSS in the DR remain relatively high, the condition of the infrastructure is
+      threatened by the lack of a maintenance, and wastewater collection and treatment continue to lag
+      behind water supply. Although water supply and sanitation providers report having an installed
+      capacity for drinking water of 62m3/s, enough to satisfy 2.33 times the current demand of 26 m 3/s,
+      the service infrastructure is insufficient, many networks present the need for rehabilitation, including
+      wastewater collection and treatment plants. Only 53 percent of the DR’s water treatment plants and
+      26 percent of the fully-functioning wastewater treatment plants were estimated to be at an adequate
+      operating level.
+      Overall there is an indicative of poor management of WSS systems in the rural sector in DR . The
+      country has approximately 3,000 water supply systems, of which only 26% have public management,
+      the remaining 74% are operated by NGOs, with technical assistance from INAPA. Despite the
+      assistance, the quality of the water supplied and the monitoring efforts continue to be deficient. It is
+      estimated that only 25% of the rural systems have sanitary control, and only 14 percent of the
+      inventoried water systems practiced chlorination14. This has significant potential health impacts,
+      especially for the poor, and notably in relation to water and excreta-related diseases, which are
+      difficult to monitor in a country with 11,488 rural communities. To close the information gap, INAPA
+      is gradually registering the rural systems in SIASAR15, with the objective to monitor more closely the
+      quality of services, as well as the rural providers’ constraints.
+
+            11 Monitoring Water and Sanitation Dominican Republic Country Report-MAPAS (INAPA, 2017).
+            12 According to INDC document, the 2010 base year emissions in 2010 were set at 3.6 tCO2e per capita.
+            13 Demographic and Health Survey (ENDESA), 2013.
+            14 MAPAS Dominican Republic Country Report, 2017.
+            15 Rural Water and Sanitation Information System (SIASAR) registered in Dominican Republic over 414 systems and 1,097 rural
+
+            communities, www.siasar.org.
+
+Feb. 22, 2018                                                                                                                        Page 6 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      To cope with these and other challenges, the Government declared the 2016-2020 period as the
+      “Quadrennium of Water�? (el Cuatrienio del Agua), proposing a four-pillar strategy and creating,
+      under the MEPyD, a Coordinating Roundtable (la Mesa del Agua) responsible for coordinating the
+      actions of public and private entities committed to the preservation and integrated management of
+      watersheds. La Mesa del Agua efforts combined with the proposed Water Law (Ley de Aguas) and
+      WSS Law (Ley de Agua Potable y Saneamiento), will create the conditions to guide and implement
+      effectively the principles of integrated water resources management and the modernization of the
+      WSS services, supporting the long-term vision developed by the Government in the Development
+      National Strategy (Estrategia Nacional de Desarrollo – END).
+
+
+
+
+Feb. 22, 2018                                                                                        Page 7 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+      The Project Development Objectives is to contribute to improved sustainable landscape management
+      and access to water supply and sanitation services in targeted river basins.
+    Key Results
+      The approach will take a multisector and integrated spatial approach for the sustainable management
+      of public goods and natural resources (soil, water and vegetation), taking account upstream /
+      downstream impacts; combine measures to support sustainable intensification on the most fertile
+      rain fed and irrigated lands, with landscape restoration and soil and water conservation on degraded
+      land; strengthen resilience in hydraulic assets; reduce pollution load through expansion of access to
+      sanitation; and strengthen institutions. These combined measures will target the most vulnerable
+      population in rural areas, and will aim at reducing the vulnerability to the adverse impacts of climate
+      change, increasing the adaptive capacity and reducing potential conflict around the natural resources
+      especially water resources (quantity and quality aspects).
+      The project will benefit directly a total of 105,000 families (around 370,000 people) in the two river
+      basins most important economically for the country: (i) Yaque del Norte16; and (ii) Ozama-Isabela. By
+      adding the urban population indirectly benefitted by the improvement of dam safety, the total of
+      beneficiaries will be 360,000 families (around 1,250,000 people). The breakdown of beneficiaries per
+      sector is provided below.
+      Direct beneficiaries in the agricultural sector. The direct beneficiaries in the agricultural sector are
+      estimated around 76,000 farmers and 380,000 ha with the following breakdown: (i) 800 organized
+      farmers and 1,790ha benefitted (rain-fed agriculture and ranchers in upper and middle sections of
+      river basin); (ii) 48,900 farmers and 250,000 ha with technical assistance and improved extension
+      services; (iii) 9,925 organized farmers and 41,300 ha benefitted with improved irrigation and drainage
+      services; and (iv) 16,350 farmers and 85,180 ha located downstream the four dams, benefitted by the
+      improvement of dam operation and safety.
+      Direct beneficiaries of the improvement of Water Supply and Sanitation services. The total number
+      of beneficiaries of Component 3 is estimated at 17,320 families for Sanitation services (around 60,455
+      people) and 13,050 families for Water Supply services (around 45,560 people).
+      Indirect beneficiaries by the improvement of Disaster Risk Management. The activities of
+      Subcomponent 2.1 (Dam rehabilitation) will benefit the population living downstream the large dams,
+      especially in the urban area of the city of Santiago de los Caballeros downstream Tavera dam (800,000
+
+
+
+            16The Presidential Decree No57 (2018) declares as high priority the preservation and sustainable use of Yaque del Norte river basin
+            and creates a presidential commission for development and management of this river basin. A similar Commission was created for
+            Ozama Isabela River Basin in 2014 by the presidential decree No260.
+
+Feb. 22, 2018                                                                                                                               Page 8 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      inhabitants), in the rural areas downstream Chacuey and Maguaca dams (28,000 inhabitants) and
+      rural areas downstream Mijo dam (60,000 inhabitants).
+      Other beneficiaries are all the governmental and non-governmental institutions involved in
+      agricultural development, management of hydraulic infrastructures, governance of water resources
+      and water supply and sanitations services as described in the description of components.
+
+
+   D. Project Description
+      Component 1: Sustainable Productive Management of Agroecosystems (US$20.0 million, all IBRD),
+      organized under three subcomponents:
+            (a) Subcomponent 1.1: Support to Productive Use of Natural Resources. The Subcomponent will
+                finance consulting services, goods and works for demand-driven subprojects of investments
+                and technical assistance. The subprojects will benefit agricultural producers' organizations,
+                according to the conditions of each agroecosystem, by promoting Sustainable Landscape
+                Management (SLM) practices such as: (i) agroforestry systems in upper section of river basin;
+                (ii) sustainable ranching systems in upper and middle sections of river basin and; (iii) efficient
+                irrigated agriculture in collective systems managed jointly by INDRHI and by the Water Users
+                Associations in the lower section of river basin. The subcomponent will launch targeted calls
+                for proposals and develop Productive Alliances mechanisms where integrated support is
+                sought to formalize a purchase contract with private allies (supermarkets, exporters, etc.) and
+                / or public (public purchase for schools, etc.). Several calls for proposals will target women
+                and young farmers, especially to develop small-scale irrigation subprojects.
+            (b) Subcomponent 1.2: Consolidation of the National System of Soil and Water Conservation
+                (Sistema Nacional de Conservación de Suelo y Agua-SNCSA). The project will finance goods,
+                works and consulting services to strengthen the existing public system of agricultural
+                extension for the promotion of sustainable Soil and Water Conservation Practices. The SNCSA
+                is a joint initiative, created in 2013 with the resolution N o36, between the Ministry of
+                Agriculture, the Ministry of Environment and the INDRHI. The subcomponent will finance
+                transportation, rehabilitation of offices, development of innovative tools to improve
+                efficiency and outreach of extension services to the farmers, and operating costs for training
+                and extension activities for, up to sixty staff17. In addition to their role in the provision of
+                extension services to the farmers, the SNCSA staff will have the following functions related to
+                the Subcomponent 1.1: (i) support to the preparation and implementation of the calls for
+                proposals; (ii) supervision and Audit of subprojects’ implementation; and (iii) Monitoring and
+                Evaluation of impacts.
+            (c) Subcomponent 1.3: Support to Conservation of protected areas. The project will finance
+                goods, works and consulting services that will contribute to prevent degradation and
+                development of illicit activities (slash and burn agriculture, illegal ranching, etc.) in protected
+
+            17   One for each subzone in the two river basins totalizing 51 for Yaque del Norte and 9 in Ozama-Isabela
+
+Feb. 22, 2018                                                                                                            Page 9 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                areas and buffer zones in the upper section of the river basins, such as: (i) support to the
+                existing oversight program; (ii) physical zoning and delimitation of parks; (iii) support to the
+                existing program of fire prevention; and (iv) preparation and/or update of Management
+                Plans.
+      Component 2: Enhancement of Resilience and Management of Hydraulic Infrastructures
+      (US$37.5million, of which US$16.3 million from IBRD and US$21.2 million from AFD). This
+      component includes the subcomponents of:
+            (d) Subcomponent 2.1: Rehabilitation of dams, improvement of dam operation and risk
+                management. The subcomponent will finance consulting services and works as follows: (i)
+                strengthening of dams’ operation, preparation of Risk Management Plans and the design of
+                Flood Control Works; (ii) preparation of studies and designs for the rehabilitation of the dams
+                including the update of feasibility studies carried out under the recently closed Emergency
+                Recovery Project (P109932); and (iii) rehabilitation works and improvement of Dam safety for
+                Chacuey, Tavera and Maguaca dams in the Yaque del Norte River Basin, and the Mijo Dam in
+                the Ozama-Isabela River Basin.
+            (e) Subcomponent 2.2: Rehabilitation, modernization and improvement of the operation and
+                maintenance of the irrigation schemes. The project will finance consulting services and works
+                for the large-scale irrigation schemes of Monsieur Bogaert, Mao-Gurabo, Luis Bogaert, Villa
+                Vasquez, Fernando Valerio and Maguaca in the Yaque del Norte basin and for the Mijo-La
+                Luisa system in the Ozama-Isabela Basin. The aforementioned activities will aim at: (i)
+                improving the efficiency of water conveyance and water distribution; and (ii) enhancing water
+                quality. Works will consist of: (a) construction of measurement and control structures; (b)
+                targeted canal lining in prioritized sectors; (c) improvement of the channel capacity
+                regulation; (d) construction of night water storage and water capture structures; (e)
+                protection of open canal from urban sources of pollution; and (f) rehabilitation of the
+                drainage systems. In addition, the component will finance technical assistance to producers
+                and capacity building of the thirty-eight Water User Associations (Juntas de Regantes) located
+                throughout the Yaque del Norte basin and for the four WUAs in the Osama - Isabela Basin.
+            (f) Subcomponent 2.3: Strengthening of INDRHI’s institutional capacities. This subcomponent
+                will finance technical assistance, consulting services and acquisition of goods to: (i) enhance
+                INDRHI’s capacities in planning and monitoring, dam management, operation and
+                maintenance; and (ii) strengthen Water Resources Administration (platform for management
+                of water right issuance and users’ cadaster).
+      Component 3: Improvement of Water Supply and Sanitation Services in Prioritized Areas
+      (US$32.8 million, all IBRD). The component will finance goods, works and consulting services to:
+      (i) strengthen INAPA’s capacity to deliver services in urban and rural areas; (ii) expand access to higher
+      quality water and sanitation services in high populated areas considered by INAPA as urban cities and
+      small towns, located in the Yaque del Norte basin; and (iii) in coordination with INAPA, INDRHI,
+      formulate projects to address point source pollution (hotspots) from municipal wastewater that falls
+
+
+Feb. 22, 2018                                                                                                Page 10 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+      under the service area of different CORAs particularly in the higher areas of Yaque del Norte. This
+      component will have the following subcomponents:
+            (g) Sub-component 3.1: Strengthening INAPA's institutional capacity to improve service delivery
+                in targeted areas. This sub-component will include, inter alia: (i) pre-investments to enhance
+                WSS service delivery in targeted areas (feasibility studies, engineering designs, consumer
+                research studies, among others); (ii) strengthening INAPA’s capacity to analyze data for
+                decision making, through technical assistance to address current information gaps that are
+                binding for INAPA (strengthening procedures, equipment and information systems, including
+                the expansion of the rural water supply and sanitation monitoring system (SIASAR) to include
+                communities in targeted areas; and (iii) strengthening INAPA's management capacities to
+                improve WSS service delivery in Yaque del Norte (pilot an adaptive management approach
+                with INAPA to identify binding constraints and solutions in water and sanitation service
+                delivery , strengthening planning and monitoring procedures, technical assistance to local
+                water boards (ASCOCAR) and infrastructure and equipment for operation and maintenance
+                of WSS services.
+            (h) Sub-component 3.2: Reducing contamination in targeted areas through water supply and
+                sanitation services. This sub-component will finance works that will serve populated areas
+                served by INAPA. These works include, among others: (i) development or rehabilitation of
+                water treatment plant and distribution network in Los Limones, Province of Monte Cristi,
+                Jicomé-Damajagua, Province of Valverde 18; (ii) expansion of sanitary sewer of Mao and
+                Monción, Province of Santiago Rodríguez; and (iii) activities and works to develop sanitation
+                solutions in the upper part of the Yaque del Norte.
+      Component 4: Capacity Building for Natural Resources Management and Governance, and Project
+      Management (US$12.6 million, of which US$10.9 million from IBRD and US$1.7 million from AFD).
+      This component includes the following subcomponents:
+            (i) Subcomponent 4.1: Support to Integrated Water Resources Management and Governance.
+                The subcomponent will finance goods, works and consulting services for: (i) strengthening of
+                the Water Roundtable (Mesa del Agua); (ii) supporting the creation and operation of the two
+                River Basin Councils and the Micro-Watershed Committees (18 for Yaque del Norte and 15
+                for Ozama Isabela); (iii) the improvement of water use planning at watershed level; (iv) the
+                implementation of sectoral policies to enhance water security (governance, and drinking
+                water, and sanitation) and the agri-food sector; (v) enhancing the impacts of the existing
+                initiative of Payment for Environmental Services through support to the Water Fund for
+                Yaque del Norte river basin (Fondo del Agua de la Cuenca de Yaque del Norte); and (vi) the
+                development of a Decision Information Framework (DIF) for each river basin. The DIF will
+                provide all the main stakeholders with information related to water, soil, vegetation, land use
+                and climatic information for planning and risk management; and will be integrated with
+                existing monitoring systems of water quality under Plan Yaque, Plan Sierra, INDRHI’s
+
+            18 These small towns are located in INAPA’s service Zone 1 in the following Provinces: Monte Cristi, Santiago Rodriguez, Dajabon ,
+
+            and Valverde all of which are fully or partially are located in Yaque del Norte
+
+Feb. 22, 2018                                                                                                                             Page 11 of 28
+           The World Bank
+           DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                telemetric network and the Rural Water and Sanitation Information System (SIASAR, Sistema
+                de Información de Agua y Saneamiento Rural).
+            (j) Subcomponent 4.2: Project Management. The project will finance goods, works, operating
+                costs and consulting services for the management of the project at fiduciary, technical,
+                safeguards levels, including the Monitoring and Evaluation of the project implementation.
+
+   E. Implementation
+   Institutional and Implementation Arrangements
+      The project will be implemented under the overall coordination of the Ministry of Economy,
+      Planning and Development (MEPyD), which will host the Project Implementation Unit (PIU). Several
+      staff working currently on the Water and Sanitation in Tourist areas project (P054221) will be hired
+      for the PIU, ensuring a capitalization and lessons learned on the existing capacity and experience with
+      World Bank projects’ management. This centralized PIU in Santo Domingo will oversee all technical
+      and fiduciary aspects, safeguards and monitoring and evaluation. The PIU will have two regional
+      offices (one in each river basin) to monitor and supervise the activities on the ground and ensure the
+      coordination with the deconcentrated branches of the ministries at Provincial levels, as well with the
+      other local stakeholders.
+      The Ministry of Agriculture, Ministry of Natural Resources and Environment, INAPA and INDRHI will
+      have a role of technical referents. They will be in charge of preparing all the technical inputs for the
+      bidding documents, supporting the PIU in the activities of supervision, audit and impact evaluation
+      and any other activities agreed in the inter-institutional agreement signed with the MEPyD. They will
+      appoint one or several staff to the PIU (Santo Domingo) or in the Regional office (in the river basins)
+      as liaison with their institution. The liaison officers will coordinate with the respective technical teams
+      in the different institutions to ensure that the institution is complying with the terms of the
+      agreement. The breakdown of responsibilities of the ministries and institutions is detailed as follows:
+      A steering committee will be created and composed by the Ministers of MEPyD, Ministry of
+      Agriculture and Ministry in charge of Environment (MARENA) and directors of INDRHI and INAPA .
+      The steering committee will discuss and approve the Annual Implementation Plan and budget and
+      will ensure liaison with the Ministry of Presidency.
+      The National Water Roundtable (Mesa del Agua), a coordination body already created, will ensure
+      that the project activities are aligned with the sector policies and fully coordinated with all the other
+      initiatives, programs and projects related to the sectors and the two river basins.
+      An Evaluation Committee will be created for the implementation of the Subcomponent 1.1. This
+      Evaluation Committee will be composed of technical staff of the PIU (agronomist, environment and
+      social specialists), staff from the Ministry of Agriculture and Ministry of Environment and other key
+      institutional actors such as APEDI or Plan Yaque, the Presidential Comission for Ozama-Isabela, for
+      instance. The Committee will evaluate the requests received for the Calls for Proposals for the
+      subprojects to Farmers’ Organization.
+
+
+Feb. 22, 2018                                                                                                 Page 12 of 28
+            The World Bank
+            DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will target two of the largest river basins and amongst the most important economically for the
+      country: (i) Ozama-Isabela; and (ii) Yaque del Norte. The project intervention areas are vast (7,000 km2 for
+      Yaque del Norte, 2,700 km2 for Ozama-Isabela) encompasses several provinces and densely inhabited.
+      Pressure on Natural Resources in Upper section of both river basins. Both river basins have serious problems
+      of degradation caused by slash-and-burnt agriculture, fuelwood and charcoal consumption for cooking, poor
+      agricultural practices, pollution and deforestation on very steep slopes, with the consequent loss of soils and
+      siltation of dam reservoirs and reduction of water infiltration. Soil erosion and Siltation. Recent bathymetric
+      studies surveys carried out in eight of the main reservoirs provided relevant information for understanding
+      the phenomenon erosion - sedimentation. The results of the bathymetric surveys, revealed that storage
+      losses for the main reservoirs in the Yaque el Norte basin are very important, since in Tavera and Bao the
+      storage capacity was reduced in 24% and 23% % in 43 and 32 years respectively. Presence of considerable
+      hydraulic assets in Yaque del Norte. There are 15 dams in the hydrographic region of the River Yaque del
+      Norte covering a total area of 3,672.10 Km2 of catchment. There are four large multi-purpose dams: (i)
+      Tavera dam; (ii) Bao Dam; (iii) López – Angostura Dam; and (iv) Monción. Five hydroelectric power plants are
+      fed by these dams with an energy generation capacity of 114 MW. Water balance is projected to be in
+      deficit in 2025 in Yaque del Norte river basin. The water balance prepared in 2009 for the formulation of the
+      National Hydrological Plan concluded that the projected water demand in 2025 will substantially increase
+      the water deficit, especially in the Yaque del Norte hydrographic region (including the basin of Chacuey).
+      The results of water demand trend and the corresponding deficit considering the average availability of
+      3,086.46 million m3/year. Discharges of untreated urban wastewater with a high content of organic matter
+      tend to decrease dissolved oxygen, mainly in areas of higher population. A case is the Mao - Gurabo Canal,
+      which runs through the city of Mao receiving discharges of solid waste and domestic wastewater in some of
+      its sections.
+
+
+
+      G. Environmental and Social Safeguards Specialists on the Team
+
+      Ramon E. Anria, Social Safeguards Specialist
+      Robert H. Montgomery, Environmental Safeguards Specialist
+
+
+
+
+Feb. 22, 2018                                                                                                  Page 13 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+  Safeguard Policies                          Triggered?         Explanation (Optional)
+                                                                 The Project is proposed to be categorized as B given
+                                                                 the potential low to moderate negative
+                                                                 environmental and social impacts and risks due to
+                                                                 sub-project works that are not anticipated to be
+                                                                 significant and can be readily mitigated with
+                                                                 standard measures.
+
+                                                                 The Project is expected to generate positive
+                                                                 environmental impacts in terms of more effective
+                                                                 management of protected areas reforestation,
+                                                                 sustainable agriculture, soil conservation and overall
+                                                                 improvement of the watersheds conditions through
+                                                                 a landscape approach. Positive social impacts are
+                                                                 also expected as the Project will have a strong focus
+                                                                 on sustainable livelihood options for the people that
+                                                                 depend on natural resources for their living within
+                                                                 the Project area of influence. The Project will reduce
+                                                                 deforestation and biodiversity loss and strengthen
+                                                                 the provision of ecosystem services by promoting
+                                                                 access to more resilient livelihood options,
+                                                                 controlling of anthropogenic pressures and
+  Environmental Assessment OP/BP 4.01         Yes
+                                                                 promoting sustainable use of natural resources. The
+                                                                 resilient agriculture and landscape approach will
+                                                                 stimulate inter-institutional and participatory
+                                                                 collaboration for increasing sustainability of land
+                                                                 use.
+
+                                                                 The primary potential negative environmental and
+                                                                 social impacts are related to civil works associated
+                                                                 with Component 1 (small sub-projects for
+                                                                 agroforestry, ranching and rain-fed agriculture
+                                                                 projects), Component 2 (relatively limited and
+                                                                 focused rehabilitation of portions of existing dams
+                                                                 and irrigation schemes) and Component 3
+                                                                 (construction of relatively small water supply
+                                                                 systems and waste water plants in small urban
+                                                                 areas). The potential negative impacts could include
+                                                                 land acquisition, resettlement, impact on private
+                                                                 structures, or loss of economic assets such as
+                                                                 agricultural crops and fruit trees.They could also
+                                                                 result in common-seen construction work impacts
+                                                                 such as dust, noise, waste generation, etc. for all
+
+Dec 20, 2017                                                                                                 Page 14 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                                                                 three components. No significant cumulative
+                                                                 impacts are anticipated.
+
+                                                                 As the designs for specific sub-project investments
+                                                                 and their physical location will only be developed
+                                                                 (using project funds) during Project implementation
+                                                                 for component 1, portions of component 2, and
+                                                                 most likely all or significant portion of component 3,
+                                                                 the project prepared an Environmental and Social
+                                                                 Management Framework (ESMF) and a
+                                                                 Resettlement Policy Framework (RPF). The ESMF
+                                                                 include screening criteria and process/procedure
+                                                                 and potential standard environmental mitigation
+                                                                 and monitoring measures for the likely types of sub-
+                                                                 projects to be developed. The ESMF also defines the
+                                                                 requirements for Environmental and Social
+                                                                 Management Plans (ESMPs) for applicable sub-
+                                                                 projects.
+
+                                                                 The ESMPs cover all the necessary ESIA related
+                                                                 elements of an ESIA, as defined under OP 4.01.
+
+                                                                 For those sub-projects in component 2 that have
+                                                                 already design studies (e.g., rehabilitation works for
+                                                                 Maguaca and Chacuey dams), an ESMP has been
+                                                                 developed. ESMPs was also prepared for any
+                                                                 component 3 sub-projects (water supply and
+                                                                 sanitation related) that are included in the Project
+                                                                 and have established designs.
+
+                                                                 The ESMF includes references to the applicable WBG
+                                                                 Environmental Health and Safety Guidelines, i.e.
+                                                                 Water and Sanitation; Mammalian Livestock
+                                                                 Production; Forest Harvesting (relevant sections on
+                                                                 managed natural forests).
+
+
+                                                                 The upper section of the Yaque del Norte river basin
+                                                                 encompasses a large portion already designated as
+                                                                 Natural Parks. Nevertheless, slash and burn
+                                                                 agriculture practices within the National Parks and in
+  Natural Habitats OP/BP 4.04                 Yes                buffer zones, have reduced their capacities to
+                                                                 provide ecosystem services, mainly on its water
+                                                                 production capabilities. The project is expected to
+                                                                 expand benefits to natural habitats in high
+                                                                 mountains and steep slopes lands within the
+
+Dec 20, 2017                                                                                                  Page 15 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                                                                 National Parks under Subcomponent 1.3. (support to
+                                                                 park guard, physical zoning and delimitation of
+                                                                 parks; fire prevention). Subcomponents 1.1 and 1.2
+                                                                 will support sustainable practices of soil and water
+                                                                 management and promote agroforestry systems in
+                                                                 the private areas surrounding the targeted
+                                                                 protected areas (buffer zones and upper and middle
+                                                                 portion of river basin). This will reduce the ongoing
+                                                                 unwanted practices and pressures that these natural
+                                                                 areas are receiving; thus, will aid protecting suitable
+                                                                 habitats for biodiversity. The ESMF for Component 1
+                                                                 (sub-projects for agroforestry, ranching and rain-fed
+                                                                 agriculture) will include procedures to assess and
+                                                                 manage potential negative impacts on natural
+                                                                 habitat. Capacity building to the Ministry of
+                                                                 Agriculture and Ministry of Environment
+                                                                 (Components 1 and 4) will also strengthen capacities
+                                                                 for implementing practices among the areas
+                                                                 communities for protection of natural habitats and
+                                                                 biodiversity sustainability.
+
+                                                                 The Project is expected to generate positive impacts
+                                                                 on forests through support for integration and
+                                                                 management of forests within agricultural
+                                                                 production systems through restoration and natural
+                                                                 regeneration of native vegetation and promotion of
+                                                                 agricultural practices that secure conservation and
+                                                                 promote establishment of forest patches in
+                                                                 agricultural landscapes (e.g. agroforestry and
+                                                                 silvopastoral systems). Some of the livelihood
+                                                                 activities to be promoted might entail use of forest
+                                                                 resources.
+
+  Forests OP/BP 4.36                          Yes                Associated with Component 1 (sub-projects for
+                                                                 sustainable agroforestry, ranching and rain-fed
+                                                                 agriculture), any forest area involved with the
+                                                                 Project area is expected to be small-scale and/or low
+                                                                 impact in nature. The ESMF will define eligibility
+                                                                 criteria (including only those that comply with
+                                                                 existing legal framework) and safeguard
+                                                                 requirements including assessment of impacts and
+                                                                 standards and practices applicable to community or
+                                                                 small-scale forestry activities. Portions of the
+                                                                 capacity building to the Ministry of Agriculture and
+                                                                 Ministry of Environment (component 1) should also
+                                                                 assist in improving forest protection.
+
+Dec 20, 2017                                                                                                  Page 16 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+
+                                                                 The Project will support vegetation restoration
+                                                                 activities and the adoption of forest-friendly
+                                                                 production practices such as agro-forestry, and
+                                                                 other agricultural and husbandry practices, which
+                                                                 will favor integrated, natural methods for managing
+                                                                 pests. However, certain cases like control infestation
+                                                                 might require use of chemical pesticides or other
+                                                                 agricultural chemicals, always excluding yellow and
+                                                                 red label products.
+
+  Pest Management OP 4.09                     Yes                The Project ESMF for Component 1 includes
+                                                                 preventive and mitigation measures for pest
+                                                                 management compatible with OP 4.09 to guide
+                                                                 related Project activities, as well as clear restrictions
+                                                                 on not permitted use of stronger toxic chemicals.
+                                                                 Depending on the scale of project activities which
+                                                                 would include pest management, during project
+                                                                 preparation an assessment will be made whether
+                                                                 these measures can be included in the EA
+                                                                 instruments under 4.01 or if a stand-alone
+                                                                 Integrated Pest Management Plan is needed.
+                                                                 This safeguard is triggered as a precaution in any
+                                                                 project involving civil works. Chance finds
+  Physical Cultural Resources OP/BP 4.11      Yes
+                                                                 procedures is detailed in the ESMFs and applicable
+                                                                 sub-project ESMPs developed under 4.01.
+                                                                 OP 4.10 should not be triggered as there are no
+                                                                 distinct Indigenous Peoples in the Dominican
+  Indigenous Peoples OP/BP 4.10               No
+                                                                 Republic that fulfill the four characteristics indicated
+                                                                 under this policy.
+                                                                 OP 4.12 should be triggered considering that the
+                                                                 planned civil works associated with Component 3
+                                                                 (construction of water supply systems and waste
+                                                                 water plants in small rural or urban areas) and
+                                                                 Component 2 (relatively limited focused
+                                                                 rehabilitation of portions of existing dams) could
+                                                                 have some adverse impacts. These include: land
+  Involuntary Resettlement OP/BP 4.12         Yes
+                                                                 acquisition leading to involuntary resettlement,
+                                                                 including the loss of income sources and means of
+                                                                 livelihood, such as the loss of trees and crops.
+                                                                 Resettlement Policy Framework (RPF) was prepared
+                                                                 by the government with guidance from the Bank to
+                                                                 address the triggering of OP 4.12. RPF was consulted
+                                                                 and disclosed by appraisal. Upon the identification
+
+
+Dec 20, 2017                                                                                                    Page 17 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                                                                 of cases of involuntary resettlement, Resettlement
+                                                                 Action Plans (RAPs) or Abbreviated Resettlement
+                                                                 Action Plans (Abbrev. RAPs) will be prepared,
+                                                                 consulted and disclosed in accordance with the
+                                                                 policy.
+                                                                 The Component 2 includes some rehabilitation
+                                                                 works on four dams (Maguaca, Chacuey, Tavera and
+                                                                 Mijo) in order to improve dam safety and reservoir
+                                                                 operation. The project will allow a better protection
+                                                                 to flood damages for downstream population and
+                                                                 assets.
+
+                                                                 The dams have the followings characteristics:
+                                                                 - Tavera dam (height 80 m, storage volume 173
+                                                                 million m3)
+                                                                 - Chacuey dam (height 34 m, storage volume 13.7
+                                                                 million m3)
+                                                                 - Maguaca dam (height 26 m, storage volume 15.6
+                                                                 million m3)
+                                                                 - Mijodam (height 17.2 m, storage volume 2.3
+                                                                 million m3)
+
+                                                                 When substantial dam safety remedial works /
+                                                                 measures are needed, the Bank requires that: (i) the
+                                                                 works be designed and supervised by competent
+  Safety of Dams OP/BP 4.37                   Yes                professionals; and (b) the dam safety plans be
+                                                                 prepared and implemented as for new Bank-
+                                                                 financed dams. For high-hazard cases involving
+                                                                 significant and complex remedial work, the Bank
+                                                                 also requires that a panel of independent experts be
+                                                                 employed on the same basis as for new Bank-
+                                                                 financed dam. The international Safety Panel of
+                                                                 Experts (PoE) established for the previous project
+                                                                 will be used for the proposed project with an
+                                                                 additional expert for sediment management. The
+                                                                 Terms of Reference for the hiring of experts will be
+                                                                 updated. The INDRHI will strengthen its team with
+                                                                 dedicated dam specialists, and the Bank will also
+                                                                 provide adequate supervision and due diligence. The
+                                                                 Bank also requires periodic safety inspections of the
+                                                                 dam after completion.
+
+                                                                 For both the dams that have prepared the design for
+                                                                 rehabilitation works (e.g., Maguaca and Chacuey
+                                                                 dams), and the ones that have not prepared the
+                                                                 rehabilitation work designs and to be developed
+
+Dec 20, 2017                                                                                                 Page 18 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+                                                                   during project implementation (e.g., Mijo and Tavera
+                                                                   dams), the Preliminary O&M Plan and Framework
+                                                                   Emergency Preparedness Plan (EPP) have been
+                                                                   drafted and will be confirmed during appraisal.
+                                                                   Tavera dam has prepared a more detailed O&M
+                                                                   Manual to be upgraded. The full-fledged O&M Plan
+                                                                   and EPP for all dams will be prepared based on
+                                                                   additional studies and surveys during the early phase
+                                                                   of project implementation. The ESMF includes the
+                                                                   process for establishing the necessary plans to
+                                                                   comply with OP/BP4.37.
+
+                                                                   This policy should not be triggered because it will
+                                                                   not affect International Waterways OP/BP 7.50.
+                                                                   None of the situation described below applies to the
+                                                                   two river basins targeted (Yaque del Norte and
+                                                                   Ozama-Isabela) :
+                                                                   (a) any river, canal, lake, or similar body of water
+                                                                   that forms a boundary between, or any river or
+                                                                   body of surface water that flows through, two or
+  Projects on International Waterways                              more states, whether Bank1members or not;
+                                               No
+  OP/BP 7.50                                                       (b) any tributary or other body of surface water that
+                                                                   is a component of any waterway described in
+                                                                   (a) above; and
+                                                                   (c) any bay, gulf, strait, or channel bounded by two
+                                                                   or more states or, if within one state,
+                                                                   recognized as a necessary channel of communication
+                                                                   between the open sea and other states--
+                                                                   and any river flowing into such waters.
+
+                                                                   This policy should not be triggered because the
+  Projects in Disputed Areas OP/BP 7.60        No                  proposed project will not affect disputed areas as
+                                                                   defined under the policy OP/BP 7.60
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+  A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  Environmental Category and Proposed Works. The project was identified as of Substantial Risk level, and classified as
+  B. Most of the environmental and social impacts are related to a series of diverse low to moderate impact activities to
+  be financed by the project; these are: conservation of natural parks and reserves, improving agriculture, agroforestry
+  and ranching practices, financing the reconstruction and works on dams, levees, restoring of irrigation systems, and
+
+
+Dec 20, 2017                                                                                                   Page 19 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+  the construction of rural aqueducts and sanitation services. These activities were environmentally assessed using an
+  ESMF and specific EMP to comply with the triggered Safeguards Policies for the project. It was defined that none of
+  these activities to be financed could generate large, significant or irreversible impacts.
+
+  For both the dams that have prepared the design for rehabilitation works (e.g., Maguaca and Chacuey dams), and the
+  ones that have not prepared the rehabilitation work designs and to be developed during project implementation (e.g.,
+  Mijo and Tavera dams), the Preliminary O&M Plan and Framework Emergency Preparedness Plan (EPP) have been
+  drafted and will be confirmed during appraisal. Tavera dam has prepared a more detailed O&M Manual to be
+  upgraded. The full-fledged O&M Plan and EPP for all dams will be prepared based on additional studies and surveys
+  during the early phase of project implementation. The ESMF includes the process for establishing the necessary plans
+  to comply with OP/BP4.37.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  With the development of the project, the indirect impacts that could be generated by the planned works are mostly
+  localized, punctual and of short duration related to potential accidental spills and waste generation that could affect
+  the soils and water due to works nearby rivers and slopped areas. It has also been assessed some potential future
+  indirect impacts that could occurs by the extension of irrigated production areas due to the improvement of water
+  availability for irrigation in the lower section of river basin. Nevertheless all those above mentioned anticipated
+  impacts will be mitigable and manageable. The EMSF and ESMPs prepared for the project includes measures to reduce
+  current and future impacts of activities following the guidance of the triggered policies for the project. The project
+  includes the development of the environmental management system and monitoring that will require the parties to
+  remediate any other activities to reduce long term impacts on the project areas. Those positive social impacts of the
+  project interventions in poor and rural areas can be linked to increase opportunities for education, living and
+  community security.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  In Components 2 and 3, all activities have already been selected, being them, the rehabilitation or upgrading of
+  existing infrastructures such as dams, irrigation canals and related support infrastructures, aqueducts for Water
+  Supply and sewage infrastructures on existing rural towns and communities. Nevertheless, for some investments, the
+  feasibility studies will have to be completed during project implementation, including the selection of the best
+  alternatives at technical, social, economic and environmental levels.
+
+  In Component 1, the improvement of agricultural, agroforestry and ranching practices are to be implemented on
+  existing farms and production facilities based on demand-driven processes. The analysis of request for subprojects will
+  be analyzed by an Evaluation Committee who will assess the best alternatives for intervention.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  The borrowers have produced an Environmental and Social Management Framework (ESMF), a Resettlement Policy
+  Framework (RPF) and specific Environmental and Social Management Plan (ESMP) for two of the components for the
+  project. The Project Implementation Unit (PIU) of the Ministry of Economics Planning and Development (MEPyD) will
+  hire social environmental specialists who will be responsible for monitoring and supervising compliance of all the
+  participating agencies following the ESMF-ESMP prepared for this purpose, as well as those activities of components
+  and other agreements with the agencies for project implementation. The PIU will have environmental and social
+  specialists in Santo Domingo in the headquarters of the PIU and in the two project offices in the river basins. MEPyD
+  will prepare comprehensive safeguards reports each semester for all project implementing units in all participating
+
+Dec 20, 2017                                                                                                   Page 20 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+  agencies and submit to the Bank in an agreed time frame.
+
+  The Environmental and social specialists of the PIU will contract consultants or auditors as needed to support
+  supervision. The PIU will also coordinate with the coordinator of the Social Unit of each agency on the implementation
+  of communication plans and application of agreed grievance mechanisms. Bidding documents will include
+  environmental clauses and works preparation and mitigation will follow procedures and arrangements described in
+  the ESMF and ESMPs prepared for the project. During implementation, as needed, the Bank might request additional
+  mitigation measures to prevent, mitigate or remediate potential impacts that can occur. The ESMF and ESMPs of the
+  project are an integral part of the project Operational Manual (POM) of this project.
+
+  Of the five participating organizations, three have no internal mechanisms to measure the effects of their projects: (a)
+  Ministry of Planning, Economy and Development; (b) Ministry of Agriculture and (c) Ministry of Environment and
+  Natural Resources. Regardless of mechanisms within the Ministry of Environment through their Vice Ministry of
+  Environmental Management to track the impacts of private sector activities, there is no agreed-upon structure to
+  monitor impacts implemented by them or as a result of their own activities.
+
+  Two Agencies, The National Institute for Potable Water (INAPA) and the National Institute for Hydraulic Resources
+  (INDRHI) have structures in place for tracking of environmental issues within the scope of their mandates. These,
+  described below, will be an asset in addressing the issues related to Components 2 and 3. These will however not
+  support the range of actions under components 1 and 4. The existing infrastructure is summarized as follows:
+  INDRHI is an institute of the Ministry of Environment and Natural Resources. This relationship does not translate into
+  open communication and coordination. INDRHI´s environmental unit is not operationally connected to the Ministry of
+  Environment. INDRHI´s division of environmental impact is a dependency of the Environmental Management
+  Department of their Planning Administration. The Environmental Management Department is the Watershed
+  Management Division. This relationship is advantageous for the focus on environmental management within the
+  watershed context. The role of the Environmental Administration Division is to comply with all environmental
+  instruments from the planning stage through implementation. This effort is operational through the environmental
+  impact division, whose role is: (i) realize environmental assessments; (ii) oversight and quality control over
+  environmental service contractors; (iii) realize baseline studies; (iv) internal oversight of INDRHI compliance, and (v)
+  liaise with the Vice Ministry of Environmental Mangement at the Ministry of Environment and Natural Resources. The
+  Watershed Management Division adds a dimension of coordination with multiple actors at the watershed level.
+  Although INDRHI has an adequate structure on paper, it is underfunded and the key positions mentioned have been
+  unstaffed for almost 10 years. The functions of the chief of the Environmental Impact Division and the Watershed
+  Management division have been realized by the leader of the Evaluation section of the planning division and by the
+  leader of the watershed conservation office.
+  INAPA has an identical unit with an almost identical mandate with similar linkages to the Ministry of Environment and
+  Natural Resources that also facilitates permitting. Like INDRHI, the unit does not receive the financial attention it
+  deserves leaving the unit under-financed and under-staffed. Both INDRHI and INAPA have experience in managing
+  projects with multi-lateral institutions and extensive experience in working with international and national consultants
+  in compliance with international standards.
+
+  For the project to adequately address the multiple safeguards, the existing units in INDRHI and INAPA will provide
+  important structures to MEPYD during the implementation phase. These units can be improved and used by MEPYD in
+  the baseline assessments and environment-related monitoring aspects and thus add a layer of capacity building.
+  Additionally, at the watershed level, multiple actors, such as the Presidential Commission for the Ozama River and
+  Plan Yaque, among others, have well-staffed environmental units with qualified personnel. These organizations are in
+
+Dec 20, 2017                                                                                                     Page 21 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+  touch with all local organizations. Under the leadership of the Project Implementation Unit, they can easily multiply
+  the safeguards and promote a participative monitoring process that will mainstream the safeguards as an important
+  tool to be included in the watershed management plans and within the culture of the watershed management
+  councils proposed in Component 4. To do so, the project management unit will require a small but well connected
+  environmental management team that can liaise with the above mentioned and coordinate targeted technical
+  assistance and capacity building to respond to the mentioned capacity gaps.
+
+  The project also includes activities of environmental and social strengthening such as: (i) training and support to
+  enhance the planning and supervision capacities of the Environmental Units for the project participating agencies; (ii)
+  training and assisting the beneficiaries of project financial support on Environmental Education and Management
+  Practices; and (iii) design and implementation of a Program Action Plan related to environment, health, and safety
+  aspects.
+
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  The key stakeholders are farmers involved in irrigation and drainage services, ranchers in upper and middle sections of
+  the river basin, water users organization for irrigated agriculture, water users for WSS, the two presidential
+  committees for river basin management (Yaque del Norte and Ozama-Isabela) and local and central level departments
+  tied to Ministries of Planning, Agriculture and Environment, and the agencies (INDRHI and INAPA) that will be involved
+  in the implementation of project activities. Other interested parties include local civil society organizations (NGOs such
+  as Plan Yaque, Plan Sierra for instance), media and donors (AFD, BEI and Spanish Cooperation) that invest in
+  agriculture and water sectors in the country.
+
+  The project design, the ESMF and the ESMPs were consulted during public events held on February 5 and 7, 2018. The
+  draft documents were disclosed to the public in-country on MEPyD’s website on February 12, 2018. Final documents
+  were disclosed to the public both in-country on MEPyD’s website (on website:
+  http://economia.gob.do/agua/proyecto-agricultura-resiliente-gestion-integral-los-recursos-naturales-las-cuencas-rio-
+  yaque-del-norte) on February 26, 2018 and at the World Bank’s external website respectively on February 23, 2018.
+
+  A Resettlement Policy Framework has been prepared by the Borrower under the supervision of the safeguards
+  specialist, consulted with the main stakeholders, including on two public events held for each river basin on February
+  5 and 7, 2018, and was disclosed, as draft version, in-country on February 12, 2018. The final version was disclosed to
+  the public both in-country on MEPyD’s website (http://economia.gob.do/agua/proyecto-agricultura-resiliente-
+  gestion-integral-los-recursos-naturales-las-cuencas-rio-yaque-del-norte-ozama-isabela) and at the World Bank’s
+  external website on February 21, 2018. Once the sites are identified, further detailed consultations that will take place
+  with direct beneficiaries during project implementation. People affected by involuntary resettlement will be
+  consulted on compensation and resettlement policies in accordance with OP4.12.
+
+
+
+
+Dec 20, 2017                                                                                                      Page 22 of 28
+                                The World Bank
+                                DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+  B. Disclosure Requirements
+
+   OPS_EA_DISCLOSURE_TABLE
+   Environmental Assessment/Audit/Management Plan/Other
+                                                                                                    For category A projects, date of
+      Date of receipt by the Bank                             Date of submission for disclosure     distributing the Executive Summary of
+                                                                                                    the EA to the Executive Directors
+      29-Dec-2017                                             23-Feb-2018
+
+      "In country" Disclosure
+        Dominican Republic
+       26-Feb-2018
+         Comments
+          ESMF and the two ESMPs were disclosed in-country on the website: http://economia.gob.do/agua/proyecto-
+          agricultura-resiliente-gestion-integral-los-recursos-naturales-las-cuencas-rio-yaque-del-norte-
+   OPS_RA_D ISCLOSURE_T ABLE
+
+
+
+
+   Resettlement Action Plan/Framework/Policy Process
+
+      Date of receipt by the Bank                             Date of submission for disclosure
+      29-Dec-2017                                             21-Feb-2018
+
+      "In country" Disclosure
+            Dominican Republic
+            21-Feb-2018
+         Comments
+          on website: http://economia.gob.do/agua/proyecto-agricultura-resiliente-gestion-integral-los-recursos-naturales-las-
+          cuencas-rio-yaque-del-norte-      ozama-isabela/
+   OPS_ PM_D ISCLOSURE_TAB LE
+
+
+
+
+   Pest Management Plan
+
+      Was the document disclosed prior to
+      appraisal?                                               Date of receipt by the Bank           Date of submission for disclosure
+      NA
+
+      "In country" Disclosure
+
+
+
+
+      OPS_PM_ PCR_TABLE
+
+
+
+
+Dec 20, 2017                                                                                                                     Page 23 of 28
+                        The World Bank
+                        DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+                If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to
+                be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+                If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          Yes
+          If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report?
+          Yes
+          Are the cost and the accountabilities for the EMP incorporated in the credit/loan?
+          Yes
+ OPS_ NH_COM P_TABLE
+
+
+
+
+          OP/BP 4.04 - Natural Habitats
+
+          Would the project result in any significant conversion or degradation of critical natural habitats?
+          No
+          If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the
+          project include mitigation measures acceptable to the Bank?
+          NA
+ OPS_ PM_COM P_TABLE
+
+
+
+
+          OP 4.09 - Pest Management
+
+          Does the EA adequately address the pest management issues?
+          Yes
+          Is a separate PMP required?
+          No
+          If yes, has the PMP been reviewed and approved by a safeguards specialist or PM? Are PMP requirements included in
+          project design? If yes, does the project team include a Pest Management Specialist?
+          NA
+ OPS_ PCR_COM P_TABLE
+
+
+
+
+          OP/BP 4.11 - Physical Cultural Resources
+          Does the EA include adequate measures related to cultural property?
+          Yes
+          Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+          Yes
+ OPS_IR_ COMP_TAB LE
+
+
+
+
+Dec 20, 2017                                                                                                               Page 24 of 28
+                         The World Bank
+                         DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+          OP/BP 4.12 - Involuntary Resettlement
+
+          Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared?
+          Yes
+          If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+          Yes
+ OPS_F O_COM P_TABLE
+
+
+
+
+          OP/BP 4.36 - Forests
+
+          Has the sector-wide analysis of policy and institutional issues and constraints been carried out?
+          Yes
+          Does the project design include satisfactory measures to overcome these constraints?
+          Yes
+          Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
+          No
+ OPS_SD _COMP_ TABLE
+
+
+
+
+          OP/BP 4.37 - Safety of Dams
+
+          Have dam safety plans been prepared?
+          Yes
+          Have the TORs as well as composition for the independent Panel of Experts (POE) been reviewed and approved by the
+          Bank?
+          Yes
+          Has an Emergency Preparedness Plan (EPP) been prepared and arrangements been made for public awareness and
+          training?
+          Yes
+ OPS_ PDI_ COMP_TAB LE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+
+
+Dec 20, 2017                                                                                                                Page 25 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+  All Safeguard Policies
+
+
+  Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+  measures related to safeguard policies?
+  Yes
+  Have costs related to safeguard policy measures been included in the project cost?
+  Yes
+  Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+  related to safeguard policies?
+  Yes
+  Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+  reflected in the project legal documents?
+  Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Remi Charles Andre Trier
+   Sr Water Resources Spec.
+
+   Marco Antonio Aguero
+   Senior Water Supply and Sanitation Specialist
+
+   Borrower/Client/Recipient
+   Dominican Republic
+
+
+
+
+   Implementing Agencies
+   Ministerio de Economia, Planificacion y Desarrollo
+   Jose Alarcon
+   Executive Director of the Coordination Rountable for Water
+   alarconmella@gmail.com
+
+   Instituto Nacional de Recursos Hidraulicos
+   Nelson Romero
+   DR-ERL Coordinator
+   nelsonm.romero12@gmail.com
+
+   Ministerio de Agricultura
+
+Dec 20, 2017                                                                                                   Page 26 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+   Juan Mancebo
+   Director Dept Risk Management and Climate Changes
+   juan.mancebo@agricultura.gob.do
+
+   Instituto Nacional de Aguas Potables y Alcantarillado (INAPA)
+   Ana Montero Wagner
+   Executive Secretariat of WSS Comittee
+   monterowagner.anacristina@gmail.com
+
+   Ministerio de Medio Ambiente y Recursos Naturales
+   Domingo Brito
+   Director of Water and Watershed
+   r.brito72@gmail.com
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Remi Charles Andre Trier
+   Task Team Leader(s):
+                                          Marco Antonio Aguero
+
+   Approved By
+
+   Safeguards Advisor:                    Noreen Beg                            27-Feb-2018
+
+   Practice Manager/Manager:              Preeti S. Ahuja                       27-Feb-2018
+
+   Country Director:                      Sabine Hader                          01-Mar-2018
+
+
+
+
+    Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when
+    finalizing the document.
+
+
+
+
+Dec 20, 2017                                                                                               Page 27 of 28
+          The World Bank
+          DR Resilient Agriculture and Integrated Water Resources Management (P163260)
+
+
+
+
+Dec 20, 2017                                                                             Page 28 of 28
+

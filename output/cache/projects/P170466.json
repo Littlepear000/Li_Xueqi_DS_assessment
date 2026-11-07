@@ -1,0 +1,481 @@
+{
+  "project_id": "P170466",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "1bd08297",
+  "started_at": "2026-11-07T03:27:53Z",
+  "ended_at": "2026-11-07T03:28:28Z",
+  "input_fingerprint": "57f8b12ef9f4cd41",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 31,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P170466-A1",
+      "project_id": "P170466",
+      "name": "National forest monitoring system with satellite-based fire and invasive species detection",
+      "description": "The project supports the existing NFMS for forest carbon tracking and considers satellite monitoring alongside fire towers for detecting fire and invasive species. Practices: Support for the existing National Forest Monitoring System (NFMS) for forest carbon tracking; Satellite-based monitoring for fire and invasive species.",
+      "why_innovative": "Routine: NFMS built under FCPF readiness; project only funds maintenance of existing system | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "304401587952865863",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-01",
+        "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+        "char_start": 70453,
+        "char_end": 70726,
+        "text": "(e) Field vehicles for protected area operations; and (f) Support for the National Forest Monitoring System (NFMS) which was established with the support of the World Bank through the Forest Carbon Partnership Facility readiness mechanism (Uganda FCPF Readiness [P124296]).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "304401587952865863",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+          "char_start": 71446,
+          "char_end": 71521,
+          "text": "This will also include consideration of satellite-based monitoring systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "304401587952865863",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+          "char_start": 71145,
+          "char_end": 71226,
+          "text": "(d) Equipment and construction of fire towers for fire detection and suppression;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the monitoring system is the core digital mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly supports national forest monitoring and forest carbon tracking, a core forestry activity.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: NFMS | Not new: pre-existing FCPF readiness system, project funds support only | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Routine: NFMS built under FCPF readiness; project only funds maintenance of existing system",
+      "innovation_cues": [
+        "climate-smart"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P170466",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "guid": "304401587952865863",
+      "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:28:04Z",
+      "status": "ok",
+      "note": "12 document(s) fetched from the WBG API; 17 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:28:04Z",
+      "ended_at": "2026-11-07T03:28:04Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-04-23, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:28:04Z",
+      "ended_at": "2026-11-07T03:28:10Z",
+      "status": "ok",
+      "note": "31 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 31,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 3,
+          "innovation": 2,
+          "results_based_management": 4,
+          "innovation_types": 7,
+          "enabling_processes": 5,
+          "innovation_cycle": 10
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:28:10Z",
+      "ended_at": "2026-11-07T03:28:10Z",
+      "status": "ok",
+      "note": "PAD 2020-04-01 (P170466_PAD_2020-04-01_304401587952865863.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P170466",
+            "doc_type": "PAD",
+            "doc_date": "2020-04-01",
+            "guid": "304401587952865863",
+            "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:28:10Z",
+      "ended_at": "2026-11-07T03:28:10Z",
+      "status": "ok",
+      "note": "175 reading units (36 numbered paragraphs) from 1514 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 175
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:28:10Z",
+      "ended_at": "2026-11-07T03:28:15Z",
+      "status": "ok",
+      "note": "72 of 175 units carry a digital / AI cue (44 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 72,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 44
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:28:15Z",
+      "ended_at": "2026-11-07T03:28:20Z",
+      "status": "ok",
+      "note": "3 candidate practices from 72 units in 8 calls",
+      "llm_calls": 8,
+      "input_chars": 231196,
+      "output": {
+        "usage": {
+          "calls": 8,
+          "input_tokens": 1430,
+          "cached_tokens": 47997,
+          "cache_write_tokens": 0,
+          "output_tokens": 1528,
+          "seconds": 16.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:28:20Z",
+      "ended_at": "2026-11-07T03:28:24Z",
+      "status": "ok",
+      "note": "2 accepted, 1 rejected (not_digital 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 44472,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 3517,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 295,
+          "seconds": 3.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0014
+        },
+        "accepted": 2,
+        "rejected": 1,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:28:24Z",
+      "ended_at": "2026-11-07T03:28:25Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1090,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 260,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 77,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:28:25Z",
+      "ended_at": "2026-11-07T03:28:27Z",
+      "status": "ok",
+      "note": "2 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1261,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 294,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 60,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:28:27Z",
+      "ended_at": "2026-11-07T03:28:28Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4002,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 497,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 75,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:28:28Z",
+      "ended_at": "2026-11-07T03:28:28Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 3 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:28:28Z",
+      "ended_at": "2026-11-07T03:28:28Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 82
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P170466-A1-E1",
+      "approach_id": "P170466-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P170466",
+      "doc_id": "304401587952865863",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 518,
+      "char_start": 70453,
+      "char_end": 70726,
+      "sentence": "(e) Field vehicles for protected area operations; and (f) Support for the National Forest Monitoring System (NFMS) which was established with the support of the World Bank through the Forest Carbon Partnership Facility readiness mechanism (Uganda FCPF Readiness [P124296]).",
+      "practice": "Support for the existing National Forest Monitoring System (NFMS) for forest carbon tracking",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Forestry",
+      "extractor_reason": "Digital core: National Forest Monitoring System | Not routine: forest carbon MRV platform | Adoption: 'support for'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: NFMS | Not new: pre-existing FCPF readiness system, project funds support only | Category: Technological",
+      "keywords_hit": "conflict",
+      "innovation_cues": "",
+      "innovation_basis": "Routine: NFMS built under FCPF readiness; project only funds maintenance of existing system",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "1bd08297"
+    },
+    {
+      "row_id": "P170466-A1-E2",
+      "approach_id": "P170466-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P170466",
+      "doc_id": "304401587952865863",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 527,
+      "char_start": 71446,
+      "char_end": 71521,
+      "sentence": "This will also include consideration of satellite-based monitoring systems.",
+      "practice": "Satellite-based monitoring for fire and invasive species",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Forestry",
+      "extractor_reason": "Digital core: satellite-based monitoring systems | Not routine: remote sensing for fire detection | Adoption: 'will also include consideration'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite monitoring systems | Innovative: remote sensing for fire detection | Category: technological tool",
+      "keywords_hit": "tower",
+      "innovation_cues": "climate-smart",
+      "innovation_basis": "New service: satellite monitoring of fires and invasives - cue: 'consideration'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "1bd08297"
+    },
+    {
+      "row_id": "P170466-A1-E3",
+      "approach_id": "P170466-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P170466",
+      "doc_id": "304401587952865863",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P170466_PAD_2020-04-01_304401587952865863.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 523,
+      "char_start": 71145,
+      "char_end": 71226,
+      "sentence": "(d) Equipment and construction of fire towers for fire detection and suppression;",
+      "practice": "Satellite-based monitoring for fire and invasive species",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Forestry",
+      "extractor_reason": "Digital core: satellite-based monitoring systems | Not routine: remote sensing for fire detection | Adoption: 'will also include consideration'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite monitoring systems | Innovative: remote sensing for fire detection | Category: technological tool",
+      "keywords_hit": "tower",
+      "innovation_cues": "climate-smart",
+      "innovation_basis": "New service: satellite monitoring of fires and invasives - cue: 'consideration'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "1bd08297"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "304401587952865863",
+      "doc_type": "PAD",
+      "position": 624,
+      "char_start": 86488,
+      "char_end": 86705,
+      "sentence": "To ensure sustainability and engagement, a performance- based grant (equivalent to 50 percent of labor costs over the first four years) will be paid to qualifying woodlot owners upon physical verification at one year.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Performance-based grant for woodlot survival verified at one year",
+      "reason": "reject: Physical survival verification, no digital system named; performance-based grant alone not digital",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: grant disbursed on verified seedling survival - cue: 'performance-based grant'",
+      "innovation_cues": "climate-smart;rapid-assessment",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Physical survival verification, no digital system named; performance-based grant alone not digital",
+          "reject_code": "not_digital",
+          "context_chars": 1325
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 13,
+    "input_tokens": 5998,
+    "cached_tokens": 53885,
+    "cache_write_tokens": 0,
+    "output_tokens": 2035,
+    "seconds": 25.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0046
+  }
+}

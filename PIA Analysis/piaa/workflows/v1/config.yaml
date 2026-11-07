@@ -1,0 +1,59 @@
+name: "v1 - screen, extract, match, validate, replicate"
+description: >
+  Keyword screening (working-paper dictionary) -> LLM extraction of approaches with
+  verbatim evidence -> LLM matching of category / solution / sector / theme ->
+  LLM validation of the matched attributes against the document ->
+  portfolio-level replication scan.
+
+llm:
+  model: claude-sonnet-4-5
+  temperature: 0.0
+  max_tokens: 4000
+
+documents:
+  # Which document types feed each step. The first available type in
+  # `primary` is the main source for extraction; `supporting` adds context.
+  primary: [PAD, ProjectPaper, PID]
+  supporting: [ISR]
+  latest_only: [ISR]          # keep only the newest file of these types
+  max_chars_primary: 120000   # cap on text sent to the model per call
+  max_chars_supporting: 20000
+
+screening:
+  # Appendix B thresholds (distinct keyword hits across the project's documents)
+  high: 4
+  moderate: 2
+  # Which dictionary dimensions count towards the tier. `null` = all seven
+  # (the paper's setting, calibrated on ICR "lessons learned" text; on full PADs
+  # nearly every project reaches High). Narrow it, e.g. to
+  # [enabling_technologies, innovation, innovation_cycle], for a Digital & AI focus.
+  dimensions: [enabling_technologies, innovation, innovation_cycle]
+  # Run extraction for these tiers; Low-tier projects are recorded as "No" unless forced.
+  extract_tiers: [High, Moderate]
+  force_extract: false
+  # Extraction focuses on these dimensions first when documents are long
+  focus_dimensions: [enabling_technologies, innovation, innovation_cycle]
+
+extraction:
+  max_approaches: 5
+  min_evidence_similarity: 0.85   # fuzzy match floor for locating evidence in the file
+
+validation:
+  enabled: true
+  max_chars: 60000                # document window re-read during validation
+
+replication:
+  explicit_reference: true         # look for other P-codes / project names in the text
+  similarity: true                 # TF-IDF cosine between approach texts across the portfolio
+  similarity_threshold: 0.45
+  max_links: 5
+
+steps: [screen, select_documents, extract, match, validate, replication]
+
+steps_meta:
+  screen:           {kind: python, label: "Keyword screen", summary: "Innovation keyword dictionary -> High / Moderate / Low; gates extraction", inputs: [documents], outputs: [innovation_tier]}
+  select_documents: {kind: python, label: "Select documents", summary: "PAD, else Project Paper, else PID as primary; latest ISR as supporting", inputs: [document index], outputs: [documents]}
+  extract:          {kind: llm, label: "Extract approaches", summary: "Up to 5 approaches with one verbatim sentence each; Python anchors the sentence to char offsets", prompts: [00_system, 01_extract], inputs: [documents], outputs: [approaches]}
+  match:            {kind: llm, label: "Match attributes", summary: "Pillar, solution, one sector and one theme from the project's own code lists", prompts: [02_match], inputs: [approaches], outputs: [category, sector, theme]}
+  validate:         {kind: llm, label: "Validate", summary: "Re-reads the document with all attributes as context; confirms / revises / rejects", prompts: [03_validate], inputs: [approaches, documents], outputs: [validated attributes]}
+  replication:      {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "v5.0",
+    "hash": "83aba95217ca",
+    "date": "2026-11-06",
+    "note": "practice extraction from the PAD - first tagged state",
+    "package_version": "0.2.0",
+    "aliases": [
+      "c6f36957445d"
+    ]
+  }
+]

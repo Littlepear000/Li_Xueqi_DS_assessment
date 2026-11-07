@@ -1,0 +1,565 @@
+﻿         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+
+
+                       Project Information Document/
+                 Integrated Safeguards Data Sheet (PID/ISDS)
+
+                       Concept Stage | Date Prepared/Updated: 28-Nov-2017 | Report No: PIDISDSC22874
+
+
+
+
+Nov 29, 2017                                                                                           Page 1 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                          Project ID                       Parent Project ID (if any)       Project Name
+  Central Africa                   P164243                                                           EAC Statistics
+                                                                                                     Development and
+                                                                                                     Harmonization
+                                                                                                     Regional Project
+                                                                                                     (P164243)
+  Region                           Estimated Appraisal Date         Estimated Board Date             Practice Area (Lead)
+  AFRICA                           Mar 12, 2018                     Jul 24, 2018                     Poverty and Equity
+
+  Financing Instrument             Borrower(s)                      Implementing Agency
+  Investment Project Financing     East African Community           East African Community
+
+
+
+   Proposed Development Objective(s)
+
+    The development objective of this project is to strengthen the capacity of the National Statistical Offices of the East
+    African Community (EAC) Partner States and the EAC Secretariat to produce harmonized and quality statistics in
+    support of the regional integration and development.
+
+  Financing (in USD Million)
+   Finance OLD
+   Financing Source                                                         Amount
+   IDA Grant                                                                 20.00
+   Total Project Cost                                                        20.00
+  Environmental Assessment Category                                 Concept Review Decision
+  C-Not Required                                                    Track II-The review did authorize the preparation to
+                                                                    continue
+
+
+
+
+  Other Decision (as needed)
+
+
+
+
+Nov 29, 2017                                                                                                        Page 2 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+  B. Introduction and Context
+
+  Country Context
+
+ 1.       The East African Community (EAC) hereunder also referred to as the Community or simply EAC is the regional
+ inter-governmental organisation of the 6 Partner States, namely the Republics of Burundi, Kenya, Rwanda, South Sudan,
+ the United Republic of Tanzania, and the Republic of Uganda, with its headquarters in Arusha, Tanzania. The Treaty for
+ establishment of the EAC was signed on November 30, 1999 and came into force on July 7, 2000 following its
+ ratification by the original three Partner States – Kenya, Uganda and Tanzania. The Republic of Rwanda and the Republic
+ of Burundi became full Members of the Community in July 2007 and South Sudan, the latest entrant, formally joined the
+ EAC in September 2016.
+
+ 2.       The community has a total land area of 2.467 million sq. km, a combined estimated population of 173.6 million
+ and GDP of US$ 163.425 billion in 2017. It is a large economic block with great strategic and geopolitical significance in
+ Africa. However, out of the six member states, only Kenya has attained middle income status. The regional per capita
+ GDP (at current prices) is estimated to reach US$ 941 in 2017. Kenya will have the highest per capita GDP of US$ 1,477,
+ followed by Tanzania with US$ 998 and then Rwanda with US$ 762. Burundi has the lowest value with US$ 301.
+
+ 3.      The main objective of the Community is to widen and deepen economic, political, social and cultural integration
+ of east African countries. To achieve these objectives, the key building blocks are the Customs Union, Common Market,
+ Monetary Union and ultimately the Political Federation.
+
+ 4.     While customs Union aims to create one flawless single market across the Partner States, the Common Market
+ provides for free movement of labour, goods and services, and capital between Member States.
+
+ 5.      The Monetary union is the most advanced stage of the economic integration process where countries have
+ harmonised their different political, economic, monetary and fiscal policies. The EAC Monetary Union (EACMU) Protocol
+ was signed in November 2013 and entered into force in 2014. It provides for a 10 year transition period to adopt a single
+ currency by the year 2024.
+
+ 6.     To qualify for Monetary Union, countries are expected to meet some convergence criteria and comply with
+ them for at least three years such as on inflation, fiscal deficit, debt, Central Bank reserve and taxes.
+
+ 7.      The monitoring of such a process will therefore rely on availability of accurate, reliable, timely, harmonized and
+ comparable statistics. Because of that and also for other policy, planning, decision-making, monitoring, evaluation and
+ reporting purposes, the EAC Secretariat has given priority to the production of quality and harmonized statistics in the
+ region.
+
+  Sectoral and Institutional Context
+
+ 8.     The EAC treats statistics as a sector and has established a Sectoral Statistics Committee which is mainly
+ responsible, like other Community Sectoral Committees, for the preparation of a comprehensive implementation
+ program and the setting out of priorities with respect to statistics sector.
+
+
+
+
+Nov 29, 2017                                                                                                       Page 3 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+ 9.       In this context, since 2013 the EAC Secretariat and Partner States have been implementing a first EAC Regional
+ Statistical Development Plan (RSDPI) covering the period 2012/13-2016/17. This first RSDP covered the following three
+ main areas:
+
+  -   Harmonization of statistics, which involves harmonization of statistical methodologies and tools to produce
+      comparable, accurate and up-to-date statistics to inform both national development processes and the process of
+      regional integration;
+  -   Development of an EAC Statistical Database with harmonized data covering the Community socio-economic
+      statistics indicators and establishment of an EAC Statistical Portal accessible to users;
+  -   Statistical capacity building initiatives to address the shortage of statisticians and experts in the region in areas such
+      as National Accounts, Agricultural Statistics, Household Surveys, Trade Statistics, Financial Statistics, Price Statistics,
+      etc.
+
+ 10.      The implementation of this plan ended in June 2017. Assessment of its implementation shows that it recorded a
+ number of achievements including establishing a regional statistics policy, movement towards establishment of an EAC
+ Statistics Bureau, movement towards development, harmonization and dissemination of Community statistics.
+
+ 11.       However, due to limited capacity, the EAC Secretariat could not follow up as much as needed with Partners
+ States on all agreed activities, making the availability and comparability of statistics among Partner States a major
+ challenge. For instance, apart from Tanzania and Uganda, the Agricultural Census has not been undertaken in the other
+ countries. This census is the main source of data on the structure and organization of the agricultural sector and is
+ critical in informing plans and programs to transform the agricultural sector which is the backbone of the economies of
+ Partner States in the Community. The Agriculture Census also serves as a basis for the development of annual
+ agriculture surveys.
+
+ 12.      On National Accounts, there are still differences in data sources and methodologies used to compile aggregates.
+ Partner State capacity needs to be enhanced in the following areas: financial sector accounts, estimation of Gross Fixed
+ Capital Formation and Consumption of Fixed Capital, production of institutional sector accounts, compilation of volume
+ measures, seasonal adjustment techniques, etc. It is also desirable to develop a monitoring framework for quality
+ assessment and undertake peer reviews, explore the use of a common application software, and ensure methodologies
+ used in Partner States to compile quarterly national accounts produce comparable results. The need to increase staff
+ skills development through national, regional, and international training programs will in addition address the challenge
+ of high staff turnover and to keep all staff abreast with the latest international statistical standards.
+
+ 13.      The Consumer Price Indices’ geographical coverage differs from a Partner State to another, the use of regional
+ weights is not similar and so is the mode of price collection. For instance, while the Statistics Offices of Rwanda and
+ Burundi collect consumer prices from their respective capital cities, urban areas and rural areas, the NBSs in Uganda,
+ Kenya and Tanzania (NBS and OCGS) collect consumer prices from their capital cities and other urban areas only.
+ Furthermore, the NBSs in Burundi, Rwanda and Uganda determined their respective CPI regional weights as a proportion
+ of the regional household final consumption expenditures while the NBS of Kenya uses proportions of regional
+ households to determine regional CPI weights. The mode of price collection differs also from a country to another. NBSs
+ in Uganda, Kenya and Tanzania monthly purchase all goods with no standard units of measurements during price
+ collection and hereafter weigh the goods to establish their standard unit price. However, the statistics office in Burundi
+ purchase such goods once in a quarter (3 months) and the statistics office in Rwanda does not purchase such goods,
+ instead, such goods are just weighed from their stalls and their standard unit price established. Such differences alter
+ the comparability of the indices.
+
+
+Nov 29, 2017                                                                                                           Page 4 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+
+ 14.     On poverty statistics, the review of several aspects of the household surveys used to estimate poverty indicates
+ many differences in survey design and periodicity in the region, including the questionnaire design specifically on food
+ consumption, which is the main data source for poverty estimates. That makes difficult the comparison of poverty
+ estimates within the EAC. For instance, while in some countries the consumption data are collected using diary, in others
+ the recall approach is used. Furthermore, even when the same approach is used, the length of the referenced period is
+ different. For example, Burundi and Tanzania use a diary to record food consumption in the household budget surveys.
+ However, Tanzania uses a 28-day diary compared to Burundi’s 9-day diary. Moreover, the methodology to estimate the
+ food and non-food poverty lines varies across EAC Partner States and these lines are also based on consumption
+ patterns for different referenced population groups. On the other hand, the EAC Secretariat does not have available
+ expertise to assist Partner States on poverty statistics.
+
+ 15.     On external trade, the main causes of discrepancies are related to the understanding of the Customs Procedures
+ and how they are linked to the different Trade Systems (and especially the General Trade System) and the approaches
+ adopted for the estimation of the c.i.f./f.o.b. corrections. Other topics for harmonization in the area include the use of a
+ common software (such as Eurotrace), taking a fresh look at the regional external trade database, exchange rates to be
+ used for the conversion of transactions labeled in foreign currencies, and statistics on partner countries and modes of
+ transport.
+
+ 16.     On data dissemination, the EAC Secretariat continues to make Community statistics available to users through
+ the EAC Facts and Figures, an annual publication of the EAC Secretariat. It presents socio-economic highlights of the EAC
+ region for a five-year period and forms an important source of inputs into policy, planning and M&E for the Community.
+ Facts and Figures for 2016 is already uploaded on the EAC website. In addition, the EAC Secretariat has been
+ disseminating data using a data portal which unfortunately was slow. However, with assistance from AfDB, an open data
+ platform has been established and integrated with the data portal thereby making data dissemination faster.
+
+ 17.      With respect to the human resources development, the region continues to experience a shortage of
+ statisticians with expertise and skills in specialized areas such as national accounts, agricultural statistics, household
+ surveys, trade statistics, financial statistics and price statistics. Indeed, the few professionals produced end up in other
+ sectors such as Accounting, Banking, IT among others. In all countries, the shortage of statisticians is greater in
+ government ministries, departments and agencies (MDAs) than at the NBS. This shortage is particularly severe in both
+ Burundi and South Sudan, two post-conflict Partner States. In Burundi, the shortage can be partly explained by the
+ absence of statistical training program at the national University. Burundi is thus depending on training centers in Cote
+ d’Ivoire, Senegal, and Cameroon, where it can send only a handful of personnel for training each year. For South Sudan,
+ the problem is not lack of trained statisticians but rather failure by government to motivate and retain them.
+ Professional staff are being attracted to the private sector at a high rate. The EAC Secretariat has been working closely
+ with IMF EAST AFRITAC to build skills in economic statistics – National Accounts, CPI, etc. This collaboration should be
+ broadened. At the Community level, up till now, the EAC Secretariat has had only one (1) established position in the
+ Statistics Department. Although NBSs nominate statisticians to assist the EAC Secretariat with key activities, more staff
+ are required for the development and coordination of the CSS. The lack of staff makes it difficult, for instance, to
+ routinely monitor the implementation of time-bound action plans designed by TWGs in Partner States.
+
+ 18.      On the other hand, statistical awareness about the importance and role of statistics in society, needed to create
+ demand for and use of statistics especially for public policy, planning and decision-making, and for increased investment
+ in statistics and statistical development, remains low among the public in the region. Furthermore, apart from the
+
+
+
+Nov 29, 2017                                                                                                        Page 5 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+ Uganda National Development Plan (2010/11-2014/15)1, no Partner State has been able to mainstream statistics as a
+ standalone sector into her National Development Plan (NDP). All NDPs mention statistics in the downstream chapter on
+ Monitoring and Evaluation (M&E) where mention is made of use of statistical products for M&E purposes. The NDPs do
+ not recognize statistics as a cross-cutting and enabling sector that is weak, vulnerable, under-resourced and under-
+ performing that also needs to be mainstreamed into national development process i.e. identified and targeted for
+ development like other cross-cutting sectors such as gender, environment, etc. As a result, quality statistics continue to
+ be expected without corresponding investment in institutional, infrastructure and capacity development for production
+ of quality statistics now and in future.
+
+ 19.       All the Partner States have a Statistics Act that underpins the collection, management and dissemination of
+ official statistics. These Statistics Acts are largely in line with the UN Fundamental Principles of Official Statistics. They
+ provide for the NBS to be an autonomous agency of government with its own governing board, which raises the profile
+ of statistics, enhances the integrity and credibility of official statistics in the eyes of the public and makes the NBSs more
+ effective and efficient – this contributes to the production of quality Community statistics. Tanzania was the last Partner
+ State to make the NBS autonomous when it promulgated the Statistics Act of 2015. The governing boards are small,
+ around 7-10 members, and members are professionals in statistics or allied fields representing the government
+ ministries, the Central Bank, the private sector, the civil society sector, and research and training institutions. This is
+ good practice. But, no Statistics Act of any Member State explicitly provides for the establishment of a Statistics Unit
+ (department) in each MDA. This has slowed down improvement in administrative data sources and not made statistical
+ coordination any easier. It is therefore critical that in the reviews of Statistics Acts of Partner States, this issue is
+ addressed. It is also important that when the East African Statistics Bureau Bill is passed by EALA, Partner States review
+ their Statistics Acts to bring them in line with the provisions of the East African Statistics Act.
+
+ 20.      All Partner States except Kenya have designed an NSDS for improving their NSSs. Burundi, Rwanda, Tanzania and
+ Uganda are implementing their second NSDS. Kenya has only designed a Strategic Plan for its National Bureau of
+ Statistics. It should graduate from the strategic plan for the Bureau to the NSDS for the whole NSS. Arrangements should
+ be made early to update the statistical strategies that expire in 2017 (Kenya, South Sudan and Tanzania). However, all
+ the NSDSs should be revised to take on board new data requirements specially to monitor and report on progress
+ towards the SDGs. As Partner States update their NSDSs, they have been urged to ensure that they use a sectoral (or
+ bottom-up) approach.
+
+ 21.      It is against the above backdrop that the EAC has designed a second Regional Statistical Development Plan
+ (RSDPII) covering the period 2017/18 -2021/22. This RSDPII is anchored in the 5th EAC Development Strategy and its
+ design took into account, (i) the unfinished business of the first plan and lessons learnt from its implementation, and (ii)
+ new international trends and emerging issues in statistical organization and management. The RSDPII seeks to broaden
+ and deepen production of high quality and harmonized community statistics; promote easy access to and use of
+ community statistics; and build statistical capacity in priority areas of National Accounts, Agricultural Statistics, Poverty
+ Statistics, Household Surveys, Trade Statistics, Financial Statistics and Price Statistics. This is to be achieved through the
+ following strategic goals:
+           - increased usage of statistics especially for evidence policy, planning, decision-making, monitoring and
+                 evaluation;
+           - efficient and effective statistical system enabled by creativity, innovation and technology;
+
+
+ 1 The Uganda National Development Plan (2010/11-2014/15) had a whole chapter on statistical development as a cross-
+ cutting and enabling sector complete with situation analysis, challenges, strategies and targets for developing the sector,
+ M&E for the sector and resource requirements.
+
+Nov 29, 2017                                                                                                          Page 6 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+           -   enhanced human resources for production of harmonized and quality community statistics;
+           -   better funded statistical production and development.
+
+  Relationship to CPF
+
+ 22.     The production of harmonized statistics and their alignment to international standards are one of the key
+ objectives of the Bank involvement in statistical capacity building in developing countries. Ultimately it allows for
+ enhancing the quality of data needed for informing evidence-based policy making. Furthermore, supporting the
+ development of harmonized statistical tools contributes towards developing the statistical capacities of member states.
+
+ 23.     Indeed, limited statistical capacity in Africa remains one of the main obstacles to better monitoring Poverty
+ Reduction Strategies, and economic progress and is also a major constraint to managing for development results. The
+ Bank support in this area is therefore in line with the twin goals of the Bank and contributes to the objectives of the EAC
+ Partner States partnership strategies.
+
+ 24.      The project reflects also priorities emphasized in Bank country strategies for the various EAC Partner States. For
+ instance, the Rwanda’s Performance Learning Review of the Country Partnership Strategy for the period FY14-18 places
+ a great importance to the increased integration into the EAC. For Uganda, the FY16-21 Country Partnership Framework
+ objective focuses on supporting the strengthening of evidence based resource allocation and considers to strengthen
+ country systems for transparency and accountability. Both these objectives highlight the need for enhanced statistical
+ development and disclosure through open data. In Kenya, the Country Partnership Strategy for FY14-18 considers that
+ the consistency of Kenya’s development will be buttressed by deepening regional integration with neighbors. It also
+ highlights the need to focus on development of capabilities for measuring and monitoring progress. In that regard, it
+ considers the statistical capacity building as a prerequisite for a more evidence-based approach to policymaking.
+
+ 25.     The World Bank also has Comparative Advantage in Statistical Capacity Building particularly in IDA countries.
+ Indeed, the Bank has provided long term support to statistical capacity building and consequently has substantial
+ experience in assisting countries in the development of their NSSs.
+
+ 26.    The Bank also leads efforts to develop statistics that are comparable across countries such as the World
+ Development Indicators (WDI) and the International Comparison Program (ICP) for prices. As a major user of social and
+ economic statistical information from countries all around the world, the Bank also has a huge knowledge on statistical
+ harmonization.
+
+ 27.      Furthermore, the support is consistent with the Reference Regional Strategic Framework (RRSF) in building
+ statistical capacity in Africa which was designed to improve development outcomes and governance by strengthening
+ national statistical systems in Africa. The RRSF considers particularly that the statistics units of sub-regional
+ organizations in Africa like EAC need to be bolstered to play the role expected of them in statistics, including adapting
+ global concepts and classifications to sub-regional and national use. The support to EAC in developing statistics that are
+ harmonized and aligned to international standards would be a valuable contribution to that end.
+
+ 28.      This project is also consistent with the Bank Regional Integration Assistance Strategy for Sub-Saharan Africa
+ (RIAS) that is organized around three main pillars: (i) regional infrastructure, (ii) institutional cooperation for economic
+ integration, and (iii) coordinated interventions to provide regional public goods. This project contributes to attaining
+ especially the second pillar of that strategy by providing more quality and harmonized data to feed the integration
+ process decision making.
+
+
+Nov 29, 2017                                                                                                          Page 7 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+
+ 29.      It is also consistent with the Strategy for the Harmonization of Statistics in Africa (SHaSA) which was designed by
+ the African Union with support from other pan-African institutions. SHaSA aims to inform the African integration agenda
+ with harmonized and comparable statistics by supporting adoption of harmonized and standardized definitions and
+ concepts; the adaptation of international statistical norms to African realities; and the utilization of common
+ methodologies for statistical production and dissemination by all African countries.
+
+ 30.   Finally, this project is contributing to the implementation of the roadmap for transition to the East African
+ Monetary Union (EAMU) that set 2018 as the deadline for harmonization of statistics in these areas and efforts are
+ underway to ensure that this deadline is met.
+
+  C. Proposed Development Objective(s)
+
+ 31.     The development objective of this project is to strengthen the capacity of the National Statistical Offices of the
+ East African Community (EAC) Partner States and the EAC Secretariat to produce harmonized and quality statistics in
+ support of the regional integration and development.
+
+  Key Results (From PCN)
+
+ 32.     The key aspects of the PDO are the strengthening of the National Bureaus of Statistics of the East African
+ Community (EAC) Partner States and the EAC Secretariat capacity to produce harmonized and quality statistics. In this
+ respect, progress toward the PDO will be measured and monitored through the following indicators:
+
+          (a)   Improved use of international recommendations and best practices to compile national accounts, CPI,
+                external trade and poverty statistics;
+
+          (b)   Improved quality and comparability of national accounts, CPI, External trade and Poverty Statistics in the
+                Community;
+
+          (c)   Number of Partner-States’ professional statisticians from NBSs of Partner States with improved skills on
+                national accounts, price, poverty and external trade statistics;
+
+          (d)   Data dissemination portal developed at the EAC Secretariat.
+
+ 33. The following key outputs of the project will be monitored:
+
+          (a)   Number of statistics experts at the EAC Secretariat hired by the project to work full time at the East African
+                Statistics Bureau;
+
+          (b)   Number of technical notes prepared to improve the comparability of national accounts, price, poverty, and
+                external trade statistics in PS;
+
+          (c)   Number of Partner States professional statisticians trained during technical workshops;
+
+          (d)   Common software used for national accounts, price and external trade statistics;
+
+          (e)   Number of updated sectoral databases;
+
+
+Nov 29, 2017                                                                                                        Page 8 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+          (f)   Number of Partner States with revised Statistics Act.
+
+  D. Concept Description
+
+ 34.      The proposed project activities will focus on the core features to improve the quality and comparability of
+ statistics produced by Partner States in the EAC, especially in the priority areas of National Accounts, Prices, Trade, and
+ Poverty statistics. The EAC Secretariat is expected to be identified as the designated implementing agency of the project
+ which is expected to have a duration of five years from the WBG Board approval, assuming no effectiveness delays.
+ Project activities are anchored in the second EAC Regional Statistical Development Plan and fully share the Plan’s vision
+ which is to make the EAC as a premier and authoritative source of high quality and harmonized Community statistics to
+ support regional integration and development.
+
+ 35.     The project’s activities have been selected according to the Community data demand and in line with the
+ following three criteria: (i) core features of addressing the main and common statistical challenges faced by the
+ Community Statistical System (ii) aligned with the WBG’s comparative advantage in technical assistance; and (iii) having
+ comparative advantage and value added to be implemented at the Regional level compared to their implementation at
+ the national level. The proposed project is structured into the following components: (i) Institutional and Human
+ Resources Developments; (ii) Improved data quality, comparability, dissemination and use; (iii) Project Management.
+
+ Component 1: Institutional and Human Resources Developments
+
+ 36.       The aim of this component is (i) to support the operationalization of East African Statistics Bureau to start
+ fulfilling its mandate; (ii) to accelerate and deepen statistical reforms in Partner States; and (iii) to build specialized skills
+ needed in the region in priority statistics areas. In this regards, once the East African Statistics Bureau Bill is enacted by
+ the EALA as an autonomous entity and its headquarters identified, this subcomponent aims to help fast track and make
+ this Bureau functional, especially by strengthening its capacity both in terms of equipment and human resources. In
+ addition, technical assistance will be provided to Partner States to update their national Statistics Acts with a view to
+ aligning them with provisions of the EAC Statistics Bureau Act.
+
+ 37.     Furthermore, since the human resources are the most important asset in any organization, the proposed
+ operation aims to increase the proportion of the NBS professional staff trained in specialized areas related to statistics,
+ demography, economics, and IT (particularly programming). The training program will be conducted primarily in the
+ regional statistical training centers, will be designed by experts to fit precise needs, and will focus on short term needs
+ on specific statistical skills that are linked directly to data collection or statistical production activities.
+
+ Component 2: Improved data quality, comparability, dissemination and use
+
+ 38.      The key objective of the proposed project is to create favorable conditions for production of quality and
+ harmonized statistics in the region, especially in the four priorities areas of National Accounts, Price, Trade and poverty
+ statistics. In this regard, this component will primarily support the process to improve tools and methodologies used by
+ the Partner States and produce agreed harmonized approaches, in line with best practices and international standards,
+ and that will become the guidelines and regulations to be followed by Partner States in compiling their official statistics.
+ The above four mentioned focus areas selected for support under the proposed component are policy-driven and are
+ identified based on the needs to monitor the monetary union process and to assess the development impact of the
+ integration process.
+
+
+
+
+Nov 29, 2017                                                                                                              Page 9 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+ 39.     This component will also support activities to address the lack of statistical awareness in the region, identified as
+ an important challenge and to open doors for more stable funding for production of quality statistics. Funding from the
+ project will also be made available to strengthen data analysis and interpretation in the region.
+
+ Component 3: Project Management
+
+ 40.       A project implementation unit (PIU) will be integrated in the Secretariat of the EAC until the EASB is operational.
+ It will then be transferred to the Bureau. This PIU will be responsible for program management, including procurement,
+ financial management (FM), monitoring and evaluation (M&E), and safeguards support. The PIU will also be responsible
+ for coordination between NBSs, organizing training events, and monitoring progress. It will as well be responsible for
+ quality control and preparation of in-house data analysis.
+
+  SAFEGUARDS
+
+  A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+
+
+  B. Borrower’s Institutional Capacity for Safeguard Policies
+
+  The project is a C environmental assessment category. None of the safeguard policies is triggered
+
+  C. Environmental and Social Safeguards Specialists on the Team
+
+  Knut Opsal, Social Safeguards Specialist
+  Jane A. N. Kibbassa, Environmental Safeguards Specialist
+
+  D. Policies that might apply
+
+  Safeguard Policies                             Triggered?           Explanation (Optional)
+  Environmental Assessment OP/BP 4.01            No
+  Natural Habitats OP/BP 4.04                    No
+  Forests OP/BP 4.36                             No
+  Pest Management OP 4.09                        No
+  Physical Cultural Resources OP/BP 4.11         No
+  Indigenous Peoples OP/BP 4.10                  No
+  Involuntary Resettlement OP/BP 4.12            No
+  Safety of Dams OP/BP 4.37                      No
+  Projects on International Waterways
+                                                 No
+  OP/BP 7.50
+  Projects in Disputed Areas OP/BP 7.60          No
+
+
+
+Nov 29, 2017                                                                                                        Page 10 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+  E. Safeguard Preparation Plan
+
+  Tentative target date for preparing the Appraisal Stage PID/ISDS
+
+  Mar 30, 2018
+
+  Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and
+  their timing should be specified in the Appraisal Stage PID/ISDS
+
+  No safeguard-related study is projected to be conducted.
+
+
+  CONTACT POINT
+
+
+  World Bank
+  Abdoullahi Beidou
+  Senior Economist/Statistician
+
+
+  Borrower/Client/Recipient
+  East African Community
+  Liberat Mfumukeko
+  Secretary General
+  eac@eachq.org
+
+
+  Wilberforce Mariki
+  Director of Planning
+  wmariki@eachq.org
+
+
+  Samuel Njuru
+  Expert Statistician
+  SNjuru@eachq.org
+
+  Implementing Agencies
+
+  East African Community
+  Wilberforce Mariki
+  Director of Planning
+  wmariki@eachq.org
+
+
+
+
+Nov 29, 2017                                                                                                Page 11 of 12
+         The World Bank
+         EAC Statistics Development and Harmonization Regional Project (P164243)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                     Abdoullahi Beidou
+
+  Approved By
+  APPROVALTBL
+  Safeguards Advisor:                      Maman-Sani Issa                         08-Dec-2017
+
+  Practice Manager/Manager:                Pierella Paci                           08-Dec-2017
+
+  Country Director:                        Emmanuel Noubissie Ngankam              26-Jan-2018
+
+
+
+
+Nov 29, 2017                                                                                     Page 12 of 12
+

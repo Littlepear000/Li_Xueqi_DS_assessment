@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "v3.0",
+    "hash": "225949b8fad0",
+    "date": "2026-11-06",
+    "note": "DDAT coding + applied/mentioned check - first tagged state",
+    "package_version": "0.2.0",
+    "aliases": [
+      "dcbdbf524417"
+    ]
+  }
+]

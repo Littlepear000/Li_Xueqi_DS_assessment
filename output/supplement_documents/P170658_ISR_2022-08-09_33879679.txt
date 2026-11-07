@@ -1,0 +1,509 @@
+           The World Bank                                                                                    Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+ LATIN AMERICA AND CARIBBEAN | Peru | Digital Development Global Practice |
+ IBRD/IDA | Investment Project Financing | FY 2020 | Seq No: 5 | ARCHIVED on 09-Aug-2022 | ISR52399 |
+
+
+ Implementing Agencies: Programa Nacional de Telecomunicaciones (PRONATEL), Republic of Peru
+
+
+
+ Key Dates
+
+
+  Key Project Dates
+
+   Bank Approval Date: 07-Apr-2020                                            Effectiveness Date: 17-Aug-2020
+   Planned Mid Term Review Date: 30-Nov-2022                                  Actual Mid-Term Review Date:
+   Original Closing Date: 10-Jan-2024                                         Revised Closing Date: 10-Jan-2024
+ pdoTable
+
+ Project Development Objectives
+
+  Project Development Objective (from Project Appraisal Document)
+  The proposed project development objective is to provide a more efficient response to emergencies, urgencies, and associated help line requests
+  from the population of Lima Metropolitan area and Callao.
+
+  Has the Project Development Objective been changed since Board Approval of the Project Objective?
+  No
+
+
+ Components Table
+
+ Name
+ Physical Infrastructure:(Cost $16938000.00 M)
+ Integrated Platform:(Cost $20169000.00 M)
+ 911 Central Response Protocols:(Cost $142000.00 M)
+ Interconnection of the video cameras of the National Police to the 911 Emergency Platform:(Cost
+ $2149000.00 M)
+ Use and Appropriation of the 911 Platform:(Cost $1687000.00 M)
+ Project Supervision and Management, and Technical Studies:(Cost $3998000.00 M)
+
+ Overall Ratings
+
+ Name                                                                        Previous Rating                         Current Rating
+
+ Progress towards achievement of PDO                                         Satisfactory                           Moderately Satisfactory
+ Overall Implementation Progress (IP)                                        Moderately Satisfactory                Moderately Unsatisfactory
+ Overall Risk Rating                                                         Moderate                               Moderate
+
+
+ Implementation Status and Key Decisions
+
+  Under Component 1 (Physical Infrastructure) On March 18th, 2022 the World Bank approved the final bidding documents for the design of the 911
+  Center and works for the 911 Center. On March 28th, the call for the selection process for the design and construction of the 911 center building
+  was issued. On June 20th, the bid verification report was signed, indicating that the bidding process was declared unsuccessful. Immediately after,
+  on June 21st, PRONATEL contacted by mail the 30 companies that had requested the SDP asking their reasons and causes for not submitting
+  proposals. Companies were invited to a meeting to present the project and the second call for applications for the design and construction of the
+  911 Center. This meeting took place on July 18th, 2022, with the participation of 10 companies. During the meeting, the lack of some essential
+
+
+8/9/2022                                                                                                                      Page 1 of 8
+            The World Bank                                                                                      Implementation Status & Results Report
+            CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+  technical information was mentioned as the main reason because companies did not submit technical and financial proposals. Also, the lack of
+  information about the soil to define the type prevented companies to submit proposals. PRONATEL is committed to share with the WB team the
+  possible action scenarios and the costs of the processes for the preparation of the preliminary design including clearing of the space where the
+  central will be placed and soil studies, together with the estimated execution times.
+  Under Component 3 (Central Response Protocols), PRONATEL is working to sign Cooperation Agreements with different first response agencies.
+  In this regard, PRONATEL has signed 3 of the 4 agreed Cooperation Agreements, the last one in June with the Linea 100, being the agreement
+  with MININTER is the only one pending. PRONATEL agreed to advance the 911 service protocols element of the project in parallel with the physical
+  infrastructure component. To this end, PRONATEL plans to launch the Terms of reference of consultancy to systematize international experiences
+  on this topic prior to the platform bidding process
+
+
+
+
+  Risks
+
+
+ Systematic Operations Risk-rating Tool
+
+
+  Risk Category                                              Rating at Approval               Previous Rating               Current Rating
+
+  Political and Governance                                   Moderate                        Substantial                  Substantial
+  Macroeconomic                                              Low                             Low                          Moderate
+  Sector Strategies and Policies                             Low                             Moderate                     Moderate
+  Technical Design of Project or Program                     Moderate                        Moderate                     Moderate
+  Institutional Capacity for Implementation and
+                                                             Moderate                        Moderate                     Substantial
+  Sustainability
+  Fiduciary                                                  Substantial                     Substantial                  Substantial
+  Environment and Social                                     Moderate                        Moderate                     Moderate
+  Stakeholders                                               Moderate                        Moderate                     Moderate
+  Other                                                      Moderate                        Substantial                  Substantial
+  Overall                                                    Moderate                        Moderate                     Moderate
+
+
+
+  Results
+
+
+ PDO Indicators by Objectives / Outcomes
+
+
+
+   More efficient response to emergencies, urgencies, and associated help line requests
+
+    IN01169982
+    ►Average duration of the connection time in an emergency, urgency, or related information request call (Seconds, Custom)
+
+                                      Baseline                      Actual (Previous)            Actual (Current)           End Target
+
+    Value                             230.40                        230.40                       230.40                     128.00
+
+    Date                              05-Dec-2019                   01-Feb-2022                  27-Jul-2022               05-Dec-2023
+                                       Average the time taken by the operators (first line) to register all the data from an emergency or urgency
+   Comments:
+                                       call, categorize it, and transfer it to the dispatchers (second line of response). Although the PDO
+
+
+8/9/2022                                                                                                                       Page 2 of 8
+           The World Bank                                                                                     Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+                                      differentiates between emergency, urgency, and information request, the response to each incident will be
+                                      equally fast with no differentiation between type of incident and therefore the average will be measure.
+    IN01169983
+    ►Share of calls made to the 911 emergency response service answered in less than 5 seconds (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                            0.00                         0.00                          0.00                      95.00
+
+    Date                             27-Jan-2020                  01-Feb-2022                   27-Jul-2022               27-Jan-2024
+                                      The time to answer calls is defined as the time taken by the operator to pick up an emergency or urgency
+   Comments:                          call. The indicator measures the increase of the share of total number of calls made to the 911 emergency
+                                      response service number answered by the 911 operators in less than 5 seconds.
+    IN01169984
+    ►Reduction of malicious calls received by the Integrated Platform, out of which (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                            0.00                         0.00                          0.00                      44.00
+
+    Date                             10-Jan-2020                  01-Feb-2022                   27-Jul-2022               10-Jan-2024
+                                      Decrease of the number of malicious calls received by the 911 emergency response service and Line 100,
+                                      which are not considered real emergencies, urgencies, related information calls, or GBV related issues. It
+   Comments:
+                                      includes disturbing, false, mistaken, silent, and repeated calls. During the 4 years of the project, the
+                                      number of malicious calls will decline from 8.28 million to 4.64 million.
+     IN01169985
+     Reduction of malicious calls received by the 911 emergency response service; and (Percentage, Custom Supplement)
+
+                                    Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+     Value                          0.00                         0.00                         0.00                        48.00
+
+     IN01170046
+     Reduction of malicious calls received by Line 100 (Percentage, Custom Supplement)
+
+                                    Baseline                     Actual (Previous)            Actual (Current)            End Target
+
+     Value                          0.00                         0.00                         0.00                        12.00
+
+    IN01170047
+    ►Share of people who called the 911 emergency response service and are satisfied with the service received (Percentage, Custom)
+
+                                      Baseline                    Actual (Previous)             Actual (Current)          End Target
+
+    Value                            0.00                         0.00                          0.00                      80.00
+
+    Date                             05-Dec-2019                  01-Feb-2022                   27-Jul-2022               10-Jan-2024
+                                      Share of people that called to the 911 number in the event of an emergency or urgency, or for requesting
+                                      related information who are satisfied or very satisfied with the service provided by the 911 operators. This
+                                      type of information has not been collected by the First Response Units, and therefore the baseline is 0.
+   Comments:
+                                      During the first phase of the project (Year 0 and Year 1), the team together with PRONATEL will study the
+                                      possibility of carrying out this survey to analyze the satisfaction of the people who called the emergency
+                                      response units with the service provided.
+    IN01170048
+    ►Share of people who called Line 100 and are satisfied with the service received (Percentage, Custom)
+
+
+
+
+8/9/2022                                                                                                                      Page 3 of 8
+           The World Bank                                                                                      Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+    Value                             0.00                         0.00                          0.00                       70.00
+
+    Date                              10-Jan-2020                  01-Feb-2022                   27-Jul-2022                10-Jan-2024
+                                      Share of people that called Line 100 to receive orientation, information, counseling, or emotional support
+                                      who are satisfied or very satisfied with the service provided by the Line 100 staff. This type of information
+   Comments:                          has not been collected by Line 100, and therefore the baseline is 0. During the first phase of the project
+                                      (Year 0 and Year 1), the team together with PRONATEL and Line 100 will carry out a survey to analyze
+                                      the satisfaction of the people who called Line 100 with the service provided.
+
+ Overall Comments PDO
+
+  Current numbers (included in the indicators) will be adjusted and measured once the 911 Platform is operational.
+
+
+
+
+ Intermediate Results Indicators by Components
+
+
+
+   1. Physical Infrastructure
+
+    IN01170049
+    ►1.1. 911 center constructed and in operation (Yes/No, Custom)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+    Value                             No                           No                            No                         Yes
+
+    Date                              10-Jan-2020                  01-Feb-2022                   01-Feb-2022                10-Jan-2024
+                                      The 911 Center that will host the integrated platform (911 Platform, data center, and the
+                                      telecommunications networks) and all the 911 staff (911 operators, supported administrative and
+   Comments:
+                                      managerial staff) has been constructed and furnished and it is operating following the specific design
+                                      developed during the first year of the project.
+
+
+   2. Integrated Platform
+
+    IN01170050
+    ►2.1. Interoperable Integrated Platform deployed in the 911 center and in operation (Yes/No, Custom)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+    Value                             No                           No                            No                         Yes
+
+    Date                              05-Dec-2019                  01-Feb-2022                   27-Jul-2022                05-Dec-2023
+                                      Deployment and operation of the Integrated Platform (including the 911 Platform, the Data Center, and the
+                                      telecommunications networks) interoperable with the Line 100 and First Response Units' digital systems.
+   Comments:                          The operation of the platform includes the performance of at least the following activities: (i) the receipt of
+                                      calls to the 911 and the other emergency response numbers; (ii) the collection of data by the 911
+                                      operators following the protocols established; and, (iii) transfer of the data to the First Response Unit(s).
+    IN01170054
+    ►2.2. Total calls received by the 911 emergency response service, including those that are malicious and not answered (Number, Custom)
+
+                                      Baseline                     Actual (Previous)             Actual (Current)           End Target
+
+
+
+8/9/2022                                                                                                                        Page 4 of 8
+           The World Bank                                                                                      Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+
+    Value                              9,138,520.00                9,138,520.00                 9,138,520.00               5,663,392.00
+
+    Date                               10-Jan-2020                 01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                       Total number of calls made to the 911 and Line 100, seeking assistance from First Response Units due to
+                                       an emergency or urgency; requesting information related to an emergency or an urgency; seeking help on
+   Comments:
+                                       GBV issues; not answered, or being malicious. The decrease in the number of calls is due to the decrease
+                                       in the number of malicious calls.
+     IN01170059
+     2.2.a. Share of calls from the total received by the 911 emergency response service that are automatically geolocated (Percentage,
+     Custom Supplement)
+
+                                   Baseline                      Actual (Previous)             Actual (Current)           End Target
+
+     Value                         0.00                          0.00                         0.00                        74.00
+
+    IN01170060
+    ►2.3. Total effective calls made to the 911 emergency response service (Number, Custom)
+
+                                       Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+    Value                              813,221.00                  813,221.00                   813,221.00                 994,221.00
+
+    Date                               10-Jan-2020                 01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                       Effective calls are defined as the successful calls responded to by the 911 operators. The indicator
+                                       measures total number of calls made to the 911 emergency response service and Line 100 that were
+   Comments:
+                                       really seeking help from the First Response Units due to an emergency or an urgency, seeking the Line
+                                       100 services, or requesting information related to emergencies and urgencies.
+     IN01170062
+     2.3.a. Total effective calls made to Line 100 (Number, Custom Breakdown)
+
+                                   Baseline                      Actual (Previous)             Actual (Current)           End Target
+
+     Value                         262,672.00                    262,672.00                   262,672.00                  328,577.00
+
+     Date                          10-Jan-2020                   01-Feb-2022                  27-Jul-2022                 10-Jan-2024
+
+     IN01170063
+     2.3.b. Increase of the share of effective calls made to the 911 emergency response service and transferred to two or more First Response
+     Units or Line 100 (Percentage, Custom Supplement)
+
+                                   Baseline                      Actual (Previous)             Actual (Current)           End Target
+
+     Value                         0.00                          0.00                         0.00                        53.00
+
+    IN01170064
+    ►2.4 Calls transferred and handled by the GBV Line (Number, Custom)
+
+                                       Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+    Value                              0.00                        0.00                         0.00                       151,145.00
+
+    Date                               27-Jan-2020                 01-Feb-2022                  27-Jul-2022               27-Jan-2024
+                                       The handling of calls is defined as the provision of orientation, information, counseling, and emotional
+   Comments:                           support for people affected by domestic violence and sexual assault by Line 100 staff. The indicator
+                                       measures the number of calls answered by the 911 operators and connected to the GBV Line 100 staff.
+
+
+   3. 911 Central Response Protocols
+
+
+8/9/2022                                                                                                                      Page 5 of 8
+           The World Bank                                                                                    Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+    IN01170052
+    ►3.1. Cooperation Agreement signed between PRONATEL, the NPP, SAMU, PCVF, and Line 100 (Number, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)          End Target
+
+    Value                             0.00                        2.00                         3.00                      4.00
+
+    Date                              10-Jan-2020                 01-Feb-2022                  20-Jul-2022               10-Jan-2024
+                                      To facilitate the carrying out of the project PRONATEL will sign a Cooperation Agreement with the First
+                                      Response Units in Peru (the NPP, SAMU, and the PCVF), and Line 100. The Cooperation Agreement
+   Comments:                          aims at facilitating at minimum the development of the protocols, interoperability between the 911
+                                      integrated platform and the systems used by the First Response Units and Line 100, and defining and
+                                      implementing capacity building activities.
+    IN01170055
+    ►3.2. Protocols and procedure manual on the use of the 911 Platform developed and in use (Yes/No, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)          End Target
+
+    Value                             No                          No                           No                        Yes
+
+    Date                              10-Jan-2020                 01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                      Protocols manual with the procedures for handling and responding to emergency, urgency, or information
+   Comments:                          request calls, based on the typology of emergency, urgency, or information request call developed and in
+                                      use by the 911 operators and the First Response Units.
+    IN01170058
+    ►3.3. GBV emergency protocol design and in use by the 911 operators, the emergency response units, and Line 100 (Yes/No, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)          End Target
+
+    Value                             No                          No                           No                        Yes
+
+    Date                              10-Jan-2020                 01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                      Specific GBV emergency protocols with the procedures for handling, responding to, and transferring the
+   Comments:                          call in the event of GBV emergencies developed and in use by Line 100, the 911 operators, and the First
+                                      Response Units.
+
+
+   4. Interconnection of the video cameras of the National Police to the 911 Emergency Platform
+
+    IN01170053
+    ►4.1. NPP video surveillance cameras interconnected with the 911 Platform (Yes/No, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)          End Target
+
+    Value                             No                          No                           No                        Yes
+
+    Date                              10-Jan-2020                 01-Feb-2022                  27-Jul-2022               10-Jan-2024
+
+                                      Interconnection of the NPP video cameras with the 911 Integrated Platform, allowing visualization in the
+   Comments:
+                                      911 Center of all the images captured by the NPP video cameras.
+
+
+   5. Use and appropriation of the 911 platform
+
+    IN01170051
+    ►5.1. 911 operators trained on the use of the 911 Platform (Number, Custom)
+
+
+
+8/9/2022                                                                                                                    Page 6 of 8
+           The World Bank                                                                                    Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+
+                                      Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+    Value                            0.00                         0.00                         0.00                       294.00
+
+    Date                             10-Jan-2020                  01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                      Number of 911 operators in charge of the reception of emergency calls and video surveillance in the
+                                      emergency center trained on the use of the 911 Platform, the transfer of the calls to the First Response
+   Comments:
+                                      Units, and coordination for the follow-up of emergencies from the beginning to the closing of an
+                                      emergency or urgency.
+     IN01170056
+     5.1.a. 911 operators trained in GBV issues (Number, Custom Supplement)
+
+                                    Baseline                     Actual (Previous)            Actual (Current)           End Target
+
+     Value                          0.00                        0.00                          0.00                       70.00
+
+    IN01170057
+    ►5.2. Awareness raising campaign on the proper use of the 911 emergency response service designed and launched (Yes/No, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+    Value                            No                           Yes                          Yes                        Yes
+
+    Date                             05-Dec-2019                  01-Feb-2022                  27-Jul-2022               05-Dec-2023
+                                      Campaign to raise awareness among the population on the importance of the 911 emergency response
+                                      service designed and launched. The campaign will be focused on informing the population of the Lima
+   Comments:                          Metropolitan area and Callao about the correct use of the 911 emergency response service, as well as the
+                                      centralization of the emergency response services in a unique number, 911, and the future disappearance
+                                      of the other numbers (105, 106, and 116).
+    IN01170061
+    ►5.3. Awareness raising campaign on the proper use of Line 100 designed and launched (Yes/No, Custom)
+
+                                      Baseline                    Actual (Previous)            Actual (Current)           End Target
+
+    Value                            No                           No                           No                         Yes
+
+    Date                             10-Jan-2020                  01-Feb-2022                  27-Jul-2022               10-Jan-2024
+                                      Campaign to raise awareness among the population on the importance of Line 100 designed and
+   Comments:                          launched. The campaign will be focused on informing the population of the Lima Metropolitan area and
+                                      Callao about the correct use of Line 100 and the services offered.
+
+ Overall Comments IR
+
+  Current numbers/values (included some of the the indicators) will be adjusted and measured once the 911 Platform is operational.
+
+  In terms of results, only one Cooperation Agreement is pending between PRONATEL and NPP and awareness raising campaigns started.
+
+
+
+
+ Performance-Based Conditions
+
+
+
+ Data on Financial Performance
+
+
+
+
+8/9/2022                                                                                                                     Page 7 of 8
+           The World Bank                                                                                   Implementation Status & Results Report
+           CENTRALIZED EMERGENCY RESPONSE SYSTEM PROJECT (P170658)
+
+
+
+ Disbursements (by loan)
+
+ Project      Loan/Credit/TF       Status      Currency        Original   Revised     Cancelled     Disbursed     Undisbursed                % Disbursed
+
+
+ P170658      IBRD-90390           Effective   USD               36.32      36.32           0.00         0.23           36.09                      0.6%
+
+
+ Key Dates (by loan)
+
+ Project       Loan/Credit/TF      Status      Approval Date       Signing Date     Effectiveness Date    Orig. Closing Date      Rev. Closing Date
+
+ P170658       IBRD-90390          Effective   07-Apr-2020         16-Jul-2020      17-Aug-2020           10-Jan-2024             10-Jan-2024
+
+
+Cumulative Disbursements
+
+
+
+
+  Restructuring History
+
+
+  There has been no restructuring to date.
+
+
+  Related Project(s)
+
+
+  There are no related projects.
+
+
+
+
+8/9/2022                                                                                                                       Page 8 of 8
+

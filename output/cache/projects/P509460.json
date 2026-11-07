@@ -1,0 +1,806 @@
+{
+  "project_id": "P509460",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "66b2cf65",
+  "started_at": "2026-11-07T03:38:38Z",
+  "ended_at": "2026-11-07T03:38:56Z",
+  "input_fingerprint": "cbf2366752b7aafd",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 20,
+  "innovative": "Unclear",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P509460-A1",
+      "project_id": "P509460",
+      "name": "FundsChain blockchain platform for real-time disbursement tracking",
+      "description": "World Bank offers borrower a blockchain platform tracking disbursements in real time, at no cost.",
+      "why_innovative": "New process: blockchain real-time disbursement tracking - cue: 'innovative' | category Financial; adoption prospect; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099120325112028558",
+        "doc_type": "PAD",
+        "doc_date": "2025-12-01",
+        "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+        "char_start": 71221,
+        "char_end": 71587,
+        "text": "As part of its commitment to enhancing transparency and accountability in project financing, the World Bank is offering borrowers and clients access to FundsChain, an innovative blockchain-based platform that optimizes real-time tracking of disbursements and complements existing financial management systems in support of digitization, transparency, and efficiency.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099120325112028558",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-01",
+          "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+          "char_start": 71588,
+          "char_end": 71674,
+          "text": "The platform has been introduced to the client and is available at no additional cost.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099120325112028558",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-01",
+          "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+          "char_start": 71675,
+          "char_end": 71839,
+          "text": "The borrower is encouraged to adopt the platform, which can be customized to align with existing financial management systems and the project’s operational context.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: changes how project funds are tracked and disbursed",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Rural and Inter-Urban Roads",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "mentioned_only",
+      "adoption": {
+        "value": "prospect",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: blockchain disbursement tracker | Innovative: real-time tracking beyond standard FM | Category: financial transparency",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: blockchain real-time disbursement tracking - cue: 'innovative'",
+      "innovation_cues": [
+        "innovative"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P509460",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-01",
+      "guid": "099120325112028558",
+      "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:38:38Z",
+      "ended_at": "2026-11-07T03:38:38Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:38:38Z",
+      "ended_at": "2026-11-07T03:38:38Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-12-22, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:38:38Z",
+      "ended_at": "2026-11-07T03:38:39Z",
+      "status": "ok",
+      "note": "20 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 20,
+        "tier": "High",
+        "by_dimension": {
+          "results_based_management": 4,
+          "enabling_processes": 2,
+          "innovation": 4,
+          "innovation_cycle": 2,
+          "innovation_types": 4,
+          "public_good": 2,
+          "enabling_technologies": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:38:39Z",
+      "ended_at": "2026-11-07T03:38:39Z",
+      "status": "ok",
+      "note": "PAD 2025-12-01 (P509460_PAD_2025-12-01_099120325112028558.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P509460",
+            "doc_type": "PAD",
+            "doc_date": "2025-12-01",
+            "guid": "099120325112028558",
+            "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:38:39Z",
+      "ended_at": "2026-11-07T03:38:39Z",
+      "status": "ok",
+      "note": "100 reading units (60 numbered paragraphs) from 858 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 100
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:38:39Z",
+      "ended_at": "2026-11-07T03:38:40Z",
+      "status": "ok",
+      "note": "54 of 100 units carry a digital / AI cue (19 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 54,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 19
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:38:40Z",
+      "ended_at": "2026-11-07T03:38:47Z",
+      "status": "ok",
+      "note": "13 candidate practices from 54 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 196061,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1096,
+          "cached_tokens": 41213,
+          "cache_write_tokens": 0,
+          "output_tokens": 2710,
+          "seconds": 20.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0038
+        },
+        "extracted": 13
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:38:47Z",
+      "ended_at": "2026-11-07T03:38:52Z",
+      "status": "ok",
+      "note": "8 accepted, 5 rejected (not_innovative 4, generic 1); 0 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 65101,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7152,
+          "cached_tokens": 6400,
+          "cache_write_tokens": 0,
+          "output_tokens": 1012,
+          "seconds": 6.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0034
+        },
+        "accepted": 8,
+        "rejected": 5,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 4,
+          "generic": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:38:52Z",
+      "ended_at": "2026-11-07T03:38:52Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:38:52Z",
+      "ended_at": "2026-11-07T03:38:53Z",
+      "status": "ok",
+      "note": "8 approaches -> 2 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2199,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 472,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 59,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 6,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:38:53Z",
+      "ended_at": "2026-11-07T03:38:56Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5748,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 898,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 132,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:38:56Z",
+      "ended_at": "2026-11-07T03:38:56Z",
+      "status": "ok",
+      "note": "1 approaches (0 applied), 3 evidence rows, 12 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:38:56Z",
+      "ended_at": "2026-11-07T03:38:56Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 268
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P509460-A1-E1",
+      "approach_id": "P509460-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P509460",
+      "doc_id": "099120325112028558",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-01",
+      "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+      "unit_id": "U47",
+      "para_no": 41,
+      "sentence_position": 389,
+      "char_start": 71221,
+      "char_end": 71587,
+      "sentence": "As part of its commitment to enhancing transparency and accountability in project financing, the World Bank is offering borrowers and clients access to FundsChain, an innovative blockchain-based platform that optimizes real-time tracking of disbursements and complements existing financial management systems in support of digitization, transparency, and efficiency.",
+      "practice": "FundsChain blockchain platform for real-time disbursement tracking",
+      "category": "Financial",
+      "adoption": "prospect",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: blockchain disbursement tracking platform | Not routine: real-time tracking beyond standard FM | Adoption: 'encouraged to adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: blockchain disbursement tracker | Innovative: real-time tracking beyond standard FM | Category: financial transparency",
+      "keywords_hit": "blockchain;connectivity",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: blockchain real-time disbursement tracking - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "66b2cf65"
+    },
+    {
+      "row_id": "P509460-A1-E2",
+      "approach_id": "P509460-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P509460",
+      "doc_id": "099120325112028558",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-01",
+      "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+      "unit_id": "U47",
+      "para_no": 41,
+      "sentence_position": 390,
+      "char_start": 71588,
+      "char_end": 71674,
+      "sentence": "The platform has been introduced to the client and is available at no additional cost.",
+      "practice": "FundsChain blockchain platform for real-time disbursement tracking",
+      "category": "Financial",
+      "adoption": "prospect",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: blockchain disbursement tracking platform | Not routine: real-time tracking beyond standard FM | Adoption: 'encouraged to adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: blockchain disbursement tracker | Innovative: real-time tracking beyond standard FM | Category: financial transparency",
+      "keywords_hit": "blockchain;connectivity",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: blockchain real-time disbursement tracking - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "66b2cf65"
+    },
+    {
+      "row_id": "P509460-A1-E3",
+      "approach_id": "P509460-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P509460",
+      "doc_id": "099120325112028558",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-01",
+      "file_name": "P509460_PAD_2025-12-01_099120325112028558.txt",
+      "unit_id": "U47",
+      "para_no": 41,
+      "sentence_position": 391,
+      "char_start": 71675,
+      "char_end": 71839,
+      "sentence": "The borrower is encouraged to adopt the platform, which can be customized to align with existing financial management systems and the project’s operational context.",
+      "practice": "FundsChain blockchain platform for real-time disbursement tracking",
+      "category": "Financial",
+      "adoption": "prospect",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: blockchain disbursement tracking platform | Not routine: real-time tracking beyond standard FM | Adoption: 'encouraged to adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: blockchain disbursement tracker | Innovative: real-time tracking beyond standard FM | Category: financial transparency",
+      "keywords_hit": "blockchain;connectivity",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: blockchain real-time disbursement tracking - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "66b2cf65"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 280,
+      "char_start": 54216,
+      "char_end": 54378,
+      "sentence": "SMART can help standardize and streamline data collection, analysis, and reporting, making it easier for key information to get from the field to decision-makers.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SMART software for standardized patrol data collection and reporting",
+      "reason": "reject: SMART software is standard conservation tool, routine procurement, not new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: standardized digital patrol data pipeline - cue: 'software equipment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "SMART software is standard conservation tool, routine procurement, not new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 2504
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 287,
+      "char_start": 55484,
+      "char_end": 55706,
+      "sentence": "(iv) improved monitoring and characterization of dolphin mortalities, including strengthening the reporting network that includes communities, the curation of a centralized database, training for veterinarians, and others;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Centralized dolphin mortality database with community reporting network",
+      "reason": "reject: Centralized database and reporting network is routine monitoring, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: centralized mortality database and reporting - cue: 'centralized database'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Centralized database and reporting network is routine monitoring, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 2504
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 579,
+      "char_start": 101759,
+      "char_end": 102007,
+      "sentence": "A project satisfaction survey will be conducted at the completion of each sub- project among the 333 households using GEMS to monitor satisfaction level of affected households receiving the support from the livelihood development under Component 2.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "GEMS-based satisfaction survey of livelihood grant households",
+      "reason": "reject: GEMS satisfaction survey is standard M&E reporting, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: digital feedback loop for grant beneficiaries - cue: 'adaptive management'",
+      "innovation_cues": "adaptive;adaptive management;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS satisfaction survey is standard M&E reporting, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1798
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 576,
+      "char_start": 101214,
+      "char_end": 101481,
+      "sentence": "To reach as many stakeholders as possible in an inclusive way, stakeholder engagement and public participation activities will use both traditional (community meetings and focus groups) and innovative participatory tools (use of social media and web-based platforms).",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Social media and web platforms for stakeholder participation",
+      "reason": "reject: Social media and web platforms for participation, no specific named system or mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: digital channels widen stakeholder participation - cue: 'innovative participatory tools'",
+      "innovation_cues": "adaptive;adaptive management;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Social media and web platforms for participation, no specific named system or mechanism",
+          "reject_code": "generic",
+          "context_chars": 1798
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 829,
+      "char_start": 142829,
+      "char_end": 142872,
+      "sentence": "(ii) SMART patrol system is up and running;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SMART patrol system and acoustic sensors for dolphin conservation",
+      "reason": "reject: SMART patrol and acoustic sensors duplicate A2/A8/A9; indicator restatement, not new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: acoustic sensors plus SMART patrol for cetacean monitoring - cue: 'SMART patrol system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "SMART patrol and acoustic sensors duplicate A2/A8/A9; indicator restatement, not new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1365
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 224,
+      "char_start": 44411,
+      "char_end": 45340,
+      "sentence": "Page 6 The World Bank Thailand Resilient Transport Connectivity and Irrawaddy Dolphin Conservation Project PROJECT APPRAISAL DOCUMENT (P509460) Under sub-component 1.2, key activities to mitigate construction and operation impacts on the Irrawaddy dolphin sub-population include, among others: (i) establishing real-time visual and acoustic detection of dolphins to provide early warning of dolphin presence near the construction site, (ii) establishing a work stoppage protocol, which includes an observation zone and shut down zone, based on international best practices to protect dolphins present near construction activities, (iii) monitoring water quality and other key parameters during bridge construction, and (iv) implementing all in-water bridge pier construction activities (piling, concreting) inside a silt curtain fully enclosing the work site from the surrounding water column to minimize turbidity and pollution.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Real-time visual and acoustic dolphin detection for construction early warning",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: real-time acoustic detection triggering work stoppage - cue: 'early-warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: real-time acoustic/visual detection | Innovative: triggers work stoppage protocol | Category: sensor technology",
+          "reject_code": "",
+          "context_chars": 2659
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 251,
+      "char_start": 49497,
+      "char_end": 49846,
+      "sentence": "(ii) enforcement of NHA zones and permissible fishing gear, through: (a) increasing the number and quality of patrols – the SMART patrolling approach successfully implemented elsewhere in Thailand will be adopted and adjusted to the marine environment;12 (b) establishing a Marine SMART Patrol Center and strengthening data collection and reporting;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SMART patrol data system for marine protected area enforcement",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: SMART patrol data system adapted to marine - cue: 'data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SMART patrol data platform | Innovative: first marine adaptation in Thailand | Category: digital data system",
+          "reject_code": "",
+          "context_chars": 863
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 279,
+      "char_start": 53827,
+      "char_end": 54215,
+      "sentence": "A variety of density sampling technologies will be employed, including boat-based, aerial (both through a fixed-wing small aircraft and fixed-winged unmanned aerial vehicles), and 12 The SMART approach (Spatial Monitoring and Reporting Tool, smartconservationtools.org) consists of a set of software and analysis tools to help conservationists manage and protect wildlife and wild places.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Acoustic and UAV-based dolphin density sampling surveys",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: acoustic and UAV dolphin monitoring - cue: 'density sampling technologies'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: acoustic and UAV survey sensors | Innovative: replaces limited-area observation | Category: remote sensing",
+          "reject_code": "",
+          "context_chars": 2504
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 445,
+      "char_start": 78249,
+      "char_end": 78633,
+      "sentence": "The core area occupied by Irrawaddy dolphins is 8 to 10km away from the bridge construction site, however, given the uncertainty about their year-round ranging patterns, the project will implement precautionary mitigation measures to minimize the risk of project- generated noise impacting the dolphin sub-population (these include observer platforms, acoustic detection, and others).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Acoustic detection and observer platforms for underwater noise mitigation",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: acoustic noise detection during piling - cue: 'precautionary'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: acoustic detection sensors | Innovative: real-time noise mitigation near dolphins | Category: sensor technology",
+          "reject_code": "",
+          "context_chars": 2484
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 470,
+      "char_start": 82685,
+      "char_end": 82782,
+      "sentence": "Another aspect linked to improved management capacity of Thale Luang relates to SMART patrolling.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SMART patrolling adapted to lake and marine environment",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: SMART patrol adapted to marine lake - cue: 'adapt'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SMART patrol software | Innovative: first marine adaptation in country | Category: digital data system",
+          "reject_code": "",
+          "context_chars": 1283
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 476,
+      "char_start": 83404,
+      "char_end": 83727,
+      "sentence": "Whereas previous efforts to survey dolphin populations and characterize their ecology have been based on discreet observations in limited areas of Thale Luang, the introduction of acoustic sampling is expected to boost DMCR’s ability to understand the seasonal distribution patterns of the dolphin sub-population. • Social.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Acoustic sampling for dolphin seasonal distribution monitoring",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: acoustic sampling replaces discreet observations - cue: 'new approaches'",
+      "innovation_cues": "adaptive;mainstreamed",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: acoustic sampling sensors | Innovative: continuous vs discreet observation | Category: remote sensing",
+          "reject_code": "",
+          "context_chars": 1395
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099120325112028558",
+      "doc_type": "PAD",
+      "position": 854,
+      "char_start": 149996,
+      "char_end": 151189,
+      "sentence": "Frequency Annual Data source DOF with support from DMCR and DNP Methodology for Data Collection Periodic surveys carried out by DOF, showing proof of sub-projects supported Responsibility for Data Collection DOF Women network to conserve Irrawaddy dolphins is established (Yes/No) A network of women fishers will be established to facilitate dialogue and inclusion of women in Irrawaddy Description dolphin conservation activities (yes/no) Frequency Annual Data source DOF DOF collects minutes of establishgment, periodic meetings, and other evidence showing the operation of the Methodology for Data Collection network, and includes in periodic reports Responsibility for Data Collection DOF Official survey with abundance estimate of Irrawaddy dolphins in Thale Luang completed and published bi-annually (Yes/No) The survey will combine results from surveys and other information sources on the Irrawaddy dolphin sub- population in Thale Luang Non-Hunting Area (acoustic surveys, fixed-wing aircraft and fixed-wing unmanned Description aerial vehicles, visual patrols, interviews with fishers, and others) to provide information on the sub- population size, trend, ranging patterns and other",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Drone and acoustic surveys for Irrawaddy dolphin abundance estimates",
+      "reason": "reject: final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: drone/acoustic dolphin population monitoring - cue: 'unmanned aerial vehicles'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: drone/acoustic/aircraft survey data | Innovative: combines UAV and acoustic methods for dolphin abundance | Category: Technological monitoring tool",
+          "reject_code": "",
+          "context_chars": 1948
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: SMART acoustic/visual monitoring supports patrols but approach is conservation monitoring | Before 2019: SMART patrol and acoustic monitoring used in WBG/UN conservation projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 9618,
+    "cached_tokens": 47997,
+    "cache_write_tokens": 0,
+    "output_tokens": 3913,
+    "seconds": 30.5,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0079
+  }
+}

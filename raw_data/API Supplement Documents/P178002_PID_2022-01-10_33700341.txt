@@ -1,0 +1,736 @@
+﻿         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+
+
+                          Project Information Document (PID)
+
+                          Concept Stage | Date Prepared/Updated: 10-Jan-2022 | Report No: PIDC33068
+
+
+
+
+Dec 06, 2021                                                                                          Page 1 of 14
+
+
+                                                                                                      Official Use
+         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Lao People's Democratic                        P178002                                                 Lao PDR Statistical
+  Republic                                                                                               System Modernization
+                                                                                                         (P178002)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  EAST ASIA AND PACIFIC                          Jun 21, 2022               Oct 04, 2022                 Poverty and Equity
+
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Lao People’s Democratic    Lao Statistics Bureau,
+                                                 Republic                   Ministry of Planning and
+                                                                            Investment
+
+   Proposed Development Objective(s)
+
+    The PDO is to improve the capacity of the Lao PDR Statistical System to produce and disseminate good quality statistics
+    in a timely manner and to enhance use of key statistics, and in case of an Eligible Crisis or Emergency, respond promptly
+    and effectively to it.
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                     25.00
+   Total Financing                                                                                                       25.00
+
+                             of which IBRD/IDA                                                                           25.00
+
+   Financing Gap                                                                                                           0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+       International Development Association (IDA)                                                                        25.00
+
+          IDA Credit                                                                                                      25.00
+
+
+
+
+Dec 06, 2021                                                                                                          Page 2 of 14
+
+
+                                                                                                                      Official Use
+           The World Bank
+           Lao PDR Statistical System Modernization (P178002)
+
+
+
+     Environmental and Social Risk Classification                             Concept Review Decision
+     Low                                                                      Track II-The review did authorize the preparation to
+                                                                              continue
+
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+
+     Lao People’s Democratic Republic (Lao PDR), one of the fastest growing economies in East Asia and the Pacific, is
+     experiencing a growth slowdown. Lao PDR is a lower-middle-income country with a gross domestic product (GDP) per
+     capita of US$2,647 in 2020 and a population of 7.3 million. The economy grew strongly between 2010 and 2019 – at an
+     average of 7.2 percent per year – but slowed to 3.3 percent in 2020 owing to COVID-19. The recovery is expected to be
+     gradual, with growth projected to rise to around 4-5 percent in the medium term, which is below the pre-pandemic
+     levels. The official poverty rate fell from 24.6 percent in 2012 to 18.3 percent in 2018, or at the lower-middle-income
+     poverty line (2011 PPP $3.2 per person per day), from 46.6 percent to 37.4 percent, remaining high compared to regional
+     peers. Economic growth has been driven by capital accumulation in the natural resource sectors and other large
+     infrastructure developments, such as mining, hydropower, and transport-related projects, often financed by foreign
+     debt.
+
+     The country is facing critical development challenges, a legacy of its capital-intensive resource-driven growth. The
+     growth has been jobless, and the macroeconomic position has deteriorated.1 The employment to population ratio
+     dropped sharply from 81.3 percent in 2012 to 60.8 percent in 2018, and is expected to decline further following COVID-
+     19. The deteriorated macroeconomic conditions are due to weak revenue performance, increased public debt and debt
+     service burdens, foreign exchange liquidity constraints, and low reserve buffers. The ratio of domestic revenues to GDP
+     has steadily fallen from 16.3 percent of GDP in 2015 to 11.8 per cent in 2020 and estimated around 13 percent in 2021,
+     while public debt was estimated to have reached 62 percent of GDP in 2020, up from 50 percent in 2013. Gross reserves
+     decreased to $1.2 billion in August 2021 from $1.3 billion in December 2020. A shortage of foreign currency in the official
+     market widened the gap between the official and parallel markets to 21-22 percent in July-August before it has
+     moderated to about 13.9 percent in end-October 2021, as BOL widened LAK/USD exchange rate band.
+
+     Upon completion of the China-Laos railway in 2021, the country is at a pivotal moment to transform from a landlocked
+     to a land-linked economy. The US$5.9 billion railway project will connect Lao PDR to the entire network of the Belt Road
+     Initiative (BRI), allowing the country to move one step closer to overcoming the developmental constraints that come
+     from being the only land-locked country in Southeast Asia and capitalize on its strategic geographic location. The railway
+     has the potential to improve the comparative advantage of Lao PDR and make the country more attractive as an
+     investment destination. However, it also poses considerable risks. Without the right complementary policy reforms,
+     developmental benefits of this mega infrastructure project could be limited. The railway is projected to change the
+
+ 1   World Bank, forthcoming. Lao PDR Systematic Country Diagnostic Update.
+
+
+
+Dec 06, 2021                                                                                                                Page 3 of 14
+
+
+                                                                                                                            Official Use
+            The World Bank
+            Lao PDR Statistical System Modernization (P178002)
+
+
+     sectoral composition and the spatial development pattern of the Lao economy, and therefore create groups that will be
+     negatively affected or not be able to benefit from the new opportunities. Success in leveraging the railway for inclusive
+     development will depend on the ability of the Government of Lao PDR (GoL) to make the right and timely policy
+     decisions.
+
+     Against the backdrop of increasingly complex and transforming economic landscape, evidence-informed decision
+     making is more important than ever. As Lao PDR strives to promote regional integration and position itself as a land-
+     linked economy, key statistics in the realms of economic activities, national accounts, fiscal and debt, balance of
+     payments and external position that meet international standards are compulsory to guide decision making of the GoL
+     and international stakeholders. The challenging situation in the private sector and the labor market that Lao PDR is
+     currently facing, which has been aggravated by the impact of COVID-19, increases the demand for high quality, timely,
+     and integrated data that could reduce information frictions and assist decision making of policymakers, firms, and
+     individuals. At the same time, high fiscal deficit and public debt levels have resulted in tight fiscal constraints. The
+     evidence-based policy design approach, underpinned by the monitoring and evaluation systems, is an important tool for
+     policymakers to formulate and implement tax and expenditure policies that balance distributional and efficiency
+     objectives and maximize the development impact of the scarce resources.
+
+     Sectoral and Institutional Context
+
+     Lao PDR has made substantial progress in advancing its national statistical system in recent years. 2 The national
+     statistical system, commonly known as the Lao PDR Statistical System (LSS), consists of the Lao Statistics Bureau (LSB),
+     the statistical centers of line ministries or equivalent organizations, the statistics offices of provincial departments, and
+     the statistics units of district and village offices. Activities within the realm of official statistics in Lao PDR have grown
+     over the years. There has been an increase in data production both by the LSB and the statistical centers of line ministries
+     to support the policymaking process. Socio-economic indicators, especially those related to the Millennium
+     Development Goals (MDGs) and Sustainable Development Goals (SDGs), have been made available in international
+     databases. The SDGs open data portal was launched in June 2021. The World Bank’s Statistical Performance Index (SPI),
+     which measures the statistical capacity of a national statistical system in terms of its range of products and the
+     production and dissemination processes, has improved since 2016.
+
+     The growth momentum reflects an increasing level of government support and continuing collaborative efforts with
+     bilateral and multilateral donors. For many years, the external donors have contributed significantly to the growth and
+     maturity of statistical activities in Lao PDR. However, government supported activities have increased, a trend that
+     signifies stronger government commitment in recent years. A new statistics law has been in force since 2017, assigning
+     the LSB the responsibility of providing the overall direction of the national statistical system through the power to draft
+     the LSS’s development strategy. A vision document ‘Strategy for the Sustainable Development of the National Statistical
+     System 2016-2025 and Vision by 2030’ serves as the reference roadmap for future development. The GoL has been
+     supportive of the development of the LSS. The Deputy Prime Minister regularly attends functions organized by the LSB,
+     thus providing a strong signal that the government takes the issue of statistical development seriously.
+
+     A demand for the statistical system’s products is strong, both from the GoL to support monitoring and evaluation of
+     the National Socio-Economic Development Plans (NSEDP) and from international communities. Of all the five pillars of
+     the SPI: data use, data services, data products, data sources and data infrastructure, Lao PDR scores high in data use,
+
+
+ 2   Paul Cheung. 2020. Advancing the National Statistical System of Lao PDR.
+
+
+
+Dec 06, 2021                                                                                                             Page 4 of 14
+
+
+                                                                                                                         Official Use
+          The World Bank
+          Lao PDR Statistical System Modernization (P178002)
+
+
+     showing a strong demand for the statistical system’s products.3 The NSEDP, a five-year strategic development plan to
+     guide policymaking, is outcome-based. The 9th NSEDP 2021 – 2025, which focuses on quality, green, inclusive and
+     sustainable growth to support the country to graduate from the least developed country (LDC) status and achieve the
+     SDGs by 2030, outlines more than 250 targets and indicators.4
+
+     Despite what has been achieved in the past few years, high-quality data to guide decision making are lacking and
+     there are still important data gaps to be filled. Lao PDR lags its regional peers in advancing the national statistical
+     system’s performance. The country’s overall SPI score was estimated at 54.1 in 2019, lower than 56.2 fo r Cambodia, 66.0
+     for Vietnam, 72.2 for Indonesia, 75.7 for Philippines and 76.1 for Thailand. The LSS ranks low in the second lowest quintile
+     of the global ranking in the areas of data sources and data infrastructure, suggest weaknesses in collection of census,
+     survey, administrative and geospatial data as well as standard and methodology for compiling statistics. Nationally
+     representative household surveys that are conducted every five years are not sufficient to meet the demand to monitor
+     and inform the GoL’s development agenda. The enterprise surveys are not available, and the labor force surveys are
+     conducted every 5-6 years. Integration of geospatial data into statistical analysis does not exist, although the recent
+     transition from traditional pen-and- paper interviewing (PAPI) to computer-assisted personal interviewing (CAPI) is a key
+     enabler.5 Statistical compilation and methodology are lagging. The standards of the 2008 System of National Accounts
+     (2008 SNA), the 6th edition Balance of Payments and International Investment Position Manual (BPM6) and the
+     Government Finance Statistics (GFS) transaction accounts are yet to be achieved. Compilation of GDP by expenditure is
+     among the recent initiatives and the demand for quarterly GDP has grown strongly in recent years. While most social
+     indicators are available at the provincial level, national accounts statistics are mainly available at the national level.
+
+     Data dissemination remains weak, with long publication lags and limited coverage and openness. The largest gap in
+     the LSS according to the World Bank’s SPI is in fact in data services, in which the country ranks in the lowest quintile of
+     the global ranking, suggesting an opportunity for improvement in areas of data releases, online access, and other data
+     services. Lao PDR ranks 143rd out of 187 countries in the 2020 Open Data Inventory Index (ODIN), which measures how
+     complete a country’s statistical offerings are and whether their data meet international standards of openness. Data
+     dissemination practices of the LSS are not user centric. The LSB data portal is fragmented comprising several platforms
+     (LAOSIS, LAOINFO, SDG Open Data), a legacy of ad-hoc support from multiple donors. It is not updated in a timely
+     manner, and has limited coverage and openness. GDP data is usually published with long lags, e.g., 2020 GDP numbers
+     were published in Q3 of 2021. In recent years, a transition from PAPI to CAPI in survey implementation helped reduce
+     data processing and publication lag time for socioeconomic indicators. As a result of this transition and an improvement
+     in the household survey instrument, new poverty estimates were presented to the GoL 5 months after completion of
+     the survey fieldwork and survey results were made publicly available 7 months after that. Although there is still room
+     for improvement, it shows significant progress compared to the 21-month gap between completion of the survey
+     fieldwork and publication of the survey report from the previous household survey round.
+
+     Weak data dissemination in the area of government finance and international investment positions has attracted
+     international attention Lao PDR is already a subscriber to the IMF’s e-GDDS but data on government finance, public
+     debt, and international investment positions are unavailable in the public domain. Insufficient commitment to
+     dissemination and implementation of the Statistics Law to ensure data sharing between core statistics producers (LSB,
+     MoF, and BoL) have been viewed as a key weakness. The Ministry of Finance (MOF) published a public and publicly
+     guaranteed (PPG) debt bulletin for first time on MOF’s website in May 2021. This is a crucial step toward improving debt
+
+ 3 Lao PDR scores 90 out of 100 in data use, putting the country in the fourth quintile of the global ranking.
+ 4 Government of Lao PDR. 2021. The 9th National Socio-Economic Development Plan 2021-2025 (NSEDP).
+ 5 Geospatial data collection will be piloted with the 2022 Lao Social Indicator Survey (LSIS), supported by the UNICEF.
+
+
+
+
+Dec 06, 2021                                                                                                               Page 5 of 14
+
+
+                                                                                                                           Official Use
+         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+  transparency and debt data dissemination. However, the coverage and scope of the bulletin should be expanded to
+  include more debt details and fiscal risk management. As efforts to stabilize the macroeconomic conditions continue, it
+  is expected that fiscal management and public debt data transparency will continue to attract international attention.
+
+  Statistical development has mostly occurred at the sectoral level, and limited data sharing and integration have
+  hindered evidence-based policymaking on cross-cutting issues. The LSS is not well coordinated. Statistical development
+  has been driven by policy agendas and national development plans, which have been implemented and assessed at the
+  sectoral level. At present, each ministry has the responsibility of compiling and disseminating its own statistical indicators
+  for public consumption. Nevertheless, ministries often see statistical outputs as marginal to their core activities and give
+  them the lowest priority. There are governance issues with respect to data sharing and integration. The lack of an
+  overarching data governance model has led to fragmentation in data standards and technical solutions for data sharing,
+  which hinders data interoperability across different sectors and affects the possibility of integrating data to inform
+  policies on cross-cutting issues.
+
+  While there is a need to strengthen the LSS as a system, the LSB has played the role of national LSS coordinator with
+  some degree of success. According to the 2017 Statistics Law, the LSB is responsible for guiding the overall direction of
+  the national statistical system through the power to draft the LSS’s development strategy. It thus has a great deal of
+  influence on the development of statistics across ministries and subnational government bodies and the official statistics
+  that the system generates. Operationally, the LSB has the responsibility to collect, consolidate, and request statistics
+  from the line ministries and to disseminate them at the national level. The ministries and provinces are obliged to seek
+  the LSB’s technical endorsement on the statistics they produce. In recent years, the vertical and horizontal organizational
+  structure and coordination mechanisms have been established and upgraded in line with the implementation of the
+  2017 Statistics Law and the Statistical Strategy Development Plan (2016-2025). However, the Data Quality Assessment
+  Framework (DQAF) is not in place and the de jure mandate that the LSB has in providing technical endorsement for and
+  requesting statistics from the line ministries has not yet been fully exercised. While the LSB is perceived as a capable
+  professional organization by other entities in the LSS, there is scope to further strengthen the LSB’s capacity to lead the
+  system and produce the desired outcomes.
+
+  Weak data dissemination and limited data integration have undermined the value of the LSS’s services and its
+  relevance to statistical users. Data dissemination and data integration broaden the use of survey and administrative
+  data and increase the return on data collection and compilation investments. Constraints to data usage vary across
+  statistical users in Lao PDR. For policymakers, patchy and untimely information prevent the use of statistics in informing
+  effective policy decisions. The COVID-19 is a case in point. This is compounded with a low level of data literacy which has
+  been exposed by an increasing volume and variety of data in the digitizing world. For researchers, difficulties in accessing
+  microdata with appropriate documentation are the major concern. Users only have access to a partial micro dataset,
+  and there is a significant delay in gaining access to data. Data usage among public is very limited, mainly due to a lack of
+  user-friendly dissemination of statistics and understanding of the importance of statistics among public users.
+
+  The Strengthening the National Statistical System Project (P129825) was implemented during 2013 – 2018. The
+  objective of the $8 million grant project was to improve the capacity of the Recipient’s national statistical system to
+  produce and disseminate reliable and timely macroeconomic and poverty statistics in accordance with international
+  standards and in response to user needs. The LSB was the main implementing agency. The project included three key
+  pillars: (i) Improvement of statistical legal framework and institutional capacity building; (ii) Data production and
+  management with a focus on macroeconomic and poverty statics; and (iii) ICT infrastructure development and data
+  dissemination. The project has completed most planned activities, delivered key outputs and intermediate results.
+
+
+
+Dec 06, 2021                                                                                                          Page 6 of 14
+
+
+                                                                                                                      Official Use
+           The World Bank
+           Lao PDR Statistical System Modernization (P178002)
+
+
+  However, at the time of the Implementation Completion Review (ICR), it achieved only one of the three PDO result
+  indicators: a comprehensive macroeconomic framework developed and used. The other two indicators – statistical
+  capacity scores and user satisfaction – were achieved after the ICR due to a delay of data source for result indicators
+  verification.
+
+  There are some important lessons learned from the previous project:
+
+       •     Strong coordination mechanism is important as the LSB navigates the statistical system and coordinates donor
+             support to statistics. As the central agency for official statistics, the LSB needs to coordinate statistical activities
+             across the statistical centers or units at various ministries for sectoral statistics and statistical offices at provincial
+             and district levels for subnational statistics. Bilateral and multilateral donors are also active in area of statistics
+             primarily to support monitoring of development outcomes. In recent years, the coordination mechanisms to
+             support the production of official statistics were established in line with the implementation of the Statistics Law
+             and the Statistical Strategy Development Plan (2016-2025). The Ministry of Planning and Investment also
+             established the statistical working group, chaired by the LSB and co-chaired by the World Bank and the United
+             Nations Population Fund (UNFPA), to coordinate donor support on statistics. It is recommended that the project
+             preparation and implementation build on the existing coordination mechanisms, as well as strengthen them.
+
+       •     Twinning arrangement proved to be effective, but stronger procurement capacity is needed. The twinning
+             arrangement was used to complement weak capacity of the implementing agency and provide access to a wide
+             range of expertise needed to support project activities on a timely manner. However, procurement of the
+             twinning is complicated and time consuming, and it caused a lot of delay in the previous project. Therefore, it is
+             important to build in adequate procurement support for the LSB, into project design and prepare procurement
+             packages (especially bidding documents) well in advance and obtain an experienced procurement consultant
+             from the beginning of the project to support the project implementation unit on procurement work. This would
+             apply not only to procurement of the twinning arrangement but also other large procurement packages as well.
+
+
+  Relationship to CPF
+
+  The proposed project is closely aligned with the Country Partnership Framework (CPF) for Lao PDR FY 2022–26. The
+  project is aligned with the cross-cutting theme: Strengthening governance and institution proposed under the new FY22-
+  26 CPF. Success of this project will support data sharing across the statistical system and evidence-based policymaking,
+  fostering data openness and data-driven cultures to improve transparency and accountability of the government.
+
+  C. Proposed Development Objective(s)
+
+  The PDO is to improve the capacity of the Lao PDR Statistical System to produce and disseminate good quality statistics
+  in a timely manner and to enhance use of key statistics, and in case of an Eligible Crisis or Emergency, respond promptly
+  and effectively to it.
+
+  The achievement of the PDO level results will be measured by four high-level indicators.
+
+
+
+
+Dec 06, 2021                                                                                                                 Page 7 of 14
+
+
+                                                                                                                              Official Use
+               The World Bank
+               Lao PDR Statistical System Modernization (P178002)
+
+
+       •       Open Data Inventory (ODIN) coverage score
+       •       Open Data Inventory (ODIN) openness score
+       •       Reduction in publication lag
+       •       Use of statistics (government documents, media, user surveys)
+
+   Intermediate results indicators
+
+  1.       2008 SNA Milestone
+  2.       Frequency of poverty and labor market indicators
+  3.       Integrated databases developed, number of statistics shared between the LSB and line ministries
+  4.       Key statistics released according to the Advance Release Calendar
+  5.       Full transition to e-GDDS
+  6.       Number of micro datasets available for downloading via the portal
+  7.       Number of online visits to the data portal or Number of downloads of datasets and reports
+  8.       Number of government officials trained in using statistics for policymaking
+
+
+  D. Concept Description
+
+  Modernization of the LSS will allow the system to be able to respond to growing demand for data and foster evidence-
+  based decision making. The key principles of modernization the LSS include:
+
+           •     Utilizing the most recent technology and methodology to enhance variety, frequency, and quality of data
+                 collection, reduce cost of data collection, support effective data management and dissemination, and improve
+                 outreach to public users.
+
+           •     Adhering to international standards to improve quality of data and statistics and to support Lao PDR for deeper
+                 regional and global integration.
+
+           •     Transitioning to a more integrated statistical system to capitalize on administrative data and increase the value
+                 of the LSS’s statistical products.
+
+           •     Ensuring relevance of the statistical system to all user types through enhancing data dissemination and improving
+                 data literacy. This will help foster the demand-driven, user-centric statistical system which is required in the
+                 modern world.
+
+           •     Maximizing development support to creating synergies and avoiding overlapping among donor support.
+
+  To support the modernization process of the LSS, the project will focus on three components:
+
+
+  Component 1: Improving the availability and quality of statistics (US$ 15 million)
+
+  The objective of this component is to improve availability and quality of key statistics that meet international
+  standards and the demand from data users. Component 1 aims to narrow the data gaps. Improving availability of
+
+
+
+Dec 06, 2021                                                                                                            Page 8 of 14
+
+
+                                                                                                                        Official Use
+         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+  statistics ensures that key data and statistics are produced regularly to be made accessible to users. Enhancing quality
+  means improving the accuracy, reliability, relevance, and timeliness of statistics through enhanced data collection and
+  data compilation methodologies. Component 1 will cover statistical production of the LSS. This component will support
+  both statistics produced by the LSB and sectoral statistics produced by the statistical centers of line ministries or
+  equivalent agencies under the LSB’s technical guidance. Component 1 will include 2 subcomponents.
+
+  Subcomponent 1.1 Macroeconomic statistics. This includes: i) updating the System of National Accounts (SNA) to reach
+  Milestone 3 of the 2008 SNA, which also concerns the specifics of quarterly GDP compilation; ii) compiling and improving
+  sectoral statistics including fiscal and debt, trade and investment, international investment positions (IIP), Balance of
+  Payment (BOP), and monetary statistics; iii) developing the Producer Price Index (PPI), the Import Price Index (MPI), the
+  Export Price Index (XPI), and updating the Consumer Price Index (CPI) basket; iv) financing and institutionalizing relevant
+  surveys to support the above activities, particularly the Economic Census 2025 with geospatial data collection, the
+  agricultural survey 2027 with geospatial data collection, the annual (possibly also quarterly) enterprise surveys, and the
+  IIP surveys; and v) analysis and reporting of the surveys.
+
+  It is envisaged that activities under Subcomponent 1.1 will support the national accounts of Lao PDR to reach
+  Milestone 3 of the 2008 SNA. Implementation of the 2008 SNA is at a very early stage (Milestone 1), with only annual
+  GDP by industry available and compilation of GDP by expenditure nearly completed. Milestone 2 calls the compilation
+  of Gross National Income (GNI) and quarterly GDP. Achieving Milestone 2 is thus critical for a country with large foreign
+  direct investment, foreign corporate presence, or foreign aid like Lao PDR and for responding to the increasing demand
+  for indicators that provide timely, comprehensive information about the evolution of the economy on a short-term basis.
+  Achieving Milestone 2 from the current stage would require improving sectoral statistics – Government Finance Statistics
+  (GFS) compiled by Ministry of Finance and Balance of Payment (BOP) compiled by Bank of the Lao PDR, and compiling
+  capital stock and IIP statistics. Price indices are used for a variety of different purposes, one of them is as a deflator in
+  the compilation of national accounts. There are four major types of price indices: CPI, PPI, XPI, MPI. In Lao PDR, only CPI
+  is available, which is published on a monthly basis. Finally, Milestone 3 includes the compilation of annual institutional
+  sector accounts.
+
+  Subcomponent 1.2 Social statistics. This includes: i) partially financing the Population and Housing Census 2025, with
+  geospatial data collection; ii) financing and institutionalizing the annual (possibly also quarterly) labor force survey; iii)
+  financing the Lao Expenditure and Consumption Survey 2024/25 as well as institutionalizing an interim household survey
+  to meet the recommended frequency for the poverty surveys of every 3 years; iv) compiling selected SDGs indicators
+  and sectoral statistics; v) analysis and reporting of the survey.
+
+  Activities under Subcomponent 1.2 will finance core census and surveys and develop a more cost-effective method to
+  increase the frequency of data collection. The Population and Housing Census is a foundation of the statistical system,
+  providing baseline information for production of other statistics and for policymaking such as the design and delivery of
+  social protection schemes. The upcoming Population and Housing Census 2025 will be the first time that data is collected
+  using Computer-Assisted Personal Interviews (CAPI), which allows geospatial information to be captured. The Population
+  and Housing Census 2025 will provide the geospatial foundation for future data collection and allow further integration
+  of spatial and socioeconomic data in policy planning (e.g. public service provisions and disaster responses). The Lao
+  Expenditure and Consumption Survey (LECS) and Labour Force Survey (LFS) are the main sources of data for poverty and
+  labor market monitoring. Both are conducted on an infrequent basis with LECS every 5 years and LFS irregularly every 5-
+  7 years. Activities under this subcomponent will review and improve the survey instrument and introduce alternative
+  modes of data collection such as Computer-Assisted Telephone Interviewing (CATI) to enhance the LSB’s capacity in
+
+
+
+Dec 06, 2021                                                                                                          Page 9 of 14
+
+
+                                                                                                                      Official Use
+           The World Bank
+           Lao PDR Statistical System Modernization (P178002)
+
+
+  tracking and monitoring poverty and labor market in the rapidly changing environment.
+  Gender: Strengthening gender statistics as part of these surveys and analyses will be carried out in collaboration with
+  the World Bank Strengthening Gender Statistics (SGS) project implemented by the World Bank Gender Group, Poverty
+  and Inequality Global Practice, and Development Data Group’s Living Standards Measurement Study team. The gaps in
+  gender statistics remain large in several areas including those that Lao PDR exhibits high gender inequality such as
+  economic opportunities, adolescent fertility, and gender norms. During project preparation, the SGS team will assess
+  and identify the gaps in gender statistics with a focus on survey design and post-survey data dissemination and analysis.
+  Opportunities to institutionalize such stronger gender analysis in the GOL system will also be explored. The SGS team
+  will continue providing technical assistance to the LSB until December 2023. Potential areas include improving survey
+  instruments, supporting a production of gender statistics abstracts/fact books, improving administrative data for gender
+  analysis, and training on gender concepts and report writing. Detailed activities will be agreed to ensure that activities
+  and outcomes of the two projects are complemented.
+
+  Component 2: Enhancing user relevance of the statistical system (US$ 5 million)
+
+  The objective of this component is to enhance user relevance of the statistical system through data integration and
+  data dissemination supported by the use of information technology. Component 2 aims to increase the value of the
+  LSS’s products. Administrative data is an asset of the statistical system that is usually underutilized. Leveraging
+  administrative data by fostering data integration and creating a centralized data portal will allow end users to make
+  better use of statistics, increasing the value of data produced by the LSS. Although this initiative builds on the 2017
+  Statistics Law that assigns the LSB the responsibility to collect, consolidate, and request statistics from the line ministries
+  and to disseminate them at the national level, strong coordination across line ministries will be critical. Data
+  dissemination broadens the use of data and increases the return on data collection investments. The benefit is
+  maximized when statistics are made readily available in a timely and easily accessible manner in the medium of choice
+  of the user. ICT infrastructure supports data integration by facilitating data linkages across the LSS’s statistical producers
+  and enabling large-volume data storage and analysis, and supports data dissemination by making data access easier and
+  more user friendly. It also reduces costs of field work, expands the scope of data collection (e.g., geospatial data, remote
+  sensing, etc.), and decreases time for data processing. Component 2 will include 3 subcomponents.
+
+  Subcomponent 2.1 Data integration. The Project will focus on horizontal data integration to maximize the development
+  impact of donor support as vertical data integration (between the Centre and Provinces) is being supported by the
+  Government of Hungary. The project will pilot two integrated databases. Activities include strengthening coordination
+  mechanisms across the LSS or relevant line ministries, assessing the legal and regulatory framework on data sharing and
+  data standards to arrive at technical solutions for data sharing, developing a Data Quality Assessment Framework
+  (DQAF), and setting up the data exchange system and dissemination portal. Public and official portals could be developed
+  to allow government officials and public users to have different levels of access to data. It is envisaged that these pilot
+  activities will strengthen the LSB’s capacity to assume the role of national LSS coordinator and lay the groundwork for
+  further data integration (e.g., integrating unit record data when the national unique ID is fully developed) as the LSS
+  moves toward an integrated statistical system.
+
+      i.     Integrated macroeconomic database to help monitor macroeconomic conditions through institutional
+             collaboration between the LSB/MPI, MoF, MoIC, and BoL. The activity will complement and support the
+             compilation of SNA under Subcomponent 1.1. given that SNA is in fact an overarching integrating framework for
+             macroeconomic statistics to facilitate economic analysis and policy formulation.
+
+
+
+
+Dec 06, 2021                                                                                                          Page 10 of 14
+
+
+                                                                                                                       Official Use
+             The World Bank
+             Lao PDR Statistical System Modernization (P178002)
+
+
+       ii.     Integrated labor market database as a one-stop shop to help monitor the labor market conditions through
+               coordination between the LSB/MPI, MoLSW, MoIC, and MoE.
+
+     Subcomponent 2.2 Data dissemination. There is substantial room for improvement in data dissemination. While there
+     is an Advance Release Calendar (ARC) for CPI, it does not exist for national account statistics.6 GDP data is usually
+     published with long lags, e.g., 2020 GDP numbers were published in Q3 of 2021. Microdata library is not available on the
+     LSB website. Activities under this subcomponent aim to strengthen data dissemination through i) strengthening data
+     dissemination policy including development of the Advance Release Calendar (ARC); ii) strengthening dissemination
+     practices of core statistics to adhere to the ARC and the e-GDDS criteria; iii) developing public-use and restricted-use
+     microdata files to support microdata dissemination for different groups of users; and iv) developing a centralized data
+     portal for the LSB by integrating the existing but fragmented portals (www.lsb.gov.la, LAOSIS, SDG Open data, LAOINFO)
+     and platforms for the integrated databases, as well as using data visualization to enhance data dissemination and make
+     data access easier and more user friendly. It is envisaged that this activity together with improved ICT infrastructure for
+     data dissemination will ensure that in the future donor-supported data platforms must be fully integrated into this
+     centralized data portal.
+
+     Subcomponent 2.3 ICT infrastructure. This includes ICT infrastructure and consulting services for: i) data collection such
+     as migration to cloud services, new electronic devices and replacement, and software licenses; ii) data integration such
+     as improving the management information system that facilitates integration across the LSS’s data producers; iii) data
+     dissemination; and iv) data security. This subcomponent will be implemented in collaboration with the Ministry of
+     Technology and Communications (MOTC).
+
+     Component 3: Capacity building, institutional strengthening, and project management (US$ 5 million)
+
+     The objectives of this component are to i) build capacity of statistical producers and users and strengthen institutions
+     of the implementing agency; and ii) support project management. This will work through two subcomponents and will
+     directly support the implementation of Component 1 and 2 respectively.
+
+     Subcomponent 3.1 Capacity building for statistical producers and users and strengthen institutions of the
+     implementing agency. This includes: i) building data literacy among statistical users including the National Assembly,
+     government officials, students, etc.; ii) developing the LSS’s user engagement strategy; iii) building capacity of statistical
+     units of line ministries and agencies in data compilation and data integration; iv) building capacity of the LSB in
+     information technology, data analysis, data dissemination, such as public-use files, metadata, publications, and media,
+     and R&D; and v) updating the statistics curriculum and forging the collaboration with universities to support a long-term
+     human resources development plan. This subcomponent will also support a review of Statistics Law and a production of
+     the Statistical Strategy Development Plan 2026-35 for the 2040 vision with a focus on good governance of a sound and
+     functioning national statistical system.
+
+     Subcomponent 3.2 Project management. This subcomponent will finance the operation of the LSB in managing project
+     activities and coordinating across statistical units of line ministries and agencies, as well as all monitoring and evaluation
+     related to the project.
+
+     CERC zero component: This component will provide immediate response to an eligible crisis or emergency, as needed.
+
+ 6An advance release calendar provides a general statement on the schedule of release of data, which is publicly disseminated so as to provide prior
+ notice of the precise release dates on which a national statistical agency undertakes to release specified statistical information to the public.
+
+
+
+Dec 06, 2021                                                                                                                           Page 11 of 14
+
+
+                                                                                                                                         Official Use
+         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+  In the event of an eligible crisis or emergency, the World Bank to re-allocate project funds to support emergency
+  response and recovery.
+
+
+
+
+  Legal Operational Policies                                                             Triggered?
+  Projects on International Waterways OP 7.50                                            No
+  Projects in Disputed Areas OP 7.60                                                     No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  .
+
+ Overall, the project is expected to be low risk and have positive environmental and social impacts by improving the
+ availability and quality of key statistics and enhance the efficiency of the statistical system for evidence-based decision
+ making.
+
+ The Project will not finance civil or infrastructure works that can induce risks and/or negative environmental and social
+ impacts. Thus, no key environmental and social risks related to physical and geographical issues, biodiversity, land access,
+ and cultural heritage, have been identified. However, the project recognizes the following Environmental and Social
+ Standards (ESS) as relevant to the project: ESS 1 (Assessment and Management of Environmental and Social Risks and
+ Impacts); ESS 2 (Labor and Working Conditions); ESS 3 (Resource Efficiency and Pollution Prevention and Management),
+ ESS 4 (Community Health and Safety), ESS7 (Indigenous Peoples) and ESS 10 (Stakeholder Engagement and Information
+ Disclosure).
+
+ Project activities under Component 1 aims to narrow the data gaps and strengthen data dissemination practices. This
+ component will support both statistics produced by the LSB and sectoral statistics produced by the statistical centers of line
+ ministries or equivalent agencies under the LSB’s technical guidance. The component 3 will build capacity of statistical
+ producers and users and strengthen institutions of the implementing agency, and support project management. Under
+ Component 2, the project will support data integration by facilitating data linkages across the LSS’s statistical producers
+ and enabling large-volume data storage and analysis. ICT infrastructure and consulting services will require replacement
+ and purchase of IT equipment (computers, printers, and tablets).
+
+ The social risks are classified as Low. Whilst the project aims to deliver a range of benefits, project activities have the
+ potential to generate minimal, predictable, mitigatable social risks and impacts, low in magnitude. Social risks and impacts
+ anticipated for this project include: (a) lack of stakeholder engagement; (b) risks related to the labor and working conditions
+ of project workers; (c) risk of exclusion and discrimination particularly of ethnic minorities and vulnerable groups if not
+ adequately represented in statistical data collection; (d) risk of Sexual Exploitation and Abuse and Sexual Harassment
+ (SEA/SH) and Violence Against Children (VAC) when conducting household interviews and (e) risk of data security and
+ privacy. These risks and impacts are low, and they are for the most part predicable and possible to mitigate during the
+ lifetime of the project.
+
+ Environmental impacts expected from the project are negligible and limited to disposal/recycling of electronic waste when
+ equipment is replaced/repaired. As generation of electronic waste are envisaged, the Borrower will prepare an electronic
+
+
+
+Dec 06, 2021                                                                                                       Page 12 of 14
+
+
+                                                                                                                     Official Use
+          The World Bank
+          Lao PDR Statistical System Modernization (P178002)
+
+
+ waste management plan. The project will also address resource efficiency by considering the purchase and use of energy-
+ efficient equipment.
+
+ In parallel with the project, the Lao government will create a new Environmental Statistics Department, established midway
+ through the implementation of this project, which will use a System of Environmental Economic Accounting (SEEA - 2012)
+ to capture the value of environmental assets in the statistical system. To initiate this approach, the project will initiate to
+ organize a capacity building on the concept of SEEA, if capacity permits.
+
+ Prior to appraisal, LSB, with the support from consultants, will prepare an Environmental and Social Management Plan
+ (ESMP). The ESMP for all locations where the project will be implemented. The ESMP will detail (i)the measures to be taken
+ during the implementation and operation of the project and (ii) the actions needed to implement these measures. It will
+ also include an overview of the regulatory and legislative framework and describe briefly the environmental and social
+ baseline in the country. It will further include measures to promote universal access to project benefits (access to data) for
+ people with disabilities. The ESMP will also include (i) Labor Management Procedures (LMP) including Workers? Grievance
+ Procedure, (ii) e-waste management plan, (iii) description of technically and financially feasible measures to improve energy
+ efficiency (e.g., purchase and use of energy-efficient equipment), (iv) OHS procedure, (v) preparation of Budget, (vi) staffing
+ and operational arrangements for project environmental and social risk management, including staff capacity assessment
+ and training and (vii) a CERC-Manual.
+
+ A Stakeholder Engagement Plan, including a Grievance Redress Mechanism (GRM), will be prepared prior to appraisal to
+ guide the Borrower to identify stakeholders, build and maintain a constructive relationship with them, and to meet
+ communication and disclosure requirements with a particular focus on project-affected parties. The SEP will include
+ inclusion and engagement strategies for indigenous peoples. The ESMP will be prepared with active participation from
+ those affected through public consultations with relevant stakeholders and the findings incorporated into the ESMP, SEP
+ and inform the Environmental and Social Commitment Plan (ESCP). Following review by the World Bank, the draft
+ documents will be disclosed by the Client prior to project appraisal and consulted upon. An Environmental and Social
+ Commitment Plan (ESCP), drawn and agreed between the Bank and the Borrower, will set out the important measures and
+ actions that will be required for the project to meet environmental and social requirements over the project’s lifetime.
+ These measures will be implemented within a specified timeframe and the status of implementation will be reviewed as
+ part of project monitoring and reporting. Due to inadequate knowledge on the ESF, external consultants will be hired to
+ support LSB with the preparation of the required ESF instruments during project preparation.
+
+
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Tanida Arayavechkit, Somneuk Davading
+     Economist
+
+
+     Borrower/Client/Recipient
+
+
+
+
+Dec 06, 2021                                                                                                       Page 13 of 14
+
+
+                                                                                                                     Official Use
+         The World Bank
+         Lao PDR Statistical System Modernization (P178002)
+
+
+  Lao People’s Democratic Republic
+
+
+
+
+  Implementing Agencies
+
+  Lao Statistics Bureau, Ministry of Planning and Investment
+  Phetsamone Sone
+  Deputy Head of Lao Statistics Bureau
+  phetsamonesone@gmail.com
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                     Tanida Arayavechkit, Somneuk Davading
+
+  Approved By
+  APPROVALTBL
+  Practice Manager/Manager:
+
+  Country Director:                        Mariam J. Sherman                   10-Jan-2022
+
+
+
+
+Dec 06, 2021                                                                                 Page 14 of 14
+
+
+                                                                                              Official Use
+

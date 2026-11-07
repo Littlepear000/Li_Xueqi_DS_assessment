@@ -1,0 +1,1304 @@
+{
+  "project_id": "P168926",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "a7b1b6de",
+  "started_at": "2026-11-07T03:26:41Z",
+  "ended_at": "2026-11-07T03:27:16Z",
+  "input_fingerprint": "3bd8592f61658854",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 20,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P168926-A1",
+      "project_id": "P168926",
+      "name": "geotagged mobile data and merged databases for health service verification",
+      "description": "Uses Kobo Toolbox geotagged data, barcode scans and merged partner datasets linked to DHIS2 to verify health services and drug delivery. Practices: master health service functionality database with verified data; mobile geotagged data via Kobo Toolbox for third-party monitoring; Geotagged images and barcode scans verifying drug delivery; ICRC georeferenced data triangulation for hard-to-reach monitoring; Kobo Toolbox GPS-stamped monitoring of monitors (GEMS); Merged health service functionality database with analytic dashboard.",
+      "why_innovative": "New product: cross-donor verified functionality database - cue: 'data quality' | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "885611551582069381",
+        "doc_type": "PAD",
+        "doc_date": "2019-02-12",
+        "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+        "char_start": 106521,
+        "char_end": 106695,
+        "text": "Key monitoring elements will include: (a) Development of a master health service functionality database, capturing development and humanitarian health services across donors;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 106696,
+          "char_end": 106884,
+          "text": "(b) Collection and development of verified data within database to increase confidence in analysis and reported results and provide measures of partner data quality and reporting accuracy;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 106885,
+          "char_end": 106999,
+          "text": "(c) Generation of monthly health service functionality bulletin and implementing partner data performance reports;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 108846,
+          "char_end": 109068,
+          "text": "Innovative technologies such as use of mobile and geotagged data through the Kobo Toolbox platform will be applied to strengthen the quality and comprehensiveness of said third-party monitoring and verification mechanisms.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 130302,
+          "char_end": 130605,
+          "text": "Moving forward, the new operation will ensure that monitoring mechanisms, such as geotagged images and barcode scans, ensure clarity in the delivery and availability of critical inputs to health services, despite the World Bank’s limitations in being able to conduct hands-on monitoring and supervision.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 129971,
+          "char_end": 130175,
+          "text": "(e) Modernize verification of delivery of pharmaceuticals: Drug procurement and distribution is currently functioning quite well up until “last mile delivery,” the latter constituting an unsolved problem.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 153562,
+          "char_end": 153800,
+          "text": "In hard to reach areas where the independent monitor may not be able to access, ICRC will apply enhanced monitoring and data collection approaches that triangulate programmatic and georeferenced data on project implementation and results.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 154089,
+          "char_end": 154310,
+          "text": "To strengthen monitoring activities in the project zones the project will harness disruptive technologies for FCV contexts in collaboration with the Geo-enabling for Monitoring and Supervision (GEMS) initiative (P167344).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 154311,
+          "char_end": 154447,
+          "text": "The GEMS method is an ideal add-on to project monitoring as it allows for 'monitoring of the monitors' through a very simple approach28.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 154552,
+          "char_end": 154706,
+          "text": "Moreover, the date, time and global positioning system (GPS) data cannot be manipulated, allowing to always know when and where the monitoring was active.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 155746,
+          "char_end": 156012,
+          "text": "Once common definitions for variables are defined, analytical software will be used to clean and merge the respective datasets into one, definitive health service functionality database to produce nationwide analysis on health service availability and functionality.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "885611551582069381",
+          "doc_type": "PAD",
+          "doc_date": "2019-02-12",
+          "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+          "char_start": 156013,
+          "char_end": 156188,
+          "text": "Over time, this database will be linked to DHIS2 and an analytic dashboard will be built to allow for users to view service availability in locations of interest on their own.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the database and data verification are the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Builds a health service database for administrative monitoring and reporting",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174546",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicated_by",
+          "evidence": "ing Community Resilience and Local Governance Project\r\n          (P169949), which had been under preparation prior to the pandemic and was approved in July 2020,\r\n          focuses on support for local infrastructure, including for WASH. The South Sudan Emergency Locust\r\n          Response Project (P174546) is being prepared for Q3 FY21 under the Emergency Locust Response Multi-\r\n          Phase A"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: master functionality database | Innovative: cross-donor verified data with quality checks | Category: data system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: cross-donor verified functionality database - cue: 'data quality'",
+      "innovation_cues": [
+        "disruptive",
+        "innovative",
+        "last-mile delivery"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P168926",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "guid": "885611551582069381",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:26:41Z",
+      "ended_at": "2026-11-07T03:26:45Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 9 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:26:45Z",
+      "ended_at": "2026-11-07T03:26:45Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-02-27, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:26:45Z",
+      "ended_at": "2026-11-07T03:26:47Z",
+      "status": "ok",
+      "note": "20 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 20,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 3,
+          "enabling_processes": 4,
+          "results_based_management": 4,
+          "innovation_types": 4,
+          "innovation": 4,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:26:47Z",
+      "ended_at": "2026-11-07T03:26:47Z",
+      "status": "ok",
+      "note": "PAD 2019-02-12 (P168926_PAD_2019-02-12_885611551582069381.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P168926",
+            "doc_type": "PAD",
+            "doc_date": "2019-02-12",
+            "guid": "885611551582069381",
+            "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:26:47Z",
+      "ended_at": "2026-11-07T03:26:47Z",
+      "status": "ok",
+      "note": "225 reading units (71 numbered paragraphs) from 1790 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 225
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:26:47Z",
+      "ended_at": "2026-11-07T03:26:52Z",
+      "status": "ok",
+      "note": "126 of 225 units carry a digital / AI cue (22 also an innovation cue); 7 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 126,
+        "dropped": 0,
+        "legal_condition": 7,
+        "with_innovation_cue": 22
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:26:52Z",
+      "ended_at": "2026-11-07T03:27:03Z",
+      "status": "ok",
+      "note": "23 candidate practices from 126 units in 13 calls",
+      "llm_calls": 13,
+      "input_chars": 389926,
+      "output": {
+        "usage": {
+          "calls": 13,
+          "input_tokens": 2324,
+          "cached_tokens": 78973,
+          "cache_write_tokens": 0,
+          "output_tokens": 5400,
+          "seconds": 41.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0077
+        },
+        "extracted": 23
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:27:03Z",
+      "ended_at": "2026-11-07T03:27:11Z",
+      "status": "ok",
+      "note": "6 accepted, 17 rejected (not_innovative 8, not_digital 7, background_or_other_programme 2); 2 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 189171,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 27717,
+          "cached_tokens": 8448,
+          "cache_write_tokens": 0,
+          "output_tokens": 1578,
+          "seconds": 11.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0103
+        },
+        "accepted": 6,
+        "rejected": 17,
+        "expanded": 2,
+        "reject_codes": {
+          "not_digital": 7,
+          "not_innovative": 8,
+          "background_or_other_programme": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:27:11Z",
+      "ended_at": "2026-11-07T03:27:13Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1780,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 405,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 210,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:27:13Z",
+      "ended_at": "2026-11-07T03:27:14Z",
+      "status": "ok",
+      "note": "6 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1995,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 448,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 66,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 5,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:27:14Z",
+      "ended_at": "2026-11-07T03:27:16Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4127,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 485,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 79,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:27:16Z",
+      "ended_at": "2026-11-07T03:27:16Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 12 evidence rows, 17 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:27:16Z",
+      "ended_at": "2026-11-07T03:27:16Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P174546",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicated_by",
+            "evidence": "ing Community Resilience and Local Governance Project\r\n          (P169949), which had been under preparation prior to the pandemic and was approved in July 2020,\r\n          focuses on support for local infrastructure, including for WASH. The South Sudan Emergency Locust\r\n          Response Project (P174546) is being prepared for Q3 FY21 under the Emergency Locust Response Multi-\r\n          Phase A"
+          }
+        ],
+        "store_size": 66
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P168926-A1-E1",
+      "approach_id": "P168926-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U78",
+      "para_no": 75,
+      "sentence_position": 608,
+      "char_start": 106521,
+      "char_end": 106695,
+      "sentence": "Key monitoring elements will include: (a) Development of a master health service functionality database, capturing development and humanitarian health services across donors;",
+      "practice": "master health service functionality database with verified data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: health service functionality database | Not routine: consolidates donor data with quality checks | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: master functionality database | Innovative: cross-donor verified data with quality checks | Category: data system",
+      "keywords_hit": "data quality;humanitarian",
+      "innovation_cues": "",
+      "innovation_basis": "New product: cross-donor verified functionality database - cue: 'data quality'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E2",
+      "approach_id": "P168926-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U78",
+      "para_no": 75,
+      "sentence_position": 609,
+      "char_start": 106696,
+      "char_end": 106884,
+      "sentence": "(b) Collection and development of verified data within database to increase confidence in analysis and reported results and provide measures of partner data quality and reporting accuracy;",
+      "practice": "master health service functionality database with verified data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: health service functionality database | Not routine: consolidates donor data with quality checks | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: master functionality database | Innovative: cross-donor verified data with quality checks | Category: data system",
+      "keywords_hit": "data quality;humanitarian",
+      "innovation_cues": "",
+      "innovation_basis": "New product: cross-donor verified functionality database - cue: 'data quality'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E3",
+      "approach_id": "P168926-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U78",
+      "para_no": 75,
+      "sentence_position": 610,
+      "char_start": 106885,
+      "char_end": 106999,
+      "sentence": "(c) Generation of monthly health service functionality bulletin and implementing partner data performance reports;",
+      "practice": "master health service functionality database with verified data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: health service functionality database | Not routine: consolidates donor data with quality checks | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: master functionality database | Innovative: cross-donor verified data with quality checks | Category: data system",
+      "keywords_hit": "data quality;humanitarian",
+      "innovation_cues": "",
+      "innovation_basis": "New product: cross-donor verified functionality database - cue: 'data quality'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E4",
+      "approach_id": "P168926-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U80",
+      "para_no": 77,
+      "sentence_position": 622,
+      "char_start": 108846,
+      "char_end": 109068,
+      "sentence": "Innovative technologies such as use of mobile and geotagged data through the Kobo Toolbox platform will be applied to strengthen the quality and comprehensiveness of said third-party monitoring and verification mechanisms.",
+      "practice": "mobile geotagged data via Kobo Toolbox for third-party monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Kobo Toolbox mobile geotagged data | Not routine: geotagged verification of partner reports | Adoption: 'will be applied'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Kobo Toolbox geotagged mobile data | Innovative: geotagged verification of partner reports | Category: mobile data tool",
+      "keywords_hit": "methodolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: geotagged mobile verification of results - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E5",
+      "approach_id": "P168926-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U95",
+      "para_no": null,
+      "sentence_position": 744,
+      "char_start": 130302,
+      "char_end": 130605,
+      "sentence": "Moving forward, the new operation will ensure that monitoring mechanisms, such as geotagged images and barcode scans, ensure clarity in the delivery and availability of critical inputs to health services, despite the World Bank’s limitations in being able to conduct hands-on monitoring and supervision.",
+      "practice": "Geotagged images and barcode scans verifying drug delivery",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: geotagged images, barcode scans | Not routine: replaces hands-on supervision in conflict | Adoption: 'will ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geotagged images, barcode scans | Innovative: verifies last-mile drug delivery remotely | Category: remote verification tool",
+      "keywords_hit": "last mile;last-mile;survey",
+      "innovation_cues": "last-mile delivery",
+      "innovation_basis": "New process: geotagged/barcode verification of drug last-mile delivery - cue: 'last-mile delivery'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E6",
+      "approach_id": "P168926-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U95",
+      "para_no": null,
+      "sentence_position": 742,
+      "char_start": 129971,
+      "char_end": 130175,
+      "sentence": "(e) Modernize verification of delivery of pharmaceuticals: Drug procurement and distribution is currently functioning quite well up until “last mile delivery,” the latter constituting an unsolved problem.",
+      "practice": "Geotagged images and barcode scans verifying drug delivery",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: geotagged images, barcode scans | Not routine: replaces hands-on supervision in conflict | Adoption: 'will ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geotagged images, barcode scans | Innovative: verifies last-mile drug delivery remotely | Category: remote verification tool",
+      "keywords_hit": "last mile;last-mile;survey",
+      "innovation_cues": "last-mile delivery",
+      "innovation_basis": "New process: geotagged/barcode verification of drug last-mile delivery - cue: 'last-mile delivery'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E7",
+      "approach_id": "P168926-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U112",
+      "para_no": null,
+      "sentence_position": 885,
+      "char_start": 153562,
+      "char_end": 153800,
+      "sentence": "In hard to reach areas where the independent monitor may not be able to access, ICRC will apply enhanced monitoring and data collection approaches that triangulate programmatic and georeferenced data on project implementation and results.",
+      "practice": "ICRC georeferenced data triangulation for hard-to-reach monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: georeferenced implementation data | Not routine: covers inaccessible conflict areas | Adoption: 'will apply'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Device Magic geo-tagged photos, barcode scans, GPS logs | Innovative: triangulated verification where monitors cannot reach | Category: Technological",
+      "keywords_hit": "accessibility;data collection;geo-referenced;georeferenced;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: multi-source georeferenced triangulation substitutes for independent monitors in inaccessible conflict zones",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E8",
+      "approach_id": "P168926-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U113",
+      "para_no": null,
+      "sentence_position": 888,
+      "char_start": 154089,
+      "char_end": 154310,
+      "sentence": "To strengthen monitoring activities in the project zones the project will harness disruptive technologies for FCV contexts in collaboration with the Geo-enabling for Monitoring and Supervision (GEMS) initiative (P167344).",
+      "practice": "Kobo Toolbox GPS-stamped monitoring of monitors (GEMS)",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Kobo Toolbox GPS data capture | Not routine: verifies monitors in FCV context | Adoption: 'will harness'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Kobo GPS/time-stamped forms | Innovative: verifies monitors in FCV zones | Category: data-capture tool",
+      "keywords_hit": "FCV;GPS;anonymi;conflict;humanitarian",
+      "innovation_cues": "disruptive",
+      "innovation_basis": "New process: GPS/time-stamped 'monitoring of monitors' - cue: 'disruptive technologies'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E9",
+      "approach_id": "P168926-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U113",
+      "para_no": null,
+      "sentence_position": 889,
+      "char_start": 154311,
+      "char_end": 154447,
+      "sentence": "The GEMS method is an ideal add-on to project monitoring as it allows for 'monitoring of the monitors' through a very simple approach28.",
+      "practice": "Kobo Toolbox GPS-stamped monitoring of monitors (GEMS)",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Kobo Toolbox GPS data capture | Not routine: verifies monitors in FCV context | Adoption: 'will harness'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Kobo GPS/time-stamped forms | Innovative: verifies monitors in FCV zones | Category: data-capture tool",
+      "keywords_hit": "FCV;GPS;anonymi;conflict;humanitarian",
+      "innovation_cues": "disruptive",
+      "innovation_basis": "New process: GPS/time-stamped 'monitoring of monitors' - cue: 'disruptive technologies'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E10",
+      "approach_id": "P168926-A1",
+      "evidence_no": 10,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U113",
+      "para_no": null,
+      "sentence_position": 891,
+      "char_start": 154552,
+      "char_end": 154706,
+      "sentence": "Moreover, the date, time and global positioning system (GPS) data cannot be manipulated, allowing to always know when and where the monitoring was active.",
+      "practice": "Kobo Toolbox GPS-stamped monitoring of monitors (GEMS)",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Kobo Toolbox GPS data capture | Not routine: verifies monitors in FCV context | Adoption: 'will harness'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Kobo GPS/time-stamped forms | Innovative: verifies monitors in FCV zones | Category: data-capture tool",
+      "keywords_hit": "FCV;GPS;anonymi;conflict;humanitarian",
+      "innovation_cues": "disruptive",
+      "innovation_basis": "New process: GPS/time-stamped 'monitoring of monitors' - cue: 'disruptive technologies'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E11",
+      "approach_id": "P168926-A1",
+      "evidence_no": 11,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U114",
+      "para_no": null,
+      "sentence_position": 897,
+      "char_start": 155746,
+      "char_end": 156012,
+      "sentence": "Once common definitions for variables are defined, analytical software will be used to clean and merge the respective datasets into one, definitive health service functionality database to produce nationwide analysis on health service availability and functionality.",
+      "practice": "Merged health service functionality database with analytic dashboard",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: merged database and dashboard | Not routine: unifies donor/humanitarian data | Adoption: 'will be built'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: merged functionality database linked to DHIS2 | Innovative: unifies donor/humanitarian data | Category: data platform",
+      "keywords_hit": "dashboard;data collection;data quality;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New product: nationwide merged functionality database and dashboard - cue: 'dashboard'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    },
+    {
+      "row_id": "P168926-A1-E12",
+      "approach_id": "P168926-A1",
+      "evidence_no": 12,
+      "number_of_evidence": 12,
+      "project_id": "P168926",
+      "doc_id": "885611551582069381",
+      "doc_type": "PAD",
+      "doc_date": "2019-02-12",
+      "file_name": "P168926_PAD_2019-02-12_885611551582069381.txt",
+      "unit_id": "U114",
+      "para_no": null,
+      "sentence_position": 898,
+      "char_start": 156013,
+      "char_end": 156188,
+      "sentence": "Over time, this database will be linked to DHIS2 and an analytic dashboard will be built to allow for users to view service availability in locations of interest on their own.",
+      "practice": "Merged health service functionality database with analytic dashboard",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: merged database and dashboard | Not routine: unifies donor/humanitarian data | Adoption: 'will be built'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: merged functionality database linked to DHIS2 | Innovative: unifies donor/humanitarian data | Category: data platform",
+      "keywords_hit": "dashboard;data collection;data quality;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New product: nationwide merged functionality database and dashboard - cue: 'dashboard'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "a7b1b6de"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 312,
+      "char_start": 53115,
+      "char_end": 53247,
+      "sentence": "Upon submission of quarterly reports, the CSDO received a lump sum payment based on satisfactory performance on specific indicators.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "third-party counter-verified performance-based NGO contracts",
+      "reason": "reject: Performance-based NGO contracts with third-party verification; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: results-linked payments verified by third-party monitor - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance-based NGO contracts with third-party verification; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1888
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 521,
+      "char_start": 90695,
+      "char_end": 91056,
+      "sentence": "(g) Disease surveillance and outbreak response: In line with the nationwide Integrated Disease Surveillance Response (IDSR) and Early Warning Alert and Response (EWARS) systems, partners will collect data from health facilities; and participate in field investigations and activities to respond to outbreaks such as cholera, viral hemorrhage fever, and malaria.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "IDSR/EWARS facility-based disease surveillance and outbreak alert data",
+      "reason": "reject: IDSR/EWARS national surveillance is routine partner participation, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: facility surveillance data feeding outbreak response - cue: 'early-warning'",
+      "innovation_cues": "early-warning;integrated approach",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "IDSR/EWARS national surveillance is routine partner participation, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1409
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 530,
+      "char_start": 92843,
+      "char_end": 93005,
+      "sentence": "Moreover, innovative new cold chain devices (such as the Arktek cold box) will be used to ensure the delivery of safe, potent vaccines at service delivery points.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Arktek cold box vaccine cold chain at service points",
+      "reason": "reject: Arktek passive cold box is a physical device, not digital/data/AI",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: passive cold-chain device for remote vaccine delivery - cue: 'innovative'",
+      "innovation_cues": "agile;innovative;integrated approach",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Arktek passive cold box is a physical device, not digital/data/AI",
+          "reject_code": "not_digital",
+          "context_chars": 2492
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 601,
+      "char_start": 105439,
+      "char_end": 105700,
+      "sentence": "The proposed approach builds on experience from HRRP’s external monitoring which included Lot Quality Assurance Surveys (LQAS), Quarterly Verification Visits and health information system assessments and will include contracting of third-party monitor agencies.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "third-party monitoring with LQAS and verification visits",
+      "reason": "reject: Third-party monitoring with LQAS and verification visits is standard MDB supervision practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: contracted third-party monitors verify results - cue: 'cross-sectoral'",
+      "innovation_cues": "cross-sectoral",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Third-party monitoring with LQAS and verification visits is standard MDB supervision practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1476
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 604,
+      "char_start": 105944,
+      "char_end": 106080,
+      "sentence": "Efforts have been made to develop a common monitoring mechanism across the HPF and World Bank- supported zones for the period 2019-2020.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "shared performance monitoring mechanism across HPF and Bank zones",
+      "reason": "reject: Joint donor monitoring methodology; no digital system or data tool named",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: joint donor-Bank monitoring methodology - cue: 'jointly designed'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Joint donor monitoring methodology; no digital system or data tool named",
+          "reject_code": "not_digital",
+          "context_chars": 576
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 626,
+      "char_start": 109441,
+      "char_end": 109726,
+      "sentence": "Given these challenges, a robust monitoring and reporting approach has been jointly designed with ICRC that will maximize use of data, geo-referenced where possible, to provide the clearest objective picture possible regarding implementation of project activities and results achieved.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "geo-referenced monitoring data for ICRC-supported facilities",
+      "reason": "reject: Geo-referenced monitoring data is standard MDB third-party monitoring practice; no named new system beyond routine reporting",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geo-referenced data replaces external access - cue: 'geo-referenced'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear what geo-referenced data system is used and whether it is new versus routine ICRC monitoring",
+          "reject_code": "",
+          "context_chars": 756
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Geo-referenced monitoring data is standard MDB third-party monitoring practice; no named new system beyond routine reporting",
+          "reject_code": "not_innovative",
+          "context_chars": 16477
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 847,
+      "char_start": 147755,
+      "char_end": 148091,
+      "sentence": "Routine monthly and quarterly data collected via facility reports that will be aggregated for the project’s quarterly and annual indicators and be linked to the extent possible to the District Health Information System (DHIS) 2 system that is being scaled up with support from various partners (Global Fund, WHO, this proposed project).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Facility reports linked to DHIS2 national health information system",
+      "reason": "reject: Linking facility reports to national DHIS2 is routine health information system practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: facility data linked to national DHIS2 - cue: 'scaled-up'",
+      "innovation_cues": "scaled-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Linking facility reports to national DHIS2 is routine health information system practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1409
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 854,
+      "char_start": 149189,
+      "char_end": 149258,
+      "sentence": "(iv) facility on-site verification including patient exit interviews;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "LQAS surveys and exit interviews for health coverage monitoring",
+      "reason": "reject: LQAS surveys and exit interviews are standard M&E methods, not a new digital practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: LQAS coverage surveys plus exit interviews - cue: 'monitoring system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "LQAS surveys and exit interviews are standard M&E methods, not a new digital practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1221
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 900,
+      "char_start": 156647,
+      "char_end": 156858,
+      "sentence": "The verification visits will provide an accuracy rate for health service reporting that will estimate the level of confidence one can place on reports from a specific geographic location or implementing partner.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Unannounced verification visits producing partner data accuracy rates",
+      "reason": "reject: Unannounced facility visits are a manual process; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: data-quality verification of partner reports - cue: 'verification visits'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Unannounced facility visits are a manual process; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1402
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 909,
+      "char_start": 159023,
+      "char_end": 159338,
+      "sentence": "(g) LQAS to measure coverage of key health service delivery indicators: National LQAS surveys will be conducted with the aim of producing information that can be rapidly interpreted and used by development partners to identify which counties reach or do not reach anticipated coverage rates for key health services.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "LQAS surveys for rapid county coverage assessment",
+      "reason": "reject: LQAS is a survey sampling method; no digital system or data tool is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: rapid lot quality coverage surveys - cue: 'rapidly interpreted'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "LQAS is a survey sampling method; no digital system or data tool is the core",
+          "reject_code": "not_digital",
+          "context_chars": 1288
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 918,
+      "char_start": 161205,
+      "char_end": 161340,
+      "sentence": "Newly developed in-house technologies (such as using the Device Magic30 program) allow for robust monitoring and reporting within ICRC.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Device Magic offline data capture for ICRC monitoring",
+      "reason": "reject: ICRC's own in-house Device Magic tool, not a World Bank project practice",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New product: offline mobile data capture in remote areas - cue: 'newly developed'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ICRC's own in-house Device Magic tool, not a World Bank project practice",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1340
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 925,
+      "char_start": 162509,
+      "char_end": 162796,
+      "sentence": "The monitoring mechanisms include the following: (a) Geo-tagged pictures of health care facilities (the acceptability of geo-tagged pictures will need to be cleared with the relevant authorities, whilst photography of individuals is prohibited by ICRC rules for security considerations);",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geo-tagged photos and GPS vehicle logs verifying ICRC deliveries",
+      "reason": "reject: ICRC's own geo-tagging and GPS logs, not financed or implemented by this project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: geo-tagged proof of supply delivery - cue: 'geo-tagged'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ICRC's own geo-tagging and GPS logs, not financed or implemented by this project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1265
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 947,
+      "char_start": 166264,
+      "char_end": 166568,
+      "sentence": "Using ex-post verification mechanisms including third-party monitoring will ensure credible implementation of the project activities, as well learning from data from the project that will contribute to health sector policies and potential future World Bank engagement in the South Sudanese health sector.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "third-party monitoring with ex-post verification of health service delivery",
+      "reason": "reject: Third-party monitoring is a delivery arrangement; no named digital system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: third-party ex-post verification in conflict setting - cue: 'guarantee'",
+      "innovation_cues": "guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Third-party monitoring is a delivery arrangement; no named digital system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 1346
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 1333,
+      "char_start": 228000,
+      "char_end": 229130,
+      "sentence": "health facilities submitting standardized HMIS monthly reports into the DHIS2 or HMIS equivalent system 60.00 75.00 within one month of the reporting month (Percentage) Proportion of health facilities with structured supervision visit 40.00 70.00 within a month (Percentage) Number of monitoring reports submitted (Number) 0.00 6.00 Emergency Preparedness and Response Number of state-level Rapid Response Teams trained on investigation of alerts and immediate outbreak response 0.00 10.00 (Number) IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection UNICEF and Data on indicator will People who have received essential ICRC be collected from Quarterly UNICEF and ICRC health, nutrition, and population (HNP) quarterly imp health facility registers services lementation and DHIS2 database. progress ICRC and UNICEF will Page 64 of 97 The World Bank Provision of Essential Health Services Project (P168926) reports. report on indicator in quarterly implementati on progress reports.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DHIS2-based HMIS monthly reporting for facility results monitoring",
+      "reason": "reject: Standard DHIS2 HMIS reporting used as routine M&E data source",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: DHIS2-verified facility reporting for results - cue: 'DHIS2'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard DHIS2 HMIS reporting used as routine M&E data source",
+          "reject_code": "not_innovative",
+          "context_chars": 1501
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 1343,
+      "char_start": 230926,
+      "char_end": 231099,
+      "sentence": "Data on indicator will UNICEF and be collected from Availability of 5 tracer drugs ICRC health facility registers during supervision visits quarterly imp and DHIS2 database.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DHIS2 and facility registers for tracer-drug availability verification",
+      "reason": "reject: Routine DHIS2/register data collection for indicators, standard M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: DHIS2-based drug availability verification - cue: 'DHIS2'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine DHIS2/register data collection for indicators, standard M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1727
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 1355,
+      "char_start": 236557,
+      "char_end": 236826,
+      "sentence": "UNICEF and Data on indicator will ICRC will Proportion of functional be crosschecked report Proportion of functional health facilities health facilities submitting in DHIS2 or equivalent aggregate submitting standardized HMIS monthly standardized HMIS monthly database.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DHIS2 crosschecking of standardized HMIS facility reporting",
+      "reason": "reject: Standard DHIS2 crosscheck of HMIS reporting timeliness, routine M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: DHIS2 crosscheck of HMIS timeliness - cue: 'DHIS2'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard DHIS2 crosscheck of HMIS reporting timeliness, routine M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1438
+        }
+      ]
+    },
+    {
+      "guid": "885611551582069381",
+      "doc_type": "PAD",
+      "position": 1360,
+      "char_start": 238039,
+      "char_end": 238310,
+      "sentence": "The verification activities. performance monitoring Page 71 of 97 The World Bank Provision of Essential Health Services Project (P168926) methodology and reports will include citizen engagement mechanisms such as exit interviews conducted during data verification visits.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "exit-interview citizen feedback in third-party monitoring verification",
+      "reason": "reject: Exit interviews are a manual feedback mechanism; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: citizen feedback embedded in verification visits - cue: 'citizen engagement mechanisms'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Exit interviews are a manual feedback mechanism; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1303
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 19,
+    "input_tokens": 31379,
+    "cached_tokens": 87805,
+    "cache_write_tokens": 0,
+    "output_tokens": 7333,
+    "seconds": 58.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0187
+  }
+}

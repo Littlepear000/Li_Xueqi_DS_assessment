@@ -1,0 +1,347 @@
+{
+  "project_id": "P177632",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "baad67d3",
+  "started_at": "2026-11-07T03:33:51Z",
+  "ended_at": "2026-11-07T03:34:03Z",
+  "input_fingerprint": "7a0b044d436124bc",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 18,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P177632",
+      "doc_type": "ProgramDocument",
+      "doc_date": "2022-04-01",
+      "guid": "218441651270845755",
+      "file_name": "P177632_ProgramDocument_2022-04-01_218441651270845755.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:33:51Z",
+      "ended_at": "2026-11-07T03:33:51Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 1 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:51Z",
+      "ended_at": "2026-11-07T03:33:51Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-04-28, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:51Z",
+      "ended_at": "2026-11-07T03:33:52Z",
+      "status": "ok",
+      "note": "18 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 18,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 2,
+          "innovation_types": 4,
+          "innovation": 5,
+          "enabling_technologies": 2,
+          "enabling_processes": 3,
+          "results_based_management": 1,
+          "innovation_cycle": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:52Z",
+      "ended_at": "2026-11-07T03:33:52Z",
+      "status": "ok",
+      "note": "ProgramDocument 2022-04-01 (P177632_ProgramDocument_2022-04-01_218441651270845755.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P177632",
+            "doc_type": "ProgramDocument",
+            "doc_date": "2022-04-01",
+            "guid": "218441651270845755",
+            "file_name": "P177632_ProgramDocument_2022-04-01_218441651270845755.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:52Z",
+      "ended_at": "2026-11-07T03:33:52Z",
+      "status": "ok",
+      "note": "183 reading units (26 numbered paragraphs) from 1487 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 183
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:52Z",
+      "ended_at": "2026-11-07T03:33:56Z",
+      "status": "ok",
+      "note": "35 of 183 units carry a digital / AI cue (7 also an innovation cue); 0 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 35,
+        "dropped": 0,
+        "legal_condition": 0,
+        "with_innovation_cue": 7
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:56Z",
+      "ended_at": "2026-11-07T03:34:01Z",
+      "status": "ok",
+      "note": "4 candidate practices from 35 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 118876,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 886,
+          "cached_tokens": 25984,
+          "cache_write_tokens": 0,
+          "output_tokens": 1150,
+          "seconds": 9.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "extracted": 4
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:34:01Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "ok",
+      "note": "0 accepted, 4 rejected (background_or_other_programme 4); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 23505,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1975,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 216,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0009
+        },
+        "accepted": 0,
+        "rejected": 4,
+        "expanded": 0,
+        "reject_codes": {
+          "background_or_other_programme": 4
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:34:03Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:34:03Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:34:03Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:34:03Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 4 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:34:03Z",
+      "ended_at": "2026-11-07T03:34:03Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 178
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "218441651270845755",
+      "doc_type": "ProgramDocument",
+      "position": 463,
+      "char_start": 79091,
+      "char_end": 79205,
+      "sentence": "A digital platform was made available to enable popular participation in the construction of the Pluriannual Plan.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Digital platform for public consultation on state multiannual plan",
+      "reason": "reject: Describes Goiás government's own PPA consultation, not a project-financed practice",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: online citizen input into state planning - cue: 'digital platform'",
+      "innovation_cues": "transformative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Describes Goiás government's own PPA consultation, not a project-financed practice",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1305
+        }
+      ]
+    },
+    {
+      "guid": "218441651270845755",
+      "doc_type": "ProgramDocument",
+      "position": 694,
+      "char_start": 116812,
+      "char_end": 117048,
+      "sentence": "Page 40 The World Bank State of Goiás Sustainable Recovery DPF (P177632) the State’s Environmental Geographic Information System (SIGA),41 capable of providing real-time information on a vast array of environmental-sensitive activities.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SIGA environmental geographic information system for real-time monitoring",
+      "reason": "reject: State's existing SIGA monitoring system described as context, not project activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: real-time GIS monitoring of environmental activities - cue: 'low-carbon'",
+      "innovation_cues": "low-carbon",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "State's existing SIGA monitoring system described as context, not project activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "218441651270845755",
+      "doc_type": "ProgramDocument",
+      "position": 756,
+      "char_start": 129729,
+      "char_end": 130030,
+      "sentence": "This system includes an integrated environmental portal linking all computerized systems, transparency tools, access to services and data related to the State's environmental management procedures to provide for greater participation and easier access for businesses to environmental control agencies.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "IPÊ integrated environmental licensing portal",
+      "reason": "reject: Prior state law creating IPÊ portal, cited as country context not project action",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New delivery arrangement: integrated online licensing portal - cue: 'portal'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Prior state law creating IPÊ portal, cited as country context not project action",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1316
+        }
+      ]
+    },
+    {
+      "guid": "218441651270845755",
+      "doc_type": "ProgramDocument",
+      "position": 1077,
+      "char_start": 180501,
+      "char_end": 180752,
+      "sentence": "As a way of facilitating the application of the MMD-QATC, the TCE-GO developed an innovative work methodology that includes embedding the processing of the stages of application of the MMD-QATC in its own system (Management and Planning System - SGP).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "SGP system embedding MMD-QATC audit-court performance indicators",
+      "reason": "reject: TCE-GO's own SGP/Sistema Aprimore initiative, not financed by this DPF",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: audit-court performance indicators tracked in own system - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "TCE-GO's own SGP/Sistema Aprimore initiative, not financed by this DPF",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1402
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 5,
+    "input_tokens": 2861,
+    "cached_tokens": 28928,
+    "cache_write_tokens": 0,
+    "output_tokens": 1366,
+    "seconds": 11.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0027
+  }
+}

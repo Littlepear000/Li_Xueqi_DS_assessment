@@ -1,0 +1,798 @@
+{
+  "project_id": "P513322",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "c97a1008",
+  "started_at": "2026-11-07T03:39:42Z",
+  "ended_at": "2026-11-07T03:40:06Z",
+  "input_fingerprint": "6e31e376c6201108",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 30,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P513322-A1",
+      "project_id": "P513322",
+      "name": "Unified digital system for processing and distributing social benefits",
+      "description": "Project creates a single system to process and pay all social benefits, replacing fragmented administration.",
+      "why_innovative": "Consolidates fragmented benefit administration into single payment agency | category Operational; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051826154034278",
+        "doc_type": "PAD",
+        "doc_date": "2026-05-14",
+        "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+        "char_start": 23225,
+        "char_end": 23477,
+        "text": "(iv) modernization of disability assessment and improvement of disability support aligned with international standards; and (v) improved administrative efficiency through the creation of a unified system for processing and distributing social benefits.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099051826154034278",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-14",
+          "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+          "char_start": 22786,
+          "char_end": 23056,
+          "text": "The proposed SPIRIT project advances a cohesive and transformative social protection agenda across five interconnected priorities: (i) introduction of Basic Social Assistance (BSA) with integrated case management linking cash transfers to social and employment services;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers benefit delivery administration, not a new technology per se",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Core social protection delivery: unified processing and payment of social benefits.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: PFU IMIS unified payment | Innovative: consolidates 39 benefits, nationwide portability | Category: delivery re-engineering",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Consolidates fragmented benefit administration into single payment agency",
+      "innovation_cues": [
+        "innovation",
+        "transformative"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P513322",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-14",
+      "guid": "099051826154034278",
+      "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:39:42Z",
+      "ended_at": "2026-11-07T03:39:43Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:43Z",
+      "ended_at": "2026-11-07T03:39:43Z",
+      "status": "ok",
+      "note": "in scope (approved 2026-05-28, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:43Z",
+      "ended_at": "2026-11-07T03:39:43Z",
+      "status": "ok",
+      "note": "30 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 30,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 5,
+          "innovation_cycle": 9,
+          "innovation_types": 6,
+          "results_based_management": 2,
+          "enabling_processes": 3,
+          "enabling_technologies": 5
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:43Z",
+      "ended_at": "2026-11-07T03:39:43Z",
+      "status": "ok",
+      "note": "PAD 2026-05-14 (P513322_PAD_2026-05-14_099051826154034278.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P513322",
+            "doc_type": "PAD",
+            "doc_date": "2026-05-14",
+            "guid": "099051826154034278",
+            "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:43Z",
+      "ended_at": "2026-11-07T03:39:43Z",
+      "status": "ok",
+      "note": "110 reading units (9 numbered paragraphs) from 837 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 110
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:43Z",
+      "ended_at": "2026-11-07T03:39:45Z",
+      "status": "ok",
+      "note": "53 of 110 units carry a digital / AI cue (31 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 53,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 31
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:45Z",
+      "ended_at": "2026-11-07T03:39:51Z",
+      "status": "ok",
+      "note": "13 candidate practices from 53 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 177280,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1028,
+          "cached_tokens": 35839,
+          "cache_write_tokens": 0,
+          "output_tokens": 2790,
+          "seconds": 20.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0039
+        },
+        "extracted": 13
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:51Z",
+      "ended_at": "2026-11-07T03:40:00Z",
+      "status": "ok",
+      "note": "5 accepted, 8 rejected (not_digital 4, not_innovative 3, legal_or_compliance_condition 1); 7 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 218442,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 32611,
+          "cached_tokens": 9856,
+          "cache_write_tokens": 0,
+          "output_tokens": 1133,
+          "seconds": 10.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0112
+        },
+        "accepted": 5,
+        "rejected": 8,
+        "expanded": 7,
+        "reject_codes": {
+          "not_digital": 4,
+          "not_innovative": 3,
+          "legal_or_compliance_condition": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:40:00Z",
+      "ended_at": "2026-11-07T03:40:02Z",
+      "status": "ok",
+      "note": "5 of 5 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1699,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 362,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 184,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:40:02Z",
+      "ended_at": "2026-11-07T03:40:03Z",
+      "status": "ok",
+      "note": "5 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1783,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 384,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 106,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 2,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:40:03Z",
+      "ended_at": "2026-11-07T03:40:06Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 2 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7361,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 797,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 205,
+          "seconds": 2.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:40:06Z",
+      "ended_at": "2026-11-07T03:40:06Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 12 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:40:06Z",
+      "ended_at": "2026-11-07T03:40:06Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 302
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P513322-A1-E1",
+      "approach_id": "P513322-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P513322",
+      "doc_id": "099051826154034278",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-14",
+      "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+      "unit_id": "U15",
+      "para_no": 5,
+      "sentence_position": 100,
+      "char_start": 23225,
+      "char_end": 23477,
+      "sentence": "(iv) modernization of disability assessment and improvement of disability support aligned with international standards; and (v) improved administrative efficiency through the creation of a unified system for processing and distributing social benefits.",
+      "practice": "Unified digital system for processing and distributing social benefits",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: unified benefit processing system | Not routine: consolidates fragmented payment administration | Adoption: 'improved administrative efficiency through the creation'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PFU IMIS unified payment | Innovative: consolidates 39 benefits, nationwide portability | Category: delivery re-engineering",
+      "keywords_hit": "persons with disabilities",
+      "innovation_cues": "innovation;transformative",
+      "innovation_basis": "Consolidates fragmented benefit administration into single payment agency",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c97a1008"
+    },
+    {
+      "row_id": "P513322-A1-E2",
+      "approach_id": "P513322-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P513322",
+      "doc_id": "099051826154034278",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-14",
+      "file_name": "P513322_PAD_2026-05-14_099051826154034278.txt",
+      "unit_id": "U15",
+      "para_no": 5,
+      "sentence_position": 97,
+      "char_start": 22786,
+      "char_end": 23056,
+      "sentence": "The proposed SPIRIT project advances a cohesive and transformative social protection agenda across five interconnected priorities: (i) introduction of Basic Social Assistance (BSA) with integrated case management linking cash transfers to social and employment services;",
+      "practice": "Unified digital system for processing and distributing social benefits",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: unified benefit processing system | Not routine: consolidates fragmented payment administration | Adoption: 'improved administrative efficiency through the creation'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PFU IMIS unified payment | Innovative: consolidates 39 benefits, nationwide portability | Category: delivery re-engineering",
+      "keywords_hit": "persons with disabilities",
+      "innovation_cues": "innovation;transformative",
+      "innovation_basis": "Consolidates fragmented benefit administration into single payment agency",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c97a1008"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 149,
+      "char_start": 31866,
+      "char_end": 32021,
+      "sentence": "A crisisresponse package for families facing displacement, evacuation, or natural disasters will enable rapid enrollment of populations affected by shocks.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Crisis-response package for rapid enrollment of shock-affected families",
+      "reason": "reject: Rapid enrollment package; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: shock-responsive rapid enrollment into safety net - cue: 'piloting'",
+      "innovation_cues": "piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Rapid enrollment package; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1606
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 152,
+      "char_start": 32337,
+      "char_end": 32565,
+      "sentence": "The project tackles the low coverage and institutional bias of social services by introducing a financing model that channels state budget resources to nationally prioritized services through a competitive procurement mechanism.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "competitive procurement purchasing agency for social services",
+      "reason": "reject: Competitive procurement financing model; no digital system involved",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: state funds buy services competitively - cue: 'innovation'",
+      "innovation_cues": "guarantee;innovation;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Competitive procurement financing model; no digital system involved",
+          "reject_code": "not_digital",
+          "context_chars": 2049
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 342,
+      "char_start": 64413,
+      "char_end": 64541,
+      "sentence": "IMIS facilitates data exchange both internally and with more than 20 public registries managed by different government agencies.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "IMIS registry interoperability for beneficiary eligibility verification",
+      "reason": "reject: IMIS cross-registry data exchange is existing PFU infrastructure, not project innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: cross-registry data exchange for eligibility verification - cue: 'data exchange'",
+      "innovation_cues": "innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "IMIS described as existing system; unclear whether SPIRIT finances the interoperability",
+          "reject_code": "",
+          "context_chars": 1655
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "IMIS cross-registry data exchange is existing PFU infrastructure, not project innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 49336
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 380,
+      "char_start": 70537,
+      "char_end": 70723,
+      "sentence": "The disability assessment pilot will test systems’ performance, assess fiscal impacts, and fine‑tune eligibility criteria, strengthening institutional capacity ahead of national rollout.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "disability assessment pilot before nationwide rollout",
+      "reason": "reject: Pilot-before-scale-up process; no digital system named as core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: structured pilot testing reform before scale-up - cue: 'pilot'",
+      "innovation_cues": "pilot;pilots;results-based;results-based financing",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Pilot-before-scale-up process; no digital system named as core",
+          "reject_code": "not_digital",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 471,
+      "char_start": 83371,
+      "char_end": 83588,
+      "sentence": "Digitization and database interoperability are projected to reduce the number of applications requiring caseworker follow-up by up to 60 percent, freeing human resources for social service provision to BSA recipients.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "database interoperability to cut caseworker application follow-up",
+      "reason": "reject: Projected efficiency gain from interoperability; no specific new system described",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: interoperable databases automate eligibility checks - cue: 'interoperability'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Projected efficiency gain from interoperability; no specific new system described",
+          "reject_code": "not_innovative",
+          "context_chars": 1387
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 489,
+      "char_start": 86256,
+      "char_end": 86485,
+      "sentence": "Under the SPIRIT project, integrated case management will be introduced within the BSA, including a crisis‑response package for families facing long‑term or sudden shocks (displacement, evacuation, natural or man‑made disasters).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "integrated case management with crisis-response package in BSA",
+      "reason": "reject: Crisis-response case management package; digital systems only mentioned as existing ASP background",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: integrated case management with crisis response - cue: 'adaptive'",
+      "innovation_cues": "adaptive",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Combines existing ASP features with case management; unclear which digital element is new",
+          "reject_code": "",
+          "context_chars": 1210
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Crisis-response case management package; digital systems only mentioned as existing ASP background",
+          "reject_code": "not_digital",
+          "context_chars": 28956
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 592,
+      "char_start": 102700,
+      "char_end": 102769,
+      "sentence": "The project will be onboarded to the FundsChain platform by the Bank.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "FundsChain blockchain tracking of IPF commitments and disbursements",
+      "reason": "reject: Bank-wide FundsChain onboarding; standard corporate financial platform, not project innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: blockchain traceability of IPF disbursements - cue: 'traceability'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Bank-wide FundsChain onboarding; standard corporate financial platform, not project innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1333
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 814,
+      "char_start": 150805,
+      "char_end": 151264,
+      "sentence": "The Bank team will validate the verified results presented by the MoSPFU for disbursement The MoSPFU (i) submits evidence to the World Bank demonstrating the adoption of the Law of Ukraine on Procedure comprehensive assessments of functional limitations, and (ii) collects data from its registries on the number of persons with disabilities assessed using the new disability determination methodology aligned with the ICF, and submits this report to the Bank.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Registry-based tracking of ICF disability assessments",
+      "reason": "reject: Registry data reporting is a disbursement verification condition, not a new practice",
+      "reject_code": "legal_or_compliance_condition",
+      "innovation_basis": "New process: registry data verifies ICF-based assessments - cue: 'registries'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Registry data reporting is a disbursement verification condition, not a new practice",
+          "reject_code": "legal_or_compliance_condition",
+          "context_chars": 1273
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 146,
+      "char_start": 31214,
+      "char_end": 31439,
+      "sentence": "The project will support piloting an integrated model that links centralized social assistance with decentralized service delivery through case management, beneficiary-profiled support packages, and inter-agency coordination.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Integrated case management linking cash transfers to social services",
+      "reason": "reject: final check round 1: digital: incidental - Digital: case management model, digital tools support but approach is service design | Before 2019: integrated case management piloted in WBG/UN social protection operations",
+      "reject_code": "not_digital",
+      "innovation_basis": "Case-managed cash-plus-services with cross-agency referrals and six vulnerability profiles",
+      "innovation_cues": "piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Case management described as social-worker process; unclear whether a digital system is the core",
+          "reject_code": "",
+          "context_chars": 1606
+        },
+        {
+          "round": 2,
+          "verdict": "accept",
+          "reason": "Digital core: case management MIS linking BSA to services | Innovative: cross-agency case management | Category: new delivery arrangement",
+          "reject_code": "",
+          "context_chars": 3448
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: case management model, digital tools support but approach is service design | Before 2019: integrated case management piloted in WBG/UN social protection operations",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 803,
+      "char_start": 148235,
+      "char_end": 148382,
+      "sentence": "PBC 8: The Borrower has launched a pilot in a social field for assessing functioning of a person, aligned with the ICF, through the CoM Resolution.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "ICF-aligned functioning assessment pilot refining tools, workflows and IT systems before national rollout",
+      "reason": "reject: final check round 1: digital: incidental - Digital: case management model, digital tools support but approach is service design | Before 2019: integrated case management piloted in WBG/UN social protection operations",
+      "reject_code": "not_digital",
+      "innovation_basis": "Structured pilot of new disability certification system before nationwide scale-up",
+      "innovation_cues": "innovation;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "PBC pilot funded by GoU; unclear whether SPIRIT finances the IT systems",
+          "reject_code": "",
+          "context_chars": 1533
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: ICF pilot IT systems | Innovative: pilot-before-rollout of certification | Category: pilot tranche",
+          "reject_code": "",
+          "context_chars": 25148
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: case management model, digital tools support but approach is service design | Before 2019: integrated case management piloted in WBG/UN social protection operations",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 162,
+      "char_start": 34387,
+      "char_end": 34633,
+      "sentence": "The project supports the modernization of disability assessment by transitioning to a person-centered, functioning-based system aligned with the World Health Organization’s International Classification of Functioning, Disability and Health (ICF).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ICF-based unified functioning assessment mechanism for disability determination",
+      "reason": "reject: final check round 1: digital: incidental - Digital: ICF assessment tools/procedures, not a digital system per se | Before 2019: ICF-based disability assessment supported in WBG/UN projects (e.g. Croatia, Moldova)",
+      "reject_code": "not_digital",
+      "innovation_basis": "Replaces medical-model disability categories with ICF biopsychosocial assessment",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "ICF assessment described as methodology; unclear whether digital tools/IT systems are financed",
+          "reject_code": "",
+          "context_chars": 2417
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: ICF assessment tools and records | Innovative: biopsychosocial replaces medical model | Category: new assessment technology",
+          "reject_code": "",
+          "context_chars": 2417
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: ICF assessment tools/procedures, not a digital system per se | Before 2019: ICF-based disability assessment supported in WBG/UN projects (e.g. Croatia, Moldova)",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051826154034278",
+      "doc_type": "PAD",
+      "position": 810,
+      "char_start": 149781,
+      "char_end": 150187,
+      "sentence": "PBC 9: (i) The Borrower has introduced an ICF-aligned mechanism for assessing functioning of a person in a social field, and (ii) a total of 10,000 individuals have been assessed Formula The PBC is achieved when (i) the Law of Ukraine, which establishes a mechanism for daily functioning assessments, is approved; and (ii) 10,000 individuals are assessed using a new methodology for determining disability.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ICF-aligned functioning assessment methodology for disability determination",
+      "reason": "reject: final check round 1: digital: incidental - Digital: ICF assessment tools/procedures, not a digital system per se | Before 2019: ICF-based disability assessment supported in WBG/UN projects (e.g. Croatia, Moldova)",
+      "reject_code": "not_digital",
+      "innovation_basis": "New ICF methodology replacing category-based disability determination",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "PBC mechanism described; unclear whether a digital system or just legal methodology is financed",
+          "reject_code": "",
+          "context_chars": 1374
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: ICF assessment methodology and registries | Innovative: person-centered functioning determination | Category: new assessment technology",
+          "reject_code": "",
+          "context_chars": 25148
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: ICF assessment tools/procedures, not a digital system per se | Before 2019: ICF-based disability assessment supported in WBG/UN projects (e.g. Croatia, Moldova)",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 12,
+    "input_tokens": 35182,
+    "cached_tokens": 46335,
+    "cache_write_tokens": 0,
+    "output_tokens": 4418,
+    "seconds": 36.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0161
+  }
+}

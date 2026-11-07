@@ -1,0 +1,770 @@
+{
+  "project_id": "P508313",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "ffe6b13a",
+  "started_at": "2026-11-07T03:38:19Z",
+  "ended_at": "2026-11-07T03:38:41Z",
+  "input_fingerprint": "78d68eb9d9a3e4be",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 19,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P508313-A1",
+      "project_id": "P508313",
+      "name": "PLP EdTech platform with AI language model for teachers",
+      "description": "Project expands the PLP digital learning platform to all primary schools and integrates an AI language model to assist teachers.",
+      "why_innovative": "New service: AI-assisted teacher support on national learning platform - cue: 'AI language model' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099081225092029814",
+        "doc_type": "PAD",
+        "doc_date": "2025-08-07",
+        "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+        "char_start": 44953,
+        "char_end": 45125,
+        "text": "BEIP will leverage this work and support expanding the use of the PLP EdTech platform to all primary schools and further integrate the AI language model to assist teachers.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099081225092029814",
+          "doc_type": "PAD",
+          "doc_date": "2025-08-07",
+          "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+          "char_start": 44326,
+          "char_end": 44433,
+          "text": "The PLP is a learning platform that provides digital learning content aligned with the national curriculum.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099081225092029814",
+          "doc_type": "PAD",
+          "doc_date": "2025-08-07",
+          "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+          "char_start": 44519,
+          "char_end": 44667,
+          "text": "Teachers can assign tasks, monitor student progress, provide feedback, create additional content, and communicate with parents through the platform.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the platform and AI model are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Primary Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "EdTech platform directly supports teaching and learning in primary schools.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: PLP platform plus AI language model | Innovative: AI teacher assistant scaled nationwide | Category: Technological platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: AI-assisted teacher support on national learning platform - cue: 'AI language model'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P508313",
+      "doc_type": "PAD",
+      "doc_date": "2025-08-07",
+      "guid": "099081225092029814",
+      "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:20Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:38:20Z",
+      "ended_at": "2026-11-07T03:38:20Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-08-29, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:38:20Z",
+      "ended_at": "2026-11-07T03:38:20Z",
+      "status": "ok",
+      "note": "19 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 19,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_technologies": 4,
+          "enabling_processes": 3,
+          "innovation_cycle": 5,
+          "innovation": 2,
+          "results_based_management": 1,
+          "innovation_types": 3,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:38:20Z",
+      "ended_at": "2026-11-07T03:38:20Z",
+      "status": "ok",
+      "note": "PAD 2025-08-07 (P508313_PAD_2025-08-07_099081225092029814.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P508313",
+            "doc_type": "PAD",
+            "doc_date": "2025-08-07",
+            "guid": "099081225092029814",
+            "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:38:20Z",
+      "ended_at": "2026-11-07T03:38:20Z",
+      "status": "ok",
+      "note": "91 reading units (8 numbered paragraphs) from 784 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 91
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:38:20Z",
+      "ended_at": "2026-11-07T03:38:22Z",
+      "status": "ok",
+      "note": "32 of 91 units carry a digital / AI cue (7 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 32,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 7
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:38:22Z",
+      "ended_at": "2026-11-07T03:38:29Z",
+      "status": "ok",
+      "note": "12 candidate practices from 32 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 111487,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 830,
+          "cached_tokens": 23040,
+          "cache_write_tokens": 0,
+          "output_tokens": 2295,
+          "seconds": 16.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0031
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:38:29Z",
+      "ended_at": "2026-11-07T03:38:34Z",
+      "status": "ok",
+      "note": "5 accepted, 7 rejected (not_innovative 4, unsupported_by_evidence 2, generic 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 40329,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 5238,
+          "cached_tokens": 3456,
+          "cache_write_tokens": 0,
+          "output_tokens": 823,
+          "seconds": 5.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "accepted": 5,
+        "rejected": 7,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 4,
+          "generic": 1,
+          "unsupported_by_evidence": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:38:34Z",
+      "ended_at": "2026-11-07T03:38:36Z",
+      "status": "ok",
+      "note": "5 of 5 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1666,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 253,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 184,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:38:36Z",
+      "ended_at": "2026-11-07T03:38:37Z",
+      "status": "ok",
+      "note": "5 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1268,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 301,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 64,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:38:37Z",
+      "ended_at": "2026-11-07T03:38:40Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 2 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8722,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 892,
+          "cached_tokens": 896,
+          "cache_write_tokens": 0,
+          "output_tokens": 274,
+          "seconds": 3.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 3
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:38:40Z",
+      "ended_at": "2026-11-07T03:38:40Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 3 evidence rows, 11 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:38:40Z",
+      "ended_at": "2026-11-07T03:38:41Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 268
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P508313-A1-E1",
+      "approach_id": "P508313-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P508313",
+      "doc_id": "099081225092029814",
+      "doc_type": "PAD",
+      "doc_date": "2025-08-07",
+      "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 287,
+      "char_start": 44953,
+      "char_end": 45125,
+      "sentence": "BEIP will leverage this work and support expanding the use of the PLP EdTech platform to all primary schools and further integrate the AI language model to assist teachers.",
+      "practice": "PLP EdTech platform with AI language model for teachers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: PLP platform plus AI language model | Not routine: AI teacher assistant scaled nationwide | Adoption: 'will leverage and support expanding'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PLP platform plus AI language model | Innovative: AI teacher assistant scaled nationwide | Category: Technological platform",
+      "keywords_hit": "AI;EdTech;digital learning",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI-assisted teacher support on national learning platform - cue: 'AI language model'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ffe6b13a"
+    },
+    {
+      "row_id": "P508313-A1-E2",
+      "approach_id": "P508313-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P508313",
+      "doc_id": "099081225092029814",
+      "doc_type": "PAD",
+      "doc_date": "2025-08-07",
+      "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 282,
+      "char_start": 44326,
+      "char_end": 44433,
+      "sentence": "The PLP is a learning platform that provides digital learning content aligned with the national curriculum.",
+      "practice": "PLP EdTech platform with AI language model for teachers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: PLP platform plus AI language model | Not routine: AI teacher assistant scaled nationwide | Adoption: 'will leverage and support expanding'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PLP platform plus AI language model | Innovative: AI teacher assistant scaled nationwide | Category: Technological platform",
+      "keywords_hit": "AI;EdTech;digital learning",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI-assisted teacher support on national learning platform - cue: 'AI language model'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ffe6b13a"
+    },
+    {
+      "row_id": "P508313-A1-E3",
+      "approach_id": "P508313-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P508313",
+      "doc_id": "099081225092029814",
+      "doc_type": "PAD",
+      "doc_date": "2025-08-07",
+      "file_name": "P508313_PAD_2025-08-07_099081225092029814.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 284,
+      "char_start": 44519,
+      "char_end": 44667,
+      "sentence": "Teachers can assign tasks, monitor student progress, provide feedback, create additional content, and communicate with parents through the platform.",
+      "practice": "PLP EdTech platform with AI language model for teachers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: PLP platform plus AI language model | Not routine: AI teacher assistant scaled nationwide | Adoption: 'will leverage and support expanding'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PLP platform plus AI language model | Innovative: AI teacher assistant scaled nationwide | Category: Technological platform",
+      "keywords_hit": "AI;EdTech;digital learning",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI-assisted teacher support on national learning platform - cue: 'AI language model'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ffe6b13a"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 297,
+      "char_start": 46083,
+      "char_end": 46236,
+      "sentence": "(c) providing each school cluster30 with mentoring funding to sustain mentoring efforts; and (d) expanding use of the PLP EdTech platform to all schools.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "PLP EdTech platform rollout to all schools",
+      "reason": "reject: Nationwide rollout of existing PLP platform; scale-up, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: nationwide scale-up of digital learning platform - cue: 'expanding use'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Nationwide rollout of existing PLP platform; scale-up, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1280
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 334,
+      "char_start": 52221,
+      "char_end": 52321,
+      "sentence": "The project will adopt a phased approach to develop a functioning education staff management system.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Phased HRMIS development gated on Phase 1 feasibility results",
+      "reason": "reject: Phased gated procurement is standard project design, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: staged gated system build - cue: 'phased approach'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Phased gated procurement is standard project design, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1229
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 346,
+      "char_start": 54127,
+      "char_end": 54315,
+      "sentence": "Additionally, the subcomponent will support the digitalization of M&E processes to reduce paperwork, streamline data collection and analysis, and enhance reporting efficiency and accuracy.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digitalized M&E data collection and reporting system",
+      "reason": "reject: Digital M&E data collection is standard monitoring, not an innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: digital M&E data pipeline - cue: 'digitalization of M&E'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Digital M&E data collection is standard monitoring, not an innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1278
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 533,
+      "char_start": 78014,
+      "char_end": 78326,
+      "sentence": "Furthermore, Subcomponent 2.2 will also finance the development of capabilities for remote learning/e- learning that can support education continuity in the event of climate disasters and decrease climate vulnerability through the expansion of EdTech initiatives including the modernization and expansion of PLP.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "EdTech remote learning via modernized PLP platform",
+      "reason": "reject: Same PLP platform expansion already captured; no distinct new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: scaled e-learning platform for continuity - cue: 'expansion of EdTech'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same PLP platform expansion already captured; no distinct new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1382
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 561,
+      "char_start": 82574,
+      "char_end": 83127,
+      "sentence": "An innovative EdTech initiative will ensure continuity of education during climate-induced disruptions, enhancing learning opportunities for students and providing ongoing 35 WBG Cambodia CCDR, September 2023 https://documents1.worldbank.org/curated/en/099092823045083987/pdf/P17887106c6c2d0e909aa1090f3e10505c1.pdf Official Use Only Page 17 The World Bank Cambodia Basic Education Improvement Project (P508313) PROJECT APPRAISAL DOCUMENT professional development for teachers, thereby strengthening the education system’s resilience to climate impacts.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "climate-resilient EdTech for education continuity during disruptions",
+      "reason": "reject: Vague 'innovative EdTech initiative' with no named system or mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New service: EdTech continuity of learning in climate disruptions - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Vague 'innovative EdTech initiative' with no named system or mechanism",
+          "reject_code": "generic",
+          "context_chars": 1418
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 684,
+      "char_start": 103281,
+      "char_end": 104475,
+      "sentence": "trained who consider that the training sessions met their needs (Percentage) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 0 80 80 80 80 80 ➢Teachers trained who consider that the training sessions met their needs - Female (Percentage) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 0 80 80 80 80 80 Teachers trained (Number of people) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 0 7,500 22,000 40,300 40,300 40,300 ➢Teachers trained - Female (Number of people) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 0 5,300 15,000 28,600 28,600 28,600 Teachers using effective teaching practices (Percentage) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 20 20 25 30 40 50 Classrooms constructed and rehabilitated with climate resilient infrastructure (Number) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 0 0 569 912 912 912 Improving Institutional Capacity for Education Staff Management and Project Management Human Resource Management Information System (HRMIS) roadmap developed (Yes/No) Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 No Yes Yes Yes Yes Yes Education staff inputting their data on the modernized HRMIS (Percentage) Dec/2025",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "modernized HRMIS for education staff data management",
+      "reason": "reject: Cited sentence is results-framework indicator table, not a described practice",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: digital HR registry for education staff - cue: 'modernized'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentence is results-framework indicator table, not a described practice",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1843
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 730,
+      "char_start": 113301,
+      "char_end": 113800,
+      "sentence": "Collection Responsibility for Data EMIS, DSPC, PED, ECED Collection Improving institutional capacity for education management and project management Human Resource Management Information System (HRMIS) roadmap developed (Yes/No) This indicator is for the development of the HRMIS roadmap after (a) clearly analyzing the existing systems used for Description providing data and policies for education staff management, (b) scoping the meaningful activities, and (c) mapping the key functions/modules.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "HRMIS roadmap and staff self-service data entry system",
+      "reason": "reject: Indicator definitions only; duplicates HRMIS practice without describing mechanism",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: staff self-entry into modernized HRMIS - cue: 'modernized'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator definitions only; duplicates HRMIS practice without describing mechanism",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1229
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 305,
+      "char_start": 47163,
+      "char_end": 47324,
+      "sentence": "The project can address these by adopting an implementation science-informed learning agenda alongside the scale-up to facilitate rapid iteration and adaptation.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Implementation science learning agenda with rapid testing and administrative data",
+      "reason": "reject: final check round 1: digital: incidental - Digital: administrative data analysis supports it but approach is a learning agenda | Before 2019: implementation science and rapid-cycle learning agendas used in WBG/UN health and education projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: rapid-iteration evidence feedback into government scale-up - cue: 'learning agenda'",
+      "innovation_cues": "learning agenda;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: administrative data analysis and rapid testing | Innovative: feeds evidence back to adjust rollout | Category: Operational process",
+          "reject_code": "",
+          "context_chars": 1368
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: administrative data analysis supports it but approach is a learning agenda | Before 2019: implementation science and rapid-cycle learning agendas used in WBG/UN health and education projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 332,
+      "char_start": 51857,
+      "char_end": 52216,
+      "sentence": "(b) modernizing the Human Resource Management Information System (HRMIS) to improve data recording and availability for education staff management, focusing on teacher distribution, CPD, and career progression, and digitalizing key human resources (HR) business processes; and (c) strengthening the capacity of MoEYS officials to operate the modernized HRMIS.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Modernized HRMIS digitizing teacher HR business processes",
+      "reason": "reject: final check round 1: common - Digital: modernized HRMIS with self-service is the solution | Before 2019: education/HR management information systems standard in WBG and ADB public-sector projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: digital HR records for teacher management - cue: 'modernizing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: HRMIS teacher modules | Innovative: replaces paper HR processes | Category: Technological system",
+          "reject_code": "",
+          "context_chars": 1229
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: modernized HRMIS with self-service is the solution | Before 2019: education/HR management information systems standard in WBG and ADB public-sector projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 339,
+      "char_start": 52903,
+      "char_end": 53068,
+      "sentence": "Modernizing HRMIS by digitizing key processes will cut paper use and boost service efficiency, as education staff can update their personal and career data remotely.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Remote staff self-service updates in modernized HRMIS",
+      "reason": "reject: final check round 1: common - Digital: modernized HRMIS with self-service is the solution | Before 2019: education/HR management information systems standard in WBG and ADB public-sector projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: remote self-service HR data updates - cue: 'digitizing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: HRMIS self-service | Innovative: staff update records remotely, no paper | Category: Technological service",
+          "reject_code": "",
+          "context_chars": 1286
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: modernized HRMIS with self-service is the solution | Before 2019: education/HR management information systems standard in WBG and ADB public-sector projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099081225092029814",
+      "doc_type": "PAD",
+      "position": 400,
+      "char_start": 61272,
+      "char_end": 61432,
+      "sentence": "The Ministry of Civil Service (MCS) will offer advice and guidance in the development of the HRMIS, ensuring alignment with the MCS HRMIS modernization roadmap.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Inter-ministerial HRMIS modules reusable across government",
+      "reason": "reject: final check round 1: digital: incidental - Digital: HRMIS modules are the object but approach is inter-ministerial collaboration | Before 2019: cross-ministry system reuse and interoperability arrangements seen in WBG e-government projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: cross-ministry shared HRMIS modules - cue: 'working group'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: shared HRMIS modules | Innovative: education modules reused by MCS | Category: cross-ministry collaboration",
+          "reject_code": "",
+          "context_chars": 1715
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: HRMIS modules are the object but approach is inter-ministerial collaboration | Before 2019: cross-ministry system reuse and interoperability arrangements seen in WBG e-government projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 8,
+    "input_tokens": 7514,
+    "cached_tokens": 27520,
+    "cache_write_tokens": 0,
+    "output_tokens": 3640,
+    "seconds": 27.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0068
+  }
+}

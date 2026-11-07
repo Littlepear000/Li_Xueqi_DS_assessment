@@ -1,0 +1,2013 @@
+The World Bank
+GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+                                                                                   REPORT NO.: RES49911
+
+
+
+
+                                       PROJECT PAPER
+
+                                            ON A
+
+                            PROPOSED PROJECT RESTRUCTURING
+
+                                                OF
+
+                   GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT
+
+                                APPROVED ON JUNE 4, 2020
+
+                                                TO
+
+                               THE REPUBLIC OF THE GAMBIA
+
+
+
+
+  Governance Global Practice
+  Western and Central Africa Region
+
+
+                     Regional Vice President:    Ousmane Diagana
+                           Country Director:     Keiko Miwa
+                          Regional Director:     Abebe Adugna Dadi
+                          Practice Manager:      Gael Raballand
+                         Task Team Leaders:      Michael Christopher Jelenic, Naomi J.
+                                                 Halewood, Fatou Mbacke Dieng
+The World Bank
+GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+                           ABBREVIATIONS AND ACRONYMS
+
+                 AFROSAI       African Organization of Supreme Audit Institutions
+                 COTS          Commercial Off-The Shelf
+                 DLI           Disbursement-Linked Indicator
+                 DLR           Disbursement-Linked Result
+                 DPF           Development Policy Financing
+                 DPPP&PE       Directorate of Public Private Partnership and Public Enterprises
+                 DSOE          Directorate of State-Owned Enterprises
+                 e-GP          Electronic Government Procurement
+                 EEP           Eligible Expenditure Program
+                 ESS           Environmental and Social Standards
+                 EY            Ernst and Young
+                 FMDP          Fiscal Management Development Project
+                 GIS           Geographic information system
+                 GMD           Gambian Dalasi
+                 GPPA          Gambia Public Procurement Authority
+                 GRA           Gambia Revenue Authority
+                 HR            Human Resources
+                 HRMIS         Human Resources Management Information System
+                 IAD           Internal Audit Directorate
+                 ICT           Information and Communication Technology
+                 IDA           International Development Association
+                 IFRS          International Financial Reporting Standards
+                 IRI           Intermediate Results Indicator
+                 IRR           Internal rate of return
+                 ITAS          Integrated Tax Administration System
+                 MDA           Ministries, Departments, and Agencies
+                 MoCDE         Ministry of Communications and Digital Economy
+                 MoFEA         Ministry of Finance and Economic Affairs
+                 MoICI         Ministry of Information, Communications, and Infrastructure
+                 NAO           National Audit Office
+                 NPV           Net present value
+                 PAMP          Public Administration Modernization for Citizen Centric
+                               Service Delivery Project
+                 PBC           Performance-Based Conditions
+                 PDO           Project Development Objective
+                 PEC           Public Enterprise Committee
+                 PFM           Public Financial Management
+                 PIU           Project Implementing Unit
+                 PS            Permanent Secretary
+                 PSC           Project Steering Committee
+The World Bank
+GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+                 PURA         Public Utilities Regulatory Authority
+                 SaaS         Software as a Service
+                 SME          Small and Medium Enterprise
+                 SOE          State-Owned Enterprises
+                 SORT         Systematic Operations Risk- Rating Tool
+                 SPV          Special Purpose Vehicle
+                 SSHFC        Social Finance Housing Corporation
+                 STEP         Systematic Tracking of Exchanges in Procurement
+                 TA           Technical Assistance
+                 VAT          Value Added Tax
+                 WARDIP       Western Africa Regional Digital Integration Program
+           The World Bank
+           GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+BASIC DATA
+
+
+Product Information
+
+Project ID                                                     Financing Instrument
+P166695                                                        Investment Project Financing
+
+Environmental and Social Risk Classification (ESRC)
+Moderate
+
+Approval Date                                                  Current Closing Date
+04-Jun-2020                                                    30-Jun-2025
+
+
+Organizations
+
+Borrower                                                       Responsible Agency
+THE GAMBIA
+
+
+
+Project Development Objective (PDO)
+Original PDO
+The Project Development Objective is to increase fiscal space and improve effectiveness of public resources
+management.
+OPS_TABLE_PDO_CURRENTPDO
+Summary Status of Financing (US$, Millions)
+                                                                                        Net
+Ln/Cr/Tf                Approval          Signing Effectiveness          Closing Commitment Disbursed Undisbursed
+
+IDA-D6190             04-Jun-2020   22-Jun-2020       28-Jul-2020    30-Jun-2025        35.00       8.63      25.80
+
+Policy Waiver(s)
+
+Does this restructuring trigger the need for any policy waiver(s)?
+No
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+ I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+Project Status:
+
+1.      The Gambia Fiscal Management Development Project (FMDP – P166695), financed through a
+US$35 million International Development Association (IDA) Grant, was approved by the Board of
+Executive Directors on June 4, 2020, and became effective on July 28, 2020. The Project Development
+Objective (PDO) is “to increase fiscal space and improve the effectiveness of public resources
+management.” To achieve this objective, the project comprises three components: (i) strengthening
+revenue collection and public procurement processes; (ii) supporting fiscal management of State-Owned
+Enterprises (SOEs) and restructuring plans of telecoms SOEs; and (iii) project implementation support and
+reform coordination. At the time of appraisal, the PDO and project components were aligned with the
+          The World Bank
+          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+strategic objectives of the Government’s National Development Plan (NDP) and the World Bank Group
+Country Engagement Note for the Republic of The Gambia for FY18-FY21 (CEN n° IDA/R 2018-0139).
+
+2.      After more than two years since effectiveness, progress toward achieving the PDO is
+Moderately Unsatisfactory, with a cumulative disbursement rate of only 21 percent. Achievement of
+the PDO has remained off track as a result of delays in key reform areas, including: (i) lack of a clear
+strategy and roadmap to adopting an e-procurement system due to weak internal structures and
+expertise, as well as delay in passage of the Gambia Public Procurement Authority (GPPA) bill; (ii) delay in
+the passage of the SOE bill that provides the legal basis for the creation of the SOE oversight authority,
+which the project activities and Performance-Based Conditions (PBCs) were specifically designed to
+support; and (iii) delays in the Integrated Tax Administration System (ITAS) business process reengineering
+and technical specifications, which impeded system acquisition and progress on key project indicators.
+
+3.       As a result, annual targets have not been met for two of the three PDO indicators. The indicator
+measuring Value Added Tax (VAT) Gross compliance ratio achieved an estimated end year performance
+of 32.2% against an annual target of 30% (PDO 1); however, this performance is largely nonattributable
+to project activities. Likewise, while the aggregate 2021 State-Owned Enterprises report has been
+published by the SOE centralized oversight agency (PDO 2), it was only released in May 2023 and is based
+on management, and not audited, figures. Finally, the share of competitive biddings for procuring
+organizations using electronic government procurement remains at 0 against a target of 30 percent (PDO
+3), not achieving its annual target. In addition to delays in key reform areas, this lack of demonstrable
+results is also due to project design flaws, whereby an overly ambitious PDO formulation and misaligned
+results framework do not allow for adequate attribution between project activities and intended results.
+
+4.        Despite the initial delay pertaining to key activities, the overall project Implementation Progress
+(IP) is currently rated Moderately Satisfactory, as recent improvements in progress have been recorded
+over the past year.1 In particular, all three components have recorded Moderately Satisfactory
+performance, and key milestones have been reached, including the completion of the Gambia Revenue
+Authority (GRA) business re-engineering and ITAS tendering; the passage of the GPPA Bill by the National
+Assembly; passage of the SOE Bill by the National Assembly; the acquisition of the Gambia Public Utilities
+Regulatory Authority (PURA) Quality of Service monitoring tool for 4G and the completion of the Spectrum
+assessment report; the development of an electronic government procurement (e-GP) readiness report;
+the organization of the market test for Gamtel/Gamcel; as well as the finalization of the first SOE
+performance audit report by the National Audit Office. Nevertheless, other key project milestones are
+delayed, including Government decisions on Gamtel/Gamcel privatization options.
+
+5.      Component 1: “Strengthening revenue collection and public procurement processes” (US$ 17
+million equivalent) is rated Moderately Satisfactory. Implementation performance of key sub-
+components includes the following:
+
+        Sub-component 1.1 Improving tax administration processes and supporting its digital
+         transformation (US$ 12 million equivalent). The consultancy to prepare for implementation of
+         the ITAS (Integrated Tax Administration System) was completed, as were the Business Process Re-
+
+1Disconnect between PDO and IP performance largely owes to deficiencies in PDO formulation and alignment between project
+activities and intended results (as noted above).
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+        engineering (BPR) and writing of ITAS functional/user requirements. The International
+        Competitive Bidding Document was also completed, and the call for bids for the ITAS procurement
+        was recently completed. Authorities completed the peer learning visits to Kenya and Rwanda tax
+        administrations, and GRA is completing the process of procuring a contract for a service provider
+        who will support the implementation of the risk management strategy and policies.
+
+       Sub-component 1.2: Strengthening tax policy development in MoFEA (Ministry of Finance and
+        Economic Affairs) and its oversight of GRA (US$ 1 million equivalent). Four civil servants have
+        been deployed to execute functions of a newly created Tax Policy Unit (TPU). In addition, a tax
+        expenditure analytical study report has been completed and the government is currently training
+        TPU and GRA staff on tools developed during the tax expenditure study. Currently, the
+        government is in the process of contracting the services of a long-term advisor to support the
+        development of a tax expenditure policy to govern and manage tax expenditures.
+
+       Sub-component 1.3: Enhancing taxpayer services and providing mobile electronic solutions to
+        individual, micro and small taxpayers (US$ 1 million equivalent). No activities commenced on
+        this subcomponent thus far as it is contingent upon the recruitment of a consulting firm to support
+        the ITAS acquisition. Likewise, the mobile electronic solution for micro and small taxpayers will be
+        delivered as part of ITAS implementation activities.
+
+       Sub-component 1.4: Strengthening the public procurement function (US$ 3 million equivalent).
+        With respect to activities supporting e-procurement reforms, the government completed a study
+        tour to Rwanda (implementing a commercial off-the-shelf solution) as well as two states of Nigeria
+        (implementing a Software as a Service (SaaS)) solution. Once the official White Paper is validated
+        by the government, the GPPA will subsequently take a decision on the model suitable for The
+        Gambia based on a readiness assessment already conducted as part of the FMDP project. With
+        respect to the professionalization of the procurement function, GPPA has signed a contract with
+        the Chartered Institute of Procurement & Supply (CIPS) for a capacity building program, including
+        a diagnostic and gap assessment of the public procurement function in the country.
+
+6.      Despite this recent progress, only 2 out of 7 intermediate results indicators for Component 1
+achieved their annual performance targets by end 2022. The indicators measuring “share of active large
+taxpayers paying VAT on time” as well as percentage of “GRA operational staff that are qualified and
+deployed for field audits” achieved their annual targets for 2022. However, the indicator “Adoption of a
+tax expenditure policy” was not met as anticipated with respect to the 2022 end year target. The indicator
+measuring “electronic and mobile services for large and medium taxpayers” achieved an end year
+performance of 0% against a 2022 annual target of 20%. The indicator measuring “rolling out e-GP in pilot
+ministries” achieved an end year performance of 0 against a 2022 annual target of 1. The indicator
+measuring “certified procurement professionals in the procuring organizations” achieved an end year
+performance of 0 against a 2022 annual target of 40. Similarly, the indicator measuring “certified women
+procurement professionals in the procuring organizations” achieved an end year performance of 0 against
+a 2022 annual target of 10.
+
+7.     Component 2: “Supporting Fiscal Management of State-Owned Enterprises (SOEs) and
+Restructuring Plans of Telecom SOEs” (US$ 15 million equivalent) is Moderately Satisfactory.
+Implementation performance of key sub-components includes the following:
+     The World Bank
+     GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+   Sub-Component 2.1 Supporting Fiscal Management of State-Owned Enterprises (US$ 6 million
+    equivalent). A non-independent SOE Directorate was created in the Ministry of Finance and
+    Economic Affairs (MoFEA) in April 2021. This came as a result of delay in the passage of the SOE
+    bill (which has subsequently been passed) that envisions a centralized SOE commission in charge
+    of SOE oversight and performance monitoring. The SOE Directorate is now operational, fully
+    staffed with six employees, and has produced a 2020 SOE aggregate report, which was validated
+    by MoFEA and shared with the World Bank. However, there have been delays in the production
+    of the 2021 aggregate report, which was only published on the MoFEA website by in May 2023.
+    An SOE expert was recruited to assist the Directorate to produce monthly and quarterly reports
+    on SOE sector financial and overall performance. A firm has also been recruited to support the
+    Directorate in the development and implementation of a performance contract system with the
+    SOEs. To date, four draft performance contracts were prepared for Gambia National Petroleum
+    Company, Port Authority, Gambia National Water & Electric Company, and Social Security
+    Corporation, and have recently been signed.
+
+   Sub-Component 2.2. Improving corporate governance, transparency, and accountability of SOEs
+    (US$ 4 million equivalent). Project support to the NAO has resulted in the production of the first
+    performance audit of the Gambia Port Authority, which fulfilled the Disbursement-Linked Result
+    (DLR) #2 for 2021. Two additional performance audits (National Water & Electricity Company, and
+    Social Security & Housing Finance Corporation) are planned and anticipated to be finalized by the
+    first quarter of 2023. The project is also supporting an ongoing technical assistance program from
+    the Africa branch of the International Organization of Supreme Audit Institutions (AFROSAI)
+    aiming to strengthen the NAO quality assurance system and capacity to conduct performance
+    audit. The NAO strategic and annual plan have been developed under this assistance and trainings
+    on performance audit and quality assurance have been conducted. Follow-ups of the external
+    audit recommendations made by Ernst and Young on SOEs have been carried out for 6 SOEs
+    (Gamtel, Gamcel, GCAA, GNPC, GPA, NAWEC, Social Security) by NAO and the status report has
+    been shared with the Bank. The remaining seven SOEs will be covered by the Internal Audit
+    Directorate (IAD), which has recruited consultants to: (i) assist in the establishment of a quality
+    assurance unit; (ii) assess IAD’s conformity with Institute of Internal Audit (IIA) Standards and
+    Code of Ethics as well as an assessment of the efficiency and effectiveness of internal audit
+    activities; and (iii) assist in developing the Internal Audit Charters and Internal Audit manuals of
+    fourteen (14) SOEs. The final report on IAD’s conformity with the IIA standards has been shared
+    with the World Bank.
+
+   Sub-Component 2.3 Supporting critical reforms in the telecom sector (US$ 5 million equivalent).
+    Since the beginning of 2022, a Transaction Advisor has been retained to support the telecom
+    restructuring work, with the Due Diligence report completed in May 2022. This report provides a
+    baseline assessment of Gamtel and Gamcel, as well as the overall status of the telecom sector. A
+    market test webinar was held on May 26, 2022, with around 25 operators participating from
+    across the continent, based on which the market test report was submitted. The sales and
+    communications strategy, which also incorporates the findings from the market test webinar, has
+    been submitted. The Transaction Advisor prepared a draft valuation report, which provides a
+    range of fair market values for Gamcel and Gamtel based on various restructuring scenarios. The
+    next step will be for MoFEA and Ministry of Communications and Digital Economy (MoCDE) to
+          The World Bank
+          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+        finalize a joint Cabinet Paper, a draft of which was prepared in September 2022, based on the
+        selected strategy agreed upon. The project also established the governance framework for the
+        Special Purpose Vehicle (SPV) that will receive the government fiber assets and provide a legal
+        opinion on its formation. Finally, the first deliverable related to the review and update of the
+        Information and Communication (IC) Act of 2014 has been submitted, the Government Cloud
+        Strategy and Migration Policy are currently being developed, and a survey is currently being
+        conducted to inform the strategy.
+
+        Under this sub-component, support for the Public Utility Regulatory Authority (PURA) has also
+        progressed. Progress includes software and hardware upgrade of the quality of service monitoring
+        tool to enhance PURA’s ability to ensure quality broadband service and consumer protection,
+        which was completed in February 2022. All technical reports for a spectrum assessment study,
+        including those of 5G, were submitted and approved in October 2021. The activity also supported
+        in-house training on 5G spectrum allocation and monitoring. All billing system equipment to
+        address tariff usage issues and protect both consumers and operators has been delivered and
+        installed, and training on the new system was provided. In September 2022, PURA launched an
+        electromagnetic field radiation measurement system in order to meet its regulatory requirements
+        for protecting people, biodiversity, and the environment from the effects of ionizing radiation. A
+        contract for the development of colocation and infrastructure sharing regulations has been signed
+        and consultations with stakeholders have taken place. In addition, an ICT market definition study
+        has been launched, for which PURA is assisting the consultant in gathering necessary data.
+
+8.       Despite this recent progress, only 2 out of 5 intermediate results indicators for component 2
+achieved their annual performance targets for 2022. The indicator measuring percentage of “4G
+penetration rate” achieved an end year performance of 10.77% against a 2022 annual target of 9%;
+however, these results are largely not attributable to the project activities that have taken place so far.
+The indicator “comprehensive SOE Bill including adequate institutional framework” achieved its 2022 end
+year performance target of being approved by the Cabinet and the national assembly. The indicator
+measuring “performance contracts signed with the main corporatized SOEs” achieved an end year
+performance of 0 against a 2022 annual target of 2; however, three performance contracts for GPA,
+SSHFC, and GNPC were recently signed in February 2023. The indicator measuring “performance audit
+reports of an SOE prepared by the NAO, discussed with the PEC of the national assembly and published
+on the website of the MoFEA” achieved an end year performance of 1 against a 2022 annual target of 3.
+Finally, the indicator measuring whether “a centralized oversight agency has been established and
+operationalized with required staffing to monitor financial and operational performance of the SOEs in its
+portfolio” has not been established and hence missed the end of year target for 2022.
+
+9.       Component 3: “Project Implementation Support and Reform Coordination” (US$ 3 million
+equivalent) is Moderately Satisfactory. The Project Implementing Unit (PIU) remains fully staffed with
+key personnel. Project coordination has substantially improved, and the dialogue with the implementing
+entities is consistent. The Project Steering Committee (PSC) met each semester to provide strategic
+guidance to the project, while the Permanent Secretary provides frequent guidance.
+
+                                  Table 1: Achieved Project Outputs to Date
+
+ Component 1: Strengthening revenue collection and public procurement processes
+          The World Bank
+          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+Sub-component 1.1: Strengthening the Gambia Revenue Authority’s tax administration processes and digital
+transformation
+   A New Business Process for Domestic Tax Administration and a Solution Specification for an Integrated Tax
+    Administration System has been approved by GRA Senior Management
+   Development of the ITAS bidding documentation and launch of the procurement process.
+   Trained 38 GRA Staff on Project and Contract Management
+Sub-component 1.2: Strengthening the capacity of MoFEA for tax policy development and oversight
+   Detailed Review of Tax Expenditures and Recommendation for Improved Approval Processes for Tax Expenditure
+   Study Tour on Tax Policy Administration
+    Revenue and Tax Policy Directorate established, and staff deployed
+    Recruitment of a Tax Expert to operationalize the Revenue and Tax Policy Directorate
+   Training on the developed Excel Toolkits for Quantifying TEs and Marginal Effective Tax Rate on Capital Investments
+Sub-component 1.3: Enhancing taxpayer services and providing mobile solutions to individual, micro and small taxpayers
+   N/A
+Sub-component 1.4 Strengthening the public procurement function
+   E-Readiness Report completed and approved by GPPA
+   Study Tours to countries that have implemented different (SAAS vs. COTS) e-procurement systems completed
+Component 2: Supporting fiscal management of State-Owned Enterprises and restructuring plans of telecoms SOEs
+Sub-component 2.1: Fiscal Risk Assessment and Performance Monitoring
+   Operationalization and furnishment of the newly created DSOE
+   Capacity building for the DSOE Staff
+   26 Accountants across 13 SOEs trained on the principles of IFRS reporting standards
+   Study Tour to Seychelles and Ghana for effective SOE Oversight
+   Long-Term TA to provide Technical Advice and Operationalize the Directorate
+Sub-component 2.2: Improved corporate governance, transparency and accountability of SOEs (US$4 million equivalent)
+   Submitted Report on an External Quality Assessment of IAD’s Internal Audit Function
+   Tabling of the Performance Audit Report of the Gambia Port Authority prepared by NAO to the PEC of the National
+    Assembly and published on MoFEA website
+   Special purpose audit of the 13 SOE by a private account firm
+   Status report on the implementation of the audit recommendations of 6 SOEs by NAO
+   Draft SOE Bill Submitted to the National Assembly for Enactment
+   Strengthened institutional capacity through the purchase of equipment (i.e., laptops, printers, etc.) for DSOE, NAO, IAD,
+    PEC of the National Assembly
+   Approval of a Quality Assurance Strategy and an Annual Quality Assurance Plan for NAO
+   Quality Assurance Review Report on Outsourced Financial Audits
+   Quality Assurance Risk Assessment Tool developed for NAO
+   6 NAO Staff trained on review of files and writing of quality assurance report on outsourced audit services
+   8 NAO Staff trained on methods of improving Performance Audit techniques and report writing
+   17 NAO Staff (including new staff) trained on various topics on performance audits
+   50 Female middle-line managers across 13 SOEs trained on leadership skills
+Sub-component 2.3 Supporting critical reforms in the telecom sector (US$5 million equivalent)
+   Transaction Advisory for the Restructuring of the Telecommunication Assets: (i) Due Diligence Report (Technical,
+    Operational and Financial Assessment of GAMTEL/GAMCEL) completed; (ii) Market Testing of Investor Interest in
+    GAMTEL/GAMCEL conducted and report submitted; (iii) Draft Valuation Report of GAMTEL/GAMCEL Submitted; and (iv)
+    Final Sales and Communication Strategy Documents submitted
+   Purchase and Installation of an Electromagnetic Radiation Tool.
+   Quality of Service Monitoring Tool upgraded to 4G.
+   Spectrum Management Report Framework developed and approved by PURA
+   Billing System Installed and Staff Trained.
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+Rationale for Restructuring:
+
+10.    Given the project status described above, a level two project restructuring is proposed in order
+to address the following issues, which impact the implementation of project activities and the
+achievement of the PDO:
+
+      Reformulation of the PDO: Given the ambitious formulation of the original PDO to: (i) increase
+       fiscal space; and (ii) improve the effectiveness of public resources management, adjustments are
+       needed to increase PDO attribution, relevance, and realism relative to project scope. In particular,
+       increasing fiscal space involves many factors outside of the project’s direct influence and project
+       activities cannot be directly attributed to this result given numerous exogenous factors that can
+       impact fiscal space in The Gambia—including recent macro fiscal developments related to
+       inflation and Russia’s invasion of Ukraine. In addition, the objective of improving the overall
+       effectiveness of public resource management is likewise beyond the direct control of project
+       activities, and no indicators exist to effectively operationalize and measure effectiveness.
+       Accordingly, the PDO needs to be revised to capture only outcomes directly attributable to project
+       activities, thereby enhancing its relevance and likelihood of achievement.
+
+      Reformulation of Project Indicators: A principal reason why majority of the PDO indicators and
+       intermediate indicators have not reached their annual targets is because they are not adequately
+       measurable and attributable to project activities. Accordingly, it will be necessary to devise new
+       and/or reformulate existing indicators—including with realistic baselines and targets—so project
+       outputs and outcomes can be adequately measured and results can be substantiated over the life
+       of the project.
+
+      Streamlining of Project Activities: In line with a revised PDO and results indicators, project
+       activities need to be streamlined to ensure that well-performing activities are prioritized and
+       continued, and poorly performing activity areas revised and/or cancelled. In addition, activities
+       that are not directly linked to the PDO need to be reorganized and/or reassigned to other projects,
+       which are better able to support their technical objectives.
+
+      Adjustment of Implementation Arrangements: Given several organizational changes that have
+       occurred since project appraisal, there is a need to update the implementation arrangements.
+       This will ensure that the arrangements reflect the current structure and reporting lines within
+       MoFEA as well as with respect to the technical focal points of the project within other beneficiary
+       structures, for potentially improved implementation.
+
+      Adjustment of Project Closing Date and Cancelation of Unused Funds: In line with the amended
+       activities and PDO, adjustments will be made to the envelope of IDA resources needed to achieve
+       the revised scope of activities, and accordingly, to the project’s timeline.
+
+11.    Given these reasons, this Restructuring Paper (RP) seeks the approval of the Regional Vice
+President (RVP) for the proposed restructuring of the Gambia Fiscal Management Development Project
+(FMDP). This restructuring proposal is in response to the request from the Government of The Gambia
+             The World Bank
+             GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+(GoTG) through a letter dated August 10, 20222. The following changes to the project were requested by
+the Government: (i) early closure of the Gambia Fiscal Management Development Project and
+cancellation of undisbursed amount; (ii) revision of the project development objective and result
+framework to ensure realism and strengthen the link between the revised project activities and project
+indicators; (iii) revision of the project institutional arrangement to include missing implementing entities
+and further clarify their roles and responsibilities; and (iv) Transfer the Gamtel/Gamcel privatization and
+telecommunication reform technical assistance (Component 2.3) to the Western Africa Regional Digital
+Integration Program (WARDIP-P176932).
+
+    II. DESCRIPTION OF PROPOSED CHANGES
+
+       I.       Updated Project Activities:
+
+12.      As part of the proposed restructuring, the scope of project activities will be tailored to account
+for a more realistic and achievable PDO, given the remaining implementation period proposed by the
+restructuring and quantum or resources expected to disburse before project closure. As described below
+and summarized in Table 1, activities will be divided into a number of categories to best meet this
+objective, including: (i) existing activities that will be continued and completed under the FMDP between
+the time of restructuring and closure of the project; (ii) exisiting activities that will be discontinued under
+the FMDP; (iii) exisiting activities that will be reassigned to other projects in the Gambia portfolio; and (iv)
+new activities that will be added to support the requests of government, the maximization of FMDP
+results, and the preparation of the Public Administration Modernization Project (P176924 - PAMP).
+Overall, the change in scope of project activities will result in a reduction from an original value of
+US$35,000,000 to US$20,723,721 (equivalent to 15,571,442 SDR)3—representing a partial financing
+cancellation of US$14,276,279 (see table 3).
+
+13.    Component 1: Strengthening revenue collection and public procurement processes. This
+component will be reduced from an original value of US$17,000,000 to US$4,912,117—representing a
+component cancelation of US$12,087,883. The revised scope of activities will include the changes noted
+below to each sub-component.
+
+           Sub-component 1.1: Strengthening the Gambia Revenue Authority’s tax administration
+            processes and digital transformation.
+
+                o    Continuation of existing activities under FMDP to be concluded by the new project
+                     closure date. These include the following: (i) Completion of business process review and
+                     re-engineering; (ii) Development of a Compliance and Risk Management Framework; (iii)
+                     Design and Development of a New Website for GRA; (iv) Procurement of a Project
+                     Management Software; (v) Review and Alignment of the Tax Law; (vi) First Tranche of a
+                     Single ITAS Contract for both hardware, software, and implementation services, including
+                     mobile payment and filing; and (vii) Excel Training for GRA staff.
+
+
+
+2   Letter No ADM 465/01/P7/(SKK)dated August 10, 2022
+3   Based on 1.00 USD = 0.752087 XDR, Effective June 1, 2023
+     The World Bank
+     GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+       o   Discontinuation of other existing activities. These include the following: (i)
+           Implementation of Data warehouse and Business Intelligence Systems; (ii) Advisory
+           services and Quality Assurance for effective implementation of the system; (iii) TA on
+           integration/interface of the new ITAS system with the existing revenue and PFM systems;
+           (iv) Training, communication, engagement and Capacity Building to ensure adaption of
+           new system by both GRA and Tax Payers/citizens; and (v) Capacity building of the Tax
+           Policy Unit and citizen engagement on tax policy.
+
+   Sub-component 1.2: Strengthening the capacity of MoFEA for tax policy development and
+    oversight
+
+       o   Continuation of existing activities under FMDP to be concluded by the new project
+           closure date. These include the following: (i) Recruitment of a Long-Term TA to support
+           the operationalization of the newly established Tax Policy directorate at MOFEA and
+           development of the Tax policy; (ii) Domestic Resource Mobilization Strategy for The
+           Gambia; and (iii) Capacity building of the Tax Policy Directorate, operational support, and
+           citizen engagement on tax policy.
+
+       o   Discontinuation of other existing activities. This includes Implementation of other core
+           tasks within the tax policy directorate.
+
+   Sub-component 1.3: Enhancing taxpayer services and providing mobile solutions to individual,
+    micro and small taxpayers
+
+       o   Continuation of existing activities under FMDP to be concluded by the new project
+           closure date. This includes Outreach campaigns (e.g. e-filing, e-payment, registration of
+           SME, informal sector tax scheme).
+
+       o   Discontinuation of other existing activities. This includes a Grievance settlement system
+           enhancement, including rulings reviewed and modernized for GRA.
+
+   Sub-component 1.4 Strengthening the public procurement function
+
+       o   Continuation of existing activities under FMDP to be concluded by the new project
+           closure date. These include the following: (i) Design and implementation of public
+           procurement course and certification- Professionalization of The Procurement Cadre –
+           Phase 1 & 2; (ii) an Additional study tour to learn about implementing e-GP (COTS and
+           SaaS); (iii) TA to support the development of an e-GP strategy and roadmap; (iv)
+           Preparation of standard procurement documents aligned with the new GPP Act 2022; (v)
+           Preparation of a GPPA Institutional strategy; and (vi) Preparation of a Procurement
+           Manual/Guide for public procurement practitioners.
+
+       o   Discontinuation of other existing activities. This includes: (i) Design and implementation
+           of online public procurement course and certification- Professionalization of The
+           Procurement Cadre – Phase 3; (ii) Acquisition, implementation and adoption of e-GP pilot;
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+               and (iii) Advisory services and quality assurance for effective implementation and
+               adoption of e-GP.
+
+14.     Component 2: Supporting fiscal management of State-Owned Enterprises and restructuring
+plans of telecoms SOEs. This component will be reduced from an original value of US$15,000,000 to
+US$14,052,960—representing a component cancelation of US$947,040. The revised scope of activities will
+include the changes noted below to each sub-component.
+
+      Sub-component 2.1: Fiscal Risk Assessment and Performance Monitoring
+
+           o   Continuation of existing activities under FMDP to be concluded by the new project
+               closure date. These include the following: (i) Consultancy Firm recruited to assist in the
+               Development of Performance Contracts between SOEs and Central Government and
+               develop the capacity of DSOE on performance monitoring of SOEs; and (ii) Senior Resident
+               TA to operationalize the recently established Directorate of SOEs at MoFEA and assist in
+               the preparation of aggregate annual SOE Reports.
+
+           o   Addition of new activities to be concluded by the new FMDP closure date. These include
+               the following: (i) Human Resource Management Information System Strategy and related
+               study tour; (ii) Human resource management and payroll business process review and
+               technical specifications for HRMIS; (iii) Rapid assessment of HR and payroll data; (iv)
+               Functional review of mandates and functions across Government; (v) Core Government
+               Functions Skills Gap Assessment; (vi) Environmental and Social Risk Management Capacity
+               Assessment; (vii) Grievance redress and citizen feedback management business process
+               review; (viii) Citizen Engagement Roadmap; (ix) Data inventory for selected services; and
+               (x) Open Government Review and Strategy.
+
+      Sub-component 2.2: Improved corporate governance, transparency and accountability of SOEs
+
+           o   Continuation of existing activities under FMDP to be concluded by the new project
+               closure date. These include the following: (i) Development of Internal Audit Charters and
+               Manuals for 7 SOEs; (ii) Long-Term TA for the establishment of a Quality Assurance Unit
+               at the Internal Audit Directorate; (iii) Consultancy to train SOE Board of Directors; (iv)
+               Performance audit of Social Security and NAWEC; (v) Status report of the implementation
+               of audit recommendations of the remaining seven SOEs by IAD; (vi) Internal audit
+               framework of 6 remaining SOEs; (vii) Performance audit of two selected SOEs; (viii)
+               support for the NAO to strengthen its performance audits and quality assurance capacity;
+               (ix) On site and external learning and regional exchange program; (x) Preparation of Board
+               Guidance materials; (xi) Update the SOE Code of Good Corporate Governance; (xii)
+               Development of the Dividend/Ownership policy; (xiii) Enhancing Citizen Engagement and
+               Public Access to PEC Oversight work; (xiv) Strengthening the institutional and technical
+               capacity of the PEC; and (xv) Implementation of the EY Audit recommendations.
+
+      Sub-component 2.3 Supporting critical reforms in the telecom sector
+          The World Bank
+          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+             o    Continuation of existing activities under FMDP to be concluded by the new project
+                  closure date. These include the following: (i) Acquisition of Billing System for PURA; (i) ICT
+                  Market Definition and Significant Market Power Assessment; (iii) Consultancy to develop
+                  a framework for Infrastructure Sharing Regulations and Price Caps; (iv) Development of a
+                  Government Cloud Strategy/Policy and Cloud Migration Plan; (v) Review and Update of
+                  the 2014 IC ACT; (vi) Transaction Advisory for the Restructuring of the Telecommunication
+                  Assets, including Approval of Valuation Report, Approval of Sales and Communication
+                  Strategy, and Transaction Documents; (vii) Legal Advisory Services for the Establishing of
+                  an SPV and Transfer of Telecommunication Assets to the SPV; (viii) GIS Digital Mapping;
+                  (ix) Spectrum Management Instruments; (x) Electromagnetic Tool- Training for non-
+                  ionizing radiation measurements for PURA; and (xi) GIS mapping for network coverage
+                  and infrastructure.
+
+             o    Discontinuation of other existing activities. These include the following: (i) Development
+                  of a national digital economy policy and strategy, and support for its implementation; (ii)
+                  Update and implementation of the social plan for GAMTEL and GAMCEL; (iii) Data Center
+                  Migration; (iv) Review of PURA Act and Development of Strategic Plan for PURA; (v)
+                  Review of wholesale ICT fees; (vi) Cybersecurity activities; (vii) Capacity Building for
+                  MOCDE and PURA; and (viii) Completion of Sales and Transfer of Assets; (ix) Cabinet and
+                  National Assembly Information and Decision Support Feasibility study; (x) Capacity
+                  building to the ICT sub-committee; and (xi) Fraud management/SIM box tracker.
+
+15.      Component 3: Project implementation Support and Reform Coordination. This component will
+be reduced from an original value of US$3,000,000 to US$1,758,644—representing a component
+cancelation among of US$1,241,356. The revised scope of activities will include the following: (i) PIU staff
+salaries; (ii) Project operating Costs; (iii) Office Equipment; (iv) Office Furniture; (v) Capacity building
+training (PIU); (vi) Annual and quarterly reviews (e.g. audit, EEPs, and related oversight matters); (vii)
+Rental of Office space for PIU; and (viii) institutional support for project management at MoFEA.
+
+                          Table 1: Summary of Changes in Scope of FMDP Activities
+
+ Activity                                                                                  Status
+ Component 1: Strengthening revenue collection and public procurement processes
+ Sub-component 1.1: Strengthening the Gambia Revenue Authority’s tax administration processes and digital
+ transformation
+     Completion of business process review and re-engineering (EY Contract)               EXISTING: To be completed
+     Development of a Compliance and Risk Management Framework                            under FMDP
+     Design and Development of a New Website for GRA
+     Procurement of a Project Management Software
+     Review & Alignment of the Tax Law
+     First Tranche of a Single ITAS Contract for both hardware and software
+     Excel Training for GRA staff
+     Implementation of Data warehouse and Business Intelligence Systems                   REMOVED
+     Advisory services and Quality Assurance for effective implementation of the system
+     TA on integration/interface of the new ITAS system with the existing revenue and PFM
+      systems
+     Training, communication, engagement and Capacity Building to ensure adaption of
+      new system by both GRA and Tax Payers/citizens.
+     Capacity building of the Tax Policy Unit and citizen engagement on tax policy
+ Sub-component 1.2: Strengthening the capacity of MoFEA for tax policy development and oversight
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+   Recruitment of a Long-Term TA to support the operationalization of the newly          EXISTING: To be completed
+    established Tax Policy directorate at MOFEA and development of the Tax policy         under FMDP
+   Domestic Resource Mobilization Strategy for The Gambia
+   Capacity building of the Tax Policy Directorate, operational support and citizen
+    engagement on tax policy
+   Implementation of core tasks within the tax policy directorate                        REMOVED
+Sub-component 1.3: Enhancing taxpayer services and providing mobile solutions to individual, micro and small taxpayers
+   Outreach campaigns (e-filing, e-payment, registration of SME, informal sector tax     EXISTING: To be completed
+    scheme)                                                                               under FMDP
+   Grievance settlement system enhancement including rulings reviewed and                REMOVED
+    modernized for GRA
+Sub-component 1.4 Strengthening the public procurement function
+   Design and implementation of public procurement course and certification-            EXISTING: To be completed
+    Professionalization of The Procurement Cadre – Phase 1 & 2                           under FMDP
+   Additional study tour to learn about implementing e-GP (COTS and SaaS)
+   TA to support the development of an e-GP strategy and roadmap
+   Preparation of standard procurement documents aligned with the new GPP Act 2022
+   Preparation of a Procurement Manual/Guide for public procurement practitioners
+   Preparation of a GPPA Institutional strategy
+   Design and implementation of online public procurement course and certification-     REMOVED
+    Professionalization of The Procurement Cadre – Phase 3
+   Acquisition, implementation and adoption of e-GP pilot
+   Advisory services and quality assurance for effective implementation and adoption of
+    e-GP
+Component 2: Supporting fiscal management of State-Owned Enterprises and restructuring plans of telecoms SOEs
+Sub-component 2.1: Fiscal Risk Assessment and Performance Monitoring
+   Consultancy Firm recruited to assist in the Development of Performance Contracts     EXISTING: To be completed
+    between SOEs and Central Government and develop the capacity of DSOE on              under FMDP
+    performance monitoring of SOEs.
+   Senior Resident TA to operationalize the recently established Directorate of SOEs at
+    MoFEA and assist in the preparation of aggregate annual SOE Reports
+   Human Resource Management Information System Strategy and related study tour         NEW: To be completed under
+   Human resource management and payroll business process review and technical          FMDP
+    specifications for HRMIS
+   Rapid assessment of HR and payroll data
+   Functional review of mandates and functions across Government
+   Core Government Functions Skills Gap Assessment
+   Environmental and Social Risk Management Capacity Assessment
+   Grievance redress and citizen feedback management business process review
+   Citizen Engagement Roadmap
+   Data inventory for selected services
+   Open Government Review and Strategy
+Sub-component 2.2: Improved corporate governance, transparency and accountability of SOEs
+   Development of Internal Audit Charters and Manuals for 7 SOEs                        EXISTING: To be completed
+   Long-Term TA for the establishment of a Quality Assurance Unit at the Internal Audit under FMDP
+    Directorate
+   Consultancy to train SOE Board of Directors
+   Performance audit of Social Security and NAWEC
+   Status report of the implementation of audit recommendations of the remaining
+    seven SOEs by IAD
+   Internal audit framework of 6 remaining SOEs
+   Performance audit of two selected SOEs
+   Contract signed with AFROSAI-E to support the NAO strengthen its performance audits
+    and quality assurance capacity
+          The World Bank
+          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+    On site and external learning and regional exchange program
+    Preparation of Board Guidance materials
+    Update the SOE Code of Good Corporate Governance
+    Development of the Dividend/Ownership policy
+    Enhancing Citizen Engagement and Public Access to PEC Oversight work
+    Strengthen the institutional and technical capacity of the PEC
+    Implementation of the EY Audit recommendations
+ Sub-component 2.3 Supporting critical reforms in the telecom sector
+    Acquisition of Billing System for PURA                                                    EXISTING: To be completed
+    ICT Market Definition and Significant Market Power Assessment                             under FMDP
+    Consultancy to develop a framework for Infrastructure Sharing Regulations and Price
+     Caps
+    Development of a Government Cloud Strategy/Policy and Cloud Migration Plan
+    Review and Update of the 2014 IC ACT
+    Transaction Advisory for the Restructuring of the Telecommunication Assets [Pending
+     Activities includes (i) Valuation Report, (ii) Sales and Communication Strategy, (iii)
+     Transaction Documents]
+    Legal Advisory Services for the Establishing of an SPV and Transfer of TelecomAssets to
+     the SPV.
+    Spectrum Management Instruments
+    Electromagnetic Tool Training for non-ionizing radiation measurements for PURA
+    GIS Digital mapping for network coverage and infrastructure
+    Development of a national digital economy policy and strategy, and support for its        REMOVED
+     implementation
+    Update and implementation of the social plan for GAMTEL and GAMCEL
+    Data Center Migration
+    Review of PURA Act and Development of Strategic Plan for PURA
+    Review of wholesale ICT fees
+    Cybersecurity activities
+    Capacity Building for MOCDE and PURA
+    Completion of Sales and Transfer of Assets
+    Cabinet and National Assembly Information and Decision Support Feasibility study
+    Capacity building to the ICT sub-committee
+    Fraud management/SIM box tracker
+ Component 3: Project implementation Support and Reform Coordination
+    PIU staff salaries                                                                        EXISTING: To be completed
+    Project operating Costs                                                                   under FMDP
+    Office Equipment, Office Furniture, and Rental of Office space for PIU
+    Capacity building training (PIU)
+    Annual and quarterly reviews (audit, EEPs, and related oversight matters)
+    Institutional Support and Capacity Building for Project Management at MoFEA
+
+
+
+
+    II.       Project Development Objective:
+
+16.     In order to account for the revised scope of activities and closing date, the Project Development
+Objective will be updated. The current objective is “To increase fiscal space and improve effectiveness of
+public resources management.” However, given that these objectives could only be achieved based on
+the completion of additional project activities that fall outside of the scope of the restructured operation,
+and noting the observation that there are several exogenous factors that impact fiscal space that are
+              The World Bank
+              GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+outside the attributable influence of the project (as outlined above), the ambition of the PDO will be
+reduced to focus on results achievable by project closure.
+
+17.     Accordingly, the PDO will be revised as follows: “To improve fiscal management systems4 as
+well as oversight capacity for specified public resources5”
+
+       III.      PDO Results Indicators:
+
+    Original                                   Revised                                    Summary of Changes
+    Value Added Tax (VAT) Gross                Percentage of on-time tax filing rates.    Revised Formulation to include an
+    compliance ratio (Baseline: 26% /          --CIT and PIT taxes by large taxpayers:    indicator of improved system
+    Target: 40%)                               (Baseline: 89%; Target: 95%)               performance that does not rely on
+                                               --VAT by all VAT registrants: (Baseline    exogenous factors.
+                                               28%; Target: 30%)
+    DLI: Performance audit reports of SOE      DLI: Performance audit reports of SOE      Upgraded from Intermediate Results
+    prepared by the National Audit Office      prepared by the National Audit Office      Indicator Level and target amended to
+    and discussed with the Public              and discussed with the Public              a level that can achieved within the life
+    Enterprises Committee of the National      Enterprises Committee of the National      of the project
+    Assembly and published on the website      Assembly and published on the website
+    of the MoICI (Baseline: 0 / Target: 8)     of the MoFEA (Baseline: 1 / Target: 5)
+    Share of competitive biddings for          Percentage of government                   Revised Formulation to include an
+    procuring organizations using              procurement tenders by value that are      indicator of improved system
+    electronic Government Procurement          single sourced (Baseline: 27%; Target      performance that does not rely on
+    (Baseline: 20% / Target: 50%)              22%)                                       exogenous factors.
+
+       IV.       Intermediate Results Indicators:
+
+    Original                                Revised                                Summary of Changes
+    Component 1: Strengthening revenue collection and public procurement processes
+    Adoption of a tax expenditure policy    Tax Directorate established and tax    Revised Formulation to provide more
+    (Baseline: No / Target: Yes)            expenditure policy developed by the    specification of amended activities.
+                                            Ministry of Finance and Economic
+                                            Affairs. (Baseline: No / Target: Yes)
+    Share of active large taxpayers paying                                         Deleted as included at PDO level.
+    VAT on time (Baseline: 48% / Target:
+    90%)
+    GRA operational staff are qualified and Number of GRA staff trained on Tax     Revised Formulation to provide more
+    deployed for field audits (Baseline: 6% Compliance, Risk Management, and       specification of amended activities.
+    / Target: 15%)                          Project Management for effective
+                                            implementation and oversight of
+                                            projects (Baseline: 0 / Target: 58)
+    Electronic and Mobile Services for                                             Deleted as this result will not be
+    Large and Medium Taxpayers                                                     supported by revised activities.
+    (Baseline: 0% / Target: 50%)
+    Rolling out e-GP in pilot ministries    Dissemination of e-GP readiness        Revised Formulation to provide more
+    (Baseline: 0 / Target: 5)               assessment report to public and        specification of amended activities.
+                                            private stakeholders. (Baseline: No /
+                                            Target: Yes)
+
+
+
+
+4   Systems are inclusive of processes and procedures, both digital and analogue, for overseeing public resources.
+5   Resources include tax/fiscal, those related to public procurement, as well as those relevant in the SOE sector.
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+Certified procurement professionals in   Certified procurement professionals in   Target updated to account for
+the procuring organizations (Baseline:   the procuring organizations (Baseline:   shortened implementation period.
+0 / Target: 200)                         0 / Target: 50)
+Certified women procurement              Certified women procurement              Target updated to account for
+professionals in the procuring           professionals in the procuring           shortened implementation period.
+organizations (Baseline: 0 / Target: 40) organizations (Baseline: 0 / Target: 15)
+Component 2 Supporting Fiscal Management of SOEs and Restructuring Plans of Telecom SOEs
+Comprehensive SOE Bill including         Comprehensive SOE Bill including         No Change.
+adequate institutional framework         adequate institutional framework
+(Baseline: None / Target: SOE Act        (Baseline: None / Target: SOE Act
+adopted)                                 adopted by National Assembly)
+Performance contracts signed with the    Performance contracts signed with the    Target updated to account for
+main corporatized State-Owned            main corporatized State-Owned            shortened implementation period.
+Enterprises (Baseline: 0 / Target: 5)    Enterprises (Baseline: 0 / Target: 2)
+Aggregate annual SOEs report             Aggregate annual SOEs report             No Change. Downgraded from PDO
+prepared and published by the            prepared and published by the            Level to more appropriately measure
+centralized oversight agency (Baseline:  Directorate of State-Owned Enterprises project outputs.
+No / Target: Yes)                        (MOFEA) on an annual basis (Baseline:
+                                         No / Target: Yes)
+4G Penetration rate (Baseline: 3% /                                               Deleted as this result will not be
+Target: 18%)                                                                      supported by revised activities.
+DLI: A centralized oversight agency      DLI: Establishment of a centralized and  Revised Formulation to provide more
+(SOE Commission), has been               independent regulatory agency (SOE       specification of amended activities.
+established and operationalized with     Commission), approved by law to
+required staffing to monitor financial   monitor financial and operational
+and operational performance of the       performance of the SOEs in its portfolio
+SOEs in its portfolio (Baseline: No /    (Baseline: No / Target: Yes)
+Target: Yes)
+                                         Internal Audit charter and audit         New Indicator to capture revised
+                                         manual for SOEs developed and            project activities.
+                                         approved by SOE Boards of Directors
+                                         (Baseline: 0 / Target: 8)
+
+
+
+
+   V.       Theory of Change
+                The World Bank
+                GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+       VI.         Grant Amount:
+
+16.     The original project financing envelope of US$35,000,000 (equivalent to 25,700,000 SDR) will
+be reduced to a total value of US$20,723,721 (equivalent to 15,571,442 SDR)6. Based on the projections
+of the current annual workplan for 2023 for the restructured project, a partial financing cancellation of
+US$14,276,279 (equivalent to 10,128,558 SDR)7 is proposed (see table 2).
+
+                                           Table 2: Project Funds to be Cancelled
+
+    Item                                                                                            USD
+      Total FMDP Envelope                                                                     35,000,000
+           1.   Disbursements to Date                                                          7,997,725
+      Existing Activities -- FMDP 2023 Business Plan                                           6,234,282
+      New Activities - FMDP 2023 Business Plan                                                 1,600,000
+      5 % Contingency on Remaining Activities                                                    391,714
+           2.   Remaining FMDP Activities Total Cost                                           8,225,996
+      DLI.1: Establishment of centralized SOE Commission                                       4,000,000
+      DLI.2: Performance audits report of NAWEC                                                  250,000
+      DLI.2: Performance audits report of SSHFC                                                  250,000
+           3.   Remaining DLIs to be Met Under FMDP                                            4,500,000
+    New Grant Amount (1+2+3)                                                                  20,723,721
+    Total Resources to be Cancelled                                                           14,276,279
+                                        Table 3: Cancelation of Funds by Component
+
+6   Based on 1.00 USD = 0.752087 XDR, Effective June 1, 2023
+7   Based on 1.00 USD = 0.752087 XDR, Effective June 1, 2023
+           The World Bank
+           GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+ Component                                                    Initial        Revised           Cancellation
+ Component 1: Strengthening Revenue Collection and Public
+                                                               $17,000,000      $4,912,117      $12,087,883
+ Procurement Processes
+ Component 2: Supporting Fiscal Management of SOEs and
+                                                               $15,000,000     $14,052,960        $947,040
+ Restructuring Plans of Telecom SOEs
+ Component 3: Project Implementation Support and Reform
+                                                               $3,000,000       $1,758,644       $1,241,356
+ Coordination
+ TOTAL                                                         $35,000,000     $20,723,721      $14,276,279
+
+
+
+    VII.     Implementation Arrangements:
+
+18.      A dedicated Project Implementing Unit (PIU) comprised of a project manager, financial
+management officer, procurement officer, monitoring and evaluation officer, governance officer, and
+legal officer has been established within the Ministry of Finance and Economic Affairs (MoFEA) for the
+day-to-day coordination and management of the project. To support coordination between the PIU and
+the implementing partners, a network of designated focal-persons in each MDA involved (GRA, GPPA,
+NAO, IAD, MoFEA, MOICI, PURA) with the implementation of the project has been established to facilitate
+coordination. The identified focal persons of these MDAs are engaged in the implementation and
+coordination of their respective components and facilitate decision making with their management
+teams. The Permanent Secretary (PS) of MoFEA is responsible for the overarching strategic coordination
+and oversight of the project supported by a Project Steering Committee (PSC) which is chaired by him/her.
+To ensure representation from involved stakeholders, the membership of the PSC is drawn across key
+implementing beneficiary institutions in order to ensure that they are duly represented in the strategic
+decision-making process thus encouraging participation and ownership of project implementation
+activities.
+
+19.      Drawing lessons from current practice, there is a need to update the institutional framework to
+enhance flow of information for strategic decision making. The diagram below illustrates the proposed
+new structure which aims to enhance the effectiveness and efficiency of coordination of the project
+activities between the PIU, project implementing partners, and project steering committee. As such: (i)
+The Permanent Secretary of MoFEA will continue to chair the PSC with the PIU serving as a secretariat; (ii)
+additional implementing partners will be added, including the National Audit Office (NAO), Directorate of
+State-Owned Enterprises (DSOE), Internal Audit Directorate (IAD), and Ministry of Public Administration
+(MPA); and (iii) a change in responsibility for the financial oversight of SOEs from The Directorate of Public
+Private Partnership and Public Enterprises (DPPP&PE) to the newly created Directorate of SOE, which will
+now serve as the Implementing Partner responsible for SOE reform related activities to be financed under
+Sub-Component 2.1 and 2.2.
+
+
+
+
+                            Figure 2: Revised Implementation Arrangement Organogram
+            The World Bank
+            GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+    VIII.    Economic Analysis:
+
+20.      The economic analysis performed at project appraisal estimated an improvement in revenue
+collection. In this regard, the projected economic impact based on a number of assumed project
+outcomes, including: (i) Improved capacity in GRA to actively manage and improve tax compliance from a
+low base; (ii) Improved performance in terms of timely payment of taxes and effective tax debt
+management; and (iii) policy reforms in systemic areas that could be reformed relatively quickly and with
+a positive impact on revenues. Based on these assumptions, the original economic analysis projected tax
+revenues to reach 2.5 percent of GDP over ten years, with an overall net present value (NPV) of cash flows
+expected to reach US$26 million over the period. However, since many of these anticipated activities have
+not been completed, including the acquisition and roll-out of the Integrated Tax Administration System
+(ITAS), it is not currently possible to quantify/ attribute financial and economic returns based on tax
+administration.
+
+21.      Given that it is unlikely that economic and financial benefits can be assigned to the tax
+administration activities, the economic analysis of the restructured project will focus principally on
+efficiency gains related to the SOE reform agenda. In this regard, several important activities have been
+implemented, or will be implemented by the end of the project for this component, including: (i) Support
+to the operationalization of the newly created Directorate of SOEs (DSOE); (ii) Audits of SOE by a private
+accounting firm and support for audit function; (iii) SOE Bill approved by the National Assembly for
+enactment; (iv) the Development of Performance Contracts between SOEs and Central Government and
+developing the capacity of DSOE on performance monitoring of SOEs; as well as (v) a number of critical
+reforms of GAMTEL and GAMCEL that are fundamental to the strengthening of their financial viability and
+operational performance. Given these activities, the NPV and real rate of return (RRI) were re-calculated
+based on the following: (i) SOEs net profits, from 2017 until the end of the project; (ii) Increased dividend
+payments from SOEs to government as a result of increased profits; and (iii) a reduction of Government
+subsidies to SOEs, from 2017 until the end of the project. The tables below summarize the calculations as
+follows:
+     The World Bank
+     GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+   Table 4 represents the no reform scenario. In this scenario, tax revenue projected growth is set
+    equal to the nominal GDP growth rate in the same period, as are SOE dividends, subsidies, as well
+    as debt service. Then net gains are computed as the difference between SOEs costs and estimated
+    benefits for the Government.
+
+   Table 5 represents the low case scenario. Starting in 2023, an increase of 5 percent is applied to
+    tax revenues and to the dividends, while a decrease of 5 percent is applied to subsidies and debt
+    service. The rationale is that with the implementation of the project, SOEs will increase their
+    dividend and tax revenues, while reducing the subsidies received and debt guaranteed by the
+    Government.
+
+   Table 6 is the high case scenario. Starting in 2023, an increase of in tax revenues and dividend is
+    applied at 10 percent per year, and the decrease in subsidies and debt service for the Government
+    is also 10 percent per year. In comparison with the low scenario, reforms are assumed to have
+    brought more rapid results, and that the project impact is estimated to have started in 2022
+    instead of 2023.
+
+   Table 7 summarizes the difference between each scenario. The differences between the net
+    gains of each scenario and the net gain for the no reform scenario are calculated, which gives the
+    net impact of the project. Then NPV and internal rate of return (IRR) are estimated for each
+    scenario. NPVs stands at GMD 0.61 billion (US$11.1 million) for the low case scenario and GMD
+    2.21 billion (US$40.2 million) for the high case scenario. IRR stands respectively at 38.5 percent
+    and 99.3 percent for the low and high scenario.
+
+                               Table 4: No reform scenario (Billions of Dalasi)
+
+                            2020    2021    2022    2023    2024    2025    2026    2027    2028    2029    2030
+
+    Tax revenues            0.17    0.20    0.22    0.25    0.28    0.31    0.33    0.37    0.40    0.45    0.49
+
+    Dividends               0.05    0.06    0.06    0.07    0.08    0.09    0.10    0.11    0.12    0.13    0.14
+    Subsidies               0.94    1.36    1.65    1.60    1.64    1.64    1.79    2.16    2.38    2.63    2.89
+    Debt service on loans
+    contracted by           0.28    0.31    0.24    0.27    0.30    0.16    0.18    0.20    0.22    0.24    0.00
+    Government for SOEs
+    Net gain                -0.99   -1.43   -1.60   -1.55   -1.58   -1.41   -1.54   -1.89   -2.08   -2.29   -2.26
+
+                                      Table 5: Low Scenario (Billions of Dalasi)
+
+
+                            2020    2021    2022    2023    2024    2025    2026    2027    2028    2029    2030
+    Tax revenues            0.17    0.20    0.22    0.26    0.29    0.32    0.35    0.38    0.42    0.47    0.52
+    Dividends               0.05    0.06    0.06    0.08    0.08    0.09    0.10    0.11    0.12    0.13    0.15
+    Subsidies               0.94    1.36    1.65    1.52    1.56    1.56    1.70    2.05    2.26    2.49    2.75
+    Debt service on loans
+    contracted by           0.28    0.31    0.24    0.25    0.28    0.16    0.17    0.19    0.21    0.23    0.00
+    Government for SOEs
+    Net gain                -0.99   -1.43   -1.60   -1.44   -1.46   -1.30   -1.42   -1.75   -1.92   -2.12   -2.09
+         The World Bank
+         GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+                                            Table 6: High scenario (Billions of Dalasi)
+
+
+                                 2020      2021      2022     2023    2024     2025     2026     2027    2028    2029    2030
+       Tax revenues              0.17      0.20      0.25     0.29    0.32     0.35     0.38     0.42    0.46    0.51    0.56
+       Dividends                  0.05     0.06      0.07      0.08   0.09     0.10      0.11    0.12     0.13   0.15    0.16
+       Subsidies                  0.94     1.36      1.40      1.36   1.39     1.40      1.52    1.84     2.03   2.23    2.46
+       Debt service on loans
+       contracted by              0.28     0.31      0.27      0.20   0.23     0.25      0.14    0.15     0.17   0.18    0.20
+       Government for SOEs
+       Net gain                  -0.99     -1.43     -1.34    -1.19   -1.21    -1.20    -1.17    -1.45   -1.59   -1.76   -1.94
+
+                               Table 7: Difference between High and Low Case Scenarios
+
+                                  2021       2022      2023      2024        2025      2026     2027     2028    2029    2030
+        Low case scenario
+        surplus comparative to
+        no reform (billions of
+        Dalasi)                     0.00      0.00      0.11      0.11        0.11     0.12     0.14     0.16    0.17     0.18
+        High case scenario
+        surplus comparative to
+        no reform (billions of
+        Dalasi)                     0.00      0.26      0.36      0.37        0.22     0.37     0.44     0.48    0.53     0.33
+        Cost of the component
+        2 (billions of Dalasi)     0.15
+        NPV low (billions of
+        Dalasi)                    0.61
+        NPV high (billions of
+        Dalasi)                    2.21
+
+        IRR low %                 38.5%
+
+       IRR high %                  99.3%
+       Source: iSOEF, PIU, and estimates
+
+
+
+
+       IX.       Environmental and Social Standards Relevance:
+
+22.     All Environmental and Social Standards related to the original project will remain unchanged in
+the restructured project. In accordance with the World Bank Environmental and Social Framework (ESF),
+the key applicable Environmental and Social Standards in the project are ESS 1 (Assessment and
+Management of Environmental and Social Risks and Impacts), ESS 2 (Labor and Working Conditions), and
+ESS 10 (Stakeholder Engagement and Information Disclosure). The project will not finance civil
+engineering works neither will it finance any activities related to retrenchment. An assessment of the
+project's potential risks of gender-based violence using the World Bank's Gender Based Violence (GBV)
+Risk Assessment Tool found that the potential project related GBV risk was Low. Overall social and
+environmental risk of the project remains Moderate, as noted in the SORT.
+ The World Bank
+ GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+                                  Table 8: Relevant Environmental and Social Standards
+
+             Environmental and Social                        Appraisal                      Current
+             Standards
+  Assessment and Management of                               Relevant                       Relevant
+  Environmental and Social Risks and
+  Impacts
+  Stakeholder Engagement and Information                     Relevant                       Relevant
+  Disclosure
+  Labor and Working Conditions                               Relevant                     Relevant
+  Resource Efficiency and Pollution                     Not Currently Relevant        Not Currently Relevant
+  Prevention and Management
+  Community Health and Safety                           Not Currently Relevant        Not Currently Relevant
+  Land Acquisition, Restrictions on Land Use            Not Currently Relevant        Not Currently Relevant
+  and Involuntary Resettlement
+  Biodiversity Conservation and Sustainable             Not Currently Relevant        Not Currently Relevant
+  Management of Living Natural Resources
+  Indigenous Peoples/Sub-Saharan African                Not Currently Relevant        Not Currently Relevant
+  Historically Underserved Traditional Local
+  Communities
+  Cultural Heritage                                     Not Currently Relevant        Not Currently Relevant
+  Financial Intermediaries                              Not Currently Relevant        Not Currently Relevant
+
+
+
+           X.      Closing Date:
+
+23.      The project closing date will be June 30, 2024, revised from an original closing date of June 30, 2025.
+All restructured activities under the FMDP are expected to be completed by the advanced closing date.
+
+
+           XI.     Risks:
+
+24.      While the overall residual risk for achieving the PDO was high at the time of appraisal, the risk
+to the proposed restructured project has been revised to substantial given the updated scope of
+activities, more realistic PDO and results indicators, and amended implementation arrangements.
+
+                                  Table 9: Systematic Operations Risk- Rating Tool (SORT)
+
+            Risk Category                                          Appraisal                   Current
+      1.    Political and Governance                               High
+                                                                   RRating at                  Substantial
+                                                                                               Risk Rating
+      2.    Macroeconomic                                          Appraisal
+                                                                   High                        High
+      3.    Sector strategies and policies                         Substantial                 Moderate
+      4.    Technical design of project                            Substantial                 Moderate
+      5.    Institutional capacity for                             Substantial                 Substantial
+            implementation and sustainability
+      6.    Fiduciary                                              Substantial                 Moderate
+      7.    Environment and Social                                 Moderate                    Moderate
+      8.    Stakeholders                                           Substantial                 Substantial
+      9.    Other                                                  N/A                         N/A
+            Overall                                                High                        Substantial
+ The World Bank
+ GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+25.      Political and governance risk is reduced from high in the original project to substantial in the
+restructured project. The Gambia continues to suffer from a complex political economy, weak
+governance, and political tensions. The government has undergone political reshuffling, and political
+opposition has increased, as noted during the recently completed presidential elections. Going forward,
+political resistance is likely to be mitigated by the strong executive and legislative mandate held by the
+current government. In particular, President Barrow—reelected for a second 5-year term in December
+2021 – will be supported by a parliamentary majority also with a 5-year mandate. At the same time, the
+restructured project will support on-going transparency and accountability reforms, for which there is
+high political and popular support, and which complement the ongoing fiscal stabilization program and
+reform measures supported by the recently approved Second Fiscal Management, Energy and Telecom
+Reform DPF: Supplemental Financing: (P179543).
+
+26.     Macroeconomic risk is maintained as high in the restructured project. While the macro-
+economic outlook was uncertain at the time of appraisal, COVID-19 has dampened the short-term
+economic outlook, exacerbated further by the spillover effects of Russia’s invasion of Ukraine. As a result,
+reforms to reduce fiscal risks, improve domestic resource mobilization, and strengthen public
+procurement and SOE oversight may be impacted. While the country has a track record of solid
+macroeconomic performance, it is still fragile and relies heavily on external donor support. The
+government is already facing spending pressures to support vulnerable households facing high energy and
+food prices and agricultural input costs. These risks are partially mitigated by the authorities’ commitment
+to fiscal and debt sustainability, including the Sustainable Development Finance Policy's (SDFP)
+performance and policy actions (PPAs) as well as the IMF Extended Credit Facility (ECF), which are
+expected to crowd in additional financial support from other development partners and help maintain a
+sound macroeconomic environment.
+
+27.      Sectoral strategies and policies risk is reduced from substantial in the original project to
+moderate in the restructured project. Since the time of appraisal, the government has strengthened its
+mandate and has been able to articulate a number of relevant sector reform strategies that support the
+objectives of the restructured project. In particular, the Public Financial Management (PFM) Strategy
+2021-2025 seeks to ensure better PFM through the strategic allocation of resources, aggregate fiscal
+discipline, and efficient service delivery. The PFM Strategy equally seeks to create transparent,
+accountable, and credible PFM systems to manage public resources for informed decision-making and
+effective provision of public services. In this regard, the project's close alignment with these strategies
+helps to mitigate risks related to sector strategies and policies. Moreover, the recently established
+Ministry of Public Administration has been charged with monitoring the implementation progress of the
+selected priority reforms, which can contribute improved monitoring of sectoral strategies, including
+those supported by the restructured project.
+
+28.     Technical design risk is reduced from substantial in the original project to moderate in the
+restructured project. The original operation involved diverse areas of intervention, including tax
+administration, procurement, audit, SOE oversight, and telecoms restructuring, which require the
+involvement of a number of MDAs for successful implementation. In addition, the acquisition of new
+information systems, including the ITAS and the e-Procurement system, have exposed the project to a
+complex and delayed process for determining technical specifications and solution procurement. In the
+restructured operation, these risks are mitigated by a streamlined scope of project activities, whereby
+well-performing activities are scaled-up and continued, and poorly performing activity areas are revised
+ The World Bank
+ GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+and/or cancelled. In addition, as described above, activities that are not directly linked to the PDO will be
+reorganized and/or reassigned to other projects, which are better able to support their technical
+objectives. In particular, the well-performing activities under the project such as support for tax
+administration and policy as well as internal and external audit capacity will be continued, while the
+activities with weak performance such as e-procurement and SOE reform will be revised or cancelled as
+necessary. For its part, the Gamtel/Gamcel privatization and telecommunication reform technical
+assistance will be transferred to the Western Africa Regional Digital Integration Program (WARDIP-
+P176932).
+
+29.      Institutional capacity for implementation and sustainability risk is maintained as substantial in
+the restructured project. Administrative and human resource capacities are weak across the public
+service in The Gambia. These capacity constraints are particularly pertinent given the large procurements
+involved in the project, including specialized technical assistance and complex IT systems, in a context
+where it is difficult to timely and affordably attract and secure qualified vendors. To mitigate this risk, a
+number of measures will be built into the restructured project, including: (i) reducing the scope of project
+activities to be achieved under the original project, including removing the acquisition or the e-
+procurement system; (ii) reprioritizing areas that were slow moving or where implementation challenges
+exist, including delays in passing needed legislation; (iii) providing training and capacity building in key
+areas beneficial to both the project as well as the PIU, which has experience implementing challenging
+fiscal reform projects; and (iv) maintaining the oversight role of the Project Steering Committee (PSC),
+chaired by the Permanent Secretary (PS) of MoFEA (the lead implementing agency), which has proven to
+be very effective in managing multiple stakeholders in the implementation of complex technical activities.
+
+30.      Fiduciary risk has been reduced from substantial in the original project to moderate in the
+restructured project. The existing fiduciary risk is driven by ongoing systemically weak PFM systems and
+capacity constraints, which have resulted in a relatively low disbursement rate after 2 years and 6 months
+of implementing project activities. While financial management performance has been Moderately
+Satisfactory as of the most recent Implementation Status and Results Report (ISR) (archived on December
+16, 2022), additional actions require follow-up, including: (i) the implementation of the internal auditor
+recommendations; (ii) the submission of the Annual Work Plan each year at latest by November 30 in
+accordance with the date stated in the financing agreement; and (iii) the regularization of the
+overpayment from the designated account when processing final payment of spectrum management
+contract. At the same time, procurement performance has been Satisfactory as a result of improvement
+in the use of STEP and an adequate procurement arrangement. Since the last procurement risk
+assessment conducted on April 10, 2022, STEP shows: (i) continued progress in implementing
+procurement activities; and (ii) a regular update of the Procurement Plan (PP) has been made, the last of
+which occurred on November 15, 2022. Any existing fiduciary issues will be mitigated by the timely filing
+of interim financial reports and subsequent implementation support missions conducted by the Bank.
+
+31.     Social and environmental risks are maintained as moderate in the restructured project. At
+appraisal, the expected environmental impacts of the project were generally minor as the project will not
+finance civil engineering works, which usually can induce risks and/or negative environmental and social
+impacts. To mitigate these risks, the Government has prepared, consulted upon, and disclosed the
+following instruments: Stakeholder Engagement Plan (SEP), Environmental and Social Commitment Plan
+(ESCP), Grievance Redress Mechanism (GRM), and Labor Management Procedures (LMP). An Environment
+and Social Review Summary (ESRS) was likewise prepared and disclosed on March 2, 2020. While the
+restructured project does not introduce any additional social or environmental risks, key actions will be
+ The World Bank
+ GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+taken to further improve the accessibility and usage of the Grievance Redress Mechanisms (GRM) in line
+with the Stakeholder Engagement Plan, including: (i) the appointment of a focal point responsible for
+managing and analyzing complaints and maintaining a database of complaints and the resolutions; (ii) the
+establishment of a toll-free dedicated phone line, email address, and /or suggestions/complaints box; (iii)
+test pilots of these mechanisms; and (iv) the development of a database for complaints.
+
+32.      Stakeholder risk is maintained as substantial in the restructured project. The primary
+stakeholders of this project include the Ministry of Finance and Economic Affairs (MoFEA), Gambia
+Revenue Authority (GRA), Gambia Public Procurement Authority (GPPA), Ministry of Public Administration
+(MPA), Gambia Public Utilities Regulatory Authority (PURA), Ministry of Information, Communications,
+and Infrastructure (MOICI), National Audit Office (NAO), and selected line/sectoral SOEs and MDAs. A key
+risk relates to a potential lack of ownership by stakeholders and limited involvement of line ministries in
+the implementation of the project, which may undermine the ability of the Government to complete
+implementation on time. To mitigate this risk, the current Project Steering Committee (PSC) arrangement
+will be continued and chaired by the Permanent Secretary of MoFEA and include representatives from
+key stakeholders to provide strategic guidance and oversight of the project and ensure robust stakeholder
+coordination.
+        The World Bank
+        GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+III. SUMMARY OF CHANGES
+
+                                                    Changed      Not Changed
+Project's Development Objectives                      ✔
+Results Framework                                     ✔
+PBCs                                                  ✔
+Components and Cost                                   ✔
+Loan Closing Date(s)                                  ✔
+Cancellations Proposed                                ✔
+Reallocation between Disbursement Categories          ✔
+Disbursement Estimates                                ✔
+Overall Risk Rating                                   ✔
+Institutional Arrangements                            ✔
+Implementation Schedule                               ✔
+Economic and Financial Analysis                       ✔
+Implementing Agency                                                  ✔
+DDO Status                                                           ✔
+Disbursements Arrangements                                           ✔
+Legal Covenants                                                      ✔
+Financial Management                                                 ✔
+Procurement                                                          ✔
+Other Change(s)                                                      ✔
+Technical Analysis                                                   ✔
+Social Analysis                                                      ✔
+Environmental Analysis                                               ✔
+                                          The World Bank
+                                          GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+IV. DETAILED CHANGE(S)
+
+  OPS_DETAILEDCHANGES_PDO_TABLE
+
+
+
+
+  PROJECT DEVELOPMENT OBJECTIVE
+
+  Current PDO
+  The Project Development Objective is to increase fiscal space and improve effectiveness of public resources
+  management.
+  Proposed New PDO
+  To improve fiscal management systems as well as oversight capacity for specified public resources
+
+  OPS_DETAILEDCHANGES_COMPONENTS_TABLE
+
+
+
+
+  COMPONENTS
+                                                                  Current
+  Current                                                                                  Proposed                                Proposed
+                                                                     Cost       Action
+  Component Name                                                                           Component Name                        Cost (US$M)
+                                                                  (US$M)
+  Component 1: Strengthening                                                               Component 1: Strengthening
+  Revenue Collection and Public                                     17.00       Revised    Revenue Collection and Public                4.91
+  Procurement Processes                                                                    Procurement Processes
+  Component 2: Supporting Fiscal                                                           Component 2: Supporting
+  Management of State-Owned                                                                Fiscal Management of State-
+  Enterprises (“SOEs”) and                                          15.00       Revised    Owned Enterprises (“SOEs”)                  14.05
+  Restructuring Plans of Telecom                                                           and Restructuring Plans of
+  SOEs                                                                                     Telecom SOEs
+  Component 3: Project                                                                     Component 3: Project
+  Implementation Support and                                         3.00       Revised    Implementation Support and                   1.75
+  Reform Coordination                                                                      Reform Coordination
+   TOTAL                                                            35.00                                                              20.71
+
+
+
+OPS_DETAILEDCHANGES_LOANCLOSING_TABLE
+
+
+
+
+LOAN CLOSING DATE(S)
+
+                                                                     Original               Revised Proposed               Proposed Deadline
+Ln/Cr/Tf                                           Status            Closing              Closing(s) Closing                  for Withdrawal
+                                                                                                                                 Applications
+IDA-D6190                                          Effective     30-Jun-2025                        30-Jun-2024                  30-Oct-2024
+
+OPS_DETAILEDCHANGES_CANCELLATIONS_TABLE
+                                                   The World Bank
+                                                   GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+        CANCELLATIONS
+
+
+                                                                                                                         Value                              Reason
+                                                                                    Current      Cancellation                              New
+          Ln/Cr/Tf                                       Status    Currency                                            Date of                                  for
+                                                                                    Amount          Amount                               Amount
+                                                                                                                   Cancellation                        Cancellation
+                                                                                                                                                             LOAN
+          IDA-D6190-                                     Disburs                                                                                       RESTRUCTUR
+                                                                    XDR        25,700,000.00   10,128,558.00      31-May-2023       15,571,442.00
+          001                                            ing                                                                                             ING, COST
+                                                                                                                                                           SAVINGS
+OPS_DETAILEDCHANGES_REALLOCATION _TABLE
+
+
+
+
+          REALLOCATION BETWEEN DISBURSEMENT CATEGORIES
+
+                                                                                                                                             Financing %
+                                                    Current Allocation         Actuals + Committed           Proposed Allocation
+                                                                                                                                             (Type Total)
+                                                                                                                                          Current         Proposed
+
+          IDA-D6190-001                                    |   Currency: XDR
+
+         iLap Category Sequence No: 1                                              Current Expenditure Category: GD,NCS,CS,TR,OC Prts 1,2b,2c & 3
+
+                                                        18,700,000.00                  3,710,116.79                  9,297,801.00         100.00             100.00
+
+
+         iLap Category Sequence No: 2                                              Current Expenditure Category: Eligible Expenditures Program Pt 2a
+
+                                                         4,400,000.00                   374,325.97                   3,673,641.00         100.00             100.00
+
+
+         iLap Category Sequence No: 3                                              Current Expenditure Category: Refund of Preparation advance
+
+                                                         2,600,000.00                   820,937.92                   2,600,000.00
+
+
+          Total                                         25,700,000.00                  4,905,380.68                 15,571,442.00
+
+          OPS_DETAILEDCHANGES_DISBURSEMENT_TABLE
+
+
+
+
+          DISBURSEMENT ESTIMATES
+
+          Change in Disbursement Estimates
+          Yes
+
+                 Year                                                                                           Current                                 Proposed
+                 2019                                                                                              0.00                                      0.00
+
+                 2020                                                                                     1,500,000.00                                 500,000.00
+                                 The World Bank
+                                 GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+                  2021                                                      4,000,000.00                      2,500,000.00
+
+                  2022                                                      9,500,000.00                      4,000,000.00
+
+                  2023                                                     11,000,000.00                     10,000,000.00
+
+                  2024                                                      8,000,000.00                      2,000,000.00
+
+                  2025                                                      1,000,000.00                              0.00
+
+OPS_DETAILEDCHANGES_SORT_TABLE
+
+
+
+
+          SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+       Risk Category                                               Rating at Approval       Current Rating
+
+         Political and Governance                                  High                    Substantial
+         Macroeconomic                                             High                    High
+         Sector Strategies and Policies                            Substantial             Moderate
+         Technical Design of Project or Program                    Substantial             Moderate
+         Institutional Capacity for Implementation and             Substantial             Substantial
+         Sustainability
+         Fiduciary                                                 Substantial             Moderate
+         Environment and Social                                    Moderate                Moderate
+         Stakeholders                                              Substantial             Substantial
+         Other
+         Overall                                                   High                    Substantial
+ .
+                                 The World Bank
+                                 GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+.
+                                                                                      Results framework
+                                                                                  COUNTRY: Gambia, The
+                                                                    GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT
+
+    Project Development Objectives(s)
+    The Project Development Objective is to increase fiscal space and improve effectiveness of public resources management.
+
+
+    Project Development Objective Indicators by Objectives/ Outcomes
+    RESULT_FRAME_TBL_PDO
+
+
+
+
+                           Indicator Name         PBC    Baseline                                          Intermediate Targets            End Target
+
+                                                                       1                      2                      3             4
+    Improved fiscal management systems (Action: This Objective has been Revised)
+    Value Added Tax (VAT) Gross
+                                                        26.00         28.00                 30.00                   35.00         40.00   40.00
+    compliance ratio (Percentage)
+    Action: This indicator has been
+    Revised
+    Percentage of on-time tax filing
+                                                        0.00                                                                              0.00
+    rates (Percentage)
+
+    Action: This indicator is New
+
+                     CIT and PIT taxes by large
+                                                        89.00                                                                             95.00
+                     taxpayers (Percentage)
+
+                     Action: This indicator is
+                     New
+                     VAT by all VAT registrants
+                                                        28.00                                                                             30.00
+                     (Percentage)
+
+                     Action: This indicator is
+                     New
+    Improved oversight capacity for specified public resources (Action: This Objective has been Revised)
+                             The World Bank
+                             GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+RESULT_FRAME_TBL_PDO
+
+
+
+
+                       Indicator Name   PBC    Baseline                          Intermediate Targets            End Target
+
+                                                           1              2                3             4
+Aggregate annual SOEs report
+prepared and published by the
+                                              No          No             Yes              Yes           Yes     Yes
+centralized oversight agency
+(SOE Commission) (Yes/No)
+Action: This indicator has been
+Revised
+Share of competitive biddings
+for procuring organizations
+using electronic Government                   20.00       20.00          30.00            40.00         50.00   50.00
+Procurement (e-GP)
+(Percentage)
+Action: This indicator has been
+Revised
+Performance audit reports of
+SOE prepared by the National
+Audit Office and discussed with
+the Public Enterprises
+                                PBC 4 1.00                                                                      5.00
+Committee of the National
+Assembly and published on the
+website of the MoFEA
+(Number)
+
+Action: This indicator is New
+
+Percentage of government
+procurement tenders by value
+                                              27.00                                                             22.00
+that are single sourced
+(Percentage)
+
+Action: This indicator is New
+                            The World Bank
+                            GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+ PDO Table SPACE
+
+Intermediate Results Indicators by Components
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name   PBC    Baseline                                   Intermediate Targets            End Target
+
+                                                             1                    2                3             4
+Component 1: Strengthening revenue collection and public procurement processes
+Adoption of a tax expenditure
+                                             No            No                    Yes              Yes           Yes     Yes
+policy (Yes/No)
+Action: This indicator has been
+Revised
+Share of active large taxpayers
+paying VAT on time                           48.00         55.00                 60.00            75.00         80.00   90.00
+(Percentage)
+Action: This indicator has been
+Marked for Deletion
+GRA operational staff are
+qualified and deployed for field             6.00          7.00                  8.00             10.00         12.00   15.00
+audits (Percentage)
+Action: This indicator has been
+Revised
+Electronic and Mobile Services
+for Large and Medium                         0.00          0.00                  20.00            30.00         40.00   50.00
+Taxpayers (Percentage)
+Action: This indicator has been
+Marked for Deletion
+Rolling out e-GP in pilot
+                                             0.00          0.00                  1.00             3.00          5.00    5.00
+ministries (Number)
+Action: This indicator has been
+Revised
+                              The World Bank
+                              GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name           PBC    Baseline                    Intermediate Targets             End Target
+
+                                                                  1        2                3             4
+Certified procurement
+professionals in the procuring                       0.00        0.00     40.00            100.00        150.00   200.00
+organizations (Number)
+Action: This indicator has been
+Revised
+                  Certified women
+                  procurement professionals
+                                                     0.00        0.00     10.00            20.00         30.00    40.00
+                  in the procuring
+                  organizations (Number)
+
+                  Action: This indicator has
+                  been Revised
+Tax Directorate established
+and tax expenditure policy
+developed by the Ministry of                         No                                                           Yes
+Finance and Economic Affairs.
+(Yes/No)
+
+Action: This indicator is New
+
+Number of GRA staff trained
+on Tax Compliance, Risk
+Management, and Project
+                                                     0.00                                                         58.00
+Management for effective
+implementation and oversight
+projects (Number)
+
+Action: This indicator is New
+
+Dissemination of e-GP
+readiness assessment report to
+                                                     No                                                           Yes
+public and private stakeholders
+(Yes/No)
+                              The World Bank
+                              GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name          PBC    Baseline                                                   Intermediate Targets                                          End Target
+
+                                                                             1                        2                       3                       4
+Action: This indicator is New
+
+Certified procurement
+professionals in the procuring                      0.00                                                                                                                     50.00
+organizations (Number)
+
+Action: This indicator is New
+
+                  Certified women
+                  procurement professionals
+                                                    0.00                                                                                                                     15.00
+                  in the procuring
+                  organizations (Number)
+
+                  Action: This indicator is
+                  New
+Component 2 Supporting Fiscal Management of SOEs and Restructuring Plans of Telecom SOEs
+
+                                                    Current legal and
+                                                    institutional framework
+Comprehensive SOE Bill                                                                                                                                Dissemination of SOE
+                                                    is characterized by a                            SOE Bill approved by the SOE Bill adopted by the                        SOE Act adopted with
+including adequate                                                           Draft SOE Bill prepared                                                  Act implemeting
+                                                    level of confusion and a                         Cabinet                  National Assembly                              implementing regulations
+institutional framework (Text)                                                                                                                        regulations
+                                                    fragmented oversight
+                                                    function
+Performance contracts signed
+with the main corporatized
+                                                    0.00                    1.00                    2.00                     3.00                    4.00                    5.00
+State-Owned Enterprises
+(Number)
+Action: This indicator has been
+Revised
+Performance audit reports of
+SOE prepared by the National PBC 2 0.00                                     1.00                    3.00                     4.00                    6.00                    8.00
+Audit Office and discussed with
+                            The World Bank
+                            GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name   PBC    Baseline                          Intermediate Targets            End Target
+
+                                                          1              2                3             4
+the Public Enterprises
+Committee of the National
+Assembly and published on the
+website of the MoICI (DLR2)
+(Number)
+Action: This indicator has been
+Marked for Deletion
+4G Penetration rate
+                                             3.00        6.00           9.00             12.00         15.00   18.00
+(Percentage)
+Action: This indicator has been
+Marked for Deletion
+A centralized oversight agency
+(SOE Commission), has been
+established and
+operationalized with required
+                               PBC 1 No                  No             Yes              Yes           Yes     Yes
+staffing to monitor financial
+and operational performance
+of the SOEs in its portfolio
+(DLR.1) (Yes/No)
+Action: This indicator has been
+Revised
+Performance contracts signed
+with the main corporatized
+                                             0.00                                                              2.00
+State-Owned Enterprises
+(Number)
+
+Action: This indicator is New
+
+Aggregate annual SOEs report
+                                             None                                                              SOE Bill Adopted
+prepared and published by the
+                            The World Bank
+                            GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name   PBC    Baseline                          Intermediate Targets        End Target
+
+                                                          1              2                3            4
+Directorate of State-Owned
+Enterprises (MOFEA) on a
+timely basis (Text)
+
+Action: This indicator is New
+
+Establishment of a centralized
+and independent regulatory
+agency (SOE Commission),
+approved by law to monitor     PBC 3 No                                                                    Yes
+financial and operational
+performance of the SOEs in its
+portfolio (Yes/No)
+
+Action: This indicator is New
+
+Internal Audit charter and
+audit manual for SOEs
+                                             0.00                                                          8.00
+developed and approved by
+Management (Number)
+
+Action: This indicator is New
+
+IO Table SPACE
+                        The World Bank
+                        GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+                                                                  Performance-Based Conditions Matrix
+DLI IN01203850 ACTION
+
+
+
+
+                                      A centralized oversight agency (SOE Commission), has been established and operationalized with required staffing to
+PBC 1
+                                      monitor financial and operational performance of the SOEs in its portfolio (DLR.1)
+
+Type of PBC                           Scalability                  Unit of Measure       Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Intermediate Outcome                  No                           Yes/No                                   4,000,000.00 33.00
+
+Period                                Value                                                     Allocated Amount (USD) Formula
+
+Baseline                              No
+Fiscal Year 2020 from Project
+                                      Yes                                                                           0.00
+Effectiveness
+Fiscal Year 2021                      Yes                                                                           0.00
+
+Fiscal Year 2022                      Yes                                                                   4,000,000.00
+
+Fiscal Year 2023                                                                                                    0.00
+
+Action: This PBC has been Revised. See below.
+DLI IN01203874 ACTION
+
+
+
+
+                                      Performance audit reports of SOE prepared by the National Audit Office and discussed with the Public Enterprises
+PBC 2
+                                      Committee of the National Assembly and published on the website of the MoICI (DLR2)
+
+Type of PBC                           Scalability                  Unit of Measure       Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Intermediate Outcome                  Yes                          Number                                   2,000,000.00 16.00
+
+Period                                Value                                                     Allocated Amount (USD) Formula
+
+Baseline                              0.00
+                        The World Bank
+                        GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+Fiscal Year 2020 from Project
+                                      3.00                                                                  250,000.00
+Effectiveness
+Fiscal Year 2021                      4.00                                                                  500,000.00
+
+Fiscal Year 2022                      6.00                                                                  500,000.00
+
+Fiscal Year 2023                                                                                            750,000.00
+
+Action: This PBC has been Revised. See below.
+DLI IN01261628 ACTION
+
+
+
+
+                                      Establishment of a centralized and independent regulatory agency (SOE Commission), approved by law and a Board
+PBC 3
+                                      appointed to monitor financial and operational performance of the SOEs in its portfolio
+
+Type of PBC                           Scalability                  Unit of Measure      Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Output                                No                           Yes/No                                 4,000,000.00 0.00
+
+Period                                Value                                                    Allocated Amount (USD) Formula
+
+Baseline                              No
+Fiscal Year 2020 from Project
+                                                                                                                   0.00
+Effectiveness
+Fiscal Year 2021                                                                                                   0.00
+
+Fiscal Year 2022                                                                                                   0.00
+
+Fiscal Year 2023                                                                                          4,000,000.00
+                                      Rationale:
+                                      This PBC will incentivize the establishment of a centralized and independent regulatory agency (SOE Commission),
+Action: This PBC is New
+                                      including its approval by law and appointment of a Board of Commissioners, to monitor financial and operational
+                                      performance of the SOEs in its portfolio.
+                        The World Bank
+                        GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+DLI IN01261629 ACTION
+
+
+
+
+                                      Performance audit reports of SOE prepared by the National Audit Office and discussed with the Public Enterprises
+PBC 4
+                                      Committee of the National Assembly and published on the website of the MoFEA
+
+Type of PBC                           Scalability                  Unit of Measure       Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Intermediate Outcome                  Yes                          Number                                     500,000.00 0.00
+
+Period                                Value                                                     Allocated Amount (USD) Formula
+
+Baseline                              1.00
+Fiscal Year 2020 from Project
+                                                                                                                    0.00
+Effectiveness
+Fiscal Year 2021                                                                                                    0.00
+
+Fiscal Year 2022                                                                                                    0.00
+
+Fiscal Year 2023                                                                                              500,000.00
+                                      Rationale:
+                                      The PBC will incentivize the production of performance audit reports of SOEs, which are prepared by the National Audit
+Action: This PBC is New               Office and discussed with the Public Enterprises Committee of the National Assembly, including their publication on the
+                                      website of the MoFEA.
+                       The World Bank
+                       GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+                                                      Verification Protocol Table: Performance-Based Conditions
+DLI_TBL_VERIFICATION
+
+
+
+
+                                    A centralized oversight agency (SOE Commission), has been established and operationalized with required staffing to
+PBC 1
+                                    monitor financial and operational performance of the SOEs in its portfolio (DLR.1)
+Description
+
+Data source/ Agency                 DPPP&PE
+
+Verification Entity                 Independent Verification Agent
+                                    Submission of legal documents of creation and organizational and staffing arrangements of the Centralized SOE Oversight
+Procedure                           Agency
+DLI_TBL_VERIFICATION
+
+
+
+
+                                    Performance audit reports of SOE prepared by the National Audit Office and discussed with the Public Enterprises
+PBC 2
+                                    Committee of the National Assembly and published on the website of the MoICI (DLR2)
+Description
+
+Data source/ Agency                 DPPP&PE
+
+Verification Entity                 Independent Verification Agent
+                                    Performance audit reports disclosed
+Procedure
+DLI_TBL_VERIFICATION
+
+
+
+
+                                    Establishment of a centralized and independent regulatory agency (SOE Commission), approved by law and a Board
+PBC 3
+                                    appointed to monitor financial and operational performance of the SOEs in its portfolio
+                                    This PBC will incentivize the establishment of a centralized and independent regulatory agency (SOE Commission), including
+                                    its approval by law and appointment of a Board of Commissioners, to monitor financial and operational performance of the
+Description
+                                    SOEs in its portfolio.
+
+                                    Ministry of Finance and Economic Affairs
+Data source/ Agency
+                                    Independent Verification Agent
+Verification Entity
+                                    Submission of legal documents of the creation and appointment of a Board of Commissioners of the Centralized SOE
+Procedure
+                                    Oversight Agency.
+                       The World Bank
+                       GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+
+
+
+
+DLI_TBL_VERIFICATION
+
+
+
+
+                                    Performance audit reports of SOE prepared by the National Audit Office and discussed with the Public Enterprises
+PBC 4
+                                    Committee of the National Assembly and published on the website of the MoFEA
+                                    The PBC will incentivize the production of performance audit reports of SOEs, which are prepared by the National Audit
+                                    Office and discussed with the Public Enterprises Committee of the National Assembly, including their publication on the
+Description
+                                    website of the MoFEA.
+
+                                    Ministry of Finance and Economic Affairs
+Data source/ Agency
+                                    Independent Verification Agent
+Verification Entity
+                                    Verifaction that performance Audit Reports have been disclosed on MOFEA Website
+Procedure
+The World Bank
+GAMBIA FISCAL MANAGEMENT DEVELOPMENT PROJECT (P166695)
+

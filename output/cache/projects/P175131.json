@@ -1,0 +1,224 @@
+{
+  "project_id": "P175131",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "ea6c42b5",
+  "started_at": "2026-11-07T03:32:12Z",
+  "ended_at": "2026-11-07T03:32:18Z",
+  "input_fingerprint": "7438927d4e16d16a",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 18,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P175131",
+      "doc_type": "PAD",
+      "doc_date": "2021-07-01",
+      "guid": "965111625145938937",
+      "file_name": "P175131_PAD_2021-07-01_965111625145938937.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:32:12Z",
+      "ended_at": "2026-11-07T03:32:15Z",
+      "status": "ok",
+      "note": "5 document(s) fetched from the WBG API; 10 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:32:15Z",
+      "ended_at": "2026-11-07T03:32:15Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-06-30, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:32:15Z",
+      "ended_at": "2026-11-07T03:32:16Z",
+      "status": "ok",
+      "note": "18 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 18,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 3,
+          "public_good": 2,
+          "innovation": 2,
+          "innovation_cycle": 5,
+          "results_based_management": 2,
+          "enabling_technologies": 1,
+          "innovation_types": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:32:16Z",
+      "ended_at": "2026-11-07T03:32:16Z",
+      "status": "ok",
+      "note": "PAD 2021-07-01 (P175131_PAD_2021-07-01_965111625145938937.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P175131",
+            "doc_type": "PAD",
+            "doc_date": "2021-07-01",
+            "guid": "965111625145938937",
+            "file_name": "P175131_PAD_2021-07-01_965111625145938937.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:32:16Z",
+      "ended_at": "2026-11-07T03:32:16Z",
+      "status": "ok",
+      "note": "110 reading units (2 numbered paragraphs) from 866 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 110
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:32:16Z",
+      "ended_at": "2026-11-07T03:32:17Z",
+      "status": "ok",
+      "note": "2 of 110 units carry a digital / AI cue (1 also an innovation cue); 95 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 2,
+        "dropped": 0,
+        "legal_condition": 95,
+        "with_innovation_cue": 1
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:32:17Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "ok",
+      "note": "0 candidate practices from 2 units in 1 calls",
+      "llm_calls": 1,
+      "input_chars": 17815,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 208,
+          "cached_tokens": 3456,
+          "cache_write_tokens": 0,
+          "output_tokens": 33,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "extracted": 0
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "skipped",
+      "note": "nothing to validate",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 0 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:32:18Z",
+      "ended_at": "2026-11-07T03:32:18Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 151
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 1,
+    "input_tokens": 208,
+    "cached_tokens": 3456,
+    "cache_write_tokens": 0,
+    "output_tokens": 33,
+    "seconds": 1.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0001
+  }
+}

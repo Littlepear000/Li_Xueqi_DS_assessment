@@ -1,0 +1,816 @@
+{
+  "project_id": "P179024",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "6d6f5006",
+  "started_at": "2026-11-07T03:35:48Z",
+  "ended_at": "2026-11-07T03:36:13Z",
+  "input_fingerprint": "1604f1138300b895",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 18,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P179024-A1",
+      "project_id": "P179024",
+      "name": "integrated social protection IT modules and beneficiary tracking systems",
+      "description": "Links UBK, Social Contract, youth employment and migrant modules through electronic data exchanges and tracks beneficiaries' labor market outcomes after placement. Practices: employment information system adjusted to track beneficiaries' labor market trajectories after job placement; labor migrant registry integrated with Labor Market Information System; electronic data exchanges across social protection IT modules.",
+      "why_innovative": "New service: post-programme labor trajectory tracking in the employment information system | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099900008252222399",
+        "doc_type": "PAD",
+        "doc_date": "2022-08-19",
+        "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+        "char_start": 72282,
+        "char_end": 72451,
+        "text": "First, the information system will be adjusted to monitor beneficiaries even after they complete the job experience opportunity to track their labor market trajectories.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099900008252222399",
+          "doc_type": "PAD",
+          "doc_date": "2022-08-19",
+          "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+          "char_start": 73820,
+          "char_end": 74011,
+          "text": "To achieve these objectives, the subcomponent will support the development, implementation, and integration of a registry of prospective and returning labor migrants from the Kyrgyz Republic.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099900008252222399",
+          "doc_type": "PAD",
+          "doc_date": "2022-08-19",
+          "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+          "char_start": 74012,
+          "char_end": 74211,
+          "text": "The registry will collect detailed information on both prospective and returning migrants to provide relevant information about them to public employment services to support this specific population.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099900008252222399",
+          "doc_type": "PAD",
+          "doc_date": "2022-08-19",
+          "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+          "char_start": 74212,
+          "char_end": 74671,
+          "text": "The implementation of the migrant registry and its links with the Labor Market Information System (LMIS) will allow to refer migrant individuals to support interventions provided by the public employment agency or Page 22 of 61 The World Bank Strengthening Social Assistance and Labor Market Programs Project (P179024) other entities and tailored to their specific needs, such as intermediation services, orientation programs, or skill training, among others.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099900008252222399",
+          "doc_type": "PAD",
+          "doc_date": "2022-08-19",
+          "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+          "char_start": 77827,
+          "char_end": 78025,
+          "text": "This subcomponent will ensure smooth and protected technical implementation of the new IT architecture and help establish electronic data exchanges to strengthen delivery systems at the local level.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099900008252222399",
+          "doc_type": "PAD",
+          "doc_date": "2022-08-19",
+          "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+          "char_start": 78026,
+          "char_end": 78493,
+          "text": "The new IT architecture will be developed under subcomponents 1.2 (Improved UBK methodology and beneficiary selection module of social assistance IT system), 2.1 (Social Contract module of social Page 23 of 61 The World Bank Strengthening Social Assistance and Labor Market Programs Project (P179024) assistance IT system), 2.2 (Youth Employment module of the IT system of the labor market), and 2.3 (Registry of Migrants module of the IT system of the labor market).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the adjusted information system is the tracking mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Tracks social protection beneficiaries' labor market outcomes, core social protection service delivery.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: employment information system | Innovative: tracks outcomes after exit | Category: Technological | Adoption: 'will be adjusted'",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: post-programme labor trajectory tracking in the employment information system",
+      "innovation_cues": [
+        "scale-up"
+      ]
+    },
+    {
+      "approach_id": "P179024-A2",
+      "project_id": "P179024",
+      "name": "data exchange protocols between social protection systems and TUNDUK",
+      "description": "Establishes data exchange protocols linking the new social protection software architecture to the national TUNDUK system.",
+      "why_innovative": "New process: interoperability with national data exchange - cue: 'data exchange' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099900008252222399",
+        "doc_type": "PAD",
+        "doc_date": "2022-08-19",
+        "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+        "char_start": 78494,
+        "char_end": 78656,
+        "text": "It will achieve the goals specifically by (a) Establishing data exchange protocols between the new software architecture and national data exchange system TUNDUK;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: interoperability protocols are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Establishes data exchange protocols and IT architecture governance linking social protection systems to TUNDUK.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: TUNDUK data exchange protocols | Innovative: cross-system interoperability | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: interoperability with national data exchange - cue: 'data exchange'",
+      "innovation_cues": [
+        "demo"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P179024",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "guid": "099900008252222399",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:48Z",
+      "ended_at": "2026-11-07T03:35:52Z",
+      "status": "ok",
+      "note": "7 document(s) fetched from the WBG API; 12 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:52Z",
+      "ended_at": "2026-11-07T03:35:52Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-09-06, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:52Z",
+      "ended_at": "2026-11-07T03:35:53Z",
+      "status": "ok",
+      "note": "18 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 18,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 8,
+          "enabling_processes": 2,
+          "innovation_types": 5,
+          "results_based_management": 2,
+          "innovation": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:53Z",
+      "ended_at": "2026-11-07T03:35:53Z",
+      "status": "ok",
+      "note": "PAD 2022-08-19 (P179024_PAD_2022-08-19_099900008252222399.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P179024",
+            "doc_type": "PAD",
+            "doc_date": "2022-08-19",
+            "guid": "099900008252222399",
+            "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:53Z",
+      "ended_at": "2026-11-07T03:35:53Z",
+      "status": "ok",
+      "note": "133 reading units (14 numbered paragraphs) from 1182 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 133
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:53Z",
+      "ended_at": "2026-11-07T03:35:55Z",
+      "status": "ok",
+      "note": "44 of 133 units carry a digital / AI cue (16 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 44,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 16
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:55Z",
+      "ended_at": "2026-11-07T03:36:01Z",
+      "status": "ok",
+      "note": "9 candidate practices from 44 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 145861,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 945,
+          "cached_tokens": 29824,
+          "cache_write_tokens": 0,
+          "output_tokens": 1957,
+          "seconds": 14.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0028
+        },
+        "extracted": 9
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:01Z",
+      "ended_at": "2026-11-07T03:36:06Z",
+      "status": "ok",
+      "note": "6 accepted, 3 rejected (generic 1, not_innovative 1, not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 34926,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4161,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 708,
+          "seconds": 4.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0021
+        },
+        "accepted": 6,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "generic": 1,
+          "not_innovative": 1,
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:06Z",
+      "ended_at": "2026-11-07T03:36:08Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1934,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 413,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 243,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:08Z",
+      "ended_at": "2026-11-07T03:36:10Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1965,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 422,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 107,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:10Z",
+      "ended_at": "2026-11-07T03:36:12Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7439,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1158,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 189,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:12Z",
+      "ended_at": "2026-11-07T03:36:12Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 7 evidence rows, 5 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:12Z",
+      "ended_at": "2026-11-07T03:36:13Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 221
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P179024-A1-E1",
+      "approach_id": "P179024-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 464,
+      "char_start": 72282,
+      "char_end": 72451,
+      "sentence": "First, the information system will be adjusted to monitor beneficiaries even after they complete the job experience opportunity to track their labor market trajectories.",
+      "practice": "employment information system adjusted to track beneficiaries' labor market trajectories after job placement",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: employment information system | Not routine: tracks outcomes after exit | Adoption: 'will be adjusted'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: employment information system | Innovative: tracks outcomes after exit | Category: Technological | Adoption: 'will be adjusted'",
+      "keywords_hit": "information system",
+      "innovation_cues": "scale-up",
+      "innovation_basis": "New service: post-programme labor trajectory tracking in the employment information system",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A1-E2",
+      "approach_id": "P179024-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U50",
+      "para_no": null,
+      "sentence_position": 472,
+      "char_start": 73820,
+      "char_end": 74011,
+      "sentence": "To achieve these objectives, the subcomponent will support the development, implementation, and integration of a registry of prospective and returning labor migrants from the Kyrgyz Republic.",
+      "practice": "labor migrant registry integrated with Labor Market Information System",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: migrant registry linked to LMIS | Not routine: no migrant registry existed | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: migrant registry linked to LMIS | Innovative: new registry for migrants | Category: Technological",
+      "keywords_hit": "information system;market information system",
+      "innovation_cues": "",
+      "innovation_basis": "New product: migrant registry linked to LMIS - cue: 'registry'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A1-E3",
+      "approach_id": "P179024-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U50",
+      "para_no": null,
+      "sentence_position": 473,
+      "char_start": 74012,
+      "char_end": 74211,
+      "sentence": "The registry will collect detailed information on both prospective and returning migrants to provide relevant information about them to public employment services to support this specific population.",
+      "practice": "labor migrant registry integrated with Labor Market Information System",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: migrant registry linked to LMIS | Not routine: no migrant registry existed | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: migrant registry linked to LMIS | Innovative: new registry for migrants | Category: Technological",
+      "keywords_hit": "information system;market information system",
+      "innovation_cues": "",
+      "innovation_basis": "New product: migrant registry linked to LMIS - cue: 'registry'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A1-E4",
+      "approach_id": "P179024-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U50",
+      "para_no": null,
+      "sentence_position": 474,
+      "char_start": 74212,
+      "char_end": 74671,
+      "sentence": "The implementation of the migrant registry and its links with the Labor Market Information System (LMIS) will allow to refer migrant individuals to support interventions provided by the public employment agency or Page 22 of 61 The World Bank Strengthening Social Assistance and Labor Market Programs Project (P179024) other entities and tailored to their specific needs, such as intermediation services, orientation programs, or skill training, among others.",
+      "practice": "labor migrant registry integrated with Labor Market Information System",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: migrant registry linked to LMIS | Not routine: no migrant registry existed | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: migrant registry linked to LMIS | Innovative: new registry for migrants | Category: Technological",
+      "keywords_hit": "information system;market information system",
+      "innovation_cues": "",
+      "innovation_basis": "New product: migrant registry linked to LMIS - cue: 'registry'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A1-E5",
+      "approach_id": "P179024-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 490,
+      "char_start": 77827,
+      "char_end": 78025,
+      "sentence": "This subcomponent will ensure smooth and protected technical implementation of the new IT architecture and help establish electronic data exchanges to strengthen delivery systems at the local level.",
+      "practice": "electronic data exchanges across social protection IT modules",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: electronic data exchange architecture | Not routine: new interoperable modules | Adoption: 'will ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: electronic data exchange architecture | Innovative: new interoperable modules | Category: Technological",
+      "keywords_hit": "data exchange;data protection;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: interoperable social protection data exchange - cue: 'data exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A1-E6",
+      "approach_id": "P179024-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 491,
+      "char_start": 78026,
+      "char_end": 78493,
+      "sentence": "The new IT architecture will be developed under subcomponents 1.2 (Improved UBK methodology and beneficiary selection module of social assistance IT system), 2.1 (Social Contract module of social Page 23 of 61 The World Bank Strengthening Social Assistance and Labor Market Programs Project (P179024) assistance IT system), 2.2 (Youth Employment module of the IT system of the labor market), and 2.3 (Registry of Migrants module of the IT system of the labor market).",
+      "practice": "electronic data exchanges across social protection IT modules",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: electronic data exchange architecture | Not routine: new interoperable modules | Adoption: 'will ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: electronic data exchange architecture | Innovative: new interoperable modules | Category: Technological",
+      "keywords_hit": "data exchange;data protection;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: interoperable social protection data exchange - cue: 'data exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    },
+    {
+      "row_id": "P179024-A2-E1",
+      "approach_id": "P179024-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P179024",
+      "doc_id": "099900008252222399",
+      "doc_type": "PAD",
+      "doc_date": "2022-08-19",
+      "file_name": "P179024_PAD_2022-08-19_099900008252222399.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 492,
+      "char_start": 78494,
+      "char_end": 78656,
+      "sentence": "It will achieve the goals specifically by (a) Establishing data exchange protocols between the new software architecture and national data exchange system TUNDUK;",
+      "practice": "data exchange protocols between social protection systems and TUNDUK",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Social Protection",
+      "extractor_reason": "Digital core: TUNDUK data exchange protocols | Not routine: new cross-system interoperability | Adoption: 'Establishing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: TUNDUK data exchange protocols | Innovative: cross-system interoperability | Category: Technological",
+      "keywords_hit": "automated;data exchange;data protection;information system;personal data",
+      "innovation_cues": "demo",
+      "innovation_basis": "New process: interoperability with national data exchange - cue: 'data exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6d6f5006"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099900008252222399",
+      "doc_type": "PAD",
+      "position": 476,
+      "char_start": 74676,
+      "char_end": 75065,
+      "sentence": "In particular, the subcomponent will include the following activities: (a) development of the migrant registry, (b) design and implementation of the data collection approach for the registry and methodology and procedures to keep the registry updated, (c) information campaign to raise awareness among labor migrants, and (d) integration of the new migrant registry into the existing LMIS.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "migrant registry data collection and update methodology",
+      "reason": "reject: Questionnaire design and data collection are routine registry population, not a distinct innovation",
+      "reject_code": "generic",
+      "innovation_basis": "New process: registry data collection and updating - cue: 'data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Questionnaire design and data collection are routine registry population, not a distinct innovation",
+          "reject_code": "generic",
+          "context_chars": 1261
+        }
+      ]
+    },
+    {
+      "guid": "099900008252222399",
+      "doc_type": "PAD",
+      "position": 486,
+      "char_start": 77061,
+      "char_end": 77272,
+      "sentence": "To complement these efforts, the proposed project will finance activities to ensure IT sustainability, additional data security, and expanded functionality of the social protection IT systems (subcomponent 3.1).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "social protection IT systems with expanded functionality and data security",
+      "reason": "reject: IT sustainability, servers and data security are standard IT upgrades",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: integrated social protection IT architecture - cue: 'information system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "IT sustainability, servers and data security are standard IT upgrades",
+          "reject_code": "not_innovative",
+          "context_chars": 1338
+        }
+      ]
+    },
+    {
+      "guid": "099900008252222399",
+      "doc_type": "PAD",
+      "position": 882,
+      "char_start": 149077,
+      "char_end": 149264,
+      "sentence": "They will also be in charge of making payments to training providers using a results-based approach and for payments of stipend to beneficiaries during training based on daily attendance.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "results-based payments to training providers via MLSDM branches",
+      "reason": "reject: Results-based provider payments and attendance stipends; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: provider payment tied to training results - cue: 'results-based'",
+      "innovation_cues": "results-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Results-based provider payments and attendance stipends; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1224
+        }
+      ]
+    },
+    {
+      "guid": "099900008252222399",
+      "doc_type": "PAD",
+      "position": 822,
+      "char_start": 131929,
+      "char_end": 133126,
+      "sentence": "Emergency Support through, and Increasing the Efficiency of, the UBK Program Number of families registered to participate in the pilot to test 0.00 2,000.00 the targeting system (Number) Methdology to select beneficiaries of the UBK has been defined and adopted for piloting (Yes/No) No Yes Increasing the Employability of Vulnerable Groups Including Labor Migrants Labor demand survey completed to inform youth employment program (Yes/No) No Yes The social contract sub-manual has been approved and adopted No Yes (Yes/No) Hoseholds from UBK has been selected and enrolled in the social 0.00 3,000.00 contract program (Number) Number of beneficiaries who have succesfully completed a business plan (approved) and awarded a grant for economic 0.00 2,750.00 inclusion (Number (Thousand)) Female beneficiaries who have successfully completed 0.00 1,250.00 business plan and received the grant (Number (Thousand)) The youth employment sub-manual has been approved and adopted (Yes/No) No Yes Youths have been selected and enrolled in the in-class training 0.00 3,000.00 courses (Number) Female youth have been selected and enrolled in the in-class 0.00 1,000.00 training (Number) Number of youths who",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "piloted UBK targeting methodology tested on 2,000 registered families",
+      "reason": "reject: final check round 1: digital: incidental - Digital: targeting methodology, not a digital system | Before 2019: proxy-means/UBK targeting pilots common in WBG social protection projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: piloted targeting methodology to reduce exclusion errors - cue: 'piloted'",
+      "innovation_cues": "pilot;piloted;piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: MIS-registered pilot families | Innovative: tests new targeting before scale-up | Category: Operational",
+          "reject_code": "",
+          "context_chars": 2388
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: targeting methodology, not a digital system | Before 2019: proxy-means/UBK targeting pilots common in WBG social protection projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099900008252222399",
+      "doc_type": "PAD",
+      "position": 828,
+      "char_start": 136420,
+      "char_end": 137189,
+      "sentence": "ME PDO Table SPACE Monitoring & Evaluation Plan: Intermediate Results Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection This indicator will track the Administrative data Number of families registered to progress in piloting and District branches of the Once MLSDM collected at district participate in the pilot to test the testing the new MLSDM level targeting system methodology for selecting beneficiaries This indicator will track the first step to the Methdology to select beneficiaries of the implementation of a new Once MLSDM MLSDM records MLSDM UBK has been defined and adopted for methodology to select piloting beneficiaries and reduce exclusion errors in the UBK program.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "piloted UBK targeting methodology to cut exclusion errors",
+      "reason": "reject: final check round 1: digital: incidental - Digital: targeting methodology, not a digital system | Before 2019: proxy-means/UBK targeting pilots common in WBG social protection projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: piloted targeting methodology reducing exclusion errors - cue: 'piloting'",
+      "innovation_cues": "pilot;piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: MIS district registration data | Innovative: tests new targeting method | Category: Operational",
+          "reject_code": "",
+          "context_chars": 1966
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: targeting methodology, not a digital system | Before 2019: proxy-means/UBK targeting pilots common in WBG social protection projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 7099,
+    "cached_tokens": 33152,
+    "cache_write_tokens": 0,
+    "output_tokens": 3204,
+    "seconds": 25.3,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0062
+  }
+}

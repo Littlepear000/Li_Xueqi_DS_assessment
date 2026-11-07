@@ -1,0 +1,649 @@
+                                                     $
+                                                                                       Report No: RES00116
+
+
+
+                                      RESTRUCTURING PAPER
+                                                 ON A
+                              PROPOSED PROJECT RESTRUCTURING
+                                                     OF
+
+
+               Tax Administration and Statistical System Modernization Project
+                                    APPROVED ON 28-Feb-2020
+
+                                                     TO
+
+                                           Kyrgyz Republic
+
+
+
+Governance
+Europe And Central Asia
+
+
+
+
+                          Regional Vice President:       Antonella Bassani
+                               Regional Director:        Asad Alam
+                                Country Director:        Tatiana A. Proskuryakova
+                               Practice Manager:         Adrian Fozzard
+                            Task Team Leader(s):         Oleksii Balabushko, Gregory Kisunko, Saida
+                                                         Ismailakhunova
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+ ABBREVIATIONS AND ACRONYMS
+
+
+ESCP - Environmental and Social Commitment Plan
+ESF - Environmental and Social Framework
+GRM - Grievance Redress Mechanism
+IPF – Investment Project Financing
+ISNAK - Information System for Tax Administration of the Kyrgyz Republic
+IT – Information Technology
+LMP - Labor Management Procedures
+NSC – National Statistical Committee of the Kyrgyz Republic
+PDO – Project Development Objective
+PMU - Project Management Unit
+SEP - Stakeholder Engagement Plan
+STS – Stat Tax Service of the Kyrgyz Republic
+TASSMP - Tax Administration and Statistical System Modernization Project
+WB – World Bank
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@restrhybridbasicdata#doctemplate
+
+BASIC DATA
+
+Product Information
+
+Operation ID                                                Operation Name
+                                                            Tax Administration and Statistical System
+P163711
+                                                            Modernization Project
+Product/Financing Instrument                                Geographical Identifier
+
+Investment Project Financing (IPF)                          Kyrgyz Republic
+
+Approval Date                                               Current Closing Date
+
+28-Feb-2020                                                 30-Sept-2025
+
+Environmental and Social Risk Classification (ESRC)
+Low
+
+
+
+
+Organizations
+Borrower                                                   Responsible Agency
+Kyrgyz Republic                                            National Statistical Committee, State Tax Service
+@#&OPS~Doctype~OPS^dynamics@restrhybridoperationstatus#doctemplate
+OPERATION STATUS
+
+Project Development Objective (DO)
+
+Original Development Objective
+
+To improve effectiveness of tax collection and the national statistical system.
+
+Disbursement Summary (in USD million)
+
+      Source of Funds          Net Commitment               Disbursed                 Balance              % Disbursed
+
+IBRD                                              --                       --                      --                    0
+
+
+                                                                                                                         i
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+IDA                                          35.00                  11.28            23.72   32.22
+
+Grants                                           --                     --              --      0
+
+Policy Waivers
+Does this restructuring trigger the need for any policy
+waiver(s)?                                                                                     No
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+
+
+
+
+                                                                                                 ii
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                               TABLE OF CONTENTS
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................2
+III. PROPOSED CHANGES ................................................................................................................................................5
+IV. DETAILED CHANGE(S) ...............................................................................................................................................5
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+1.      The Project Implementing Agencies, the State Tax Service (STS) and the National Statistics Committee (NSC),
+have made good progress in implementation of all project components and the preparation of the major remaining
+procurements, following the recommendations of the mid-term review mission (October 16-27, 2023). STS has
+established a monitoring and analytical department to work on compliance monitoring, expanded electronic services to
+taxpayers, and rolled out cash registers through incentives for small enterprises and mandatory use of electronic invoices.
+Risk-based compliance management is pending completion of business process reengineering and the IT upgrade. NSC is
+making progress on the transition to SNA-2008 standards, has modernized its IT and statistical infrastructure by procuring
+IT hardware for both central and regional offices, and has strengthened the legal framework by issuing the Medium-term
+Program for the Development of Official Statistics of the Kyrgyz Republic for 2022-2026 and other legal acts to ensure
+alignment with the Law on Official Statistics. The Overall Implementation Progress is rated Moderately Satisfactory. Total
+disbursement to date is US$11.3 million or 32%. Out of undisbursed balance of US$23.9 million around USD$6.82 million
+or 28.5% is committed under the signed contracts. Remaining balance will mainly finance support to ISNAK-2
+implementation and IT equipment for NSC and STS information systems.
+2.       An 18-month extension of the project closing date to March 31, 2027, is necessary to successfully complete the
+implementation of new IT systems and change underlying business processes in both STC and NSC and thereby achieve
+the project development objective. Progress toward the PDO is currently rated Moderately Unsatisfactory and can only
+be upgraded to Moderately Satisfactory when the project closing date extension is approved allowing the project to
+complete the activities foreseen in the original project design. The initial delay in implementation is attributed to a 11-
+month effectiveness delay due to Parliamentary ratification of the project, delays related to COVID-19 disruptions, and,
+for NSC, delays in the engagement of the NSC Twinning Partner. Both STS and NSC have successfully implemented project
+activities according to the original plan following the resumption of normal working practices after COVID. The Bank team
+is confident that both STS and NSC can complete procurement and business process reforms following the proposed
+extended implementation schedule which has been discussed and agreed between the Bank team and STS and NSC. The
+project has complied with legal covenants, procurement, and financial management arrangements. To date, there are no
+outstanding audit reports.
+
+
+
+
+                                                                                                                    Page 1
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+Table 1. Status of PDO indicators as of June 15, 2024
+
+  PDO Indicator                              Target     Progress                         Achievement        Achievement
+                                                                                         Likelihood by      Likelihood with
+                                                                                         September 30,      18-month
+                                                                                         2025               extension
+  Reduction of VAT gap (percentage)          12%        No progress made from the        Low                High
+                                                        baseline value of 13.20%
+  Cost of Tax Compliance (days)              40 days    No progress made from the        Low                Substantial
+                                                        baseline value of 44.20 days.
+                                                        The update is expected in
+                                                        August 2024.
+  Overall efficiency gain: reduction of      66 days    No progress made from the        Low                High
+  data collection time between                          baseline of 90. A significant
+  completion of data collection and                     reduction is expected after
+  release of key statistical indicators to              implementation of e-
+  the public                                            reporting and business
+                                                        processes. These changes
+                                                        should take up to 36 months
+                                                        (about 3 years). The target
+                                                        can be achieved only with the
+                                                        project closing date
+                                                        extension.
+  Openness of official statistics:           56         Improved from baseline value     Low                Substantial
+  measures coverage and openness of                     of 50 to 51 in 2022
+  data across 21 data categories, using
+  the Open Data Inventory (ODIN)
+
+
+3.      STS will develop a new custom-built Information System for Tax Administration of Kyrgyz Republic (ISNAK-2)
+based on the IT roadmap developed by the STS and discussed with the World Bank team. STS is developing the technical
+documentation and preparing for procurement. STS will launch the development of ISNAK-2 based on the new business
+processes in July 2024. The Bank will closely monitor implementation based on benchmarks identified in the roadmap:
+completion of ISNAK-2 development and implementation phase I by January 2025; phase II by June 2025; and phase III
+and full acceptance of the system by June 2026. The project will finance procurement of the supplemental IT capacity
+necessary for timely ISNAK-2 development using a prior review QCBS procurement process. International experience
+demonstrates that most tax information system installations require at least 18 months to successfully convert all existing
+revenue instruments to the new software and maintain operating quality and availability standards.
+4.       NSC initiated procurement of the data centers needed to support expanded requirements for official statistics in
+April 2024. NSC expects to sign this contract in September 2024. Experience suggests that delivery and installation of the data
+centers requires at least 14 months, with installation scheduled by November 2025. Further time will be needed for post-
+implementation testing and troubleshooting. The time currently remaining in the project is insufficient to complete these and
+several other (smaller) activities.
+
+
+ II. DESCRIPTION OF PROPOSED CHANGES
+
+
+
+                                                                                                                          Page 2
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+5.        The Ministry of Finance of the Kyrgyz Republic sent a letter to the Bank requesting an extension of the project closing
+date by 18 months to March 31, 2027. This is the first extension (no-cost) and will allow for completion of the remaining project
+activities and achievement of PDO in full. The requested closing date extension will be complemented by a course of tailored
+actions included in the detailed Action Plan, which was prepared by PIUs and agreed with the STS and the NSC to ensure timely
+completion of the project activities by the extended closing date. The following table summarized actions crucial to successful
+project implementation.
+Table 2. Critical actions agreed between the STS, NSC and the World Bank for project to achieve development objectives
+
+                                        Action                                               Initiation         Completion
+                                                                 NSC
+ (NSC) Complete procurement (RFB) for Electronic Archiving, Primary Modular Data          May 2024           February 2025
+ and LAN Center Equipment, Secondary and Backup Data Center Equipment, Data
+ and Network Security Software, Video Surveillance Equipment, Data Warehouse
+ Software, Hyperconverged Server Solution.
+ (NSC) Set up and implement a modernization strategy and communication                    May 2024           March 2027
+ mechanisms with TP, including, TP’s revised mode of operation and hands-on
+ interactions of key international experts.
+ (NSC) Finalize and sign amendments to the TP contract, including decisions on key        May 2024           September 2024
+ international experts
+ (NSC) Complete modernization of the NSC website                                          July 2024          May 2025
+ (NSC) Finalize hiring an NSC change management specialist                                May 2024           July 2024
+ (NSC) Finalize description of new business processes and a mid-term implementation       May 2024           May 2025
+ plan
+ (NSC) Complete introduction of an IST e-reporting system in all mandatory                May 2024           May 2025
+ statistical forms in HQ and all regional offices. Finalize a web-service of the IST e-
+ reporting system.
+ (NSC) Complete transition to SNA-2008                                                    April 2024         March 2025
+ (NSC) Complete full conversion to new business processes                                 September 2024     December 2026
+                                                                 STS
+ (STS) Completion of the Phase 3 of the Business Process Reengineering.                   April 2024         August 2024
+ (STS) Prepare ToRs, tender and sign a contract with an IT Integrator consultant          May 2024           March 2025
+ (company).
+ (STS) Initiate procurement of hardware equipment for ISNAK-2 implementation              October 2024       March 2025
+ (STS) ISNAK-2 hardware is deployed                                                       August 2025        September 2025
+ (STS) ISNAK-2 system testing is taking place                                             November 2025      February 2026
+ (STS) Evaluation and acceptance of the ISNAK-2 System                                    June 2026          December 2026
+
+
+Proposed changes to the Project are as follows:
+    •   Extension of closing date by 18 months until March 31, 2027. This is driven by the additional time required to ensure
+        completion of the remaining activities and to achieve the PDO.
+    •   Adjustments to the Implementation Schedule: The implementation schedule will be adjusted to reflect the extended
+        implementation period based on the detailed Action Plan prepared by the PIUs and agreed with the STS and the NSC.
+    •   Correction of the measurement method from “hours” to “days" for the PDO indicator “Cost of Tax Compliance”. This
+        measurement was not correctly reflected during the project restructuring in June 2023 due to the discontinuation of
+        doing business.
+
+                                                                                                                         Page 3
+        The World Bank
+        Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+Summary of Performance of E&S Risk Compliance
+
+STS and NSC, with the support of the respective Project Management Units (PMUs), ensure the project’s compliance
+with the World Bank’s Environmental and Social Framework (ESF) requirements. The overall project's E&S risk rating is
+Low. ESS1, ESS2, and ESS10 are relevant to the project activities. The project’s current environmental and social
+performance rating is Satisfactory. The Project is implemented in accordance with the project’s Environmental and Social
+Commitment Plan (ESCP), Stakeholder Engagement Plan (SEP), and Labor Management Procedures (LMP). ESCP
+implementation status is shared with the Bank as part of the project progress reports. All project workers are familiar
+with the labor-management procedures, signed the Code of Conduct, and both PMUs monitor the project’s compliance
+with LMP requirements. The project-level Grievance Redress Mechanism (GRM) and Project workers GRM for both tax
+and statistics components are functioning. No grievances were registered during the reporting period. The mission
+reminded the PMUs of the need to ensure: (i) project implementation in accordance with the project’s ESCP, SEP, and
+LMP; (ii) effective engagement with stakeholders, including interaction with final users and consideration of their
+feedback in developing new business processes; (iii) register and address any project related requests/complaints in a
+timely and effective manner; (iv) to procure certified formaldehyde-free furniture; and (v) to properly handle, collect,
+and dispose of any equipment installation rehabilitation debris, IT residues, E-waste, and/or if confronted with asbestos
+material as per national regulations and international best practices.
+
+
+
+
+                                                                                                                  Page 4
+                  The World Bank
+                  Tax Administration and Statistical System Modernization Project (P163711)
+
+
+     @#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+
+
+
+
+III. PROPOSED CHANGES
+
+      Operation Information               Proposed Changes            Operation Information         Proposed Changes
+
+      Results                                        Yes              Loan Closing Date Extension         Yes
+      Disbursements Estimates                        Yes              Implementation Schedule             Yes
+      Development Objective                          No               Loan Cancellations                  No
+      Summary Description
+                                                     No               Reallocations                       No
+      (Operation Abstract)
+      Legal Operational Policies                     No               Financial Management                No
+      MFD/PCE                                        No               Procurement                         No
+      Risks                                          No               Institutional Arrangement           No
+      Legal Covenants                                No
+      Conditions                                     No
+      Implementation Modalities                      No
+      Disbursements Arrangements                     No
+      DDO                                            No
+      Clients                                        No
+      Appraisal Summary                              No
+      Components                                     No
+
+     @#&OPS~Doctype~OPS^dynamics@restrhybriddetailedchanges-disclose#doctemplate
+    IV. DETAILED CHANGE(S)
+
+
+  COSTS & FINANCING
+
+        Private Capital Facilitation
+
+        Is this an MFD-Enabling Project (MFD-EP)?
+
+
+
+        Is this project Private Capital Enabling (PCE)?
+
+
+
+   LOANS
+
+
+                                                                                                                Page 5
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+Loan Closing
+                                         Original              Revised               Proposed    Proposed Deadline
+Loan/Credit/Trust
+                        Status           Closing              Closing(s)              Closing       for Withdrawal
+Fund
+                                                                                                       Applications
+IDA-65460-001          Effective       30-Sept-2025         30-Sept-2025           31-Mar-2027          31-Jul-2027
+IDA-D5660-001          Effective       30-Sept-2025         30-Sept-2025           31-Mar-2027          31-Jul-2027
+
+DISBURSEMENTS
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Restructuring
+Implementation Start Date                                      Operation Closing Date
+28-Feb-2020                                                    30-Sept-2025
+Projected Date for Full Disbursement
+27-May-2026
+
+Expected Disbursements (in US $) (Absolute)
+
+                             Original Estimation at Preparation                                     Actual
+Year                                                                       Revised Estimation
+                             (Approval Package – 28 Feb 2020)
+FY2020                                                       0.00                         0.00                  0.00
+FY2021                                                 435,428.52                  660,524.00           660,524.04
+FY2022                                                3,193,142.85                 361,740.00           361,740.38
+FY2023                                                5,079,999.99               6,141,232.00         6,141,232.69
+FY2024                                                7,257,142.83               4,425,732.00         4,425,732.91
+FY2025                                                7,257,142.83               8,760,000.00                   0.00
+FY2026                                                2,177,142.84              11,540,000.00                   0.00
+FY2027                                                       0.00                         0.00                  0.00
+
+ENVIRONMENTAL & SOCIAL
+
+Environmental & Social Assessment
+
+According to the E/S Specialist are there changes proposed to the operation’s design that                         No
+would impact the Bank’s E&S assessment?”
+
+
+
+                                                                                                             Page 6
+             The World Bank
+             Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                                                               RESULTS
+                                                                              COUNTRY: Kyrgyz Republic
+                                                            Tax Administration and Statistical System Modernization Project
+
+
+
+@#&OPS~Doctype~OPS^dynamics@restrannexpolicyandresult#doctemplate
+PDO Indicators by PDO Outcomes
+
+
+Improve effectiveness of tax collection
+              Indicator Name                            Baseline                         Actual (Previous)               Actual (Current)                 Closing Period
+                                              Result               Month/Year         Result             Date         Result                Date      Result         Month/Year
+                                               13.20               Nov/2019           13.20          15-Apr-2024      13.20          15-Apr-2024       12.00          Oct/2025
+                                          Comments on achieving targets         The indicator measures improvement in the effectiveness of tax collection. The reduction of
+                                                                                the VAT gap would serve as an indicator of improved tax compliance through higher
+                                                                                effectiveness of tax administration as a result of modernization of the STS. The baseline has
+Reduction of VAT gap (Percentage)
+                                                                                been calculated using latest reliable national accounts statistics (for the year 2016). The
+                                                                                indicator is measures annually, at the end of each fiscal year. WB’s assessment of 2022 VAT
+                                                                                tax gap is ongoing. The Project will support building STS’s capacity to conduct VAT gap
+                                                                                assessments with technical assistance in 2024.
+Revise   Cost of Tax Compliance (Days)         44.20                Dec/2021          44.20          15-Apr-2024      44.20          15-Apr-2024       40.00          Oct/2025
+Improved effectiveness of the national statistical system
+              Indicator Name                            Baseline                         Actual (Previous)               Actual (Current)                 Closing Period
+                                              Result               Month/Year         Result             Date         Result                Date      Result         Month/Year
+Overall efficiency gain: reduction of         90 days               Jul/2019         90 days         15-Mar-2024     90 days        15-Mar-2024       66 days         Oct/2025
+time between completion of data           Comments on achieving targets         The project activities are still in their initial stage of implementation and thus have not had
+collection and release of key
+statistical indicators to the public                                            impact on Project’s results indicators. The results will materialize following business process
+(Text)                                                                          changes and the IT system upgrade.
+
+                                                                                                                                                                                  Page 7
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                                           This indicator measures elapsed time between completion of data collection and release to
+                                                                           public of key statistical indicators (such as GDP, Financial, External Trade and Poverty and
+                                                                           Income) to the public. To compute efficiency gains, a reference or baseline ‘elapsed
+                                                                           time&rsqu; data would be required for a few of the business processes used in the current
+                                                                           production cycles of NSC. A few representative indicators (e.g. GDP, Poverty & Income, etc.)
+                                                                           can be used to compute a broader or overall efficiency gain. A weighted average (equal
+                                                                           weights) of efficiency gains of such representative indicators can be used to compute the
+                                                                           overall efficiency gain. The new workflow management system would also programmatically
+                                                                           compute such elapsed times for business process activities of other indicators or data
+                                                                           products.
+                                                                           At least 20 indicators have been identified to compute a broader or overall efficiency gain.
+                                                                           Currently, the indicator remains at the baseline. A significant reduction of the actual value is
+                                                                           expected after the full-scale implementationf the e-reporting and business processes,
+                                                                           including training. These changes should take up to 36 months (about 3 years). The indicator
+                                                                           can be achieved only if the project is extended.
+                                        2018/19 score of 50     Nov/2019   2022/2023 score of   15-Mar-2024   2022/2023 score of   15-Mar-2024     56               Oct/2025
+                                                                                  51                                 51
+Openness of official statistics:         Comments on achieving targets     The indicator measures coverage and openness of data across 21 data categories, using the
+measures coverage and openness of                                          Open Data Inventory (ODIN) – a quantitative tool. ODIN 2022/23 survey was conducted
+data across 21 data categories, using
+                                                                           among 192 countries, where Kyrgyzstan ranked 92nd. Among the five countries of Central
+the Open Data Inventory (ODIN)
+(Text)                                                                     Asia included in the ODIN, Kyrgyzstan ranked 3rd [1].
+                                                                           [1] https://odin.opendatawatch.com/ReortCreator/ExportCountryReport/KGZ/2022
+
+
+
+Intermediate Results Indicators by Components
+
+
+Component 1. STS Institutional Development
+           Indicator Name                            Baseline                       Actual (Previous)                  Actual (Current)                 Closing Period
+
+
+                                                                                                                                                                               Page 8
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                               Result               Month/Year         Result              Date              Result                Date           Result          Month/Year
+Number of STS staff trained under               0.00                Nov/2019            1,101           15-Jan-2024          1,101           15-Jan-2024          400.00            Oct/2025
+the project (disaggregated by gender)
+(Number)
+e-Services for taxpayers (Number)               22.00               Nov/2019             35             15-Jan-2024           35             15-Jan-2024           27.00            Oct/2025
+                                          No STS strategy.          Nov/2019         STS Strategy       07-Nov-2023       STS Strategy       07-Nov-2023        STS strategy        Oct/2025
+                                                                                      developed,                           developed,                           developed,
+                                                                                 approved and being                   approved and being                       approved, and
+Strategy for STS is developed based
+                                                                                    implemented.                         implemented.                              under
+on the new methodology, approved,
+                                                                                  Implementation of                    Implementation of                      implementation
+and under implementation (Text)
+                                                                                     all 14 targets                       all 14 targets
+(Text)
+                                                                                   scheduled 2023                       scheduled 2023
+                                                                                      have been                            have been
+                                                                                      completed.                           completed.
+e-Filing rate for payroll (PAYE)                23.80               Nov/2019             100            15-Jan-2024           100            15-Jan-2024           45.00            Oct/2025
+withholding tax (Percentage)
+                                          36% of taxpayers           Dec/2019     36% of taxpayers      15-Apr-2024    36% of taxpayers      15-Apr-2024    Improvement by 20       Oct/2025
+                                              report full                             report full                          report full                           percent
+                                          satisfaction with                       satisfaction with                    satisfaction with
+                                         personal interaction                    personal interaction                 personal interaction
+Improved satisfaction of taxpayers
+                                            with the STS.                           with the STS.                        with the STS.
+with STS (Text)
+                                          Comments on achieving targets          The baseline level was assessed using 2021 Tax Compliance Cost Survey data (“Tax
+                                                                                 authorities provide high quality services to businesses"). The intermediate level of the
+                                                                                 indicator for 2023 will be assessed through the next survey (due July 2024).
+Component 2. STS Operational Development
+           Indicator Name                                Baseline                          Actual (Previous)                    Actual (Current)                       Closing Period
+                                               Result               Month/Year         Result              Date              Result                Date           Result          Month/Year
+Net taxes assessed per desk audit             3,167.30              Nov/2019          1,350.10          15-Apr-2024        1,350.10          15-Apr-2024         3,848.00           Oct/2025
+(thousand som ) (Number                   Comments on achieving targets           Achievement of the final value of this indicator will depend on timely implementation of ISNAK-2 system.
+(Thousand))
+On-time filing rate for payroll (PAYE)          80.20               Nov/2019            83.85           15-Jan-2024          83.85           15-Jan-2024           87.00            Oct/2025
+withholding tax (Percentage)
+
+
+
+                                                                                                                                                                                               Page 9
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                       STS does not have a        Nov/2019     STS does not have a   15-Apr-2024   STS does not have a   15-Apr-2024     Compliance Risk      Oct/2025
+                                         Compliance Risk                         Compliance Risk                     Compliance Risk                   Management Board
+                                       Management Board                        Management Board                    Management Board                        or equivalent
+                                            or a risk                               or a risk                           or a risk                         established and
+                                          management                              management                          management                        operational within
+                                            strategy                                strategy                            strategy                       the STS. Compliance
+                                                                                                                                                           management
+                                                                                                                                                        strategy approved
+Improved process for compliance risk                                                                                                                         and under
+management (Text)                                                                                                                                        implementation.
+                                        Comments on achieving targets          The project activities are still in their initial stage and thus have not had impact on Project’s
+                                                                               results indicators. The Business Process Redesign activity will focus on improving compliance
+                                                                               risk management.
+                                                                               This indicator measures the movement of STS towards using risk management and
+                                                                               incorporating it into their day-to-day and strategic operations. This indicator will be revised in
+                                                                               2023 during the project restructuring.
+                                          No risk based           Nov/2019        No risk based      15-Apr-2024      No risk based      15-Apr-2024        Risk based        Oct/2025
+                                           verification                            verification                        verification                        verification
+                                       procedures for VAT                      procedures for VAT                  procedures for VAT                  procedures for VAT
+                                          refund claims                           refund claims                       refund claims                       refund claims
+Risk based VAT refund claims                                                                                                                           developed and used
+automation (Text)                       Comments on achieving targets          This indicator measures the introduction of risk based automatic evaluation of refund claims.
+                                                                               Automation of refund claims will be implemented as part of ISNAK modernization,
+                                                                               reengineering of respective business processes is included in the ongoing consultancy
+                                                                               contract.
+Component 3. NSC Institutional Development
+           Indicator Name                              Baseline                         Actual (Previous)                    Actual (Current)                    Closing Period
+                                              Result              Month/Year         Result             Date             Result                 Date         Result          Month/Year
+Decrees issued by the Government to No decrees issued             Nov/2019             5             15-Mar-2024           5             15-Mar-2024   At least 10 decrees    Oct/2025
+enforce legal and regulatory reforms on official statistics                                                                                               issued by the
+on statistics (Text)                                                                                                                                       Government
+
+
+
+                                                                                                                                                                                          Page 10
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                        No courses exist in        Nov/2019          1 course on          15-Apr-2024        1 course on          15-Apr-2024      At least one          Oct/2025
+University level curricula in local     local universities in                    "statistics" is in the                  "statistics" is in the                   University level
+universities, including courses in        Official Statistics                        curricula of                            curricula of                        course in Official
+Official Statistics, and Data Science                                           economic specialties                    economic specialties                         Statistics
+(Text)                                   Comments on achieving targets            This course is taught only at one university.
+
+Gender disparity in staff count by             26.00               Nov/2019             20.00             15-Apr-2024             20.00           15-Apr-2024          33.00             Oct/2025
+gender at NSC: top level female
+managers at the oblast and rayon
+level (Percentage)
+                                                n/a                Nov/2019              18%              08-Nov-2023             20%             15-Mar-2023   The newly recruited      Oct/2025
+                                                                                                                                                                staff maintain a less
+Gender disparity in new staff hired                                                                                                                              than 15% disparity
+during the project at NSC (Text)                                                                                                                                      by gender
+                                         Comments on achieving targets            In he first quarter of 2024, NSC hired 12 males and 18 females. Since beginning of the project, a total of 140
+                                                                                  males and 213 females were hired. Short and longer term gender disparity remains at 20 percentage points.
+Component 4. NSC Data Development
+           Indicator Name                               Baseline                           Actual (Previous)                         Actual (Current)                       Closing Period
+                                               Result              Month/Year           Result               Date                 Result                Date           Result           Month/Year
+                                           75.5 in 2018            Nov/2019             81.50             15-Mar-2024             81.50           15-Mar-2024   Improvement by 5         Oct/2025
+                                                                                                                                                                     points
+                                         Comments on achieving targets          World Bank Statistical Performance Indicator measures 4 dimensions (Methodology,
+World Bank Statistical Performance
+                                                                                Standards and Classifications (MSC); Censuses and Surveys (CS); Availability of Key Indicators
+Indicator (Text)
+                                                                                (AKI), and Dissemination Practices and Openness (DPO). The current indicator’s value is 78.6.
+                                                                                A significant increase is expected after the implementation of e-reporting and functional
+                                                                                website.
+                                        About 25% surveys          Nov/2019           Based on            15-Mar-2024         Based on            15-Mar-2024     At least 75% of        Oct/2025
+Digitization of surveys using CAPI,       are digitalized                           information                             information                            surveys are
+CATI, CAWI - reduction of paper-                                                  provided by the                         provided by the                            digitized.
+based questionnaires and surveys                                                 National Statistical                    National Statistical
+(Text)                                                                           Committee, about                        Committee, about
+                                                                                  75% surveys are                         75% surveys are
+
+
+
+                                                                                                                                                                                                     Page 11
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                                      digitalized. This is a                 digitalized. This is a
+                                                                         very significant                       very significant
+                                                                      increase (threefold)                   increase (threefold)
+                                                                        compared to the                        compared to the
+                                                                        baseline of 25%.                       baseline of 25%.
+                                      Comments on achieving targets    A significant increase is expected during the implementation of e-reporting.
+
+                                           38.00          Oct/2018           61.60             15-Mar-2024          61.60             15-Mar-2024       60.00             Oct/2025
+Overall data users satisfaction
+(Percentage)                          Comments on achieving targets    The value is above end-target (60%), but 5.9 percentage points below results of the previous round of user-
+                                                                       satisfaction survey.
+                                           14.00          Dec/2019            8.80             15-Mar-2024           8.80             15-Mar-2024       11.00            Dec/2025
+Time required to respond to citizen
+requests received through the NSC     Comments on achieving targets    The indicator is monitored by the marketing department of the Center of intellectual data of NSC. According to
+website (Days)                                                         the latest data: 74 requests were received by March 31, 2024, of which 64 requests were closed. average for
+                                                                       closed requests was 8.8 days.
+
+
+
+
+                                                                                                                                                                                        Page 12
+

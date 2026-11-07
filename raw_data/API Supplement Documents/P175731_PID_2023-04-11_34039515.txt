@@ -1,0 +1,627 @@
+﻿          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+
+
+                       Project Information Document (PID)
+
+
+                      Appraisal Stage | Date Prepared/Updated: 11-Apr-2023 | Report No: PIDA34734
+
+
+
+
+Feb 01, 2023                                                                                        Page 1 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                             Project ID                   Project Name                  Parent Project ID (if any)
+   Eastern and Southern Africa         P175731                      SADC Regional Statistics
+                                                                    Project
+   Region                      Estimated Appraisal Date             Estimated Board Date          Practice Area (Lead)
+   EASTERN AND SOUTHERN AFRICA 27-Mar-2023                          15-May-2023                   Poverty and Equity
+
+   Financing Instrument                Borrower(s)                  Implementing Agency
+   Investment Project Financing        Southern African             Institut National de la
+                                       Development Community        Statistique et des Etudes
+                                       (SADC), Republic of          Economiques (INSEED),
+                                       Zambia, Democratic           Southern African
+                                       Republic of São Tomé and     Development Community,
+                                       Príncipe, Republic of        Instituto Nacional de
+                                       Madagascar, Union of the     Estatística (INE), National
+                                       Comoros, Republic of         Statistical Office (NSO),
+                                       Malawi                       Zambia Statistics Agency
+                                                                    (ZamStats), National
+                                                                    Institute of Statistics
+                                                                    (INSTAT)
+
+   Proposed Development Objective(s)
+
+   The Project Development Objective (PDO) is to strengthen the institutional capacity of SADC and participating
+   countries to produce, disseminate and use quality statistics while increasing regional harmonization and collaboration.
+
+   Components
+   Component 1: Harmonization, quality, and dissemination of core social and economic statistics (SADC)
+   Component 2: Close gaps in data production, statistical capacity, and data use at country level
+   Project Management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY        -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                 104.50
+   Total Financing                                                                                                   104.50
+                 of which IBRD/IDA                                                                                   104.50
+
+
+March 22, 2023                                                                                                      Page 2 of 13
+             The World Bank
+             SADC Regional Statistics Project (P175731)
+
+
+
+   Financing Gap                                                                                                                                    0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+         International Development Association (IDA)                                                                                              104.50
+            IDA Credit                                                                                                                             75.00
+            IDA Grant                                                                                                                              29.50
+
+   Environmental and Social Risk Classification
+   Moderate
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+    1.    Good quality data – timely, reliable, accurate, detailed and accessible – are an integral part of good
+    governance and contribute to key development objectives. The World Development Report 2021 (World Bank,
+    2021) highlights three institutional pathways that link data to development. First, public actors including
+    governments and international organizations use data to support evidence-based policies and improve service
+    delivery. Second, civil society uses data to monitor government policies and individuals use data to monitor and
+    access services. Finally, private firms use data to improve production processes and grow their productivity, thus
+    contributing to wider economic growth. Thus, people (society, governments, and firms) need to transform data
+    into useful information to improve lives; without such a transformation, data do not support development. Data
+    are key to efficiently allocate public resources under constrained fiscal space, to track progress, and assess the
+    impacts of public programs and policies. Statistical production is also a pillar in the construction of systems to
+    implement multi-sectoral programs, for instance to combat chronic malnutrition or manage disaster risks. When
+    accessible to the civil society, data promote transparency and accountability in policy making, essential elements
+    of good governance and public trust.
+    2.    Good-quality, reliable, and harmonized statistics also contribute to the regional integration agenda.
+    Inclusive growth and poverty reduction can be accelerated through closer regional collaboration and integration
+    by expanding access to markets and generating more investment, innovation and competition.1 While Sub-Saharan
+
+
+    1   Choi et al. 2020. The Future of Work in Africa: Harnessing the Potential of Digital Technologies for All. Washington, DC: World Bank.
+
+March 22, 2023                                                                                                                                  Page 3 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    Africa (SSA) has made progress in economic integration, the pace has been slow. Strengthening regional economic
+    blocks like SADC is important to accelerate sub-regional integration. Building Southern African Development
+    Community (SADC) data infrastructure is crucial for generating evidence and knowledge about the benefits and
+    costs of regional integration to inform implementation of regional policies at the national level. Finally, regional
+    collaboration in data production will ensure that countries fulfill regional quality standards in their data production,
+    including harmonization and better comparability, and thus contribute to the regional data infrastructure and
+    policy making towards broader and more efficient integration.
+    3.     The proposed project seeks to modernize beneficiaries’ data ecosystems by addressing gaps in data
+    production and use. Maximizing the value of data in development requires narrowing data and statistical capacity
+    gaps through addressing both the demand and supply sides of the challenge. This requires “… long-term, stable
+    financing of data; investments in statistical and technical capacity; and laws conducive to safe data production and
+    reuse. Other areas that must be addressed include […] policy makers’ lack of incentives for and interest in using
+    data, low trust in the quality of public intent data, and lack of infrastructure for accessing and using the data.�?2 The
+    proposed project seeks to strengthen the data governance framework by supporting the generation and use of
+    data in a safe, ethical, and secure way, while also delivering value equitably.
+
+   Country Context
+    4.     Sub-Saharan Africa (SSA), in particular East and Southern Africa, remains the poorest and one of the most
+    unequal regions in the world, recording only modest progress in recent years as a result of multiple cyclical and
+    structural constraints. Gross Domestic Product (GDP) growth is a major driver of poverty reduction, and
+    throughout the 1990s and early 2000s many poor people around the world managed to escape poverty thanks to
+    high and sustained growth rates. However, GDP per capita growth in SSA has been weak and erratic, and has been
+    falling in recent years. Due to the COVID-19 pandemic an estimated 26 to 40 million people were pushed into
+    poverty in SSA. Structurally, high fertility rates perpetuate cycles of poverty by keeping dependency ratios high,
+    investment in human capital low, and constraining female productive employment. High inequality is strongly
+    linked to poverty, especially by structural factors such as isolation, underdeveloped markets and uneven access to
+    them, and conflict. The region is also highly exposed and vulnerable to climate-related shocks, which have
+    disproportionate impacts on the poorest populations.
+    5.     These constraints are salient among the proposed project’s participating countries – Comoros,
+    Madagascar, Malawi, Zambia–five Southern African Development Community (SADC) member states, and São
+    Tomé and Príncipe. Using the poverty line of $US2.15 per day, the most recent estimated poverty rates in these
+    countries vary between 15.6 percent in São Tomé and Príncipe to 70.1 percent in Malawi. Together, they are home
+    to over 37 million poor people, 12 percent of the entire population of the SADC region (and 24 percent of the SADC
+    region’s poor population). These countries have a high common reliance on primary sectors and high vulnerability
+    to climate shocks, which time and again cause setbacks to their economic progress. Moreover, geographic poverty
+    traps, such as high rural populations with low access to services and connectivity, are pervasive among them. The
+    poverty reduction agenda can only be accelerated in this region through the implementation of evidence-based
+    economic and social policies in a wide range of sectors, such as macro-financial to social, environmental,
+    productive, etc. This requires exhaustive, timely, comparable and accessible data, and statistics to inform the
+    design and monitoring of policies and programs.
+    6.    In addition to high poverty, the proposed participating countries in this project face shortcomings in good
+    governance, including transparency and public spending efficiency. By several indicators, SSA scores low on
+
+          2   World Bank (2021). WDR 2021 Overview, page 7.
+
+March 22, 2023                                                                                                        Page 4 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    quality of governance.3 As Systematic Country Diagnostics (SCDs) for these countries argue, improving the quality
+    of governance is a key cross-cutting priority to advance the World Bank’s twin goals of ending extreme poverty and
+    promoting shared prosperity. This includes transparency in decisions regarding resource allocation and results
+    linked to public spending, which would improve government accountability. Statistical capacity weaknesses result
+    in unavailable or scattered data, which is seldom harmonized across countries, limiting its use and relevance for
+    policy making. Greater access to and transparency and timeliness of government data and monitoring systems are
+    needed to equip those providing commentary on policy making with the information they need. Often, lack of
+    timely and relevant information constitutes a major barrier to transparent and efficient policy decisions.
+
+   Sectoral and Institutional Context
+    7.     Sub-Saharan Africa has made substantial progress in the production of statistics over the last 20 years.
+    From the early 2000s, strategic planning through National Strategies for the Development of Statistics (NSDS) has
+    been adopted, with most African countries having implemented one or more strategies by 2020. Several countries
+    use the 2008 System of National Accounts (SNA). The geographic coverage and timeliness of the consumer price
+    index (CPI) has also improved. External trade statistics are harmonized in many countries. The number of household
+    surveys that collect data on monetary and non-monetary dimensions of poverty has increased. Between 2016 and
+    2018, for instance, 45 countries in Sub-Saharan Africa and 7 countries in SADC conducted or were conducting
+    household surveys. The increase in the World Bank Statistical Capacity Indicator (SCI) confirms the overall progress
+    in statistical capacity building in SSA, but the continent still lags other regions.4 The SCI for SSA countries (excluding
+    high-income countries) increased from 55.2 in 2004 to 59.0 in 2019. Despite this progress, the SCI for SSA is still
+    the lowest among developing regions. Best performers are Europe and Central Asia.
+    8.     In SADC countries, remaining statistical capacity weaknesses result in unavailable or scattered data, which
+    is seldom harmonized across countries, limiting its use and relevance for policy making. Comoros, Madagascar,
+    Malawi, and Zambia score only 46.7, 54.4, 70, and 53.3 respectively, out of 100 on the World Bank’s SCI, while the
+    SADC country group scores 61.5; and São Tomé and Principe scores 57.8 (Figure 2). The more recent Statistical
+    Performance Index (SPI) on the other hand, has ranked Malawi (the top SCI performer in the group) in the second-
+    lowest quintile on the development of its National Statistical System (NSS). Data standards are outdated, access to
+    data is limited and so is the use of data for policy making. National monitoring and evaluation systems (M&E) used
+    in SADC member states are at an early stage and face sustainability challenges. Moreover, insufficient gender-
+    disaggregated statistics hinder the region’s effort to track progress on gender equality and to design relevant
+    policies in response. There has been a modest increase in the SADC regional SCI since 2004, showing a better
+    performance than the average for SSA countries. That said, there remain wide gaps in capacity across SADC
+    member states. Comoros, Angola, and Democratic Republic of Congo have the lowest scores (42.1, 46.7 and 47.1,
+    respectively) while the best performers, Mauritius, South Africa, and Malawi, score about twice higher as the
+    lowest.
+
+
+
+    3 One example is the Ibrahim Index for Good Governance in Africa, which covers four governance dimensions: security and rule of law;
+    participation, right and inclusion, foundation for economic opportunities and human development. According to this index, the SADC
+    average score was 53.9 in 2021 and had barely improved in a decade. Meanwhile, Comoros (lowest score at 42.5), and Zambia (50) saw their
+    scores decline in that period. The score improved in São Tomé and Príncipe (59.5), Malawi (54.6) and notably in Madagascar (by 3 points),
+    although it remains the lowest after Comoros in the group at 44.2 out of 100.
+    4The SCI provides a score for every country in the world on the methodology, data sources, and periodicity and timeliness of core economic
+    and social statistics.
+
+
+March 22, 2023                                                                                                                          Page 5 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    9.    A World Bank-led statistical needs assessment tool implemented in SADC countries in 2020 shows that
+    while the region performs well in organization and infrastructure, notable challenges are observed in data
+    analysis and indicators as well as in data collection and openness .5 The tool aims to assess the strengths and
+    weaknesses of national statistical systems along six dimensions: (i) Organization and Infrastructure; (ii) Human
+    Resource (HR) issues; (iii) Data collection; (iv) Analysis and indicators; (v) Information Technology (IT) infrastructure
+    and systems; and (vi) Methodologies. The average score for SADC countries was 2.6 out of 4 in 2020. The two
+    dimensions with the lowest score in the project’s participating countries are (iii) and (iv), while the highest -scored
+    dimension is (i). The proposed project aims to precisely strengthen the weakest areas of statistical systems.
+
+   C. Proposed Development Objective(s)
+
+    Development Objective(s)
+    10. The Project Development Objective (PDO) is to strengthen the institutional capacity of SADC and participating
+    countries to produce, disseminate and use quality statistics while increasing regional harmonization and
+    collaboration.
+
+   Key Results
+    11. The achievement of the PDO level results will be measured by three high-level indicators. The proposed
+    indicators cover core areas of statistical systems including production, as well as harmonization, dissemination, and
+    use of statistics:
+          1) PDO Indicator 1: Improved statistical production: measured by the average of the “Data Collection and
+             Openness�? score from the World Bank’s Questionnaire for Evaluating Statistical Capacity among SADC
+             Countries, for areas where the project’s activities are expected to improve the participating country’s
+             score. This indicator collects information on 29 different types of data sources in 7 areas produced by the
+             National Statistical System and managed by the National Statistical Office. The indicator takes a value
+             between 0 and 4 (where 4 corresponds to a system aligned with international best practices).
+          2) PDO Indicator 2: Increased number of high-quality, harmonized statistics: measured by the “Data
+             Analysis and Indicators�? score from the World Bank’s Questionnaire for Evaluating Statistical Capacity
+             among SADC Countries, for areas where the project’s activities are expected to improve the
+             participating country’s score. This section measures 68 core social and economic data in 9 areas,
+             harmonized across SADC member countries and includes compliance with international best practices
+             in methodology and timeliness.
+          3) PDO Indicator 3: Improved use of statistics: measured by the number of formal requests, including
+             downloads from the NSO website, of datasets and reports supported by the project. 6
+
+
+
+
+    5 This assessment was an extensive survey covering the core domains in statistical regulation, production, and analysis. The tool is designed
+    to evaluate statistical systems of each participating country, as well as to facilitate comparability between country statistical systems and
+    group countries depending on their strengths and weaknesses or their NSSs. The questionnaire is divided in six categories or dimensions: (i)
+    Organization and Infrastructure; (ii) HR issues; (iii) Data collection; (iv) Analysis and indicators; (v) IT infrastructure and systems; and (vi)
+    Methodologies. Each category includes a series of questions. Respondents are asked to rank items on a 0-4 scale.
+    6 Along with counterparts, the World Bank team will define the list of relevant reports that will be released through NSOs’ web sites.
+
+
+
+March 22, 2023                                                                                                                                Page 6 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    12. The first two indicators refer to the Data Collection and Analysis and Indicators areas of the assessment
+    described above, as they capture most closely the data production, quality and harmonization areas of the
+    PDO. Area “(3) Data collection,�? evaluates the type and frequency of surveys conducted (including labor force
+    surveys, continuous multi-topic surveys, household income and expenditure surveys, agricultural surveys, health
+    and demographics surveys); population, agriculture, and economic censuses; economic activity data and service
+    provision data collection; social statistics; administrative data; business registers; tax administration registers and
+    judicial registers. Area “(4) Analysis and indicators,�? evaluates how much data are rigorous in quality,
+    comparable, and timely. This area covers macroeconomic indicators and National Accounts; poverty indicators;
+    labor statistics; health and demography indicators; education indicators; access to services such as water,
+    sanitation and electricity; business activity; government and finance statistics, for instance central and local
+    government accounts; and other indicators—peace, violence, security, violence against children, gender-based
+    violence, and cultural statistics. Taken together, these questions cover many of the types of statistics required to
+    monitor the SDGs. The proposed project is expected to raise the performance of areas 3 and 4 by increasing the
+    number and frequency of surveys, social statistics (including poverty, health, education, and gender), business
+    registers and economic statistics, macro indicators and National Accounts, labor statistics, and agricultural
+    statistics.
+    13. The outcomes of the activities planned under this project are also expected to improve the World Bank’s
+    Statistical Performance Indicator (SPI). The project is expected to increase the countries’ performance in pillars
+    4 and 5 (data sources and data infrastructure) of the SPI, by supporting key data collection activities which in turn
+    will make available many indicators needed to monitor the SDGs (pillar 3) and feed some international databases
+    (pillar 1). Regional statistical harmonization will bring countries closer to international guidelines in several areas,
+    notably National Accounts. Activities related to data analysis and dissemination will directly help improve pillar
+    2 of the SPI, in addition to contributing to the improvement of the pillar 1 of the SPI though the support to better
+    use of data for public policy.
+
+
+    D. Project Description
+
+    14. The project will enhance the production, dissemination, and use of harmonized high-quality statistics.
+    With the help of the project and coordination of the regional body of SADC, quality and harmonized D4P statistics
+    will be produced and disseminated. The timely release of better disseminated statistics will lead to the enhanced
+    use of statistics. This, in turn, will encourage more production of statistics, creating a positive feedback loop that
+    strengthens the sustainability of the project objective. NSOs and specialized agencies from participating national
+    governments will receive specialized training and capacity-building activities on national monitoring and
+    evaluation systems in order to promote evidence-based policy making. At a national level, a wide range of
+    technical assistance activities will close some of the critical statistical capacity gaps based on specific country-by-
+    country assessments and strategic development priorities. Figure 6 presents the results chain framework.
+    The proposed regional project will include: 1) five International Development Association (IDA) countries,
+    namely: four SADC member states—Comoros, Madagascar, Malawi, Zambia—and a non-SADC member state,
+    São Tomé and Príncipe, and 2) the SADC Secretariat. The project has three components. Component 1: Regional
+    harmonization, quality, and dissemination of core social and economic statistics. This component seeks to
+    address the challenge of limited capacity to monitor economic progress and inform regional policy decisions. It
+    aims to support the implementation of continental and regional agreements on statistics – specifically, SADC’s
+    RSDS 2020-2030. This will improve the harmonization and quality of statistics; increase human resource capacity
+    of SADC Secretariat to promote harmonization; and increase access, dissemination, and use of data and statistics
+    to support evidence-based policy and decision making. This component, therefore, underscores statistics as a
+
+March 22, 2023                                                                                                           Page 7 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    public good for regional integration. Component 2: Close gaps in data production, statistical capacity, and
+    equipment and materials at country level addresses capacity constraints specific to each country NSOs to
+    contribute to the RSDS. The country-level component seeks to extend the D4P package in participating countries
+    under the harmonizing guidelines, recognizing initial institutional and human resource capacities and
+    acknowledging the amount of existing core statistics. Component 3: Project Management will ensure the
+    implementation of the project in each participating country and SADC Secretariat and will be embedded within
+    Component 1 for SADC and within Component 2 for each country project. The World Bank’s support is planned
+    for five years. The estimated cost of the overall project is $104.5 million, to be provided through a combination
+    of IDA credits and grants from country-specific and regional windows. The structure of the proposed project is
+    summarized in Table 1.
+
+          Table 1: SADC regional project structure and financing
+
+  Component Description                        TOTAL      SADC           Malawi    Madagascar     Zambia    Comoros    STP
+                                               (million
+                                               US$)
+  Component 1: Harmonization, quality,
+  and dissemination of core social and
+  economic statistics (SADC)                       10.0        10.0
+  1.1 Improving capacity for data
+  production, management and
+  dissemination                                     5.0            5.0
+  1.2 Improve access and usage of regional
+  statistics                                        4.0            4.0
+  1.3 Project Management - SADC                     1.0            1.0
+  Component 2: Close gaps in data
+  production, statistical capacity, and data
+  use at country level                             86.0            0.0      13.6           42.1      26.7        1.1         2.5
+  2.1 Close data production gaps                   55.2                     11.2           22.8      18.3        0.9         2.1
+  2.2 Close gaps in skills, equipment, and
+  other statistical inputs                         21.8                      1.5           13.6       6.2        0.3         0.2
+  2.3 Promote data dissemination, use and
+  open access                                       9.0                      0.9            5.7       2.2        0.0         0.2
+  Component 3: Project management and
+  monitoring and evaluation (M&E)                   8.5                      1.4            2.9       3.3        0.4         0.5
+
+
+  Total                                           104.5        10.0         15.0           45.0      30.0        1.5         3.0
+
+  .
+  .
+  Legal Operational Policies
+                                                                              Triggered?
+
+   Projects on International Waterways OP 7.50                                No
+
+
+
+March 22, 2023                                                                                                          Page 8 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+
+   Projects in Disputed Areas OP 7.60                                     No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+    15. The environmental and social risk rating has been classified as Moderate. Key adverse environmental and
+    social risks and impacts relate to ensuring that (i) minor civil works and installation of ICT equipment are managed
+    adequately considering mitigation hierarchy, particularly in relation to construction waste generation and
+    occupational health and safety issues; (ii) the replacement, transportation and disposal of old ITC equipment (e-
+    waste) as well new acquired are undertaken properly; (iii) Technical Assistance (TA) activities including face-to-
+    face trainings, workshops and statistical survey follows prevention measure against COVID-19; (iv) the Terms of
+    Reference for TA type-2 activities (review or development of new policies, plans & strategies) have been reviewed
+    and approved by WB to ensure consistency with the ESF; (v) any statistical guidelines and frameworks established
+    under the project include considerations of digital data protection and digital security; (vi) there is appropriate
+    stakeholder engagement at the regional and national level with all stakeholders, including civil society and
+    marginalized groups, in a manner that is understandable and transparent and explains the benefits and impacts
+    of the activities; (vii) labor conditions, especially with regards to HR restructuring activities, salary re-adjustments
+    and skills needs assessments, as well as occupational health and safety (minor cuts and injuries, road safety, etc.
+    during work); (viii) ensuring that inclusion and data protection covers vulnerable and marginalized groups; and
+    (iv) possible risks of sexual exploitation and abuse and sexual harassment (SEA/SH) at the work place and during
+    the roll out of surveys. Although capacity of the PIUs and NSOs to manage environmental and social risk is
+    generally limited, the risks generated by the proposed activities are possible to mitigate through identified
+    measures.
+    16. The following standards have been identified as relevant for the project; ESS1 Assessment and
+    Management of Environmental and Social Risks and Impacts, ESS2 Labor and Working Conditions, ESS3
+    Resource Efficiency and Pollution Prevention and Management, ESS4 Community Health and Safety, and ESS10
+    Stakeholder Engagement and Information Disclosure. Environment and Social Commitment Plans, Stakeholder
+    Engagement Plans, have been produced for each country and SADC before appraisal, and Project Operational
+    Manuals (POMs) and Labor Management Practices (LMPs) will be developed before beginning project activities
+    on the ground. The project also has prepared draft Codes of Practices for e-Waste Management, and COVID-19
+    Contingency Plans for each country and for SADC prior to appraisal.
+
+    E. Implementation
+
+   Institutional and Implementation Arrangements
+
+    17. The SADC Secretariat will be the implementing agency for Component 1. A PIU will be integrated in the
+    SADC Secretariat which will be responsible for program management, including procurement, financial
+    management, and M&E. The PIU will also be responsible for coordination between NSOs, organizing training
+    events, and monitoring progress. It will also be responsible for quality control and preparing in-house analysis.
+    An initial assessment during project preparation showed the need to strengthen the capacity of the SADC
+    Secretariat in human resources. Therefore, resident consultants with adequate skills in World Bank operations
+    will be hired to support the PIU that will be put in place. These consultants would include, but will not be limited
+
+March 22, 2023                                                                                                           Page 9 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+    to, a coordinator, and finance and procurement specialists as required. A Steering Committee will also be
+    established to offer advice to the project coordinator and facilitate project M&E of progress, to ensure that the
+    project makes effective use of the project assets, to use influence and authority to assist the project in achieving
+    its objective and consider proposed project budgets by the PIU.
+    18. In Madagascar, the main implementing agency for the Program will be the National Institute of Statistics
+    (INSTAT). The INSTAT is a Semi-Autonomous Government Agency that operates in accordance with the Statistics
+    Act No. 2018-004. INSTAT is managed by a Director General and a team of 9 directors who are appointed by the
+    Council of Ministers. The Director General will serve as the program coordinator and will be supported by a
+    deputy program coordinator. The responsibilities of the coordinator include facilitating supervision missions and
+    engagement with INSTAT staff responsible for and working on delivering various Program areas. To provide
+    oversight to the Program, the Board of Directors will serve as a Program Steering Committee (PSC). The PSC shall
+    have the responsibility of overseeing the progress and effectiveness of the Program; monitoring the achievement
+    of results; ensuring adequate budget provision for the full duration of the Program; and providing policy
+    direction.
+    19. In Malawi, the project will be implemented by the National Statistical Office (NSO). The NSO of Malawi
+    is the main government department responsible for the collection and dissemination of official statistics. With
+    headquarters based in Zomba, its 300 employees operate under the 2013 Statistics Act. The NSO Headquarters
+    contains the offices of the Commissioner of Statistics and Deputy Commissioner of Statistics, together with the
+    general administration, accounts and human resources departments. The administration section also deals with
+    first enquiries for statistical data from the general public, and with product sales. The commissioner will oversee
+    the project, and NSO will appoint a project coordinator and will establish a PIU, staffed with Project Manager,
+    Financial Management and Procurement Specialists, a Social and Environmental Specialist, and Monitoring and
+    Evaluation Specialist.
+    20. In Sao Tome and Principe, INE and the Fiduciary Agency for Project Administration (Agência Fiduciária
+    de Administração do Projetos – AFAP) will both be responsible for implementing the project. As the official
+    provider of statistics in STP, INE is the main beneficiary of the project. Therefore, having INE responsible for the
+    management and coordination roles will ensure ownership as well as an efficient project implementation and
+    on-the-job capacity building for project management. INE will be in charge of Project Coordination Monitoring
+    and Evaluation , and the Project Administration Fiduciary Agency (AFAP) will be responsible for the fiduciary and
+    ESF activities of the project given that its financial management capacity is adequate to meet the minimum
+    requirements of the Bank. Having implemented complex IDA-financed projects, AFAP has extensive experience
+    with Bank procurement rules and procedures, which would help the implementation of the project. The inclusion
+    of coordination and M&E within INE builds on INE’s existing experience participating in WB projects and will
+    ensure more ownership and better technical oversight of the activities.
+    21. In Comoros, the Ministry of Finance, through the Institut National de la Statistique et des Etudes
+    Economiques (INSEED), will be the main implementing agency for the project, responsible for its coordination,
+    management, and overall implementation. Subject to their availability, the coordinator, accountant, and
+    procurement specialist of the Comoros Statistical Project will be part of the coordination unit of the project
+    respectively as project coordinator, Administrative Officer of the project, and procurement officer. This is
+    justified by the good management shown by this team in the previous STATCAP project and it will allow the new
+    project to benefit from the achievements of this team through the capacity building they have received. The
+    coordination team should also include a secretary, a monitoring and evaluation officer, an accountant, a
+    procurement officer, a driver, and office management staff. Members of the coordination team should have the
+    required qualifications as established by the TDRs provided by INSEED with the no-objection of the World Bank.
+
+March 22, 2023                                                                                                      Page 10 of 13
+           The World Bank
+           SADC Regional Statistics Project (P175731)
+
+
+      Training activities in financial management, procurement, and project coordination will be provided to
+      strengthen the capacities and skills of the coordination team.
+      22. In Zambia, the project will be implemented by the Zambia Statistics Agency (ZamStats). The Statistics Act
+      2018 designates ZamStats as an autonomous institution that has the sole responsibility of publishing official
+      statistics and which develops and coordinates the integrated National Statistical System (NSS) for Zambia. The
+      NSO is overseen and governed by a Board of Directors and is managed by a Management team with the
+      Statistician General at the helm. The NSO intends to establish a Project Implementation Unit (PIU), which will
+      implement the Project in Zambia. The PIU will be hosted at the ZamStats building in the capital city, Lusaka, and
+      will be established in accordance with the agreed fiduciary arrangements of the Project. It will comprise of:
+      Project Coordinator (who will report to the Statistician General), Deputy Project Coordinator, Component
+      Managers (x3), Financial Management Specialist, Procurement Specialist, M&E Officer, Environmental and Social
+      Safeguards Officer, and Administrative Assistant. The terms and conditions of service of staff posted to the PIU
+      will comply with and follow guidance from the Emoluments Commission and the Ministry of Finance. The process
+      for the recruitment of PIU staff will be guided, approved and overseen by the Board, and receive the no objection
+      of the World Bank. To provide technical strategic direction and oversight to the Project, the National Statistics
+      Coordinating Committee – a committee of 15 Directors from institutions representing 15 key sectors for national
+      statistics – will serve as the Project Steering Committee (PSC). The PSC will: provide policy and strategic direction
+      to the Project; ensure financial resource adequacy and reliability, and Project compliance with fiduciary
+      requirements; ensure oversight of progress and achievements of the Project; ensure effective support to mitigate
+      risks and emerging challenges; and ensure appropriate monitoring and evaluation of achieved Project results.
+
+
+
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Ana Maria Oviedo Silva
+      Senior Economist
+
+      Javier Eduardo Baez Ramirez
+      Lead Economist
+
+      Borrower/Client/Recipient
+      Democratic Republic of São Tomé and Príncipe
+
+
+
+
+      Republic of Madagascar
+
+
+
+March 22, 2023                                                                                                         Page 11 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+
+
+   Republic of Malawi
+
+
+
+
+   Republic of Zambia
+
+
+
+
+   Southern African Development Community (SADC)
+   Mubita Luwabelwa
+   Director of Policy Planning and Resource Mobilization, SADC
+   mluwabelwa@sadc.int
+
+   Union of the Comoros
+
+
+
+
+   Implementing Agencies
+   Institut National de la Statistique et des Etudes Economiques (INSEED)
+   Ounais Hamidou
+   Deputy CEO
+   ounais1@yahoo.fr
+
+   Instituto Nacional de Estatística (INE)
+   Elsa Cardoso
+   Director General
+   elsacardoso123@hotmail.com
+
+   National Institute of Statistics (INSTAT)
+   Dera ANDRIAMBOLOLONA
+   Programs Director
+   dp@ugpinstat.mg
+
+   National Statistical Office (NSO)
+   Lizzie Chikoti
+   Commissioner of Statistics, National Statistical Office of M
+   chikotilizzie@gmail.com
+
+
+Feb 01, 2023                                                                Page 12 of 13
+          The World Bank
+          SADC Regional Statistics Project (P175731)
+
+
+   Southern African Development Community
+   Deepchandsingh Jagai
+   Senior Officer
+   djagai@sadc.int
+
+   Zambia Statistics Agency (ZamStats)
+   Mulenga J.J Musepa
+   Interim Statisticial General
+   Mulengajj.musepa@zamstats.gov.zm
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                         Ana Maria Oviedo Silva
+   Task Team Leader(s):
+                                         Javier Eduardo Baez Ramirez
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                     Mohammed Dalil Essakali       11-Apr-2023
+
+
+
+
+Feb 01, 2023                                                                         Page 13 of 13
+

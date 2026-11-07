@@ -1,0 +1,454 @@
+{
+  "project_id": "P176274",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "32357dcb",
+  "started_at": "2026-11-07T03:32:53Z",
+  "ended_at": "2026-11-07T03:33:15Z",
+  "input_fingerprint": "3669906888905268",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 23,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P176274-A1",
+      "project_id": "P176274",
+      "name": "Business directory/database mapping firms by sector, goods and services, with SME profiles and past-performance records",
+      "description": "Subcomponent creates a directory mapping firms by sector and goods/services to target support.",
+      "why_innovative": "Digital firm registry cataloguing SME capabilities and tender history to target support and matchmaking | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "920341648600654045",
+        "doc_type": "PAD",
+        "doc_date": "2022-03-04",
+        "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+        "char_start": 71834,
+        "char_end": 71948,
+        "text": "This subcomponent will create a directory of businesses that maps firms by sector and goods and services provided.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "920341648600654045",
+          "doc_type": "PAD",
+          "doc_date": "2022-03-04",
+          "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+          "char_start": 71949,
+          "char_end": 72148,
+          "text": "The directory will help the Project target the wider private sector firms that may need support to improve their performance, participate in linkages opportunities in the future, or become exporters.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: a data registry is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other Industry, Trade and Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "A business directory mapping firms by sector and goods/services directly supports trade and business services development.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: firm database with SME profiles | New: catalogues capabilities/past performance for targeting | Category: Technological registry",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital firm registry cataloguing SME capabilities and tender history to target support and matchmaking",
+      "innovation_cues": [
+        "demonstrations"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176274",
+      "doc_type": "PAD",
+      "doc_date": "2022-03-04",
+      "guid": "920341648600654045",
+      "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:32:53Z",
+      "ended_at": "2026-11-07T03:32:58Z",
+      "status": "ok",
+      "note": "9 document(s) fetched from the WBG API; 14 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:32:58Z",
+      "ended_at": "2026-11-07T03:32:58Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-05-05, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:32:58Z",
+      "ended_at": "2026-11-07T03:33:00Z",
+      "status": "ok",
+      "note": "23 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 23,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 9,
+          "enabling_processes": 1,
+          "innovation": 2,
+          "innovation_cycle": 6,
+          "public_good": 2,
+          "results_based_management": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:00Z",
+      "ended_at": "2026-11-07T03:33:00Z",
+      "status": "ok",
+      "note": "PAD 2022-03-04 (P176274_PAD_2022-03-04_920341648600654045.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176274",
+            "doc_type": "PAD",
+            "doc_date": "2022-03-04",
+            "guid": "920341648600654045",
+            "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:00Z",
+      "ended_at": "2026-11-07T03:33:00Z",
+      "status": "ok",
+      "note": "166 reading units (17 numbered paragraphs) from 1379 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 166
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:00Z",
+      "ended_at": "2026-11-07T03:33:04Z",
+      "status": "ok",
+      "note": "51 of 166 units carry a digital / AI cue (26 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 51,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 26
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:04Z",
+      "ended_at": "2026-11-07T03:33:07Z",
+      "status": "ok",
+      "note": "3 candidate practices from 51 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 173204,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1245,
+          "cached_tokens": 35456,
+          "cache_write_tokens": 0,
+          "output_tokens": 1202,
+          "seconds": 12.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.002
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:07Z",
+      "ended_at": "2026-11-07T03:33:11Z",
+      "status": "ok",
+      "note": "1 accepted, 2 rejected (not_digital 2); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 64403,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7057,
+          "cached_tokens": 5632,
+          "cache_write_tokens": 0,
+          "output_tokens": 249,
+          "seconds": 3.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0024
+        },
+        "accepted": 1,
+        "rejected": 2,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:11Z",
+      "ended_at": "2026-11-07T03:33:13Z",
+      "status": "ok",
+      "note": "1 of 1 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1025,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 248,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 48,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:13Z",
+      "ended_at": "2026-11-07T03:33:13Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:13Z",
+      "ended_at": "2026-11-07T03:33:15Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4091,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 491,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 72,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:15Z",
+      "ended_at": "2026-11-07T03:33:15Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:15Z",
+      "ended_at": "2026-11-07T03:33:15Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 169
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176274-A1-E1",
+      "approach_id": "P176274-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P176274",
+      "doc_id": "920341648600654045",
+      "doc_type": "PAD",
+      "doc_date": "2022-03-04",
+      "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+      "unit_id": "U51",
+      "para_no": null,
+      "sentence_position": 414,
+      "char_start": 71834,
+      "char_end": 71948,
+      "sentence": "This subcomponent will create a directory of businesses that maps firms by sector and goods and services provided.",
+      "practice": "Business directory/database mapping firms by sector, goods and services, with SME profiles and past-performance records",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Industry, Trade and Services",
+      "extractor_reason": "Digital core: firm mapping directory | Not routine: registry targets private-sector outreach | Adoption: 'will create a directory'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: firm database with SME profiles | New: catalogues capabilities/past performance for targeting | Category: Technological registry",
+      "keywords_hit": "digital skills",
+      "innovation_cues": "demonstrations",
+      "innovation_basis": "Digital firm registry cataloguing SME capabilities and tender history to target support and matchmaking",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "32357dcb"
+    },
+    {
+      "row_id": "P176274-A1-E2",
+      "approach_id": "P176274-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P176274",
+      "doc_id": "920341648600654045",
+      "doc_type": "PAD",
+      "doc_date": "2022-03-04",
+      "file_name": "P176274_PAD_2022-03-04_920341648600654045.txt",
+      "unit_id": "U51",
+      "para_no": null,
+      "sentence_position": 415,
+      "char_start": 71949,
+      "char_end": 72148,
+      "sentence": "The directory will help the Project target the wider private sector firms that may need support to improve their performance, participate in linkages opportunities in the future, or become exporters.",
+      "practice": "Business directory/database mapping firms by sector, goods and services, with SME profiles and past-performance records",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Industry, Trade and Services",
+      "extractor_reason": "Digital core: firm mapping directory | Not routine: registry targets private-sector outreach | Adoption: 'will create a directory'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: firm database with SME profiles | New: catalogues capabilities/past performance for targeting | Category: Technological registry",
+      "keywords_hit": "digital skills",
+      "innovation_cues": "demonstrations",
+      "innovation_basis": "Digital firm registry cataloguing SME capabilities and tender history to target support and matchmaking",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "32357dcb"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "920341648600654045",
+      "doc_type": "PAD",
+      "position": 252,
+      "char_start": 43526,
+      "char_end": 43658,
+      "sentence": "Finally, this operation will support the creation and operation of risk-sharing mechanisms such as partial credit guarantees (PCGs).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "partial credit guarantees for SME lending",
+      "reason": "reject: Partial credit guarantee is a financial instrument with no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: risk-sharing partial credit guarantees for SMEs - cue: 'risk-sharing'",
+      "innovation_cues": "guarantees;risk-sharing",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Partial credit guarantee is a financial instrument with no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1208
+        }
+      ]
+    },
+    {
+      "guid": "920341648600654045",
+      "doc_type": "PAD",
+      "position": 276,
+      "char_start": 47528,
+      "char_end": 47978,
+      "sentence": "It will contribute to removing constraints for more and better jobs by funding subprojects that benefit business associations and organizations that provide training to businesswomen and women entrepreneurs in management and using digital technologies for business and provide them with business development services (Component 3) and enabling financing of women-owned and women-managed businesses through a partial guarantee mechanism (Component 2).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "partial guarantee mechanism for women-owned businesses",
+      "reason": "reject: Guarantee window for women-owned SMEs; no digital system or data tool named",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: guarantee window targeting women-owned SMEs - cue: 'guarantee'",
+      "innovation_cues": "guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Guarantee window for women-owned SMEs; no digital system or data tool named",
+          "reject_code": "not_digital",
+          "context_chars": 1241
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 9041,
+    "cached_tokens": 41472,
+    "cache_write_tokens": 0,
+    "output_tokens": 1571,
+    "seconds": 19.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0048
+  }
+}

@@ -1,0 +1,989 @@
+{
+  "project_id": "P172535",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "72c7115e",
+  "started_at": "2026-11-07T03:30:16Z",
+  "ended_at": "2026-11-07T03:30:46Z",
+  "input_fingerprint": "38ddb853f792e765",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 26,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P172535-A1",
+      "project_id": "P172535",
+      "name": "Geospatial databases for housing characterization and informal settlement mapping",
+      "description": "The project builds geospatial databases that characterize housing conditions and locate informal settlements to guide territorial planning. Practices: Geospatial databases for housing characterization and informal settlement mapping; Geospatial database for housing characterization and informal settlements; Geospatial database of informal settlements for territorial planning.",
+      "why_innovative": "New service: geospatial housing and settlement databases - cue: 'geospatial' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "501261622426425637",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-03",
+        "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+        "char_start": 59344,
+        "char_end": 59506,
+        "text": "(b) Creating geospatial databases for housing characterization, informal settlement location, territorial planning in coordination with existing national systems;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 59074,
+          "char_end": 59343,
+          "text": "Activities supported under this component will include, among others: (a) Upgrading MVCT and Fonvivienda’s information and monitoring systems for the optimization of housing subsidy allocation, the rental subsidies, and the prioritization of infrastructure investments;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 152128,
+          "char_end": 153325,
+          "text": "microfinance market for vulnerable households improved 0.00 1.00 (Number) Geospatial database for housing characterization, informal settlements location, and territorial planning designed and 0.00 1.00 implemented (Number) Information and monitoring systems for the optimization of housing subsidy allocation and the prioritization of infrastructure 0.00 1.00 investments upgraded (Number) Municipalities promoting energy efficiency interventions (Number) 0.00 25.00 Guidelines for adaptation to climate change and disaster risk management formulated (Number) 0.00 2.00 Project Management Grievances recorded in the GRM system are addressed within 15 working days and communicated back to the concerned 0.00 80.00 stakeholders (Percentage) IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection This indicator monitors the Project The PIU will monitor progress made in improving execution this indicator based on Households benefited from home Semi-annual PIU the quality of the existing progress provided home improvement interventions housing stock",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 164139,
+          "char_end": 164720,
+          "text": "This indicator indicates The MVCT will inform Project Geospatial database for housing whether the geospatial progress made towards Semi- execution characterization, informal settlements database for housing generating new and PIU annual progress location, and territorial planning designed characterization, informal improved regulatory reports and implemented settlements location, and framework for the territorial planning was microfinance home Page 57 of 90 The World Bank Colombia: Resilient and Inclusive Housing Project (P172535) created and implemented. improvement market.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: GIS data system is the core mechanism, not a delivery reform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Housing Construction",
+        "code": "",
+        "confidence": null,
+        "rationale": "Geospatial mapping of housing conditions and informal settlements directly supports housing sector planning.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: geospatial housing/settlement databases | Innovative: spatial mapping linked to territorial planning | Category: GIS data system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: geospatial housing and settlement databases - cue: 'geospatial'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P172535-A2",
+      "project_id": "P172535",
+      "name": "Spatial vulnerability targeting and social registry subsidy migration",
+      "description": "The project applies spatial tools to the Housing Vulnerability Index for block-level targeting and uses SISBEN registry eligibility to target subsidies, including migrants. Practices: Housing Vulnerability Index spatial micro-targeting of beneficiaries; Migration of housing subsidies onto SISBEN social registry targeting.",
+      "why_innovative": "New process: block-level spatial targeting of subsidy beneficiaries - cue: 'spatial analytical tools' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "501261622426425637",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-03",
+        "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+        "char_start": 77123,
+        "char_end": 77364,
+        "text": "The HVI will further support municipalities in the process of beneficiary targeting through the application of spatial analytical tools to enable micro-targeting of vulnerable populations within each selected neighborhood at the block level.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 80678,
+          "char_end": 80885,
+          "text": "The migration of both the home improvement and rental subsidy programs to the SISBEN social registry system, as such, reinforces an important GoC strategic focus on efficiency of targeting social assistance.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 81139,
+          "char_end": 81328,
+          "text": "The inclusion of SISBEN as part of the criteria for eligibility is critical to encourage a continued mainstreaming of migrants from Venezuela into the social registry and assistance system.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 80607,
+          "char_end": 80677,
+          "text": "Housing programs use parallel systems and are transitioning to SISBEN.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: spatial analytics index is the targeting mechanism, not a delivery or finance tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Micro-targeting vulnerable households for subsidies is a social protection targeting function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: HVI spatial analytics | Innovative: block-level micro-targeting within neighborhoods | Category: spatial targeting tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: block-level spatial targeting of subsidy beneficiaries - cue: 'spatial analytical tools'",
+      "innovation_cues": [
+        "PforR",
+        "mainstreaming"
+      ]
+    },
+    {
+      "approach_id": "P172535-A3",
+      "project_id": "P172535",
+      "name": "Information system registering rental housing units for subsidy matching",
+      "description": "MVCT/Fonvivienda use an information system to register and approve homes offered for rent to subsidized households.",
+      "why_innovative": "New process: digital registry of rentable homes for subsidies - cue: 'information system' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "501261622426425637",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-03",
+        "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+        "char_start": 179587,
+        "char_end": 180010,
+        "text": "(b) the MVCT and Fonvivienda through an information system will determine the registration process of the housing units according to the requirements previously defined by the MVCT, as described in the Operational Manual of the proposed Project; and (c) the MVCT and Fonvivienda will directly or through a third party, verify the technical conditions of the postulated homes and give approval to participate in the program.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "501261622426425637",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-03",
+          "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+          "char_start": 179346,
+          "char_end": 179586,
+          "text": "The MVCT and Fonvivienda: (a) will open a process to require natural or legal persons to register directly or through intermediation entities the homes available to be rented in accordance with conditions previously established by the MVCT;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers rental-subsidy delivery via registration system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Housing Construction",
+        "code": "",
+        "confidence": null,
+        "rationale": "Registering rental housing units for subsidy matching concerns housing stock and rental housing.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: rental housing registration system | Innovative: matches supply to subsidized renters | Category: delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital registry of rentable homes for subsidies - cue: 'information system'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P172535",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "guid": "501261622426425637",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:30:16Z",
+      "ended_at": "2026-11-07T03:30:23Z",
+      "status": "ok",
+      "note": "12 document(s) fetched from the WBG API; 17 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:30:23Z",
+      "ended_at": "2026-11-07T03:30:23Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-05-27, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:30:23Z",
+      "ended_at": "2026-11-07T03:30:25Z",
+      "status": "ok",
+      "note": "26 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 26,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 2,
+          "innovation_types": 7,
+          "enabling_processes": 1,
+          "innovation_cycle": 12,
+          "results_based_management": 3,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:30:25Z",
+      "ended_at": "2026-11-07T03:30:25Z",
+      "status": "ok",
+      "note": "PAD 2021-05-03 (P172535_PAD_2021-05-03_501261622426425637.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P172535",
+            "doc_type": "PAD",
+            "doc_date": "2021-05-03",
+            "guid": "501261622426425637",
+            "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:30:25Z",
+      "ended_at": "2026-11-07T03:30:25Z",
+      "status": "ok",
+      "note": "191 reading units (34 numbered paragraphs) from 1496 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 191
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:30:25Z",
+      "ended_at": "2026-11-07T03:30:28Z",
+      "status": "ok",
+      "note": "57 of 191 units carry a digital / AI cue (14 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 57,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 14
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:30:28Z",
+      "ended_at": "2026-11-07T03:30:34Z",
+      "status": "ok",
+      "note": "11 candidate practices from 57 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 178974,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1272,
+          "cached_tokens": 36480,
+          "cache_write_tokens": 0,
+          "output_tokens": 2480,
+          "seconds": 19.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0036
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:30:34Z",
+      "ended_at": "2026-11-07T03:30:39Z",
+      "status": "ok",
+      "note": "8 accepted, 3 rejected (background_or_other_programme 2, not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 40471,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 5297,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 923,
+          "seconds": 5.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0027
+        },
+        "accepted": 8,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 1,
+          "background_or_other_programme": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:30:39Z",
+      "ended_at": "2026-11-07T03:30:41Z",
+      "status": "ok",
+      "note": "8 of 8 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2506,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 363,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 307,
+          "seconds": 2.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:30:41Z",
+      "ended_at": "2026-11-07T03:30:44Z",
+      "status": "ok",
+      "note": "8 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2525,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 369,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 161,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 4,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:30:44Z",
+      "ended_at": "2026-11-07T03:30:46Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8945,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 758,
+          "cached_tokens": 1024,
+          "cache_write_tokens": 0,
+          "output_tokens": 244,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:30:46Z",
+      "ended_at": "2026-11-07T03:30:46Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 10 evidence rows, 5 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:30:46Z",
+      "ended_at": "2026-11-07T03:30:46Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 119
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P172535-A1-E1",
+      "approach_id": "P172535-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 326,
+      "char_start": 59344,
+      "char_end": 59506,
+      "sentence": "(b) Creating geospatial databases for housing characterization, informal settlement location, territorial planning in coordination with existing national systems;",
+      "practice": "Geospatial databases for housing characterization and informal settlement mapping",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: geospatial housing databases | Not routine: links settlement mapping to planning | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial housing/settlement databases | Innovative: spatial mapping linked to territorial planning | Category: GIS data system",
+      "keywords_hit": "geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geospatial housing and settlement databases - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A1-E2",
+      "approach_id": "P172535-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 325,
+      "char_start": 59074,
+      "char_end": 59343,
+      "sentence": "Activities supported under this component will include, among others: (a) Upgrading MVCT and Fonvivienda’s information and monitoring systems for the optimization of housing subsidy allocation, the rental subsidies, and the prioritization of infrastructure investments;",
+      "practice": "Geospatial databases for housing characterization and informal settlement mapping",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: geospatial housing databases | Not routine: links settlement mapping to planning | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial housing/settlement databases | Innovative: spatial mapping linked to territorial planning | Category: GIS data system",
+      "keywords_hit": "geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geospatial housing and settlement databases - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A1-E3",
+      "approach_id": "P172535-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U109",
+      "para_no": null,
+      "sentence_position": 918,
+      "char_start": 152128,
+      "char_end": 153325,
+      "sentence": "microfinance market for vulnerable households improved 0.00 1.00 (Number) Geospatial database for housing characterization, informal settlements location, and territorial planning designed and 0.00 1.00 implemented (Number) Information and monitoring systems for the optimization of housing subsidy allocation and the prioritization of infrastructure 0.00 1.00 investments upgraded (Number) Municipalities promoting energy efficiency interventions (Number) 0.00 25.00 Guidelines for adaptation to climate change and disaster risk management formulated (Number) 0.00 2.00 Project Management Grievances recorded in the GRM system are addressed within 15 working days and communicated back to the concerned 0.00 80.00 stakeholders (Percentage) IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection This indicator monitors the Project The PIU will monitor progress made in improving execution this indicator based on Households benefited from home Semi-annual PIU the quality of the existing progress provided home improvement interventions housing stock",
+      "practice": "Geospatial database for housing characterization and informal settlements",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: geospatial housing database | Not routine: spatial targeting of subsidies and works | Adoption: 'designed and implemented'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial housing database | Innovative: maps informal settlements for planning | Category: GIS data system",
+      "keywords_hit": "geospatial;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New product: geospatial housing and settlement database - cue: 'Geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A1-E4",
+      "approach_id": "P172535-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U116",
+      "para_no": null,
+      "sentence_position": 943,
+      "char_start": 164139,
+      "char_end": 164720,
+      "sentence": "This indicator indicates The MVCT will inform Project Geospatial database for housing whether the geospatial progress made towards Semi- execution characterization, informal settlements database for housing generating new and PIU annual progress location, and territorial planning designed characterization, informal improved regulatory reports and implemented settlements location, and framework for the territorial planning was microfinance home Page 57 of 90 The World Bank Colombia: Resilient and Inclusive Housing Project (P172535) created and implemented. improvement market.",
+      "practice": "Geospatial database of informal settlements for territorial planning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: geospatial housing characterization database | Not routine: maps informal settlements for planning | Adoption: 'was created and implemented'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial housing characterization database | Innovative: maps informal settlements for planning | Category: GIS data system",
+      "keywords_hit": "geospatial;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: geospatial housing and informal-settlement database - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A2-E1",
+      "approach_id": "P172535-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 431,
+      "char_start": 77123,
+      "char_end": 77364,
+      "sentence": "The HVI will further support municipalities in the process of beneficiary targeting through the application of spatial analytical tools to enable micro-targeting of vulnerable populations within each selected neighborhood at the block level.",
+      "practice": "Housing Vulnerability Index spatial micro-targeting of beneficiaries",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: HVI spatial analytics | Not routine: block-level micro-targeting within neighborhoods | Adoption: 'will further support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: HVI spatial analytics | Innovative: block-level micro-targeting within neighborhoods | Category: spatial targeting tool",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: block-level spatial targeting of subsidy beneficiaries - cue: 'spatial analytical tools'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A2-E2",
+      "approach_id": "P172535-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U55",
+      "para_no": null,
+      "sentence_position": 446,
+      "char_start": 80678,
+      "char_end": 80885,
+      "sentence": "The migration of both the home improvement and rental subsidy programs to the SISBEN social registry system, as such, reinforces an important GoC strategic focus on efficiency of targeting social assistance.",
+      "practice": "Migration of housing subsidies onto SISBEN social registry targeting",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: SISBEN beneficiary registry | Not routine: housing shifts from parallel systems | Adoption: 'inclusion of SISBEN as part of criteria'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: SISBEN registry | Innovative: housing shifts from parallel systems to unified registry | Category: registry targeting",
+      "keywords_hit": "identification system;social registry",
+      "innovation_cues": "PforR;mainstreaming",
+      "innovation_basis": "New process: housing subsidies targeted via unified social registry, mainstreaming migrants - cue: 'mainstreaming'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A2-E3",
+      "approach_id": "P172535-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U55",
+      "para_no": null,
+      "sentence_position": 449,
+      "char_start": 81139,
+      "char_end": 81328,
+      "sentence": "The inclusion of SISBEN as part of the criteria for eligibility is critical to encourage a continued mainstreaming of migrants from Venezuela into the social registry and assistance system.",
+      "practice": "Migration of housing subsidies onto SISBEN social registry targeting",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: SISBEN beneficiary registry | Not routine: housing shifts from parallel systems | Adoption: 'inclusion of SISBEN as part of criteria'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: SISBEN registry | Innovative: housing shifts from parallel systems to unified registry | Category: registry targeting",
+      "keywords_hit": "identification system;social registry",
+      "innovation_cues": "PforR;mainstreaming",
+      "innovation_basis": "New process: housing subsidies targeted via unified social registry, mainstreaming migrants - cue: 'mainstreaming'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A2-E4",
+      "approach_id": "P172535-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U55",
+      "para_no": null,
+      "sentence_position": 445,
+      "char_start": 80607,
+      "char_end": 80677,
+      "sentence": "Housing programs use parallel systems and are transitioning to SISBEN.",
+      "practice": "Migration of housing subsidies onto SISBEN social registry targeting",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: SISBEN beneficiary registry | Not routine: housing shifts from parallel systems | Adoption: 'inclusion of SISBEN as part of criteria'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: SISBEN registry | Innovative: housing shifts from parallel systems to unified registry | Category: registry targeting",
+      "keywords_hit": "identification system;social registry",
+      "innovation_cues": "PforR;mainstreaming",
+      "innovation_basis": "New process: housing subsidies targeted via unified social registry, mainstreaming migrants - cue: 'mainstreaming'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A3-E1",
+      "approach_id": "P172535-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U128",
+      "para_no": null,
+      "sentence_position": 1031,
+      "char_start": 179587,
+      "char_end": 180010,
+      "sentence": "(b) the MVCT and Fonvivienda through an information system will determine the registration process of the housing units according to the requirements previously defined by the MVCT, as described in the Operational Manual of the proposed Project; and (c) the MVCT and Fonvivienda will directly or through a third party, verify the technical conditions of the postulated homes and give approval to participate in the program.",
+      "practice": "Information system registering rental housing units for subsidy matching",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: rental housing registration system | Not routine: matches supply to subsidized renters | Adoption: 'will determine the registration process'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rental housing registration system | Innovative: matches supply to subsidized renters | Category: delivery arrangement",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital registry of rentable homes for subsidies - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    },
+    {
+      "row_id": "P172535-A3-E2",
+      "approach_id": "P172535-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P172535",
+      "doc_id": "501261622426425637",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-03",
+      "file_name": "P172535_PAD_2021-05-03_501261622426425637.txt",
+      "unit_id": "U128",
+      "para_no": null,
+      "sentence_position": 1030,
+      "char_start": 179346,
+      "char_end": 179586,
+      "sentence": "The MVCT and Fonvivienda: (a) will open a process to require natural or legal persons to register directly or through intermediation entities the homes available to be rented in accordance with conditions previously established by the MVCT;",
+      "practice": "Information system registering rental housing units for subsidy matching",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Housing Construction",
+      "extractor_reason": "Digital core: rental housing registration system | Not routine: matches supply to subsidized renters | Adoption: 'will determine the registration process'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rental housing registration system | Innovative: matches supply to subsidized renters | Category: delivery arrangement",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital registry of rentable homes for subsidies - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "72c7115e"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "501261622426425637",
+      "doc_type": "PAD",
+      "position": 433,
+      "char_start": 77531,
+      "char_end": 77681,
+      "sentence": "Households that meet the eligibility criteria will be invited to apply for either the home improvement or rental subsidies on the website of the MVCT.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Online MVCT subsidy application with municipal assisted filing",
+      "reason": "reject: Standard online application portal with assisted filing; not a new delivery arrangement",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: web-based subsidy intake with assisted fallback - cue: 'website'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard online application portal with assisted filing; not a new delivery arrangement",
+          "reject_code": "not_innovative",
+          "context_chars": 1715
+        }
+      ]
+    },
+    {
+      "guid": "501261622426425637",
+      "doc_type": "PAD",
+      "position": 578,
+      "char_start": 100763,
+      "char_end": 100907,
+      "sentence": "(d) geospatial analysis and prioritization of infrastructure investments and neighborhoods upgrading needs in urban, peri-urban and rural areas;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geospatial analysis to prioritize neighborhood upgrading investments",
+      "reason": "reject: Prior ASA/GPRBA technical assistance, not this project's financed activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: geospatial prioritization of upgrading investments - cue: 'geospatial'",
+      "innovation_cues": "mainstreaming;results-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Prior ASA/GPRBA technical assistance, not this project's financed activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1211
+        }
+      ]
+    },
+    {
+      "guid": "501261622426425637",
+      "doc_type": "PAD",
+      "position": 579,
+      "char_start": 100908,
+      "char_end": 101175,
+      "sentence": "(e) household vulnerability analysis of the population at the block level and geographic targeting for the implementation CDVD; and (f) preparation of guidelines for the definition of micro-finance products that could be connected to subsidies granted by Fonvivienda.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Block-level household vulnerability analysis for geographic targeting",
+      "reason": "reject: Block-level vulnerability analysis done under prior ASA, not this project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: block-level vulnerability targeting for subsidies - cue: 'geographic targeting'",
+      "innovation_cues": "mainstreaming;results-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Block-level vulnerability analysis done under prior ASA, not this project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1211
+        }
+      ]
+    },
+    {
+      "guid": "501261622426425637",
+      "doc_type": "PAD",
+      "position": 325,
+      "char_start": 59074,
+      "char_end": 59343,
+      "sentence": "Activities supported under this component will include, among others: (a) Upgrading MVCT and Fonvivienda’s information and monitoring systems for the optimization of housing subsidy allocation, the rental subsidies, and the prioritization of infrastructure investments;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Upgraded information and monitoring systems for housing subsidy allocation",
+      "reason": "reject: final check round 1: common - Digital: MIS for subsidy allocation and monitoring is the core system | Before 2019: standard WBG social/housing MIS practice for years",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: MIS optimizing subsidy and rental allocation - cue: 'optimization'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: subsidy allocation MIS | Innovative: data-driven subsidy and investment prioritization | Category: MIS upgrade",
+          "reject_code": "",
+          "context_chars": 1245
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: MIS for subsidy allocation and monitoring is the core system | Before 2019: standard WBG social/housing MIS practice for years",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "501261622426425637",
+      "doc_type": "PAD",
+      "position": 918,
+      "char_start": 152128,
+      "char_end": 153325,
+      "sentence": "microfinance market for vulnerable households improved 0.00 1.00 (Number) Geospatial database for housing characterization, informal settlements location, and territorial planning designed and 0.00 1.00 implemented (Number) Information and monitoring systems for the optimization of housing subsidy allocation and the prioritization of infrastructure 0.00 1.00 investments upgraded (Number) Municipalities promoting energy efficiency interventions (Number) 0.00 25.00 Guidelines for adaptation to climate change and disaster risk management formulated (Number) 0.00 2.00 Project Management Grievances recorded in the GRM system are addressed within 15 working days and communicated back to the concerned 0.00 80.00 stakeholders (Percentage) IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection This indicator monitors the Project The PIU will monitor progress made in improving execution this indicator based on Households benefited from home Semi-annual PIU the quality of the existing progress provided home improvement interventions housing stock",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Information and monitoring systems for housing subsidy allocation optimization",
+      "reason": "reject: final check round 1: common - Digital: MIS for subsidy allocation and monitoring is the core system | Before 2019: standard WBG social/housing MIS practice for years",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: data systems steer subsidy targeting - cue: 'optimization'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: subsidy allocation monitoring systems | Innovative: data-driven targeting replaces manual allocation | Category: MIS upgrade",
+          "reject_code": "",
+          "context_chars": 2386
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: MIS for subsidy allocation and monitoring is the core system | Before 2019: standard WBG social/housing MIS practice for years",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 8059,
+    "cached_tokens": 40704,
+    "cache_write_tokens": 0,
+    "output_tokens": 4115,
+    "seconds": 31.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0076
+  }
+}

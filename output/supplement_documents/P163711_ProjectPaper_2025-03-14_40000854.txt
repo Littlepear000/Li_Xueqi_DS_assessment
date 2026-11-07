@@ -1,0 +1,459 @@
+                                                     $
+                                                                                      Report No: RES00824
+
+
+
+                                      RESTRUCTURING PAPER
+                                                 ON A
+                              PROPOSED PROJECT RESTRUCTURING
+                                                     OF
+
+
+               Tax Administration and Statistical System Modernization Project
+                                    APPROVED ON 28-Feb-2020
+
+                                                     TO
+
+                                           Kyrgyz Republic
+
+
+
+Governance
+Europe And Central Asia
+
+
+
+
+                          Regional Vice President:       Antonella Bassani
+                               Regional Director:        Asad Alam
+                                Country Director:        Tatiana A. Proskuryakova
+                               Practice Manager:         Adrian Fozzard
+                            Task Team Leader(s):         Gregory Kisunko, Aphichoke Kotikula
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+GTP               Global Tax Program
+ICT               Information and Communication Technology
+ISNAK-2           Second STS Tax Administration Information Management System
+IP                Implementation Progress
+NSC               National Statistical Committee
+PDO               Project Development Objective
+PMU               Project Management Unit
+STS               State Tax Service
+TASSMP            Tax Administration and Statistical System Modernization Project
+TP                Twinning Partner
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@restrhybridbasicdata#doctemplate
+
+BASIC DATA
+
+Product Information
+
+Operation ID                                                Operation Name
+                                                            Tax Administration and Statistical System
+P163711
+                                                            Modernization Project
+Product/Financing Instrument                                Geographical Identifier
+
+Investment Project Financing (IPF)                          Kyrgyz Republic
+
+Approval Date                                               Current Closing Date
+
+28-Feb-2020                                                 31-Mar-2027
+
+Environmental and Social Risk Classification (ESRC)
+Low
+
+
+
+
+Organizations
+Borrower                                                   Responsible Agency
+Kyrgyz Republic                                            National Statistical Committee, State Tax Service
+@#&OPS~Doctype~OPS^dynamics@restrhybridoperationstatus#doctemplate
+OPERATION STATUS
+
+Project Development Objective (DO)
+
+Original Development Objective
+
+To improve effectiveness of tax collection and the national statistical system.
+
+Disbursement Summary (in USD million)
+
+      Source of Funds          Net Commitment               Disbursed              Undisbursed             % Disbursed
+
+IBRD                                              --                      --                       --                    0
+
+IDA                                           33.33                   11.68                    21.91               34.78
+
+
+                                                                                                                         i
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+Grants                                           --                     --           --    0
+
+Policy Waivers
+Does this restructuring trigger the need for any policy
+waiver(s)?                                                                                No
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+
+
+
+
+                                                                                           ii
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                               TABLE OF CONTENTS
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................3
+III. PROPOSED CHANGES ................................................................................................................................................3
+IV. DETAILED CHANGE(S) ...............................................................................................................................................4
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+A. Project Status
+1.       The original financing for the Tax Administration and Statistical System Modernization Project (P163711) was
+approved by the IDA’s Board of Executive Directors on February 28, 2020. The total financing for the project was US$35
+million: a US$17.5 million equivalent IDA credit (Credit No. IDA-65460-KG) and a US$17.5 million equivalent IDA grant
+(Grant No. IDA-D566-KG). The project was declared effective on December 9, 2020. The original closing date was
+September 30, 2025.
+2.    The PDO is to improve effectiveness of tax collection and the national statistical system. The Project
+Implementing Agencies are the State Tax Service and the National Statistics Committee. The project comprises five
+components:
+        Component 1. STS Institutional Development:(US$2,070,000)
+        Component 2. STS Operational Development:(US$14,490,000)
+        Component 3. NSC Institutional Development:(US$4,800,000)
+        Component 4. NSC Data Development:(US$11,820,000)
+        Component 5. Project Management:(US$ 1,820,000).
+3.      The project was restructured in June 2024 to allow for an 18-month extension of the project closing date to
+March 31, 2027. The purpose of the extension was to complete the implementation of new Information and
+Communication Technology (ICT) systems and business processes in both State Tax Service (STS) and the National Statistics
+Committee (NSC) and thereby achieve the PDO. The extension of the closing date was necessary because of an eleven-
+month delay in Parliamentary ratification of the financing agreements and resulting effectiveness delay, delays related to
+COVID-19 disruptions, and, for NSC, delays in the engagement of the NSC Twinning Partner. Following the closing date
+extension, the rating of Progress toward achievement of the PDO was upgraded from Moderately Unsatisfactory to
+Moderately Satisfactory. Overall Implementation Progress continued to be rated Moderately Satisfactory
+4.       However, after strong progress in implementation and procurement preparation, project execution slowed
+significantly from mid-June 2024. The procurement of key packages for the STS and NSC has experienced significant delays
+due to frequent staff turnovers in the Project Management Units (PMUs) and STS and NSC specialists. An investigation of
+project activities by law enforcement agencies has also caused significant disruption. The PMUs lost three out of four
+procurement specialists. These staff were only recently replaced. The STS National Project Coordinators changed twice
+between June 2024 and February 2025. Staff turnover has caused disruptions to and delays in decision-making on ongoing
+contracts, procurement processing, and project management. This has particularly affected procurement of ICT goods and
+services, which represent approximately 75 percent of upcoming contract amounts. Considering these challenges, the
+Progress toward achievement of the PDO and Overall Implementation Progress (IP) ratings have been downgraded from
+Moderately Satisfactory to Moderately Unsatisfactory in October 2024.
+Status of STS-implemented Components 1 and 2 (implemented by STS).
+5.      Since June 2024 STS has not undertaken any significant new procurement due to the disruptions highlighted
+above. Of 34 planned procurement packages under Components 1 and 2, 24 contracts with a value of US$5,605,189 have
+been completed, two with a value of about US$1.5 million are at initial stages of preparation, and the remaining nine
+contracts with a value of US$11,609,891 have not been initiated.
+6.     Implementation of the major technical assistance contract for business process re-engineering (BPR) for the
+operational areas of STS and the development of the Second STS Tax Administration Information Management System
+(ISNAK-2) specifications is delayed. STS management has decided to cancel the contract for BPR and develop ISNAK-2 in-
+house using recourses provided by the State Budget.
+
+                                                                                                                   Page 1
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+7.       The end-of-project targets for the two PDO indicators related to components 1 and 2 still can be achieved,
+although the risk of non-achieving them will increase if STS modernization is further delayed. The first indicator
+measures the percent reduction of VAT gap which tracks improvements tax compliance through higher effectiveness of
+tax administration as a result of modernization of the STS. As of October 2024, the percent reduction was at 13.20 percent
+against the end-of-project target of 12 percent. STS decision to cancel this TA and use own specialists for tax gap
+calculation could make it more difficult to calculate the VAT gap, but will not jeopardize achievement of target values, if
+STS is successful in modernizing tax administration. The second indicator, the cost of tax compliance, measures time spent
+on all procedures related to time compliance. As of October 2024, the value was 76.30 days against the end-of-project
+target of 40 days. The reduction of time needed for tax compliance serves as an indicator of improved tax administration
+procedures achieved because of technical and procedural modernization of STS. The current high value is a result of
+changes in reporting arrangements and expected to go down when taxpayers internalize new requirements and STS
+strengthen their IT systems. There is a risk that the end-project value of the cost of tax compliance indicator may not be
+achieved if STS modernization is further delayed.
+Status of NSC-implemented Components 3 and 4 (implemented by NSC)
+8.      The procurement of the primary and secondary data centers (estimated cost US$4 million) is significantly
+delayed. As an effect and due to the NSC not making a selection, the validity and security of the bids originally submitted
+had expired. The retender has been now initiated by the NSC with the draft evaluation report to be submitted by March
+31, 2025.
+9.      NSC coordination with the Twinning Partner (TP) has improved but TP activities are delayed. The draft
+description of future business processes was scheduled for November 2024. This activity is now scheduled for completion
+by November 30, 2025.
+10.     The procurement process for modernization of the NSC website is ongoing. NSC is in the final stages of
+completing the evaluation report and NSC expects to award the contract in April 2025. The contract will be completed
+before the current project closing date of March 31, 2027.
+11.     Implementation of the E-reporting system is on track for completion by the end of CY2025 with full integration
+of all 146 forms. NSC has established 24/7 helpdesks to support staff and conducts weekly training sessions via
+videoconference.
+12.     Other TA activities are progressing and expected to be completed on time.
+13.     The achievement of two PDO indicators related to Components 3 and 4, specifically, reduction of time between
+completion of data collection and release of key statistical indicators to the public and openness of official statistics:
+measures coverage and openness of data across 21 data categories is on track. The proposed restructuring will not affect
+the probability of these indicators’ achievement.
+B.      Rationale for Restructuring
+14.     The Ministry of Finance (MoF) has requested restructuring of TASSMP and cancellation of US$8.75 million of
+the IDA credit by letter dated February 25, 2025. Through the same letter, MoF has transmitted the STS letter dated
+January 29, 2025 laying out the rationale for the project restructuring, and notified about the decision to procure below
+two ICT and two consulting service packages (under components implemented by STS) with total value of US$8.77 million
+using resources allocated from the State Budget:
+        Development of ISNAK-2 (budget US$5,365,920)
+        Procurement of data center and other IT equipment (budget US$2,931,279)
+        Procurement of consulting services for the development and implementation of a risk management and tax gap
+        calculation mechanism (budget US$ 432,560)
+
+                                                                                                                    Page 2
+                   The World Bank
+                   Tax Administration and Statistical System Modernization Project (P163711)
+
+
+                  Procurement of services to develop regulatory documents (budget of US$ 48,000).
+15.      Through an order of the Chairman of the Cabinet of Ministers of the Kyrgyz Republic dated January 29, 2025,
+No. 18-17/2 "On the tasks of tax administration" the State-Owned Enterprise “Salyk Service” was mandated to develop
+of ISNAK-2 with financing from the State Budget. Further, in the meeting of the Situational Control Center for
+Monitoring the Implementation of Decisions of the President and the Cabinet of Ministers of the Kyrgyz Republic on
+January 23, 2025, it was decided to purchase of equipment for the STS data center using State Budget funds. Funding
+for these activities was allocated in the 2025 State Budget. According to STS, these procurement activities can be
+completed more expeditiously using State Budget and national procurement procedures. It was also decided not to
+procure consulting services for the development and implementation of a risk management mechanism and tax gap
+calculation and for development of regulatory documents using the project funds in order to avoid duplication with other
+activities and due to changed priorities of STS. This may complicate the calculation of VAT gap, however, at the same time
+it will not jeopardize the achievement of target values for reduction of VAT gap (PDO indicator 1), provided that STS
+successfully modernizes tax administration. STS has the capacity to progress on modernization processes; the main risk is
+the risk of delays in ICT modernization. The project will continue providing TA support to implementation of ISNAK-2,
+which procurement is expected to launch in April 2025. Additionally, STS may be supported through a Bank-executed
+Global Tax Program (GTP) grant (GTP decision is pending).
+16.     Having reviewed the restructuring request, the Bank team confirms that remaining activities can be completed
+by the current closing date of March 31, 2027, and the project remains on track to achieve PDO indicators. The Bank
+team will continue active implementation support and coordination with implementing agencies.
+
+  II. DESCRIPTION OF PROPOSED CHANGES
+
+17.      Cancellation of Funds. The amount of SDR 6,350,000, equivalent to USD 8,342,884 as per the exchange rate from
+February 26, 2025, will be cancelled. Thus, allocation to Component 1 will be reduced to US$1,667,116 and Component 2
+will be reduced to US$6,550,000. No changes to be made to Components 3, 4 and 5. The revised cost of components and
+related financing are presented section IV. Detailed changes are below.
+18.   Revision of Disbursement Estimates. The disbursement estimates will be revised to reflect the reduced cost of
+Components 1 and 2.
+
+     @#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+
+
+
+
+III. PROPOSED CHANGES
+
+      Operation Information                Proposed Changes            Operation Information         Proposed Changes
+
+      Risks                                           Yes              Loan Cancellations                  Yes
+      Disbursements Estimates                         Yes              Reallocations                       Yes
+      Components                                      Yes              Loan Closing Date Extension          No
+      Development Objective                           No               Financial Management                 No
+      Summary Description
+                                                      No               Procurement                          No
+      (Operation Abstract)
+      Legal Operational Policies                      No               Institutional Arrangement            No
+      MFD/PCE                                         No               Implementation Schedule              No
+
+                                                                                                                   Page 3
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+Results                                      No
+Legal Covenants                              No
+Conditions                                   No
+Implementation Modalities                    No
+Disbursements Arrangements                   No
+DDO                                          No
+Clients                                      No
+Appraisal Summary                            No
+
+@#&OPS~Doctype~OPS^dynamics@restrhybriddetailedchanges-disclose#doctemplate
+IV. DETAILED CHANGE(S)
+
+
+COMPONENTS
+          Current                     Current                                  Proposed             Proposed Cost
+                                                        Action
+      Component Name                 Cost (USD)                             Component Name              (USD)
+Component 1. STS                                                     Component 1. STS
+                                     2,070,000.00       Revised                                       1,667,116.00
+Institutional Development                                            Institutional Development
+Component 2. STS                                                     Component 2. STS Operational
+                                    14,490,000.00       Revised                                       6,550,000.00
+Operational Development                                              Development
+Component 3. NSC                                                     Component 3. NSC
+                                     4,800,000.00     No Change                                       4,800,000.00
+Institutional Development                                            Institutional Development
+Component 4. NSC Data                                                Component 4. NSC Data
+                                    11,820,000.00     No Change                                      11,820,000.00
+Development                                                          Development
+Component 5. Project                                                 Component 5. Project
+                                     1,820,000.00     No Change                                       1,820,000.00
+Management                                                           Management
+TOTAL                               35,000,000.00                                                    26,657,116.00
+
+
+COSTS & FINANCING
+
+ Private Capital Facilitation
+
+ Is this an MFD-Enabling Project (MFD-EP)?
+
+
+
+ Is this project Private Capital Enabling (PCE)?
+
+
+
+
+                                                                                                           Page 4
+        The World Bank
+        Tax Administration and Statistical System Modernization Project (P163711)
+
+
+LOANS
+
+
+Cancellations
+                                                                                                             Reason
+                                                                             Value
+Loan/Credit/                              Current        Cancellation                        New                 for
+                 Status     Currency                                        Date of
+Trust Fund                                Amount           Amount                           Amount         Cancellati
+                                                                          Cancellation
+                                                                                                                  on
+                                                                                                               LOAN
+                                                                                                           RESTRUCT
+IDA-65460-       Effectiv               12,700,000.0
+                              XDR                        6,350,000.00     28-Feb-2025     6,350,000.00       URING,
+001                 e                        0
+                                                                                                               COST
+                                                                                                            SAVINGS
+IDA-D5660-      Disbursi                12,700,000.0
+                              XDR                            0.00                         12,700,000.00
+001                ng                        0
+
+Reallocations
+IDA-65460-001                                              Cancellations (if any):          New Allocation:
+                                    Currency: XDR
+                                                           6,350,000.00                     6,350,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category         Expenditure           Current          Actuals +            Proposed
+  No.              Category          Allocation        Committed             Allocation    Current        Proposed
+   1         G,W,non-CS,CS,TR-      6,350,000.00          0.00                0.00          100.00            0.00
+             P1&2,OC P5(i);
+    2        G,W,non-CS,CS,TR-      6,350,000.00          0.00           6,350,000.00       100.00         100.00
+             P3&4,OC P5(ii);
+             Total                  12,700,000.00                        6,350,000.00
+IDA-D5660-001                                              Cancellations (if any):          New Allocation:
+                                    Currency: XDR
+                                                           0.00                             12,700,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category         Expenditure           Current           Actuals +          Proposed
+  No.              Category          Allocation         Committed           Allocation     Current        Proposed
+   1         G,W,non-CS,CS,TR-      6,350,000.00       3,789,892.38      6,350,000.00       100.00         100.00
+             P1&2,OC P5(i);
+    2        G,W,non-CS,CS,TR-      6,350,000.00       4,438,621.69      6,350,000.00       100.00         100.00
+             P3&4,OC P5(ii);
+             Total                  12,700,000.00                        12,700,000.00
+
+SYSTEMATIC OPERATIONS RISK-RATING TOOL (SORT)
+
+
+                                                                                                               Page 5
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+                                                      Last Approved
+  Risk Category                                                                               Proposed
+                                               (ISR Seq. 011) - 01 Nov 2024
+
+ Political and Governance                     Substantial                                    Substantial
+ Macroeconomic                                Moderate                                       Moderate
+ Sector Strategies and Policies               Moderate                                       Substantial
+ Technical Design of Project or               Moderate                                       Moderate
+ Program
+ Institutional Capacity for                   High                                           High
+ Implementation and Sustainability
+ Fiduciary                                    High                                           High
+ Environment and Social                       Low                                            Low
+ Stakeholders                                 Moderate                                       Moderate
+ Overall                                      Substantial                                    Substantial
+
+
+DISBURSEMENTS
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Restructuring
+Implementation Start Date                                     Operation Closing Date
+28-Feb-2020                                                   31-Mar-2027
+Projected Date for Full Disbursement
+01-Apr-2027
+
+Expected Disbursements (in US $) (Absolute)
+
+                             Original Estimation at Preparation                                       Actual
+Year                                                                   Revised Estimation
+                             (Approval Package – 28 Feb 2020)
+FY2020                                                       0.00                      0.00                        0.00
+FY2021                                                435,428.52                350,000.00                   350,000.00
+FY2022                                              3,193,142.85                361,740.38                   361,740.38
+FY2023                                              5,079,999.99              6,141,232.69               6,141,232.69
+FY2024                                              7,257,142.83              4,506,225.42               4,506,225.42
+FY2025                                              7,257,142.83              1,990,000.00                   323,625.81
+
+
+                                                                                                                Page 6
+         The World Bank
+         Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+FY2026                                             2,177,142.84                7,300,000.00      0.00
+FY2027                                                      0.00               6,007,917.51      0.00
+
+ENVIRONMENTAL & SOCIAL
+
+Environmental & Social Assessment
+
+According to the E/S Specialist are there changes proposed to the operation’s design that          No
+would impact the Bank’s E&S assessment?”
+
+
+
+
+                                                                                              Page 7
+

@@ -1,0 +1,1065 @@
+﻿          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 22-Nov-2018 | Report No: PIDISDSA19764
+
+
+
+
+Aug 20, 2018                                                                                          Page 1 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name              Parent Project ID (if any)
+   India                                         P160379                    Innovation in Solar Power
+                                                                            and Hybrid Technologies
+   Region                                        Estimated Appraisal Date   Estimated Board Date      Practice Area (Lead)
+   SOUTH ASIA                                    28-Nov-2018                29-Jan-2019               Energy & Extractives
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Solar Energy Corporation   Solar Energy Corporation
+                                                 of India Limited           of India Limited
+
+   Proposed Development Objective(s)
+
+   The Project Development Objective (PDO) is to demonstrate the operational and economic feasibility of utility-scale
+   innovative renewable energy technologies and battery energy storage solutions, and contribute to strengthen
+   institutional capacity to facilitate scale-up of such technologies on a commercial basis in India.
+
+   Components
+   Component A: Investments in Innovative Renewable Energy Solutions (Estimated Cost: US$398 million of which IBRD
+   Loan: US$150 million; CTF loan: US$28 million; and CTF Grant: US$20 million)
+   Component B: Technical Assistance, Capacity Building, Implementation Support, Monitoring and Dissemination
+   (Estimated Cost: US$2 million of which CTF Grant: US$2 million)
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                     400.00
+   Total Financing                                                                                                        400.00
+                             of which IBRD/IDA                                                                            150.00
+   Financing Gap                                                                                                            0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                        150.00
+
+
+Aug 20, 2018                                                                                                            Page 2 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                              200.00
+         Borrower                                                                                                      200.00
+      Trust Funds                                                                                                       50.00
+
+         Clean Technology Fund                                                                                          50.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+       India’s rapid economic development requires a power system that can continue to meet demand for
+       better quality and cleaner electricity services for a growing population. It is among the top five fastest
+       growing global economies and home to over one-sixth of the world’s population. Over the past decade,
+       India’s annual average Gross Domestic Product (GDP) growth was over 7 percent, which drove average
+       annual growth of peak power demand and energy demand to 5.1 percent and 5.5 percent, respectively.1
+       Already the third largest electricity consumer in the world, India’s electricity demand has significant
+       headroom as its per capita electricity consumption is only one-third of the global average.
+
+         The Government of India (GoI) considers India’s low per capita electricity consumption a constraint on
+         meeting its inclusive economic development objectives, including providing universal electricity access.
+         Therefore, the supply and reliability of electricity services are a national priority. With major efforts,
+         significant gains have already been made in expanding electricity access to over 80 percent of the
+         population in 2016 from 56 percent in 2001.2 The GoI has an ambitious goal of providing uninterrupted
+         power for all homes, industrial and commercial establishments, etc., through its 24x7 Power for All
+         Program, targeting universal access to electricity by 2022.3
+
+         While India’s energy policy is based on energy security and self-sufficiency, the path India’s power sector
+         will take has both local and global impacts given its scale and fuel mix. An ambitious power generation
+         capacity expansion effort is underway to increase installed capacity to over 1,200 Giga-Watts (GW) by 2040
+
+          1 Calculated for 2007-2017. CEA (May 2017). “Growth of Electricity Sector in India from 1947-2017�?.
+          2 IEA (International Energy Agency). 2016. “World Energy Outlook.�?
+          3 NITI Aayog (27 June 2017). “Draft National Energy Policy�?.
+
+
+
+Aug 20, 2018                                                                                                      Page 3 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+         from 334 GW in 2018.4 Under GoI’s draft National Energy Policy, coal power capacity in a business-as-usual
+         scenario would grow from 194 GW in 20185 to 441 GW by 2040, unless clean energy initiatives are effective
+         in bringing a supply alternative at scale and at lower cost. International Energy Agency (IEA) estimates
+         suggest India would contribute more than any other country to the projected rise in global energy demand
+         while its CO2 emissions are expected to triple between 2015-2040 (IEA, 2015).
+
+         Investments in clean power generation, energy efficiency, and electricity networks are critical to address
+         local needs and India’s global commitments (Nationally Determined Contribution [NDC]). India’s NDC
+         aims to increase to 40 percent the share of installed electric power capacity from non-fossil-fuel-based
+         energy resources by 2030. This includes plans to more than quadruple the country’s (non-hydropower)
+         renewable energy (RE) capacity to 175 GW by 2022 (which was upgraded to 227 GW in June 2018). The
+         target requires up to US$220 billion in investments in generation, as well as substantial complementary
+         investments in strengthening the electricity network.
+
+   Sectoral and Institutional Context
+        The GoI has demonstrated its commitment to significantly increasing the share of RE in the country ’s
+        electricity generation mix. Over the past decade, utility-scale solar photovoltaic (PV) and wind power
+        generation projects have successfully crowded in commercial investments from privately and publicly
+        owned investors. India’s installed capacity of non-hydro renewables increased more than five-fold in a
+        decade, from 11 GW in 2008 to 69 GW in 2018 (excluding about 45 GW in large hydropower capacity).6 In
+        2015, the GoI signaled confidence in RE by raising its national installed generation capacity targets to 175
+        GW by 2022, including targets for wind (60 GW), solar power (100 GW), biomass power (10 GW), and small
+        hydropower (5 GW).
+
+         With a large resource potential, an increasingly supportive enabling policy environment, and favorable
+         market trends, solar PV and wind power are expected to lead future large scale non-hydro RE capacity
+         additions in India. By April 2018, wind (34 GW) and solar power (21.6 GW) comprise nearly 80 percent of
+         total installed RE generation capacity.7 Competition through well designed auctions, declining component
+         costs, enforcement of renewable purchase obligations, introduction of payment security mechanisms
+         covering off-taker risk and other policy support have driven record prices of utility -scale solar PV and wind.
+         For instance, the World Bank Group-supported 750 Mega-Watt (MW) Rewa Solar Park Project in Madhya
+         Pradesh delivered a record-making levelized cost of energy (LCOE) of INR 3.3/kWh (or USD 0.05 /kWh)
+         through a reverse auction.
+
+         As the share of renewables increases, India’s wind and solar power sectors are expected to face new
+         constraints. First, the significantly higher share of variable RE will increase grid management challenges,
+         requiring more ancillary services, back up supply, load shifting capabilities and improved RE generation
+         system performance. Second, curtailments that lead to under-utilized evacuation infrastructure will rise if
+         poor forecasting practices, disincentives to optimize designs, under-developed ramping arrangements,
+         removing transmission bottlenecks and other related challenges are not dealt with. Third, critically,
+         suitable land will become scarce – sites with the ‘best’ RE resources and with easy access to land are being
+
+          4 Source: Table 9, Draft National Energy Policy, Niti Aayog. Two scenarios presented are business-as-usual: 1204 GW total,
+          Ambitious: 1260 GW total.
+          5 CEA (31 January 2018). “All India Installed Capacity (in MW) of Power Stations�?.
+          6 Executive Summary of Power Sector, April 2008 to March 2018, CEA
+          7 Executive Summary of Power Sector, March 2018, CEA
+
+
+
+Aug 20, 2018                                                                                                                           Page 4 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+         taken up. Yet, land acquisition requirements for stand-alone solar (about 5 acres per MW) and wind (about
+         8-10 acres per MW) suggest vast land needs to meet RE targets.8 Only eight states (Andhra Pradesh,
+         Gujarat, Karnataka, Maharashtra, Madhya Pradesh, Rajasthan, Kerala and Tamil Nadu) comprise 97.5
+         percent of India’s installed wind power capacity, further limiting available land resources for wind
+         development.9 Fourth, Climate Change-related risks are likely to affect inter-annual and seasonal trends in
+         RE resource availability, adding to state and regional dispatch coordination challenges. Fifth, while the GoI
+         is working to resolve financing conditions of distribution utilities in the medium term, off-taker risk makes
+         investors and financiers rely on precedents and take conservative positions when viewing new business
+         models that may be necessary to introduce innovative solutions to emerging challenges.
+
+         The GoI is exploring innovations, such as wind-solar hybrid (WSH) parks, floating solar PV (FSPV) and
+         combining these with battery energy storage solutions (BESS), to address emerging challenges. As WSH
+         systems are configured to operate at one point of interconnection, and can have complementary
+         generation patterns (diurnal and seasonal), they can improve the generation profile per unit of land and
+         optimize use of associated evacuation infrastructure as compared to stand-alone RE plants.10 Noting that
+         there are large areas of India where both resources have such potential, the GoI recently issued a policy
+         that opens the door to investing in wind-solar PV hybrid systems with a BESS option.11 Under the policy,
+         the fiscal and financial incentives granted to stand-alone wind and solar PV are being extended to WSH.
+         With regard to FSPV, it can help to ease pressure on land resources by placing the RE plant on water bodies.
+         Preliminary studies suggest that utilization of just 10 percent of India’s water bodies would allow for the
+         development of about 300 GW of FSPV generation capacity.12 Additional advantages of the technology
+         include optimizing utilization of existing power evacuation infrastructure, improved efficiencies of PV
+         panels due to a surface water cooling effect, lowering PV panel cleaning requirements, and potentially
+         reducing evaporation. All considered, FSPV is not expected to differ significantly in terms of levelized cost
+         of electricity from ground-mounted fixed-tilt solar PV13. Despite all these benefits, there is no large scale
+         WSH in operation and the uptake of FSPV in India has been modest, with installations ranging between 10
+         kilowatts (kW) and 500 kW.
+
+         BESS can provide a range of transformative benefits to the power system, some coupled to RE generation
+         while others supporting network functions. Lack of a track record in the Indian power system, high costs
+         and an under-developed enabling environment limit the deployment of BESS. BESS is viewed increasingly
+         by the GoI and across South Asia as an enabling technology for a range of constraints being faced by their
+         power systems specifically due to increase in deployment of variable RE. Due to its scalability in energy
+         storage and output, grid-scale BESS can enable firmer output of variable RE. BESS can contribute towards
+         smoothening the load curve and shifting the peak, potentially replacing some investments in relatively
+         expensive peak generation. BESS can also substitute or defer the transmission requirements and enhance
+         resilience of the grid. Interest in BESS has converged with other planned transformations of India’s energy
+
+          8 On a footprint basis, however, the land acquisition requirements for wind are much lower. Nevertheless, the estimate factors
+          in safety zones, access roads and ancillary facilities required for a wind power plant.
+          9 National Institute of Wind Energy (March 2016). “Wind Power Installed Capacity (MW) in India�?.
+          10 A study conducted by the Reiner Lemoine Institute and Solarpraxis AG concluded that combining wind turbines and PV
+
+          systems results in generating up to twice the amount of electricity across the same surface area, while shading losses caused by
+          wind turbines amount to just 1–2 percent.
+          11 Refer: https://mnre.gov.in/sites/default/files/webform/notices/National-Wind-Solar-Hybrid-Policy.pdf (May 14, 2018).
+          12 According to a preliminary assessment of Renewable Energy College, Kolkata.
+          13 World Bank Group, ESMAP and SERIS 2018. Where Sun Meets Water: Floating Solar Market Report – Executive Summary.
+
+          Washington, DC: World Bank.
+
+Aug 20, 2018                                                                                                                            Page 5 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+         and transport sectors, including deployment of distributed renewables, smart meters and electric vehicles.
+         While these capabilities are attractive to the Indian power system, its ecosystem does not support revenue
+         streams to defray (still-high, but falling) BESS costs largely because there is no consensus among
+         stakeholders regarding how to facilitate a BESS market to capitalize on its economic potential. Early
+         attempts at auctions have been disappointing as a result.
+
+         The GoI has appointed the Solar Energy Corporation of India Ltd. (SECI) to implement a wide range of
+         support schemes to help achieve its ambitious RE targets, including the development of innovative clean
+         energy solutions such as WSH, FSPV and BESS. SECI is the only Central Public Sector Undertaking (CPSU)
+         with a mandate from the GoI to undertake its own investment and facilitate commercial participation in
+         RE market development through auctions. As higher RE targets are set and the market encounters new
+         barriers, demands on SECI to promote and quickly bring innovative solutions to the market are increasing.
+         The GoI is using this Project to support SECI’s institutional capacity as a market facilitator of accelerated
+         and innovative RE deployment. SECI will leverage World Bank Group (WBG) and Clean Technology Fund
+         (CTF) resources for commercial test beds to bring wind and solar expertise together for the first time – to
+         work through technical and commercial design issues in WSH and FSPV investments, and integrate
+         demonstration of currently non-commercial BESS solutions. The demonstration of these subprojects will
+         help to build up track records of performance that will be disseminated to investors, financiers and policy
+         makers. SECI will also use this knowledge to improve the structuring of its auctions and enhance the
+         likelihood of their success for WSH and FSPV systems. The Bank and IFC’s advisory group are coordinating
+         support to SECI to enhance learnings from such subprojects, support SECI’s market facilitation role and
+         improve its auction platform.
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+  The Project Development Objective (PDO) is to demonstrate the operational and economic feasibility of utility-scale
+  innovative renewable energy technologies and battery energy storage solutions, and contribute to strengthen
+  institutional capacity to facilitate scale-up of such technologies on a commercial basis in India.
+
+   Key Results
+         The following indicators will be used to track progress in achieving the PDO. The specifics regarding the
+         key performance as well as intermediate results indicators are detailed in Section VII.
+         (a) Cumulative installed RE capacity (in megawatt [MW])
+         (b) RE power generation (in megawatt hours [MWh])
+         (c) GHG emissions avoided (tones/year)
+         (d) Regulations, codes or standards for battery energy storage solutions issued
+         (e) Each solution (hybrid, floating solar PV and battery energy storage) demonstrated at least once
+             through subprojects.
+
+   D. Project Description
+
+          1.       The ISHTP will support SECI, as the implementing agency (IA) and borrower of funds, to finance
+          innovative RE and BESS subprojects to demonstrate applications that can be deployed at a large scale in
+          India’s power system, and build SECI’s market facilitation capacity in a rapidly evolving RE market through
+
+
+Aug 20, 2018                                                                                                        Page 6 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+          monitoring and disseminating its experience in design, construction, operation and contractual
+          arrangements to renewable market stakeholders in India. The proposed project has two components:
+
+          Component A: Investments in Innovative Renewable Energy (RE) Solutions (US$398 million equivalent)
+
+          2.       The Component will support innovative RE and BESS subprojects. The scope of subprojects will be
+          defined based on-site requirements, including: (a) site development (including site identification,
+          feasibility and environmental studies, land acquisition and resettlement, obtaining permits); (b)
+          construction of RE power plants and BESS, including design, supply and installation of equipment,
+          associated civil works, construction of ancillary infrastructure; (c) construction of power evacuation and
+          other common infrastructure (i.e. road access, water supply); and (d) operation and maintenance (O&M)
+          contracts. An ISHTP Operations Manual (OM) sets investment criteria for subprojects. The estimated cost
+          of this component is US$398 million, which includes US$150 million from the World Bank, US$28 million
+          from the CTF loan, US$20 million from the CTF grant, and US$200 million from SECI. The eligible subproject
+          typologies are:
+
+          (a) Utility-Scale Hybrid Subprojects: (about 300 MW targeted) The ISHTP will finance large-scale
+              greenfield hybrid solutions, combining wind, solar or BESS technologies that are tailored to meet site-
+              specific requirements. Subprojects are expected to demonstrate benefits for the Indian power
+              system, including better capacity utilization factors, reducing variability of RE power plants (i.e. due
+              to the relative diurnal and seasonal complementarity of solar and wind resources), and optimizing use
+              of power evacuation infrastructure. The first subproject has been appraised and comprises about 35
+              percent of IBRD/CTF financing:
+
+
+               160 MW Solar PV-Wind Power Plant with BESS Subproject in Ramagiri, Andhra Pradesh (AP)
+               (‘Ramagiri WSH Subproject’)
+
+               This is the first project of its kind in India and at this scale in the world. The subproject comprises the
+               design, construction, and O&M of co-located 120 MW solar PV, 40 MW wind power, 10 MW/22 MWh
+               BESS, associated infrastructure, and control and energy management systems. It is located on about
+               900 acres in the Ramagiri and Muthavakuntla villages, Anantapuramu district of AP, a wind and solar
+               resource-rich province. The WSH power will be transmitted to a 220/33 kilovolts (kV) pooling
+               substation (PSS) through a 33 kV transmission line and evacuated via a double circuit (D/C) 220 kV
+               transmission line to the 400/220 kV Hindupuramu substation that is located about 45 km from the
+               PSS site. The PSS, 220 kV evacuation line and interconnection with the Hindupuramu substation are
+               being constructed by the AP Transmission Company (APTRANSCO) under the GoI’s Green Energy
+               Corridor Project, that aims to remove transmission bottlenecks for RE. The Andhra Pradesh Southern
+               Power Distribution Company, Ltd. (APSPDCL) will be the sole off-taker under a long-term power
+               purchase agreement (PPA) signed with SECI. The BESS is installed to demonstrate use cases which
+               benefit the generator: avoiding curtailment, minimizing deviation settlement mechanism penalties
+               due to forecasting/scheduling errors, and piloting ramp rate control benefits.
+
+
+          (b) BESS Subprojects: (about 40 MWh targeted) The ISHTP will finance BESS applications integrated with
+              other RE generation technologies or providing grid services enabling improved use of power. As this
+
+Aug 20, 2018                                                                                                            Page 7 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+               technology is not yet commercially viable, selection of subprojects will be determined inter alia by the
+               use cases most likely to be deployed at large scale in the Indian power system including time shifting,
+               capacity firming, ramp rate control, and frequency regulation, and by the ability under existing
+               regulations to recover at least part of the costs of the BESS. A US$20 million CTF grant has been
+               allocated to partially defray the costs of these subprojects. The first BESS application is integrated
+               with the above-mentioned 160 MW Ramagiri subproject in AP.
+
+
+          (c) Utility-Scale FSPV Subprojects: (about [100] MW targeted) The ISHTP will finance FSPV power plant
+              subprojects – solar PV systems installed on synthetic floating beds anchored to the bottom or on the
+              shore of selected water bodies. Sites will be selected where there is high demonstrative value, such
+              as near existing associated infrastructure such as reservoirs of the operating dams or sites where the
+              land is either unavailable or too expensive. Based on initial discussions by SECI in multiple states
+              including AP, Kerala and Tamil Nadu, the target capacity estimate of a potential pipeline of subprojects
+              ranges from 20-100 MW.
+
+
+          Component B: Technical Assistance, Capacity Building, Implementation Support, Monitoring and
+          Dissemination (US$2 million equivalent)
+
+          3.      This component is financed by the CTF grant and will support technical assistance, studies,
+          workshops, training, study tours, and other capacity building and dissemination activities, including (but
+          not limited to):
+
+          (a) Support to policy and regulatory proposals, stakeholder consultations and knowledge sharing
+              activities to facilitate scale-up of innovative technologies. This will be done through workshops,
+              seminars, knowledge products, and other dissemination activities critical to informing regulators,
+              policy makers, and the private sector and reducing market information barriers.
+
+          (b) Activities for ISHTP subproject development and management, including activities associated with
+              identification of sites, preparation of environmental, feasibility, and other subproject preparation
+              studies, due diligence for land acquisition and resettlement, bid document preparation, safeguards
+              and project monitoring, project management consulting services, and owner’s engineer (OE) services.
+
+          (c) Capacity building and institutional development to support implementation of SECI’s business plan
+              (under revision). This is SECI’s first comprehensive forward-looking business plan, including a human
+              resources plan. A rolling capacity building plan financed from TA resources will be agreed after its
+              approval by SECI management and can include a range of inputs to strengthen SECI’s core functions
+              and business lines, including project management, monitoring, engineering, procurement and
+              contract management, O&M, financial management and organizational and process management.
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+          SECI will be the borrower, grant recipient, and IA of this project. The Bank will sign loan/financing
+          agreements directly with SECI with a guarantee from the GoI. SECI will be responsible for ensuring that
+
+
+Aug 20, 2018                                                                                                         Page 8 of 21
+            The World Bank
+            Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+             investments meet criteria set out in the project’s OM, which details eligibility criteria, technical, fiduciary
+             and safeguards requirements, investment decision guidelines, monitoring and evaluation (M&E)
+             requirements, and institutional and implementation arrangements for the project and reporting the same
+             to the GoI and the World Bank. The operations manual, satisfactory to the Bank, is being prepared by SECI
+             and will be finalized by negotiations.
+
+             SECI is under the administrative control of the Ministry of New and Renewable Energy (MNRE) which is
+             the nodal ministry responsible for achieving the GoI’s RE targets. MNRE will continue to provide overall
+             policy guidance and will support SECI in a manner possible to ensure that the lessons from this project are
+             internalized by other government agencies and market stakeholders.
+
+             SECI, a CPSU, was established on September 20, 2011, to facilitate the implementation of the National
+             Solar Mission (NSM). In June 2015, SECI was converted to a commercial company involved in investing,
+             trading and consultancy services in RE. It is the only CPSU dedicated for RE sector project implementation
+             and is the largest off-taker of solar power in India. SECI has experience in implementing a wide range of
+             instruments to implement RE policies and foster market development. It is responsible for the first and
+             subsequent Viability Gap Financing (VGF) schemes for a cumulative planned solar power generation
+             capacity of 12 GW, of which 4.7 GW worth of PPA has been signed (of which 2.7 GW has been
+             commissioned and the balance 1.9 GW is under implementation). SECI has also auctioned 8 GW in wind
+             power generation capacity in 2017-18 achieving record bids. Of these 4 GW contracts have been signed
+             and awarded for implementation. In these schemes, SECI acts as an offtaker of the procured solar and
+             wind power and subsequently sells the pooled power to distribution utilities under long-term power sale
+             agreements. SECI is also implementing schemes to support rooftop solar PV projects, solar park schemes
+             (through joint ventures [JV] with various state nodal agencies), and has implementation experience either
+             as a project management consultant or as a developer for investments similar to the expected ISHTP
+             subprojects, with a cumulative capacity of 75 MW.
+
+             The ISHTP is overseen by the Managing Director while SECI’s Director (Power Systems) has overall
+             responsibility for its implementation. The ISHTP’s key management functions are assigned across the
+             organization under the supervision of respective Department Heads. For Component A, teams are
+             organized for the preparation of subprojects, including DPRs, ESIAs, Bid Documents and Financing. Bid
+             document preparation, management of DSI (including O&M) contracts and other aspects of subproject
+             implementation will be undertaken by SECI’s contracts department with the support of an owner’s
+             engineer (OE) in the case of the first subproject. Bid documents are reviewed by technical and financial
+             departments before approval. Adjustments to team compositions are made depending on need of the
+             subproject. Component B implementation will be overseen by the Departments which are the
+             beneficiaries of the support. Dissemination activities will be designed and organized by Corporate
+             Planning department of SECI, which is also responsible for preparing the ISHTP project progress
+             monitoring reports (including KPIs). ISHTP institutional arrangements are also defined in the ISHTP
+             operations manual.
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will be implemented across India in several states, most of which are currently unknown except
+      one site in Andhra Pradesh (AP). These would however be located in areas away from population and where
+
+Aug 20, 2018                                                                                                              Page 9 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+   sunshine and wind are likely to be of high intensity, or water bodies where there are few hindrances. The
+   first identified site, where a 160 mega-watt (MW) Hybrid Park and battery energy storage solutions (BESS),
+   along with a transmission system to connect with the state grid, are proposed to be supported is located in
+   Ramagiri and Muthavakuntla villages of Anantapuramu district of AP in Southern India, which lies in the
+   rain-shadow area of AP. It is the largest district of AP spanning an area of 19,130 square kilometres (7,390 sq
+   mi). It is part of Rayalaseema region of the state. Its northern and central portions are a high plateau,
+   generally undulating, with large granite rocks or low hill ranges rising occasionally above its surface. In the
+   southern portion of the district the surface is more hilly, the plateau there rising to 2,000 ft (610 m) above
+   the sea. The district receives an average annual rainfall of 381 millimetres. Plant location is in a rocky, gently
+   undulating area with outcrops and little vegetation. Some vegetation exists along the small seasonal
+   streams that run through the site. These streams drain into tanks which provide water for the local people.
+   There is a small patch of forest through which the transmission line may need to pass, but its value from a
+   conservation/biodiversity perspective is quite limited. The proposed transmission line passes through
+   primarily agricultural land of Ramagiri, C K Palle, Somaddapalle, Roddam and Penukunda Mandal of
+   Anantapuramu district.
+
+
+
+   G. Environmental and Social Safeguards Specialists on the Team
+
+   Gaurav D. Joshi, Environmental Specialist
+   Parthapriya Ghosh, Social Specialist
+
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+  Safeguard Policies                           Triggered?           Explanation (Optional)
+                                                                    OP/BP 4.01 is triggered, since project impacts are
+                                                                    likely due to all the investments in infrastructure.
+                                                                    While the footprint will be limited given the choice
+                                                                    of technology, and little transport requirements in
+                                                                    operation, there will be different environmental
+                                                                    media directly affected. Moreover, the long term
+                                                                    impacts of new technologies like Floating solar
+  Environmental Assessment OP/BP 4.01          Yes
+                                                                    photovoltaics (PV) and large scale battery energy
+                                                                    storage solutions (BESS) need to be assessed more
+                                                                    intensely.
+
+                                                                    Since all the subprojects have not been identified yet
+                                                                    (except one subproject in Ramagiri in Andhra
+                                                                    Pradesh), a framework approach has been adopted
+
+
+Aug 20, 2018                                                                                                    Page 10 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+                                                                  and an Environmental and Social Management
+                                                                  Framework (ESMF) has been prepared to guide the
+                                                                  subsequent project preparation. SECI has led the
+                                                                  preparation of ESMF while Environment and Social
+                                                                  Impact Assessment (ESIA) studies (including
+                                                                  Environment and Social Management Plan [ESMP])
+                                                                  has been contracted out. The ESMF was disclosed in-
+                                                                  country and on Bank’s website on November 16,
+                                                                  2018. A detailed terms of reference (ToR) of the ESIA
+                                                                  has also been incorporated into the project ESMF.
+                                                                  The ESMF also provides for checklists and generic
+                                                                  ESMP. ESIAs commensurate in scope and coverage
+                                                                  with anticipated impacts will be conducted as more
+                                                                  investment opportunities are identified. ESIA for the
+                                                                  already identified investment for the Hybrid Solar
+                                                                  Park and BESS, along with transmission facilities
+                                                                  connecting the site to the grid, has been completed
+                                                                  and is being reviewed by the Bank.
+
+                                                                  To address health and safety issue, the project will
+                                                                  also follow the WBG environment, health, and safety
+                                                                  (EHS) guidelines.
+
+                                                                  ESMF will continue to serve as the guiding
+                                                                  document/ manual for the entire project activities
+                                                                  during implementation.
+  Performance Standards for Private Sector
+                                               No                 This Policy is not triggered
+  Activities OP/BP 4.03
+                                                                  This Policy is triggered since this project should not
+                                                                  be constrained by the presence of sensitive locations
+                                                                  like Natural Habitats. The ESIA ToR included in the
+                                                                  ESMF provides for necessary expertise to be
+  Natural Habitats OP/BP 4.04                  Yes
+                                                                  deployed to prepare the plans required to address
+                                                                  concerns relating to Natural Habitats, if in case these
+                                                                  are present in any potential subproject that is
+                                                                  identified later.
+                                                                  This policy has been triggered as there could be
+                                                                  forests located within project areas, for instance as
+                                                                  along the proposed transmission line for the
+                                                                  identified subproject. However, it is clarified that
+  Forests OP/BP 4.36                           Yes                there is no commercial logging operation to be
+                                                                  supported by the project, except for clearance of
+                                                                  right-of-way (RoW) as provided under applicable
+                                                                  regulation.
+
+
+
+Aug 20, 2018                                                                                                   Page 11 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+                                                                  Mitigation aspects have been covered in the
+                                                                  assessment (part of ESIA), and specific ESMP in line
+                                                                  with Indian requirements. The country/state
+                                                                  systems are robust to manage the impacts
+                                                                  associated and will be followed for the project.
+                                                                  The Project does not involve the purchase or
+                                                                  increased use of pesticides. Nor does it envisage
+  Pest Management OP 4.09                      No
+                                                                  agriculture expansion or vector borne disease
+                                                                  control. Hence, this policy is not triggered.
+                                                                  The project will involve civil works and therefore
+                                                                  there is a chance of finding important cultural
+                                                                  resources during construction activities. As not all
+  Physical Cultural Resources OP/BP 4.11       Yes
+                                                                  the sites are identified at this stage, such potential
+                                                                  subprojects could be close to important resources.
+                                                                  Therefore, this policy has been triggered.
+                                                                  Since, subprojects will be spread all across the
+                                                                  country, some locations may have presence of
+                                                                  indigenous population, hence this policy has been
+                                                                  triggered. Project has prepared Indigenous Peoples
+                                                                  Planning Framework (IPPF) that has the mechanism
+  Indigenous Peoples OP/BP 4.10                Yes
+                                                                  for their inclusion through preparation of Indigenous
+                                                                  Peoples Development Plan (IPDP). No indigenous
+                                                                  population was identified during social assessment
+                                                                  of Ramagiri Hybrid subproject and associated
+                                                                  transmission line.
+                                                                  While the government plans to prioritize the use of
+                                                                  state-owned unproductive land for innovative solar
+                                                                  and hybrid technologies, resettlement of
+                                                                  communities settled on government land may be
+                                                                  required. Additionally, there is a possibility for
+                                                                  acquiring private land for such subprojects. Since the
+                                                                  exact locations of all subprojects is not known yet
+                                                                  and alignment of the linked transmission line may
+                                                                  change during project implementation phase,
+                                                                  project has prepared Resettlement Policy
+  Involuntary Resettlement OP/BP 4.12          Yes
+                                                                  Framework (RPF). The RPF provides guidance on the
+                                                                  procedures to be followed to minimize involuntary
+                                                                  resettlement where feasible through exploring all
+                                                                  viable alternatives project designs; and assist
+                                                                  displaced persons in improving their former living
+                                                                  standards, income earning capacity, and production
+                                                                  levels, or at least in restoring them; encourage
+                                                                  community participation in planning and
+                                                                  implementing resettlement; issues related to labor
+                                                                  influx during construction period, and provide
+
+
+Aug 20, 2018                                                                                                  Page 12 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+                                                                  assistance to affected people regardless of the
+                                                                  legality of title of land. The RPF shall provide
+                                                                  guidelines for the preparation of Social Impact
+                                                                  Assessment (SIA) and subproject specific
+                                                                  Resettlement Action Plans (RAPs) as applicable. The
+                                                                  Ramagiri Hybrid subproject and associated
+                                                                  transmission line is the only identified subproject so
+                                                                  far. Subproject specific ESIA along with ESMP and
+                                                                  RAP have been prepared and being reviewed by the
+                                                                  Bank. The park will take assigned land from 216
+                                                                  households while another 333 households will be
+                                                                  affected by the restrictive use of land coming under
+                                                                  RoW of transmission line. All land owners will be
+                                                                  compensated and assisted as per the project specific
+                                                                  entitlement matrix.
+                                                                  While the project is not supporting any dam
+                                                                  construction or rehabilitation, it is possible that
+                                                                  Floating Solar Photo Voltaic (FSPV) sub-projects
+                                                                  could be installed in reservoirs created by dams.
+                                                                  Hence, this policy has been triggered. In order to
+                                                                  comply with its requirement, a dam safety analysis
+                                                                  report will be prepared and shared with the Bank
+                                                                  which will determine suitability of the site based on
+                                                                  the findings and recommendations of that report.
+  Safety of Dams OP/BP 4.37                    Yes
+                                                                  Any FSPV sub-project on a given dam will be
+                                                                  supported upon confirmation as per the Dam Safety
+                                                                  Report that there are no major issues associated
+                                                                  with the relevant Dam (that resulted in the
+                                                                  formation of the waterbody) as defined by the Dam
+                                                                  Safety Policy of the Bank. SECI shall follow the ESMF
+                                                                  wherever relevant to ensure the Dam Safety Report
+                                                                  is prepared by a qualified dam safety expert
+                                                                  following terms of reference agreed with the Bank.
+  Projects on International Waterways
+                                               No                 This Policy is not triggered
+  OP/BP 7.50
+                                                                  This Policy is not triggered. No subprojects in
+  Projects in Disputed Areas OP/BP 7.60        No
+                                                                  disputed areas are envisaged.
+
+
+
+
+Aug 20, 2018                                                                                                   Page 13 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+  A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  ENVIRONMENT IMPACTS:
+  There is a good case to be made for positive impact, such as reducing harmful air emissions, of deploying innovative
+  renewable energy generation and storage technologies. Given this, it is equally important that such innovations
+  necessarily require better risk management than conventional approaches as explained below.
+
+  Key issues pertain to the use of advanced and new technology – handling of potentially hazardous chemicals (in large
+  batteries, for instance) and material (in solar panels, etc.) – as well as conventional impacts of construction of heavy
+  infrastructure – relating to ground development, changes to land use, health and safety concerns for the workers on –
+  site as well as other users of the area, and facilities like roads that the project would use for construction period
+  transport as well as operation and maintenance. In addition, construction period would also see issues related to labor
+  influx especially those due migrant male labor. In addition, in more sensitive locations, permanent changes to land use
+  may be an issue. It is noted that for wind and solar PV plants, this may be limited given the smaller foot print, and
+  isolated locations that are normally associated with such facilities.
+
+  While the extent is large, for each MW of PV about 4-5 hectares of land is required while for each MW of wind turbine
+  about 8-10 hectares (this is much lower on footprint basis) is required. Of course, between wind turbines, in no-
+  shadow areas, solar PV panels would be installed so there would be reduced foot print than in standalone solar or
+  wind plants. But land area requirement is large. In addition, handling material containing hazardous substances and
+  their disposal in case of damage or end-of-life also has also potentially significant impacts given the quantities
+  involved. While some of these are long term, mostly reversible as the land use change can be reversed by removing
+  the solar panels, which are usually mounted on frames. In addition, floating solar plants may have potential impacts
+  on the aquatic ecology that need to be assessed and if identified then monitored and mitigated. However, the
+  installed floating plants so far have not reported any negative impacts.
+
+  In addition, there would be anticipated impacts of conventional activities like installation of batteries, transformers,
+  transmission lines, and other ancillary facilities. New transmission line/replacement of overhead wires, could have an
+  impact on forest within the ROW of transmission line and substation sites, any incidental impacts on local fauna,
+  localized drainage issues where substation construction may impede drainage, safety of workers and near-by
+  residents. The operational phase impacts could arise from indiscriminate use and disposal of batteries, transformer oil,
+  e-waste and in case of circuit breaker and handling of impacts form SF6.
+
+  Most of these Environmental impacts are likely to be site-specific and reversible in nature where, mitigation measures
+  are put in place through safeguards tools and can be managed to reduce these negative impacts of the interventions.
+
+  For the Ramagiri site, the identified likely impacts are limited to the changes in the local drainage pattern and
+  construction period issues related to health and safety of workers and other site users. For operation phase, there
+  could be impacts due to spillage of chemicals, safe working procedures not being followed, etc.
+
+  SOCIAL IMPACTS:
+
+
+Aug 20, 2018                                                                                                    Page 14 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+  The ESIA carried out for Ramagiri subproject shows that the project will acquire 928 acres of land for park area and
+  another 379 acres of land will come under ROW of transmission line, which will have an adverse impact on 549
+  families (2518 project affected persons [PAP]). The total numbers of affected families in the Hybrid Park is 216
+  consisting of 862 PAPs and total number of families in the core zone of Transmission Lines is 333 consisting of 1656
+  PAPs that are affected due to restrictive use of land under right of way of transmission line. During the field survey
+  and village level consultations, it was found that approximately 90% of the households in the core zone have
+  mortgaged their assigned patta land against crop loans. The land impacted by the park area though has been assigned
+  for cultivation, it is completely barren due to undulating rocky surface and lack of irrigation facility. The land under
+  the alignment of transmission line however is agriculture land.
+
+  No common property resources or religious structure will be affected by this subproject. The socio-economic breakup
+  of these families shows that amongst the 549 affected families, 68 families are Scheduled Caste, and 23 families are
+  Scheduled Tribe (ST). The ST families are mainstreamed with the dominant culture and society in that area and hence,
+  World Bank’s Policy OP/BP 4.10 for Indigenous People has not been triggered.
+
+  An Entitlement Matrix has been agreed upon in the RPF as part of ESMF. A Resettlement Action Plan (RAP), in
+  accordance with RPF has been prepared to mitigate any adverse social impact on families within the Hybrid Park and
+  Transmission Line alignment. The Entitlement matrix and RAP also include gender-specific implication of land taking.
+  Special emphasis has been given to women headed households and their special needs/availability/vulnerabilities.
+  Clear strategies to mitigate any adverse social impact on women has been developed based on the gender analysis.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  None.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  Realistically, the locations of subprojects are constrained by the availability of wind resources and sunshine. However,
+  these are sited where large land parcels are available to achieve economies of scale. So, the analysis of alternatives
+  concentrates on the technology that could be deployed, which again is limited by environmental conditions – wind
+  speed as well as persistence and insolation. However, for each ESIA a no-project scenario would be analysed in line
+  with the ESMF stipulation.
+
+  In case of transmission lines, following criteria were adopted:
+  (a) Forest land as identified on the Survey of India topo-sheet should be as less as possible;
+  (b) Settlement along the alignment should be as low as possible;
+  (c) Technical constraints such as crossing e.g. rivers, railways , roads should be as low as possible
+
+  For Ramagiri subproject, the alternatives were identified on the Survey of India 1: 50,000 toposheet by the project and
+  was provided for analysis of the environmental and social concerns. While carrying out the analysis of alternatives
+  efforts were made to identify the line which would cause minimum disturbance to the forest area. In addition
+  individual houses along the alignment within 50 m of proposed alignment were also enumerated along with other
+  parameters. The environmental and social information along the alternative alignments were collated and the Analysis
+  of Alternative has been documented in the ESIA for the identified project site.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  SECI has the responsibility to implement the project in line with the Bank policies. It has developed a guidance
+
+Aug 20, 2018                                                                                                      Page 15 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+  document in the form of its Environmental and Social Management Framework (ESMF) that will assist the
+  implementation of specific subprojects as they get identified. This guidance builds on review of existing solar park
+  projects, and smaller floating solar projects being already operated by other entities. It also takes into account the
+  large scale of operations that will be required to handled by SECI in running such subprojects. SECI will issue
+  engineering, procurement and construction (EPC) contracts in which the selected contractor will be responsible for
+  actual implementation of measures on the ground.
+
+  To address safeguards requirements, the ESMF includes Resettlement Policy Framework (RPF), Indigenous Peoples
+  Planning Framework (IPPF), and generic Environmental and Social Management Plan (ESMP). ESMF also includes
+  Terms of Reference for site-specific ESIA as well as screening criteria for sites, with specific reference to important
+  environmental features, especially for Floating Solar Photo Voltaic projects.
+
+  The first subproject specific ESIA for Ramagiri site has been carried out through specialized consultants and has
+  resulted in an ESMP from which relevant portions have been included in the contract documentation. In addition, as
+  part of the instruction to the bidders for the transmission line, the possibility of avoiding the small forest patch
+  identified along alignment has been included. Since only one sub project has been identified so far, ESIA was carried
+  out and based on the results of ESIA, ESMP and RAP has been prepared for both the park area as well as for the
+  transmission line. Sub-project specific RAPs for both park area and transmission line have been prepared and
+  disclosed. ESMF, RPF and IPPF have also been disclosed.
+
+  The process followed for preparation of the safeguard documents is participatory and facilitative with emphasis on
+  information sharing, consultation and feedback. In the long run, the entities will ensure training and capacity building
+  of staff to undertake environmental and social development and safeguards activities.
+
+  The institutional capacity within SECI is weak for safeguards management but with the hiring of full-time staff, it is
+  currently being augmented. Since this is the first project SECI is working on with World Bank, it will also require
+  support in capacity in the operationalization of the ESMF, training and capacity building programs for its own staff, as
+  well as contractors who will be used for project implementation.
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  “Stakeholder mapping�? was carried out during the ESIA preparation for Ramagiri subproject to study the profile of the
+  stakeholders identified and the nature of the stakes; understand each group’s specific issues, concerns as well as
+  expectations from the project that each group retains; and gauge their influence on the project. National level
+  consultations on ESMF was conducted to take feedback of wider stakeholders before finalization of ESMF.
+
+  Consultations with the identified stakeholders were carried out during the preparation of ESIA at the subproject level
+  for Ramagiri site. The consultations will be continued during the construction and operation phases of the project.
+  Issues like land and resource damage, social disturbance, severance and increased congestion, noise and air pollution,
+  employment opportunities, need for development of basic infrastructure, safe drinking water, sanitation facilities etc.
+  were discussed during the consultations . The consultations also helped in developing preliminary understanding of
+  the requirement of social development initiatives required.
+
+  The final ESMF and RAPs have been disclosed both in country as well as on the Bank’s IDU on November 16, 2018.
+
+
+
+Aug 20, 2018                                                                                                       Page 16 of 21
+                                The World Bank
+                                Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+  B. Disclosure Requirements
+
+   OPS_EA_DISCLOSURE_TABLE
+   Environmental Assessment/Audit/Management Plan/Other
+                                                                                                   For category A projects, date of
+       Date of receipt by the Bank                             Date of submission for disclosure   distributing the Executive Summary of
+                                                                                                   the EA to the Executive Directors
+       12-Nov-2018                                             16-Nov-2018
+
+       "In country" Disclosure
+         India
+        16-Nov-2018
+          Comments
+   OPS_RA_D ISCLOSURE_T ABLE
+
+
+
+
+   Resettlement Action Plan/Framework/Policy Process
+
+       Date of receipt by the Bank                             Date of submission for disclosure
+       31-Oct-2018                                             16-Nov-2018
+
+       "In country" Disclosure
+            India
+             16-Nov-2018
+          Comments
+
+   OPS_I P_DIS CLOSURE_TA BLE
+
+
+
+
+   Indigenous Peoples Development Plan/Framework
+    Date of receipt by the Bank       Date of submission for disclosure
+       30-Oct-2018                                             16-Nov-2018
+
+       "In country" Disclosure
+            India
+            16-Nov-2018
+
+          Comments
+
+
+
+
+  C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+  decision meeting)
+
+ OPS_EA_COMP_TABLE
+
+Aug 20, 2018                                                                                                                   Page 17 of 21
+                         The World Bank
+                         Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+           OP/BP/GP 4.01 - Environment Assessment
+
+           Does the project require a stand-alone EA (including EMP) report?
+           Yes
+           If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report?
+           Yes
+           Are the cost and the accountabilities for the EMP incorporated in the credit/loan?
+           Yes
+ OPS_ NH_COM P_TA BLE
+
+
+
+
+           OP/BP 4.04 - Natural Habitats
+
+           Would the project result in any significant conversion or degradation of critical natural habitats?
+           NA
+           If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the
+           project include mitigation measures acceptable to the Bank?
+           NA
+ OPS_ PCR_COM P_TA BLE
+
+
+
+
+           OP/BP 4.11 - Physical Cultural Resources
+           Does the EA include adequate measures related to cultural property?
+           Yes
+           Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+           Yes
+ OPS_I P_COM P_TA BLE
+
+
+
+
+           OP/BP 4.10 - Indigenous Peoples
+
+           Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate) been prepared in consultation with
+           affected Indigenous Peoples?
+           Yes
+           If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+           Yes
+           If the whole project is designed to benefit IP, has the design been reviewed and approved by the Regional Social
+           Development Unit or Practice Manager?
+           No
+ OPS_IR_ COMP_TA BLE
+
+
+
+
+           OP/BP 4.12 - Involuntary Resettlement
+
+          Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared?
+          Yes
+          If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+          Yes
+ OPS_F O_COM P_TA BLE
+
+
+
+
+           OP/BP 4.36 - Forests
+
+
+Aug 20, 2018                                                                                                                Page 18 of 21
+                         The World Bank
+                         Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+
+          Has the sector-wide analysis of policy and institutional issues and constraints been carried out?
+          Yes
+          Does the project design include satisfactory measures to overcome these constraints?
+          Yes
+          Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
+          No
+ OPS_SD _COMP_ TABLE
+
+
+
+
+          OP/BP 4.37 - Safety of Dams
+
+          Have dam safety plans been prepared?
+          No
+          Have the TORs as well as composition for the independent Panel of Experts (POE) been reviewed and approved by the
+          Bank?
+          No
+          Has an Emergency Preparedness Plan (EPP) been prepared and arrangements been made for public awareness and
+          training?
+          No
+ OPS_ PDI_ COMP_TA BLE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+          All Safeguard Policies
+
+
+          Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+          measures related to safeguard policies?
+          Yes
+          Have costs related to safeguard policy measures been included in the project cost?
+          Yes
+          Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+          related to safeguard policies?
+          Yes
+          Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+          reflected in the project legal documents?
+          Yes
+
+
+
+Aug 20, 2018                                                                                                                Page 19 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Surbhi Goyal
+   Senior Energy Specialist
+
+   Gailius J. Draugelis
+   Lead Energy Specialist
+
+   Borrower/Client/Recipient
+   Solar Energy Corporation of India Limited
+   Jatindra Nath Swain
+   Managing Director
+   corporate@seci.gov.in
+   Implementing Agencies
+
+   Solar Energy Corporation of India Limited
+   Jatindra Nath Swain
+   Managing Director
+   corporate@seci.gov.in
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Surbhi Goyal
+   Task Team Leader(s):
+                                          Gailius J. Draugelis
+   Approved By
+
+   Safeguards Advisor:
+
+
+Aug 20, 2018                                                            Page 20 of 21
+          The World Bank
+          Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+   Practice Manager/Manager:             Demetrios Papathanasiou        26-Nov-2018
+
+   Country Director:                     Hisham A. Abdo Kahin           26-Nov-2018
+
+
+
+
+Aug 20, 2018                                                                          Page 21 of 21
+

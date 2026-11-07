@@ -1,0 +1,1426 @@
+{
+  "project_id": "P174546",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "694fad33",
+  "started_at": "2026-11-07T03:31:39Z",
+  "ended_at": "2026-11-07T03:32:14Z",
+  "input_fingerprint": "5233cc91748c33de",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 22,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P174546-A1",
+      "project_id": "P174546",
+      "name": "MIS and biometric payment system for emergency cash transfers",
+      "description": "Delivers unconditional cash transfers to locust-affected households through SSSNP's existing MIS, grievance mechanism and biometric payment system, reducing fraud and error. Practices: SSSNP MIS and biometric payment mechanism for emergency cash transfers; Biometric and GIS-based cash payment system; biometric and GIS-based payment system for cash transfers.",
+      "why_innovative": "New delivery arrangement: reuse of biometric safety-net payment system - cue: 'biometric payment mechanism' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "275441623463284157",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-18",
+        "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+        "char_start": 71812,
+        "char_end": 72126,
+        "text": "27 In particular, safety net delivery tools such as the grievance redress mechanism (GRM), management information system (MIS), and biometric payment mechanism established and enhanced under the SSSNP will be used to ensure the effective and accountable delivery of the emergency direct income support of the ELRP.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 71565,
+          "char_end": 71811,
+          "text": "The emergency cash transfer will be provided through the existing operational tools, systems, procedures and arrangements established under the ongoing World Bank-funded SSSNP, implemented by the United Nations Office of Project Services (UNOPS).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 74485,
+          "char_end": 74677,
+          "text": "Delivery of the cash will be done using the payment system established under the SSSNP that uses biometric data and geographic information system data to minimize error, fraud, and corruption.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 73880,
+          "char_end": 74197,
+          "text": "The cash transfer amount will continue to be aligned with the SSSNP at US$2.70 per household per day and will be provided only for six months for a total of US$243.0 per household (15 average working days per month) to be paid monthly, as an emergency response aimed at addressing impacts of a shot-term acute crisis.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 174912,
+          "char_end": 175068,
+          "text": "To mitigate these risks, the planned cash transfer will use the established biometric and GIS-based payment system to minimize error, fraud, and corruption.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 175069,
+          "char_end": 175294,
+          "text": "The risk of cash handling will be transferred to an experienced financial service provider, and the cash transfer amount will be denominated in United States dollars to mitigate the risk of foreign exchange rate fluctuations.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: biometric payment system changes how transfers reach households",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Delivers unconditional cash transfers to affected households via safety-net MIS.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168926",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "ach Paper. Given COVID-19, the country program now focuses on improving community resilience and restoring human capital in the restructuring stage, and support and strengthening institution building in the recovery stage. In the relief stage, the Provision of the Essential Health Services Project (P168926) triggered a contingent emergency response of US$7.6 million to support the National COVID-1"
+        },
+        {
+          "other_project_id": "P174170",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "hile other infestations have reached Bahrain, Iraq, Kuwait, Qatar and the United Arab Emirates. Control operations have reportedly been on-going in Egypt and Saudi Arabia but are still inadequate in Yemen despite the approval by the Board of Executive Directors of the Yemen Locust Response Project (P174170) on June 17, 2020. 3. Furthermore, because DLs are an intermittent problem. Disjointed actio"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SSSNP MIS + biometric payment | Innovative: biometric-verified cash in fragile state | Category: payment delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: reuse of biometric safety-net payment system - cue: 'biometric payment mechanism'",
+      "innovation_cues": [
+        "grievance-redress"
+      ]
+    },
+    {
+      "approach_id": "P174546-A2",
+      "project_id": "P174546",
+      "name": "Earth observation and drone surveillance for pest monitoring",
+      "description": "Uses earth observation satellite training and drone surveys to detect locusts, including in areas staff cannot safely reach. Practices: Earth observation satellite training for transboundary pest monitoring; drone surveillance for locust detection in insecure areas.",
+      "why_innovative": "New service: satellite earth observation for pest surveillance - cue: 'earth observation' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "275441623463284157",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-18",
+        "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+        "char_start": 86316,
+        "char_end": 86603,
+        "text": "This will also support access to a training program being developed in conjunction with the European Space Agency on using earth observation satellites for transboundary pest monitoring, what governments need to know, what services are available, and how best to access this information.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 168102,
+          "char_end": 168227,
+          "text": "Where possible, the project will make use of technology, like drones, to surveil for locusts even where staff cannot venture.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: satellite remote sensing is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Agriculture, Fishing & Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Pest monitoring training supports agricultural public services.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168926",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "ach Paper. Given COVID-19, the country program now focuses on improving community resilience and restoring human capital in the restructuring stage, and support and strengthening institution building in the recovery stage. In the relief stage, the Provision of the Essential Health Services Project (P168926) triggered a contingent emergency response of US$7.6 million to support the National COVID-1"
+        },
+        {
+          "other_project_id": "P174170",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "hile other infestations have reached Bahrain, Iraq, Kuwait, Qatar and the United Arab Emirates. Control operations have reportedly been on-going in Egypt and Saudi Arabia but are still inadequate in Yemen despite the approval by the Board of Executive Directors of the Yemen Locust Response Project (P174170) on June 17, 2020. 3. Furthermore, because DLs are an intermittent problem. Disjointed actio"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: ESA earth observation satellites | Innovative: satellite pest monitoring training | Category: remote sensing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: satellite earth observation for pest surveillance - cue: 'earth observation'",
+      "innovation_cues": [
+        "early-warning"
+      ]
+    },
+    {
+      "approach_id": "P174546-A3",
+      "project_id": "P174546",
+      "name": "Biometric enrolment and authentication in MIS for payroll and payments",
+      "description": "Registers beneficiaries' fingerprints and photos in a single biometric catalogue and authenticates them against the MIS before generating payroll and paying cash. Practices: SSSNP MIS and biometric payroll generation and verification; Biometric authentication against MIS database for cash transfers; Single biometric catalogue to avoid beneficiary duplication; biometric fingerprint and photo registration into MIS for payment.",
+      "why_innovative": "New process: biometric payroll verification against enrolled database - cue: 'MIS' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "275441623463284157",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-18",
+        "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+        "char_start": 215455,
+        "char_end": 215659,
+        "text": "The ELRP will utilize the established and well-functioning SSSNP MIS and biometric system to generate payroll, verify payments, and conduct payment reconciliation to minimize error, fraud, and corruption.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 215806,
+          "char_end": 215946,
+          "text": "Following, a payroll will be generated through the MIS of all the enrolled beneficiaries at a given project location for the payment period.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 216521,
+          "char_end": 216724,
+          "text": "Cash will only be provided to the beneficiary households based on biometric authentication against the enrolled beneficiary database in the MIS to ensure that the intended beneficiaries receive the cash.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 216725,
+          "char_end": 216931,
+          "text": "Following the transfers, the financial service provider will share with UNOPS the list of paid beneficiaries, accompanied by biometric evidence of payment, which will then be reconciled against the payroll.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 217949,
+          "char_end": 218238,
+          "text": "Since the natural resource management activities will be implemented using labor intensive public works, MAFS will coordinate with FAO and UNOPS to ensure that beneficiaries are captured in the biometric management system and stored in a single catalogue to avoid duplication or confusion.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "275441623463284157",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-18",
+          "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+          "char_start": 226693,
+          "char_end": 226923,
+          "text": "(g) Registration of validated beneficiaries using state-of-the-art biometric technology that captures ‘fingerprints’ and ‘photographs’ of the prospective beneficiaries and their alternates 32 and enrolled into the MIS for payment.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: biometric MIS is the core mechanism, not a financial product",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "MIS payroll generation and verification for cash transfers serves safety-net payments.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168926",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "ach Paper. Given COVID-19, the country program now focuses on improving community resilience and restoring human capital in the restructuring stage, and support and strengthening institution building in the recovery stage. In the relief stage, the Provision of the Essential Health Services Project (P168926) triggered a contingent emergency response of US$7.6 million to support the National COVID-1"
+        },
+        {
+          "other_project_id": "P174170",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "hile other infestations have reached Bahrain, Iraq, Kuwait, Qatar and the United Arab Emirates. Control operations have reportedly been on-going in Egypt and Saudi Arabia but are still inadequate in Yemen despite the approval by the Board of Executive Directors of the Yemen Locust Response Project (P174170) on June 17, 2020. 3. Furthermore, because DLs are an intermittent problem. Disjointed actio"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SSSNP MIS/biometrics | Innovative: payroll generated and reconciled against enrolled database | Category: digital registry",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: biometric payroll verification against enrolled database - cue: 'MIS'",
+      "innovation_cues": [
+        "grievance-redress"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P174546",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "guid": "275441623463284157",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:31:39Z",
+      "ended_at": "2026-11-07T03:31:45Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:31:45Z",
+      "ended_at": "2026-11-07T03:31:45Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-06-08, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:31:45Z",
+      "ended_at": "2026-11-07T03:31:47Z",
+      "status": "ok",
+      "note": "22 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 22,
+        "tier": "High",
+        "by_dimension": {
+          "results_based_management": 3,
+          "enabling_processes": 3,
+          "innovation_types": 2,
+          "public_good": 2,
+          "innovation": 3,
+          "innovation_cycle": 6,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:31:47Z",
+      "ended_at": "2026-11-07T03:31:47Z",
+      "status": "ok",
+      "note": "PAD 2021-05-18 (P174546_PAD_2021-05-18_275441623463284157.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P174546",
+            "doc_type": "PAD",
+            "doc_date": "2021-05-18",
+            "guid": "275441623463284157",
+            "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:31:47Z",
+      "ended_at": "2026-11-07T03:31:47Z",
+      "status": "ok",
+      "note": "225 reading units (26 numbered paragraphs) from 1869 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 225
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:31:47Z",
+      "ended_at": "2026-11-07T03:31:50Z",
+      "status": "ok",
+      "note": "111 of 225 units carry a digital / AI cue (36 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 111,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 36
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:31:50Z",
+      "ended_at": "2026-11-07T03:32:00Z",
+      "status": "ok",
+      "note": "21 candidate practices from 111 units in 12 calls",
+      "llm_calls": 12,
+      "input_chars": 354505,
+      "output": {
+        "usage": {
+          "calls": 12,
+          "input_tokens": 2367,
+          "cached_tokens": 73472,
+          "cache_write_tokens": 0,
+          "output_tokens": 4689,
+          "seconds": 36.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0068
+        },
+        "extracted": 21
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:32:00Z",
+      "ended_at": "2026-11-07T03:32:07Z",
+      "status": "ok",
+      "note": "10 accepted, 11 rejected (not_innovative 7, not_digital 3, unsupported_by_evidence 1); 3 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 228482,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 36540,
+          "cached_tokens": 8448,
+          "cache_write_tokens": 0,
+          "output_tokens": 1611,
+          "seconds": 11.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0129
+        },
+        "accepted": 10,
+        "rejected": 11,
+        "expanded": 3,
+        "reject_codes": {
+          "not_digital": 3,
+          "not_innovative": 7,
+          "unsupported_by_evidence": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:32:07Z",
+      "ended_at": "2026-11-07T03:32:11Z",
+      "status": "ok",
+      "note": "10 of 10 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2583,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 537,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 349,
+          "seconds": 3.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:32:11Z",
+      "ended_at": "2026-11-07T03:32:12Z",
+      "status": "ok",
+      "note": "10 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2612,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 543,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 167,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "merged": 6,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:32:12Z",
+      "ended_at": "2026-11-07T03:32:14Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8931,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1393,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 232,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:32:14Z",
+      "ended_at": "2026-11-07T03:32:14Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 14 evidence rows, 12 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:32:14Z",
+      "ended_at": "2026-11-07T03:32:14Z",
+      "status": "ok",
+      "note": "2 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P168926",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "ach Paper. Given COVID-19, the country program now focuses on improving community resilience and restoring human capital in the restructuring stage, and support and strengthening institution building in the recovery stage. In the relief stage, the Provision of the Essential Health Services Project (P168926) triggered a contingent emergency response of US$7.6 million to support the National COVID-1"
+          },
+          {
+            "other_project_id": "P174170",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "hile other infestations have reached Bahrain, Iraq, Kuwait, Qatar and the United Arab Emirates. Control operations have reportedly been on-going in Egypt and Saudi Arabia but are still inadequate in Yemen despite the approval by the Board of Executive Directors of the Yemen Locust Response Project (P174170) on June 17, 2020. 3. Furthermore, because DLs are an intermittent problem. Disjointed actio"
+          }
+        ],
+        "store_size": 151
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P174546-A1-E1",
+      "approach_id": "P174546-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U51",
+      "para_no": null,
+      "sentence_position": 423,
+      "char_start": 71812,
+      "char_end": 72126,
+      "sentence": "27 In particular, safety net delivery tools such as the grievance redress mechanism (GRM), management information system (MIS), and biometric payment mechanism established and enhanced under the SSSNP will be used to ensure the effective and accountable delivery of the emergency direct income support of the ELRP.",
+      "practice": "SSSNP MIS and biometric payment mechanism for emergency cash transfers",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: MIS plus biometric payment mechanism | Not routine: biometric-verified cash delivery in fragile setting | Adoption: 'will be used to ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SSSNP MIS + biometric payment | Innovative: biometric-verified cash in fragile state | Category: payment delivery",
+      "keywords_hit": "MIS;conflict;fragile;information system;management information system",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New delivery arrangement: reuse of biometric safety-net payment system - cue: 'biometric payment mechanism'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A1-E2",
+      "approach_id": "P174546-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U51",
+      "para_no": null,
+      "sentence_position": 422,
+      "char_start": 71565,
+      "char_end": 71811,
+      "sentence": "The emergency cash transfer will be provided through the existing operational tools, systems, procedures and arrangements established under the ongoing World Bank-funded SSSNP, implemented by the United Nations Office of Project Services (UNOPS).",
+      "practice": "SSSNP MIS and biometric payment mechanism for emergency cash transfers",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: MIS plus biometric payment mechanism | Not routine: biometric-verified cash delivery in fragile setting | Adoption: 'will be used to ensure'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SSSNP MIS + biometric payment | Innovative: biometric-verified cash in fragile state | Category: payment delivery",
+      "keywords_hit": "MIS;conflict;fragile;information system;management information system",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New delivery arrangement: reuse of biometric safety-net payment system - cue: 'biometric payment mechanism'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A1-E3",
+      "approach_id": "P174546-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 436,
+      "char_start": 74485,
+      "char_end": 74677,
+      "sentence": "Delivery of the cash will be done using the payment system established under the SSSNP that uses biometric data and geographic information system data to minimize error, fraud, and corruption.",
+      "practice": "Biometric and GIS-based cash payment system",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric and GIS payment system | Not routine: biometric identity plus geospatial fraud control | Adoption: 'will be done using'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: biometric + GIS payment system | Innovative: geospatial fraud control on transfers | Category: payment delivery",
+      "keywords_hit": "geographic information system;information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: biometric and GIS-verified cash delivery - cue: 'biometric data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A1-E4",
+      "approach_id": "P174546-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 434,
+      "char_start": 73880,
+      "char_end": 74197,
+      "sentence": "The cash transfer amount will continue to be aligned with the SSSNP at US$2.70 per household per day and will be provided only for six months for a total of US$243.0 per household (15 average working days per month) to be paid monthly, as an emergency response aimed at addressing impacts of a shot-term acute crisis.",
+      "practice": "Biometric and GIS-based cash payment system",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric and GIS payment system | Not routine: biometric identity plus geospatial fraud control | Adoption: 'will be done using'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: biometric + GIS payment system | Innovative: geospatial fraud control on transfers | Category: payment delivery",
+      "keywords_hit": "geographic information system;information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: biometric and GIS-verified cash delivery - cue: 'biometric data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A1-E5",
+      "approach_id": "P174546-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U129",
+      "para_no": null,
+      "sentence_position": 1102,
+      "char_start": 174912,
+      "char_end": 175068,
+      "sentence": "To mitigate these risks, the planned cash transfer will use the established biometric and GIS-based payment system to minimize error, fraud, and corruption.",
+      "practice": "biometric and GIS-based payment system for cash transfers",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric and GIS payment system | Not routine: biometric identity verification of payees | Adoption: 'will use'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: biometric/GIS payment system | Innovative: verified payouts via FSP | Category: financial payment channel",
+      "keywords_hit": "GIS",
+      "innovation_cues": "",
+      "innovation_basis": "Digital payment channel: biometric/GIS-verified payouts via financial service provider cut fraud and error",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A1-E6",
+      "approach_id": "P174546-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U129",
+      "para_no": null,
+      "sentence_position": 1103,
+      "char_start": 175069,
+      "char_end": 175294,
+      "sentence": "The risk of cash handling will be transferred to an experienced financial service provider, and the cash transfer amount will be denominated in United States dollars to mitigate the risk of foreign exchange rate fluctuations.",
+      "practice": "biometric and GIS-based payment system for cash transfers",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric and GIS payment system | Not routine: biometric identity verification of payees | Adoption: 'will use'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: biometric/GIS payment system | Innovative: verified payouts via FSP | Category: financial payment channel",
+      "keywords_hit": "GIS",
+      "innovation_cues": "",
+      "innovation_basis": "Digital payment channel: biometric/GIS-verified payouts via financial service provider cut fraud and error",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A2-E1",
+      "approach_id": "P174546-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U62",
+      "para_no": null,
+      "sentence_position": 506,
+      "char_start": 86316,
+      "char_end": 86603,
+      "sentence": "This will also support access to a training program being developed in conjunction with the European Space Agency on using earth observation satellites for transboundary pest monitoring, what governments need to know, what services are available, and how best to access this information.",
+      "practice": "Earth observation satellite training for transboundary pest monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "Digital core: earth observation satellite data | Not routine: satellite pest monitoring training | Adoption: 'will also support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ESA earth observation satellites | Innovative: satellite pest monitoring training | Category: remote sensing",
+      "keywords_hit": "early warning;early warning system;earth observation",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: satellite earth observation for pest surveillance - cue: 'earth observation'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A2-E2",
+      "approach_id": "P174546-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U124",
+      "para_no": null,
+      "sentence_position": 1056,
+      "char_start": 168102,
+      "char_end": 168227,
+      "sentence": "Where possible, the project will make use of technology, like drones, to surveil for locusts even where staff cannot venture.",
+      "practice": "drone surveillance for locust detection in insecure areas",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "Digital core: drone locust surveillance | Not routine: replaces inaccessible ground scouting | Adoption: 'will make use of'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: drones surveil locusts where staff cannot go | Innovative: aerial scouting replaces ground teams | Category: remote sensing tech",
+      "keywords_hit": "conflict;drone;venture",
+      "innovation_cues": "",
+      "innovation_basis": "New service: aerial locust surveillance replacing ground scouting - cue: 'make use of technology'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E1",
+      "approach_id": "P174546-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U157",
+      "para_no": null,
+      "sentence_position": 1271,
+      "char_start": 215455,
+      "char_end": 215659,
+      "sentence": "The ELRP will utilize the established and well-functioning SSSNP MIS and biometric system to generate payroll, verify payments, and conduct payment reconciliation to minimize error, fraud, and corruption.",
+      "practice": "SSSNP MIS and biometric payroll generation and verification",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: SSSNP MIS and biometrics | Not routine: biometric payroll reconciliation | Adoption: 'will utilize'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SSSNP MIS/biometrics | Innovative: payroll generated and reconciled against enrolled database | Category: digital registry",
+      "keywords_hit": "MIS;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: biometric payroll verification against enrolled database - cue: 'MIS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E2",
+      "approach_id": "P174546-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U157",
+      "para_no": null,
+      "sentence_position": 1273,
+      "char_start": 215806,
+      "char_end": 215946,
+      "sentence": "Following, a payroll will be generated through the MIS of all the enrolled beneficiaries at a given project location for the payment period.",
+      "practice": "SSSNP MIS and biometric payroll generation and verification",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: SSSNP MIS and biometrics | Not routine: biometric payroll reconciliation | Adoption: 'will utilize'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SSSNP MIS/biometrics | Innovative: payroll generated and reconciled against enrolled database | Category: digital registry",
+      "keywords_hit": "MIS;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: biometric payroll verification against enrolled database - cue: 'MIS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E3",
+      "approach_id": "P174546-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U158",
+      "para_no": null,
+      "sentence_position": 1276,
+      "char_start": 216521,
+      "char_end": 216724,
+      "sentence": "Cash will only be provided to the beneficiary households based on biometric authentication against the enrolled beneficiary database in the MIS to ensure that the intended beneficiaries receive the cash.",
+      "practice": "Biometric authentication against MIS database for cash transfers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric MIS database | Not routine: biometric proof of payment | Adoption: 'Cash will only be provided'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: biometric MIS authentication | Innovative: payout gated on biometric match | Category: digital identity",
+      "keywords_hit": "MIS;privacy",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New process: biometric identity verification at payout - cue: 'biometric authentication'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E4",
+      "approach_id": "P174546-A3",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U158",
+      "para_no": null,
+      "sentence_position": 1277,
+      "char_start": 216725,
+      "char_end": 216931,
+      "sentence": "Following the transfers, the financial service provider will share with UNOPS the list of paid beneficiaries, accompanied by biometric evidence of payment, which will then be reconciled against the payroll.",
+      "practice": "Biometric authentication against MIS database for cash transfers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric MIS database | Not routine: biometric proof of payment | Adoption: 'Cash will only be provided'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: biometric MIS authentication | Innovative: payout gated on biometric match | Category: digital identity",
+      "keywords_hit": "MIS;privacy",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New process: biometric identity verification at payout - cue: 'biometric authentication'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E5",
+      "approach_id": "P174546-A3",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U159",
+      "para_no": null,
+      "sentence_position": 1284,
+      "char_start": 217949,
+      "char_end": 218238,
+      "sentence": "Since the natural resource management activities will be implemented using labor intensive public works, MAFS will coordinate with FAO and UNOPS to ensure that beneficiaries are captured in the biometric management system and stored in a single catalogue to avoid duplication or confusion.",
+      "practice": "Single biometric catalogue to avoid beneficiary duplication",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric management system | Not routine: single catalogue prevents duplication | Adoption: 'will coordinate'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: single biometric catalogue | Innovative: cross-agency dedup of beneficiaries | Category: digital registry",
+      "keywords_hit": "host communities",
+      "innovation_cues": "",
+      "innovation_basis": "New process: unified biometric registry across sub-components - cue: 'single catalogue'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    },
+    {
+      "row_id": "P174546-A3-E6",
+      "approach_id": "P174546-A3",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P174546",
+      "doc_id": "275441623463284157",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-18",
+      "file_name": "P174546_PAD_2021-05-18_275441623463284157.txt",
+      "unit_id": "U165",
+      "para_no": null,
+      "sentence_position": 1337,
+      "char_start": 226693,
+      "char_end": 226923,
+      "sentence": "(g) Registration of validated beneficiaries using state-of-the-art biometric technology that captures ‘fingerprints’ and ‘photographs’ of the prospective beneficiaries and their alternates 32 and enrolled into the MIS for payment.",
+      "practice": "biometric fingerprint and photo registration into MIS for payment",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: biometric MIS enrollment | Not routine: biometric dedup for cash payments | Adoption: 'Registration of validated beneficiaries'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: fingerprint/photo enrollment into MIS | Innovative: biometric dedup before payment | Category: digital registry",
+      "keywords_hit": "MIS;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New process: biometric enrollment feeding payment MIS - cue: 'state-of-the-art biometric technology'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "694fad33"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 133,
+      "char_start": 28407,
+      "char_end": 28677,
+      "sentence": "Building on lessons learned from the first two phases of ELRP, this phase will also provide a small grant to the IGAD to improve the flow of information among locust-affected countries to improve the reaction time to DL threats and threat from other transboundary pests.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "IGAD regional information-sharing grant for cross-border locust response",
+      "reason": "reject: Small IGAD grant for information flow; no named digital system or platform",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: regional cross-border pest information platform - cue: 'regional coordination'",
+      "innovation_cues": "learning agenda",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Small IGAD grant for information flow; no named digital system or platform",
+          "reject_code": "not_digital",
+          "context_chars": 2599
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 165,
+      "char_start": 31684,
+      "char_end": 31859,
+      "sentence": "The grant will leverage IGAD’s convening power and its involvement in high-level political dialogue, to create a platform for cross-border information sharing and cooperation.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "IGAD-hosted platform for cross-border locust information sharing",
+      "reason": "reject: IGAD convening-power grant for cross-border cooperation; no named digital system or data platform built",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: IGAD-convened cross-border information platform - cue: 'platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Text says 'platform for information sharing' but no digital system named; unclear if digital",
+          "reject_code": "",
+          "context_chars": 2445
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "IGAD convening-power grant for cross-border cooperation; no named digital system or data platform built",
+          "reject_code": "not_digital",
+          "context_chars": 3958
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 374,
+      "char_start": 62241,
+      "char_end": 62462,
+      "sentence": "A separate capacity building grant to IGAD under component 5 will finance the creation and operation of an information platform in East Africa to help member countries better coordinate action against transboundary pests.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Regional information platform for transboundary pest coordination",
+      "reason": "reject: Regional information platform for pest coordination is standard MDB regional public-goods practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: regional multi-country pest data platform - cue: 'information platform'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Information platform named but no digital mechanism described; unclear what is built",
+          "reject_code": "",
+          "context_chars": 1441
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Regional information platform for pest coordination is standard MDB regional public-goods practice",
+          "reject_code": "not_innovative",
+          "context_chars": 39223
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 522,
+      "char_start": 89559,
+      "char_end": 89745,
+      "sentence": "(e) The project will use the Geo-Enabled Monitoring System (GEMS) supported by the World Bank to gather data using open source software that will feed into the overall monitoring system.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geo-Enabled Monitoring System for project data collection",
+      "reason": "reject: GEMS is standard World Bank M&E tool, routine monitoring",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: open-source geospatial monitoring platform - cue: 'Geo-Enabled'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS is standard World Bank M&E tool, routine monitoring",
+          "reject_code": "not_innovative",
+          "context_chars": 1364
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 519,
+      "char_start": 89006,
+      "char_end": 89199,
+      "sentence": "For sub-component 2.1, the biometric system and MIS established and enhanced under the SSSNP will be used to manage beneficiary households and monitor the delivery of the direct income support.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Biometric MIS for beneficiary management and payment monitoring",
+      "reason": "reject: Reuse of existing SSSNP biometric MIS for monitoring; routine M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: biometric MIS managing beneficiaries and payments - cue: 'biometric system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Reuse of existing SSSNP biometric MIS for monitoring; routine M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1364
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 535,
+      "char_start": 91999,
+      "char_end": 92195,
+      "sentence": "The project, therefore, will support IGAD, headquartered in Djibouti, in its multi-donor effort to establish a Regional Platform for the Management of Desert Locusts and other Transboundary Pests.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "IGAD regional platform for transboundary pest management",
+      "reason": "reject: Permanent IGAD coordination unit with ministerial governance replicates existing regional structures; routine institutional set-up",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New organizational practice: permanent regional pest coordination platform - cue: 'early warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Regional platform described as organizational structure; unclear if digital system is built",
+          "reject_code": "",
+          "context_chars": 1444
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Permanent IGAD coordination unit with ministerial governance replicates existing regional structures; routine institutional set-up",
+          "reject_code": "not_innovative",
+          "context_chars": 93100
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 540,
+      "char_start": 92795,
+      "char_end": 92989,
+      "sentence": "This component would finance the establishment of the Transboundary Pest Response Coordination Unit (TPRCU), expected to be housed either within the IGAD Secretariat or IGAD specialized centers.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Transboundary Pest Response Coordination Unit information exchange",
+      "reason": "reject: Coordination unit and information exchange; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: regional pest coordination unit - cue: 'information exchange'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Coordination unit and information exchange; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1347
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 663,
+      "char_start": 113009,
+      "char_end": 113226,
+      "sentence": "For the emergency direct income support, the existing SSSNP MIS will be used, whereby necessary beneficiary and project activity information will be shared with FAO for wider information dissemination, as appropriate.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SSSNP MIS for emergency income support beneficiary data",
+      "reason": "reject: Reuse of existing SSSNP MIS for data sharing; routine M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: reusing safety-net MIS for locust response - cue: 'existing SSSNP MIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Reuse of existing SSSNP MIS for data sharing; routine M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1347
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 666,
+      "char_start": 113586,
+      "char_end": 113814,
+      "sentence": "Page 31 The World Bank Emergency Locust Response Project (P174546) (e) The project will use the GEMS system supported by the World Bank to gather data using open source software that will feed into the overall monitoring system.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GEMS open-source data system feeding project monitoring",
+      "reason": "reject: GEMS is standard World Bank M&E tool, routine monitoring",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: open-source data platform for M&E - cue: 'GEMS system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS is standard World Bank M&E tool, routine monitoring",
+          "reject_code": "not_innovative",
+          "context_chars": 1347
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 1203,
+      "char_start": 203373,
+      "char_end": 203425,
+      "sentence": "These tools include: (a) an MIS and biometric tools;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "MIS with biometric tools for beneficiary management",
+      "reason": "reject: Sentence lists MIS and biometric tools without stating what they do or that they are new",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: biometric MIS for safety-net delivery - cue: 'MIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Sentence lists MIS and biometric tools without stating what they do or that they are new",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1316
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 1690,
+      "char_start": 282027,
+      "char_end": 282241,
+      "sentence": "The project will maintain a Procurement Management Information System as part of the project monitoring system that will regularly collect data from the field using geo-enabled digital technology whenever possible.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geo-enabled procurement management information system for field data",
+      "reason": "reject: Procurement MIS with geo-tagged field data is standard monitoring, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geo-enabled field data in procurement MIS - cue: 'geo-enabled digital technology'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Procurement MIS with geo-tagged field data is standard monitoring, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1367
+        }
+      ]
+    },
+    {
+      "guid": "275441623463284157",
+      "doc_type": "PAD",
+      "position": 1372,
+      "char_start": 233341,
+      "char_end": 233494,
+      "sentence": "To that end, the government and UNOPS have signed legal agreements on the terms for the handover of the MIS and biometric system at the end of the SSSNP.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "handover of MIS and biometric system to government",
+      "reason": "reject: final check round 1: digital: incidental - Digital: MIS/biometric handover is operational arrangement, not new tech | Before 2019: government handover of WBG-funded MIS standard practice",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: legal agreements transfer safety-net MIS/biometric system to government for follow-on delivery",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: MIS/biometric system handover | Innovative: institutional transfer of delivery tools | Category: delivery arrangement",
+          "reject_code": "",
+          "context_chars": 2233
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: MIS/biometric handover is operational arrangement, not new tech | Before 2019: government handover of WBG-funded MIS standard practice",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 18,
+    "input_tokens": 41380,
+    "cached_tokens": 82304,
+    "cache_write_tokens": 0,
+    "output_tokens": 7048,
+    "seconds": 54.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0214
+  }
+}

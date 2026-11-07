@@ -1,0 +1,1287 @@
+﻿          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 02-Nov-2018 | Report No: PIDISDSA22263
+
+
+
+
+Jun 28, 2018                                                                                          Page 1 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name             Parent Project ID (if any)
+   Turkey                                        P158418                    Turkey Irrigation
+                                                                            Modernization
+   Region                                        Estimated Appraisal Date   Estimated Board Date     Practice Area (Lead)
+   EUROPE AND CENTRAL ASIA                       19-Nov-2018                26-Feb-2019              Water
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministry of Treasury and   Devlet Su İşleri (DSI)
+                                                 Finance
+
+   Proposed Development Objective(s)
+
+   The objective of the project is to improve irrigation delivery, through rehabilitation and modernization of distribution
+   infrastructure in selected schemes, and through strengthening of capacity of WUAs.
+
+   Components
+   Component 1. Irrigation System Modernization
+   Component 2. Innovation and Institutional Support
+   Component 3. Project Management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                    237.00
+   Total Financing                                                                                                      237.00
+                             of which IBRD/IDA                                                                          235.00
+   Financing Gap                                                                                                            0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                       235.00
+
+   Non-World Bank Group Financing
+
+
+
+Jun 28, 2018                                                                                                           Page 2 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+      Trust Funds                                                                                                         2.00
+         Global Environment Facility (GEF)                                                                                2.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+
+ Turkey achieved commendable economic and social development results starting in the early 2000s, raising it to
+ the world’s 17th largest economy and establishing it as a global presence. Macroeconomic stability, broad social
+ and economic reforms, and a transformation of a significant part of the economy away from agriculture into
+ manufacturing and services were core contributors to Turkey’s growth. Turkey also weathered the global
+ economic crisis of 2008/09 well: real GDP growth averaged 7.3 percent per year between 2010 and 2015 driven
+ by favorable external financial conditions and strong domestic demand. However, Turkey’s development
+ achievements have been challenged in recent years by a series of domestic and external shocks. Since 2015,
+ Turkey has experienced increased political volatility, including several election cycles, a failed coup attempt (July
+ 2016), a referendum on major Constitutional changes (April 2017), and a transition to a Presidential system (June
+ 2018). The continued difficult geopolitical environment in the region, stemming from the Syrian crisis amongst
+ other issues, also had a negative impact. While the economy remained resilient in 2015-2017, persistent
+ imbalances driven by dependence on energy imports and insufficient domestic savings contributed to increased
+ economic stress and uncertainty. The Government’s efforts to stimulate the economy in this period culminated
+ in 2018 with very high inflation, a large current account deficit, intense exchange rate volatility and sharp currency
+ depreciation. In the near-term, the economy is projected to significantly slow down, whilst inflation is projected
+ to remain high.
+
+ Turkey’s current Government was formed in July 2018, following national elections held in June 2018. In
+ September 2018, the Government launched the National Economic Program (NEP) which sets out Turkey’s macro -
+ fiscal and structural reform strategy and is a comprehensive statement of the Government’s policy intent for the
+ near-term. The NEP is being implemented while the Government prepares Turkey’s 11th Development Plan (for
+ the 2019-2023 period) which will set out the longer term structural reforms to be pursued in order to address
+ Turkey’s development challenges such as improving productivity, tackling a low female labor force participation
+
+
+
+Jun 28, 2018                                                                                                         Page 3 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+ rate that hampers sustained growth, and building the skills of its population to reap the benefits of greater global
+ integration.
+
+   Sectoral and Institutional Context
+
+ Irrigation Development: Turkey has 28 million hectares of arable land, and while the agricultural sector accounts
+ for about two-thirds of the country’s water use, its overall contribution to GDP has steadily declined from 18
+ percent in 1990 to 8 percent in 2014. However, agriculture still employs 21 percent of the population, and
+ accounts for 60 percent of the rural workforce. Poverty is higher in rural areas, affecting one third of the rural
+ population, in contrast with the poverty incidence of 11 percent in urban areas. The relatively high rural
+ population (approx. 27 percent) and its primary dependence on agriculture point to low levels of productivity,
+ stemming mainly from fragmented land, arid and semi-arid agro-climatic conditions, and sub-optimal irrigation
+ and agricultural practices. Agriculture in Turkey is heavily dependent on irrigation, which triples productivity
+ compared with rain-fed agriculture. Over the past 40 years, successive Governments have tried to mitigate the
+ uneven distribution of water resources and rainfall by increasing access to irrigation, as a result of which the gross
+ irrigated area has grown from 2.3 million hectares in the 1970s to 6.2 million hectares today. Expansion and
+ modernization of irrigation, along with other investments for increasing agricultural productivity, remain a priority
+ agenda for Turkey.
+
+
+ Irrigation Performance: Despite large investments in irrigation expansion, Turkey has yet to reach its full efficiency
+ and agricultural productivity potential. Most schemes are based on open channels, where water losses from
+ leakage and evaporation are high compared to closed systems, especially if the channels are not well-maintained.
+ However, the largest fraction of water losses occurs at the field-level, since almost 90 percent of the irrigation
+ area in Turkey has widespread use of inefficient surface irrigation methods (such as flooding, furrow, and border
+ irrigation). The majority of Turkish farming enterprises are still small holdings or family farms (almost two-thirds
+ are smaller than five hectares), and there is a high degree of fragmentation. Poor on-farm water management
+ practices, land fragmentation, and inefficient crop patterns (often supported by subsidy mechanisms) are some
+ of the constraints in translating irrigation provision into higher agricultural productivity and farmer incomes.
+
+
+ Water Resources and Climate Change: Turkey’s rapid growth of the last two decades has caused its environmental
+ footprint to increase rapidly. The total GHG emissions rose from 208 MtCO2e (in 1990) to 496 MtCO2e in 2016,
+ with agriculture sector accounting for 11 percent of the total emissions in 2013. Water is amongst the key
+ resources that could become a binding constraint on growth. Due to its large population and already high levels
+ of water resource use, Turkey faces a significant water security threat from climate change, which will manifest
+ through potential drying associated with the rising temperatures, changes in precipitation patterns, and reduced
+ seasonal snow storage. In general, shifting precipitation patterns from snowfall to rainfall and faster melting snow
+ covers are expected to lead to water shortages in elevated areas where the snow storage plays a crucial role in
+ regulating water supply throughout the year. According to a 2016 Climate Change assessment (Ministry of
+ Forestry and Water Affairs, 2016), exploitable water resources would decrease from the estimated 1121 billion m3
+ to about 86 billion m3 by the 2050s, in the optimistic scenario. However, in a worst-case scenario, water demand
+ may exceed Turkey’s exploitable water level as early as the 2030s. Irrigated agriculture, which consumes 73
+
+           1  This is Turkey’s official estimate (From DSI: http://en.dsi.gov.tr/land-water-resources). While it is different from the
+           FAO/AQUASTAT estimate of 213 BCM (http://www.fao.org/nr/water/aquastat/countries_regions/TUR/), this is the number used
+           in Turkey’s international communications, as well as by the international development agencies including the World Bank.
+
+Jun 28, 2018                                                                                                                       Page 4 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+ percent of the country’s overall exploitable water, would be the hardest hit, which would in turn affect the
+ country’s economy. Since Turkey’s concrete steps to encourage performance improvements in water supply and
+ wastewater reuse would only offset demand by 1-2 billion m3, a significant effort is needed to increase irrigation
+ efficiency and agriculture productivity.
+
+
+ Land degradation: Almost 59 percent of the agriculture land in Turkey is affected by different intensities of
+ degradation, primarily linked to the challenges of poor water management and topography. The major causes of
+ degradation of agricultural lands include unsuitable agriculture practices and inappropriate irrigation, leading to
+ erosion, salinization, and desertification. In order to combat land degradation, Turkey has adopted voluntary
+ targets for Land Degradation Neutrality (LDN), under the UN Convention for Combating Desertification (UNCCD).
+ These targets include increasing the area under modernized and efficient irrigation systems. Improving irrigation
+ in farmlands will, in addition to generating economic benefits, reduce desertification risk and improve water
+ availability for other uses. Furthermore, long-term studies in Turkey have shown that irrigated farmlands produce
+ and store a higher amount of organic matter compared to rain-fed farmlands, thus generating an important
+ climate change mitigation benefit.
+
+ Institutional arrangements: Irrigation systems have been well developed in Turkey, by Devlet Su İşleri (DSI), which
+ is the state agency responsible for water resources planning, development, and management, including most of
+ the irrigation schemes in the country. Since 1993, the Government has significantly accelerated the program for
+ transferring the operation and maintenance (O&M) of irrigation systems to local irrigation institutions, which in
+ most cases are Water User Associations (WUAs). Currently, the WUAs manage irrigation O&M in 89 percent of
+ the total irrigated land in Turkey. While DSI was affiliated with the previous Ministry of Forestry and Water Affairs
+ (MoFWA) and charged with the provision of common irrigation network, the previous Ministry of Food,
+ Agriculture, and Livestock (MoFAL) was traditionally responsible for (i) land consolidation; (ii) supporting farmers
+ in adoption of efficient on-farm systems; and (iii) providing agricultural extension and marketing services. As a
+ part of the significant restructuring in June 2018 that reduced the number of ministries from 25 to 16, MoFWA
+ and MoFAL have been merged into a single Ministry of Agriculture and Forestry (MoAF). These changes did not
+ have any impact on the internal organization of DSI, including the regional and local structures, and it remains a
+ state agency as before, but now affiliated with the newly integrated MoAF.
+
+
+ Irrigation Modernization: DSI started irrigation modernization in 2008, thereby focusing on converting the water
+ delivery networks to pressurized, closed-channel (pipe-based) systems, instead of rehabilitating the traditional,
+ open-channel systems. This approach reduces water losses in conveyance and allows the use of high-efficiency
+ on-farm irrigation systems such as drip and sprinklers. Irrigation modernization is being implemented on a
+ demand-based model. To date, WUAs’ interest in irrigation modernization has been quite high, and 185
+ applications for modernization have been received since 2008. However, a number of WUAs suffer from low
+ technical, managerial and financial capacity, leading to a vicious cycle whereby inadequate performance of the
+ irrigation infrastructure and on-farm systems leads to low incomes, thereby constraining the farmers’ ability to
+ make productive investments.
+
+
+ Irrigation in Turkey’s National Transformation Program: Improving irrigation provision and performance is a
+ priority area for the Government of Turkey, and its 10th Development Plan includes a “Transformational Program�?
+ (2014-2018) for improving the efficiency of water use in agriculture. The targets of this program include: increasing
+ the net irrigation area under operation by almost 30 percent, from 2.91 m ha to 3.75 m ha; raising irrigation
+
+Jun 28, 2018                                                                                                        Page 5 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+ efficiency from 42 to 50 percent; expanding the use of water saving modern irrigation systems by 10 percent per
+ year; and decreasing the use of groundwater by 5 percent during the plan period. The transition to closed irrigation
+ systems will be accelerated, to cover at least 25 percent of the irrigated lands under modern water-saving
+ irrigation systems. The Action Plan prepared by the Ministry of Forestry and Water Affairs (MoFWA) for improving
+ water use in agriculture identifies the following priorities: (i) Renewal of old canals and networks and replacement
+ by closed systems; (ii) Expansion of water-efficient closed systems and modern irrigation methods in the existing
+ and new irrigation projects; (iii) Increasing R&D studies and adoption of new technologies; and (iv) Acceleration
+ of land consolidation in irrigation areas and increasing network efficiency. The Plan also includes significant
+ investments and corresponding targets for land consolidation and promotion of good agricultural practices2. It is
+ expected that these thrust areas would be maintained in the 11th Development Plan, which is currently under
+ preparation.
+
+ Based on a request from the Government of Turkey, the World Bank aims to support the irrigation modernization
+ agenda under the 10th and the 11th Development Plans. The project will focus on the irrigation schemes which
+ are more than 30 years old, and which have suffered from decades of inadequate O&M funding and an
+ accumulation of deferred maintenance works. Under-utilization and deterioration of networks have reduced the
+ quantity and quality of irrigation delivery, and as a result, these schemes have experienced significant drops in
+ effective irrigated area (within the commands) as well as productivity, thus causing a reversion from high-yielding
+ and stable irrigated agriculture to low-yielding and risky rain-fed agriculture. Therefore, the project investments
+ will benefit these rural communities by promoting agriculture-related income and economic growth.
+ Furthermore, a key element of these irrigation schemes is that they already have a fixed water allocation
+ dedicated for irrigation in the storage of the associated dam/reservoir, which is currently unused or partially used;
+ therefore, the modernization investments will allow productive use of this water allocation, without adversely
+ affecting the basin/sub-basin level water balance.
+
+
+   C. Proposed Development Objective(s)
+
+
+  Development Objective(s) (From PAD)
+
+  The objective of the project is to improve irrigation service delivery, through rehabilitation and modernization of
+  distribution infrastructure in selected schemes, and through strengthening of capacity of WUAs.
+
+   Key Results
+
+   The key results (PDO-level indicators) are presented below:
+       (a) Area provided with new/improved irrigation or drainage services (corporate indicator, hectares)
+       (b) WUAs regularly reporting on water use data (number)
+       (c) Water users provided with improved irrigation service (number, gender-specific3)
+       (d) Increase in irrigation efficiency (Percentage points)
+
+
+
+
+           2   A Progress Report on the achievement of the 10th plan targets is expected to be released soon.
+           3   Women are mostly working in agriculture as unpaid family workers, and very few are farmers/land owners or WUA members.
+
+Jun 28, 2018                                                                                                                       Page 6 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+   D. Project Description
+
+ The project will comprise the following components:
+
+  Component 1. Irrigation Systems Modernization (IBRD, US$232 million): This component will finance investments to
+  modernize DSI’s irrigation systems in selected schemes. The currently selected set of schemes include Atabey, Ereğli-İvriz,
+  Alasehir, and Uzunlu, with combined area of 50,764 hectares, and estimated cost of approximately US$232 million. These
+  schemes have been selected from a long list of 37 irrigation schemes being considered for modernization by DSI, and
+  priority in selection was accorded to the schemes that have a high demand for irrigation and a high rate of return on
+  investments, and for which the design studies are completed or near completion. This component will be implemented
+  by DSI, and in addition to irrigation infrastructure modernization (converting from open-channel to pressurized systems),
+  it will include: (i) upstream consultations with WUAs, and incorporation of their feedback in the final design of schemes,
+  and (ii) better coordination with MoAF’s relevant departments of agriculture and on-farm services, for implementation
+  of field-level activities. By increasing the efficiency of water use and reducing the total water consumption in the selected
+  areas, these investments will directly address the risks associated with increasing water demand and reduced water
+  availability projected due to climate change.
+
+  Component 2: Innovation and Institutional Support (GEF, US$2 million): This component will provide direct design and
+  implementation support to DSI in the following areas:
+
+               (i) Subcomponent 2 (A) - Designing and Piloting a National Program for WUA Capacity-Building
+                   (US$1.29 million): This will include a GEF grant to provide design and implementation support to
+                   DSI for developing a national program for WUA’s capacity-building for water management. The
+                   program would build upon DSI’s ongoing efforts to develop a web-based, participatory water use
+                   monitoring platform for WUAs, and will include: (i) support for roll-out and implementation of the
+                   participatory water use monitoring; (ii) upgradation of national WUA’s database, to allow
+                   performance monitoring on various dimensions (O&M, water conservation, financial management,
+                   governance, M&E, and communications); and (iii) WUA trainings for improving technical and
+                   financial management capacity. Based on a successful roll-out, this program may be expanded to
+                   include incentive-based elements for improving WUA performance. A successful implementation of
+                   this sub-component would establish a systematic and incentive-based approach for improving the
+                   capacity and water management of WUAs (and, possibly, other types of IAs) throughout the
+                   country. Furthermore, the activities under this sub-component would directly enhance the climate
+                   change resilience of irrigation systems throughout the country, and also raise awareness on the
+                   climate change mitigation co-benefits from improved efficiency of the irrigation service delivery.
+                   The incrementality of GEF support is critical for this initiative, because under the current laws public
+                   funds cannot be used to provide WUAs with the hardware needed for the participatory water use
+                   monitoring system.
+
+               (ii) Subcomponent 2 (B) – Groundwater Stewardship Pilot (US$0.71 million): This will include a GEF
+                    grant to support the implementation of a sustainable energy and groundwater management pilot
+                    in Bolvadin, Afyon. The objective is to design and implement a sustainable irrigation system that: (i)
+                    provides low-cost solar energy-based alternative to the current fossil fuel-based pumping used by
+                    the farmers; (ii) incorporates measures to increase irrigation efficiency, and reduce groundwater
+                    pumping in over-exploited aquifers; and (iii) improves reliability of irrigation in order to enable
+                    switching to high-value crops. Accordingly, this proposed irrigation system will include use of
+
+Jun 28, 2018                                                                                                             Page 7 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                hardwired abstraction controls to limit the total amount of pumping, installation of efficient
+                irrigation systems, and introduction of volumetric metering to encourage water conservation, thus
+                enhancing the long-term sustainability of groundwater resources. Again, the incrementality of GEF
+                support makes this pilot possible because this model has not been tried in irrigation before, and the
+                current regulations prohibit the use of public funds to finance WUA assets. It is expected that a
+                successful implementation would demonstrate the manifold benefits of this model, and encourage
+                private and possibly public financing for similar investments in the future. The water and energy
+                savings from this sub-component will reduce the GHG emissions in Bolvadin, and its potential
+                country-wide scale-up could contribute significantly to Turkey’s climate change mitigation efforts.
+
+ While the above two activities have significant potential benefits, the closing of the current GEF funding cycle
+ (GEF-6) in 2018 resulted in limited available funding for these pilots. It is intended to scale up these activities in
+ the future based on the results of these pilots.
+
+
+  Component 3: Project Management (IBRD, US$3 million): This component will finance the multiple activities required
+  for coordination and management of the project; and will include, inter alia, measures for enhancing dam safety in the
+  project schemes, community consultations and partnership program, communications, grievance redress mechanisms,
+  monitoring and evaluation, and environmental and social management.
+
+  While the selection of the irrigation schemes for Component 1 is confirmed, the project nevertheless needs to retain
+  some flexibility in the future for substituting a selected scheme with another, if needed due to unforeseen circumstances.
+  If substitution is warranted, the selection of the substitute scheme/s will be guided by the same criteria as the ones used
+  for the current schemes, i.e., the scheme/s should: (i) have high demand for irrigation and high return on investments;
+  (ii) involve rehabilitation/modernization, but not development of new irrigation areas; (iii) have design studies complete
+  or near completion; and (iv) be located in the “Positive list of hydrological basins�? ( basins which are not shared
+  internationally, and to which the World Bank OP 7.50 “Projects on International Waterways�? does not apply). These
+  criteria are also indicated in the Operations Manual.
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+ The project will be implemented by DSI, which is Turkey’s national agency responsible for water resources
+ planning, operations and management. In addition to construction and operation of the large hydraulic
+ infrastructure across Turkey, DSI also manages almost all irrigation schemes, and is involved in the construction
+ and management of water supply and wastewater treatment infrastructure in many urban areas. DSI’s Deputy
+ Head of the Department of Design and Construction will serve as Project Director, and will lead a Project
+ Management Team (PMT) comprising of professional staff (from the Design and Construction Department as well
+ as other relevant departments of DSI) and consultants. The PMT will be responsible for all day-to-day management
+ and coordination needs of the project, including fiduciary, safeguards, and monitoring and evaluation (M&E). The
+ implementation of project will be aligned with the regular administration procedures of DSI, and it was agreed
+ that establishment of a project-specific Implementation Unit is not needed.
+
+
+
+
+Jun 28, 2018                                                                                                         Page 8 of 25
+            The World Bank
+            Turkey Irrigation Modernization Project (P158418)
+
+
+ Although DSI worked extensively with the World Bank in the past, the last lending operations were completed in
+ the 1990s. Therefore, familiarity with the World Bank systems and procedures is not assumed, and this gap is
+ being addressed through trainings during the project preparation and implementation period. On the other hand,
+ preliminary technical, fiduciary and safeguard assessments indicate a high level of systems capacity in DSI, which
+ is also corroborated by DSI’s national and international reputation. Therefore, DSI’s implementation capacity is
+ not expected to be a concern for this project.
+
+ Given the importance of close coordination with the agriculture and on-farm activities, a Project Working Group
+ has been established comprising representatives of all relevant departments of DSI and MoAF, along with the
+ representatives of the Ministry of Treasury and Finance (MoTF) and the Committee for Budget and Strategy. The
+ Working Group meets regularly, and it has worked successfully so far in reaching agreements on investment
+ selection and on deciding the relevant annual programs between the two ministries. The inter-ministerial Steering
+ Committee of the Government of Turkey which has as its members the senior leadership of the implementing
+ agencies as well as the representatives of MoTF and the Committee for Budget and Strategy, meets periodically
+ to review the progress of the World Bank portfolio, and serves as the platform for providing policy guidance. These
+ arrangements have worked satisfactorily in the preparation stage of the project, and will be maintained during
+ the implementation period in line with the recent reorganization of the related ministries.
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will finance investments for modernizing DSI’s irrigation systems in the selected schemes. DSI
+      has proposed a long list of 37 irrigation modernization schemes, and 5 schemes (within Isparta, Yozgat,
+      Manisa, and Konya provinces) among this list was selected for the project. The draft feasibility reports of
+      these selected schemes were reviewed during the appraisal phase. While the first set of schemes to be
+      financed under the project will be finalized by the end of appraisal, the selection of subsequent schemes will
+      be completed during the early part of the project implementation period.
+
+
+
+      G. Environmental and Social Safeguards Specialists on the Team
+
+      Sanjay Agarwal, Social Specialist
+      Arzu Uraz Yavas, Social Specialist
+      Esra Arikan, Environmental Specialist
+
+
+
+
+Jun 28, 2018                                                                                                      Page 9 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+  Safeguard Policies                            Triggered?    Explanation (Optional)
+                                                              The project will include infrastructure investments
+                                                              for modernization of irrigation schemes. The primary
+                                                              infrastructure works will involve replacement of
+                                                              existing open channels (earthen/concrete) with
+                                                              pressurized closed channels (pipes) for irrigation.
+                                                              Due to temporary and limited impacts, the project is
+                                                              categorized as Category B according to OP 4.01.
+
+                                                              The currently selected set of schemes (Atabey,
+                                                              Eregli-İvriz, Alasehir, and Uzunlu) have been selected
+                                                              from a long list of 37 irrigation schemes being
+                                                              considered for modernization by DSI, and priority in
+                                                              selection was accorded to the schemes that have a
+                                                              high demand for irrigation and a high rate of return
+                                                              on investments, and for which the design studies are
+                                                              completed or near completion. The selection is
+                                                              provisional since some of the selected schemes may
+                                                              be replaced by others depending upon the timeline
+                                                              of final design and payment of advance
+                                                              contributions by the WUA. Therefore, the exact
+                                                              footprint of the projects as well as the
+  Environmental Assessment OP/BP 4.01           Yes
+                                                              environmental and social site characteristics may
+                                                              vary at the final design stage. Since the final designs
+                                                              of the selected irrigation modernization sub-projects
+                                                              were not completed, an Environmental and Social
+                                                              Management Framework (ESMF) (for Category B
+                                                              projects) was prepared. The ESMF and ESMPs
+                                                              discuss the broader impacts of the transformation of
+                                                              the open-channel irrigation systems to “closed�?
+                                                              water systems, and include consultations and
+                                                              mitigation measures to address any negative
+                                                              impacts. Moreover, the ESMF and site specific
+                                                              ESMPs address water utilization and potential
+                                                              impacts on resource sustainability, communities and
+                                                              other water users. The ESMF also describes the
+                                                              institutional arrangements for mitigation,
+                                                              monitoring, and reporting for successful
+                                                              implementation of the ESMF (and scheme-specific
+                                                              ESMPs). The ESMF along with the draft ESMPs of the
+                                                              first two irrigation schemes have been finalized and
+                                                              publicly disclosed. Remaining 2 ESMPs will be
+                                                              prepared by DSI during project implementation and
+
+Feb 01, 2018                                                                                               Page 10 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              will be made available before the start of the
+                                                              tendering process for each scheme.
+
+                                                              The ESMF addresses the main environmental
+                                                              impacts as limited to basic construction work
+                                                              impacts which are temporary and reversible. Issues
+                                                              related to excavation, hazardous and solid waste
+                                                              management and disposal, disposal of demolished
+                                                              material, loss of top soil and vegetation, dust
+                                                              formation, air quality, and noise impacts on the
+                                                              close-by sensitive receptors, occupational and
+                                                              community health and safety are anticipated to be
+                                                              major impacts. During groundworks and
+                                                              construction activities, dust emissions and noise will
+                                                              be generated due to stripping of topsoil and other
+                                                              excavation activities. Similarly, the movement of
+                                                              vehicles will result in exhaust emissions and noise.
+                                                              The water requirement will be mostly for domestic
+                                                              demands of workers on campsites and on site
+                                                              workers. Due to domestic uses, wastewater will be
+                                                              generated. Water may also be necessary in case
+                                                              concrete works are implemented on site. Water will
+                                                              also be required for cleaning of solar panels during
+                                                              operation of solar power plant. If chemicals will be
+                                                              used during panel cleaning, wastewater from this
+                                                              activity should be collected separately, and disposed
+                                                              in compliance with local regulations and Bank
+                                                              requirements. The construction activities may pose
+                                                              risk to workers’ health and safety if necessary
+                                                              precautions are not taken. In principle, fuel filling
+                                                              and vehicle maintenance activities will not be
+                                                              implemented on site. However, if it is not possible to
+                                                              avoid such activities on site, the hazardous materials
+                                                              will need to be managed against risks of chemical
+                                                              spills. The demolished materials will be removed
+                                                              from site, stored and disposed in accordance with
+                                                              the relevant regulation. The topsoil and excavation
+                                                              materials will be stored to be used for reclamation
+                                                              after the construction works are completed. The
+                                                              excessive material will be disposed in line with the
+                                                              local regulatory requirements. Solid and hazardous
+                                                              wastes will be collected separately and disposed as
+                                                              required by national law and Bank requirements.
+                                                              There are no anticipated adverse impacts related to
+                                                              natural habitats in the scope of the project. The only
+                                                              exception is Atabey project in which there will be
+
+Feb 01, 2018                                                                                              Page 11 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              interference with Eğirdir Lake – a nationally
+                                                              protected area as the water supply. However, since
+                                                              the project will result in reduction in the water draw
+                                                              from the lake, the impacts of the project on this
+                                                              protected area is expected to be positive. Similar to
+                                                              some of the anticipated environmental impacts, the
+                                                              adverse social impacts anticipated are listed as
+                                                              nuisance from dust, noise, community health and
+                                                              safety during construction and temporary
+                                                              interruption of water supply. Since the project
+                                                              involves rehabilitation of the existing irrigation
+                                                              systems, the land acquisition impact is expected to
+                                                              be low compared to greenfield projects. No physical
+                                                              displacement is anticipated for the project. In
+                                                              Bolvadin, the 0.5 MW solar power plant facility
+                                                              foreseen for the project will be installed on an area
+                                                              of smaller than 10.000 m2 which is under the
+                                                              ownership of Bolvadin WUA and thus will not
+                                                              require additional land to be acquired. According to
+                                                              the local regulations, the facility should be installed
+                                                              on “Marginal Agricultural Land�?. Three of the
+                                                              selected schemes are currently under the national
+                                                              land consolidation (LC) program operated by former
+                                                              Ministry of Food Agriculture and Livestock (MoFAL),
+                                                              now organized as Ministry of Agriculture and
+                                                              Forestry (MoAF). DSI, in coordination with MoAF,
+                                                              will commence its modernization works and benefit
+                                                              from LC through avoiding additional expropriation.
+                                                              Although some of the schemes may require
+                                                              expropriation, DSI has prepared a LAPF which
+                                                              addresses land take induced impacts and their
+                                                              mitigation measures for project affected people
+                                                              (PAP) including vulnerable groups.
+
+                                                              Due to the nature of the project increasing the
+                                                              efficiency of the irrigation, the impacts on
+                                                              community are expected to be positive in general.
+                                                              The project is expected to have a positive impact on
+                                                              water source in terms of low water requirement due
+                                                              to increased irrigation network efficiency and the
+                                                              use of water efficient watering systems.
+                                                              Furthermore, decrease in water requirement, will
+                                                              also help to decrease the stress caused by climate
+                                                              change on the water source.
+
+
+
+Feb 01, 2018                                                                                               Page 12 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              During project preparation stage the Bank has
+                                                              commissioned a Social Impact and Gender
+                                                              Assessment (SIGA) to - i) identify social impacts of
+                                                              the irrigation modernization activities, ii) conduct a
+                                                              review for the ongoing/completed nationwide land
+                                                              consolidation (LC) practices of ex-MoFAL (now
+                                                              MoAF) and DSI; and iii) investigate if men and
+                                                              women have equal access to WUA scheme
+                                                              resources, benefits and participation in
+                                                              management. Many in-depth interviews and several
+                                                              focus group discussions with WUAs key staff,
+                                                              members, non-members were carried out. Through
+                                                              WUAs, farmers contribute monetarily
+                                                              (approximately 10% of the cost of the irrigation
+                                                              scheme) allowing the Government to prioritize
+                                                              irrigation rehabilitation.
+                                                              The members of the WUAs (e.g. direct land owners,
+                                                              tenants, people inherited the lands etc.) will be
+                                                              directly benefitting from the project. Accordingly, it
+                                                              is anticipated that the modernization of water
+                                                              scheme will alter the availability of water for these
+                                                              community members and thus, their choice of
+                                                              becoming a WUA member may change. Agricultural
+                                                              workers (i.e. seasonal and daily workers, migrant
+                                                              workers etc.) may also temporarily be affected from
+                                                              the project during construction since the project
+                                                              may result in limiting the labor demand for
+                                                              cultivation and harvesting of products. DSI will
+                                                              inform about the construction/modernization work
+                                                              schedules before construction in order for the
+                                                              farmers to make necessary arrangements in
+                                                              employing agricultural workers of all kinds. Thus, this
+                                                              will avoid loss of work opportunities for workers in
+                                                              the region. Among the affected community
+                                                              members in addition to other vulnerable groups,
+                                                              female users of irrigation systems will be consulted
+                                                              separately and taken into consideration during
+                                                              project design and implementation.
+
+                                                              The project is expected not to have any adverse
+                                                              social impacts during operation.
+
+                                                              The draft ESMF was shared with stakeholders via 2
+                                                              consultation meetings (first one on October 12, 2017
+                                                              in Senirkent, Isparta and second one on June 20,
+                                                              2018 in Atabey). The ESMF was finalized with the
+
+Feb 01, 2018                                                                                               Page 13 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              inputs from the consultation meetings and disclosed
+                                                              in country (August 30, 2018) and on Bank's external
+                                                              website (September 5, 2018). In addition, 2 site
+                                                              specific ESMPs, Atabey and Ivriz, have been
+                                                              completed and will be added to the bidding
+                                                              documents.The remaining 2 ESMPs will be prepared
+                                                              before bidding documents of the respective projects
+                                                              were advertised.
+  Performance Standards for Private Sector
+                                                No            This policy will not be triggered.
+  Activities OP/BP 4.03
+                                                              Among the 4 selected schemes, 3 of them will use an
+                                                              upstream dam as a water source, 1 project in Isparta
+                                                              Region will extract water from Egirdir Lake – a
+                                                              nationally protected area. Egirdir Lake is one of the
+                                                              important wetland areas in Turkey and also
+                                                              recognized as an Important Bird Area (IBA) according
+                                                              to the BirdLife International. The qualifying species
+                                                              are given as Red-crested Pochard Netta rufina (LC),
+                                                              Common Pochard Aythya ferina (VU), Tufted Duck
+                                                              Aythya fuligula (LC), Common Coot Fulica atra (LC)
+                                                              and Pygmy Cormorant Microcarbo pygmaeus (LC)
+                                                              which are wintering water birds. It should also be
+                                                              noted that the irrigation scheme is not within the
+                                                              borders of the IBA. And the proposed project’s
+                                                              implementation is expected to contribute to the
+                                                              water balance of Egirdir Lake by 71.88 hm3/year.
+                                                              Given that the project will result in reduction in the
+  Natural Habitats OP/BP 4.04                   Yes           water drawn from the Lake, the impacts of the
+                                                              project on this protected area is expected to be
+                                                              positive. Additionally, the modernization project
+                                                              includes modern irrigation systems such as drip
+                                                              irrigation, which will reduce the drainage waters
+                                                              from the agricultural lands to the lake and thus the
+                                                              contamination from agricultural run-off will be
+                                                              minimized. In consideration of the abovementioned
+                                                              information, it is concluded that the project
+                                                              implementation will contribute to the protection
+                                                              status of the Lake as it will result in increase in the
+                                                              water level as well as reduce the pollution from
+                                                              agricultural run-off which are also declared as the
+                                                              threats to the protection area.
+
+                                                              The General Directorate of Water Management of
+                                                              Ministry of Forestry and Water Affairs has
+                                                              coordinated a study to identify the special provisions
+
+
+Feb 01, 2018                                                                                               Page 14 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              for protection of this lake. Egirdir Lake provides
+                                                              irrigation water to many other irrigation schemes as
+                                                              well as Isparta city center.
+
+                                                              The special provisions on protection of Eğirdir Lake
+                                                              has been approved by the Ministry of Forestry and
+                                                              Water Affairs on 8th of May, 2012. In general
+                                                              provisions, it is indicated that pressurized irrigation
+                                                              systems will be established within the basin in three
+                                                              years after the provisions are published and projects
+                                                              of this scope will be prioritized. Furthermore, it is
+                                                              also mentioned that drip irrigation systems will be
+                                                              established for the irrigated lands beyond the
+                                                              borders of the basin as mentioned in the
+                                                              implementation schedule of the watershed
+                                                              protection plan of Eğirdir Lake, with respect to the
+                                                              opinions of Provincial Directorate of Food,
+                                                              Agriculture and Livestock. Given this scope, the aim
+                                                              and components of the TIMP are in line with the
+                                                              special provisions of Eğirdir Lake. In the special
+                                                              provisions, discharge standards for domestic
+                                                              wastewaters is given.
+
+                                                              In the ESMF, it is emphasized that the DSI will ensure
+                                                              that the relevant provisions of the protection plan
+                                                              are taken into consideration during construction
+                                                              activities and operational phase of the project.
+                                                              These include maintaining the amount and quality of
+                                                              water received by the lake. Therefore, the target is
+                                                              to reduce the amount of water drawn from the lake
+                                                              by modernization of the irrigation schemes that
+                                                              Egirdir Lake supplies water for.
+
+                                                              There are no protected areas within or the vicinity of
+                                                              the project area of Groundwater Stewardship Pilot.
+                                                              The land for establishment of the solar panels is
+                                                              required to be marginal agricultural land.
+                                                              Furthermore, the area of the project is estimated to
+                                                              be less than 10.000 m2 which can be considered as a
+                                                              small footprint.
+                                                              Since the project investments will be exclusively
+                                                              limited to the modernization of existing irrigation
+  Forests OP/BP 4.36                            No
+                                                              schemes, they will not impact any designated forest
+                                                              areas.
+
+
+
+Feb 01, 2018                                                                                               Page 15 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              The project will not involve purchase or use of
+                                                              pesticides. After irrigation rehabilitation investments
+                                                              there is a possibility of farmers changing their crop
+                                                              patterns, however this depends on the incentives
+  Pest Management OP 4.09                       No            (on-farm equipment) they'll receive from the
+                                                              government and government crop quotas in the
+                                                              farming areas. Therefore, change in the crop pattern
+                                                              and its relationship with pest management is not
+                                                              considered as an impacts of the project.
+                                                              Although, there is no anticipated adverse impact on
+                                                              the archeological values at this stage of the project,
+                                                              chance finds procedure will be prepared as required
+  Physical Cultural Resources OP/BP 4.11        Yes
+                                                              by national law and Bank requirements. The chance
+                                                              finds procedure will be applied and will be included
+                                                              in the ESMF and ESMPs.
+                                                              There are no indigenous people in Turkey, therefore
+  Indigenous Peoples OP/BP 4.10                 No
+                                                              this policy is not triggered.
+                                                              The main investments in the project involves
+                                                              replacement of open-channel systems (canals and
+                                                              distribution networks) with closed, pressurized
+                                                              systems. Under Component-1, Irrigation Systems
+                                                              Modernization while the land use requirements of
+                                                              the selected irrigation schemes have not been
+                                                              determined yet, an estimated land acquisition of 117
+                                                              hectares (~ 0.2% of the entire affected project area)
+                                                              through majorly easement rights is required and
+                                                              hence the Bank’s Policy on Involuntary Resettlement
+                                                              (OP 4.12) has been triggered. No physical
+                                                              displacement is expected to occur under the project.
+                                                              DSI will try to avoid land expropriation by ensuring
+  Involuntary Resettlement OP/BP 4.12           Yes           that construction activities utilize public lands by
+                                                              following existing roads and/or canals, in addition to
+                                                              making use of land consolidation practices. Because
+                                                              the exact location of the canals and associated
+                                                              irrigation infrastructure will not be known until
+                                                              detailed designs are finalized, a Land Acquisition
+                                                              Policy Framework (LAPF) has been prepared and has
+                                                              been disclosed on August 8, 2018 in country and on
+                                                              Bank's website. DSI will prepare specific Land
+                                                              Acquisition Plans (LAPs) for irrigation schemes that
+                                                              will require land acquisition through expropriation,
+                                                              once the project footprint of the irrigation schemes
+                                                              are final.
+
+
+
+
+Feb 01, 2018                                                                                               Page 16 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              2 of the selected schemes (Ereğli-İvriz and Atabey)
+                                                              are currently under the national LC program run by
+                                                              former MoFAL (now MoAF). In line with the LC
+                                                              activities carried out by MoAF, DSI will prepare and
+                                                              implement irrigation modernization on these three
+                                                              schemes. DSI will consult PAPs once consolidation
+                                                              works are complete and monitor and address any
+                                                              grievances that may rise.
+
+                                                              Another scheme which land consolidation will be
+                                                              applied by DSI to avoid expropriation will be Uzunlu.
+                                                              Due to having intense fixed structures (orchards) the
+                                                              final and fifth scheme; Alaşehir will require land take
+                                                              through expropriation. Depending on the design,
+                                                              some of the schemes where LC takes place may also
+                                                              require partial expropriation in smaller quantities.
+                                                              Here, DSI will prepare scheme specific LAPs for each
+                                                              of the schemes that requires land take in line with its
+                                                              LAPF. Under Component-2 Innovation and
+                                                              Institutional Support, a sustainable irrigation system
+                                                              that provides low-cost solar energy-based pumping
+                                                              will be piloted in one region, Bolvadin in Afyon
+                                                              province. The land to be used under this component
+                                                              belongs to the WUA of Bolvadin and there will be no
+                                                              private land acquisition involved.
+
+                                                              As the project will create positive outcomes through
+                                                              modernization of existing irrigation systems,
+                                                              modernization works aligned with consolidation
+                                                              practices will also allow for the reduction in project
+                                                              costs. Considerable positive impacts such as; savings
+                                                              in farming inputs, efficient use of water resources
+                                                              and reuse of defragmented unviable land, increase
+                                                              crop productivity and enhanced incomes are also
+                                                              anticipated. In terms of gender, land consolidation
+                                                              practices are also anticipated to create an
+                                                              opportunity for women to own consolidated
+                                                              parcel(s), which likely may lead to their increased
+                                                              participation in agricultural production.
+
+                                                              In order for successful implementation, a proactive
+                                                              engagement approach will be adopted by DSI in line
+                                                              with the Stakeholder Engagement Plan prepared.
+                                                              Engagement will be crucial from design to project
+                                                              completion and will require the involvement of
+                                                              various departments within DSI, both at GD and site
+
+Feb 01, 2018                                                                                               Page 17 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+                                                              level. Available data and consultations with DSI
+                                                              representatives indicate that DSI has a four level
+                                                              GRM in place which allows for the identification and
+                                                              resolution of all grievances generated by DSI
+                                                              activities. The existing system will be arranged to
+                                                              collect scheme specific data and will be disclosed
+                                                              during consultations for the use of all stakeholders
+                                                              through project implementation.
+                                                              This project will not finance any dams or reservoirs.
+                                                              However, the policy is triggered since three dams
+                                                              (Afsar, Ivriz, Uzunlu) regulate river flows and supply
+                                                              water to the downstream irrigation schemes that
+                                                              project will finance. The safe and reliable operation
+                                                              of the four dams is critical for ensuring resilience and
+                                                              sustainability of the downstream irrigation project.
+                                                              Dam safety expert of the Bank conducted site visit to
+                                                              all of the dams and prepared a mission report.
+                                                              Mission report indicated that the required measures
+                                                              are of non-structural nature, in fact, no major flaws
+                                                              or structural conditions requiring immediate
+                                                              intervention were observed at any of the dams.
+  Safety of Dams OP/BP 4.37                     Yes
+                                                              Considering the age of the dams (27 to 47 years),
+                                                              civil works are in satisfactory conditions and hydro
+                                                              mechanical equipment (gates, valves, conduits, etc.)
+                                                              are relatively well maintained.
+
+                                                              At the same time, there is evident need to upgrade
+                                                              the dam safety procedures, albeit to different levels
+                                                              at each dam. Rehabilitation and enhancement of
+                                                              instrumentation and monitoring systems is a primary
+                                                              area of intervention. Relevant dam safety
+                                                              recommendations are shared with DSI and DSI
+                                                              committed to fulfill Bank's requirements to meet the
+                                                              policy.
+                                                              Project will only finance schemes which are located
+                                                              in the National Basins list of Turkey. The list has been
+  Projects on International Waterways                         agreed with the Government of Turkey by the Legal
+                                                No
+  OP/BP 7.50                                                  Department of the World Bank, and will be provided
+                                                              in the environmental assessment document to be
+                                                              prepared by the client.
+  Projects in Disputed Areas OP/BP 7.60         No            There are no disputed areas under this project.
+
+
+
+
+Feb 01, 2018                                                                                                Page 18 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+  A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The project construction works are not expected to have significant or irreversible impacts. However, Bank’s safeguard
+  policies that are anticipated to be triggered will be closely monitored to avoid and to mitigate any impacts that may be
+  induced by the project activities. The primary infrastructure works will involve replacement of existing open channels
+  (earthen/concrete) with pressurized closed channels (pipes) for irrigation. With this intention, the main environmental
+  impacts of the project are limited to basic construction work impacts. In general, these impacts are related to
+  excavation, waste disposal, disposal of demolished material, loss of top soil and vegetation, dust formation, noise,
+  occupational and community health and safety.
+
+  Additional land based social impacts: No physical displacement is expected due to the project. DSI is also committed to
+  avoid land acquisition/expropriation, to the extent possible, in all its activities. Still, there is a possibility of land
+  acquisition and therefore a Land Acquisition Policy Framework (LAPF) was prepared and disclosed by DSI on August 8,
+  2018. In addition, DSI will plan their construction work schedules to ensure that there is no disruption of agricultural
+  activities or existing irrigation to avoid and/or minimize loss of incomes to land owners/users and seasonal workers.
+  LAPF provides guidance on minimizing and mitigating the potential impacts on local citizens and ways to fulfill gaps
+  between national legislation and WB OP 4.12. In addition to land acquisition/expropriation issues, there are already
+  ongoing land consolidation activities (LC) operated by former MoFAL (now MoAF) for the potentially selected
+  irrigation schemes. DSI will carry out consultations and follow up on grievances pertaining to these schemes under
+  MoAF’s LC program, whereas all schemes that may require land take through expropriation will have a scheme specific
+  LAP prepared. All possible land induced impacts will be mitigated through the measures specified in LAPs whereas
+  continuous engagement with PAPs and all other stakeholders will be key to project implementation.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  No long term major environmental impact and or an indirect environmental impact is expected. From social angle,
+  positive long term impacts are foreseen. With the rehabilitated and more efficient irrigation schemes, it is anticipated
+  that local villagers will have improved access to irrigation network, resulting in the efficient use of water resources,
+  reducing costs, allowing for cultivation of alternative crops thus positively impact their income levels. Application of
+  land consolidation in selected schemes will also create long term positive impacts benefits of land consolidation
+  practices such as savings in farming inputs, efficient use of water resources and reuse of defragmented unviable land,
+  increase crop productivity, enhanced incomes are also anticipated even opportunities for women to own consolidated
+  parcel(s), which likely may lead to their increased participation in agricultural production.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  The locations of the selected irrigation schemes to be rehabilitated are identified according to the needs and priorities
+  of DSI in line with the safeguards requirements of the World Bank. During appraisal stage 4 irrigation modernization
+  schemes were suggested for WB financing.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  An Environmental and Social Management Framework (ESMF) for the project was prepared in order to assess the
+
+
+Feb 01, 2018                                                                                                      Page 19 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+  requirements of national environmental legislation and to compare them with WB operational policies. The draft
+  ESMF was also shared with local villagers and stakeholders via 2 consultation meetings (first one on October 12, 2017
+  in Senirkent, Isparta and second one on June 20, 2018 in Atabey). The ESMF was finalized with the inputs from the
+  consultation meetings and disclosed in country (August 30, 2018) and on Bank's external website (September 5,
+  2018).
+
+  The project is expected to finance rehabilitation of 4 irrigation schemes in Isparta, Manisa, Yozgat, and Konya
+  provinces. In line with the ESMF, sub-project Environmental and Social Management Plans (ESMPs), including site-
+  specific information, will be prepared by DSI and annexed to the tender documents. 2 site specific ESMPs, Atabey and
+  Ivriz, have been prepared and finalized before negotiations. The remaining 2 ESMPs will be prepared before bidding
+  documents of the respective projects were advertised. The final versions of all ESMPs will be a part of the construction
+  bidding documents.
+
+  In addition to the ESMF, DSI has also prepared a LAPF that addresses the land requirements and impacts of the project
+  in addition to providing key measures for avoiding or minimizing the anticipated impacts of land acquisition. The LAPF
+  has been consulted on June 20, 2018 and was disclosed in-country and on Bank's website on August 8, 2018. Following
+  the final design, DSI will also prepare and disclose scheme specific LAPs in line with the LAPF. Regarding the LC works
+  carried out by former MoFAL under the national LC program, DSI will conduct consultations after completion of the LC
+  works and follow up on the LC related grievances. For schemes that will require LC to be carried out by DSI (i.e
+  Uzunlu), DSI will carry out a post-land consolidation study before irrigation works start in order to ensure that there
+  are no issues triggering OP 4.12 and any land consolidation related grievance is addressed and managed in a timely
+  manner. At project completion, DSI will carry out a completion audit on the land acquisition and consolidation
+  activities.
+
+  The General Directorate of State Hydraulic Works (DSI) is the primary executive state agency which is responsible for
+  water resources planning, managing, execution and operation. With this intention, DSI is a main institution for the
+  irrigation rehabilitation projects. DSI also has a separate and experienced environmental department provides
+  supports to environmental sections of the feasibility reports. Environmental department of DSI also has a capacity to
+  prepare environmental assessment reports which are requested by large water works (i.e. dams, large irrigation
+  projects, drinking water supply projects, etc.). On the other hand, the irrigation modernization projects are exempt of
+  Turkish EIA Regulation. Due to this reason, a special attention of DSI is required for the implementation of ESMF. For
+  this purpose, DSI will assign responsible parties as safeguards contact point from their HQ. Additionally, DSI will
+  dedicate a staff for monitoring purposes at the regional directorate level. Compliance with ESMF and ESMPs is the
+  primary objective of the monitoring of construction activities. Local responsible parties will periodically inform HQ
+  safeguard staff about monitoring activities. Then, the input provided by HQ Safeguard staff will be reflected in the 6-
+  monthly progress reports of DSI. The 6-monthly progress report will be submitted to WB for review. It is believed that,
+  this new way of doing business, and applying international best practice (on environment and social) will provide great
+  experience to DSI.
+
+  With regard to land related issues, DSI is a highly competent agency and has substantial experience in implementing
+  both the national expropriation law and resettlement law. DSI is also an influential actor in changing national policies
+  and legislation in the fields that they serve. The institution has qualified expropriation experts who have adopted a
+  participatory and fair approach in land acquisition practices that set a benchmark for all other implementing agencies.
+  DSI had participated in WB-financed projects decades ago, but does not have recent experience of WB’s policies,
+  which is reflected in the safeguards documents that have been submitted so far. Guidance in the application of all
+  relevant social safeguards policies will be essential during project implementation. Similar to the environmental
+
+Feb 01, 2018                                                                                                     Page 20 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+  safeguards issues, DSI will be required to report progress on social safeguards (including social impacts, land
+  acquisition requirements, land consolidation, stakeholder engagement etc.) semi annually. The monitoring and
+  reporting requirements are detailed in the LAPF.
+
+  DSI has established a Project Management Team (PMT) that will be responsible for managing all aspects of project
+  implementation. The PMT will manage inter alia finalization of designs, consultations, contracting, construction
+  supervision, operations and maintenance, fiduciary management, citizen engagement, and safeguards for the
+  modernization of the irrigation schemes to be financed by this project. The full-time Social and Environment Lead in
+  the PMT will be responsible for monitoring environmental and social risks and impacts in all selected schemes under
+  the project. He/she, in close collaboration with: (a) the Coordinators from each Regional Directorate; and (b) other
+  relevant Departments of DSI (i.e. Real Estate and Expropriation; Land Consolidation and On-Farm Development; and
+  Operations and Maintenance) will prepare and monitor the implementation of site-specific Environmental and Social
+  Management Plans (ESMPs) and Land Acquisition Plans (LAPs).The Social and Environment Lead will ensure
+  continuous engagement with beneficiaries and other stakeholders in affected communities, and coordinate the
+  redress of grievances with input and support from Regional Social and Environmental Coordinators. In addition, at
+  each of the Regional Directorates where project-financed modernization activities are being implemented, there will
+  be a Regional Social and Environmental Coordinator (half-time position in each Directorate) who will monitor
+  environmental and social risks and impacts. He/she, in close collaboration with other DSI departments (mentioned
+  above) will prepare and monitor the implementation of ESMPs and LAPs, ensure continuous engagement with
+  construction contractors, beneficiaries and other stakeholders in affected communities, and coordinate the redress of
+  grievances.
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  Among the key stakeholders of the project are farmers (WUA members and non-members), water user associations,
+  muhtars, relevant regional directorates of DSI, relevant provincial directorates of food, agriculture and livestock where
+  projects are located. For effective stakeholder involvement, it is planned to have public consultation meetings prior to
+  the project activities to inform these key stakeholders on; the project, its impacts and implementation schedule and
+  its grievance mechanism should the stakeholders have any grievances through the project life. In order to avoid any
+  negative feedback or misunderstanding from the host communities, DSI has prepared a Stakeholder Engagement Plan
+  which will serve throughout the project life and will be put into practice by the PMT all relevant local staff appointed
+  for its delivery. Several means of communication will be used to disseminate information; community meetings, flyers,
+  brochures, etc. It is suggested that project's potential environmental and social impacts are also discussed with the
+  public via these meetings.
+
+  Community involvement will be sought through timely consultations and DSI’s 4 level grievance redress mechanism
+  will be utilized to resolve concerns as they arise. Both consultations and GRM will consider the different needs and
+  concerns of male and female population as well as any vulnerable groups that maybe impacted by the project.
+
+  During the project preparation, DSI conducted 2 stakeholder consultation meetings. The first meeting was held on
+  October 12, 2017 in Senirkent and the draft ESMF was consulted with a large group of people. The second meeting
+  was organized on June 20, 2018 in Atabey, Isparta and the revised ESMF together with the LAPF were discussed. The
+  attendee list, minutes and other supplementary material was integrated into the safeguard documents and the final
+  versions disclosed include consultation minutes.
+
+  DSI has a functional multi-level grievance mechanism that serves all DSI activities. The existing grievance mechanism
+
+Feb 01, 2018                                                                                                     Page 21 of 25
+                               The World Bank
+                               Turkey Irrigation Modernization Project (P158418)
+
+
+  will help monitor grievances arising in the irrigation schemes supported by the project. Any PAP or stakeholder can
+  choose to lodge a grievance at any level personally, through an application, by email/ telephone or through the
+  national GRM system by use of BIMER (Prime Ministry Communication Center) or CIMER (Presidency Communication
+  Center). Each grievance received is recorded by Document Registry Office under Personnel Directorate in General
+  Directorate, regional and branch directorates. Depending on the type and content, grievances received are distributed
+  among relevant departments by document registry officers to be addressed and resolved within the specified time
+  frame (15 days). All written grievances received through applications, email, BIMER or CIMER are recorded by DSI.
+  Should any grievance received through telephone require an action to be taken by DSI, the complainant is guided to
+  lodge the grievance through written means to allow for its registration in the GRM. Document registry officers (at all
+  levels) prepare monthly reports on the grievances received both through DSI’s own GRM and the ones received
+  through BIMER and CIMER. WUA level grievances received are generally related to issues encountered during
+  operation of schemes, whereas grievances lodged at all other levels can be related to all works carried out by DSI.
+  WUA’s keep record of their own grievances to be shared with DSI upon request when necessary. DSI will maintain
+  operating its current GRM with minor adjustments to allow for scheme level data collection. Any grievance during the
+  implementation of project schemes will be communicated to the closest DSİ unit (WUA, Project Directorate, DSİ
+  Branch Directorate, Regional Directorate or General Directorate) in person, by electronic mail or other available
+  means. All of the objections will be recorded and objecting parties will be responded to in writing. After the objections
+  to plot plans are evaluated, the objecting parties will be informed that the procedures completed will be disclosed
+  again so that they can be viewed.
+
+
+
+  B. Disclosure Requirements
+
+   OPS_EA_DISCLOSURE_TABLE
+   Environmental Assessment/Audit/Management Plan/Other
+                                                                                                   For category A projects, date of
+      Date of receipt by the Bank                              Date of submission for disclosure   distributing the Executive Summary of
+                                                                                                   the EA to the Executive Directors
+      29-Jun-2018                                              05-Sep-2018
+
+      "In country" Disclosure
+        Turkey
+       30-Aug-2018
+         Comments
+   OPS_RA_D ISCLOSURE_T ABLE
+
+
+
+
+   Resettlement Action Plan/Framework/Policy Process
+
+      Date of receipt by the Bank                              Date of submission for disclosure
+      08-Aug-2018                                              08-Aug-2018
+
+      "In country" Disclosure
+
+
+
+Feb 01, 2018                                                                                                                   Page 22 of 25
+                             The World Bank
+                             Turkey Irrigation Modernization Project (P158418)
+
+
+                         Turkey
+                         08-Aug-2018
+                   Comments
+
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          Yes
+          If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report?
+          Yes
+          Are the cost and the accountabilities for the EMP incorporated in the credit/loan?
+          Yes
+ OPS_ NH_COM P_TA BLE
+
+
+
+
+          OP/BP 4.04 - Natural Habitats
+
+          Would the project result in any significant conversion or degradation of critical natural habitats?
+          No
+          If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the
+          project include mitigation measures acceptable to the Bank?
+          NA
+ OPS_ PCR_COM P_TA BLE
+
+
+
+
+          OP/BP 4.11 - Physical Cultural Resources
+          Does the EA include adequate measures related to cultural property?
+          Yes
+          Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+          Yes
+ OPS_IR_ COMP_TA BLE
+
+
+
+
+          OP/BP 4.12 - Involuntary Resettlement
+
+         Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared?
+         Yes
+         If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+         Yes
+ OPS_SD _COMP_ TABLE
+
+
+
+
+          OP/BP 4.37 - Safety of Dams
+
+
+
+Feb 01, 2018                                                                                                               Page 23 of 25
+                         The World Bank
+                         Turkey Irrigation Modernization Project (P158418)
+
+
+          Have dam safety plans been prepared?
+          Yes
+          Have the TORs as well as composition for the independent Panel of Experts (POE) been reviewed and approved by the
+          Bank?
+          Yes
+          Has an Emergency Preparedness Plan (EPP) been prepared and arrangements been made for public awareness and
+          training?
+          Yes
+ OPS_ PDI_ COMP_TA BLE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+          All Safeguard Policies
+
+
+          Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+          measures related to safeguard policies?
+          Yes
+          Have costs related to safeguard policy measures been included in the project cost?
+          Yes
+          Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+          related to safeguard policies?
+          Yes
+          Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+          reflected in the project legal documents?
+          Yes
+
+
+
+            CONTACT POINT
+
+           World Bank
+
+             Sanjay Pahuja
+             Lead Water Resource Management Specialist
+
+           Borrower/Client/Recipient
+
+
+
+Feb 01, 2018                                                                                                           Page 24 of 25
+          The World Bank
+          Turkey Irrigation Modernization Project (P158418)
+
+
+
+   Ministry of Treasury and Finance
+   Ms. Gokben Yener
+   Head of Department for Economic Relations
+   gokben.yener@hazine.gov.tr
+   Implementing Agencies
+
+   Devlet Su İşleri (DSI)
+   Mr. Mevlut Aydin
+   Director General
+   mevlutaydin@dsi.gov.tr
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+   Task Team Leader(s):                   Sanjay Pahuja
+
+   Approved By
+
+   Safeguards Advisor:                    Brandon Enrique Carter   06-Nov-2018
+
+   Practice Manager/Manager:              David Michaud            06-Nov-2018
+
+   Country Director:                      Eavan O'Halloran         09-Nov-2018
+
+
+
+
+Feb 01, 2018                                                                     Page 25 of 25
+

@@ -1,0 +1,1192 @@
+                                    FOR OFFICIAL USE ONLY
+                                                                      Report No: RES52765
+
+         INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT AND/OR
+                     INTERNATIONAL DEVELOPMENT ASSOCIATION
+
+                                    RESTRUCTURING PAPER
+                                            ON A
+                           PROPOSED PROGRAM RESTRUCTURING
+                                             OF
+                    PAKISTAN CRISIS-RESILIENT SOCIAL PROTECTION (CRISP)
+                              APPROVED ON MARCH 25, 2021
+
+                                             TO
+
+                             THE ISLAMIC REPUBLIC OF PAKISTAN
+
+
+
+Social Protection & Jobs Global Practice
+South Asia Region
+
+
+
+
+                 Regional Vice President: Martin Raiser
+                        Country Director: Najy Benhassine
+                       Regional Director: Lynne D. Sherburne-Benz
+                       Practice Manager: Stefano Paternostro
+                      Task Team Leaders: Amjad Zafar Khan, Melis U. Guven, Namoos Zaheer
+       The World Bank
+       Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+                                         ABBREVIATIONS AND ACRONYMS
+
+BISP   Benazir Income Support Programme               IT          Information Technology
+CCT    Conditional Cash Transfer                      MELA        Multi-Entry Localized Access
+DLI    Disbursement Linked Indicator                  MIS         Management Information System
+DLR    Disbursement Linked Results                    NSER        National Socio-Economic Registry
+E&S    Environmental and Social                       PforR       Program-For-Results
+H&N    Health and Nutrition                           RA          Results Area
+IDA    International Development Association          SP          Social Protection
+IFC    International Finance Corporation              TA          Technical Assistance
+IPF    Investment Project Financing                   WeT         Waseela-e-Taleem
+        The World Bank
+        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+DATA SHEET (Pakistan Crisis-Resilient Social Protection (CRISP) - P174484)
+BASIC DATA
+Project ID                          Financing Instrument                          IPF Component
+P174484                             Program-for-Results Financing                 Yes
+
+Environmental and Social Risk Classification (ESRC) (IPF Component)
+ Moderate
+
+ Approval Date                                             Current Closing Date
+ 25-Mar-2021                                               30-Jun-2025
+
+Organizations
+
+ Borrower                                                  Responsible Agency
+ The Islamic Republic of Pakistan
+
+
+
+Program Development Objective(s)
+To support the development of a more adaptive social protection system that will contribute to any future crisis-
+resilience among poor and vulnerable households
+
+
+OPS_TABLE_PDO_CURRENTPDO
+Summary Status of Financing (US$, Millions)
+
+                                                                             Net
+                Approval                      Effectiveness    Closing
+Ln/Cr/TF                      Signing Date                                   Commitment          Disbursed Undisbursed
+                Date                          Date             Date
+                    25-Mar-
+IDA-68550                       26-Mar-2021    29-Mar-2021 30-Jun-2025                  600.00      176.72          388.91
+                       2021
+
+
+
+Policy Waiver(s)
+Does the Program require any waivers of Bank policies applicable to Program-for-Results operations?
+No
+
+
+
+
+                                                                                                             Page 1 of 25
+         The World Bank
+         Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+I. PROGRAM STATUS AND RATIONALE FOR RESTRUCTURING
+
+Program Status
+
+1.       The Crisis Resilient Social Protection program became effective on March 29, 2021. This is a 4-year, $600
+million Program for Results operation with a $ 5 million Technical Assistance component. The project was designed
+to respond to gaps identified by the government during the COVID emergency cash transfer response through the
+Benazir Income Support Program (BISP). The institutional and operational reforms proposed under the program
+were designed to further improve the delivery system, expand coverage to protect human capital investments and
+introduce mechanisms to mitigate the risks for the vulnerable population not covered by the regular BISP safety net
+programs. The program has three (3) Result Areas (RA)s focusing on; 1) Building a crisis resilient delivery system; 2)
+Establishing a Hybrid Social Protection (SP) system for resilience of poor against future crisis; and 3) Protecting
+human capital through demand-side education and health initiatives for children.
+
+2.     The program has maintained an overall satisfactory rating in the first year of its operation. There has been
+considerable achievement in two of the RAs, with some overachieved. The recent supervision mission noted good
+progress towards achievement of the results for the first year and early achievement of those for the second year.
+The progress against implementation is as follows:
+
+
+            (i) Result Area 1: Building a crisis resilient delivery system:
+                     i. Sub Result Area A (Innovations to Social Registry): This RA focused on setting up a dynamic
+                        update mechanism (MELA) for the National Socio-Economic Registry (NSER) and develop
+                        mechanisms for data exchange. The goal of the MELA mechanism is to (i) provide multiple
+                        points of entry (physical registration desks, door-to-door surveys, virtual services); (ii)
+                        ensure access windows are local; and (iii) ensure data flow is automated. Updated data will
+                        be validated and consolidated into NSER, available for use in facilitating eligibility
+                        determination for multiple programs. The phase wise development of MELA included
+                        completion of the one-time update of the NSER, setting up dynamic update mechanisms
+                        for missed out households and subsequently implementing the complete cycle of dynamic
+                        update to ensure regular updates. In the first year of operation, the complete MELA design
+                        has been developed and backend MIS tested and implemented. The interim mechanism for
+                        missed out households is already operational in all Tehsils of Pakistan and the complete
+                        MELA module will be functional by the end of September 2022. An API has also been
+                        developed for online and secure exchange of data with institutions and programs that rely
+                        on NSER for targeting and enrollment of households and families. All expected results under
+                        this Sub Result Area are on track and will achieve some of the 3rd year DLI targets a year
+                        earlier than planned.
+                    ii. Sub Result Area B (Beneficiary-Centric Payment System): There was a need identified
+                        during the COVID crisis to enhance the accessibility and expand the choice of payment
+                        delivery services for the safety net beneficiaries. The focus was to design a new payment
+                        system that can link up with the national payment gateway and provide choice to
+                        beneficiaries of multiple payment service providers. The design would also allow the
+                        beneficiaries to receive their cash grants from anywhere in the country. Though the results
+                        and DLIs associated with this component were not due in the first year of operation,
+
+                                                                                                                Page 2 of 25
+         The World Bank
+         Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+                        progress has been made in developing the relevant framework and mechanisms which are
+                        under discussion with relevant stakeholders. This component is also on track and there are
+                        no anticipated delays.
+            (ii) Result Area 2 (Developing Innovative Hybrid Social Protection Scheme): This RA supports a hybrid
+                 scheme which blends social assistance with social risk mitigation elements to promote savings for
+                 informal sector workers to mitigate against future shocks. This is expected to expand SP coverage
+                 through a hybrid SP scheme supporting the Government’s risk mitigation and financial inclusion
+                 interventions among informal workers. This is a new concept that was introduced in the program
+                 to test new mechanism that could be scaled up if successful, and results are not due in the first year
+                 of program implementation. This component does not have a large bearing on the overall safety
+                 net reforms envisaged under the program as is a stand alone SP initiative.
+            (iii) Result Area 3 (Protecting human capital in the early and primary school years):
+                     i. Sub Result Area A (Improved health and nutrition (H&N) in the early years): This initiative
+                        supports early investments in H&N by supporting demand-side interventions aimed at
+                        mitigating access constraints. The nutrition focused CCT for mother and child incentivizes
+                        take up of services provided through the public health system. Support consists of financing
+                        for CCTs and establishing sectoral coordination mechanisms for program implementation
+                        in federally administered areas. The results under this component have been overachieved
+                        including the DLIs for year 3 due to exemplary program expansion. More than 40,000
+                        beneficiaries are currently enrolled into the program.
+                    ii. Sub Result Area B (Incentivizing school enrollment and retention): This component
+                        supports the expansion of WeT and consolidation of efforts to improve coordination with
+                        provincial education departments. Expansion includes demand-side incentives for girls to
+                        address the schooling gender gap in progressing to secondary education and incentives to
+                        complete primary education. It is expected to enhance future resilience of service delivery
+                        by enabling access in the aftermath of climate-related shocks, which may restrict physical
+                        access of educational facilities. This component has been expanded to all 160 districts
+                        across Pakistan with 8.5 million ever enrolled children. The results have been over-achieved
+                        with all DLI’s on track for disbursement.
+
+
+3.       The Program Development Objective and all Results and DLIs of the program continue to be aligned with
+the government’s priorities. The RAs were drawn from the experiences of the COVID response and are embedded
+in the government’s revised Social Protection Strategy (Ehsaas). The relevance of these initiatives is even more
+significant today as the government struggles to respond to the unprecedented floods currently facing the country.
+
+
+Rationale For Restructuring
+
+4.        The fiscal year 2023 has has been characterized with unpredictable patterns of abnormally heavy
+monsoon rains in Pakistan. Flash floods have killed at least 900 people and displaced more than 320,000. Currently,
+it is estimated that 4.2 million people have been impacted and more than 670,000 homes have been damaged. The
+worst hit provinces are Baluchistan and Sindh, but all provinces have been impacted and a national emergency has
+been declared. To provide relief to the affected population the government has announced a cash transfer of Rs
+25,000 for families in the affected areas through the Benazir Income Support Program. The government has decided
+
+                                                                                                                 Page 3 of 25
+         The World Bank
+         Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+to apply a two-stage targeting mechanism, where initially the flood affected areas would be geographically targeted
+and then the bottom 40 percent of the households within these areas/regions will be identified through the NSER.
+The government estimates that $500 million would be required to cover the cost of these cash transfers. The World
+Bank is anticipating a contribution of approximately $230 million towards these cash transfers to cover the poorest
+40 percent affected households as identified through the NSER. Out of this commitment, $80 million will be
+reallocated from the existing DLIs of the CRISP program and a new DLI linked to effective utilization of the systems
+to deliver the emergency cash transfers will be included. A formal request for this reallocation has been received
+from the Ministry of Economic Affairs vide their letter No. 2(39)WB-III/21 dated August 29, 2022.
+
+5.        The need to reallocate funds towards the emergency cash transfers coupled with the opportunity to try
+out the improvement of BISP’s systems supported through the CRISP program, provide a logical rationale for
+restructuring of the program. The $80 million will be reallocated from two of the existing DLI’s that are not time
+critical and have considerably less impact on the overall adaptive safety net delivery systems. The new DLI has been
+designed to provide an opportunity to test out the partially implemented MELA system through which the NSER has
+been updated. This will also establish that with the MELA in place, NSER alone is sufficient to be used for any welfare-
+based targeting as there will be no need to use additional exclusion filters as was the case during the COVID
+emergency response. The new DLI 12 suggests utilization of the NSER that has been updated through the partially
+implemented MELA mechanism for identification of the 40 percent of the poorest families in the affected areas.
+
+
+ II. DESCRIPTION OF PROPOSED CHANGES
+
+6.      The proposed program restructuring includes;
+
+            (i) One DLI (DLI 12) of $80 million has been added that promotes the utilization of the updated NSER
+                  for flood emergency cash transfers. This will allow for the testing of the dynamic update mechanism
+                  (MELA) in NSER. As the new DLI is testing out the innovations to the targeting registry (NSER), it is
+                  logically placed under RA 1: “Building a Crisis Resilient Delivery System” of the program.
+            (ii) Two existing DLIs (DLI 2 and DLI 9) have been restructured to draw the $80 million for the new DLIs.
+                  $50 million has been reduced from DLI 2 bringing its total amount from $60 million to $10 million.
+                  $30 million is reduced from DLI 9, bringing its total amount down from $35 million to $5 million.
+                  There is no change in the targets or the timeframe for the DLI delivery. Similarly, there are no
+                  changes in the results associated with these DLIs in the results framework.
+            (iii) Verification Protocol for all existing DLIs remain the same and verification protocol for the new DLI
+                  has been added. The Annex 3 provides the revised verification protocol table.
+            (iv) One new result (Result 16) reflecting the new DLI (DLI 12) has been added in the results framework
+                  to fully align the framework with the DLIs.
+
+
+
+III. SUMMARY OF ENVIRONMENT AND SOCIAL COMPLIANCE
+
+ 7.      There is no impact of proposed restructuring on the Bank’s Environment and Social Assessment. The risk
+ rating for Environment stands at “Low” and for Social “Moderate”. There are currently no issues with
+ implementation and the restructuring will not impact the TA/IPF component.
+
+
+
+                                                                                                                  Page 4 of 25
+        The World Bank
+        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+8.      BISP is currently in the process of establishing an Enviornmental and Social Engagement unit, which will be
+adequately staffed to coordinate enviornmental and social management across the orgnization, including
+reporting to the Bank. As a first activity, they provided a detailed report to the Bank on actions identified under
+the ESCP and Progam Action Plan; and are recruiting an E-Waste consultant.
+
+
+
+
+IV. SUMMARY OF CHANGES
+
+
+                                                                     Changed                       Not Changed
+
+Change in Results Framework                                              ✔
+
+Reallocation between and/or Change in DLI                                ✔
+
+Change in Implementing Agency                                                                           ✔
+
+Change in Program's Development Objectives                                                              ✔
+
+Change in Program Scope                                                                                 ✔
+
+Change in Loan Closing Date(s)                                                                          ✔
+
+Change in Cancellations Proposed                                                                        ✔
+
+Change in IPF Component                                                                                 ✔
+
+Change in Disbursements Arrangements                                                                    ✔
+
+Change in Disbursement Estimates                                                                        ✔
+Change in Systematic Operations Risk-Rating Tool
+                                                                                                        ✔
+(SORT)
+Change in Legal Covenants                                                                               ✔
+
+Change in Institutional Arrangements                                                                    ✔
+
+Change in Technical Method                                                                              ✔
+
+Change in Fiduciary                                                                                     ✔
+
+Change in Environmental and Social Aspects                                                              ✔
+
+Change in Implementation Schedule                                                                       ✔
+
+Other Change(s)                                                                                         ✔
+
+
+
+                                                                                                              Page 5 of 25
+                                           The World Bank
+                                           Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+    V. DETAILED CHANGE(S)
+
+
+    OPS_DETAILEDCHANGES_COMPONENTS_TABLE
+
+
+
+
+.
+
+
+
+
+                                                                                                           Page 6 of 25
+                               The World Bank
+                               Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+                                                                               ANNEX 1: RESULTS FRAMEWORK
+
+
+
+.
+
+.
+                                                                                        Results framework
+
+
+
+    Program Development Objectives(s)
+    To support the development of a more adaptive social protection system that will contribute to any future crisis-resilience among poor and vulnerable
+    households
+
+    Program Development Objective Indicators by Objectives/ Outcomes
+    RESULT_FRAME_TBL_PDO
+
+
+
+
+                           Indicator Name        DLI Baseline                                          Intermediate Targets                End Target
+
+                                                                               1                      2                        3
+    Building Crisis-Resilient Delivery Systems
+    Number of households with NSER
+    data updated through MELA                        0.00                    0.00                    15,000.00                30,000.00   50,000.00
+    mechanism (Number)
+    Developing Innovative Hybrid Social Protection Mechanisms
+    Number of hybrid scheme
+    beneficiaries receiving eligible                 0.00                    0.00                    25,000.00                50,000.00   150,000.00
+    matching contributions (Number)
+    Protecting human capital in the early and primary school years
+    Number of beneficiaries in the
+                                                     0.00                    5,000.00                25,000.00                50,000.00   100,000.00
+    nutrition sensitive CCT
+
+
+
+                                                                                                                                                        Page 7 of 25
+                           The World Bank
+                           Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+RESULT_FRAME_TBL_PDO
+
+
+
+
+                       Indicator Name        DLI Baseline                                    Intermediate Targets                   End Target
+
+                                                                           1                2                        3
+(Nashonuma) Program paid against
+compliance with the
+conditionalities in two consecutive
+quarters (Number)
+Number of beneficiaries in WeT
+program paid against compliance
+                                                 1,100,000.00            1,800,000.00      2,200,000.00             2,600,000.00   3,000,000.00
+with the conditionalitities in two
+consecutive quarters. (Number)
+
+ PDO Table SPACE
+
+Intermediate Results Indicators by Result Areas
+RESULT_FRAME_TBL_IO
+
+
+
+
+                       Indicator Name        DLI Baseline                                    Intermediate Targets                   End Target
+
+                                                                           1                2                        3
+Result Area 1: Building Crisis-Resilient Delivery Systems
+Number of Districts where at least
+one MELA access point is functional              0.00                    0.00              50.00                    80.00          120.00
+in each Tehsil (Number)
+Number of safety net beneficiaries
+being paid through the beneficiary
+                                                 0.00                    0.00              1,000,000.00             3,000,000.00   5,000,000.00
+centric payment mechanism
+(Number)
+Number of Government programs
+exchanging information with NSER                 0.00                    0.00              2.00                     4.00           6.00
+through data exchange interface
+
+
+
+
+                                                                                                                                                  Page 8 of 25
+                          The World Bank
+                          Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name        DLI Baseline                                    Intermediate Targets                   End Target
+
+                                                                          1                2                        3
+per signed data sharing agreements
+(Number)
+Regular meetings of a national
+governance structure of the NSER
+with effective representation of the            No                      No                Yes                      Yes            Yes
+provinces per the regulations
+(Yes/No)
+Pilot survey approach tested for
+collecting additional data to
+                                                No                      Yes               Yes                      Yes            Yes
+improve targeting for climate
+related disasters (Yes/No)
+Number of flood emergency
+affected families from the bottom
+two quintiles, identified and
+                                  DLI 12 0.00                           0.00              1,000,000.00             1,000,000.00   1,000,000.00
+provided support using the
+updated National Socio Economic
+Registry (Number)
+
+Action: This indicator is New
+
+Result Area 2: Developing Innovative Hybrid Social Protection Mechanisms
+BISP Board has approved
+operational design and the
+                                                No                      Yes               Yes                      Yes            Yes
+implementation plan for the hybrid
+social protection scheme (Yes/No)
+Functional beneficiary registry and
+platform for management of the                  No                      Yes               Yes                      Yes            Yes
+hybrid SP scheme (Yes/No)
+
+
+
+                                                                                                                                                 Page 9 of 25
+                          The World Bank
+                          Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name        DLI Baseline                                    Intermediate Targets                   End Target
+
+                                                                          1                2                        3
+Results Area 3: Protecting human capital in the early and primary school years
+Number of districts that are
+implementing WeT CCT program                    50.00                   80.00             100.00                   120.00         150.00
+(Number)
+Cumulative number of ever
+enrolled children in the WeT                    3,200,000.00            4,000,000.00      6,000,000.00             8,000,000.00   9,000,000.00
+Program (Number)
+No of districts in Federally
+administered areas where Nutrition
+                                                0.00                    4.00              8.00                     12.00          20.00
+CCT program has been initiated.
+(Number)
+Number of girls receiving bonuses
+or other completion incentives for
+                                                0.00                    100,000.00        300,000.00               900,000.00     1,300,000.00
+transition to secondary school
+(Number)
+No of ever enrolled children in
+Waseela e Taleem program who
+                                                500,000.00              650,000.00        800,000.00               1,400,000.00   2,000,000.00
+have completed primary education
+(Number)
+
+IO Table SPACE
+
+
+
+
+                                                                                                                                                 Page 10 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+                                                                       Disbursement Linked Indicators Matrix
+DLI IN01181546 ACTION
+
+
+
+
+DLI 1                                      Number of households with NSER data updated through MELA mechanism
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Intermediate Outcome                       Yes                           Number                                         50.00 0.00
+Period                                     Value                                             Allocated Amount (USD)            Formula
+Baseline                                   0.00
+
+Year 1/FY22                                0.00                                                                          0.00 No DLR for this period
+
+                                                                                                                              US$25 million will be received on
+Year 2/FY23                                15,000.00                                                                    25.00 15000 HHs data being updated throug
+                                                                                                                              MELA
+                                                                                                                              Scalable after DLR for Yr 2 is met.
+Year 3/FY24                                30,000.00                                                                    15.00 Subsequently $5 million disbursed for
+                                                                                                                              every 5000 HH up to that year's DLR
+                                                                                                                              Scalable after DLR for Yr 3 is met.
+                                                                                                                              Subsequently $5 million will be
+Year 4/FY25                                50,000.00                                                                    10.00
+                                                                                                                              disbursed for every 10,000 HHs up to
+                                                                                                                              that year's DLR
+DLI IN01181547 ACTION
+
+
+
+
+DLI 2                                      Number of hybrid scheme beneficiaries receiving eligible matching contributions
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Outcome                                    Yes                           Number                                         60.00 0.00
+Period                                     Value                                             Allocated Amount (USD)            Formula
+Baseline                                   0.00
+
+
+                                                                                                                                                            Page 11 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Year 1/FY22                                0.00                                                                              0.00 No DLR for this period
+
+                                                                                                                               US$25 million will be received when
+Year 2/FY23                                25,000.00                                                                     25.00 upto 25,000 beneficiaries are
+                                                                                                                               participating in hybrid SP scheme
+                                                                                                                               Scalable after the DLR for Yr 2 is met.
+                                                                                                                               Subsequently, $4 million disbursed for
+Year 3/FY24                                50,000.00                                                                     20.00
+                                                                                                                               every 5,000 beneficiaries till DLR for
+                                                                                                                               this Yr
+                                                                                                                               Scalable after DLR for Yr 3 is met.
+                                                                                                                               Subsequently $7.5 million is disbursed
+Year 4/FY25                                150,000.00                                                                    15.00
+                                                                                                                               for every 50k beneficiaries added till
+                                                                                                                               DLR for this Yr
+
+Action: This DLI has been Revised. See below.
+DLI IN01181524 ACTION
+
+
+
+
+DLI 2                                      Number of hybrid scheme beneficiaries receiving eligible matching contributions
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)          As % of Total Financing Amount
+
+Outcome                                    No                            Number                                          10.00 0.00
+Period                                     Value                                             Allocated Amount (USD)                Formula
+Baseline                                   0.00
+
+Year 1/FY22                                0.00                                                                              0.00 No DLR for this period
+
+Year 2/FY23                                0.00                                                                              0.00 No DLR for this period
+
+Year 3/FY24                                0.00                                                                              0.00 No DLR for this period
+
+
+
+
+                                                                                                                                                              Page 12 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+                                                                                                                             $10 million will be disbursed when upto
+Year 4/FY25                                150,000.00                                                                  10.00 150k beneficiaries participate in the
+                                                                                                                             hybrid SP scheme
+DLI IN01181548 ACTION
+
+
+
+
+DLI 3                                      Number of safety net beneficiaries being paid through the beneficiary centric payment mechanism
+
+Type of DLI                                Scalability                   Unit of Measure    Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Outcome                                    Yes                           Number                                        40.00 0.00
+Period                                     Value                                            Allocated Amount (USD)             Formula
+Baseline                                   0.00
+
+Year 1/FY22                                0.00                                                                         0.00 No DLR for this period
+
+                                                                                                                             US$ 20 million disbursed when up to 1
+Year 2/FY23                                1,000,000.00                                                                20.00 million beneficiaries are paid through
+                                                                                                                             beneficiary centric payment system
+                                                                                                                             Scalable after DLR for Yr 2 is met. $5
+Year 3/FY24                                3,000,000.00                                                                10.00 million disbursed for every 1 million
+                                                                                                                             beneficiaries added up to this yr’s DLR
+                                                                                                                             Scalable after DLR for Yr 3 is met. $5
+Year 4/FY25                                5,000,000.00                                                                10.00 million disbursed for every 1 million
+                                                                                                                             beneficiaries added up to this yr’s DLR
+DLI IN01181549 ACTION
+
+
+
+
+                                           Number of beneficiaries in the nutrition sensitive CCT (Nashonuma) Program paid against compliance with the
+DLI 4
+                                           conditionalities in two consecutive quarters
+
+Type of DLI                                Scalability                   Unit of Measure    Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Outcome                                    Yes                           Number                                        80.00 50.00
+Period                                     Value                                            Allocated Amount (USD)             Formula
+
+                                                                                                                                                            Page 13 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Baseline                                   0.00
+
+                                                                                                                              US$20 million will be disbursed when
+                                                                                                                              upto 5,000 beneficiaries comply with
+Year 1/FY22                                5,000.00                                                                     20.00
+                                                                                                                              conditionalities for two consecutive
+                                                                                                                              compliance periods
+                                                                                                                              Scalable after the DLR for Yr 1 has been
+                                                                                                                              met. Then, $10 million disbursed for
+Year 2/FY23                                25,000.00                                                                    20.00
+                                                                                                                              every 10,000 beneficiaries added up to
+                                                                                                                              that year's DLR
+                                                                                                                              Scalable after the DLR for Yr 2 has been
+                                                                                                                              met. Then, $10 million disbursed for
+Year 3/FY24                                50,000.00                                                                    20.00
+                                                                                                                              every 12,500 beneficiaries added up to
+                                                                                                                              that year's DLR
+                                                                                                                              Scalable after the DLR for Yr 3 has been
+                                                                                                                              met. Then, $10 million disbursed for
+Year 4/FY25                                100,000.00                                                                   20.00
+                                                                                                                              every 25,000 beneficiaries added up to
+                                                                                                                              that year's DLR
+DLI IN01181550 ACTION
+
+
+
+
+DLI 5                                      Number of beneficiaries in WeT program paid against compliance with the conditionalities in two consecutive quarters.
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Outcome                                    No                            Number                                        100.00 0.00
+Period                                     Value                                             Allocated Amount (USD)            Formula
+Baseline                                   1,100,000.00
+
+Year 1/FY22                                1,800,000.00                                                                 25.00 Not Scalable
+
+Year 2/FY23                                2,200,000.00                                                                 25.00 Not Scalable
+
+
+
+                                                                                                                                                             Page 14 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Year 3/FY24                                2,600,000.00                                                                  25.00 Not Scalable
+
+Year 4/FY25                                3,000,000.00                                                                  25.00 Not Scalable
+DLI IN01181551 ACTION
+
+
+
+
+DLI 6                                      Number of girls receiving bonuses or other completion incentives for transition to secondary school
+
+Type of DLI                                Scalability                   Unit of Measure      Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Outcome                                    Yes                           Number                                          50.00 0.00
+Period                                     Value                                              Allocated Amount (USD)             Formula
+Baseline                                   0.00
+
+                                                                                                                               US$10 million disbursed when up to
+                                                                                                                               100,000 girls have received completion
+Year 1/FY22                                100,000.00                                                                    10.00
+                                                                                                                               incentive for transition to secondary
+                                                                                                                               school
+                                                                                                                               Scalable after DLR for Yr 1 is met. $5
+                                                                                                                               million will be disbursed for additional
+Year 2/FY23                                300,000.00                                                                    10.00
+                                                                                                                               100k girls receiving bonus till DLR for
+                                                                                                                               this Yr
+                                                                                                                               Scalable after DLR for Yr 2 is met. $5
+                                                                                                                               million disbursed for every additional
+Year 3/FY24                                900,000.00                                                                    10.00
+                                                                                                                               300k girls receiving bonus upto this yrs
+                                                                                                                               DLR
+                                                                                                                               Scalable after DLR for Yr 3 is met. $10
+                                                                                                                               million disbursed for every additional
+Year 4/FY25                                1,300,000.00                                                                  20.00
+                                                                                                                               200k girls receive bonus upto this Yrs
+                                                                                                                               DLR
+
+
+
+
+                                                                                                                                                               Page 15 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+DLI IN01181552 ACTION
+
+
+
+
+DLI 7                                      Number of Districts where at least one MELA access point is functional in each Tehsil
+
+Type of DLI                                Scalability                   Unit of Measure      Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Intermediate Outcome                       No                            Number                                           30.00 0.00
+Period                                     Value                                              Allocated Amount (USD)               Formula
+Baseline                                   0.00
+
+Year 1/FY22                                0.00                                                                            0.00 No DLR for this year
+
+Year 2/FY23                                50.00                                                                          10.00 Not Scalable
+
+Year 3/FY24                                80.00                                                                          10.00 Not Scalable
+
+Year 4/FY25                                120.00                                                                         10.00 Not Scalable
+DLI IN01181553 ACTION
+
+
+
+
+                                           Number of Government programs exchanging information with NSER through data exchange interface per signed data
+DLI 8
+                                           sharing agreements
+
+Type of DLI                                Scalability                   Unit of Measure      Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Intermediate Outcome                       No                            Number                                           40.00 0.00
+Period                                     Value                                              Allocated Amount (USD)               Formula
+Baseline                                   0.00
+
+Year 1/FY22                                0.00                                                                            0.00 No DLR for this year
+
+Year 2/FY23                                2.00                                                                           10.00 Not Scalable
+
+
+
+                                                                                                                                                              Page 16 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Year 3/FY24                                4.00                                                                        10.00 Not Scalable
+
+Year 4/FY25                                6.00                                                                        20.00 Not Scalable
+DLI IN01181554 ACTION
+
+
+
+
+DLI 9                                      Functional beneficiary registry and platform for management of the hybrid SP scheme
+
+Type of DLI                                Scalability                   Unit of Measure    Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Intermediate Outcome                       No                            Yes/No                                        35.00 0.00
+Period                                     Value                                            Allocated Amount (USD)               Formula
+Baseline                                   No
+
+Year 1/FY22                                No                                                                            0.00 No DLR for this year
+
+Year 2/FY23                                Yes                                                                         35.00 Not Scalable
+
+Year 3/FY24                                Yes                                                                           0.00 No DLR for this year
+
+Year 4/FY25                                Yes                                                                           0.00 No DLR for this year
+
+Action: This DLI has been Revised. See below.
+DLI IN01181697 ACTION
+
+
+
+
+DLI 9                                      Functional beneficiary registry and platform for management of the hybrid SP scheme
+
+Type of DLI                                Scalability                   Unit of Measure    Total Allocated Amount (USD)         As % of Total Financing Amount
+
+Intermediate Outcome                       No                            Yes/No                                         5.00 0.00
+Period                                     Value                                            Allocated Amount (USD)               Formula
+Baseline                                   No
+
+
+
+                                                                                                                                                            Page 17 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Year 1/FY22                                No                                                                             0.00 No DLR for this year
+
+Year 2/FY23                                Yes                                                                            5.00 Not Scalable
+
+Year 3/FY24                                Yes                                                                            0.00 No DLR for this year
+
+Year 4/FY25                                Yes                                                                            0.00 No DLR for this year
+DLI IN01181555 ACTION
+
+
+
+
+DLI 10                                     Number of districts in Federally administered areas where Nutrition CCT program has been initiated.
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Intermediate Outcome                       No                            Number                                         60.00 16.67
+Period                                     Value                                             Allocated Amount (USD)             Formula
+Baseline                                   0.00
+
+Year 1/FY22                                4.00                                                                          10.00 Not Scalable
+
+Year 2/FY23                                8.00                                                                          10.00 Not Scalable
+
+Year 3/FY24                                12.00                                                                         20.00 Not Scalable
+
+Year 4/FY25                                20.00                                                                         20.00 Not Scalable
+DLI IN01181556 ACTION
+
+
+
+
+DLI 11                                     Number of ever enrolled children in WeT program who have completed primary education
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)       As % of Total Financing Amount
+
+Outcome                                    Yes                           Number                                         50.00 0.00
+Period                                     Value                                             Allocated Amount (USD)             Formula
+
+
+                                                                                                                                                           Page 18 of 25
+                        The World Bank
+                        Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Baseline                                   500,000.00
+
+Year 1/FY22                                650,000.00                                                                    0.00 No DLR for this year
+
+                                                                                                                              US$20 million will be received when
+                                                                                                                              upto 800,000 children are enrolled in
+Year 2/FY23                                800,000.00                                                                   20.00
+                                                                                                                              WeT pogram have completed primary
+                                                                                                                              school
+                                                                                                                              Scalable after the DLR for Yr 2 is met.
+                                                                                                                              $10 million disbursed for every
+Year 3/FY24                                1,400,000.00                                                                 20.00
+                                                                                                                              additional 300,000 Children upto that
+                                                                                                                              yrs DLR
+                                                                                                                              Scalable after the DLR for Yr 3 is met.
+                                                                                                                              $5 million disbursed for every
+Year 4/FY25                                2,000,000.00                                                                 10.00
+                                                                                                                              additional 300k Children upto this yrs
+                                                                                                                              DLR
+DLI IN01181568 ACTION
+
+
+
+
+                                           Number of flood emergency affected families from the bottom two quintiles, identified and provided support using the
+DLI 12
+                                           updated National Socio Economic Registry
+
+Type of DLI                                Scalability                   Unit of Measure     Total Allocated Amount (USD)      As % of Total Financing Amount
+
+Outcome                                    No                            Number                                80,000,000.00 0.00
+Period                                     Value                                             Allocated Amount (USD)            Formula
+Baseline                                   0.00
+
+Year 1/FY22                                                                                                              0.00 No DLR for this year
+
+Year 2/FY23                                1,000,000.00                                                        80,000,000.00 Not Scalable
+
+Year 3/FY24                                1,000,000.00                                                                  0.00 No DLR for this year
+
+
+                                                                                                                                                              Page 19 of 25
+              The World Bank
+              Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+Year 4/FY25                      1,000,000.00                                 0.00 No DLR for this year
+
+Action: This DLI is New
+
+
+
+
+                                                                                                          Page 20 of 25
+                          The World Bank
+                          Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+                                                             ANNEX 2: PROGRAM ACTION PLAN
+
+
+.
+.    PAP_NOT_CHANGE_TBL
+
+
+
+
+     Action
+     Description                    Source                   DLI#    Responsibility           Timing                 Completion Measurement
+
+     Reporting on the
+    compliance of the                                                                                              Annual reporting by the BISP to
+    Bank ACG.                     Fiduciary Systems                 BISP              Recurrent   Yearly           the Bank
+     Update of Social
+    Mobilization
+    policy and                                                                                    6 - 9 months of
+    stakeholder                   Environmental and Social                                        program         Policy ratified; proceeds of
+    consultations.                Systems                           BISP              Other       implementation consultations
+     GRM                                                                                                           GRM document, appointment of
+    improvement and               Environmental and Social                                                         E&S specialists and semi-annual
+    implementation                Systems                           BISP              Recurrent   Semi-Annually    reports on GRM implementation
+                                                                                                  6 - 9 months of
+    Training on E-                Environmental and Social                                        program
+    waste                         Systems                           BISP, EPAs        Other       implementation Proceedings of trainings
+     Approval of
+    design and
+    Implementation
+    Plan for multi-
+    entry, localized,
+    access (MELA)                                                                                                  Approved Minutes of the Board,
+    system by BISP                                                                                                 Design document &
+    board                         Technical                         BISP              Due Date    30-Jun-2022      implementation plan for MELA
+     Approval of
+    protocols for
+    updating
+    socioeconomic
+    scoring algorithm                                                                                              Approved Minutes of the Board.
+    by the Board                  Technical                         BISP              Due Date    30-Jun-2023      Protocol document
+     Approval of
+    operational design
+    and the
+    implementation
+    plan for the hybrid
+    social protection                                                                                              Approved Minutes of the Board,
+    scheme by BISP                                                                                                 Design document for hybrid SP
+    Board               Technical                                   BISP              Due Date    30-Jun-2022      program
+     Approval of an
+    evidence-based
+    strategy for a
+    possible scaled up                                                                                             Approved Minutes of the Board,
+    hybrid SP program                                                                                              Strategy paper for hybrid SP
+    by BISP Board                 Technical                         BISP              Due Date    28-Jun-2024      program
+
+
+
+                                                                                                                                        Page 21 of 25
+               The World Bank
+               Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+     Electronic File
+    Management                                                                                 Filing system will be operational
+    System                                                                                     and fiduciary record accessed
+    Implemented         Fiduciary Systems             BISP            Due Date   28-Jun-2024   electronically
+     Board’s approval
+    of revised data
+    sharing protocols
+    incorporating a
+    section to reflect
+    recommendations
+    of the data sharing
+    protocols review
+    referred to under
+    Part 2(a)(i) of the
+    Project [related to
+    security, privacy
+    and protection of                                                                          Data protocols approved by the
+    personal data]      Technical                     BISP            Due Date   23-Jun-2022   board
+
+.
+
+
+
+
+                                                                                                                     Page 22 of 25
+      The World Bank
+      Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+                                                          ANNEX 3: DLI VERIFICATION PROTOCOLS
+
+
+DLI                                                                         Verification
+No     DLI                                Data Source                       Entity         Procedure
+       Number of households with          Admin. Data and MIS report                       This DLI will be considered as met when the Operations Review
+       NSER data updated through          confirming number of HHs                         Firm verifies the number of districts where MELA is functional.
+  1    MELA mechanism                     updated through MELA              IVA
+                                                                                           This will be further corroborated through the enrollment data
+                                                                                           being received in MELA platform and reported by the MIS
+       Number of hybrid scheme            Admin. Data and MIS report                       The DLI will be considered as met when BISP MIS report
+       beneficiaries receiving eligible   confirming number of enrolled                    confirms the number of unique beneficiaries of the hybrid SP
+       matching contributions             beneficiaries. FIs certificate/
+  2                                       report confirming program
+                                                                            IVA            program, matching it with the report or data made available by the
+                                          beneficiaries receiving the                      financial institute managing the program, identifying total number
+                                          matching grant                                   of beneficiaries participating
+       Number of safety net               Admin data, MIS report
+       beneficiaries being paid           confirming number of                             DLI will be considered as met when MIS report confirms number
+       through the beneficiary centric    beneficiaries paid through the                   of beneficiaries who were paid through the beneficiary centric
+       payment mechanism                  new payment system.                              payment system. Furthermore, the Operations Review firm will
+  3                                       Consolidated payment data from    IVA            confirm evidence on the districts where the beneficiary centric
+                                          PSPs confirming the number of                    payment system is functional. Any contractual agreement with the
+                                          beneficiaries.                                   services providers on provision of beneficiary centric services in
+                                                                                           the respective districts will also be required as evidence
+       Number of beneficiaries in the     Admin data, MIS report                           DLI will be considered as met when MIS will confirm the number of
+       nutrition sensitive CCT            confirming number of families                    beneficiaries through a report generated from Admin data with unique IDs
+       (Nashonuma) Program paid           benefitting from the program                     of women and children who have complied with co-responsibilities in two
+  4    against compliance with the        based on payment data available   IVA            consecutive cycles. This information will be matched with the payment
+       conditionalities in two            to them.                                         data received from the PSP.
+       consecutive quarters
+
+       Number of beneficiaries in         Admin data, MIS report
+       WeT program paid against           confirming number of children                    DLI achievement will be achieved when MIS provides and
+       compliance with the                benefitting from the program
+                                                                                           verifies the admin data on number of unique WeT beneficiaries
+       conditionalities in two            based on payment data available
+                                                                                           who have complied with the co-responsibilities in two consecutive
+  5    consecutive quarters.              to them                           IVA
+                                                                                           quarters. MIS unit will also match this with the PSP data for
+                                                                                           transfer of the payments to the respective beneficiaries for 2
+                                                                                           consecutive quarters against compliance.
+
+
+                                                                                                                        Page 23 of 25
+     The World Bank
+     Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+      Number of girls receiving         MIS report on all girls students
+      bonuses or other completion       graduating out of primary and            The DLI will be considered to have been met when a number of
+      incentives for transition to      receiving bonus for secondary            girls have received a graduation bonus for transition to secondary
+      secondary school                  enrollment.                              school. The condition for the indicator will be met when a WeT
+6                                                                          IVA   graduating girl gets enrolled into secondary school. This will be
+                                                                                 verified by the admin data confirming compliance with the
+                                                                                 conditionality of enrollment into secondary school. MIS will
+                                                                                 report verification of the number of girls based on the Admin data.
+
+      Number of Districts where at      Admin. Data from MIS,                    The DLI will be considered as met when the OR firm confirms the
+      least one MELA access point       Operations Review report,
+      is functional in each Tehsil
+                                                                                 number of districts that have a functional MELA access point in
+                                                                                 each of its Tehsils. This report will be further supported by the
+7                                                                          IVA
+                                                                                 Admin data confirmed through a certificate from MIS showing at
+                                                                                 least one hundred households having updated data in each of the
+                                                                                 Tehsils of the complying districts.
+      Number of Government              MoAs with instiutions for two
+      programs exchanging               way exchange of data with
+      information with NSER             NSER. MIS report on programs
+                                                                                 This DLI will be considered as met when two-way data exchange
+      through data exchange             exchanging data through NSER
+      interface per signed data         interface.                               is established with other government programs (those not being
+      sharing agreements                                                         managed by BISP) utilizing the NSER data. The evidence will be
+8                                                                          IVA
+                                                                                 provided through MIS certificate confirming data fields exchanged
+                                                                                 through the electronic interface between NSER and other program
+                                                                                 databases in accordance with the agreements with these programs
+
+
+      Functional beneficiary registry   MIS report confirming
+                                                                                 DLI will be met when the beneficiary registry of the hybrid SP
+      and platform for management       enrollment of beneficiaries,
+      of the hybrid SP scheme           design document for Hybrid SP            scheme/program is functional evidenced by at least 1000 potential
+                                        program, Financial Institution's         beneficiaries enrolled in to the program. The structure and
+9                                                                          IVA
+                                                                                 linkages of the registry will need to match the requirements of the
+                                        certificate confirming
+                                        beneficiary enrollment                   design document. The MIS report providing evidence of at least
+                                                                                 1000 beneficiaries enrolled into the savings program.
+      No of districts in Federally      Third party operational review
+                                                                                 The DLI will be considered as achieved when the OR firm
+      administered areas where          report, MIS report on payroll
+      Nutrition CCT program is          against compliance for the
+                                                                                 confirms the districts where nutrition CCT program is functional,
+      functional                        districts. PSP certificate               evidenced through first cycle of payment against compliance
+10                                                                         IVA
+                                                                                 having been delivered in that district. MIS will also provide a
+                                        confirming payment for the
+                                        district                                 certificate confirming at least on payment to beneficiaries against
+                                                                                 compliance
+                                                                                                            Page 24 of 25
+     The World Bank
+     Pakistan Crisis-Resilient Social Protection (CRISP) (P174484)
+
+
+
+
+      No of ever enrolled children in   MIS report on WeT children
+      Waseela e Taleem program          completing grade 5. Payment
+                                                                                  The DLI will count the number of ever enrolled children in the
+      who have completed primary        data to confirm families enrolled         Waseela e Taleem program who graduated while complying with
+      education                                                                   the WeT program requirements. The condition for the indicator
+                                                                                  will be met when a WeT child completes grade 5 and is recorded
+11                                                                          IVA   as graduated in the school register. This will be verified by the
+                                                                                  admin data confirming that the child was recorded as graduating
+                                                                                  from grade 5 in the compliance monitoring record. This
+                                                                                  information will be shared on an agreed format with a certificate
+                                                                                  from the MIS Wing
+      Number of flood emergency         Admin data, MIS report
+      affected families from the        confirming number of flood                DLI will be achieved when MIS provides and verifies the admin
+      bottom two quintiles,             affected families identified and          data on number of unique flood affected beneficiaries who have
+      identified and provided support   paid through the updated NSER.            been identified from the updated NSER and paid the emergency
+12    using the updated National        Consolidated payment data from      IVA
+                                                                                  cash transfer benefit. This report will also be accompanied by the
+      Socio Economic Registry           PSPs will corroborate provision
+                                                                                  certification of PSPs for delivery of benefit to at least same
+                                        of support to the beneficiaries
+                                                                                  number of flood affected beneficiaries.
+
+
+
+
+                                                                                                             Page 25 of 25
+

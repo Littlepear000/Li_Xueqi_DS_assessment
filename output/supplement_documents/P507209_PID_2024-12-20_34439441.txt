@@ -1,0 +1,385 @@
+﻿    The World Bank
+    Tunisia Health System Strengthening Project(P507209)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                  Project Information Document (PID)
+
+                Concept Stage | Date Prepared/Updated: 20-Dec-2024 | Report No: PIDDC01110
+     The World Bank
+     Tunisia Health System Strengthening Project(P507209)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Tunisia                        P507209                      Tunisia Health System Strengthening Project
+Region                         Estimated Appraisal Date     Estimated Approval Date      Practice Area (Lead)
+MIDDLE EAST AND NORTH          21-Feb-2025                  29-May-2025                  Health, Nutrition &
+AFRICA                                                                                   Population
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Ministry of Economy and      Ministry of Health
+Financing (IPF)                Planning
+
+Proposed Development Objective(s)
+To improve access to quality healthcare services and enhance the resilience and capacity for pandemic prevention,
+preparedness, and response of Tunisia’s health system
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   No
+Is this project Private Capital Enabling (PCE)?             No
+
+SUMMARY
+  Total Operation Cost                                                                                          125.00
+
+  Total Financing                                                                                               125.00
+             of which IBRD/IDA                                                                               108.00
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                              108.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                    Page 1
+           The World Bank
+           Tunisia Health System Strengthening Project(P507209)
+
+
+        Trust Funds                                                                                                                                                                  17.00
+            Special Financing                                                                                                                                                        17.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                                         Concept Review Decision
+Moderate                                                                                             The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+1.      Tunisia’s economy in 2024 is set to have a cautious recovery in the aftermath of the COVID-19 pandemic, albeit
+with challenges and opportunities. The country has one of the most diversified economies in Africa, with a historically
+large services sector that has grown over the past decade.1 In 2023, significant export gains came from tourism recovery2
+and export-oriented industry.3 On the other hand, severe drought, tight financing conditions and the pace of reform
+implementation slowed economic growth in 2023, leaving the economy below its pre-Covid level compared to other
+Middle East and North Africa (MENA) region countries. Real GDP growth in the first nine months of 2024 was 1 percent,
+which was half the rate of 2022 and lower than 2021.4 This has led to higher unemployment and lower labor force
+participation, with unemployment reaching 16 percent in Q3 2024 and labor force participation rate dropping to 46.2
+percent, below pre-pandemic levels.5 Further, the growth slowdown amplifies the challenges Tunisia faces in covering its
+external financing needs despite an improving external balance. Compounding these challenges, Tunisia has increasingly
+relied on recurrent public expenditures to address citizens' immediate needs, leading fiscal and current account deficits
+to widen —though these are expected to improve in 2024. This has also contributed to a rising debt burden, which
+reached 80 percent of GDP in 2023.6 As of Spring 2024, the budget remains under pressure as the limited growth affects
+tax revenues.7
+
+
+    Sectoral and Institutional Context
+
+
+
+1
+  African Center for Economic Transformation. (2023). Africa Transformation Index 2023: Tunisia country profile. Retrieved from https://acetforafrica.org/ati/country-profiles/tunisia/
+2
+  World Bank. (2024). Tunisia economic monitor: Renewed energy to the economy (Spring 2024).
+3
+  Harvard’s Growth Lab. The atlas of economic complexity: Tunisia. Retrieved from https://atlas.cid.harvard.edu/countries/223
+4
+   World Bank. (2024). Tunisia economic monitor: Renewed energy to the economy (Spring 2024)
+5
+  Institut National de la Statistique (INS). (2023). Indicateurs de l’emploi et du chômage: Quatrième trimestre 2023. https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-
+quatrieme-trimestre-2023https://www.ins.tn/publication/indicateurs-de-lemploi-et-du-chomage-quatrieme-trimestre-2023
+6
+  World Bank. (2024). Tunisia economic monitor: Renewed energy to the economy. Based on government data. (Spring 2024)
+7
+  World Bank. (2024). Tunisia economic monitor: Renewed energy to the economy (Spring 2024).
+
+
+                                                                                                                                                                                             Page 2
+         The World Bank
+         Tunisia Health System Strengthening Project(P507209)
+
+
+2.      Tunisia’s health system continues to face the impact of an ongoing demographic and epidemiological shift. The
+share of the population above 65 is high in Tunisia (9 percent), almost twice the average for MENA countries (5 percent),
+and well above peers such as Algeria, Egypt, and Morocco. Non-communicable diseases (NCD) continue to be the main
+source of the disease burden, causing 86 percent of deaths, with particularly high and increasing rates of hypertension
+and diabetes. In 2016, population-level prevalence of hypertension was at 29 percent, and of diabetes 16 percent, placing
+Tunisia amongst the countries with the highest rates in the MENA region. The control rates for these diseases are
+particularly low, with 14 percent of cases for diabetes and 11 percent of cases for hypertension controlled.8 As a result of
+these low control rates, the prevalence for chronic kidney disease amongst diabetics is 39 percent, with only 17 percent
+of diabetic patients screened for the condition.9 There are over 100,000 new cases of strokes and acute cardiovascular
+incidents, which require urgent intervention. Tunisia has a high share of road traffic accidents, with over 2,200 deaths and
+10,000 injuries each year; most of this burden is for younger than 50, which creates an economic burden. These low
+control rates not only increase morbidity and mortality, but also impose inefficiencies presenting an upwards pressure on
+health expenditures.
+
+3.      Climate change is anticipated to increase health risks faced by Tunisia's most vulnerable communities,
+exacerbating environmental health concerns. Tunisia’s Mediterranean location makes it highly vulnerable to climate
+change, with extreme weather events such as heat waves, heavy rainfall, and drought becoming more frequent. Rising
+sea levels could impact nearly 78,700 people by 2100.10 Four years of drought, have significantly reduced agricultural
+production, increasing food insecurity and malnutrition.11 Climate-related hazards pose high risks to 26 percent of the
+population (18.9 percent exposed to drought, 7.3 percent to heatwaves, and 1.3 percent to floods).12 Under a high
+emission scenario, the mean annual temperature is projected to rise by 5.3°C in 2100, causing as many as 56 deaths per
+100,000 in the elderly (65+ years) by 2080 compared to the estimated baseline of 4 deaths per 100,000 annually between
+1961 and 1990.13 Other negative health impacts associated with climate change in Tunisia include the recurrence and
+emergence of vector-borne diseases (malaria, leishmaniasis, dengue and West Nile fever), an increase in water-borne and
+food-borne diseases, and the aggravation of diseases related to air pollution.14 Rural poor populations, as well as outside
+workers, women, children, the elderly are disproportionately affected.15 Environmental factors such as poor air quality,
+water contamination, and exposure to hazardous chemicals further exacerbate the burden of NCDs.
+
+4.      Tunisian health system faces organizational constraints in responding to these changes. While there are over
+2,000 primary health centers (centre de santé de base – CSB), only 419 are open daily, and many operate once a week,
+resulting in exceptionally low utilization rates at this level. Consequently, most patients seek services at hospitals, which
+drives up operating costs and reduces the ability to serve populations in harder-to-reach areas. Regional and university
+hospitals are unevenly distributed; and patients in disadvantaged areas need to travel over 300 kilometers to reach
+essential and emergency health services. Recruitment and retention challenges of health professionals persist, with
+substantial gaps in the nursing and specialist cadres; against the backdrop of an increased outward migration of health
+
+8 THES, 2016
+9
+  TUN-CKDD, 2021
+10 World Health Organization. Tunisia Climate and Health Country Profile 2015. WHO-FWC-PHE-EPE-15.46-eng.pdf
+11 World Bank Group. Tunisia Country Climate and Development Report. 2023.pp ix.
+12
+   Tunisia: World Bank Brief on new vision indicator: Population at High Risk from Climate-Related Hazards. 2024
+https://scorecard.worldbank.org/en/scorecard/our-vision#planet)
+13 WHO (2015). Climate and Health County Profile – Tunisia. URL: https://apps.who.int/iris/bitstream/handle/10665/246121/WHOFWC-
+14
+   Updated Nationally Determined Contribution (NDC), Tunisia (2021). Paris Agreement on Climate Change.
+15 World Bank (2021) Climate Risk Country Profile - Tunisia
+
+
+
+
+                                                                                                                                   Page 3
+       The World Bank
+       Tunisia Health System Strengthening Project(P507209)
+
+
+professionals. Existing physical and human resource capacity is inequitably distributed. Urban areas feature a well-
+developed private sector with most of the diagnostic capacity; with low levels of financial coverage in the private sector,
+patients must incur high levels of out-of-pocket expenditures to reach these services. In the absence of patient-level data
+on effective coverage and patient satisfaction, it is not possible to strengthen quality of care in reaching a higher disease
+control rate.
+
+5.      The Government has developed a National Health Policy (PNS) in response to lagging health outcomes and
+fragmented governance. Developed through national dialogue, the PNS focuses on three core principles: (i) strengthening
+governance, (ii) improving transparency, and (iii) deepening citizen engagement. The key pillars include (1) scaling up
+family medicine to strengthen primary care (2) introducing an essential benefits package for all citizens, (3) merging
+financial risk protection schemes for universal coverage, (4) enhancing public service delivery to reduce inequalities, and
+(5) promoting multisectoral prevention approaches. These reforms aim to boost patient trust, health worker motivation,
+and system efficiency. By 2030, Tunisia aims to reduce maternal mortality from 45 to 19 per 100,000, obesity rates from
+26 percent to 20 percent, and OOP from 38 percent to 25 percent, and expand basic health insurance coverage to 100
+percent of the population and increase government health spending to 6 percent of GDP.
+
+
+ Relationship to CPF
+6.      The Country Partnership Framework (CPF) Report No. 180304-TN lays out the World Bank Group’s strategy in
+Tunisia for FY23–27, building on Tunisia’s 2023-25 development plan, the Tunisia Vision 2035 plan, the World Bank’s
+Systematic Country Diagnostic as well as the Tunisia Country Climate and Development Report. The overarching
+objective is to support the Tunisian government’s development plan to expand the economy to benefit all, create quality
+jobs, integrate environmental sustainability and boost resilience to climate change. The proposed Project would
+contribute to two CPF high-level objectives (HLO): (a) HLO 2: strengthened human capital, as it would work towards
+improving universal health coverage by improving quality and coverage of primary healthcare services; and (b) HLO 3:
+Improved Climate Resilience by improving Tunisia pandemic preparedness and response capabilities. The Project will also
+address environmental resilience by integrating energy efficiency and sustainable healthcare practices into Tunisia's
+health sector, ensuring that health facilities are better equipped to manage climate-related risks and reduce their carbon
+footprint. The proposed Project would also aim to boost the cross-cutting objectives of gender, by empowering women
+through increased labor force participation, especially among female higher education graduates.
+
+7.      The Project will also contribute to the World Bank’s ambitious new goal to reach 1.5 billion people with quality,
+affordable health services by 2030. The Project expects to reach 2.4 million people by strengthening the accessibility and
+quality of health care services, increasing pandemic preparedness and improving emergency response systems. In
+addition, the Project will prioritize environmentally sustainable healthcare practices, integrating energy efficiency in
+hospitals, implementing sustainable waste management practices, and ensuring that health facilities are climate resilient.
+The Project preparation and implementation will benefit from close cross-GP and WBG collaboration, notably with
+Agriculture (on One Health and early warning systems for zoonotic diseases), Energy (on energy efficiency for hospitals),
+Environment (on climate resilience and sustainable waste management in healthcare facilities), Digital (on expanding
+connectivity and health information systems to the primary care level). This close collaboration will continue throughout
+preparation and implementation. The Project will respond to the Global Challenge Program on Enhanced Health
+Emergency Prevention, Preparedness and Response. With financing from the Pandemic Fund, component 1 will enhance
+the health sector’s capacity to prevent, detect, and respond to health emergencies by strengthening health systems and
+supporting a One Health approach.
+
+                                                                                                                        Page 4
+     The World Bank
+     Tunisia Health System Strengthening Project(P507209)
+
+
+
+
+C. Proposed Development Objective(s)
+To improve access to quality healthcare services and enhance the resilience and capacity for pandemic prevention,
+preparedness, and response of Tunisia’s health system
+
+
+
+Key Results (From PCN)
+
+PDO achievement will be measured by a subset of the preliminary PDO indicators proposed below.
+
+    •        Percentage of the population with access to optimized emergency services
+    •        Percentage of patients that are screened, diagnosed and controlled for hypertension and diabetes at the
+             primary care level
+    •        Number of beneficiaries with enhanced resilience to climate and environmental risks, including improved air
+             quality, access to clean water, and waste management systems in healthcare facilities
+    •        Number of patients managed via the national management system for disease surveillance and response
+
+
+
+D. Concept Description
+
+        8.       The components are financed with US$108 million of IBRD financing and US$17 million RETF grant
+        from the Pandemic Fund. This covers part of the investments needed to finance the ambition and scope of
+        health reforms envisioned by the government. There is room to increase the scope of the Project and to scale
+        up its financing during the design phase. The total scope and financing amount will be determined during
+        appraisal.
+
+
+        9.         The PDO will be achieved through a set of activities across four components.
+        10.   Component 1: Strengthening Health System Resilience (US$25M, including US$17M RETF from the
+        Pandemic Fund)
+        (i)      Component 1 focuses on strengthening surveillance systems, climate change adaptation, and
+        laboratory capacity for pandemic preparedness. It aims to enhance Tunisia's ability to effectively detect,
+        assess, and respond to public health threats through improved surveillance systems, a skilled workforce, and
+        robust laboratory networks. Specific activities will include: 1) strengthening early warning systems including
+        against climate-driven health risks, and improving risk assessment capabilities through integrated One Health
+        approaches; 2) supporting workforce development and training for health professionals; 3) enhancing
+        laboratory capacity and quality management for effective diagnostic networks and improved biosafety
+        standards; and 4) strengthening the coordination of the preparation, response, and recovery for public health
+        emergencies.
+        Component 2: Supporting reorganization of preventive and primary health services (US$50M)
+        (ii)    Component 2 seeks to transform primary health care services to improve the efficiency, distribution
+        and quality of services. It will do so through four subcomponents: i) strengthening the organizational structure
+
+                                                                                                                           Page 5
+      The World Bank
+      Tunisia Health System Strengthening Project(P507209)
+
+
+       and governance of PHC through developing and operationalizing a PHC service reorganization plan,
+       governance framework, and strengthening human resources for health at the PHC level; ii) upgrading the
+       capacity of CSBs based on the PHC service reorganization plan; and iii) supporting the deployment of a
+       comprehensive PHC information system.
+       Component 3: Strengthening emergency medical services ($49M)
+
+
+       (iii)   Component 3 aims to strengthen Tunisia’s emergency medical services. It will enhance the pre-
+       hospitalization phase by improving emergency call management and ambulance dispatch systems. It will also
+       focus on the hospitalization phase by enhancing triage systems and ensuring efficient patient transfers and
+       address the post-hospitalization phase by establishing a referral network to connect discharged patients with
+       primary care and rehabilitation services. This component will also promote environmental sustainability in
+       emergency services by adopting green technologies and reducing energy consumption in emergency
+       management systems.
+       Component 4: Implementation Support, Training and Project Management (US$1M)
+
+       (iv)     This component will support technical assistance and training for the Ministry of Health. It will finance
+       Project management, fiduciary oversight, procurement management, and the implementation of
+       environmental and social measures to ensure compliance with ESF. Training will focus on integrating E&S risk
+       management into healthcare operations, building capacity for identifying, mitigating, and monitoring
+       environmental and social impacts throughout the Project lifecycle. This will include enhancing the Ministry's
+       ability to address key environmental issues such as healthcare waste management, climate resilience, and
+       energy efficiency in healthcare facilities. Eligible expenditures under Component 4 include goods (IT and office
+       equipment), services (consultancies) and non-salary operating costs.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+
+                                                                                                                            Page 6
+     The World Bank
+     Tunisia Health System Strengthening Project(P507209)
+
+
+CONTACT POINT
+
+World Bank
+ Yassine Kalboussi
+ Health Specialist
+
+ Denizhan Duran
+ Senior Economist, Health
+
+ Fatima El Kadiri El Yamani
+ Senior Economist, Health
+
+Borrower/Client/Recipient
+ Ministry of Economy and Planning
+ Imen Salem
+ Director
+ imen.salem@mpci.gov.tn
+
+Implementing Agencies
+ Ministry of Health
+ Abderrezak Bouzouita
+ Director General of Health Services
+ dgs.ms@rns.tn
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Yassine Kalboussi, Denizhan Duran, Fatima El Kadiri El Yamani
+
+Approved By
+
+Practice Manager/Manager:              Michele Gragnolati                      06-Nov-2024
+
+
+
+                                                                                                       Page 7
+     The World Bank
+     Tunisia Health System Strengthening Project(P507209)
+
+
+
+Country Director:                      Alexandre Arrobbio   20-Dec-2024
+
+
+
+
+                                                                          Page 8
+

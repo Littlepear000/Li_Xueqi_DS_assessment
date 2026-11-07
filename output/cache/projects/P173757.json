@@ -1,0 +1,654 @@
+{
+  "project_id": "P173757",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "9ca9fba2",
+  "started_at": "2026-11-07T03:30:43Z",
+  "ended_at": "2026-11-07T03:31:12Z",
+  "input_fingerprint": "3f7a67b17b69e8bf",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 26,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P173757-A1",
+      "project_id": "P173757",
+      "name": "epidemiological surveillance and emergency operations intelligence system",
+      "description": "The project uses upgraded surveillance and emergency operations center systems to detect COVID-19 cases, trace contacts, screen points of entry and speed response. Practices: COVID-19 surveillance system with active case detection, contact tracing and point-of-entry screening; Public Health Emergency Operations Center epidemiology intelligence system upgrade.",
+      "why_innovative": "Digital core: activated COVID-19 surveillance system | New: emergency case detection and tracing infrastructure | Adoption: 'will include' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "526871586986148125",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-15",
+        "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+        "char_start": 37222,
+        "char_end": 37308,
+        "text": "Surveillance activities will include: (a) activating the COVID-19 surveillance system;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "526871586986148125",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-15",
+          "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+          "char_start": 37309,
+          "char_end": 37429,
+          "text": "(b) implementing active case identification and contact tracing; and (c) implementing screening at Points of Entry (i.e.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "526871586986148125",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-15",
+          "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+          "char_start": 37430,
+          "char_end": 37471,
+          "text": "IHR- designated air, land and sea ports).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "526871586986148125",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-15",
+          "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+          "char_start": 44718,
+          "char_end": 45112,
+          "text": "Specifically, support will be provided to the following activities: (a) EOC: Support for expanding the scope and improving the functionality of the Public Health EOC, including, inter alia, upgrading the system for epidemiology intelligence, information gathering and use, and rapid response, improving risk communication and community engagement, and capacity building of DGHS including IEDCR.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: surveillance and tracing system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Surveillance, case detection, and screening are core public health administration functions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: COVID-19 surveillance system | New: emergency detection/tracing infrastructure | Category: Technological surveillance system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital core: activated COVID-19 surveillance system | New: emergency case detection and tracing infrastructure | Adoption: 'will include'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P173757",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-15",
+      "guid": "526871586986148125",
+      "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:30:43Z",
+      "ended_at": "2026-11-07T03:30:55Z",
+      "status": "ok",
+      "note": "17 document(s) fetched from the WBG API; 22 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:30:55Z",
+      "ended_at": "2026-11-07T03:30:55Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-04-03, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:30:55Z",
+      "ended_at": "2026-11-07T03:30:57Z",
+      "status": "ok",
+      "note": "26 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 26,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 3,
+          "innovation": 3,
+          "results_based_management": 3,
+          "innovation_types": 4,
+          "enabling_technologies": 5,
+          "innovation_cycle": 7,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:30:57Z",
+      "ended_at": "2026-11-07T03:30:57Z",
+      "status": "ok",
+      "note": "PAD 2020-04-15 (P173757_PAD_2020-04-15_526871586986148125.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P173757",
+            "doc_type": "PAD",
+            "doc_date": "2020-04-15",
+            "guid": "526871586986148125",
+            "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:30:57Z",
+      "ended_at": "2026-11-07T03:30:57Z",
+      "status": "ok",
+      "note": "72 reading units (2 numbered paragraphs) from 615 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 72
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:30:57Z",
+      "ended_at": "2026-11-07T03:30:58Z",
+      "status": "ok",
+      "note": "15 of 72 units carry a digital / AI cue (3 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 15,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 3
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:30:58Z",
+      "ended_at": "2026-11-07T03:31:04Z",
+      "status": "ok",
+      "note": "8 candidate practices from 15 units in 2 calls",
+      "llm_calls": 2,
+      "input_chars": 54989,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 382,
+          "cached_tokens": 11264,
+          "cache_write_tokens": 0,
+          "output_tokens": 1343,
+          "seconds": 9.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:31:04Z",
+      "ended_at": "2026-11-07T03:31:07Z",
+      "status": "ok",
+      "note": "2 accepted, 6 rejected (not_innovative 4, unsupported_by_evidence 1, generic 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 33295,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 3816,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 504,
+          "seconds": 3.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "accepted": 2,
+        "rejected": 6,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 4,
+          "unsupported_by_evidence": 1,
+          "generic": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:31:07Z",
+      "ended_at": "2026-11-07T03:31:09Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1140,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 134,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 80,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:31:09Z",
+      "ended_at": "2026-11-07T03:31:10Z",
+      "status": "ok",
+      "note": "2 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1344,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 172,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 60,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:31:10Z",
+      "ended_at": "2026-11-07T03:31:12Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4113,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 136,
+          "cached_tokens": 768,
+          "cache_write_tokens": 0,
+          "output_tokens": 77,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:31:12Z",
+      "ended_at": "2026-11-07T03:31:12Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 4 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:31:12Z",
+      "ended_at": "2026-11-07T03:31:12Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 123
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P173757-A1-E1",
+      "approach_id": "P173757-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P173757",
+      "doc_id": "526871586986148125",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-15",
+      "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+      "unit_id": "U25",
+      "para_no": null,
+      "sentence_position": 231,
+      "char_start": 37222,
+      "char_end": 37308,
+      "sentence": "Surveillance activities will include: (a) activating the COVID-19 surveillance system;",
+      "practice": "COVID-19 surveillance system with active case detection, contact tracing and point-of-entry screening",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: COVID-19 surveillance and tracing system | Not routine: new emergency detection infrastructure | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: COVID-19 surveillance system | New: emergency detection/tracing infrastructure | Category: Technological surveillance system",
+      "keywords_hit": "information system;management information system",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: activated COVID-19 surveillance system | New: emergency case detection and tracing infrastructure | Adoption: 'will include'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9ca9fba2"
+    },
+    {
+      "row_id": "P173757-A1-E2",
+      "approach_id": "P173757-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P173757",
+      "doc_id": "526871586986148125",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-15",
+      "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+      "unit_id": "U25",
+      "para_no": null,
+      "sentence_position": 232,
+      "char_start": 37309,
+      "char_end": 37429,
+      "sentence": "(b) implementing active case identification and contact tracing; and (c) implementing screening at Points of Entry (i.e.",
+      "practice": "COVID-19 surveillance system with active case detection, contact tracing and point-of-entry screening",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: COVID-19 surveillance and tracing system | Not routine: new emergency detection infrastructure | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: COVID-19 surveillance system | New: emergency detection/tracing infrastructure | Category: Technological surveillance system",
+      "keywords_hit": "information system;management information system",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: activated COVID-19 surveillance system | New: emergency case detection and tracing infrastructure | Adoption: 'will include'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9ca9fba2"
+    },
+    {
+      "row_id": "P173757-A1-E3",
+      "approach_id": "P173757-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P173757",
+      "doc_id": "526871586986148125",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-15",
+      "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+      "unit_id": "U25",
+      "para_no": null,
+      "sentence_position": 233,
+      "char_start": 37430,
+      "char_end": 37471,
+      "sentence": "IHR- designated air, land and sea ports).",
+      "practice": "COVID-19 surveillance system with active case detection, contact tracing and point-of-entry screening",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: COVID-19 surveillance and tracing system | Not routine: new emergency detection infrastructure | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: COVID-19 surveillance system | New: emergency detection/tracing infrastructure | Category: Technological surveillance system",
+      "keywords_hit": "information system;management information system",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: activated COVID-19 surveillance system | New: emergency case detection and tracing infrastructure | Adoption: 'will include'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9ca9fba2"
+    },
+    {
+      "row_id": "P173757-A1-E4",
+      "approach_id": "P173757-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P173757",
+      "doc_id": "526871586986148125",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-15",
+      "file_name": "P173757_PAD_2020-04-15_526871586986148125.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 272,
+      "char_start": 44718,
+      "char_end": 45112,
+      "sentence": "Specifically, support will be provided to the following activities: (a) EOC: Support for expanding the scope and improving the functionality of the Public Health EOC, including, inter alia, upgrading the system for epidemiology intelligence, information gathering and use, and rapid response, improving risk communication and community engagement, and capacity building of DGHS including IEDCR.",
+      "practice": "Public Health Emergency Operations Center epidemiology intelligence system upgrade",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: EOC epidemiology intelligence system | Not routine: upgraded emergency response platform | Adoption: 'support will be provided'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EOC epidemiology intelligence system | New: upgraded emergency response platform | Category: Technological",
+      "keywords_hit": "health information system;information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: upgraded EOC epidemiology intelligence system - cue: 'upgrading'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9ca9fba2"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 229,
+      "char_start": 37061,
+      "char_end": 37217,
+      "sentence": "Additional support could be provided to strengthen health management information systems to facilitate recording and on-time virtual sharing of information.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Health management information systems for real-time virtual data sharing",
+      "reason": "reject: HMIS strengthening is routine health-system support; 'could be provided' is tentative, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: real-time virtual information sharing via HMIS - cue: 'could be provided'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "HMIS strengthening is routine health-system support; 'could be provided' is tentative, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1501
+        }
+      ]
+    },
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 273,
+      "char_start": 45113,
+      "char_end": 45426,
+      "sentence": "(b) District-level surveillance capacity: Enhancing the health emergency surveillance capacity of district health system and tertiary care level hospitals, through: (a) improving the functionality of epidemiology units; and (b) supporting the District Health Information System (DHIS2) to enable timely reporting.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "District Health Information System (DHIS2) for timely surveillance reporting",
+      "reason": "reject: Supporting existing DHIS2 reporting is routine health information system operation, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: DHIS2-enabled timely district reporting - cue: 'supporting'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Supporting existing DHIS2 reporting is routine health information system operation, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1481
+        }
+      ]
+    },
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 274,
+      "char_start": 45427,
+      "char_end": 45767,
+      "sentence": "(c) Stockpiling of critical medical supplies: This will include support for stockpiling of critical medical supplies and vaccines, including enhancing forecasting capability, strengthening of sub-national distribution channels, developing inventory systems, and provision of therapeutic medicines and vaccines (once these become available).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Inventory systems for stockpiling critical medical supplies",
+      "reason": "reject: Inventory and forecasting systems for stockpiles are standard supply-chain practice, not innovative",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: inventory and forecasting systems for supplies - cue: 'developing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Inventory and forecasting systems for stockpiles are standard supply-chain practice, not innovative",
+          "reject_code": "not_innovative",
+          "context_chars": 1481
+        }
+      ]
+    },
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 284,
+      "char_start": 46896,
+      "char_end": 47034,
+      "sentence": "This will also include information, communication and technology, artificial intelligence-based telemedicine and mobile-health approaches.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "AI-based telemedicine and mobile-health approaches",
+      "reason": "reject: Single passing mention in M&E component; no financed AI telemedicine activity described",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: AI-based telemedicine and mobile health - cue: 'artificial intelligence-based'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Single passing mention in M&E component; no financed AI telemedicine activity described",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1266
+        }
+      ]
+    },
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 595,
+      "char_start": 92407,
+      "char_end": 92523,
+      "sentence": "The proposed project will incorporate best international practices for dealing with such data in such circumstances.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Data protection principles for COVID-19 personal health data",
+      "reason": "reject: Data protection principles are safeguard-type measures, not a new digital product or service",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: data governance safeguards for emergency health data - cue: 'best international practices'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Data protection principles are safeguard-type measures, not a new digital product or service",
+          "reject_code": "not_innovative",
+          "context_chars": 1626
+        }
+      ]
+    },
+    {
+      "guid": "526871586986148125",
+      "doc_type": "PAD",
+      "position": 597,
+      "char_start": 93002,
+      "char_end": 93436,
+      "sentence": "In practical terms, the proposed project will ensure that these principles apply through assessments of existing or development of new data governance mechanisms and data standards for emergency and routine healthcare, data sharing protocols, rules or regulations, revision of relevant regulations, training, sharing of global experience, unique identifiers for health system clients, strengthening of health information systems, etc.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Unique identifiers and data standards for health system clients",
+      "reason": "reject: List of data governance measures and identifiers without a specific named system or mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New system: unique health client identifiers and data standards - cue: 'unique identifiers'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "List of data governance measures and identifiers without a specific named system or mechanism",
+          "reject_code": "generic",
+          "context_chars": 1816
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 6,
+    "input_tokens": 4640,
+    "cached_tokens": 15232,
+    "cache_write_tokens": 0,
+    "output_tokens": 2064,
+    "seconds": 17.1,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.004
+  }
+}

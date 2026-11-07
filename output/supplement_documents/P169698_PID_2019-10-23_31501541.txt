@@ -1,0 +1,395 @@
+﻿          The World Bank
+          Log-In Georgia (P169698)
+
+
+
+
+                           Project Information Document (PID)
+
+                          Concept Stage | Date Prepared/Updated: 11-Oct-2019 | Report No: PIDC26547
+
+
+
+
+October 8, 2019                                                                                       Page 1 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                       Project ID                 Parent Project ID (if any)   Project Name
+  Georgia                                       P169698                                                 Log-In Georgia
+                                                                                                        (P169698)
+  Region                                        Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  EUROPE AND CENTRAL ASIA                       Apr 01, 2020               Sep 29, 2020                 Digital Development
+
+  Financing Instrument                          Borrower(s)                Implementing Agency
+  Investment Project Financing                  Ministry of Finance        Ministry of Economy and
+                                                                           Sustainable Development,
+                                                                           Open Net NNLE
+
+    Proposed Development Objective(s)
+
+     To expand access to affordable broadband, and to promote its use by households and businesses, with a focus on rural
+     areas.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+    SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                    70.00
+    Total Financing                                                                                                       70.00
+                            of which IBRD/IDA                                                                             35.00
+    Financing Gap                                                                                                           0.00
+
+    DETAILS   -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+        International Bank for Reconstruction and Development (IBRD)                                                      35.00
+
+    Non-World Bank Group Financing
+        Counterpart Funding                                                                                               35.00
+
+           Borrower/Recipient                                                                                             35.00
+
+
+
+
+October 8, 2019                                                                                                          Page 2 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+  Environmental and Social Risk Classification                        Concept Review Decision
+   Moderate                                                           Track II-The review did authorize the preparation to
+                                                                      continue
+
+
+  B. Introduction and Context
+
+
+  Country Context
+
+        Investments into Georgia’s digital development will help sustainable and inclusive economic growth. Georgia’s
+        economic growth has been strong over the past decade, supported through improving governance and an
+        improved business environment through far�?reaching reforms. Maintaining this will need deeper integration with
+        the global marketplace for its firms, and greater levels of inclusion for all its people to equalize access to economic
+        opportunities. Strategic investments into digital infrastructures—directly or facilitated by the government—will
+        improve rural and international connectivity. These digital infrastructures would also enable a wider range of
+        digital opportunities, and more innovative services, that could position Georgia’s households, firms, and people to
+        integrate more with the national and global economy.
+
+        A key development challenge facing Georgia is income inequality and a lack of economic opportunities,
+        especially for young people and in rural areas. Georgia’s economy has grown significantly over the past decade.
+        However, poverty and inequality remain high in rural areas and among ethnic minorities; roughly one in every five
+        Georgians is still poor, and almost half the poor population is vulnerable to falling into poverty. Average household
+        income in Georgia is currently at USD 5,328 (GEL 13,328) per annum, however rural households in Georgia earn 20
+        percent lesser than urban households on average, and the gap on a per capita basis is 23 percent. And economic
+        opportunities for young people, and rural inhabitants are constrained. Many jobs are low�?productivity, requiring
+        low�?level skills. While agriculture continues to employ half the population, its contribution to GDP is less than 10
+        percent. High-productivity economic activity and investments are also concentrated in urban centers–creating
+        fragmented islands of progress, while the rural hinterlands lag; for instance, Tbilisi received 78 percent of total
+        Foreign Direct Investment (FDI) in 2018. Young people with higher levels of education face unemployment due to
+        skills mismatches, and many of them living in rural areas consider moving to the larger cities and especially the
+        capital, Tbilisi as the only way to access educational or work opportunities.
+
+        Georgia’s efforts to integrate with the global marketplace—essential for sustainable growth—are hampered due
+        to poor connectivity, posing another challenge to sustainable economic growth. The country’s strategic location
+        and conducive business environment (ranked 6th in ease of doing business globally) are pre-requisites for logistics
+        and international trade to develop. However, Georgia needs improvements in hard and soft connectivity—
+        transport, logistics, and digital—to bring down the costs of trade and promote greater integration. Efforts to boost
+        trade, attract Foreign Direct Investment (FDI), and maximize the potential for tourism, especially outside of the
+        main cities, could be hindered by gaps in digital connectivity within the country or linking it with global markets.
+        Digital development will help Georgia to integrate further with the global economy and boost its citizens’ social
+        and economic inclusion.
+
+
+
+
+October 8, 2019                                                                                                          Page 3 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+  Sectoral and Institutional Context
+
+        Georgia continues to champion the expansion of its digital economy. Since 2013, the Government has put
+        national digital and related initiatives in its programs: to support innovation and the use of technology across the
+        economy, to expand access to internet services, and build digital skills among students and young people.
+        Alongside, the private sector and citizens have played an important part in the country’s digital development.
+        However, strategic public interventions are needed to deepen digital inclusion, and for Georgia to keep in step with
+        and integrate with the rapidly developing global digital economy.
+
+        The digital connectivity market is competitive and driven by private investments. Access to and use of broadband
+        internet—a sine qua non for full participation in the digital economy—has developed at a steady pace driven by
+        private sector investment, and sector regulation that evolved with international good practices to promote a pro-
+        competition enabling environment. Broadband adoption is on the rise with 67 percent of households subscribing
+        to fixed broadband services, and mobile broadband connections accounting for over 50 percent of total mobile
+        subscriptions. Globally, this positions Georgia relatively well in its income grouping, but with scope to catch up with
+        European Union (EU) members and global leaders.
+
+        However, a rural-urban digital divide has emerged—potentially limiting inclusion in the digital economy. While
+        83 percent of urban households connect to fixed broadband services, in rural areas the figure drops to 52 percent.
+        Part of this is due to limited network coverage; wireless networks cover most of the population but offer limited
+        speeds in rural areas in practice; repeated consultations with individuals and businesses in rural areas has shown
+        that they do not view the quality of mobile internet services as enough for their needs. Wireline broadband
+        networks (using fiber optic or cable networks) are limited in their reach outside of urban areas.
+
+        Low affordability also contributes to the urban-rural digital divide, and limits adoption of services even where
+        available. An analysis of consumption deciles—which splits households into ten equally-sized groups based on
+        consumption levels—provides a view as to the extent of affordability of fixed broadband connectivity. If an
+        affordable fixed broadband connection should cost less than 2 percent of monthly consumption, at current prices
+        (about GEL 30 for 25 Mbps) and consumption levels, less than 20 percent of households can afford such a
+        connection.
+
+        The digital divide in access to broadband services between urban and rural areas exists extends to internet use
+        by individuals and businesses as well. A digital divide threatens to widen the existing spatial inequalities, and risks
+        widening divides along demographic lines such as gender, language, and age while limiting access to economic
+        opportunities (through markets, information, services) for rural businesses and individuals. Promoting digital
+        inclusion could help increasing rural and marginalized populations’ access to economic opportunities, employment,
+        and markets.
+
+        Planned policies and regulations will open markets, but public support may be necessary to close remaining
+        access gaps. The retail market has over 150 Internet Service Providers (ISPs) and 3 Mobile Network Operators
+        (MNO). While entry barriers to the ISP market are low, the market is concentrated: the top 2 ISPs have 76 percent
+        market share by subscribers, with potential implications for prices, and the quality and coverage of service. Private
+        investment to deepen rural connectivity has been growing but the pace is unclear, and the quality of services to be
+        delivered is limited. The industry regulator, the Georgian National Communications Commission (GNCC), has been
+        taking measures to boost competitive pressure, attract investment, and improve affordability. However, there is
+        consensus among sector stakeholders (government agencies and service providers) that public support is needed
+        to boost investment in rural areas. Such support is needed especially in high-cost and low-revenue areas, and
+
+October 8, 2019                                                                                                         Page 4 of 9
+            The World Bank
+            Log-In Georgia (P169698)
+
+
+        where infrastructure improvements will need to be complemented by programs that improve digital literacy, the
+        skills of individuals and businesses, and the promotion of valued use-cases of that connectivity.
+
+        Availability of digital infrastructure—connectivity networks and IT platforms—of international standards is
+        essential for Georgia to be competitive in the global digital economy. Georgia is in an acceleration phase for
+        digital economy development and is reflected in various global indices and rankings. Georgia’s digital economy can
+        grow as priority sectors logistics, international trade, tourism, education, and health become increasingly digital.
+        Georgia also has an ambition to become a more attractive transit point and digital hub on the internet, building on
+        its connections to Europe, eastwards to Asia as connections are made in the future (through other unrelated
+        private and public projects) via the Caspian Sea to Central Asia and China, and via Armenia to the Middle East and
+        South Asia. Georgian businesses will then benefit by taking a share of the significant data transit business
+        connecting Europe to Asia. As a digital hub, Georgia will need a data center of international standards to attract
+        top tier international carriers and content providers to locate there. Improved (international) digital connectivity to
+        Europe will also make Georgia a more attractive transit point.
+
+        Sector institutional context and development strategy
+
+        The sector institutional context is in line with international good practices, but with scope for improved
+        institutional coordination. Georgia has an association agreement with the EU and is a member of the World Trade
+        Organization (WTO). The line ministry, the Ministry of Economy and Sustainable Development (MOESD), oversees
+        the information and communication technology sector through a dedicated department. The industry regulator,
+        the GNCC is organizationally, financially, and structurally independent from the Government. The legal framework
+        broadly aligns with global best practices and is slowly transposing EU practices in line with Association Agreement
+        commitments. In 2015, the Government set up a National Program on Broadband Infrastructure Development and
+        created a dedicated organization, Open Net, for its implementation. Many other agencies and ministries
+        implement programs related to the broader even if undefined digital agenda. This includes the ministries for
+        education, justice, finance, regional development, health, among others. But the absence of an overarching digital
+        strategy or oversight agent diminishes coordination among these organizations. This leads to suboptimal resources
+        utilization, information gaps, and may also increase transaction costs for (especially foreign) investors.
+
+        Global experiences have highlighted certain common themes underpinning well-functioning broadband and
+        digital ecosystems, and policy responses to stimulate market development along those themes. The World
+        Bank’s recommendations on a national broadband development strategy identify the following themes to develop
+        Georgia’s broadband market, to achieve digital inclusion and global integration objectives –
+
+        •     Increase competitive pressure in different segments of the broadband value chain to improve market
+              efficiency, and in turn affordability
+        •     Attract investment to expand networks to rural areas, densify in urban areas, develop IT infrastructure, and
+              improve quality of service
+        •     Build digital skills and demand among users, to improve the business case for investors, and increase more
+              specific uses of broadband that maximize economic impact.
+
+
+
+
+October 8, 2019                                                                                                         Page 5 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+     Relationship to CPF
+
+         The proposed Project supports the World Bank Group’s (WBG) Country Partnership Framework (CPF) through its
+         focus on including more households and businesses across Georgia in the digital economy, and through its
+         activities to deepen Georgia’s integration in the global digital economy. By expanding access to affordable
+         broadband services in rural areas and mobilizing private financing for digital infrastructures, the proposed Project
+         directly supports Focus Area 1 of the CPF (Enhance Inclusive Growth and Competitiveness), specifically Objective
+         1.2 (improve connectivity and integration) and Objective 1.4 (increase economic participation in the regions).
+
+         The Project will also aim to promote the diffusion of specific use cases that would arise from Georgia and its
+         villages being better connected. Through these efforts, it could support a secondary set of CPF objectives including
+         improve access to markets (Objective 1.1) and to financial services (Objective 1.3) via activities that seek to
+         increase people’s use of related digital tools (e.g. e-trade, digital financial services). The Project could also support
+         human capital development (CPF Focus Area 2), for example, by connecting schools and hence supporting the
+         education system for improved quality and relevance (Objective 2.1) or delivering information services to
+         complement the health care delivery system (Objective 2.2).
+
+     C. Proposed Development Objective(s)
+
+     To expand access to affordable broadband, and to promote its use by households and businesses, with a focus on rural
+     areas.
+
+     Key Results (From PCN)
+
+
+                  Outcome                                                         Indicator (PDO-level)
+     Increased broadband internet          Number of new broadband subscriptions in Project areas;
+     adoption                              Private sector investment mobilized (USD), for digital inclusion (Component 1)
+     Improved affordability of             Average price of entry-level broadband plan (30 Mbps) as percentage of monthly
+     internet                              household income1
+     Promoting Internet use by             Share of individuals in project areas using Internet for specific purposes;2
+     individuals and businesses            Share of businesses using internet for specific purposes3
+                                           Private sector investment mobilized (USD), for digital integration (Component 2)
+
+     D. Concept Description
+
+       Using IBRD and the Government’s budget resources, this Project will finance activities that support digital inclusion
+       of individuals and businesses and that enable the deeper integration of Georgia in the global digital economy.
+
+       Component 1: Digital Inclusion
+
+       This component will finance activities that will increase access to affordable, high-quality broadband services for all
+
+ 1 Plan prices would be sourced from periodic data collected by GNCC
+ 2 These could include (per existing GeoStat surveys) the following purposes: Seeking health-related information; Finding information about goods
+ or services; Looking for a job or sending a job application; Internet Banking
+ 3 These could include (per existing GeoStat surveys) the following purposes: having their own website; Using e-commerce in any part of their
+
+ business; Receiving orders over the internet; etc.
+
+October 8, 2019                                                                                                                           Page 6 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+      individuals and institutions across Georgia, with a focus on rural areas. It will support the Government’s National
+      Program for Broadband Development (known as Open Net). The Program aims to connect villages to very high
+      capacity broadband networks, where those villages will not be connected to such networks in a reasonable
+      timeframe via private initiative alone. The component will finance works for laying of the optical fiber cable (OFC) as
+      well as training, technical assistance, and capacity building for legal and regulatory reforms necessary for market
+      development. This will help make services more affordable by reducing cost of investments and increasing
+      competitive pressure in the market. And the component will advance digital inclusion of households, individuals,
+      and businesses in the included villages, and promote productive use-cases of their internet connectivity. These
+      activities will identify and address the risk of digital exclusion, including due to social, demographic, gender, or
+      accessibility barriers.
+
+      Component 2: Digital Integration
+
+      Georgia seeks to position itself as a digital hub. For this, it can leverage its strategic location and positive business
+      climate to attract private investment to create the needed digital infrastructure and services required. An initial
+      assessment at Project identification and related analytical work suggest that high-priority needs include: (1) a data
+      center facility of international standard that can support priority sectors and Government and (2) a redundancy data
+      route to Europe via a direct international submarine fiber optic cable. Given the strong possibility of private
+      participation in the financing and operation of these facilities, this component (in potential coordination with the
+      IFC) will help to mobilize finance for development in the creation of these facilities. At this time, the Project support
+      is foreseen for upstream feasibility studies of these infrastructures (the data center, and the submarine cable) to
+      determine if and how much public support (in-kind or financial; for construction or use) may be needed to make
+      these bankable. At this time, based on preliminary assessments, it is likely that provision of premises for the data
+      center will be financed, with the possibility of concurrent private investments, while the construction of the
+      submarine cable will not be covered by the Project. There is also a need for coordination within the Government to
+      maximize the use of these facilities while supporting Georgia’s digital agenda and the Project aims to facilitate it.
+
+      Component 3: Project Implementation Support
+
+      This component will support the management and implementation of the Project and associated activities, including
+      capacity building. This could include hiring of expert consultants needed for key areas such as project management,
+      technical expertise, procurement, financial management, environment and social protection, monitoring and
+      evaluation, communications, citizen and stakeholder engagement, to enable Project implementation.
+
+
+  Legal Operational Policies                                                               Triggered?
+  Projects on International Waterways OP 7.50                                              No
+  Projects in Disputed Areas OP 7.60                                                       No
+
+   Summary of Screening of Environmental and Social Risks and Impacts
+  .
+
+  .
+
+
+
+
+October 8, 2019                                                                                                         Page 7 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+  CONTACT POINT
+
+
+  World Bank
+   Siddhartha Raja
+   Senior Digital Development Specialist
+
+
+  Borrower/Client/Recipient
+   Ministry of Finance
+   Nikoloz Gagua
+   Deputy Minister of Finance
+   N.Gagua@mof.ge
+
+  Implementing Agencies
+   Ministry of Economy and Sustainable Development
+   Eka Kubusidze
+   Head of Telecommunications, Information and Modern Technolog
+   ekubusidze@moesd.gov.ge
+
+
+   Nikoloz Alavidze
+   Deputy Minister
+   nalavidze@moesd.gov.ge
+
+   Open Net NNLE
+   Nino Kubinidze
+   Director+995 322 400178
+   nkubinidze@opennet.ge
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+   Task Team Leader(s):                    Siddhartha Raja
+
+
+October 8, 2019                                                   Page 8 of 9
+          The World Bank
+          Log-In Georgia (P169698)
+
+
+
+  Approved By
+  APPROVALTBL
+  Environmental and Social Standards
+  Advisor:
+   Practice Manager/Manager:
+
+   Country Director:
+
+
+
+
+October 8, 2019                        Page 9 of 9
+

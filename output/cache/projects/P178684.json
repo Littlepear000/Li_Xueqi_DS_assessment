@@ -1,0 +1,1091 @@
+{
+  "project_id": "P178684",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "b45b7f34",
+  "started_at": "2026-11-07T03:35:26Z",
+  "ended_at": "2026-11-07T03:35:51Z",
+  "input_fingerprint": "e85d07969659e5ab",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 20,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P178684-A1",
+      "project_id": "P178684",
+      "name": "Smart Labs with preloaded digital content and devices in schools",
+      "description": "The project equips schools with Smart Labs of digital devices, projectors, local networks and solar charging, preloaded with digital textbooks and science content. Practices: Smart Labs with preloaded digital textbooks and science labs; Smart Labs with teacher and student digital devices in schools.",
+      "why_innovative": "New service: solar-powered digital classroom package in schools - cue: 'Smart Lab' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099000503102331114",
+        "doc_type": "PAD",
+        "doc_date": "2023-03-07",
+        "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+        "char_start": 67678,
+        "char_end": 67808,
+        "text": "The project will finance the procurement of IT equipment for a multi-purpose Smart Lab in approximately 388 schools in two phases.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 68155,
+          "char_end": 68361,
+          "text": "The Smart Lab will include digital devices, projectors, local network equipment, a solar charging system (if the school is not connected to the electrical grid), and other necessary equipment and materials.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 68362,
+          "char_end": 68702,
+          "text": "The student devices will be preloaded with digital textbooks and digital science labs developed under this sub-component, and teacher devices will be preloaded with teacher guides with structured lessons, teaching-learning resources and teacher professional development content also developed under this sub-component and sub-component 2.2.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 165363,
+          "char_end": 165470,
+          "text": "Number of schools that have been equipped with a Official Smart Lab with project Three reception financing.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 165471,
+          "char_end": 165781,
+          "text": "The SMART lab times, in Consultation of IT in Education Specialist Number of Smart Labs provided under the documents will include digital devices Years 2, 3 reception documents. of the PCT. project at school for both the teacher and and 4. level. students; as well as any other equipment as defined in the PIM.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the digital lab hardware and content are the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Equipping schools with digital labs and content directly supports education service delivery.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166763",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "s noted above. 68. The project will build on reforms initiated and lessons learned from the World Bank education portfolio in DRC. As noted above, the project complements and benefits from other World Bank-financed operations, including the DRC gender-based violence prevention and response project, P166763. (P166763). These relations are captured in Figure 3 below. Page 26 of 74 The World Bank DRC"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: Smart Lab devices preloaded with digital textbooks | Innovative: solar-charged bundled digital classroom | Category: technology deployment",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: solar-powered digital classroom package in schools - cue: 'Smart Lab'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P178684-A2",
+      "project_id": "P178684",
+      "name": "ICT monitoring tool and Allô Ecole mobile reporting platform",
+      "description": "Inspectors use an annual ICT monitoring tool to track digital package adoption, while teachers and parents report fund misuse through the Allô Ecole mobile platform. Practices: ICT monitoring tool tracking adoption of digital package; Allô Ecole mobile platform for reporting fund misuse.",
+      "why_innovative": "New process: inspector-run ICT adoption monitoring for course correction - cue: 'course-correction' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099000503102331114",
+        "doc_type": "PAD",
+        "doc_date": "2023-03-07",
+        "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+        "char_start": 69195,
+        "char_end": 69558,
+        "text": "Technical assistance will also be funded to: (i) support the development of an ICT in education policy and strategy to guide technology investments and align them with key education goals and the medium-term expenditure framework, and to develop a policy pertaining to student and teacher data security and privacy; and (ii) develop an annual ICT monitoring tool.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 69559,
+          "char_end": 69961,
+          "text": "The project will finance the training of inspectors in the five core focus provinces in the use of the tool, as well as logistics support to conduct a monitoring exercise during at least two years to determine the adoption and use of the digital package supported by the project, and to identify challenges and provide course-correction recommendations that will inform the roll-out of phase 2 schools.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 146771,
+          "char_end": 147225,
+          "text": "Mitigation measures will include rigorous monitoring of fund use with efficient traceability; periodic report submissions and internal controls; an external annual audit of project financial statements; use of the mobile platform Allô Ecole through which teachers, parents and other stakeholders will be able to report misuse of funds, which in turn will be subject to a case management protocol; and frequent World Bank fiduciary implementation support.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: changes how roll-out is monitored and adjusted",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Inspector monitoring tool strengthens education administration and oversight.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166763",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "s noted above. 68. The project will build on reforms initiated and lessons learned from the World Bank education portfolio in DRC. As noted above, the project complements and benefits from other World Bank-financed operations, including the DRC gender-based violence prevention and response project, P166763. (P166763). These relations are captured in Figure 3 below. Page 26 of 74 The World Bank DRC"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: annual ICT monitoring tool | Innovative: inspector-run adoption tracking feeds phase 2 roll-out | Category: course-correction process",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: inspector-run ICT adoption monitoring for course correction - cue: 'course-correction'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P178684-A3",
+      "project_id": "P178684",
+      "name": "Digital devices loaded with classroom observation instrument",
+      "description": "Supplies inspectors and school heads with devices preloaded with observation instrument and pedagogical resources for feedback.",
+      "why_innovative": "New tool: device-based classroom observation instrument - cue: 'loaded with' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099000503102331114",
+        "doc_type": "PAD",
+        "doc_date": "2023-03-07",
+        "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+        "char_start": 74519,
+        "char_end": 74699,
+        "text": "For each REP, the project will also fund the supply of a digital device for the trained inspector; and for each school, a digital device each for a CUP and the director of studies.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 75092,
+          "char_end": 75256,
+          "text": "Each device will be loaded with the classroom observation instrument (developed under component 3), as well as the associated pedagogical resources mentioned above.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099000503102331114",
+          "doc_type": "PAD",
+          "doc_date": "2023-03-07",
+          "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+          "char_start": 74700,
+          "char_end": 74821,
+          "text": "They will be trained using project funds on how to use the device to conduct classroom observations and provide feedback.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the digital observation instrument is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Observation instruments for inspectors and school heads serve education administration.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166763",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "s noted above. 68. The project will build on reforms initiated and lessons learned from the World Bank education portfolio in DRC. As noted above, the project complements and benefits from other World Bank-financed operations, including the DRC gender-based violence prevention and response project, P166763. (P166763). These relations are captured in Figure 3 below. Page 26 of 74 The World Bank DRC"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: devices preloaded with observation instrument | Innovative: digitized classroom observation feedback | Category: technology tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New tool: device-based classroom observation instrument - cue: 'loaded with'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178684",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "guid": "099000503102331114",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:26Z",
+      "ended_at": "2026-11-07T03:35:29Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:29Z",
+      "ended_at": "2026-11-07T03:35:29Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-03-28, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:29Z",
+      "ended_at": "2026-11-07T03:35:31Z",
+      "status": "ok",
+      "note": "20 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 20,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 6,
+          "enabling_processes": 1,
+          "innovation_cycle": 6,
+          "results_based_management": 3,
+          "innovation": 2,
+          "enabling_technologies": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:31Z",
+      "ended_at": "2026-11-07T03:35:31Z",
+      "status": "ok",
+      "note": "PAD 2023-03-07 (P178684_PAD_2023-03-07_099000503102331114.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178684",
+            "doc_type": "PAD",
+            "doc_date": "2023-03-07",
+            "guid": "099000503102331114",
+            "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:31Z",
+      "ended_at": "2026-11-07T03:35:31Z",
+      "status": "ok",
+      "note": "158 reading units (10 numbered paragraphs) from 1210 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 158
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:31Z",
+      "ended_at": "2026-11-07T03:35:33Z",
+      "status": "ok",
+      "note": "47 of 158 units carry a digital / AI cue (9 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 47,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 9
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:33Z",
+      "ended_at": "2026-11-07T03:35:38Z",
+      "status": "ok",
+      "note": "11 candidate practices from 47 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 149947,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 1013,
+          "cached_tokens": 31104,
+          "cache_write_tokens": 0,
+          "output_tokens": 2311,
+          "seconds": 16.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0033
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:35:38Z",
+      "ended_at": "2026-11-07T03:35:44Z",
+      "status": "ok",
+      "note": "6 accepted, 5 rejected (not_digital 4, not_innovative 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 77934,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 9944,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 876,
+          "seconds": 6.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0041
+        },
+        "accepted": 6,
+        "rejected": 5,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 4,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:35:44Z",
+      "ended_at": "2026-11-07T03:35:47Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1924,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 409,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 210,
+          "seconds": 2.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:35:47Z",
+      "ended_at": "2026-11-07T03:35:49Z",
+      "status": "ok",
+      "note": "6 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1701,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 387,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 123,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 2,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:35:49Z",
+      "ended_at": "2026-11-07T03:35:51Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8672,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1309,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 249,
+          "seconds": 2.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:35:51Z",
+      "ended_at": "2026-11-07T03:35:51Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 11 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:35:51Z",
+      "ended_at": "2026-11-07T03:35:51Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P166763",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "s noted above. 68. The project will build on reforms initiated and lessons learned from the World Bank education portfolio in DRC. As noted above, the project complements and benefits from other World Bank-financed operations, including the DRC gender-based violence prevention and response project, P166763. (P166763). These relations are captured in Figure 3 below. Page 26 of 74 The World Bank DRC"
+          }
+        ],
+        "store_size": 211
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178684-A1-E1",
+      "approach_id": "P178684-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 381,
+      "char_start": 67678,
+      "char_end": 67808,
+      "sentence": "The project will finance the procurement of IT equipment for a multi-purpose Smart Lab in approximately 388 schools in two phases.",
+      "practice": "Smart Labs with preloaded digital textbooks and science labs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Education",
+      "extractor_reason": "Digital core: Smart Lab devices and content | Not routine: bundled solar-powered digital classroom | Adoption: 'will finance the procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Smart Lab devices preloaded with digital textbooks | Innovative: solar-charged bundled digital classroom | Category: technology deployment",
+      "keywords_hit": "digital skills",
+      "innovation_cues": "",
+      "innovation_basis": "New service: solar-powered digital classroom package in schools - cue: 'Smart Lab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A1-E2",
+      "approach_id": "P178684-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 383,
+      "char_start": 68155,
+      "char_end": 68361,
+      "sentence": "The Smart Lab will include digital devices, projectors, local network equipment, a solar charging system (if the school is not connected to the electrical grid), and other necessary equipment and materials.",
+      "practice": "Smart Labs with preloaded digital textbooks and science labs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Education",
+      "extractor_reason": "Digital core: Smart Lab devices and content | Not routine: bundled solar-powered digital classroom | Adoption: 'will finance the procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Smart Lab devices preloaded with digital textbooks | Innovative: solar-charged bundled digital classroom | Category: technology deployment",
+      "keywords_hit": "digital skills",
+      "innovation_cues": "",
+      "innovation_basis": "New service: solar-powered digital classroom package in schools - cue: 'Smart Lab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A1-E3",
+      "approach_id": "P178684-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 384,
+      "char_start": 68362,
+      "char_end": 68702,
+      "sentence": "The student devices will be preloaded with digital textbooks and digital science labs developed under this sub-component, and teacher devices will be preloaded with teacher guides with structured lessons, teaching-learning resources and teacher professional development content also developed under this sub-component and sub-component 2.2.",
+      "practice": "Smart Labs with preloaded digital textbooks and science labs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Education",
+      "extractor_reason": "Digital core: Smart Lab devices and content | Not routine: bundled solar-powered digital classroom | Adoption: 'will finance the procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Smart Lab devices preloaded with digital textbooks | Innovative: solar-charged bundled digital classroom | Category: technology deployment",
+      "keywords_hit": "digital skills",
+      "innovation_cues": "",
+      "innovation_basis": "New service: solar-powered digital classroom package in schools - cue: 'Smart Lab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A1-E4",
+      "approach_id": "P178684-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U117",
+      "para_no": null,
+      "sentence_position": 937,
+      "char_start": 165363,
+      "char_end": 165470,
+      "sentence": "Number of schools that have been equipped with a Official Smart Lab with project Three reception financing.",
+      "practice": "Smart Labs with teacher and student digital devices in schools",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Education",
+      "extractor_reason": "Digital core: Smart Lab devices and equipment | Not routine: school-level digital learning labs | Adoption: 'project financing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Smart Lab devices for teachers and students | Innovative: school-level digital learning labs | Category: technology deployment",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: school-level digital labs for teaching - cue: 'Smart Lab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A1-E5",
+      "approach_id": "P178684-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U117",
+      "para_no": null,
+      "sentence_position": 938,
+      "char_start": 165471,
+      "char_end": 165781,
+      "sentence": "The SMART lab times, in Consultation of IT in Education Specialist Number of Smart Labs provided under the documents will include digital devices Years 2, 3 reception documents. of the PCT. project at school for both the teacher and and 4. level. students; as well as any other equipment as defined in the PIM.",
+      "practice": "Smart Labs with teacher and student digital devices in schools",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Education",
+      "extractor_reason": "Digital core: Smart Lab devices and equipment | Not routine: school-level digital learning labs | Adoption: 'project financing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Smart Lab devices for teachers and students | Innovative: school-level digital learning labs | Category: technology deployment",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: school-level digital labs for teaching - cue: 'Smart Lab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A2-E1",
+      "approach_id": "P178684-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 388,
+      "char_start": 69195,
+      "char_end": 69558,
+      "sentence": "Technical assistance will also be funded to: (i) support the development of an ICT in education policy and strategy to guide technology investments and align them with key education goals and the medium-term expenditure framework, and to develop a policy pertaining to student and teacher data security and privacy; and (ii) develop an annual ICT monitoring tool.",
+      "practice": "ICT monitoring tool tracking adoption of digital package",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: annual ICT monitoring tool | Not routine: feeds phase 2 course-correction | Adoption: 'will finance the training'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: annual ICT monitoring tool | Innovative: inspector-run adoption tracking feeds phase 2 roll-out | Category: course-correction process",
+      "keywords_hit": "connectivity;privacy",
+      "innovation_cues": "",
+      "innovation_basis": "New process: inspector-run ICT adoption monitoring for course correction - cue: 'course-correction'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A2-E2",
+      "approach_id": "P178684-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 389,
+      "char_start": 69559,
+      "char_end": 69961,
+      "sentence": "The project will finance the training of inspectors in the five core focus provinces in the use of the tool, as well as logistics support to conduct a monitoring exercise during at least two years to determine the adoption and use of the digital package supported by the project, and to identify challenges and provide course-correction recommendations that will inform the roll-out of phase 2 schools.",
+      "practice": "ICT monitoring tool tracking adoption of digital package",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: annual ICT monitoring tool | Not routine: feeds phase 2 course-correction | Adoption: 'will finance the training'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: annual ICT monitoring tool | Innovative: inspector-run adoption tracking feeds phase 2 roll-out | Category: course-correction process",
+      "keywords_hit": "connectivity;privacy",
+      "innovation_cues": "",
+      "innovation_basis": "New process: inspector-run ICT adoption monitoring for course correction - cue: 'course-correction'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A2-E3",
+      "approach_id": "P178684-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U106",
+      "para_no": null,
+      "sentence_position": 889,
+      "char_start": 146771,
+      "char_end": 147225,
+      "sentence": "Mitigation measures will include rigorous monitoring of fund use with efficient traceability; periodic report submissions and internal controls; an external annual audit of project financial statements; use of the mobile platform Allô Ecole through which teachers, parents and other stakeholders will be able to report misuse of funds, which in turn will be subject to a case management protocol; and frequent World Bank fiduciary implementation support.",
+      "practice": "Allô Ecole mobile platform for reporting fund misuse",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: Allô Ecole mobile reporting platform | Not routine: citizen misuse reports feed case protocol | Adoption: 'use of the mobile platform'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Allô Ecole mobile reporting platform | Innovative: citizen misuse reports feed case protocol | Category: accountability mechanism",
+      "keywords_hit": "traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: mobile citizen reporting of fund misuse - cue: 'mobile platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A3-E1",
+      "approach_id": "P178684-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 415,
+      "char_start": 74519,
+      "char_end": 74699,
+      "sentence": "For each REP, the project will also fund the supply of a digital device for the trained inspector; and for each school, a digital device each for a CUP and the director of studies.",
+      "practice": "Digital devices loaded with classroom observation instrument",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: observation instrument on devices | Not routine: digitized classroom observation feedback | Adoption: 'will fund the supply'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: devices preloaded with observation instrument | Innovative: digitized classroom observation feedback | Category: technology tool",
+      "keywords_hit": "hosting",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: device-based classroom observation instrument - cue: 'loaded with'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A3-E2",
+      "approach_id": "P178684-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 418,
+      "char_start": 75092,
+      "char_end": 75256,
+      "sentence": "Each device will be loaded with the classroom observation instrument (developed under component 3), as well as the associated pedagogical resources mentioned above.",
+      "practice": "Digital devices loaded with classroom observation instrument",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: observation instrument on devices | Not routine: digitized classroom observation feedback | Adoption: 'will fund the supply'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: devices preloaded with observation instrument | Innovative: digitized classroom observation feedback | Category: technology tool",
+      "keywords_hit": "hosting",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: device-based classroom observation instrument - cue: 'loaded with'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    },
+    {
+      "row_id": "P178684-A3-E3",
+      "approach_id": "P178684-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P178684",
+      "doc_id": "099000503102331114",
+      "doc_type": "PAD",
+      "doc_date": "2023-03-07",
+      "file_name": "P178684_PAD_2023-03-07_099000503102331114.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 416,
+      "char_start": 74700,
+      "char_end": 74821,
+      "sentence": "They will be trained using project funds on how to use the device to conduct classroom observations and provide feedback.",
+      "practice": "Digital devices loaded with classroom observation instrument",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: observation instrument on devices | Not routine: digitized classroom observation feedback | Adoption: 'will fund the supply'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: devices preloaded with observation instrument | Innovative: digitized classroom observation feedback | Category: technology tool",
+      "keywords_hit": "hosting",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: device-based classroom observation instrument - cue: 'loaded with'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "b45b7f34"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 352,
+      "char_start": 61804,
+      "char_end": 62184,
+      "sentence": "In those districts of Kasai province where a social registry has been established (under another World Bank- financed operation, DRC Eastern Recovery Project (P145196), the scholarship will be awarded only to girls from the poorest households; and where the registry has not yet been established, the scholarships will be provided to all girls attending a public secondary school.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Social registry targeting for girls' scholarships",
+      "reason": "reject: Social registry from another project; eligibility rule, no digital system built or used here",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: registry-based eligibility for scholarship awards - cue: 'social registry'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Social registry from another project; eligibility rule, no digital system built or used here",
+          "reject_code": "not_digital",
+          "context_chars": 1340
+        }
+      ]
+    },
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 353,
+      "char_start": 62185,
+      "char_end": 62288,
+      "sentence": "Verification of attendance will be done with the technical assistance (TA) of a contracted third party.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Third-party verified attendance for scholarship disbursement",
+      "reason": "reject: Third-party attendance verification and fund transfer; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: third-party attendance verification before payment - cue: 'verification of attendance'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Third-party attendance verification and fund transfer; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1340
+        }
+      ]
+    },
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 636,
+      "char_start": 110886,
+      "char_end": 111000,
+      "sentence": "The second evaluation will be a DIME-led RCT examining the differential impact of different project interventions.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "DIME-led RCT testing differential impact of project interventions",
+      "reason": "reject: RCT of intervention variants; no digital system or data tool is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: embedded RCT to test intervention variants - cue: 'RCT'",
+      "innovation_cues": "RCT",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "RCT of intervention variants; no digital system or data tool is the core",
+          "reject_code": "not_digital",
+          "context_chars": 1241
+        }
+      ]
+    },
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 644,
+      "char_start": 111449,
+      "char_end": 111556,
+      "sentence": "An independent agency will be contracted to monitor girls’ enrollment and attendance in the Kasai Province.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Independent agency monitoring girls' enrollment and attendance",
+      "reason": "reject: Independent agency verification of enrollment; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: third-party verification of attendance - cue: 'independent'",
+      "innovation_cues": "RCT",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Independent agency verification of enrollment; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1241
+        }
+      ]
+    },
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 941,
+      "char_start": 166463,
+      "char_end": 166619,
+      "sentence": "Official Number of non-SMART Lab reception schools that have been documents equipped with digital at school equipment with project level.Official financing.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital classrooms with teacher devices and projectors",
+      "reason": "reject: Standard classroom IT procurement; duplicate of Smart Lab equipment, no new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: equipped digital classrooms for teaching - cue: 'digital equipment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard classroom IT procurement; duplicate of Smart Lab equipment, no new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1307
+        }
+      ]
+    },
+    {
+      "guid": "099000503102331114",
+      "doc_type": "PAD",
+      "position": 427,
+      "char_start": 76480,
+      "char_end": 76753,
+      "sentence": "First, to support participatory monitoring, the project will finance technical assistance, capacity-building activities and digital equipment to enable members in each beneficiary school community to monitor and provide feedback on project activities and school operations.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Digital devices loaded with classroom observation instrument plus community participatory monitoring equipment for school-level feedback",
+      "reason": "reject: final check round 1: digital: incidental - Digital: devices support participatory monitoring but approach is community accountability | Before 2019: WBG citizen engagement and social accountability programs were standard",
+      "reject_code": "not_digital",
+      "innovation_basis": "Digital devices with observation instrument and community feedback on school operations; participatory monitoring is new in DRC secondary schools",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear what digital equipment or feedback system is financed; text only says 'digital equipment'",
+          "reject_code": "",
+          "context_chars": 1272
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: observation-loaded devices, community feedback equipment | New: school-community digital monitoring | Category: multi-actor school accountability",
+          "reject_code": "",
+          "context_chars": 26325
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: devices support participatory monitoring but approach is community accountability | Before 2019: WBG citizen engagement and social accountability programs were standard",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 13062,
+    "cached_tokens": 36992,
+    "cache_write_tokens": 0,
+    "output_tokens": 3769,
+    "seconds": 30.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0087
+  }
+}

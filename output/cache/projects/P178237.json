@@ -1,0 +1,590 @@
+{
+  "project_id": "P178237",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "3cbd9545",
+  "started_at": "2026-11-07T03:34:21Z",
+  "ended_at": "2026-11-07T03:34:39Z",
+  "input_fingerprint": "018400edc7934877",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 8,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P178237-A1",
+      "project_id": "P178237",
+      "name": "AI satellite and electronic monitoring for fisheries surveillance",
+      "description": "The project uses AI-integrated satellite monitoring, electronic monitoring and automated information systems to collect bycatch data and modernize fisheries control. Practices: AI-integrated satellite monitoring for fisheries bycatch data; Electronic monitoring and IT-based MCS system modernization for fisheries control; automated fisheries information management system modules; real-time electronic monitoring of domestic longliner trips.",
+      "why_innovative": "New service: AI-enhanced satellite monitoring pilot for bycatch data | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099092524172037716",
+        "doc_type": "PAD",
+        "doc_date": "2024-09-19",
+        "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+        "char_start": 42174,
+        "char_end": 42380,
+        "text": "State satellite monitoring program through technological upgrades (i.e., potential offices supported a pilot program for collection of data including artificial intelligence [AI] integration). bycatch data.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099092524172037716",
+          "doc_type": "PAD",
+          "doc_date": "2024-09-19",
+          "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+          "char_start": 42381,
+          "char_end": 42837,
+          "text": "FSM’s economic value from fisheries was increased with improved Development of an implementation plan for the FSM National Oceanic internal processes and systems and more effective control of fishing Fisheries Investment Policy and a review to leverage VDS days through rights through modernization of the MCS system and transparent management actions, increasing economic value of the scheme. information technology [IT] and electronic monitoring systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099092524172037716",
+          "doc_type": "PAD",
+          "doc_date": "2024-09-19",
+          "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+          "char_start": 41761,
+          "char_end": 42173,
+          "text": "VDS supported with a reinforced observer program through VDS strengthened with the development of an information undertaking a functional, operational, and structural review of the management system, including Observer Placement and Observer observer program and expanding the staffing complement, and Recruitment modules and the enhancement of the electronic supporting observer training and awareness programs.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099092524172037716",
+          "doc_type": "PAD",
+          "doc_date": "2024-09-19",
+          "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+          "char_start": 50691,
+          "char_end": 51091,
+          "text": "(2) Strengthened capacity for sector performance; and (3) Strengthened capacity for improved habitat preservation: (1) An operational fisheries monitoring and information management system facilitates dissemination of updated timely data to national and regional stakeholders (yes/no): (i) New automated information management system (IMS)6 modules providing timely access to fisheries data (number);",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099092524172037716",
+          "doc_type": "PAD",
+          "doc_date": "2024-09-19",
+          "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+          "char_start": 51092,
+          "char_end": 51457,
+          "text": "(ii) Domestic longliner trips monitored in real time via an upgraded electronic monitoring7 system Page 7 The World Bank Pacific Islands Regional Oceanscape Program – Second Phase for Economic Resilience: Federated States of Micronesia: (P178237) (percentage); and (iii) States’ coastal fisheries data management systems regularly updated with recent data (number).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: satellite monitoring plus AI is the core data mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Fisheries",
+        "code": "",
+        "confidence": null,
+        "rationale": "Satellite/AI bycatch monitoring directly serves fisheries management.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: satellite monitoring with AI integration | Innovative: pilot AI bycatch data collection | Category: Technological remote sensing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: AI-enhanced satellite monitoring pilot for bycatch data",
+      "innovation_cues": [
+        "pilot"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178237",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "guid": "099092524172037716",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:34:21Z",
+      "ended_at": "2026-11-07T03:34:25Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:34:25Z",
+      "ended_at": "2026-11-07T03:34:25Z",
+      "status": "ok",
+      "note": "in scope (approved 2024-10-15, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:34:25Z",
+      "ended_at": "2026-11-07T03:34:26Z",
+      "status": "ok",
+      "note": "8 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 8,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 3,
+          "enabling_processes": 1,
+          "innovation_cycle": 2,
+          "enabling_technologies": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:34:26Z",
+      "ended_at": "2026-11-07T03:34:26Z",
+      "status": "ok",
+      "note": "PAD 2024-09-19 (P178237_PAD_2024-09-19_099092524172037716.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178237",
+            "doc_type": "PAD",
+            "doc_date": "2024-09-19",
+            "guid": "099092524172037716",
+            "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:34:26Z",
+      "ended_at": "2026-11-07T03:34:26Z",
+      "status": "ok",
+      "note": "39 reading units (20 numbered paragraphs) from 273 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 39
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:34:26Z",
+      "ended_at": "2026-11-07T03:34:27Z",
+      "status": "ok",
+      "note": "11 of 39 units carry a digital / AI cue (2 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 11,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 2
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:34:27Z",
+      "ended_at": "2026-11-07T03:34:30Z",
+      "status": "ok",
+      "note": "6 candidate practices from 11 units in 2 calls",
+      "llm_calls": 2,
+      "input_chars": 49403,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 461,
+          "cached_tokens": 9856,
+          "cache_write_tokens": 0,
+          "output_tokens": 878,
+          "seconds": 7.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0013
+        },
+        "extracted": 6
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:34:30Z",
+      "ended_at": "2026-11-07T03:34:35Z",
+      "status": "ok",
+      "note": "4 accepted, 2 rejected (not_digital 1, not_innovative 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 52152,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 5099,
+          "cached_tokens": 5248,
+          "cache_write_tokens": 0,
+          "output_tokens": 538,
+          "seconds": 4.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0022
+        },
+        "accepted": 4,
+        "rejected": 2,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 1,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:34:35Z",
+      "ended_at": "2026-11-07T03:34:37Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1476,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 323,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 136,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:34:37Z",
+      "ended_at": "2026-11-07T03:34:38Z",
+      "status": "ok",
+      "note": "4 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1616,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 352,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 57,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:34:38Z",
+      "ended_at": "2026-11-07T03:34:39Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4094,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 478,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 76,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:34:39Z",
+      "ended_at": "2026-11-07T03:34:39Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 5 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:34:39Z",
+      "ended_at": "2026-11-07T03:34:39Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 188
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178237-A1-E1",
+      "approach_id": "P178237-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P178237",
+      "doc_id": "099092524172037716",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 223,
+      "char_start": 42174,
+      "char_end": 42380,
+      "sentence": "State satellite monitoring program through technological upgrades (i.e., potential offices supported a pilot program for collection of data including artificial intelligence [AI] integration). bycatch data.",
+      "practice": "AI-integrated satellite monitoring for fisheries bycatch data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: satellite monitoring with AI | Not routine: pilot AI bycatch data collection | Adoption: 'pilot program'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite monitoring with AI integration | Innovative: pilot AI bycatch data collection | Category: Technological remote sensing",
+      "keywords_hit": "AI;artificial intelligence;artificial-intelligence",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: AI-enhanced satellite monitoring pilot for bycatch data",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "3cbd9545"
+    },
+    {
+      "row_id": "P178237-A1-E2",
+      "approach_id": "P178237-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P178237",
+      "doc_id": "099092524172037716",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 224,
+      "char_start": 42381,
+      "char_end": 42837,
+      "sentence": "FSM’s economic value from fisheries was increased with improved Development of an implementation plan for the FSM National Oceanic internal processes and systems and more effective control of fishing Fisheries Investment Policy and a review to leverage VDS days through rights through modernization of the MCS system and transparent management actions, increasing economic value of the scheme. information technology [IT] and electronic monitoring systems.",
+      "practice": "Electronic monitoring and IT-based MCS system modernization for fisheries control",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: electronic monitoring and IT systems | Not routine: upgrades MCS control of fishing rights | Adoption: 'modernization of the MCS system'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: electronic monitoring/IT MCS | Innovative: modernized fisheries control system | Category: technological",
+      "keywords_hit": "AI;artificial intelligence;artificial-intelligence",
+      "innovation_cues": "pilot",
+      "innovation_basis": "Digital core: electronic monitoring and IT systems for MCS | New: modernized control of fishing rights and VDS | Adoption: 'modernization of the MCS system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "3cbd9545"
+    },
+    {
+      "row_id": "P178237-A1-E3",
+      "approach_id": "P178237-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P178237",
+      "doc_id": "099092524172037716",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 222,
+      "char_start": 41761,
+      "char_end": 42173,
+      "sentence": "VDS supported with a reinforced observer program through VDS strengthened with the development of an information undertaking a functional, operational, and structural review of the management system, including Observer Placement and Observer observer program and expanding the staffing complement, and Recruitment modules and the enhancement of the electronic supporting observer training and awareness programs.",
+      "practice": "Electronic monitoring and IT-based MCS system modernization for fisheries control",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: electronic monitoring and IT systems | Not routine: upgrades MCS control of fishing rights | Adoption: 'modernization of the MCS system'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: electronic monitoring/IT MCS | Innovative: modernized fisheries control system | Category: technological",
+      "keywords_hit": "AI;artificial intelligence;artificial-intelligence",
+      "innovation_cues": "pilot",
+      "innovation_basis": "Digital core: electronic monitoring and IT systems for MCS | New: modernized control of fishing rights and VDS | Adoption: 'modernization of the MCS system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "3cbd9545"
+    },
+    {
+      "row_id": "P178237-A1-E4",
+      "approach_id": "P178237-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P178237",
+      "doc_id": "099092524172037716",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "unit_id": "U38",
+      "para_no": 26,
+      "sentence_position": 266,
+      "char_start": 50691,
+      "char_end": 51091,
+      "sentence": "(2) Strengthened capacity for sector performance; and (3) Strengthened capacity for improved habitat preservation: (1) An operational fisheries monitoring and information management system facilitates dissemination of updated timely data to national and regional stakeholders (yes/no): (i) New automated information management system (IMS)6 modules providing timely access to fisheries data (number);",
+      "practice": "automated fisheries information management system modules",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: automated fisheries IMS modules | Not routine: replaces manual data dissemination | Adoption: 'facilitates dissemination'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated IMS modules | Innovative: timely fisheries data dissemination | Category: technological",
+      "keywords_hit": "automated;data management",
+      "innovation_cues": "",
+      "innovation_basis": "New service: automated IMS modules for timely fisheries data - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "3cbd9545"
+    },
+    {
+      "row_id": "P178237-A1-E5",
+      "approach_id": "P178237-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P178237",
+      "doc_id": "099092524172037716",
+      "doc_type": "PAD",
+      "doc_date": "2024-09-19",
+      "file_name": "P178237_PAD_2024-09-19_099092524172037716.txt",
+      "unit_id": "U38",
+      "para_no": 26,
+      "sentence_position": 267,
+      "char_start": 51092,
+      "char_end": 51457,
+      "sentence": "(ii) Domestic longliner trips monitored in real time via an upgraded electronic monitoring7 system Page 7 The World Bank Pacific Islands Regional Oceanscape Program – Second Phase for Economic Resilience: Federated States of Micronesia: (P178237) (percentage); and (iii) States’ coastal fisheries data management systems regularly updated with recent data (number).",
+      "practice": "automated fisheries information management system modules",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: automated fisheries IMS modules | Not routine: replaces manual data dissemination | Adoption: 'facilitates dissemination'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated IMS modules | Innovative: timely fisheries data dissemination | Category: technological",
+      "keywords_hit": "automated;data management",
+      "innovation_cues": "",
+      "innovation_basis": "New service: automated IMS modules for timely fisheries data - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "3cbd9545"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099092524172037716",
+      "doc_type": "PAD",
+      "position": 226,
+      "char_start": 43127,
+      "char_end": 44197,
+      "sentence": "The Sustainable Development of the Inshore - Updating national and state inshore fisheries legislation to strengthen Fisheries and Resources of the FSM Report details proposed investment sustainable management of coastal fisheries options and Investment Project Profiles identified from the results of the SAR. - Enhancing fisheries management data collection through development of protocols for data collection, procurement of equipment, and engaging with small-scale fishers (SSF) for data provision - Economic capacity development through training of SSF on quality control and investigating fish processing units Page 5 The World Bank Pacific Islands Regional Oceanscape Program – Second Phase for Economic Resilience: Federated States of Micronesia: (P178237) - Development of fish aggregating device (FAD) management plans and deployment to shift inshore fishing pressure to offshore - Improving safety at sea through installation of navigational aids and distribution of safety grab bags for licensed SSF, particularly for the transition to offshore FAD fishing.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Small-scale fisher data collection protocols and equipment",
+      "reason": "reject: Data collection protocols and equipment procurement; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: fisher-sourced coastal fisheries data system - cue: 'data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Data collection protocols and equipment procurement; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1359
+        }
+      ]
+    },
+    {
+      "guid": "099092524172037716",
+      "doc_type": "PAD",
+      "position": 268,
+      "char_start": 51458,
+      "char_end": 51666,
+      "sentence": "(2) Minimum number of establishments meeting the requirements for export to the EU market (number) (3) Availability of digitalized datasets on marine health with updated baseline for all four states (number).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "digitalized marine health datasets with baselines for four states",
+      "reason": "reject: Indicator of digitalized baseline datasets; standard data compilation, no new mechanism described",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New product: digitalized marine health baseline datasets - cue: 'digitalized datasets'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator of digitalized baseline datasets; standard data compilation, no new mechanism described",
+          "reject_code": "not_innovative",
+          "context_chars": 2542
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 7,
+    "input_tokens": 6713,
+    "cached_tokens": 15488,
+    "cache_write_tokens": 0,
+    "output_tokens": 1685,
+    "seconds": 15.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0041
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "project_id": "P179242",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "38e6fe46",
+  "started_at": "2026-11-07T03:35:55Z",
+  "ended_at": "2026-11-07T03:36:17Z",
+  "input_fingerprint": "14758ff28f1326ce",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 31,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P179242-A1",
+      "project_id": "P179242",
+      "name": "digital stock assessment tools and AI catch monitoring",
+      "description": "The project deploys data management systems, electronic tags, low-cost radars and AI to collect, analyze and enforce fisheries catch data. Practices: data- and capacity-limited stock assessment tools and fisheries data management systems; electronic tags, low-cost radars and AI for catch reporting and enforcement.",
+      "why_innovative": "New process: data-limited stock assessment methods and data-poor fisheries information systems for management advice | category Technological; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099042723141515937",
+        "doc_type": "PAD",
+        "doc_date": "2023-04-27",
+        "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+        "char_start": 56216,
+        "char_end": 56478,
+        "text": "(b) improving the stock assessments through the implementation and expansion of tools and capacity for the application of data- and capacity-limited approaches to the production of stock assessment and fisheries management advice, at national and regional level;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 56479,
+          "char_end": 56843,
+          "text": "(c) supporting the adoption of sustainable systems and processes for managing and accessing information and statistics on data-poor and capacity-limited fisheries, covering most steps of the fisheries data process, from collection to analysis, as well as data management, and recovering and making available relevant data from previous projects in the SWIO region;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 61067,
+          "char_end": 61486,
+          "text": "This subcomponent will include: (a) applying enhanced catch reporting, innovations such as electronic tags, low-cost radars and artificial intelligence, and undertaking scientific studies to support implementation, periodic evaluation and updating of climate-resilient fisheries management plans already prepared such as the grouper management plan, the diamond squid management plan, and the bait fish management plan;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: data systems and assessment tools are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Fisheries",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly supports fisheries stock assessment and data management systems.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: data-limited stock assessment tools and fisheries data systems | Innovative: data-poor assessment methods | Category: analytical tools, not collaboration",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: data-limited stock assessment methods and data-poor fisheries information systems for management advice",
+      "innovation_cues": [
+        "innovations",
+        "innovative"
+      ]
+    },
+    {
+      "approach_id": "P179242-A2",
+      "project_id": "P179242",
+      "name": "regional fisheries dashboard for data analysis and sharing",
+      "description": "The project builds an operational SWIOFC regional dashboard to analyze and share fisheries data, stock findings and management plan evaluations across SWIO countries. Practices: regional fisheries dashboard for sharing management plan evaluations; regional fisheries dashboard for data analysis and sharing; Regional fisheries database dashboard for stock and M&E data sharing.",
+      "why_innovative": "New delivery arrangement: regional dashboard for cross-country data exchange - cue: 'sharing' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099042723141515937",
+        "doc_type": "PAD",
+        "doc_date": "2023-04-27",
+        "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+        "char_start": 61707,
+        "char_end": 62548,
+        "text": "(c) sharing of evaluation reports from the implementation of aforementioned management plans with all SWIO countries through the regional fisheries dashboard of the SWIOFC, establishing information exchange with maritime fusion centers in the Indian Ocean Region, and organizing annual dialogue forums to determine use and applicability of such plans and actions in other SWIO countries and the likeminded coastal G-16 countries; and (d) preparing and implementing climate-resilient management plans for other important fish stocks in Maldives Page 9 of 48 The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) in due consideration of the principles and methods discussed in the SWIO country dialogue forums and the relevant outputs of the SWIOFC innovative science program.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 136066,
+          "char_end": 137260,
+          "text": "Management in South-West Indian Ocean Region and Maldives Project (P179242) RESULT_FRAME_TBL_ PD O Indicator Name PBC Baseline Intermediate Targets End Target 1 2 3 4 5 (Number) People with improved job- opportunities in the SWIO 0.00 1,250.00 5,600.00 11,300.00 22,700.00 35,000.00 46,150.00 region (Number) Women with improved job-opportunities in the 0.00 500.00 1,150.00 5,600.00 11,100.00 16,600.00 22,450.00 SWIO region (Number) PDO Table SPACE Intermediate Results Indicators by Components RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline Intermediate Targets End Target 1 2 3 4 5 Enhance Evidence-based Management Advice to the Fisheries Sector in the SWIO Region Fisheries management plans implemented (CRI, 0.00 0.00 0.00 1.00 2.00 3.00 4.00 Number) Regional fisheries dashboard to analyze and share data operational No No No Yes Yes Yes Yes (Yes/No) Index on regional research and innovation program 0.00 0.00 1.00 2.00 3.00 5.00 7.00 design and its progress (Number) Beneficiaries of job-focused 0.00 1,000.00 5,000.00 10,000.00 20,000.00 30,000.00 40,000.00 interventions (CRI, Number) Beneficiaries of job- focused interventions - 0.00 500.00 1,000.00 5,000.00 10,000.00 15,000.00",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 144565,
+          "char_end": 145078,
+          "text": "Regional fisheries database M&E Reports designed as per advice of including Regular monitoring by Regional fisheries dashboard to analyze Quarterly RPMU/IOC the SWIOFC Scientific findings from the RPMU/IOC and share data operational Committee and the SWIOFC SWIOFC Working Parties, reflecting Scientific Page 33 of 48 The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) recommendations from past Committee a reports from them. nd Working Party.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 12680,
+          "char_end": 13668,
+          "text": "Sections and Description [IOC FA, Schedule 2, Section I.A.2] The Recipient, shall, not later than three (3) months after the Effective Date (or such other date which the Association has confirmed in writing to the Recipient is reasonable and acceptable under the circumstances), establish and thereafter maintain, until the completion of the Project, a Regional Project Steering Committee, to provide, inter alia, overall guidance and oversight; approval of final outputs including results of technical studies and assessments; approval of overall annual action plans and budget for Part 1 of the v The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) Project; such Committee to be chaired by the rotating chair of the SWIOFC, and including, inter alia, all members of the SWIOFC, Secretary General of the IOC (or its representative), and the Secretary of the SWIOFC, all as set forth in the Project Implementation Plan.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099042723141515937",
+          "doc_type": "PAD",
+          "doc_date": "2023-04-27",
+          "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+          "char_start": 20718,
+          "char_end": 21614,
+          "text": "(b) in the event that, during the implementation of the Project, the approval of any new legislation regarding Personal Data protection may have an impact on the activities financed by the Project, ensure that a technical analysis of said impact is conducted, and that the necessary recommendations and adjustments, are implemented, as appropriate; and (c) except as may otherwise be explicitly required or permitted under this Agreement, or as may be explicitly requested by the Association, in sharing any information, report or document related to the activities described in Schedule 1 to this Agreement, ensure that such information, report or document does not include Personal Data. vii The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) Conditions Type Financing source Description Effectiveness IBRD/IDA [IOC FA, Art.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: platform enables multi-country information exchange",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Fisheries",
+        "code": "",
+        "confidence": null,
+        "rationale": "Shares fisheries management plan evaluations via regional dashboard.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SWIOFC regional dashboard | Innovative: cross-country plan evaluation sharing | Category: multi-country data exchange",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: regional dashboard for cross-country data exchange - cue: 'sharing'",
+      "innovation_cues": [
+        "innovation",
+        "innovative"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P179242",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "guid": "099042723141515937",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:55Z",
+      "ended_at": "2026-11-07T03:35:59Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:59Z",
+      "ended_at": "2026-11-07T03:35:59Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-05-16, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:59Z",
+      "ended_at": "2026-11-07T03:36:01Z",
+      "status": "ok",
+      "note": "31 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 31,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 3,
+          "innovation_types": 10,
+          "innovation": 3,
+          "innovation_cycle": 7,
+          "enabling_technologies": 3,
+          "public_good": 3,
+          "results_based_management": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:01Z",
+      "ended_at": "2026-11-07T03:36:01Z",
+      "status": "ok",
+      "note": "PAD 2023-04-27 (P179242_PAD_2023-04-27_099042723141515937.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P179242",
+            "doc_type": "PAD",
+            "doc_date": "2023-04-27",
+            "guid": "099042723141515937",
+            "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:01Z",
+      "ended_at": "2026-11-07T03:36:01Z",
+      "status": "ok",
+      "note": "136 reading units (16 numbered paragraphs) from 977 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 136
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:01Z",
+      "ended_at": "2026-11-07T03:36:03Z",
+      "status": "ok",
+      "note": "30 of 136 units carry a digital / AI cue (12 also an innovation cue); 7 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 30,
+        "dropped": 0,
+        "legal_condition": 7,
+        "with_innovation_cue": 12
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:03Z",
+      "ended_at": "2026-11-07T03:36:07Z",
+      "status": "ok",
+      "note": "8 candidate practices from 30 units in 3 calls",
+      "llm_calls": 3,
+      "input_chars": 93900,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 580,
+          "cached_tokens": 19712,
+          "cache_write_tokens": 0,
+          "output_tokens": 1589,
+          "seconds": 11.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0022
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:07Z",
+      "ended_at": "2026-11-07T03:36:11Z",
+      "status": "ok",
+      "note": "6 accepted, 2 rejected (not_innovative 2); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 32388,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4017,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 678,
+          "seconds": 3.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.002
+        },
+        "accepted": 6,
+        "rejected": 2,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:11Z",
+      "ended_at": "2026-11-07T03:36:13Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1869,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 404,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 204,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:13Z",
+      "ended_at": "2026-11-07T03:36:15Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category; 2 Data Sheet sentences attached as extra evidence",
+      "llm_calls": 1,
+      "input_chars": 1883,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 415,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 112,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 3,
+        "legal_evidence": 2
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:15Z",
+      "ended_at": "2026-11-07T03:36:17Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7322,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1176,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 201,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:17Z",
+      "ended_at": "2026-11-07T03:36:17Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 8 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:17Z",
+      "ended_at": "2026-11-07T03:36:17Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 223
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P179242-A1-E1",
+      "approach_id": "P179242-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 265,
+      "char_start": 56216,
+      "char_end": 56478,
+      "sentence": "(b) improving the stock assessments through the implementation and expansion of tools and capacity for the application of data- and capacity-limited approaches to the production of stock assessment and fisheries management advice, at national and regional level;",
+      "practice": "data- and capacity-limited stock assessment tools and fisheries data management systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: fisheries data management and assessment tools | Not routine: data-poor stock assessment methods | Adoption: 'supporting the adoption'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: data-limited stock assessment tools and fisheries data systems | Innovative: data-poor assessment methods | Category: analytical tools, not collaboration",
+      "keywords_hit": "data management",
+      "innovation_cues": "",
+      "innovation_basis": "New process: data-limited stock assessment methods and data-poor fisheries information systems for management advice",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A1-E2",
+      "approach_id": "P179242-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 266,
+      "char_start": 56479,
+      "char_end": 56843,
+      "sentence": "(c) supporting the adoption of sustainable systems and processes for managing and accessing information and statistics on data-poor and capacity-limited fisheries, covering most steps of the fisheries data process, from collection to analysis, as well as data management, and recovering and making available relevant data from previous projects in the SWIO region;",
+      "practice": "data- and capacity-limited stock assessment tools and fisheries data management systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: fisheries data management and assessment tools | Not routine: data-poor stock assessment methods | Adoption: 'supporting the adoption'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: data-limited stock assessment tools and fisheries data systems | Innovative: data-poor assessment methods | Category: analytical tools, not collaboration",
+      "keywords_hit": "data management",
+      "innovation_cues": "",
+      "innovation_basis": "New process: data-limited stock assessment methods and data-poor fisheries information systems for management advice",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A1-E3",
+      "approach_id": "P179242-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 287,
+      "char_start": 61067,
+      "char_end": 61486,
+      "sentence": "This subcomponent will include: (a) applying enhanced catch reporting, innovations such as electronic tags, low-cost radars and artificial intelligence, and undertaking scientific studies to support implementation, periodic evaluation and updating of climate-resilient fisheries management plans already prepared such as the grouper management plan, the diamond squid management plan, and the bait fish management plan;",
+      "practice": "electronic tags, low-cost radars and AI for catch reporting and enforcement",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: electronic tags, radars, AI catch reporting | Not routine: novel enforcement monitoring tools | Adoption: 'applying enhanced catch reporting'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-tags, radars, AI catch reporting | Innovative: novel monitoring/enforcement tech | Category: technology deployment",
+      "keywords_hit": "artificial intelligence;artificial-intelligence",
+      "innovation_cues": "innovations;innovative",
+      "innovation_basis": "New service: AI and radar-enhanced catch monitoring - cue: 'innovations such as'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A2-E1",
+      "approach_id": "P179242-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 289,
+      "char_start": 61707,
+      "char_end": 62548,
+      "sentence": "(c) sharing of evaluation reports from the implementation of aforementioned management plans with all SWIO countries through the regional fisheries dashboard of the SWIOFC, establishing information exchange with maritime fusion centers in the Indian Ocean Region, and organizing annual dialogue forums to determine use and applicability of such plans and actions in other SWIO countries and the likeminded coastal G-16 countries; and (d) preparing and implementing climate-resilient management plans for other important fish stocks in Maldives Page 9 of 48 The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) in due consideration of the principles and methods discussed in the SWIO country dialogue forums and the relevant outputs of the SWIOFC innovative science program.",
+      "practice": "regional fisheries dashboard for sharing management plan evaluations",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: SWIOFC regional fisheries dashboard | Not routine: cross-country plan evaluation sharing | Adoption: 'sharing of evaluation reports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SWIOFC regional dashboard | Innovative: cross-country plan evaluation sharing | Category: multi-country data exchange",
+      "keywords_hit": "dashboard",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New delivery arrangement: regional dashboard for cross-country data exchange - cue: 'sharing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A2-E2",
+      "approach_id": "P179242-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U98",
+      "para_no": null,
+      "sentence_position": 680,
+      "char_start": 136066,
+      "char_end": 137260,
+      "sentence": "Management in South-West Indian Ocean Region and Maldives Project (P179242) RESULT_FRAME_TBL_ PD O Indicator Name PBC Baseline Intermediate Targets End Target 1 2 3 4 5 (Number) People with improved job- opportunities in the SWIO 0.00 1,250.00 5,600.00 11,300.00 22,700.00 35,000.00 46,150.00 region (Number) Women with improved job-opportunities in the 0.00 500.00 1,150.00 5,600.00 11,100.00 16,600.00 22,450.00 SWIO region (Number) PDO Table SPACE Intermediate Results Indicators by Components RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline Intermediate Targets End Target 1 2 3 4 5 Enhance Evidence-based Management Advice to the Fisheries Sector in the SWIO Region Fisheries management plans implemented (CRI, 0.00 0.00 0.00 1.00 2.00 3.00 4.00 Number) Regional fisheries dashboard to analyze and share data operational No No No Yes Yes Yes Yes (Yes/No) Index on regional research and innovation program 0.00 0.00 1.00 2.00 3.00 5.00 7.00 design and its progress (Number) Beneficiaries of job-focused 0.00 1,000.00 5,000.00 10,000.00 20,000.00 30,000.00 40,000.00 interventions (CRI, Number) Beneficiaries of job- focused interventions - 0.00 500.00 1,000.00 5,000.00 10,000.00 15,000.00",
+      "practice": "regional fisheries dashboard for data analysis and sharing",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: regional fisheries data dashboard | Not routine: cross-country data sharing tool | Adoption: 'operational Yes'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: regional fisheries dashboard | Innovative: cross-country data sharing tool | Category: multi-country data exchange",
+      "keywords_hit": "dashboard",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New service: regional dashboard sharing fisheries data - cue: 'dashboard'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A2-E3",
+      "approach_id": "P179242-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U103",
+      "para_no": null,
+      "sentence_position": 703,
+      "char_start": 144565,
+      "char_end": 145078,
+      "sentence": "Regional fisheries database M&E Reports designed as per advice of including Regular monitoring by Regional fisheries dashboard to analyze Quarterly RPMU/IOC the SWIOFC Scientific findings from the RPMU/IOC and share data operational Committee and the SWIOFC SWIOFC Working Parties, reflecting Scientific Page 33 of 48 The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) recommendations from past Committee a reports from them. nd Working Party.",
+      "practice": "Regional fisheries database dashboard for stock and M&E data sharing",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "Digital core: regional fisheries database dashboard | Not routine: cross-country data sharing platform | Adoption: 'designed as per advice'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: regional fisheries database dashboard | Innovative: multi-country data sharing | Category: collaborative data exchange",
+      "keywords_hit": "dashboard",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New process: regional multi-country fisheries data dashboard - cue: 'dashboard'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A2-L1",
+      "approach_id": "P179242-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U8",
+      "para_no": null,
+      "sentence_position": 70,
+      "char_start": 12680,
+      "char_end": 13668,
+      "sentence": "Sections and Description [IOC FA, Schedule 2, Section I.A.2] The Recipient, shall, not later than three (3) months after the Effective Date (or such other date which the Association has confirmed in writing to the Recipient is reasonable and acceptable under the circumstances), establish and thereafter maintain, until the completion of the Project, a Regional Project Steering Committee, to provide, inter alia, overall guidance and oversight; approval of final outputs including results of technical studies and assessments; approval of overall annual action plans and budget for Part 1 of the v The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) Project; such Committee to be chaired by the rotating chair of the SWIOFC, and including, inter alia, all members of the SWIOFC, Secretary General of the IOC (or its representative), and the Secretary of the SWIOFC, all as set forth in the Project Implementation Plan.",
+      "practice": "regional fisheries dashboard for sharing management plan evaluations",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    },
+    {
+      "row_id": "P179242-A2-L2",
+      "approach_id": "P179242-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 3,
+      "project_id": "P179242",
+      "doc_id": "099042723141515937",
+      "doc_type": "PAD",
+      "doc_date": "2023-04-27",
+      "file_name": "P179242_PAD_2023-04-27_099042723141515937.txt",
+      "unit_id": "U13",
+      "para_no": null,
+      "sentence_position": 87,
+      "char_start": 20718,
+      "char_end": 21614,
+      "sentence": "(b) in the event that, during the implementation of the Project, the approval of any new legislation regarding Personal Data protection may have an impact on the activities financed by the Project, ensure that a technical analysis of said impact is conducted, and that the necessary recommendations and adjustments, are implemented, as appropriate; and (c) except as may otherwise be explicitly required or permitted under this Agreement, or as may be explicitly requested by the Association, in sharing any information, report or document related to the activities described in Schedule 1 to this Agreement, ensure that such information, report or document does not include Personal Data. vii The World Bank Transforming Fisheries Sector Management in South-West Indian Ocean Region and Maldives Project (P179242) Conditions Type Financing source Description Effectiveness IBRD/IDA [IOC FA, Art.",
+      "practice": "regional fisheries dashboard for sharing management plan evaluations",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Fisheries",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "38e6fe46"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099042723141515937",
+      "doc_type": "PAD",
+      "position": 447,
+      "char_start": 96222,
+      "char_end": 96588,
+      "sentence": "The key activities supported will include: (a) establishment of a web-based real-time project Management Information System (MIS) for components 2 and 3 including specifically for the activities planned for benefits of SWIO countries outside Maldives, and (b) third-party monitoring and verification systems needed for disbursement of matching grants in component 3;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "web-based real-time project MIS for regional activities",
+      "reason": "reject: Standard project M&E MIS and reporting, routine supervision tool",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: real-time web MIS tracking regional project activities - cue: 'establishment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard project M&E MIS and reporting, routine supervision tool",
+          "reject_code": "not_innovative",
+          "context_chars": 1229
+        }
+      ]
+    },
+    {
+      "guid": "099042723141515937",
+      "doc_type": "PAD",
+      "position": 448,
+      "char_start": 96589,
+      "char_end": 96779,
+      "sentence": "(c) analytics- based learning systems through MIS data for deeper analysis, going beyond auto-generated progress and exception reports, especially where systems identify persistent problems.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "analytics-based learning from MIS data",
+      "reason": "reject: Analytics on standard M&E MIS data; routine reporting enhancement",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: analytics on MIS data for deeper diagnosis - cue: 'analytics'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Analytics on standard M&E MIS data; routine reporting enhancement",
+          "reject_code": "not_innovative",
+          "context_chars": 1229
+        }
+      ]
+    },
+    {
+      "guid": "099042723141515937",
+      "doc_type": "PAD",
+      "position": 621,
+      "char_start": 124840,
+      "char_end": 125168,
+      "sentence": "(c) encouraging provision of childcare services, safe transport facilities, and flexible work hours in the fish processing enterprises supported under subcomponent 3.2; and (d) supporting networking with other women-led SMEs through a digital platform and mentoring by successful women entrepreneurs from the fisheries industry.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "digital platform networking women-led fisheries SMEs",
+      "reason": "reject: final check round 1: digital: incidental - Digital: platform is a networking channel, approach is grants and mentoring for women SMEs | Before 2019: women's SME networks and digital platforms were already common in MDB operations",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: digital platform linking women-led SMEs - cue: 'digital platform'",
+      "innovation_cues": "mainstreamed",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: women-led SME networking platform | Innovative: peer network plus mentoring | Category: multi-actor collaboration",
+          "reject_code": "",
+          "context_chars": 1443
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: platform is a networking channel, approach is grants and mentoring for women SMEs | Before 2019: women's SME networks and digital platforms were already common in MDB operations",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 7,
+    "input_tokens": 6592,
+    "cached_tokens": 23040,
+    "cache_write_tokens": 0,
+    "output_tokens": 2784,
+    "seconds": 20.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0055
+  }
+}

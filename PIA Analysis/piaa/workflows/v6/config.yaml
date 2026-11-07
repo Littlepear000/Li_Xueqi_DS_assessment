@@ -1,0 +1,137 @@
+name: "v6 - innovation test, innovation screen, Data Sheet exclusion; one approach per sector x category"
+description: >
+  As v5, with three changes. (1) The project-level innovation screen of v1 is back as step 0
+  (distinct hits of the 7-dimension innovation dictionary -> innovation_tier High / Moderate / Low;
+  informational unless screening.gate is true). (2) An approach must pass three tests: specificity,
+  digital / data / AI, and an INNOVATION test (new product, service, process, delivery arrangement or
+  organizational practice; routine fiduciary / legal / compliance / M&E / IT-procurement requirements fail);
+  each unit shows the model its digital_cues and innovation_cues. (3) PAD Data Sheet units (conditions,
+  legal covenants, ESCP tables) are not extracted; their sentences can only be attached as extra
+  evidence of an approach found in the body. Rejections carry a fixed reject_code.
+  v6.9: scope step - approval date from 2019-01-01 (calendar), Canceled / Dropped projects excluded.
+  v6.1: approaches get a sector only (no theme), and accepted practices are grouped by sector x category
+  into one approach each (target: about 3 approaches per project on average).
+  v5 description: One project = its Project Appraisal Document. The document is cut into reading units
+  (numbered PAD paragraphs, else ~1,200-character sentence windows). Units with a digital /
+  data / AI cue are read by the model, which extracts APPROACHES: specific, identifiable
+  practices, each mapped to one of the four working-paper categories (Operational,
+  Technological, Financial, Collaborative) with an adoption value (apply / prospect / discuss).
+  Every extracted approach is then judged; when the judge cannot decide from the unit alone the
+  context is widened by half a page on each side and the approach is judged again. Accepted
+  approaches get one sector and one theme from the project's own code lists, duplicates are
+  merged, and the result is one row per approach with all its evidence sentences.
+
+scope:
+  # v6.9: projects outside the scope are not read and get no model calls (review status "out of scope")
+  min_approval_date: "2019-01-01"   # calendar date (not fiscal year); earlier approvals are out of scope
+  exclude_status: [Canceled, Dropped]
+  keep_missing_date: false          # a project with no approval date in projects.csv is out of scope
+
+llm:
+  # leave empty to use the provider's default (claude-sonnet-4-5 / deepseek-flash); set to pin a model
+  model: ""
+  temperature: 0.0
+  max_tokens: 6000
+
+screening:
+  # v1 step 0: distinct innovation-dictionary hits across ALL the project's documents
+  high: 4                     # High >= 4 distinct hits
+  moderate: 2                 # Moderate 2-3, Low 0-1
+  dimensions: null            # null = all seven dimensions of the dictionary
+  gate: false                 # false = informational only; true = extract only the tiers below
+  extract_tiers: [High, Moderate]
+
+documents:
+  # first type found wins; the newest document of that type is read
+  priority: [PAD, ProjectPaper, ProgramDocument, PID]
+  min_latin_share: 0.7        # a document whose letters are mostly non-Latin (Arabic, Russian PADs) is skipped for the next candidate
+
+units:
+  target_chars: 1200          # sentence-window size when paragraph numbers cannot be followed
+  max_chars: 2400             # a longer numbered paragraph is cut at a sentence boundary
+  min_chars: 250              # shorter units are merged into the next one
+
+legal_conditions:
+  # PAD Data Sheet / legal boilerplate. A unit matching any pattern is marked legal_condition; the Data Sheet
+  # zone (first match within the first 25% of units, up to the first numbered paragraph or STRATEGIC CONTEXT) too.
+  legal_patterns:              # case-sensitive unless (?i); 'conditions' in body text must not match
+    - '(?i)Type\s+Financing\s+source\s+Description'
+    - '(?i)Sections?\s+and\s+Description'
+    - '(?:^|\s)Conditions(?=\s*$|\s+Type\b)'
+    - 'Legal\s+Covenants'
+    - '(?i)No\s+withdrawal\s+shall\s+be\s+made'
+    - 'Effectiveness\s+(?:IBRD|IDA)\b'
+    - 'Disbursement\s+(?:IBRD|IDA)\b'
+  datasheet_zone: true
+  datasheet_zone_share: 0.25
+  body_start_pattern: '\b(?:I\.\s*)?STRATEGIC\s+CONTEXT\b'
+
+candidates:
+  require_cue: true           # only units with a digital / data / AI keyword cue are sent to the model (innovation cues are shown, never required)
+  drop_boilerplate: true
+  drop_legal_conditions: true # Data Sheet / legal-condition units are never sent to extraction
+  max_units_per_project: 150  # when more units carry a cue, keep the ones with the most cues
+
+extract:
+  units_per_call: 10
+  parallel_calls: 4
+  cache_system: true
+  max_evidence_per_approach: 3
+
+validate:
+  approaches_per_call: 12
+  parallel_calls: 4
+  expand_chars: 1600          # about half a PAD page added on EACH side when the judge asks for more context
+  max_expansions: 1
+  # verdicts that trigger the expansion round (the judge may also answer accept / revise / reject directly)
+  expand_on: [expand, unsure]
+
+codes:
+  batch_size: 30
+  parallel_calls: 4
+
+merge:
+  enabled: true               # one call names each multi-member group (the grouping itself is deterministic)
+  group_by: [sector, category]  # v6.1: one approach per sector x category
+  attach_legal_evidence: true # Data Sheet sentences that refer to an approach found in the body -> extra evidence (never a new approach)
+  legal_min_shared: 2         # content words shared with the practice wording
+  legal_min_overlap: 0.4      # ... and this share of the practice's content words
+
+aggregation:
+  headline_adoption: [apply]
+  max_evidence_kept: 60
+
+replication:
+  explicit_reference: true
+  similarity: true
+  similarity_threshold: 0.30
+  max_links: 5
+
+novelty:
+  # v6.5: ONE question per approach, asked once: was this kind of approach in use before {year}?
+  #   rare_or_absent / in_use -> kept | common -> dropped (reject_code existed_before_<year>)  [v6.8]
+  enabled: true
+  year: 2019
+  rounds: 1
+  statement: "Before {year}, this kind of approach was rare or absent in the real international-development practice of the multilateral development banks and international organizations (WBG, UN, IMF, IDB, AIIB, ADB, ...)."
+  # v6.8: keep rare_or_absent AND in_use; drop only clearly-widespread practice.
+  fail_on: [common]           # verdicts: rare_or_absent (kept) | in_use (kept) | common (dropped)
+  digital_pass: [core]        # question 1 (v6.4): digital & AI must be the CORE of the approach (core | incidental | none)
+  temperature: 0.0            # one round: deterministic answer
+  max_chars_per_approach: 1500
+
+steps: [scope, screen, locate_pad, units, candidates, extract, validate, codes, merge, novelty, aggregate, replication]
+
+steps_meta:
+  scope:       {kind: python, label: "Scope", summary: "Approval date >= 2019-01-01 (calendar) and status not Canceled / Dropped; otherwise the project is marked out of scope and the run stops here", inputs: [projects.csv], outputs: [in scope / out of scope]}
+  screen:      {kind: python, label: "Innovation screen", summary: "Distinct hits of the 7-dimension innovation dictionary across the project's documents -> innovation_tier High (>=4) / Moderate (2-3) / Low; gate optional", inputs: [document index, innovation dictionary], outputs: [innovation_tier]}
+  locate_pad:  {kind: python, label: "Locate PAD", summary: "Newest PAD of the project (fallback: Project Paper, Program Document, PID)", inputs: [document index], outputs: [document]}
+  units:       {kind: python, label: "Reading units", summary: "Numbered PAD paragraphs, else ~1,200-char sentence windows; char offsets kept", inputs: [document], outputs: [units]}
+  candidates:  {kind: python, label: "Cue filter", summary: "Units with a digital / data / AI cue; Data Sheet / legal-condition units excluded; innovation cues (6 non-technology dimensions) recorded per unit", inputs: [units], outputs: [candidate units, digital_cues, innovation_cues]}
+  extract:     {kind: llm, label: "Extract practices", summary: "10 units per call: practices passing specificity + digital + innovation tests -> category, adoption, innovation_basis, evidence sentence ids", prompts: [00_system, 01_extract], inputs: [candidate units], outputs: [candidate approaches]}
+  validate:    {kind: llm, label: "Judge / expand", summary: "Five questions incl. innovation; accept, revise, reject (fixed reject_code) - or widen context by half a page each side and judge again", prompts: [00_system, 02_validate, 03_revalidate], inputs: [candidate approaches], outputs: [accepted approaches, rejected log with reject_code]}
+  codes:       {kind: llm, label: "Sector", summary: "One sector per approach from the project's own projects.csv list (no theme)", prompts: [04_codes], inputs: [accepted approaches, projects.csv], outputs: [sector]}
+  merge:       {kind: llm, label: "Group sector x category", summary: "Practices with the same sector and category form ONE approach (evidence pooled); one call names multi-member groups; Data Sheet sentences referring to an approach attached as extra evidence", prompts: [05_merge], inputs: [accepted approaches, legal-condition units], outputs: [approaches]}
+  novelty:     {kind: llm, label: "Final check: digital & AI + pre-2019", summary: "One call per project: (1) is digital / data / AI the core? (2) before 2019 was this kind of approach rare or absent (kept), in use or common (dropped)?", prompts: [06_novelty], inputs: [approaches], outputs: [approaches, rejected log]}
+  aggregate:   {kind: python, label: "Build records", summary: "One row per approach with innovation_basis + innovation_cues; adoption apply > prospect > discuss; exclusion log with reject_code", inputs: [approaches], outputs: [approaches, evidence rows, exclusion log]}
+  replication: {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

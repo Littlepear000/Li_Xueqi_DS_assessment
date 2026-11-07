@@ -1,0 +1,626 @@
+{
+  "project_id": "P507588",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "25eaf6ce",
+  "started_at": "2026-11-07T03:37:57Z",
+  "ended_at": "2026-11-07T03:38:16Z",
+  "input_fingerprint": "850630d5b9546f76",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 28,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P507588-A1",
+      "project_id": "P507588",
+      "name": "smart metering and SCADA telemetry with survey validation for water supply",
+      "description": "The project uses smart meters and SCADA pressure-logging combined with phone surveys to measure and improve water supply reliability and efficiency. Practices: smart water meters in GVWC service area; SCADA/telemetry pressure-logging with phone-survey validation of service hours.",
+      "why_innovative": "New product: smart metering of urban water supply - cue: 'smart meters' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099090825181038946",
+        "doc_type": "PAD",
+        "doc_date": "2025-09-04",
+        "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+        "char_start": 145947,
+        "char_end": 146491,
+        "text": "Frequency Annually Data source Government records; field survey reports Methodology for Data Document review and targeted field validation visits Collection Responsibility for Data M&E Specialist of the WASHIT in collaboration with the regulatory authority Collection Priority Investments in Urban Water Supply and Sanitation Smart Meters installed (Number) Tracks the number of smart meters installed or replaced in the GVWC service area under the Project, facilitating better Description management of water supply reliability and efficiency.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099090825181038946",
+          "doc_type": "PAD",
+          "doc_date": "2025-09-04",
+          "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+          "char_start": 148394,
+          "char_end": 148975,
+          "text": "Frequency Once (with periodic review milestones) Data source Project document submissions; consultant reports Methodology for Data Document verification and independent technical review Collection Responsibility for Data M&E Specialist of the WASHIT with technical consulting team input Collection Number of hours of water supply per week for piped customer of the GVWC (Hours) Weighted-average weekly hours of service across GVWC’s piped network, based on metered pressure-logging and Description customer feedback; serves as a lead indicator for service reliability improvements.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099090825181038946",
+          "doc_type": "PAD",
+          "doc_date": "2025-09-04",
+          "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+          "char_start": 148976,
+          "char_end": 149564,
+          "text": "Frequency Monthly (reported quarterly) Data source GVWC SCADA/telemetry data; customer phone survey panel Methodology for Data Combine automated pressure-logging data with quarterly phone-survey validation; compute weighted average by supply Collection zone Responsibility for Data GVWC Operations Directorate with WASH-IT M&E Specialist Collection Share of O&M costs covered by revenue generated from customer payments of GVWC issued water bills (Amount(USD)) Description Captures the cost recovery ratio: Share of O&M expenditures which the revenues of billed customers allows covering.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: smart metering hardware is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Water Supply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Smart meters improve water supply reliability and efficiency.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: smart meters | Innovative: advanced metering in GVWC network | Category: new technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: smart metering of urban water supply - cue: 'smart meters'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P507588",
+      "doc_type": "PAD",
+      "doc_date": "2025-09-04",
+      "guid": "099090825181038946",
+      "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:37:57Z",
+      "ended_at": "2026-11-07T03:37:58Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:37:58Z",
+      "ended_at": "2026-11-07T03:37:58Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-09-25, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:37:58Z",
+      "ended_at": "2026-11-07T03:37:58Z",
+      "status": "ok",
+      "note": "28 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 28,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 7,
+          "innovation_cycle": 8,
+          "results_based_management": 3,
+          "enabling_processes": 6,
+          "innovation": 1,
+          "enabling_technologies": 1,
+          "public_good": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:37:58Z",
+      "ended_at": "2026-11-07T03:37:59Z",
+      "status": "ok",
+      "note": "PAD 2025-09-04 (P507588_PAD_2025-09-04_099090825181038946.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P507588",
+            "doc_type": "PAD",
+            "doc_date": "2025-09-04",
+            "guid": "099090825181038946",
+            "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:37:59Z",
+      "ended_at": "2026-11-07T03:37:59Z",
+      "status": "ok",
+      "note": "124 reading units (15 numbered paragraphs) from 1020 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 124
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:37:59Z",
+      "ended_at": "2026-11-07T03:38:00Z",
+      "status": "ok",
+      "note": "43 of 124 units carry a digital / AI cue (8 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 43,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 8
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:38:00Z",
+      "ended_at": "2026-11-07T03:38:05Z",
+      "status": "ok",
+      "note": "8 candidate practices from 43 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 143329,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 890,
+          "cached_tokens": 29056,
+          "cache_write_tokens": 0,
+          "output_tokens": 1780,
+          "seconds": 13.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:38:05Z",
+      "ended_at": "2026-11-07T03:38:10Z",
+      "status": "ok",
+      "note": "3 accepted, 5 rejected (not_innovative 3, unsupported_by_evidence 1, not_digital 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 70461,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 8658,
+          "cached_tokens": 5248,
+          "cache_write_tokens": 0,
+          "output_tokens": 575,
+          "seconds": 5.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0033
+        },
+        "accepted": 3,
+        "rejected": 5,
+        "expanded": 1,
+        "reject_codes": {
+          "unsupported_by_evidence": 1,
+          "not_innovative": 3,
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:38:10Z",
+      "ended_at": "2026-11-07T03:38:12Z",
+      "status": "ok",
+      "note": "3 of 3 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1252,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 302,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 103,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:38:12Z",
+      "ended_at": "2026-11-07T03:38:13Z",
+      "status": "ok",
+      "note": "3 approaches -> 2 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1253,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 295,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 62,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:38:13Z",
+      "ended_at": "2026-11-07T03:38:15Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5455,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 496,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 148,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:38:15Z",
+      "ended_at": "2026-11-07T03:38:15Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 3 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:38:15Z",
+      "ended_at": "2026-11-07T03:38:16Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 261
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P507588-A1-E1",
+      "approach_id": "P507588-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P507588",
+      "doc_id": "099090825181038946",
+      "doc_type": "PAD",
+      "doc_date": "2025-09-04",
+      "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+      "unit_id": "U102",
+      "para_no": null,
+      "sentence_position": 830,
+      "char_start": 145947,
+      "char_end": 146491,
+      "sentence": "Frequency Annually Data source Government records; field survey reports Methodology for Data Document review and targeted field validation visits Collection Responsibility for Data M&E Specialist of the WASHIT in collaboration with the regulatory authority Collection Priority Investments in Urban Water Supply and Sanitation Smart Meters installed (Number) Tracks the number of smart meters installed or replaced in the GVWC service area under the Project, facilitating better Description management of water supply reliability and efficiency.",
+      "practice": "smart water meters in GVWC service area",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Water Supply",
+      "extractor_reason": "Digital core: smart water meters | Not routine: advanced metering in GVWC network | Adoption: 'installed or replaced under the Project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smart meters | Innovative: advanced metering in GVWC network | Category: new technology",
+      "keywords_hit": "methodolog;smart meter;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: smart metering of urban water supply - cue: 'smart meters'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "25eaf6ce"
+    },
+    {
+      "row_id": "P507588-A1-E2",
+      "approach_id": "P507588-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P507588",
+      "doc_id": "099090825181038946",
+      "doc_type": "PAD",
+      "doc_date": "2025-09-04",
+      "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 834,
+      "char_start": 148394,
+      "char_end": 148975,
+      "sentence": "Frequency Once (with periodic review milestones) Data source Project document submissions; consultant reports Methodology for Data Document verification and independent technical review Collection Responsibility for Data M&E Specialist of the WASHIT with technical consulting team input Collection Number of hours of water supply per week for piped customer of the GVWC (Hours) Weighted-average weekly hours of service across GVWC’s piped network, based on metered pressure-logging and Description customer feedback; serves as a lead indicator for service reliability improvements.",
+      "practice": "SCADA/telemetry pressure-logging with phone-survey validation of service hours",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Water Supply",
+      "extractor_reason": "Digital core: SCADA/telemetry pressure logging | Not routine: blends sensor data with phone panel | Adoption: 'Combine automated pressure-logging data'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SCADA pressure logging plus phone panel | Innovative: blended sensor-survey service-hours metric | Category: new data method",
+      "keywords_hit": "automated;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated pressure data plus phone panel - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "25eaf6ce"
+    },
+    {
+      "row_id": "P507588-A1-E3",
+      "approach_id": "P507588-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P507588",
+      "doc_id": "099090825181038946",
+      "doc_type": "PAD",
+      "doc_date": "2025-09-04",
+      "file_name": "P507588_PAD_2025-09-04_099090825181038946.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 835,
+      "char_start": 148976,
+      "char_end": 149564,
+      "sentence": "Frequency Monthly (reported quarterly) Data source GVWC SCADA/telemetry data; customer phone survey panel Methodology for Data Combine automated pressure-logging data with quarterly phone-survey validation; compute weighted average by supply Collection zone Responsibility for Data GVWC Operations Directorate with WASH-IT M&E Specialist Collection Share of O&M costs covered by revenue generated from customer payments of GVWC issued water bills (Amount(USD)) Description Captures the cost recovery ratio: Share of O&M expenditures which the revenues of billed customers allows covering.",
+      "practice": "SCADA/telemetry pressure-logging with phone-survey validation of service hours",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Water Supply",
+      "extractor_reason": "Digital core: SCADA/telemetry pressure logging | Not routine: blends sensor data with phone panel | Adoption: 'Combine automated pressure-logging data'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SCADA pressure logging plus phone panel | Innovative: blended sensor-survey service-hours metric | Category: new data method",
+      "keywords_hit": "automated;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated pressure data plus phone panel - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "25eaf6ce"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 311,
+      "char_start": 51974,
+      "char_end": 52416,
+      "sentence": "(v) review policies and regulations and advise on PPP options to leverage private sector value addition to improve the quality-of- service delivery and to extend access to WASH services in Sierra Leone; and (vi) develop sanitation and fecal sludge management guidelines and design standards for climate-smart WASH systems with specific measures to meet ECOWAS’ energy-efficiency standards; and (vii) strengthen the national WASH M&E platform.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "National WASH M&E platform strengthening",
+      "reason": "reject: Only 'strengthen the national WASH M&E platform' listed; no mechanism or digital system described",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: national WASH M&E data platform - cue: 'strengthen'",
+      "innovation_cues": "PPP;climate-smart;leverage private",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Only 'strengthen the national WASH M&E platform' listed; no mechanism or digital system described",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1432
+        }
+      ]
+    },
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 343,
+      "char_start": 57507,
+      "char_end": 57763,
+      "sentence": "It will, in order of priority: (i) upgrade the existing Engineering Design And Management Systems (EDAMS) software to address key business challenges including asset management, commercial losses and energy efficiency and providing training for GVWC staff;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "EDAMS software upgrade for asset and loss management",
+      "reason": "reject: Standard utility software upgrade, routine IT procurement, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: utility management software upgrade - cue: 'upgrade'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard utility software upgrade, routine IT procurement, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1240
+        }
+      ]
+    },
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 346,
+      "char_start": 58026,
+      "char_end": 58221,
+      "sentence": "(iv) update customer database and GIS mapping in the process to maximize revenue generation, which is essential for better demand management as well as increasing cost recovery and profitability;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "customer database and GIS mapping update",
+      "reason": "reject: Routine customer database and GIS billing update, no new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS-mapped customer database - cue: 'GIS mapping'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine customer database and GIS billing update, no new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1312
+        }
+      ]
+    },
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 663,
+      "char_start": 106329,
+      "char_end": 106510,
+      "sentence": "Citizen engagement (CE): Project design includes CE interventions to enhance beneficiaries' voice and participation through three mechanisms: (i) dialogue and consultation platform;",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "national dialogue and consultation platform for water performance",
+      "reason": "reject: National dialogue/consultation platform and citizen survey; no digital system named as core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: multi-stakeholder monitoring platform - cue: 'dialogue and consultation platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether platform is digital/online or a physical forum; no digital system named",
+          "reject_code": "",
+          "context_chars": 1295
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "National dialogue/consultation platform and citizen survey; no digital system named as core",
+          "reject_code": "not_digital",
+          "context_chars": 24819
+        }
+      ]
+    },
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 669,
+      "char_start": 107400,
+      "char_end": 107590,
+      "sentence": "Finally, a citizen satisfaction survey will be conducted at the mid-term review of the Project to assess the quality and accessibility of services and to identify timely corrective measures.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "citizen satisfaction survey with feedback loop",
+      "reason": "reject: Standard citizen satisfaction survey and feedback loop, routine M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: survey closing accountability feedback loop - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard citizen satisfaction survey and feedback loop, routine M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1370
+        }
+      ]
+    },
+    {
+      "guid": "099090825181038946",
+      "doc_type": "PAD",
+      "position": 345,
+      "char_start": 57804,
+      "char_end": 58025,
+      "sentence": "(iii) implement parallel performance-based PPPs to install smart meters to generalize metering in GVWC’s service area, thereby reducing commercial losses, and prepare PPPs to reduce physical losses (see Subcomponent 3.2);",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "performance-based PPPs to install smart meters",
+      "reason": "reject: final check round 1: digital: incidental - Digital: smart meters are hardware, PPP structuring is the approach | Before 2019: performance-based PPPs and NRW metering programs common in WBG water projects (e.g. IBNET, Manila concessions)",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: PPP metering tied to performance - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: smart meters | Innovative: performance-based PPP metering rollout | Category: new delivery arrangement",
+          "reject_code": "",
+          "context_chars": 1240
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: smart meters are hardware, PPP structuring is the approach | Before 2019: performance-based PPPs and NRW metering programs common in WBG water projects (e.g. IBNET, Manila concessions)",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 10641,
+    "cached_tokens": 34944,
+    "cache_write_tokens": 0,
+    "output_tokens": 2668,
+    "seconds": 24.1,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0066
+  }
+}

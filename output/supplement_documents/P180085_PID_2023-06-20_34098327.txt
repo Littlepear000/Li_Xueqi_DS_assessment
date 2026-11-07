@@ -1,0 +1,721 @@
+﻿          The World Bank
+          Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+
+
+                       Project Information Document (PID)
+
+
+                      Appraisal Stage | Date Prepared/Updated: 15-Jun-2023 | Report No: PIDA35501
+
+
+
+
+June 15, 2023                                                                                           Page 1 of 15
+      The World Bank
+      Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+
+ BASIC INFORMATION
+
+OPS_TABLE_BASIC_DATA
+ A. Basic Project Data
+
+ Country                           Project ID                  Project Name                 Parent Project ID (if any)
+ Western and Central Africa        P180085                     Harmonizing and
+                                                               Improving Statistics in
+                                                               West and Central Africa
+                                                               (HISWACA) - SOP 2
+ Region                            Estimated Appraisal Date    Estimated Board Date         Practice Area (Lead)
+ WESTERN AND CENTRAL AFRICA        12-Jun-2023                 31-Aug-2023                  Poverty and Equity
+
+ Financing Instrument              Borrower(s)                 Implementing Agency
+ Investment Project Financing      Economic and Monetary       Economic and Monetary
+                                   Community of Central        Community of Central
+                                   Africa (CEMAC), The         Africa (CEMAC)
+                                   Republic of Chad, The       Commission, Ministère du
+                                   Republic of Gabon, The      Plan, de la statistique et
+                                   Central African Republic,   de l’Intégration Régionale
+                                   The Republic of Congo,      | Rep. of Congo, Institut
+                                   The Republic of Cameroon    Centrafricain des
+                                                               Statistiques et des Etudes
+                                                               Economiques et Sociales
+                                                               (ICASEES) | CAR, Institut
+                                                               National de la Statistique
+                                                               (INS) | Rep. of Cameroon,
+                                                               Institut National de la
+                                                               Statistique, des Études
+                                                               Économiques et
+                                                               Démographiques (INSEED)
+                                                               | Rep.of Chad, Comm.
+                                                               National des Travaix
+                                                               d'Intérêt Public pour la
+                                                               Prom. de l'Entrep. et de
+                                                               l'Emploi (CN-TIPPEE)
+
+Proposed Development Objective(s)
+
+The Project Development Objective is to improve country statistical performance, regional harmonization, data access
+and use, and to enhance modernization of the statistical system in participating countries.
+
+
+
+
+                                                                                                              Page 2 of 15
+      The World Bank
+      Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+Components
+Component 1: Harmonization and Production of Core Statistics using International Data Quality Standards
+Component 2: Statistical Modernization, Institutional Reform, Human Capital, Data Accessibility and Use
+Component 3: Construction, Upgrading and Modernization of Physical Infrastructure
+Component 4: Project Management, Monitoring, and Evaluation
+
+
+
+PROJECT FINANCING DATA (US$, Millions)
+
+SUMMARY                 -NewFin1
+
+
+
+
+Total Project Cost                                                                                            440.00
+Total Financing                                                                                            440.00
+                        of which IBRD/IDA                                                                  440.00
+Financing Gap                                                                                                   0.00
+
+
+DETAILS   -NewFinEnh1
+
+
+
+
+World Bank Group Financing
+
+  International Bank for Reconstruction and Development (IBRD)                                                 90.00
+
+  International Development Association (IDA)                                                                 350.00
+     IDA Credit                                                                                               165.00
+     IDA Grant                                                                                                185.00
+
+Environmental and Social Risk Classification
+Moderate
+
+Decision
+The review did authorize the team to appraise and negotiate
+
+
+
+
+B. Introduction and Context
+
+Regional and Country Context
+      1.      The COVID-19 pandemic-triggered recession in 2020 was followed by a partial recovery in 2021,
+      but growth in Sub-Saharan Africa slowed again in 2022 as the region faced new economic challenges,
+      with further slowdown projected for 2023. In 2020, for the first time in 27 years, Sub-Saharan Africa
+
+
+
+                                                                                                          Page 3 of 15
+The World Bank
+Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+recorded a negative real economic growth rate of −2 percent1. The impact of the COVID-19 pandemic on
+global supply chains, commodity prices, and transport and the implementation of stringent control
+measures by governments across the world led to a global economic slowdown. Following the
+introduction of vaccines and the lifting of restrictions in many countries, Gross Domestic Product (GDP)
+growth in Sub-Saharan Africa recovered to 4.1 percent in 2021, but with significant variation across
+countries2. However, growth is estimated to have declined to 3.6 percent in 20223 driven by several short-
+term headwinds including a global economic slowdown, continued impacts of the pandemic including
+supply disruptions, high inflation, and increased financial risks owing to high public debts. In 2023,
+notwithstanding recent improvements, growth in Sub-Saharan Africa is projected to decelerate to 3.1
+percent. There are significant downside risks to the economic outlook for Sub-Saharan Africa due to
+persistent sluggishness of the global economy, high inflation, and challenging global and domestic
+financial conditions amid high levels of debt. Growth is projected to be 3.4 percent for Western and
+Central Africa, with relatively robust growth projected for West African Economic and Monetary Union
+(WAEMU)4 countries and non-resource-rich countries, continuing a pattern seen in 2022.
+
+2.       The modest economic performance in the region translates into a slower path of poverty
+reduction and inclusive growth. The economic slowdown and COVID-19 pandemic increased poverty
+incidence in 2020 and set back progress made in Western and Central Africa by almost half a decade.
+Following a decade of steady poverty reduction, the extreme poverty rate of the region increased by
+nearly 0.9 percentage points in 2020, pushing an additional 7.4 million people into poverty.5 The slow
+recovery of the per capita income growth rate, projected at 1.2 percent in 2024 and 1.4 percent in 2025,
+falls short of putting the continent back on the pre-pandemic path of poverty reduction. Recovery in the
+region is further hampered by low vaccination rates, fiscal constraints to continue providing financial
+assistance to vulnerable households and firms, and the continuing threat to food security. There is wide
+variation in the incidence of poverty across the countries in the subregion. More than half of the extreme
+poor population of the region lives in Nigeria, while one-fifth are in the Sahel countries. The extreme
+poverty rate in the subregion for 2030 is projected to be about 1 percent higher than the pre-COVID-19
+projections. With just 7 percent of the global population, at the current projected economic growth
+trajectory, nearly 24 percent of the global extreme poor population will live in the Western and Central
+Africa region in 2030.
+
+3.        Sustaining equitable growth and poverty reduction during a global crisis of development is
+challenging, especially in Western and Central Africa which is disproportionally affected by pandemic
+risks, climate change, and rising fragility and conflict. Disasters triggered by natural hazard events have
+increased in occurrence and severity in the region, particularly the Sahelian zone, in the last three
+decades.6 The majority of loss of life and economic losses in the region are caused by hydrometeorological
+events.7 Desertification and climatic and disaster hazards are projected to worsen, and risk undermining
+subregional food production through land degradation and declines in oceanic productivity, with negative
+
+
+1   World Bank, Africa Pulse, April 2023
+2
+    World Bank, Africa Pulse, April 2023
+3   World Bank, Africa Pulse, April 2023
+4   Also known in French as the Union Economique et Monétaire Ouest Africaine (UEMOA).
+5   Using the recently updated International Poverty Line of US$2.15 per person per day at 2017 Purchasing Power Parity (PPP).
+6
+    Economic Community of West African States (ECOWAS) Policy for Disaster Risk Reduction, 2006.
+7   Including floods, droughts, tropical cyclones and strong winds, storm surges, extreme temperatures, forest fires, sand and dust storms, and
+    landslides (DARA https://daraint.org/).
+
+
+                                                                                                                                            Page 4 of 15
+The World Bank
+Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+repercussions for food security, human health, and employment.8 The subregion also continues to
+experience political and security challenges, leading to fragility and violence in several countries.
+Presently, 11 countries (home to 73 percent of the population in the region) are experiencing some level
+of Fragility, Conflict, and Violence (FCV). Of these, six countries have more than 20 percent of their poor
+population living in conflict areas. The United Nations High Commissioner for Refugees (UNHCR) reported
+the number of Internally Displaced Persons (IDPs) reached over 5 million in 2019 representing a 30 percent
+increase over a 12-month period. This upward trend was mainly due to the rapidly deteriorating situation
+in Burkina Faso, Mali, and western Niger, and the situation has worsened further since. By October 2022,
+the UNHCR reported 12.9 million persons of concern across 21 countries in the subregion—an 8 percent
+increase from the previous year.9
+
+4.       To accelerate progress, development policies and programs aim to address the underlying
+constraints in Western and Central Africa including those related to demography, economic structure
+and productivity, institutions, gender, and human capital. Despite steadily declining poverty rates to pre-
+COVID-19 levels, the share of the global poor living in the region rose from 8.5 percent in 2000 to 18.8
+percent in 2019. The population of 121.6 million living in extreme poverty in the region is projected to
+increase by an additional 18.7 million by 2030. This is driven in part by rapid (projected) population growth
+that would have increased the poor population in 2030 even without COVID-19. The Western and Central
+African economies must grow both faster and more inclusively so that poverty reduction becomes more
+responsive to growth. Economic growth in many countries has been driven by high commodity prices for
+oil, minerals, and rainfed agricultural products. Accelerating inclusive growth requires economic
+diversification and regional integration by addressing low levels of infrastructure, governance, and
+productivity in the agriculture sector that employs most of the population, particularly in rural areas.
+During a time of crisis, strategies, policies, and programs that place people first help safeguard hard-won
+gains and can catalyze the required transformation by building human capital and promoting equality of
+opportunities, including for women and girls. This requires improving basic services, including access to
+electricity, adequate sanitation, education, and health services (notably maternal care and early childhood
+development.
+
+5.      The availability of good-quality data and statistics in Western and Central Africa is critical for
+informing policies to support adaptation to and mitigation of risks and to foster sustainable and
+equitable economic growth. Accurate, timely, and reliable data and statistics are instrumental for
+designing, implementing, and monitoring effective development policies and programs to accelerate
+poverty reduction, promote equitable growth, and address climate change. The National Statistical
+Systems (NSSs) in countries along with Regional Economic Communities (RECs) are the primary producers
+of these core data and official statistics, which in a well-functioning Integrated National Data System are
+complemented with information produced by many stakeholders in the private sector—including satellite
+and remote sensing data or by-products such as Call Detailed Record (CDR) in the telecommunications
+sector—and by academia, civil society organizations, and citizens.
+
+6.     The COVID-19 pandemic slowed progress in many statistical operations such as population and
+housing censuses (PHCs), economic censuses, and household surveys, but some progress has been made
+in the production of statistics. Several countries are conducting PHCs in line with international
+8   Serdeczny, Olivia, et al. 2017. “Climate Change Impacts in Sub-Saharan Africa: From Physical Changes to Their Social Repercussions.�?
+    Regional Environmental Change 17: 1585–1600.
+9
+    UNHCR Standing Committee, Update - West and Central Africa (February 24, 2020, and October 31, 2022).
+
+                                                                                                                                     Page 5 of 15
+     The World Bank
+     Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+      recommendations and are making more frequent revisions to their National Accounts. The geographic
+      coverage, timeliness, and base year of the Consumer Price Index (CPI) have also improved. External trade
+      statistics are harmonized in many countries, and most of the countries use the same software,
+      EUROTRACE.10 With the World Bank’s support, the number of countries conducting regular surveys that
+      collect data to estimate poverty has increased. The quality (including timeliness) of social indicators has
+      also improved with the support of donor-funded programs such as the Demographic and Health Survey
+      (DHS) and the Multiple Indicator Cluster Survey (MICS). Innovative approaches based on satellite data and
+      High Frequency Phone Surveys (HFPS) are now incorporated in the statistics offices’ tools.
+
+
+
+Sectoral and Institutional Context
+
+
+      7.       For decades, many African countries have experienced a vicious cycle of under-funding, under-
+      provision, low capacity, and under-utilization of data for monitoring and policy purposes, to provide
+      better living conditions for African peoples. In this regard, building capacity for the production and use
+      of statistics has been one of the recurrent development themes in Africa over the years. Since the 2000s,
+      many development initiatives were undertaken to improve the African statistical landscape, at the
+      continental, regional and country levels, taking advantage of the many opportunities that have been
+      presented by the changing policy environment, including the focus by national governments and the
+      international community on management for development results. These initiatives include the following:
+
+             •     Development of National Strategies for the Development of Statistics (NSDS) in many countries
+                   since 2005.
+             •     Improved legislation on statistics with more countries making the National Statistics Office (NSO)
+                   more autonomous.
+             •     Development of the Reference Regional Strategic Framework for Statistical Capacity Building in
+                   Africa (RRSF) which was adopted by the Conference of African Ministers responsible for
+                   development in 2007.
+             •     Development in 2009 of the African Charter on Statistics.
+             •     Development in 2011 of the Strategy for the Harmonization of Statistics in Africa (SHaSA), later
+                   renewed in 2017 as the second SHaSA (SHaSA2)
+
+     8.        Even though COVID-19 has pushed backward some progress in many statistical areas such as
+      population census, economic and household surveys, substantial progress has been made in producing
+      statistics in the continent Several countries are conducting population censuses in line with international
+      recommendations and are making more frequent revisions to their national accounts. The geographic
+      coverage, timeliness, and base year of the Consumer Price Index (CPI) have also improved. External trade
+      statistics are harmonized in many countries, and most of the countries use the same software,
+      EUROTRACE. Thanks to the World Bank's support, the number of countries conducting regular surveys
+      that collect data to estimate poverty has increased. The quality (including timeliness) of social indicators
+
+      10
+           EUROTRACE is a data management and processing application for the collection, compilation, and dissemination of external trade data at the
+           national and regional levels.
+
+
+                                                                                                                                                  Page 6 of 15
+      The World Bank
+      Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+       has also improved with the support of donor-funded programs such as the Demographic and Health
+       Survey (DHS) and the Multiple Indicator Cluster Survey (MICS).
+
+       9.       The increase in the World Bank Statistical Capacity Indicator (SCI)11 illustrates this progress in
+       statistical capacity building in Africa over the past sixteen years, though the progress made is still
+       modest. The SCI provides a grade for every country in the world on the methodology, data sources,
+       periodicity, and timeliness of core economic and social statistics. The SCI for SSA countries (excluding high
+       income12) increased from 55.2 in 2004 to 57.0 in 2020 (an increase of 1.8 score points), with progress in
+       two of the three dimensions of the SCI: methodology and periodicity. SSA’s score for periodicity is close
+       to those of the rest of the world, but it does poorly in source data (worse than all except the Middle
+       East/North Africa and not improving between 2004 and 2020).
+
+
+       10.      However, despite these gains in the frequency and quality of censuses and household surveys,
+       African Statistical Systems are far from meeting the user needs. The SCI for Africa is still the lowest
+       among developing regions and is masked by wide disparities across countries, particularly in AFW. The
+       weaknesses of the Statistical Systems in SSA are also reflected in the overall score of the continent for the
+       Statistical Performance Indicators (SPI) produced by the World Bank since 2019, as a replacement to the
+       SCI. For 2020, the World Bank SPI score for SSA was 52.4, compared to a global average of 62.3. This
+       indicator provides a measure of the degree to which NSS contribute to better decisions and strong
+       accountability by meeting user needs for statistics. It assesses countries on five pillars of statistical
+       performance: (i) data use – extent to which data produced by the NSS are used widely and frequently by
+       different stakeholders; (ii) data services – extent to which services connect data users to producers
+       through data releases, online access and data access services such as secure microdata access; (iii) data
+       products – availability and quality of key NSS data products to produce indicators needed to measure
+       progress toward the Sustainable Development Goals (SDG), (iv) data sources – the extent to which a
+       country collects key data sources (e.g. population census, agricultural census, business establishment
+       census, household survey to measure poverty, labor force survey, health survey, vital registration system
+       coverage, and geospatial data); (v) data infrastructure – availability and quality of institutional
+       infrastructure (legislation, governance, standards) and the financial resources needed to deliver useful
+       and widely used data products and services. Countries are scored against 51 indicators in these pillars,
+       using publicly available information. The overall Statistical Performance score is then calculated as a
+       simple average of all five pillar scores on a scale of 0-100.
+
+
+C. Proposed Development Objective(s)
+
+Development Objective(s) (From PAD)
+The Project Development Objective is to improve country statistical performance, regional harmonization, data access
+and use, and to enhance modernization of the statistical system in participating countries.
+
+
+
+       11   The World Bank’s SCI is a composite score assessing a country’s statistical system based on a diagnostic framework assessing methodology,
+            data sources, periodicity, and timeliness. Countries are scored on 25 criteria in these areas using publicly available information and country
+            input. The overall SCI score is calculated as the average of all three area scores on a scale of 0 to 100.
+       12   Mauritius and Seychelles
+
+
+                                                                                                                                                       Page 7 of 15
+     The World Bank
+     Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+Key Results
+
+      11.      The key aspects of the Project Development Objective (PDO) are the improvements of (i) the
+      statistical performance of the NSSs; (ii) quality of data access and use; (iii) harmonization of statistics
+      and (iv) modernization of NSOs. The project also aims to support the modernization process of the
+      regional statistical systems. The focus area of the statistical performance component of the NSSs relates
+      to their ability to generate data based on international standards, in a timely manner, and their wide
+      availability and use. The harmonization component of the PDO aims to enhance statistical cooperation in
+      the region to produce comparable and quality statistics which means that the NSOs (a) are provided with
+      common regional guidelines and (b) have trained staff with adequate skills to implement them. Another
+      requirement to produce these harmonized statistics is the availability of financial resources at country
+      levels to undertake statistics operations needed to implement the provided regional guidelines. The data
+      access component focuses on making widely available statistical products and reports and micro-data to
+      users.
+
+      12.     The project will use the following PDO indicators to monitor progress toward achieving the PDO.
+        (a)   Improved SPI of project participating countries in variables the project influence:
+              (i) Increase in statistical performance indicators of project participating countries tailored on
+                  variables the project will influence (percentage) – disaggregated by participating countries.
+        (b)   Improved quality of data access and use:
+              (ii) Increase in users who are satisfied with the accessibility of statistical products as determined
+                    by the user satisfaction survey (percentage) - disaggregated by participating countries.
+              (iii) Reports produced using statistics/datasets/indicators supported by the project and new
+                    data sources (number) - disaggregated by participating countries.
+        (c)   Improved regional harmonization and comparability of core statistics:
+              (iv) Harmonized core economic and social statistics produced according to the applicable
+                   regional standards and made publicly available on national or regional websites and prints
+                   (number) - disaggregated by participating countries.
+        (d)   Enhanced modernization of NSOs:
+              (v) New statistical products are produced through project financing using improved data
+                  collection and computerized data checking methods (number) - disaggregated by
+                  participating countries.
+
+      13.      The strategic objective on the statistical performance of the NSSs relates to their ability to
+      generate data based on international standards, on time, and their wide availability and use. The
+      strategic objective on harmonization involves harmonization of statistical methodologies, key data
+      collection instruments, and tools in line with international standards and Western and Central African
+      realities, to produce comparable, accurate, and up-to-date statistics to inform both national development
+      and regional integration agendas. This will enhance statistical cooperation in the region to produce
+      comparable and quality statistics, which requires (a) availability common regional statistical guidelines
+      and tools in line with international standards and (b) trained staff with adequate skills to implement them.
+      Another requirement to produce these harmonized statistics is the availability of financial resources at
+      the country levels to undertake statistical activities needed to implement the regional guidelines provided.
+      The data access and use focus on making statistical products and reports widely available, tailored to
+
+                                                                                                                 Page 8 of 15
+      The World Bank
+      Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+      users’ needs. The strategic objective on modernization aims at building a stable and sustainable statistical
+      system with adequate institutions and using innovative solutions and alternative data sources required
+      for production of quality statistics, along with modern equipment and buildings.
+
+
+D. Project Description
+
+      14.      The proposed series of projects aims to improve the performance of national and regional
+      statistical systems in Western and Central Africa. It is proposed, to implement this program into two
+      series, with countries grouped in alignment with sub-regional organizations: ECOWAS: Benin, Gambia
+      (The), Guinea, Guinea-Bissau, Mali, Mauritania, Niger, and Senegal; and CEMAC: Cameroon, Central
+      African Republic, Chad, Gabon, and Republic of Congo.
+
+      15.    The current project will be the second sequence of the series with Cameroon, Central African
+      Republic, Chad, Gabon, and Republic of Congo, as participating countries. This series of project – 2
+      (SOP2) will also support the Economic and monetary Community of Central Africa (CEMAC) in its
+      coordination and advocacy roles to improve comparability and harmonization of statistics in the region.
+
+      16.      In line with the project's main objective, activities of this SOP - 2 were selected as they are
+      essential inputs for improving the statistical performance index of the country's NSS, as well as for
+      implementing regional policies. In particular, the program includes all the specific indicators highlighted
+      above in the sectoral context where participating countries share common performance weaknesses as
+      well as country specific weaknesses. However, the selection criteria for activities are not only based on
+      whether the country is not well performing on a dimension, but also on the potential impact of the said
+      activity on other SPI indicators. That is for instance the cases for the population census, poverty survey,
+      labor force survey (LFS) and DHS/MICS, the availability of which, not only account for the pillars 4 (data
+      sources) and 5 (data infrastructure), but also has significant impact on the pillar 3 (data products related
+      to availability of SDGs’ indicators).
+
+
+      17.     The project’s activities are grouped into four components.
+
+      Component 1: Harmonization and Production of Core Statistics using International Data Quality
+      Standards
+
+      18.      Activities under this first component relate to supporting the regional statistical harmonization
+      process and the production of quality core statistics to improve data sources and data infrastructure
+      pillars of the SPI, where participating countries in the region are severely doing poorly in terms of
+      statistical performance. Harmonization of statistics requires adoption of international standards, and the
+      production of a core set of economic, social, and demographic statistics will improve data availability to
+      meet users’ demand for statistics, especially regarding indicators needed to monitor most of the SDGs
+      (Pillar 3 of the SPI). Activities under this component will improve Pillars 4 (data sources) and 5 (data
+      infrastructure) of the SPI where participating countries in the region are doing poorly in terms of statistical
+      performance. Harmonization will help in the adoption of international standards and the production of a
+
+
+
+                                                                                                                   Page 9 of 15
+The World Bank
+Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+core set of economic, social, and demographic statistics will make data available to meet users’ demand
+for statistics.
+
+Component 2: Statistical Modernization, Institutional Reform, Human Capital, Data Accessibility and
+Use
+
+19.      The second component aims to support statistical modernization; institutional reforms;
+improvement to data access, dissemination, and use; and human resources development. In today’s
+fast-changing world, NSOs need to transform and modernize to respond better to emerging and increasing
+demand for timely and accurate data, to meet the twenty-first century development data requirements
+and challenges. These require NSOs to (a) consider the data revolution, (b) become more user-centric,
+and (c) modernize their methods and organization to provide data in new ways and use new methods to
+complement traditional statistics. Big Data has shown the potential to be used to complement official
+statistics in many areas to enable NSOs to be more resilient in executing their mandate of providing users
+with the necessary information. In this context, this component aims to support NSOs of participating
+countries to prepare themselves in moving toward what the 2021 WDR called an Integrated National Data
+System, by supporting them to harness the potential of new data sources. The project will support the
+participating countries’ NSOs to use advanced technologies and develop new, cost-effective methods to
+integrate data from a variety of sources. In addition, this component will support efforts to improve data
+access, dissemination, and use. Furthermore, it will invest in human capital, academic training in statistics,
+and on-the-job training of staff to help address the shortage of statisticians with expertise and skills in
+specialized areas faced by countries in both regions, such as in National Accounts, agricultural statistics,
+household surveys, trade statistics, financial statistics, and price statistics. Finally, it supports one of the
+key principles of institutional reforms in the form of TA to the participating countries seeking to update
+their Statistics Act or regulations to include provisions for sustainable funding of statistical activities and
+to finance TA to improve data protection frameworks applicable to statistical activities in participating
+countries.
+
+Component 3: Construction, Upgrading and Modernization of Physical Infrastructure
+
+20.      The working environment and the availability of suitable equipment are important pillars for
+strengthening statistical capacity. The NSOs in the participating countries are the leading official
+statistical agencies within the NSS in data production, which means that the government will play a critical
+role to enable value creation in the data produced. They are a key factor in the productivity of any NSS
+institution and its performance. For example, power shortages and low internet bandwidth can severely
+limit productivity. Similarly, data statistical software for analysis and/or data science—such as Statistical
+Package for the Social Sciences (SPSS), Stata and so on—which are basic data manipulation tools (process
+of organizing information to make it readable and understandable) and allow data sharing and
+accessibility of statistical production. In many countries, these tools are not readily available, and some
+staff use their own private resources for official business. This component aims to strengthen the capacity
+of NSOs and statistical schools with the equipment and tools needed to adequately fulfill their mandates.
+Under this component, the project will support the construction of a new building or rehabilitation of
+physical and ICT infrastructure for NSOs and schools of statistics. Needs assessment will be conducted
+country by country with the NSOs, and for select countries without good infrastructure, they will be
+rebuilt.
+
+
+                                                                                                             Page 10 of 15
+       The World Bank
+       Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+       Component 4: Project Management, Monitoring, and Evaluation
+
+       21.     The goal of this component is to support project management and monitor project results and
+       user satisfaction.
+
+
+.
+.
+Legal Operational Policies
+                                                                       Triggered?
+
+Projects on International Waterways OP 7.50                           No
+
+Projects in Disputed Areas OP 7.60                                    No
+
+
+Summary of Assessment of Environmental and Social Risks and Impacts
+.
+
+       22.      The project environmental and social risk rating is Moderate at appraisal stage for both
+       environmental and social risks. Key environmental concerns are related to the implementation of
+       activities under Component 3 (Construction, Upgrading and Modernization of Physical Infrastructure).
+       Under this component the project will support the modernization of NSOs buildings and statistical schools
+       by building or upgrading office complexes with modern facilities and providing needed office furniture
+       and equipment for the entire statistical cycle from production through dissemination in CAR (Bangui),
+       Chad (N’Djamena), Republic of Congo (Brazzaville), Gabon (Libreville), and Cameroon (only renovation of
+       existing building and technical studies for future buildings). Although potential risks and impacts might
+       differ for each country as per scope of activities that will be undertaken, typical environmental risks and
+       impacts during construction and/or rehabilitation activities include but not limited to noise and vibration,
+       soil erosion, dust and air quality deterioration, solid waste (including asbestos, construction debris, and
+       e-waste), hazardous materials and waste, land contamination, occupational health and safety (including
+       injury and accidents during construction and installation of furniture and equipment), and community
+       health and safety. Main sources of impacts during operations and maintenance are: labor management,
+       national censuses and surveys, which entail risks of traffic-related accidents; and injuries to workers and
+       local communities due to discarding old equipment; improper disposal of electronic waste and others;
+       management of other wastes and wastewater.
+
+       23.      Key social concerns for all project activities relate to: (i) ensuring that any statistical guidelines
+       and frameworks established under the project include considerations of digital data protection and
+       security both within the country and the region, including requisite ethical and data security protocols for
+       the collection of physical specimens (sampling populations for HIV surveillance for example); (ii) possible
+       exclusion risks related to inadequate stakeholder engagement at the regional and national level with all
+       stakeholders, including civil society and vulnerable groups (such as internally displaced persons, refugees,
+       persons with disabilities, women, the elderly) in a manner that is culturally appropriate, accessible and
+       transparent and sufficiently explains the benefits and impacts of the activities; (iii) exclusion risks for
+       Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional Local Communities
+
+
+                                                                                                                   Page 11 of 15
+         The World Bank
+         Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+          (IP/SSAHUTLCs) if surveys/census do not take into consideration their social, economic, and cultural
+          institutions and norms; (iv) some SEA/SH risks during implementation depending on the scale and scope
+          of the construction and census/surveys; and (v) security/fragility risks for activities that will be
+          implemented in FCV contexts such as CAR, Chad, and RoC; (vi) and risks to vulnerable groups such as
+          pregnant women/girls, persons with disabilities, ethnic minorities in conflict prone areas internally
+          displaced persons, refugees, returnees, sexual and gender minorities, and IP/SSAHUTLCs may be placed
+          at risk (including exclusion from school, subject to prosecution under the law, conflict and violence,
+          stigmatization due to cultural norms or exclusion from benefits) if data is collected or shared
+          inappropriately. Moreover, IP/SSAHUTLCS and other communities practicing traditional livelihoods such
+          as transhumance pastoralism (including those who may move cross-borders) may also be at risk from
+          exclusion from the project in the census/survey activities due to seasonal migration and movement as a
+          result of their seasonal livelihood activities, lack of access to electricity and information technology to
+          receive notifications through electronic media such as radio, television and the internet, low literacy rates,
+          and census questions which may not recognize their identities, livelihoods, lands, among others.
+
+          24.     The overall project risk level for SEA/SH is substantial with the country specific risks varying from
+          substantial for Cameroon, CAR, Chad and Republic of Congo, moderate for Gabon, and low for the regional
+          CEMAC PIU. The risk levels and based on GBV prevalence and acceptance in each country, the legal
+          framework and capacity of national actors to address GBV as well as risks related to project activities
+          (especially surveys and construction) and capacity of the clients to identify and mitigate those risks.
+
+
+
+
+    E. Implementation
+
+    Institutional and Implementation Arrangements
+
+25.     The HISWACA -SOP 2 entails implementation of activities at regional and country levels within a coordinated
+regional framework. The activities financed through the regional IDA grant will be implemented through the regional
+Project Implementation Unit (PIU) at the CEMAC. National-level PIUs will implement activities financed through the
+national and regional IDA Credits and Grants and IBRD Loan to the Republic of Gabon. Periodic meetings will be held
+between the national and regional PIUs and technical experts for knowledge exchange and coordination during the
+project's implementation. The project’s activities will also be implemented through a strong partnership and collaboration
+with many technical institutions with significant comparative advantage on relevant topics, to leverage from their
+expertise. These include IMF, UNFPA, AFRISTAT among others.
+.
+
+    CONTACT POINT
+
+    World Bank
+
+    Clarence Tsimpo Nkengne
+    Senior Economist
+
+
+
+                                                                                                                     Page 12 of 15
+          The World Bank
+          Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+   Aboudrahyme Savadogo
+   Economist
+
+   Gervais Chamberlin Yama
+   Statistician
+
+   Mervy Ever Viboudoulou Vilpoux
+   Economist
+
+   Borrower/Client/Recipient
+   Economic and Monetary Community of Central Africa (CEMAC)
+   Roland Marc Lontchi
+   Director in charge of Statistics
+   rlontchi@gmail.com
+
+   The Central African Republic
+   Blaise Bienvenue Ali
+   Director General
+   contact@icasees.cf
+
+   The Republic of Congo
+   Gaspart Symphorien Mbou Likibi
+   Director General
+   mboulikibi@yahoo.fr
+
+   The Republic of Cameroon
+   Mr. Joseph Tedou
+   Director General
+   josephtedou@yahoo.fr
+
+   The Republic of Chad
+   Zakaria Moursal Baradine
+   Director General
+   baradinezakaria7@gmail.com
+
+   The Republic of Gabon
+   Prosper Ebang
+   Director General
+   ebangebang@yahoo.fr
+   Implementing Agencies
+
+
+
+
+June 15, 2023                                                                                           Page 13 of 15
+          The World Bank
+          Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+
+   Comm. National des Travaix d'Intérêt Public pour la Prom. de l'Entrep. et de l'Emploi (CN-TIPPEE)
+   Prosper Ebang
+   Director General
+   ebangebang@yahoo.fr
+
+   Economic and Monetary Community of Central Africa (CEMAC) Commission
+   Roland Marc Lontchi
+   Director in charge of Statistics
+   LONTCHIR@cemac.int
+
+   Institut Centrafricain des Statistiques et des Etudes Economiques et Sociales (ICASEES) | CAR
+   Blaise Bienvenue Ali
+   Director General
+   blaisebienvenua@gmail.com
+
+   Institut National de la Statistique (INS) | Rep. of Cameroon
+   Joseph Tedou
+   General Director
+   josephtedou@yahoo.fr
+
+   Institut National de la Statistique, des Études Économiques et Démographiques (INSEED) | Rep.of Chad
+   Zakaria Moursal BARADINE
+   Director General
+   baradinezakaria7@gmail.com
+
+   Ministère du Plan, de la statistique et de l’Intégration Régionale | Rep. of Congo
+   Gaspart Symphorien Mbou Likibi
+   Director General
+   mboulikibi@yahoo.fr
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+
+June 15, 2023                                                                                             Page 14 of 15
+          The World Bank
+          Harmonizing and Improving Statistics in West and Central Africa (HISWACA) - SOP 2 (P180085)
+
+
+
+   APPROVAL
+
+
+                                         Clarence Tsimpo Nkengne
+                                         Aboudrahyme Savadogo
+   Task Team Leader(s):
+                                         Gervais Chamberlin Yama
+                                         Mervy Ever Viboudoulou Vilpoux
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                     Mohammed Dalil Essakali                20-Jun-2023
+
+
+
+
+June 15, 2023                                                                                           Page 15 of 15
+

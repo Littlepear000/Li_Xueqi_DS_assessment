@@ -1,0 +1,648 @@
+﻿         The World Bank
+         Burundi Offgrid Access Project (P164435)
+
+
+
+
+                          Project Information Document (PID)
+
+                         Concept Stage | Date Prepared/Updated: 11-May-2019 | Report No: PIDC25793
+
+
+
+
+April 2019                                                                                           Page 1 of 14
+         The World Bank
+         Burundi Offgrid Access Project (P164435)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)    Project Name
+  Burundi                                        P164435                                                  Burundi Access to
+                                                                                                          Sustainable Energy
+                                                                                                          (P164435)
+  Region                                         Estimated Appraisal Date   Estimated Board Date          Practice Area (Lead)
+  AFRICA                                         Nov 25, 2019               Dec 12, 2019                  Energy & Extractives
+
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Ministère des Finances     Ministère de l’Hydraulique,
+                                                                            de l’Energie et des Mines
+                                                                            (MHEM), Agence Burundaise
+                                                                            d’Electrification Rurale
+                                                                            (ABER)
+
+    Proposed Development Objective(s)
+
+    Expand access to energy services for Burundian households, businesses and public institutions in rural areas.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                      50.00
+    Total Financing                                                                                                        50.00
+
+                             of which IBRD/IDA                                                                             50.00
+
+    Financing Gap                                                                                                            0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Development Association (IDA)                                                                          50.00
+
+             IDA Grant                                                                                                      50.00
+
+
+
+
+  Environmental and Social Risk Classification                              Concept Review Decision
+
+
+April 2019                                                                                                              Page 2 of 14
+          The World Bank
+          Burundi Offgrid Access Project (P164435)
+
+
+     Substantial                                                                  Track II-The review did authorize the preparation to
+                                                                                  continue
+
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+ 1. Burundi is a small, landlocked country in eastern central Africa with a total land area of 27,834 km 2 and
+    approximately 10.5 million inhabitants, making it the third most densely populated country in the
+    continental Sub-Saharan Africa. With its extremely low urbanization level (12 percent), Burundi has the
+    most densely populated rural areas in the world. The high population growth rates (expected to double by
+    2040) and high population density (423 people per km2 in 2017) generate pressure on land and natural
+    resources.1 Burundi’s population is very young. About 58 percent of the population is below 19 years old.
+    Economic growth is largely dependent on agriculture, accounting for about 32 percent of the Gross Domestic
+    Product (GDP) and 90 percent of livelihoods. This dependence, however, can lead to extreme vulnerability
+    to climatic and external shocks. Although agriculture is the backbone of the economy, many Burundians face
+    hunger, malnutrition, and stunted development.
+ 2. The years of conflict have placed significant strain on Burundi’s economy and population. Tension between
+    the country’s two main ethnic groups – exacerbated by land scarcity issues – erupted in a civil war in 1993,
+    which ended in 2006. The impact on the economy and human lives was devastating (“mass poverty�?).
+    Burundi showed initial signs of economic recovery from 2010 to 2014 when GDP grew by an average of 4.2
+    percent per year. The renewed outbreak of political disturbance in April 2015 resulted in economic
+    contraction, with a negative GDP growth of 3.9 percent in 2015 and 0.6 percent in 2016.2 However, 2017
+    again showed signs of recovery as annual GDP growth was positive, at 0.5 percent. This pick up was
+    supported by rebounds in coffee production and other industries, as chronic power shortages were reduced.
+    World Bank projections also show positive real GDP growth rates, up to an estimated 2.5 percent in 2020. 3
+    Security has improved since 2015 but remains fragile.
+ 3. Burundi is a fragile and conflict-affected country with considerable development challenges. Despite
+    strong efforts and improvement in key health and education indicators, Burundi ranks 165th out of 189
+    countries on the 2018 Statistical Update of the Human Development Index. After more than 10 years of
+    open conflict, almost three years of economic embargo, and a four-year post-war emergency period,
+    Burundi has one of the lowest per capita Gross National Income (GNIs) in the world (US$280 in 2016).
+    According to the Poverty Assessment of 2016 and the most recent national household survey (Enquête sur
+
+ 1 Food and Agriculture Organization and World Bank population estimates. https://data.worldbank.org/indicator/EN.POP.DNST
+ 2 The political unrest and violence that erupted in April 2015 was in the wake of the contested reelection of the incumbent President for a third term
+ in office in open violation of the Arusha accords
+ 3 World Bank Group, Burundi Interim Economic Update, August 2018. Macroeconomics, Trade and Investment Global Practice.
+
+
+
+April 2019                                                                                                                                 Page 3 of 14
+         The World Bank
+         Burundi Offgrid Access Project (P164435)
+
+
+      les Conditions de Vie des Ménages Burundais, ECVMB, 2017)4, around 65 percent of the Burundian
+      population is classified as poor (living under the national poverty line of US$2 a day) and over 70 percent
+      lives on less than US$1.90 per capita and per day.
+4. Electricity deficiency is one of the principal barriers to social and economic development in Burundi . Not
+   more than 7.6 percent of the population of Burundi has access to electricity5—one of the lowest in the world.
+   According to the ECVMB 2017, the electricity rate in rural Burundi is as little as 1.8 percent6, which makes it
+   impossible to provide key social services such as education and health to the population. A 2014 World Bank
+   Enterprise Survey, the latest so far, found that 22 percent of Burundian firms identified poor electricity
+   access and reliability as major barriers to investment, compared to an average 15 percent across Sub
+   Saharan Africa.7 Fewer power shortages took place in 2017, thanks to the extra 30MW of backup generation,
+   but inadequate power supply continues to limit industrial activity. The 2016 Regulatory Indicators for
+   Sustainable Energy (RISE), a World Bank index that “assesses countries’ policy and regulatory supp ort for
+   each of the three pillars of sustainable energy (access to modern energy, energy efficiency, and renewable
+   energy),�? places Burundi in a red zone in terms of grid electrification—indicating that the country is in the
+   bottom third in their policy and regulatory environment8,9 Poor coverage and low-quality infrastructure
+   create time and money costs – that lowers the return on capital and labor, discourage investment, and
+   constrain economic growth.
+5. The Government of Burundi is committed to supporting the economic and social development of the
+   country, as outlined in the “National Development Plan 2018 -2027�? (Plan National de Développement,
+   PND), where energy deficit is outlined as one of the main constraints to economic growth. The
+   Government of Burundi (GoB) identified three strategic objectives, the first of which being to ensure
+   “sustainable and inclusive growth for economic resilience and sustainable development�?. Under this
+   objective, the second strategic pillar focuses on appropriate infrastructure to support energy production
+   and promotes alternative sources of energy. At the heart of the PND is a focus on rural areas, where more
+   than 9 million people live, and for which the Government wishes to allocate 60 percent of all resources of
+   the Plan over the next 10 years.
+
+
+
+    Sectoral and Institutional Context
+
+
+6. Governed by the Electricity Law of 2015, the electricity sector in Burundi is largely vertically integrated
+   with a single, fully publicly owned utility that manages all levels of the electricity supply chain: generation,
+   transmission and distribution. The sector currently operates under a single-buyer model, with independent
+   power producers that inject supply to the main utility. Rural electricity service provision by isolated
+
+4 ECVMB, Enquête sur les Conditions de Vie des Ménages Burundais (2017).
+5 Global Tracking Framework, 2016.
+6 5 percent in the Country Partnership Framework (CPF) for the Republic of Burundi For the Period of FY18-FY22 (Draft for Discussion). The World
+
+Bank (2018) versus 7 percent in the Burundi 2016 RISE country data versus 7.5 percent in the Subjective Poverty and recent Changes in Living
+Conditions: Findings from the Rapid Household Survey (ECVMB 2017), World Bank, June 2018.
+7 Enterprise Surveys (http://www.enterprisesurveys.org). The World Bank. Burundi (2014).
+8 According to Burundi 2016 Regulatory Indicators for Sustainable Energy (RISE)s country data.
+9 http://www.worldbank.org/en/topic/energy/publication/rise---regulatory-indicators-for-sustainable-energy
+
+
+April 2019                                                                                                                              Page 4
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+     networks is managed by a rural electrification agency which owns and operates the infrastructure. The
+     Electricity Law is not comprehensive and requires further augmentation; for example, there is currently no
+     specific legal framework for the development of renewable energy. Nevertheless, the Law presents a broad
+     public-private partnership framework and allows for various electricity production regimes10, competition
+     in generation, and light-handed regulation for small power projects.
+7. The key institutional sector stakeholders are:
+          The Ministry of Hydraulic, Energy and Mines (MHEM). The MHEM is responsible for developing and
+          implementing the energy sector policies, administering sector planning, and supervising state electricity
+          and mining state enterprises. Its mandate also includes development of an energy supply program to
+          ensure sustainable access of the population to modern energy sources; promotion of renewable
+          energies through adequate research and dissemination actions; participation in exchange and
+          partnership programs with regional and international institutions, of which Burundi is a member; and
+          planning, construction and management of basic water, energy and sanitation infrastructure projects.
+          L’Agence Burundaise de l’Électrification Rurale (ABER). ABER is an agency responsible for the
+          development and implementation of rural electrification programs and projects. It owns and manages
+          mini-grids (from hydro, solar and wind energy), and other forms of rural electrification. ABER was
+          founded in 2012 and approved by the Ministerial decree N530/777 in 2013. ABER operates under the
+          responsibility of MHEM, as a “personalized administration�? of the State.
+          La Régie de Production et de Distribution de l’Eau et de l'Électricité (REGIDESO). REGIDESO is a state-
+          owned national electricity and water production and distribution company created in 1962 on the
+          independence of the country. REGIDESO is vertically-integrated and the main producer and supplier of
+          electricity in Burundi, serving about 76,000 customers. REGIDESO has a monopoly on electricity supply,
+          transmission, and distribution in urban and rural areas; this monopoly was renewed in 2015 for 25
+          years.11
+          L’Autorité de Régulation des Secteurs de l'Eau Potable et de l’Energie (AREEN). AREEN is the regulatory
+          agency for the electricity and water sector in Burundi (established in 2014 and reorganized in 2018).
+          AREEN’s principal mission is to ensure the transparent and profitable development of Burundi's water
+          and electricity sector; control, regulation and monitoring of related activities to enforce the execution
+          of contractual provisions, regulations, and specifications by sector operators; and the implementation,
+          monitoring and enforcement of rates in accordance with the set pricing principles.
+8. The country has excellent, but largely untapped renewable energy potential, including solar, biomass and
+   wind. The average solar installation in Burundi is similar to that of Southern Europe with around 4-
+   5kWh/m²/day in the Eastern part of the country and 3.3-4.0kWh/m²/day at high altitudes in the Western
+   part of the country (or 2000 kWh/m2.year on average). As for wind energy, there are few sites suitable for
+   wind power generation in Burundi, but some locations such as the shores of Lake Tanganyika (wind speed is
+10 Electricity Law of 2015 provides for various production regimes and supply for auto-consumption, including (1) public concessions for hydro
+plants (2) projects operating on public lands which require contracts with the state or parastatal entity (3) projects greater than 500kW on private
+land that require authorization from the Ministry of Energy and (4) power projects less than 500kW that must simply be declared.
+11 The Electricity Law dated 23 April 2015 grants to Regideso the monopoly of transmission, distribution and supply of the electricity for 25 years as
+
+from the entry into force of the Electricity Law. However, direct selling to private third-party may be authorised under specific conditions, see
+Section 4 (b).
+
+April 2019                                                                                                                                  Page 5
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+     4 to 5 m/s) could prove to have favorable conditions for the exploitation of such energy. Data on wind
+     patterns has been recorded by the Institute for Agronomic Sciences of Burundi (ISABU), primarily for
+     agricultural purposes, giving a mean wind speed between 4 and 6 m/s. To-date, no feasibility studies on
+     wind power have been carried out in Burundi. There are also several available sources of waste biomass and
+     agricultural residue in different forms in Burundi, which can be sustainably harvested and transformed into
+     energy sources.
+9. The power generation sources are largely hydropower and diesel . Total capacity is 58 MW and the
+   Electricity is supplied by the following sources: (i) 35.5 MW generated from power plants in Burundi (of
+   which 86 percent comes from hydropower generation and the rest from diesel); (ii) 3.5 MW are purchased
+   from the DRC (Ruzizi I); and (iii) 12 MW are purchased from the regional hydropower plant Ruzizi II (a
+   partnership between the governments of Burundi, DRC, and Rwanda; located along the DRC/Rwanda
+   border). The existing hydropower stations have an availability factor of only 30 percent, which is significantly
+   lower than that of a normal hydropower station, estimated around 80 – 90 percent. This is primarily due to
+   deteriorating equipment and seasonal fluctuations in availability of water resources. The high reliance on
+   hydropower makes the electricity supply vulnerable to seasonal droughts.
+10. Burundi’s power generation sector has been opened to competition since 2015, although with l imited
+    results so far in mobilizing private sector investments . The change is still recent, but the political unrest in
+    2015 also worked as a detractor of investments. Burundi has some experience with privately-financed
+    projects in the energy sector, including various small hydro plants, but the enabling environment for
+    investments is still feeble. Nonetheless, due to the large investment needs and limited investment capacity
+    within the country’s utility, the GoB is looking to increase private sector participation to address the power
+    sector needs. So far, Independent Power Producer (IPP) projects have been awarded on a sole sourced basis.
+    This has implied tariffs somewhat higher than in neighboring countries, reflecting the higher risks that
+    private investors face in Burundi’s power sector. To-date, there is one IPP operating a gas-fired plant of 30
+    MW in Bujumbura, and a contract with Gigawatt for 7.5 MW solar PV-based production has been signed.
+    The PV plant is currently under construction.
+11. REGIDESO serves only about 76,000 customers, mainly in the capital. Currently, close to two-thirds (64
+    percent) of REGIDESO’s consumer base are in the capital city, Bujumbura. The rest of the country remains
+    largely unserved. During the 1993–2006 civil war, the electricity access rate in areas connected to the grid
+    halved as the urban population doubled, and the number of customers of the state-owned utility REGIDESO
+    decreased due to damage of the distribution system. Insufficient energy supply is undermining economic
+    growth opportunities for small to large businesses. The imbalance between supply and demand resulted in
+    rolling blackouts in 2015 and 2016 and service interruptions.12 The annual supply shedding was estimated
+    at 15 GWh, about 5 percent of the total electricity production each year. Preliminary studies also estimate
+    that in 2017 there was a shortage of almost 29 GWh. Firms experience 16.6 electrical outages in a typical
+    month.13 Supply shortages and high electricity prices limit commercial opportunities for small-scale farmers,
+    and small to large businesses. For this reason, many large industrial customers rely on expensive alternative
+12 Plan Directeur de Production et de Transport de l’Energie Électrique au Burundi. Tractebel. (2018). Rapport final - Tome 2: Volume 1 - Prévision
+de la demande. Page 21.
+13 The Enterprise Survey shows that firms in Burundi experience 16.6 electrical outages in a typical month, compared to 8.6 in Sub Saharan Africa,
+
+and 12 percent in low-income countries. Similarly, 64.2 percent of the firms surveyed in Burundi own or share a generator, compared to 52.8 in
+Sub-Saharan Africa and 34.0 in low-income countries.
+
+April 2019                                                                                                                                 Page 6
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+     production sources such as privately-owned diesel backup generators to compensate for the frequent load-
+     shedding, unreliable grid supply and high prices. 64.2 percent of the firms surveyed in Burundi own or share
+     a generator. The cumulative capacity of individual diesel generators is unknown at this point.
+12. The energy sector in Burundi faces multitude of challenges.
+13. First, access to electricity remains extremely limited, particularly in rural areas. Reliable data on energy
+    access is not available and consequently, access estimates differ. The 2017 Burundi Rapid Household Survey
+    (ECVMB 2017) reports that 7.5 percent of the population has access to electricity. While 72.5 percent of the
+    population living in Bujumbura and 42.6 percent of the population living in other urban centers have access
+    to electricity, the proportion falls to 1.8 percent of the population in rural areas.14 Access expansion is
+    constrained by insufficient electricity supply and unreliable transmission and distribution infrastructure
+    resulting from prolonged conflict. Those who have access to electricity, consume little and face unreliable
+    service. As of 2003, 48.4 percent of electricity was consumed by households and 19.9 percent by businesses.
+    Burundi’s average per capita consumption of electricity, at 23 kilowatt hour/year (kWh/year), is among the
+    lowest in Sub Saharan Africa where the regional average is 480 kWh/year.15,16 Outages are frequent due to
+    various reasons: insufficient supply, related to lack of investment in new generation capacity along with
+    inadequate maintenance of the existing plants, excessive reliance on hydropower (affecting supply during
+    droughts), high technical and commercial losses and operational failures.
+14. Second, the dependence on biomass is overwhelming with significant implications for deforestation and
+    environment. Biomass represents 95 percent of primary energy consumption, while electricity only
+    accounts for 1.3 percent and oil 2.5 percent. An estimated 98 percent of the population, in urban and rural
+    areas, uses wood or wood-fuel as the main source for heating and cooking. Cooking happens indoor for 92
+    percent of the population (96 percent for rural and 60 percent for urban). Most households cooking with
+    wood or residues use 3-stones (e.g. the rural ones) while those using charcoal (urban) use metal or metal-
+    ceramic combination stoves that exist in several forms but have limited combustion efficiency. This situation
+    results in (i) significant natural capital depletion, estimated at 29% of GDP per capita in 2010 and largely due
+    to a net depletion of forests17, and (ii) dire health costs for families (especially the youngest members of
+    families) due to respiratory illness related to indoor air pollution.
+15. Third, growing demand is forcing the sector to rely on expensive emergency rental power. Peak demand
+    is expected to grow to 89 MW in 2020 and 249 MW in 2030.18 Energy demand is estimated to grow 50
+    percent by 2020, from currently 288 GWh (2017 estimated figures); and reach a high of 1,287 GWh by
+    2030.19 In response to this anticipated demand growth, the GoB developed a pipeline of new generation
+    projects, including three hydro power projects20. However, these projects are not expected to come online
+
+14 Subjective Poverty and recent Changes in Living Conditions: Findings from the Rapid Household Survey (2017), World Bank, June 2018.
+15 Implementation Completion and Results Report on a Global Environment Facility Grant to the Republic of Burundi. World Bank, June 2016.
+16 World Development Indicators. Electric power consumption (kWh per capita), 2016, https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+17 Burundi Poverty Assessment, World Bank 2016 – page 153-154
+18 Plan Directeur de Production et de Transport de l’Energie Électrique au Burundi. Tractebel. (2017). Page 56. Table 11.
+19 Plan Directeur de Production et de Transport de l’Energie Électrique au Burundi. Tractebel. (2017). Page 36. Table 8.
+20 The three hydro power projects are: 31.5 MW Jiji, 16.5 MW Mulembwe (both supported by World Bank Project P133610), and 80 MW Regional
+
+Rusumo Falls (Burundi, Rwanda, and Tanzania). Financing of these projects is supported by the World Bank, African Development Bank (AfDB),
+European Investment Bank (EIB), and other bilateral agencies. However, the Regional Rusumo Falls hydro project is not expected to come online
+before 2021, and Jiji and Mulembwe not before 2023. [These delays have led to a need for deployment of] a new 30 MW thermal plant (using
+heavy fuel oil), which takes less time to be installed, and is now expected to come online in 2019.
+
+April 2019                                                                                                                           Page 7
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+     before 2021, if not later. In the meantime, REGIDESO generation capacity is supplemented by 10 MW of
+     expensive diesel capacity, rented as backup power to narrow the supply-demand gap during peak hours.
+     The REGIDESO supplied diesel emergency power generation costs between 0.30 US$/kWh and 0.39
+     US$/kWh. For example, in 2016 a tenth of the electricity supplied came from backup generators and 33
+     percent was imported.21
+16. Fourth, the sector faces growing financial, technical and managerial issues. While REGIDESO has been
+    operating with a net profit in recent years (2014-2016), the utility faces several challenges to its
+    sustainability. Tariffs for electricity and water have in the past not been cost reflective, requiring external
+    financial support. To move the electricity and water sector to cost-reflective tariff levels, the tariffs for both
+    sectors were increased in August 201722, leading to an expectation of improved financial performance for
+    REGIDESO in 2017. Moreover, the utility’s total system losses (technical and non-technical) for the past 5
+    years were 23.3 percent on average, which had been on a rising trend at 28.8 percent in 2015 and 32.1
+    percent in 2016. Under the Jiji Mulembwe Project (P133610, financed by the International Development
+    Association, the European Commission, the European Investment Bank (EIB) and the African Development
+    Bank (AfDB)), REGIDESO will carry out a performance improvement program to help address performance
+    issues, which includes, among others, a revenue protection program targeted at the largest clients and the
+    installation of new customer and technical services systems.
+17. Fifth, expanding the grid beyond urban/peri urban areas to increase access will require resources and
+    time. The recently finalized power sector masterplan estimated investment needs of US$661 million in the
+    next 5 years to reach the Government’s goal of 30% of electricity access in the country by 2030. To-date, the
+    government has not been able to mobilize funds and development partners are unwilling to commit funds
+    to grid extension. Given the limited financing available and the weak financial performance of REGIDESO,
+    Government’s priority is to densify the existing network in urban and peri urban centers. Pre -feasibility
+    studies for the densification of Bujumbura are currently under preparation with funding from the Jiji
+    Mulembwe project. In order to expand access in rural areas, alternative service delivery mechanisms are
+    needed to provide services to customers in off-grid areas, either as temporary solutions until the arrival of
+    the grid or as a permanent solution.
+18. Reaching health and education facilities, enterprises, and households with energy services is vital to
+    economic and social development in rural Burundi. While Burundi is one of the poorest countries in the
+    world, it is also one of the most unequal countries in the region with large spatial disparities across
+    geographic areas and higher poverty rates in rural areas and the Center East region. The rural-urban welfare
+    gap appears to be driven by disparities in households’ endowments in assets and education, while important
+    disparities in access to basic services and infrastructure were the main drivers of inequality between
+    regions.23 As such, the 2018 Systematic Country Diagnostic (SCD) identified increasing access to modern
+
+21 Figures from year 2016, from “Rapport Plan Directeur Burundi,�? prepared by Tractabel. No latest
+22 Electricity tariffs for residential consumers moved from a range or 3.8-15.0 US$/kWh to 4.7 US$/kWh for those consuming less than 50
+kWh/month, 16.5 US$/kWh for those consuming between 51 and 150 kWh/month, and 31.1 US$/kWh for those consuming above 150
+kWh/month. For commercial consumers tariffs are 11.1 US$/kWh for those consuming less than 100 kWh/month, 17.9 US$/kWh for those
+consuming between 101 and 250 kWh/month, and 22.7 US$/kWh for those consuming above 250 kWh/month.
+23 Burundi Poverty Assessment, World Bank, June 2016, https://consultations.worldbank.org/Data/hub/files/consultation-template/public-
+
+consultations-inform-world-bank-systematic-country-diagnostic-economic-and-social-situation/related/burundi_poverty_assessment_2016-
+2017.pdf
+
+April 2019                                                                                                                          Page 8
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+     infrastructure, specifically in the energy sector, as a priority for Burundi. Providing energy access to clinics,
+     schools, businesses and households will improve opportunities and the provision of basic services, thereby
+     improving welfare, catalyzing growth, and dramatically changing livelihoods in rural areas.
+19. Mini-grids are considered an important element of the efforts to provide access to modern energy in rural
+    areas. The overall potential is yet to be determined in detail24 but current actions of the GoB indicate a
+    growing interest in the application of mini-grids for locations that are not expected to be connected to the
+    national grid in the short and mid-term. The Electricity Law of 2015 prescribes simplified authorization
+    procedures (“simple régime de déclaration�?) for mini-grids with capacities up to 500 kW, creating options
+    for light-handed regulations of private sector led mini-grid operations. The initial assessment shows that,
+    despite the small size of the country, there exist sufficient potential locations that will not be connected to
+    the national grid anytime soon and are well suited for electrification through mini-grids, and both public and
+    private sectors seem to be ready to develop the sector based on respective PPP models.
+20. Stand-alone solar market in Burundi is estimated to be around 2 million households25. Prior to 2015, solar
+    lanterns slowly started to emerge as an alternative in rural areas, but most of the lanterns sold on the market
+    are of low quality, delivering poor service, and breaking frequently. Still, the relatively good (perceived)
+    penetration of solar lanterns in Burundi shows that the Burundians are ready to embrace off-grid solar
+    products (if their quality, reliability and durability can be demonstrated). The penetration of larger solar
+    home systems in rural areas remains limited though due to the affordability and quality constraints. 26 The
+    installed capacity of solar photovoltaic systems is not properly inventoried. However, in a 2012 presentation
+    from the Ministry of Energy and Mines, the total solar photovoltaic installed capacity was estimated to be
+    of around 150 kWp (kilowatt peak). A Market Assessment of off-grid solar products financed by ESMAP has
+    been launched to provide evidence and further insights into the market.
+21. Prior to the political unrest in 2015, several private companies operated in the stand-alone solar space, as
+    part of an EnDev designed pilot program to provide solar home systems to teachers, whose solar loan was
+    financed by the MFI FEST. Many of the companies who participated in the program subsequently ceased
+    their solar activities, because operating became too difficult in and after 2015. Private companies,
+    individuals, religious communities and some donor funded hospitals, health centers and schools have solar
+    PV systems. Since 2015, a small number of new companies have been established to sell or lease solar
+    products, but none have achieved large scale.
+22. Development of an off-grid market is currently constrained by five main challenges: high foreign currency
+    exchange risk, a thriving low-quality products market, affordability issues and price sensitivity of end-
+    consumers, duty and VAT charges, and the dearth of financing for private sector activities. On the supply
+    side, the shortage of foreign reserves seriously constrains imports of renewable energy products and stove
+    parts, which are for the most part manufactured in China and Europe. In addition, solar off-grid companies
+    are not able currently to secure working capital loans nor to secure the foreign currency needed to place
+    orders of these products overseas, and they do not have access to financing from foreign Banks. On the
+
+24 The ESMAP-funded GIS study that is currently ongoing aims to identify potential mini-grid locations and generate indicative costs of mini-grid
+development.
+25 Based on the following assumptions: 88 percent of population living in rural areas; 1.8% electrification rate; 4.8 people per household.
+26 The exact penetration of SHS in Burundi is not known, but most of the market concentrates on better-off urban households who buy SHS as a
+
+back-up to the unreliable grid.
+
+April 2019                                                                                                                                 Page 9
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+    demand side, upfront payment for SHS is high for low income households, especially for larger systems.
+    Combined with VAT, taxes on RE products are reported to amount to up to 25 percent of the price of
+    products. Finally, cconsumers lack confidence in off-grid RE products due to the plethora of low-quality
+    products in the market and lack of after sale services.
+23. Underpinned by a geospatial analysis that determines least-cost electricity supply solutions throughout the
+    country, the proposed project will support human capital development and household access expansion in
+    rural Burundi by (a) leveraging innovative business models for the deployment of mini-grids and large
+    component-based systems for community facilities, (b) testing an approach to provide vulnerable
+    households with access to energy services, and (c) using market-based incentives to reduce the barriers to
+    access to solar systems and clean cooking solutions in rural and remote areas.
+24. World Bank has focused its support to bringing the energy sector into a sustainable position . The Bank is
+    supporting the GoB through several interventions, including the ongoing Jiji and Mulembwe Hydropower
+    project (P133610), co-financed by the European Union (EU), the African Development Bank (AfDB) and the
+    European Investment Bank. The project aims to increase the supply of clean and low-cost hydropower
+    electricity to Burundi's national grid. The Bank is also co-financing the Rusumo Falls project with the EU and
+    AfDB. Under Sustainable Energy for All, the World Bank also financed the preparation of a distribution
+    masterplan for the energy sector, with the African Development Bank (AfDB) financing the generation and
+    transmission plan. Moreover, the World Bank has been engaged with the GoB to continue improving its
+    enabling environment for competitive procurement of private sector investment in renewable energy
+    generation infrastructure. To this end, the World Bank is working with the Public-Private Infrastructure
+    Advisory Facility (PPIAF) to support AREEM and the MHEM in the development of a complete, functioning
+    regulatory framework. The Energy Sector Management Assistance Program (ESMAP) has recently approved
+    funding for studies on off-grid access expansion. The proposed project would help improve renewable
+    energy access through off-grid electrification. It will test the ground for new off-grid technology, increase
+    private sector engagement and contribute to building up investors’ confidence.
+25. There is increased donors’ interest in supporting off-grid access expansion. Most of current donors’ funding supports
+    grid connected generation projects (Jiji Mulembwe and Rusumo Falls projects). However, there is renewed interest in
+    off-grid access. The European Union will soon launch a call for proposals for the provision of energy services to rural
+    communities. It is also contemplating a US$11mn investment from ELECTRIFI to support private investments in off-
+    grid access (household systems and mini grids). EnDev is also exploring investments in solar products for small services
+    and agriculture activities and clean cooking products. See Annex 3 for more details.
+
+
+
+ Relationship to CPF
+
+
+26. The development of electricity generation infrastructure and off-grid renewable energy solutions
+    represents a key component of the GoB’s strategy to support economic and human capital development.
+    The Project is fully aligned with the second objective of the National Development Plan to ensure
+    “sustainable and inclusive growth for economic resilience and sustainable development�?, under the second
+    pillar that seeks to promote alternative sources of energy. It will also contribute to the Plan’s focus on
+    developing rural areas. The project is fully consistent with the WBG’s FY19-23 Country Partnership
+
+April 2019                                                                                                         Page 10
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+    Framework (CPF) for Burundi. The CPF has two focus areas: first, improving human capital and promoting
+    social inclusions; and second, strengthening foundations for economic and social resilience. In support of
+    the second focus, the WBG identified the following objective related to the power sector: Increasing access
+    to energy for poor families (Objective 2.2). Furthermore, the CPF recognizes that making gains in the energy
+    sector is critical for growth and livelihoods, and particularly for improving services and opportunities in rural
+    areas. The CPF has set targets to double electricity generation capacity from 51MW to 105 MW and increase
+    the number of community social centers provided with access to electricity through off-grid systems from
+    zero to 1,080 schools and 150 clinics in 2023. The proposed project would contribute to achieving both
+    targets by (i) the increasing renewable energy generation capacity in the country, through the development
+    of mini-grids, and (ii) scaling up off-grid renewable energy solutions in rural areas.
+27. The proposed project is consistent with MFD agenda. The project will use limited public resources to
+    mobilize private sector investments in rural Burundi to promote development, access to electricity, and
+    contribute to the twin goals of increasing shared prosperity and ending poverty. As the first Off-Grid Access
+    project in Burundi, the proposed project would support establishment of an enabling framework and pilot
+    mechanisms to de-risk private sector participation in rural energy in a Fragile, Conflict and Violence (FCV)
+    context, through dissemination of modern energy products and construction of energy infrastructure,
+    namely mini-grids and PV systems.
+
+
+ C. Proposed Development Objective(s)
+
+ Expand access to energy services for Burundian households, businesses and public institutions in rural areas.
+
+ Key Results (From PCN)
+
+
+28. The following indicators would be measured:
+    •    Generation Capacity of Renewable Energy constructed or rehabilitated under the project (MW)
+    •    People provided with access to energy under the project by household connections/- Renewable
+         Energy – Off-grid (#)
+    •    Community electricity connections under the project - Renewable Energy – Off-grid (#)
+    •    Direct beneficiaries (#)
+
+
+ D. Concept Description
+
+29. The proposed project would be articulated around four components: (i) Stand-alone solar systems for health and
+    education facilities (ii) Mini-grids for communities (iii) Stand-alone solar systems and efficient cookstoves for
+    households (iv) Technical assistance and capacity building.
+
+Component 1: Stand-alone solar systems for health and education facilities
+
+
+
+April 2019                                                                                                       Page 11
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+30. The component will support the rollout of Stand-alone Solar Systems to health centers and schools, including
+    adjacent dormitories, teachers’ and nurses’ homes. The component aims at achieving educational and
+    service provision benefits of school and health center electrification, as evidenced by numerous studies. The
+    possibility of providing cookstoves for schools, expanding an existing program financed by the World Food
+    Program, and electrifying nearby communities will also be explored. The GIS study is currently mapping
+    unelectrified schools and health clinics in the country. Institutions that are situated in remote areas without
+    access to grid electricity will be prioritized.
+
+Component 2: Mini grids for communities
+31. This component will finance the implementation of pilot mini-grids to kick-start the development of a private
+    sector led mini-grid market in Burundi. Mini-grids contribute to leveraging productive activities (especially
+    agriculture/artisanal production etc.) in areas that will not be reached by the grid in the medium to long
+    term, offering a viable opportunity for economic development. Thus, building upon ABER’s experience in
+    operating such systems, mini and micro-hydro based mini-grids or hybrid mini-grids27 with combined power
+    generation from solar PV, diesel generators and battery storage will be implemented in selected locations.
+
+Component 3: Stand-alone solar systems and efficient cookstoves for households
+32. This component will address constraints to accelerating growth of the off-grid solar market and leverage
+    mechanisms that will be put in place to ease the access to foreign currency, access to finance for households
+    and businesses, improve affordability of solar electricity services, and encourage productive use of
+    electricity. This component will also support the electricity and cooking needs of the most vulnerable
+    households in Burundi, as identified under the Merankabandi project.
+
+
+Component 4: Technical Assistance, Capacity Building and Project Implementation Support
+
+33. This component will assist public and private sector stakeholders - Ministry of Energy, ABER, AREEN, off-grid
+    companies, micro finance institutions, etc. - in building technical expertise and operational capacity, devise
+    enabling policies and regulatory frameworks to expand off-grid access. It will provide a broad range of
+    technical and financial support in access planning, implementation support, and capacity-building activities.
+
+
+
+
+27Potential mini-grid sites were visited during a recent mission. It was assessed that the average mini-grid could have the following specifications:
+Hybrid systems with combined power generation capacity from solar PV (average capacity of approx. 200 kWp per system); diesel generators
+(average capacity of approx. 50 kVA per system); battery storage (average capacity of approx. 500 kWh per system); and low voltage distribution
+networks (total length up to 10 km per system). The relevance of this model will be assessed further during project preparation.
+
+April 2019                                                                                                                                   Page 12
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+ Legal Operational Policies                                                               Triggered?
+ Projects on International Waterways OP 7.50                                              No
+ Projects in Disputed Areas OP 7.60                                                       No
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+ The Environmental and Social Risk Classification of the project is substantial due to: (i) the expected low institutional
+ capacity of the PIU, ABER, MHEM and OBPE on the ESF; (ii) impacts and risks associated with hybrid systems that
+ combine power generation capacity from solar PV and diesel backup with battery storage as well as the construction of
+ low voltage distribution networks; (iii) impacts on biodiversity and natural resources on construction sites; (iv) the
+ production of noise, water and air pollution (GHG emissions); (v) small-scale involuntary land acquisition and related
+ impacts, (vi) limited exposure of GBV risks to school-age children and vulnerable community members, (vii) barriers to
+ access to project benefits for women and vulnerable populations including Batwa; and (viii)) risks of inequity in the
+ identification of sub-project sites. The establishment of a results-based financing (RBF) facility and a debt facility to solar
+ off-grid companies that will be subject to the requirements of ESS9, and the need to develop and maintain effective
+ environmental and social systems of beneficiary solar off-grid companies adds to the complexity of the social and
+ environmental risks assessment and mitigation measures.
+
+Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document.
+
+
+
+ CONTACT POINT
+
+
+ World Bank
+ Karen Bazex, Rhonda Lenai Jordan Antoine
+ Senior Energy Specialist
+
+
+ Borrower/Client/Recipient
+ Ministère des Finances
+ Christian Kwizera
+ responsable adjoint
+ kwizchris@yahoo.fr
+
+ Implementing Agencies
+ Ministère de l’Hydraulique, de l’Energie et des Mines (MHEM)
+ Ndayi Martin
+ Directeur General de l’Energie
+ ndamartin82@gmail.com
+
+ Agence Burundaise d’Electrification Rurale (ABER)
+
+
+April 2019                                                                                                             Page 13
+        The World Bank
+        Burundi Offgrid Access Project (P164435)
+
+
+ Jacques Dusabunwani
+ Directeur General
+ dusabj@gmail.com
+
+
+
+
+ FOR MORE INFORMATION CONTACT
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+
+
+ APPROVAL
+
+ Task Team Leader(s):                      Karen Bazex, Rhonda Lenai Jordan Antoine
+
+ Approved By
+ APPROVALTBL
+ Practice Manager/Manager:
+
+ Country Director:
+
+
+
+
+April 2019                                                                            Page 14
+

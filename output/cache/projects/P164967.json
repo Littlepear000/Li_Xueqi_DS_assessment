@@ -1,0 +1,928 @@
+{
+  "project_id": "P164967",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "82ecd65d",
+  "started_at": "2026-11-07T03:23:27Z",
+  "ended_at": "2026-11-07T03:24:01Z",
+  "input_fingerprint": "7cbde2a34c327be0",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 29,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P164967-A1",
+      "project_id": "P164967",
+      "name": "digital tools for agricultural insurance and interest rate subsidy delivery",
+      "description": "The project digitizes crop insurance underwriting, policy dissemination and claim settlement, and plans an e-voucher system for interest rate subsidies. Practices: Digitized agricultural insurance underwriting and claim settlement tools; e-voucher/digitalization of the Interest Rate Subsidy Fund for agriculture.",
+      "why_innovative": "New process: end-to-end digital insurance underwriting and claims - cue: 'digitization of' | category Financial; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "803721589594576936",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-21",
+        "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+        "char_start": 94132,
+        "char_end": 94675,
+        "text": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "803721589594576936",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-21",
+          "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+          "char_start": 93854,
+          "char_end": 94131,
+          "text": "(ii) Improving access to agricultural insurance, with the objective of reaching at least 400,000 farmers and developing this business line with a view to securing sustainability in the long term (an exit plan from the current premium subsidy system should be in place by 2024).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "803721589594576936",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-21",
+          "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+          "char_start": 76382,
+          "char_end": 77579,
+          "text": "World Bank Agriculture and Livestock Competitiveness Program For Results (P164967) - Support the National Fund build ISRA staff Advisory Agency - Reinforcing for Agriculture and Agri-Food capacity (ANCAR) advisory capacity Research - National Fund for - Need to develop (including ICT) of Agriculture and Agri- R&D ecosystem to ANCAR for CSA food Research foster private practices and (FNRAA) funding of sector plant protection research program participation services Strengthen capacities of producer organizations to boost use of CSA practices - Weak integrated - Reinforcing MAER - Reorientation of MAER’s - Financial programming financial planning, towards its policy and based on objectives in management budgeting, regulatory functions, and place at MAER - Need to statistics and Sector delegation of agriculture - Three-year (2020-22) strengthen M&E capacities at institutions/ service delivery expenditure investment national and governance - Build capacity of sector framework signed programming, decentralized institutions, including MAER between MAER and coordination and level and affiliated entities Ministry of Finance M&E - Reinforcing CNIA - Strengthen inter-professions and Budget",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: transforms insurance transaction processing for smallholders",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural markets, commercialization and agri-business",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digitized crop insurance tools serve agricultural finance and market risk management.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P175131",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.4,
+          "direction": "replicated_by",
+          "evidence": "supplies and logistical support for the health system to contain the pandemic, as well as mitigation of its effects, including appropriate treatment to minimize morbidity and mortality. In this context, the World Bank has approved on April 2, 2020 a financing of US$20 million to support the Senegal COVID-19 Response Project (P173838). The proposed Program supports activities that are pertinent in "
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: digital underwriting/claims tools | Innovative: full insurance process digitization | Category: financial service delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: end-to-end digital insurance underwriting and claims - cue: 'digitization of'",
+      "innovation_cues": [
+        "early-warning",
+        "piloting",
+        "scaling",
+        "scaling-up"
+      ]
+    },
+    {
+      "approach_id": "P164967-A2",
+      "project_id": "P164967",
+      "name": "Index-based agricultural insurance using rainfall and remote sensing data",
+      "description": "Project builds capacity to collect rainfall and remote-sensing data to design index-based insurance products.",
+      "why_innovative": "New product: weather-index insurance from remote-sensing data - cue: 'remote sensing' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "803721589594576936",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-21",
+        "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+        "char_start": 94132,
+        "char_end": 94675,
+        "text": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "803721589594576936",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-21",
+          "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+          "char_start": 93854,
+          "char_end": 94131,
+          "text": "(ii) Improving access to agricultural insurance, with the objective of reaching at least 400,000 farmers and developing this business line with a view to securing sustainability in the long term (an exit plan from the current premium subsidy system should be in place by 2024).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: new insurance product for smallholder risk transfer",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Extension, Research, and Other Support Activities",
+        "code": "",
+        "confidence": null,
+        "rationale": "Capacity building for rainfall and remote-sensing data supports research and support activities.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P175131",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.4,
+          "direction": "replicated_by",
+          "evidence": "supplies and logistical support for the health system to contain the pandemic, as well as mitigation of its effects, including appropriate treatment to minimize morbidity and mortality. In this context, the World Bank has approved on April 2, 2020 a financing of US$20 million to support the Senegal COVID-19 Response Project (P173838). The proposed Program supports activities that are pertinent in "
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: rainfall/remote-sensing index | Innovative: data-driven index insurance design | Category: financial product",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: weather-index insurance from remote-sensing data - cue: 'remote sensing'",
+      "innovation_cues": [
+        "early-warning"
+      ]
+    },
+    {
+      "approach_id": "P164967-A3",
+      "project_id": "P164967",
+      "name": "Early warning system and agricultural observatory",
+      "description": "Project supports developing an early warning system including an agricultural observatory.",
+      "why_innovative": "New service: agricultural early-warning observatory - cue: 'early warning system' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "803721589594576936",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-21",
+        "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+        "char_start": 94132,
+        "char_end": 94675,
+        "text": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: data monitoring system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Extension, Research, and Other Support Activities",
+        "code": "",
+        "confidence": null,
+        "rationale": "Early warning system and observatory are agricultural information/research support services.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P175131",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.4,
+          "direction": "replicated_by",
+          "evidence": "supplies and logistical support for the health system to contain the pandemic, as well as mitigation of its effects, including appropriate treatment to minimize morbidity and mortality. In this context, the World Bank has approved on April 2, 2020 a financing of US$20 million to support the Senegal COVID-19 Response Project (P173838). The proposed Program supports activities that are pertinent in "
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: early-warning observatory | Innovative: integrated weather-risk monitoring | Category: technological system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: agricultural early-warning observatory - cue: 'early warning system'",
+      "innovation_cues": [
+        "early-warning"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P164967",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "guid": "803721589594576936",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:23:27Z",
+      "ended_at": "2026-11-07T03:23:36Z",
+      "status": "ok",
+      "note": "13 document(s) fetched from the WBG API; 18 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:23:36Z",
+      "ended_at": "2026-11-07T03:23:36Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-05-12, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:23:36Z",
+      "ended_at": "2026-11-07T03:23:39Z",
+      "status": "ok",
+      "note": "29 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 29,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 9,
+          "public_good": 1,
+          "innovation_cycle": 7,
+          "innovation": 4,
+          "enabling_processes": 3,
+          "results_based_management": 2,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:23:39Z",
+      "ended_at": "2026-11-07T03:23:39Z",
+      "status": "ok",
+      "note": "PAD 2020-04-21 (P164967_PAD_2020-04-21_803721589594576936.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P164967",
+            "doc_type": "PAD",
+            "doc_date": "2020-04-21",
+            "guid": "803721589594576936",
+            "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:23:39Z",
+      "ended_at": "2026-11-07T03:23:39Z",
+      "status": "ok",
+      "note": "229 reading units (32 numbered paragraphs) from 1729 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 229
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:23:39Z",
+      "ended_at": "2026-11-07T03:23:42Z",
+      "status": "ok",
+      "note": "59 of 229 units carry a digital / AI cue (29 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 59,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 29
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:23:42Z",
+      "ended_at": "2026-11-07T03:23:49Z",
+      "status": "ok",
+      "note": "12 candidate practices from 59 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 188120,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1111,
+          "cached_tokens": 38395,
+          "cache_write_tokens": 0,
+          "output_tokens": 2539,
+          "seconds": 18.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0036
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:23:49Z",
+      "ended_at": "2026-11-07T03:23:55Z",
+      "status": "ok",
+      "note": "4 accepted, 8 rejected (generic 6, background_or_other_programme 1, not_innovative 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 61322,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 6680,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 797,
+          "seconds": 6.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.003
+        },
+        "accepted": 4,
+        "rejected": 8,
+        "expanded": 1,
+        "reject_codes": {
+          "generic": 6,
+          "background_or_other_programme": 1,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:23:55Z",
+      "ended_at": "2026-11-07T03:23:58Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1626,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 359,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 169,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:23:58Z",
+      "ended_at": "2026-11-07T03:23:59Z",
+      "status": "ok",
+      "note": "4 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1343,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 182,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 60,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:23:59Z",
+      "ended_at": "2026-11-07T03:24:01Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7089,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1076,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 201,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:24:01Z",
+      "ended_at": "2026-11-07T03:24:01Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 6 evidence rows, 8 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:24:01Z",
+      "ended_at": "2026-11-07T03:24:01Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P175131",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.4,
+            "direction": "replicated_by",
+            "evidence": "supplies and logistical support for the health system to contain the pandemic, as well as mitigation of its effects, including appropriate treatment to minimize morbidity and mortality. In this context, the World Bank has approved on April 2, 2020 a financing of US$20 million to support the Senegal COVID-19 Response Project (P173838). The proposed Program supports activities that are pertinent in "
+          }
+        ],
+        "store_size": 28
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P164967-A1-E1",
+      "approach_id": "P164967-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U58",
+      "para_no": 40,
+      "sentence_position": 447,
+      "char_start": 94132,
+      "char_end": 94675,
+      "sentence": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+      "practice": "Digitized agricultural insurance underwriting and claim settlement tools",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: digital underwriting and claims platform | Not routine: full insurance process digitization | Adoption: 'developing tools for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital underwriting/claims tools | Innovative: full insurance process digitization | Category: financial service delivery",
+      "keywords_hit": "digitization of;early warning;early warning system;remote sensing;remote-sensing",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New process: end-to-end digital insurance underwriting and claims - cue: 'digitization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    },
+    {
+      "row_id": "P164967-A1-E2",
+      "approach_id": "P164967-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U58",
+      "para_no": 40,
+      "sentence_position": 446,
+      "char_start": 93854,
+      "char_end": 94131,
+      "sentence": "(ii) Improving access to agricultural insurance, with the objective of reaching at least 400,000 farmers and developing this business line with a view to securing sustainability in the long term (an exit plan from the current premium subsidy system should be in place by 2024).",
+      "practice": "Digitized agricultural insurance underwriting and claim settlement tools",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: digital underwriting and claims platform | Not routine: full insurance process digitization | Adoption: 'developing tools for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital underwriting/claims tools | Innovative: full insurance process digitization | Category: financial service delivery",
+      "keywords_hit": "digitization of;early warning;early warning system;remote sensing;remote-sensing",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New process: end-to-end digital insurance underwriting and claims - cue: 'digitization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    },
+    {
+      "row_id": "P164967-A1-E3",
+      "approach_id": "P164967-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 398,
+      "char_start": 76382,
+      "char_end": 77579,
+      "sentence": "World Bank Agriculture and Livestock Competitiveness Program For Results (P164967) - Support the National Fund build ISRA staff Advisory Agency - Reinforcing for Agriculture and Agri-Food capacity (ANCAR) advisory capacity Research - National Fund for - Need to develop (including ICT) of Agriculture and Agri- R&D ecosystem to ANCAR for CSA food Research foster private practices and (FNRAA) funding of sector plant protection research program participation services Strengthen capacities of producer organizations to boost use of CSA practices - Weak integrated - Reinforcing MAER - Reorientation of MAER’s - Financial programming financial planning, towards its policy and based on objectives in management budgeting, regulatory functions, and place at MAER - Need to statistics and Sector delegation of agriculture - Three-year (2020-22) strengthen M&E capacities at institutions/ service delivery expenditure investment national and governance - Build capacity of sector framework signed programming, decentralized institutions, including MAER between MAER and coordination and level and affiliated entities Ministry of Finance M&E - Reinforcing CNIA - Strengthen inter-professions and Budget",
+      "practice": "e-voucher/digitalization of the Interest Rate Subsidy Fund for agriculture",
+      "category": "Financial",
+      "adoption": "prospect",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: e-voucher subsidy platform | Not routine: digitalizes interest rate subsidy | Adoption: 'Using e-voucher/digitalization'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: e-voucher subsidy platform | New: digitalizes interest-rate subsidy delivery | Adoption: only planned ('using e-voucher/digitalization')",
+      "keywords_hit": "programming;voucher",
+      "innovation_cues": "piloting;scaling;scaling-up",
+      "innovation_basis": "Digital e-voucher channel for interest-rate subsidy delivery, replacing manual subsidy process",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    },
+    {
+      "row_id": "P164967-A2-E1",
+      "approach_id": "P164967-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U58",
+      "para_no": 40,
+      "sentence_position": 447,
+      "char_start": 94132,
+      "char_end": 94675,
+      "sentence": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+      "practice": "Index-based agricultural insurance using rainfall and remote sensing data",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: rainfall and remote-sensing index | Not routine: data-driven index insurance design | Adoption: 'capacity-building for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rainfall/remote-sensing index | Innovative: data-driven index insurance design | Category: financial product",
+      "keywords_hit": "digitization of;early warning;early warning system;remote sensing;remote-sensing",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New product: weather-index insurance from remote-sensing data - cue: 'remote sensing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    },
+    {
+      "row_id": "P164967-A2-E2",
+      "approach_id": "P164967-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U58",
+      "para_no": 40,
+      "sentence_position": 446,
+      "char_start": 93854,
+      "char_end": 94131,
+      "sentence": "(ii) Improving access to agricultural insurance, with the objective of reaching at least 400,000 farmers and developing this business line with a view to securing sustainability in the long term (an exit plan from the current premium subsidy system should be in place by 2024).",
+      "practice": "Index-based agricultural insurance using rainfall and remote sensing data",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: rainfall and remote-sensing index | Not routine: data-driven index insurance design | Adoption: 'capacity-building for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rainfall/remote-sensing index | Innovative: data-driven index insurance design | Category: financial product",
+      "keywords_hit": "digitization of;early warning;early warning system;remote sensing;remote-sensing",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New product: weather-index insurance from remote-sensing data - cue: 'remote sensing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    },
+    {
+      "row_id": "P164967-A3-E1",
+      "approach_id": "P164967-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P164967",
+      "doc_id": "803721589594576936",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-21",
+      "file_name": "P164967_PAD_2020-04-21_803721589594576936.txt",
+      "unit_id": "U58",
+      "para_no": 40,
+      "sentence_position": 447,
+      "char_start": 94132,
+      "char_end": 94675,
+      "sentence": "This will entail that GoS pays off current premium subsidy arrears due to CNAAS as well as the reinforcement of more upstream activities including: mass awareness campaigns on the benefits of agricultural insurance; capacity-building for collecting rainfall as well as remote sensing data to design index-based insurance products; developing tools for a complete digitization of the whole underwriting process, as well as policy dissemination and claim settlement; and developing an early warning system, including an agricultural observatory.",
+      "practice": "Early warning system and agricultural observatory",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: early-warning agricultural observatory | Not routine: integrated weather risk monitoring | Adoption: 'developing an early warning system'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: early-warning observatory | Innovative: integrated weather-risk monitoring | Category: technological system",
+      "keywords_hit": "digitization of;early warning;early warning system;remote sensing;remote-sensing",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: agricultural early-warning observatory - cue: 'early warning system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "82ecd65d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 466,
+      "char_start": 98309,
+      "char_end": 98608,
+      "sentence": "Under RA 1, activities related to increasing climate change co-benefits include the promotion of CSA practices for more efficient/ productive crop and livestock production systems that optimize energy and natural resource use, and activities related to weather forecasting and early warning systems.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Agro-meteorological information diffusion to farmers",
+      "reason": "reject: Diffusion of agro-met information; no named digital system doing the work",
+      "reject_code": "generic",
+      "innovation_basis": "New service: agro-met advisory to farmers - cue: 'early warning'",
+      "innovation_cues": "early-warning;innovations",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Diffusion of agro-met information; no named digital system doing the work",
+          "reject_code": "generic",
+          "context_chars": 2024
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1030,
+      "char_start": 203295,
+      "char_end": 203490,
+      "sentence": "Efforts should be made to improve the reliability of agricultural statistics by using new ICTs such as GPS and drones, along with adequate estimation methodologies and improved weather forecasts.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GPS and drone-based agricultural statistics collection",
+      "reason": "reject: Recommendation in background text ('efforts should be made'), not project activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: GPS/drone data for farm statistics - cue: 'new ICTs'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Recommendation in background text ('efforts should be made'), not project activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1230
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1068,
+      "char_start": 210219,
+      "char_end": 210542,
+      "sentence": "(ii) facilitating access by producers to relevant information for managing and restoring soil fertility, including field testing kits; and (iii) promoting the establishment of an official quality control body for fertilizers and other agro- chemicals; c) Access to quality agricultural support services (field and digital).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital agricultural advisory services for producers",
+      "reason": "reject: 'Field and digital' advisory services; no specific digital mechanism named",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital advisory channel for farmers - cue: 'innovations'",
+      "innovation_cues": "climate-smart;innovations",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "'Field and digital' advisory services; no specific digital mechanism named",
+          "reject_code": "generic",
+          "context_chars": 1343
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1178,
+      "char_start": 233621,
+      "char_end": 233928,
+      "sentence": "Support will focus particularly on updating capacity at MAER and MEPA to run efficient MIS and M&E systems, which should better equip them to collect, process, and produce the data required to assess the performance and implementation of PRACAS II and PNDE; d) Conducting other capacity-building activities.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Upgraded MIS and M&E systems at MAER and MEPA",
+      "reason": "reject: Standard ministry MIS/M&E capacity building, routine institutional support",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: MIS for program performance data - cue: 'innovation'",
+      "innovation_cues": "innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard ministry MIS/M&E capacity building, routine institutional support",
+          "reject_code": "not_innovative",
+          "context_chars": 1509
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1184,
+      "char_start": 234806,
+      "char_end": 235062,
+      "sentence": "This will include, for example, facilitating the diffusion of agro- meteorological information to farmers—thus increasing their ability to adapt to climate change, or promoting the use of renewable energy in tillage, storage and agri-food processing units.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Agro-meteorological early warning information to farmers",
+      "reason": "reject: Agro-met information diffusion; no named digital system or channel",
+      "reject_code": "generic",
+      "innovation_basis": "New service: weather early-warning dissemination - cue: 'early-warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Agro-met information diffusion; no named digital system or channel",
+          "reject_code": "generic",
+          "context_chars": 1680
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1193,
+      "char_start": 238079,
+      "char_end": 239277,
+      "sentence": "innovations • Increased Carbon storage/pools in soils • Integrated watershed, soil & water management, and vegetation (reduced tillage, OM agroforestry and CSA practices for adaptation and management soil coverage, resilience in groundnut-based systems composting OM) • Innovation stakeholder platforms to promote use of • Energy-saving technologies (tillage, adapted CSA practices (incl technical assistance) transformation, value addition) • Capacity strengthening of producer & their • Enhanced capacity/training producers organizations (PO) for integrated resource and institutions on integrated and management adapted to CC/CV at basin and farm participative agric. resource level management • Scale up ICT for digital agricultural information- • ICT to support decision-making for dissemination systems, support decision-making GHG emission reduction RA 1b: Increased • Improved animal health services (reduced incidence • Reduced livestock methane/ GHG Livestock productivity and prevalence of contagious diseases linked to CC emissions through manure impact) management and feeding practices • Invest in food safety measures for livestock if food (incl. nutrition efficiency, efficient herd",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ICT-based digital agricultural information dissemination systems",
+      "reason": "reject: Table row 'Scale up ICT for digital agricultural information'; no specific mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New service: ICT dissemination for farm decisions - cue: 'scale-up'",
+      "innovation_cues": "early-warning;innovation;innovations;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Table row 'Scale up ICT for digital agricultural information'; no specific mechanism",
+          "reject_code": "generic",
+          "context_chars": 2393
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1196,
+      "char_start": 241669,
+      "char_end": 242864,
+      "sentence": "management • Efficient energy saving (tillage, solar • Crop diversification and multi-cropping (pulses, pumping systems, etc.) vegetable production perimeters, seed • Reduced methane emission (lowland multiplication, etc.) drainage) • Diversify livelihoods vulnerable to CC impacts Cross-cutting support • Scale-up use of ICT systems for digital agriculture applications, including use of CSA practices • Develop and implement policy actions to scale-up CSA adoption • Capacity building of extension and POs in CSA practices for integrated crop & livestock production systems RA 2: Improved business environment and market integration RA 2.1: Improved • Implement aflatoxins, fruit flies, etc. control plan • Certification/quality schemes groundnuts business • Facilities (warehouses, markets, access roads) to containing provisions to incentivize environment reduce commodity exposure to extreme weather farmers to adopt new practices/ conditions techniques and varieties designed to • Assist with formulation of climate-informed business increase their resilience and contribute plans to climate mitigation by CSA practices • Market information system adapted to CV to void • Capacity building",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Scaled ICT systems for digital agriculture applications",
+      "reason": "reject: Table row 'Scale-up use of ICT systems'; no identifiable digital tool",
+      "reject_code": "generic",
+      "innovation_basis": "New service: scaled digital agriculture applications - cue: 'scale-up'",
+      "innovation_cues": "climate-smart;innovative;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Table row 'Scale-up use of ICT systems'; no identifiable digital tool",
+          "reject_code": "generic",
+          "context_chars": 2390
+        }
+      ]
+    },
+    {
+      "guid": "803721589594576936",
+      "doc_type": "PAD",
+      "position": 1196,
+      "char_start": 241669,
+      "char_end": 242864,
+      "sentence": "management • Efficient energy saving (tillage, solar • Crop diversification and multi-cropping (pulses, pumping systems, etc.) vegetable production perimeters, seed • Reduced methane emission (lowland multiplication, etc.) drainage) • Diversify livelihoods vulnerable to CC impacts Cross-cutting support • Scale-up use of ICT systems for digital agriculture applications, including use of CSA practices • Develop and implement policy actions to scale-up CSA adoption • Capacity building of extension and POs in CSA practices for integrated crop & livestock production systems RA 2: Improved business environment and market integration RA 2.1: Improved • Implement aflatoxins, fruit flies, etc. control plan • Certification/quality schemes groundnuts business • Facilities (warehouses, markets, access roads) to containing provisions to incentivize environment reduce commodity exposure to extreme weather farmers to adopt new practices/ conditions techniques and varieties designed to • Assist with formulation of climate-informed business increase their resilience and contribute plans to climate mitigation by CSA practices • Market information system adapted to CV to void • Capacity building",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Climate-variability-adapted market information system",
+      "reason": "reject: Table row 'market information system adapted to CV'; no specific mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New service: climate-adapted market information - cue: 'market information system'",
+      "innovation_cues": "climate-smart;innovative;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Table row 'market information system adapted to CV'; no specific mechanism",
+          "reject_code": "generic",
+          "context_chars": 2390
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 9408,
+    "cached_tokens": 44411,
+    "cache_write_tokens": 0,
+    "output_tokens": 3766,
+    "seconds": 31.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0076
+  }
+}

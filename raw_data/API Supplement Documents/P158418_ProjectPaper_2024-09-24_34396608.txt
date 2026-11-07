@@ -1,0 +1,1968 @@
+                                            FOR OFFICIAL USE ONLY
+                                                                                     Report No: PPIAF000063
+
+
+                    INTERNATIONAL BANK FOR RECONSTRUCTION AND DEVELOPMENT
+
+                                                 PROJECT PAPER
+                                                       ON A
+                                         PROPOSED ADDITIONAL LOAN
+
+                                    IN THE AMOUNT OF EUR 87.7 MILLION
+                                        (US$95 MILLION EQUIVALENT)
+
+                                                         TO
+                                           THE REPUBLIC OF TÜRKİYE
+                                                        FOR
+
+
+                            THE TÜRKİYE IRRIGATION MODERNIZATION PROJECT
+
+                                               September 24, 2024
+
+
+
+
+Water
+Europe and Central Asia
+
+
+
+
+ This document has a restricted distribution and may be used by recipients only in the performance of their official
+ duties. Its contents may not otherwise be disclosed without World Bank authorization.
+The World Bank
+Additional Financing Türkiye Irrigation Modernization (P181624)   PROJECT PAPER
+The World Bank
+Additional Financing Türkiye Irrigation Modernization (P181624)                             PROJECT PAPER
+
+
+
+
+                                    CURRENCY EQUIVALENTS
+
+                                (Exchange Rate Effective July 31, 2024)
+
+
+                                            Currency Unit = EUR
+
+                                         EUR 0.92306272= US$1
+
+                                               US$1.08335= EUR 1
+
+                                           FISCAL YEAR
+                                     January 1 - December 31
+
+
+
+
+             Regional Vice President:      Antonella Bassani
+                   Regional Director:      Sameh Naguib Wahba Tadros
+                    Country Director:      J. Humberto Lopez
+                   Practice Manager:       Winston Yu
+                                           Regassa Ensermu Namara, Canan Yildiz Uz, Ahmed Shawky
+                Task Team Leader (s):
+                                           Mohamed Abdelghany
+       The World Bank
+       Additional Financing Türkiye Irrigation Modernization (P181624)                          PROJECT PAPER
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+     AF                     Additional Financing
+     CDSs                   Credit Default Swaps
+     bps                    basis points
+     AM                     Accountability Mechanism
+     CPF                    Country Partnership Framework
+     DSI                    Devlet Su İşleri
+     EIA                    Environmental Impact Assessment
+     EIRR                   Economic Internal Rate of Return
+     ENPV                   Economic Net Present Value
+     ESMF                   Environmental and Social Management Framework
+     LAPF                   Land Acquisition Policy Framework
+     ESMP                   Environmental and Social Management Plan
+     EUR                    Euro
+     GDP                    Gross Domestic Product
+     GEF                    Global Environmental Facility
+     GHG                    Greenhouse Gas
+     GoT                    Government of Türkiye
+     GRM                    Grievance Redress Mechanism
+     GRS                    Grievance Redress Service
+     IBRD                   International Bank for Reconstruction and Development
+     ESHS                   Environmental, Social, Health, and Safety
+     PPSD                   Project Procurement Strategy for Development
+     IRR                    Internal Rate of Return
+     FIRRs                  Financial Internal Rate of Returns
+     ISR                    Implementation Status and Results Report
+     EFA                    Economic and Financial Analysis
+     MIS                    Management Information System
+     NPV                    Net Present Value
+     PAD                    Project Appraisal Document
+     PDO                    Project Development Objective
+     PMT                    Project Management Team
+     POM                    Project Operations Manual
+     SDG                    Sustainable Development Goal
+     STEP                   Systematic Tracking of Exchanges in Procurement
+     SUTEM                  Irrigation Facilities Spatial Information System developed by DSI
+     TIMP                   Türkiye Irrigation Modernization Project
+     WUA                    Water User Association
+              The World Bank
+              Additional Financing Türkiye Irrigation Modernization (P181624)                                                                                            PROJECT PAPER
+
+
+                                                                           TABLE OF CONTENTS
+
+
+
+DATASHEET .................................................................................................................................................. i
+I.        BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING........................................................... 1
+         A.     Introduction and Context ...........................................................................................................................................1
+         B.     Project Status and Background ..................................................................................................................................2
+         C.     Rationale for the Additional Financing (AF) ...............................................................................................................5
+
+II.       DESCRIPTION OF ADDITIONAL FINANCING ......................................................................................... 6
+         PDO and Composition of the Project Components ............................................................................................................6
+
+III.      KEY RISKS .......................................................................................................................................... 9
+IV.       APPRAISAL SUMMARY .................................................................................................................... 10
+         A.     Economic and Financial (if applicable) Analysis...................................................................................................... 10
+         B.     Technical................................................................................................................................................................... 11
+         C.     Financial Management ............................................................................................................................................ 11
+         D.     Procurement ............................................................................................................................................................ 12
+         E.     Social (including Safeguards) ................................................................................................................................... 12
+         F.     Environment (including Safeguards) ....................................................................................................................... 13
+         G.     Other Safeguard Policies (if applicable) .................................................................................................................. 14
+         H.     Corporate Commitments ......................................................................................................................................... 14
+
+V.        WORLD BANK GRIEVANCE REDRESS................................................................................................. 15
+       VI. PROPOSED CHANGES ................................................................................................................................15
+       VII.     DETAILED CHANGE(S).............................................................................................................................16
+RESULTS FRAMEWORK .............................................................................................................................. 18
+MONITORING & EVALUATION PLAN: ......................................................................................................... 21
+ANNEX 1. Results of the Financial and Economic Analysis ........................................................................... 29
+           The World Bank
+           Additional Financing Türkiye Irrigation Modernization (P181624)                                    PROJECT PAPER
+
+
+
+DATASHEET
+
+ @#&OPS~Doctype~OPS^dynamics@afaprbasicdata#doctemplate
+ OPERATION INFORMATION
+
+ BASIC DATA - MAIN
+ Product Information - Türkiye Irrigation Modernization (P158418)
+
+ Operation ID                                                  Product/Financing Instrument
+ P158418                                                       Investment Project Financing (IPF)
+ Task Team Leaders
+
+ Regassa Ensermu Namara, Canan Yildiz Uz, Ahmed Shawky Mohamed Abdelghany
+
+ Beneficiary Country/Countries                                 Geographical Identifier
+
+ Turkiye                                                       Republic of Turkiye
+
+ Requesting Unit                                               Responsible Unit
+
+ ECCTR (382)                                                   SCAWA (9392)
+
+ Approval Date                                                 Closing Date
+
+ 22-Jan-2019                                                   27-Feb-2026
+
+ Practice Area (Lead)                                          Approval Fiscal year
+
+ Water                                                         2019
+
+ Is there collaboration between Bank and IFC?
+
+ No
+
+ Original EA Category                                          Current EA Category
+ Partial Assessment (B) (PAD Approval Package-22 Jan
+ 2019)
+ Implementing Agency
+ Devlet Su Isleri (DSI)
+
+ IMPLEMENTATION MODALITIES – MAIN
+
+ Situations of Urgent Need of Assistance or Capacity Constraints
+ [ ] Fragile State(s)                                              [ ] Fragile within a non-fragile Country
+
+ [ ] Small State(s)                                                [ ] Conflict
+
+
+
+                                                                                                                        i
+        The World Bank
+        Additional Financing Türkiye Irrigation Modernization (P181624)                                     PROJECT PAPER
+
+
+
+[ ] Responding to Natural or Man-made Disaster
+Other Situations
+[ ] Financial Intermediaries (FI)                               [ ] Series of Projects (SOP)
+
+[ ] Performance-Based Conditions (PBCs)                         [ ] Contingent Emergency Response Component (CERC)
+
+[ ] Alternative Procurement Arrangements (APA)                  [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@afaproperationstatus#doctemplate
+OPERATION STATUS
+
+Development Objective (DO)
+
+Development Objective (Approved as part of Approval package on 21-Jan-2019)
+The objective of the project is to improve irrigation delivery, through rehabilitation and modernization of distribution
+infrastructure in selected schemes, and through strengthening of capacity of WUAs.
+
+Key Information from Last ISR
+
+Operation Ratings
+
+       NAME                                         IMPLEMENTATION                                           LAST ISR
+                                                                                                             RATINGS
+                          16-Jun-2022       03-Jan-2023         22-Jun-2023           22-Dec-2023         29-Jun-2024
+Progress towards         Satisfactory     Moderately         Moderately           Moderately         Moderately
+achievement of                            Satisfactory        Satisfactory          Satisfactory        Satisfactory
+PDO
+Overall                  Moderately       Moderately         Moderately           Moderately         Moderately
+Implementation          Satisfactory      Unsatisfactory      Satisfactory          Satisfactory        Satisfactory
+Progress (IP)
+Overall Risk             Moderate         Moderate           Moderate             Moderate           Moderate
+Overall Safeguard        Moderately       Moderately         Moderately           Moderately         Moderately
+Rating                  Satisfactory      Unsatisfactory      Satisfactory          Satisfactory        Unsatisfactory
+Financial                Satisfactory     Satisfactory       Satisfactory         Moderately         Satisfactory
+Management                                                                          Satisfactory
+Project                  Satisfactory     Moderately         Moderately           Moderately         Moderately
+Management                                Satisfactory        Satisfactory          Satisfactory        Satisfactory
+Procurement              Moderately       Moderately         Moderately           Moderately         Moderately
+                        Satisfactory      Unsatisfactory      Unsatisfactory        Unsatisfactory      Unsatisfactory
+Monitoring and           Satisfactory     Satisfactory       Satisfactory         Satisfactory       Satisfactory
+Evaluation
+
+
+                                                                                                                           ii
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization (P181624)                                       PROJECT PAPER
+
+
+
+
+Disbursement Summary (in USD million)
+
+       Source of Funds              Net Commitment             Disbursed                  Balance              % Disbursed
+
+IBRD                                           252.00                   111.36                     140.64                 44.19
+
+IDA                                                  --                       --                       --                    0
+
+Grants                                           2.00                      1.83                      0.17                 91.59
+
+
+@#&OPS~Doctype~OPS^dynamics@afaprprocessing#doctemplate
+BASIC DATA – ADDITIONAL FINANCING
+Additional Financing No. 2
+
+
+Additional Financing Type
+          The operation has incurred increased costs due to inflation, exchange rate changes, and factors that were not
+ [✓]
+          anticipated at appraisal (Cost-overrun)
+
+          The operation has experienced shortfalls in co-financing, counterpart financing, or cost recovery that were
+ [ ]
+          anticipated at appraisal but did not materialize. (Financing gap)
+
+Expected Approval Date                                             Review Type/Corporate Review Level
+
+17-Oct-2024                                                        Regular Decision Meeting (DM)
+
+Will consulting services be required?                              Is this an Urgent Need or Capacity Constraint request?
+
+Yes                                                                No
+
+
+IMPLEMENTATION MODALITIES – ADDITIONAL FINANCING
+
+
+Situations of Urgent Need of Assistance or Capacity Constraints
+[ ] Fragile State(s)                                                [ ] Fragile within a non-fragile Country
+
+[ ] Small State(s)                                                  [ ] Conflict
+
+[ ] Responding to Natural or Man-made Disaster
+Other Situations
+[ ] Financial Intermediaries (FI)                                   [ ] Series of Projects (SOP)
+
+[ ] Performance-Based Conditions (PBCs)                             [ ] Contingent Emergency Response Component (CERC)
+
+[ ] Alternative Procurement Arrangements (APA)                      [ ] Hands-on Expanded Implementation Support (HEIS)
+
+
+                                                                                                                             iii
+        The World Bank
+        Additional Financing Türkiye Irrigation Modernization (P181624)                                       PROJECT PAPER
+
+
+
+@#&OPS~Doctype~OPS^dynamics@afaprcostfinancing#doctemplate
+COSTS & FINANCING
+
+Summary (Total Financing in US$, Millions)
+
+                                                                                     Proposed
+
+                                          Last Approved          Additional              Cancellation              Total
+ Total Operation Cost                              254.00                    95.00                     0.00         349.00
+
+ Total Financing                                   254.00                    95.00                     0.00         349.00
+
+   Of which IBRD/IDA                               252.00                    95.00                     0.00         347.00
+
+ Financing Gap                                           0.00                                                         0.00
+
+Financing Details (in US$, Millions)
+
+                                                                                     Proposed
+
+          Source                       Last Approved            Additional             Cancellation               Total
+ International Bank for
+ Reconstruction and                              252.00                   95.00                       0.00          347.00
+ Development (IBRD)
+   International Bank for
+    Reconstruction and                           252.00                   95.00                       0.00          347.00
+       Development
+ Trust Funds                                       2.00                      0.00                     0.00            2.00
+    Global Environment
+                                                       2.00                  0.00                     0.00            2.00
+       Facility (GEF)
+ Total Financing                                 254.00                   95.00                       0.00          349.00
+
+@#&OPS~Doctype~OPS^dynamics@afaprsort#doctemplate
+
+
+
+
+                                                                                                                           iv
+           The World Bank
+           Additional Financing Türkiye Irrigation Modernization (P181624)                                         PROJECT PAPER
+
+
+
+ SYSTEMATIC OPERATIONS RISK- RATING TOOL (SORT)
+
+                                                       Last Approved Rating
+ Risk Category                                                                                      Proposed Rating
+                                               (ISR Seq. 011) Package - 29 Jun 2024
+ Political and Governance                     Moderate                                      Moderate
+ Macroeconomic                                Substantial                                   Substantial
+ Sector Strategies and Policies               Moderate                                      Moderate
+ Technical Design of Project or Program  Low                                                Low
+Institutional Capacity for
+                                              Moderate                                      Moderate
+Implementation and Sustainability
+ Fiduciary                                    Moderate                                      Substantial
+ Environment and Social                       Substantial                                   Substantial
+ Stakeholders                                 Moderate                                      Moderate
+ Overall                                      Moderate                                      Moderate
+
+@#&OPS~Doctype~OPS^dynamics@afaprclimate#doctemplate
+ CLIMATE
+
+ Climate Change and Disaster Screening
+ Has this operation been screened for short-term and long-term climate change and disaster risks?
+ Yes, it has been screened and the results are discussed in the Appraisal Document
+
+ Where risks exist, have potential resilience-enhancing measures been identified in the appraisal document?
+
+ No, significant risks were not identified
+ Does this operation address specific risks, vulnerabilities, gaps or needs with respect to Climate Change that are identified in
+ the SCD or the CPF?
+ Yes
+ GEF Focal Area
+ Land degradation
+
+
+ Greenhouse Gas Emissions Accounting and Shadow Price of Carbon
+                                                                                                  Gross Emissions
+                                                       Net Emissions (annual average,
+ Net Emissions (economic lifetime, tCO2e)                                                         (economic lifetime,
+                                                       tCO2e/year)
+                                                                                                  tCO2e)
+ -477325                                               -15911                                     935731
+
+ Has the operation applied the Shadow Price of Carbon in the Economic Analysis?
+
+
+
+                                                                                                                                v
+           The World Bank
+           Additional Financing Türkiye Irrigation Modernization (P181624)                              PROJECT PAPER
+
+
+
+Yes
+
+
+POLICY COMPLIANCE
+
+Does the operation depart from the CPF in content or in other significant respects?        No
+
+Does the operation require any waivers from Bank policies?                                 No
+@#&OPS~Doctype~OPS^dynamics@afaprteam#doctemplate
+TEAM
+Core Team
+
+             Name                            Role                     Specialization            ADM Responsible?
+
+Regassa Ensermu Namara           Team Leader                   Water Economist                        Yes
+
+Canan Yildiz Uz                  Team Leader                   Infrastructure Specialist              No
+
+Ahmed Shawky Mohamed
+                                 Team Leader                                                          No
+Abdelghany
+
+                                 Financial Management          Senior Financial
+Ayse Seda Aroymak                                                                                     Yes
+                                 Specialist                    Management Specialist
+
+Ulya Camur                       Procurement Specialist                                               Yes
+
+Sibel Gulen                      Environmental Specialist      Environment                            Yes
+
+Tugrul Cem Icten                 Environmental Specialist                                             No
+
+Ferdous Jahan                    Social Specialist             Social Risk                            Yes
+
+Alkadevi Morarji Patel           Social Specialist                                                    No
+
+Ebru Demir Aykan                 Social Specialist                                                    No
+
+Elisa Ilibagiza Mugiraneza       Counsel                                                              No
+
+Lisa Lui                         Counsel                       Lead Counsel                           No
+
+Selcuk Ruscuklu                  Procurement Team                                                     No
+
+Nooshafarin Tayebi               Team Member                                                          No
+
+Nevma Deniz Naz Ozbal            Team Member                                                          No
+
+                                                               Water Supply and
+Verena Schaidreiter              Team Member                                                          No
+                                                               Sanitation Specialist
+
+
+
+                                                                                                                   vi
+       The World Bank
+       Additional Financing Türkiye Irrigation Modernization (P181624)                           PROJECT PAPER
+
+
+Jihane Obeid                 Team Member                                                       No
+
+Mai Nguyen                   Team Member                                                       No
+
+Maiada Mahmoud Abdel
+                             Team Member                                                       No
+Fattah Kassem
+
+Sylvie N. Ngo-Bodog          Team Member                    Sr. Program Assistant              No
+
+Extended Team
+
+Name                         Title                          Organization                      Location
+
+                             Senior Irrigation Specialist
+Faruk Volkan                                                Consultant              Turkiye
+                             (consultant)
+
+
+
+
+                                                                                                          vii
+         The World Bank
+         Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+
+I.    BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING
+
+
+ A. Introduction and Context
+
+ Country Context
+
+ 1.  Türkiye’s development achievements over the past two decades have been remarkable. Real gross domestic
+    product (GDP) growth averaged 5.4 percent between 2002 and 2022, resulting in income per capita (in real terms)
+    that was more than double over the same period. Moreover, growth was accompanied by rapid poverty reduction,
+    with the poverty rate (US$6.85 2017 PPP poverty line) halving from above 20 percent in 2007 to less than 10
+    percent in 2022. As in other countries, the COVID-19 pandemic had a negative impact on growth in 2020, but the
+    country was one of the few that did not register a GDP contraction that year, instead it’s GDP grew by 1.9 percent.
+    This performance was due, to a large extent, to the government’s economic policy response to said pandemic,
+    which focused on loosening monetary policy and rapid credit expansion. Moreover, supported by domestic and
+    external demand, Türkiye achieved double-digit GDP growth in 2021 (11.4 percent) and maintained significant
+    momentum in 2022 (5.5 percent) and 2023 (5.1 percent).
+ 2. However, the policy framework that ensured a strong economic performance during and after the COVID-19
+    pandemic also heightened macroeconomic risks. As a result of the monetary policy, the country experienced high
+    inflation (with annual inflation at 52.0 percent in August 2024 after having peaked at 85.5 percent in October
+    2022), currency depreciation (82 percent against the US$ between January 2020 and September 2024), corporate
+    and banking sector vulnerabilities, and declines in reserve buffers.
+ 3. Following the May 2023 elections, the Government has taken steps towards normalizing the economy in a
+    gradual way in order to manage risks associated with the adjustment process. This included monetary policy
+    tightening, of interest rates increasing from 8.5 percent in May 2023 to 50 percent in March 2024, the unwinding
+    of distortive financial regulations, and fiscal revenue measures to curtail the fiscal deficit. Markets are reacting
+    positively with 5-year Credit Default Swaps (CDSs) declining from above 500 basis points (bps) in May 2023 to
+    around 250bps in September 2024, all three of the major rating agencies upgraded the credit rating (most recently
+    Fitch to BB- on September 6, 2024). The authorities are also contemplating on how to complement these actions
+    with structural reforms that may help with growth prospects going forward. These efforts will need to be sustained
+    and supported in the coming months.
+
+
+Sectoral and Institutional Context
+
+ 4. With over 60,000 km2 of irrigated land, a sophisticated State Hydraulic Works Agency, and traditionally high
+    emphasis on extending service delivery, Türkiye is one of the top irrigation and drainage countries in the world.
+    Türkiye’s agriculture is heavily dependent on irrigation, which triples productivity compared with rain-fed
+    agriculture and provides resilience of steady agricultural production and food security. Climate change patterns
+
+
+
+                                                                                                                Page 1
+             The World Bank
+             Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+       are expected to significantly impact yields, especially through increased water scarcity, threatening agricultural
+       productivity, rural incomes and employment, and food security.
+    5. Türkiye is a water-stressed country, with climate change, urbanization, and increasing demand from economic
+       activities posing significant risks to its water security. Over two-thirds of the country’s 25 river basins are facing
+       water scarcity, yet demand is steadily increasing. In 2018, total water withdrawals reached 61.1 billion m3, double
+       compared with 28.1 billion m3 in 1990 and is estimated to be about 112 billion m3 in 2024. About 77 percent of
+       annual freshwater withdrawals in Türkiye is used for irrigation and 23 percent for domestic and industrial
+       purposes. An estimated 95 percent of exploitable groundwater resources are already being used for irrigation,
+       domestic, and industrial purposes, with irrigation consuming about two-thirds of the total amount.
+    6. Climate change is one of the most critical risks to Türkiye’s development. Frequency and Severity of Climate
+       change and disaster-related vulnerabilities and extreme events have increased and are exacerbating poverty in
+       Türkiye. The water sector is the primary medium through which the negative impacts of climate change are felt.
+       The sector is also a key entry point for interventions to ensure effective adaptation and build resilience to climate
+       change. The negative impacts of climate induced water scarcity have been particularly felt in basins where
+       populations and economic activity are concentrated, including those hosting large cities and economic hubs such
+       as İstanbul, Ankara, İzmir, and Antalya, as well as important agricultural areas, such as the Konya plains. According
+       to a 2016 Climate Change Assessment, water demand may exceed Türkiye’s exploitable water level as early as the
+       2030s in a worst-case scenario. Irrigated agriculture would be the hardest hit, which would in turn affect the
+       country’s economy. According to Türkiye’s Climate Change Development Report (CCDR), 1 a 10 percent reduction
+       in water supply could cost Türkiye 6 percent of GDP, about US$50.0 billion per year.
+    7. Projected increase in population and decreasing agriculture area poses risk to food supply in the country.
+       Irrigation opens possibilities to grow a whole range of crops, boosting wheat and barley as well as corn, sugar,
+       cotton, citrus, grapes, and various horticulture crops. Yet Türkiye’s irrigation sector is still characterized by
+       widespread low-performing irrigation systems and obsolete infrastructure based on open channel and traditional
+       systems in many parts of the country that contribute to substantial losses and unsustainable use of water
+       resources. Moreover, many farmers are tapping into limited groundwater supplies contributing to over-
+       exploitation of the resource. Thus, the Government has launched a 10-year Water Efficiency Action Plan (2023 to
+       2033), which includes modernizing 1.3 million hectares of irrigated area with an estimated cost of US$6.5 billion.
+       This plan is supported in part by the World Bank through the ongoing Türkiye Irrigation Modernization Project
+       (TIMP)(P158418) and Water Circularity and Efficiency Improvement Project (WCEIP)(P174915).
+
+    B. Project Status and Background
+
+    8. This Project Paper seeks the approval of the Board of Executive Directors to provide an Additional Financing
+       (AF) loan in the amount of EUR 87.7 million (US$95.0 million equivalent) to the Republic of Türkiye for the
+       Türkiye Irrigation Modernization Project, to cover the cost overrun within the existing project scope. The
+       original Türkiye Irrigation Modernization Project was financed through an International Bank for Reconstruction
+
+1
+ World Bank Group. 2022. Türkiye Country Climate and Development Report. CCDR Series. © Washington, DC: World Bank.
+http://hdl.handle.net/10986/37521
+
+                                                                                                                      Page 2
+             The World Bank
+             Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+        and Development (IBRD) loan of EUR 222.3 million (US$252.0 million equivalent) and a Global Environment Fund
+        (GEF) grant of US$2.0 million. The Loan and Grant were approved on January 22, 2019. The Loan Agreement was
+        signed on February 15, 2019, and the GEF Grant Agreement on February 4, 2019; while the project was declared
+        effective on May 30, 2019. The project is now in its fifth year of implementation with the current closing date of
+        the original loan set as February 27, 2026 and proposed to be extended to December 31, 2028 to allow sufficient
+        time to implement all project activities, as planned, and fully achieve the project development objectives.
+    9. The Project Development Objective (PDO) is to improve irrigation service delivery, through rehabilitation and
+        modernization of distribution infrastructure in selected schemes, and through strengthening of capacity of
+        Water User Associations (WUAs). The parent Irrigation Modernization project (TIMP) is aimed to deliver several
+        key outcomes, including increasing the net irrigation area under operation, raising irrigation efficiency, expanding
+        the use of water-saving modern irrigation systems, decreasing the use of groundwater as well as ensuring more
+        equitable engagement among female farmers in WUAs. The total irrigation service area planned to be improved
+        under the project is 50,764 hectares, of which 15,280 hectares are completed. The length of modernized irrigation
+        network already reached 694.54 km (i.e., more than one third of the total 1,521 km envisaged for the project
+        financing). The project also aims to provide pressurized and more reliable irrigation supply to farmers, allowing
+        cultivation of high-value crops, reducing water losses, and increasing irrigation efficiency. It is expected to benefit
+        about 17,312 water users, with a focus on increasing the incomes of farmers, contributing to general economic
+        growth in the project areas, strengthening the enabling environment and sector capacity for managing water
+        resources, and improving service delivery efficiency and resilience through promotion of innovative technical and
+        management solutions. The TIMP delivered on addressing climate change-exacerbated water scarcity and
+        lowering Greenhouse Gas (GHG) emissions via a comprehensive initiative aimed at improving irrigation efficiency,
+        promoting water savings, and enhancing the livelihoods of farmers in Türkiye.
+    10. The parent project includes three Components: Component (1) ‘Irrigation systems modernization’ to modernize
+        Devlet Su İşleri 2 (DSI)’s irrigation systems in selected schemes; Component (2) ‘Innovation and institutional
+        support’, to support DSI on designing and piloting a National Program for WUA Capacity-Building, and
+        implementation of a sustainable energy and groundwater management pilot; and Component (3) ‘Project
+        management’. As appraised, the project components and activities were aligned with the Government of
+        Türkiye’s (GoT's) national development priorities, as outlined in its 10th Development Plan, including a
+        “Transformational Program” (2014-2018) for improving the efficiency of water use in agriculture, and continues
+        to be aligned with the country’s current 12th National Development Plan for 2024-2028 3 and the General
+        Directorate of State Hydraulic Works development strategy.
+    11. Progress towards PDO and Overall Implementation Progress. The progress on the PDO achievement is
+        Moderately Satisfactory. Disbursement stands at US$113.2 million (45 percent of the total project funds,
+        including 44.2 percent of the IBRD loan disbursed, while disbursement of GEF grant reached 95 percent). Farmers
+        in the project-supported areas are reporting significant benefits due to improvements in irrigation delivery
+        services including shielding them against the risks of uncertain rainfall and unreliable irrigation schedule,
+
+2 General Directorate of State Hydraulic Works - the state agency responsible for water resources planning, development, and management,
+including most of the irrigation schemes in the country.
+3 The Twelfth Development Plan was approved on October 31, 2023, during the 15h plenary session of the Grand National Assembly of Türkiye.
+
+
+
+                                                                                                                                      Page 3
+       The World Bank
+       Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+    reduction in crop and livestock production costs, increases in cropping intensity, increases in crop yield, increased
+    total production, and diversification towards high value crops. The project has made good progress on reaching
+    female farmers: 1 in 5 water users who were provided with improved irrigation services were female, with the
+    project reaching 250 female water users out of the target of 519. Overall, the emerging results show that the
+    project contributed to sustaining the livelihoods of farmers, who hitherto were affected by the scarcity of
+    irrigation water, which was exacerbated by climate change. The component-by-component implementation
+    progress is presented below.
+12. Component 1. Irrigation Systems Modernization (IBRD, US$249 million): The loan and grant funds are largely
+    earmarked for the works at five irrigation schemes- namely, Atabey, Alasehir, Eregli-İvriz, Uzunlu irrigation
+    schemes - financed from the loan, and Bolvadin irrigation scheme financed under the GEF grant. The overall
+    works progress rate under the ongoing civil work contracts is 48 percent and contributed to total disbursement
+    of US$104 million of the project funds. The construction works are progressing well in the Eregli-Ivriz and Uzunlu
+    irrigation schemes. At Eregli-Ivriz irrigation scheme, the contract has been completed, and the work is in the
+    provisional acceptance phase- one year earlier than the official contract end date of May 11, 2025. At Uzunlu
+    irrigation scheme, 80 percent the works is completed, and the contract is expected to be completed in December
+    2024. However, the work implementation progress for Alasehir and Atabey irrigation schemes, which constitute
+    47 percent of the total work contracts of the project has been unsatisfactory due to poor performance of the
+    contractor that won the contracts for Atabey and Alasehir; and these contracts were terminated on August 8,
+    2023, and May 3, 2023, respectively and rebid. The current disbursement level is only 9.4 percent and 1.2 percent
+    of the total signed contract values for Atabey and Alasehir, respectively. Furthermore, the inability of the initial
+    contractor to start the works on time exposed the project to significant cost overrun due to inflation and currency
+    devaluation.
+13. Component 2: Innovation and Institutional Support (GEF, US$2 million): Implementation is progressing well.
+    Irrigation Facilities Spatial Information System (SUTEM) is developed and is under temporary acceptance,
+    warranty, and maintenance phase. The necessary hardware for the implementation of the SUTEM software has
+    been already procured and distributed to WUAs. The SUTEM software testing and verification phase is expected
+    to be completed on December 24, 2024. The SUTEM software training is completed with the execution of a three
+    day long five training sessions from third week of March 2024 to first week of April 2024. A total of 803 personnel
+    from WUAs, DSI General Directorate and Regional Directorates benefited from the training program.
+    Implementation of Groundwater Stewardship Pilot which includes installation of solar panels and groundwater
+    irrigation management in Bolvadin, Afyon is completed. The GEF grant funds are expected to be fully disbursed
+    by February 27, 2026.
+14. Component 3: Project Management (IBRD, US$3 million): This component finances multiple activities required
+    for coordination and management of the project; including inter alia measures for enhancing dam safety at the
+    irrigation schemes, community consultations, communications, grievance redress mechanisms, monitoring and
+    evaluation, and environmental and social management. Under this component, six specific contracts with a total
+    value of US$1,101,832 have been procured and implementation is in progress. Consultancy services for Ereğli-İvriz
+    Left Bank Land Acquisition Plans (LAP) and Resettlement Action Plans have been completed. Progress under the
+    two ongoing contracts, namely Consultancy services for Atabey Land Acquisition Plans and Resettlement Action
+
+                                                                                                                 Page 4
+       The World Bank
+       Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+    Plans, and Consultancy services for Alasehir Land Acquisition Plans and Resettlement Action Plans are 67 percent
+    and 89 percent completed, respectively.
+15. The project has been compliant with most of the IBRD loan covenants, including those related to; (i) provision
+    of the staffing, budgetary resources, and the authority necessary to implement the project; (ii) carrying out the
+    project in accordance with the provisions and recommendations of Environmental and Social Management
+    Framework (ESMF) and Land Acquisition Policy Framework (LAPF); (iii) annually carrying out safety inspections for
+    dams supplying water to the selected irrigation schemes of the project; (iv) establishing and maintaining project
+    feedback and Grievance Redress Mechanisms; (v) implementing the project according to the approved Project
+    Operations Manual(POM); and (vi) entering into an agreed protocol with each WUA receiving equipment financed
+    by the GEF grant before the transfer of those equipment. The execution of the covenant related to the preparation
+    of Emergency Preparedness Plan has been partially completed and is expected to be fully complied with by
+    December 31, 2024.
+
+C. Rationale for the Additional Financing (AF)
+
+16. The proposed AF of US$95.0 million (EUR 87.7 million equivalent) will cover the financial shortfall to complete
+    all planned activities under the parent project, especially to complete the implementation of Alasehir and Atabey
+    irrigation schemes under Component 1, which faced significant cost overrun due to implementation delays,
+    inflation, and deterioration of exchange rates. The inability of the contractor responsible for Atabey and Alasehir
+    irrigation schemes to timely procure inputs and begin works exposed the project to the full impacts of inflation,
+    currency devaluation, and COVID-19 and the February 2023 earthquake incidents related logistical challenges,
+    which caused significant cost overruns.
+17. The proposed AF complies with the World Bank Investment Project Financing Policy and the accompanying
+    World Bank procedures. The parent project is in full compliance with all legal covenants and has no outstanding
+    audits or overdue reports. Both PDO and Implementation progress are rated Moderately Satisfactory since June
+    2023.The same Safeguards Policies which are guiding the implementation of the parent project will apply for this
+    Additional Financing as the additional funding is due to cost overrun. In the unlikely situation that project activities
+    to be undertaken would trigger new safeguard policies, new instruments will be prepared, consulted, and
+    disclosed in accordance with the Bank’s environmental and social safeguards policies.
+18. The AF is in line with the objectives of the WBG Country Partnership Framework (CPF) for Türkiye (FY24-28). It
+    supports High-Level Objective (HLO) 1 (High and sustainable productivity growth), HLO2 (Inclusive services and
+    jobs), and HLO3 (strengthened resilience) of the CPF (Report No. CPF0000004, discussed by the Board of Executive
+    Directors on April 9, 2024) for Türkiye. For HLO 1, the Project and its AF are contributing to the achievement of
+    CPF Objective 1 (Boost competitiveness and enabling services) by improving irrigation service delivery and
+    enhancing agricultural productivity and farm income. For HLO 2, the project will improve jobs for women, youth,
+    and vulnerable groups by enhancing the growth of economic activities linked to agriculture. For HLO 3, the project
+    enhances disaster resilience and preparedness and strengthens natural resources management.
+19. The parent project and the proposed AF are also fully aligned with the World Bank Groups Global Challenge
+    Program on Fast Track Water Security and Climate Adaptation that is linked to Sustainable Development Goal
+
+
+                                                                                                                    Page 5
+             The World Bank
+             Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+          6 and envisages support to (i) improved access to water supply and sanitation; (ii) improved irrigation service
+          delivery and water productivity; and (iii) flood and drought risk reduction through sustainable water management
+          and disaster risk reduction. The parent project and the proposed AF also contribute to the World Bank Group Food
+          and Nutrition Security Global Challenge Program since improved irrigation is essential to improved agro-system
+          services and sustained food production and livelihoods.
+
+
+    II.   DESCRIPTION OF ADDITIONAL FINANCING
+
+
+      PDO and Composition of the Project Components
+
+      20. The AF is in line with the existing PDO, and the components included in the parent Project’s design. The PDO
+          will remain unchanged. 4 The project implementation and institutional arrangements will also remain unchanged.
+          DSI will continue to be the implementing agency for the project, with the same Project Management Team (PMT)
+          that oversees the parent TIMP project and governed by the same POM.
+
+      Cost overruns
+
+      21. During the last five years of the project implementation, the cost of construction works and consultancy services
+          in Türkiye have been significantly escalated. These can be attributed to several factors, including (i) devaluation
+          of Turkish Lira, which increased the cost of imported materials and equipment; (ii) inflation, which resulted in the
+          general rises in the prices of goods and services; (iii) global supply chain disruptions due to COVID-19 pandemic
+          that led to shortages and delays in obtaining construction materials; and (iv) the devastating earthquake that hit
+          the country in February 2023, which resulted in a surge in construction activities, leading to increased demand for
+          materials and labor, thereby raising prices of goods and services in Türkiye. These factors interacted in complex
+          ways and resulted in significant cost overrun, particularly for Component 1 of the project as shown in Table 1
+          below. The original financial allocation to Component 1 was US$249.0 million from the parent IBRD Loan, while
+          the revised cost estimate to successfully complete all of the ongoing irrigation scheme modernization activities
+          under Component 1 is US$344.0 million. Thus, the cost overrun experienced under the project amounts to
+          US$95.0 million.
+      22. The contracts under Component 1 were all signed in 2020. However, the magnitude of cost overrun is very high
+          for the Alasehir and Atabey irrigation schemes as compared to that of the Eregli-Ivriz and Uzunlu schemes due
+          to the failure of the contractor for Alasehir and Atabey to timely start works and commit financial resources, which
+          exposed the works at these sites to the full effect of price escalations. Eregli-Ivriz and Uzunlu contracts also
+          experienced small cost overrun, but the revised costs for these schemes were within the original budget estimate
+
+
+
+4 To conform with the PDO statement “To improve irrigation service delivery, through rehabilitation and modernization of distribution
+infrastructure in selected schemes and though strengthening of capacity of Water User Associations” as per the loan agreement in the Parent
+Project and AF, the PDO statement will be corrected in the Bank Operations Portal System upon submission of the next implementation status
+report.
+
+                                                                                                                                        Page 6
+           The World Bank
+           Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+       (see table 1). The timely commencement and speedup of works at Eregli-Ivriz and Uzunlu sites helped to reduce
+       the impact of labor and material cost escalations.
+
+                      Table 1: Estimated Initial Cost and Total Expenditure Plan under Component 1
+         Sub-                Initial Budget   Signed Contract   Cumulative Expenditure      Estimated Total
+         components          Estimation       Amount            (US$ million)               Expenditure at
+                             (US$ million)    (US$ million)     (As of July 2024)           Project Closing Date
+                                                                                            (US$ million)
+         Eregli-Ivriz Left
+                             98.7             62.0              74.5                        71.0
+         Bank
+         Uzunlu              33.0             21.3              19.3                        25.0
+         Atabey              63.7             48.2              6.7                         156.4
+         Alasehir            53.3             28.5              1.3                         91.6
+         Total               248.7            160.0             101.8                       344.0
+
+Extension of the Project Closing Date
+
+   23. In addition to the significant cost overrun, the implementation of Atabey and Alasehir contracts experienced
+       significant delays due to poor performance of the initially selected contractor, which led to termination of the
+       contracts and re-tendering. However, the new contractors would require an additional 32 months to ensure
+       successful completion of the civil works (see table 2). Consequently, the proposed AF also calls for the extension
+       of the parent project’s loan closing date from February 27, 2026, to December 31, 2028, to provide sufficient time
+       for completion of all key project activities and the achievement of the PDO. The Loan Agreement of the parent
+       project will be amended to reflect the proposed closing date extension to December 31, 2028.
+
+                 Table 2: Revised contract durations for Atabey and Alaşehir scheme works.
+         Name of Revised Contract Start Planned Contract End Dates Estimated contract duration
+         scheme  Date
+         Atabey        September 2024            September 2027                 1095 days
+         Alasehir      March 2024                September 2028                 1650 days
+
+
+   24. The original project scope and design remain unchanged yet relevant, as climate change-exacerbated droughts,
+       extreme heat and floods continue to pose a high level of inherent risk. Component 1 for which the AF is sought
+       includes activities such as conversion from open channel to pressurized systems, changing from pumping-based
+       to gravity systems, and reducing water losses and wastage that can increase water and energy use efficiency.
+       Thus, the project is estimated to reduce GHG emissions from 47,102 tCO2-eq/year to 31,372 tCO2-eq/year
+       (annually) which is equivalent to a 33% reduction (from 1,413,056 tCO2-eq down to 941,152 tCO2-eq- over
+       the economic lifetime) in terms of climate change mitigation, while also advancing climate change adaptation and
+
+
+                                                                                                                   Page 7
+        The World Bank
+        Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+    increasing resilience. The 33% emission reduction is compared to a baseline scenario of higher energy use for
+    irrigation, lack of improvement of degraded land, and maintaining the status-quo cropping patterns and
+    agricultural practices, while the project switches to a zero-emissions gravity-based irrigation system, upgrades
+    degraded land, introduces new cropping patterns and agronomic practices, which all reduce GHG emissions.
+
+Adjustments to the Results Framework
+
+25. The end targets of selected PDO and intermediate results indicators were revised, in response to adjustments
+    such as changes in the organizational structure of WUAs and the layout and routing of irrigation schemes
+    pipeline. Based on the authority granted by Law No. 7139, DSI assessed the organizational efficiency and
+    economic sustainability of WUAs. As a result of the assessment made some of the WUAs were merged and the
+    number of WUAs was reduced from 378 to 181 in 2022. Thus, the total number of WUAs is currently 181 in Türkiye.
+    The end target and the description of the indicator: “increase in irrigation efficiency’’, was revised for two reasons.
+    First, the irrigation efficiency as originally conceptualized refers to both conveyance and on-farm water losses, but
+    DSI is only responsible for irrigation water conveyance networks. Secondly, the 15% end target assumes both on-
+    farm and conveyance efficiency, which was scaled down to 5% to measure only improvements in conveyance
+    efficiency for which DSI is responsible. The end dates of the PDO and intermediate results indicators were adjusted
+    to align with the proposed extension of project closing date. In addition, the Results Framework was assessed for
+    alignment with the corporate scorecard.
+
+
+26. Specifically, the following adjustments were made to the RF:
+    •   New PDO indicator (Corporate scorecard indicator) added: “People benefiting from increased resilience of
+        livelihoods, jobs or firms” (number); Baseline: zero; Target: 17,000 people. The indicator will be disaggregated
+        by gender (female) and age (Youth).
+    •   End target of the existing PDO indicator “WUAs regularly reporting on water use data” is revised to be 181.
+    •   New Intermediate Results Indicator (Corporate scorecard indicator) added: “Renewable energy capacity
+        enabled with direct support” (Megawatt). Baseline: Zero; Target: 0.65 Megawatt. This corporate scorecard
+        indicator replaced the existing indicator “Reduction in Groundwater Withdrawal by Bolvadin Cooperative”
+        which is dropped.
+    •   End target of the existing Intermediate Results Indicator “WUAs trained in the use of Irrigation Facilities Spatial
+        Information System (SUTEM)” is revised to be 181.
+    •   End target of the existing PDO indicator “Increase in irrigation efficiency” is revised to be 5 percent. Also, the
+        term “conveyance” is added to the indicator title.
+
+
+
+
+                                                                                                                   Page 8
+          The World Bank
+          Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+III.   KEY RISKS
+
+
+   27. The overall residual risk to the proposed AF continues to be rated as Moderate, based on the parent project
+       experiences, stakeholder, and social risks. Political and governance risk is Moderate as modernization of
+       irrigation, along with other investments for increasing agricultural productivity and water efficiency, remain a
+       priority agenda for Government of Türkiye. The risks for sector strategies and policies and technical design are
+       low as DSI has already been implementing the parent project. The residual risk for institutional capacity for
+       implementation and sustainability is Moderate as the project implementation will be built on the existing capacity
+       at DSI under the ongoing Bank operations. DSI will be supported to improve on contract management. The
+       environment and social risks are Substantial. Stakeholder engagement and consultations with farmers and WUAs
+       will be continued throughout the implementation, to ensure that the community concerns and grievances are
+       addressed satisfactorily.
+   28. Macroeconomic risks are Substantial. Key macroeconomic risks to the project include: (i) high inflation and
+       exchange rate volatility, which may lead to price increases and uncertainties; (ii) ability of entrepreneurs to expand
+       production and employment in the face of macroeconomic challenges; and (iii) ability of the WUAs and DSI to
+       operate and maintain investments. These risks are beyond the scope of the project; however, the project will
+       monitor the macroeconomic developments closely and adjust implementation as needed.
+   29. Fiduciary risk is rated Substantial. The residual procurement risk is Substantial, and the residual financial
+       management risk is Moderate. The procurement risk is rated as Substantial due to delays in the termination of
+       poor performing Alasehir and Atabey irrigation scheme contracts and the launching the rebidding process. The
+       Alasehir Irrigation scheme contract is now signed and for Atabey the bid process is expected to be finalized in the
+       next few weeks. Systematic monitoring and follow-up by DSI of contract implementation progress with regular
+       reporting, including copies to the Bank, will be ensured.
+   30. Both Environment and Social risks are rated as Substantial. The environment risks are rated as Substantial due
+       to the civil works in the scope of the activities and the recent two fatality incidents related to occupational health
+       safety that occurred in Eregli-Ivriz and Antalya. The mitigation measures, including relevant dam safety measures,
+       set out in the Bank approved Environmental and Social Management Plans (ESMPs) will be continued to be
+       implemented by the contractors on the sites. DSI will continue to conduct supervision visits to construction sites
+       through its environmental and Occupational Health and Safety (OHS) experts and provide periodic monitoring
+       reports. The social risks are also rated as Substantial. Rehabilitation and modernization of existing irrigation
+       schemes poses the following risks: labor and working conditions risks; community health and safety risks; minor
+       permanent and temporary land acquisition or easement restrictions affecting agricultural livelihoods; and risks
+       relating to inadequate stakeholder engagement and grievance management. DSI will continue to implement
+       Resettlement Plan and Land consolidation plans as prepared and approved by the World Bank for both irrigation
+       schemes. DSI will keep the updated records of changes in network alignment causing land impacts as well as
+       improve grievance record system. In addition, DSI would ensure the quality delivery of monthly Environmental,
+       Social, Health, and Safety (ESHS) reports from the two schemes, following the good practice of the Eregli Ivriz
+       scheme’s reports.
+
+
+                                                                                                                     Page 9
+              The World Bank
+              Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+      31. In response to the recent two fatal accidents, DSI has completed the investigation and proposed a Corrective
+          Action Plan. The actions included in the plan are: (i) urgent review of OHS measures on all sites of DSI funded by
+          World Bank Project, (ii) urgent review to confirm and if necessary ensure that each contractor and site supervisor
+          has OHS staff on site full time, (iii) urgent review of all implemented OHS related measures as per site-specific
+          ESMPs and national laws, and written reporting to WB and DSI HQ, and (iv) develop technical documentation or
+          procedures for lifting prefabricated concrete structures on irrigation schemes. The implementation of the action
+          plan is on-going.
+      32. DSI will report all OHS related accidents and incidents in accordance with World Bank Policies and procedures.
+
+
+    IV.   APPRAISAL SUMMARY
+
+      A. Economic and Financial (if applicable) Analysis
+
+      33. The detailed cost benefit re-analysis of the overall project addressing changes in project costs and
+          implementation delays shows that the project is economically viable. The Economic and Financial Analysis (EFA)
+          was performed for the TIMP AF, taking into consideration the cost overrun and delays in implementation to: (i)
+          assess the financial viability of each of the four irrigation schemes, (ii) assess if the planned improvements in
+          irrigation services still provide sufficient financial incentives for farmers, and (iii) evaluate if the project overall is
+          economically viable. The analysis applied the methodology and assumptions adopted at appraisal of the parent
+          project. 5 The details of the analysis and the key assumptions used for the current analysis are presented in Annex
+          1.
+
+      34. Impact on farm income: Comparison of the unit incremental farm income at appraisal and at AF stages for the
+          four schemes showed that, in nominal terms, the incremental farm income increased by about 275 percent over
+          the period of 2019 to 2024 due to inflation. In real terms the incremental farm income per hectare in 2024 is only
+          about 52 percent of the value in 2019 due to a combination of inflation and exchange rate deterioration. However,
+          the unit incremental farm income shows that the project still provides sufficient incentives for beneficiaries to
+          participate in the project.
+
+      35. Scheme level financial impacts: The calculated Financial Net Present Values (FNPVs) and Financial Internal Rate
+          of Returns (FIRRs) for each of the irrigation schemes and for the overall project indicate that the investment is
+          financially viable. However, at the stage of AF, the financial viability of Alasehir and Atabey irrigation schemes is
+          inferior to that of Eregli-Ivriz and Uzunlu, which are currently in the final phases of implementation. At appraisal,
+          the financial viability of Atabey and Alasehir irrigation schemes had been assessed to be superior to that of Eregli-
+          Ivriz and Uzunlu mainly due to the domination of high value crops in the mix of crops planned to be cultivated at
+          these schemes. The values of financial viability indicators are lower at AF for all the schemes considered because
+          of inflation and deterioration exchange rate.
+
+      36. Economic Analysis: An economic analysis was performed for the entire project considering the social value of net
+          reductions in carbon emission, which was estimated to be -15,911 tCO2-eq at appraisal and economic prices. The
+
+5For the technical details and key assumptions underlying the analysis refer to the Project Appraisal Document (PAD) of the parent project
+(P158418).
+
+
+                                                                                                                                         Page 10
+       The World Bank
+       Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+    calculated Economic Net Present Values (ENPVs) and Economic Internal Rate of Returns (EIRRs) (see table 3)
+    indicate that the project is economically viable in general. However, the calculated project economic worth
+    indicators are significantly lower at AF stage as compared to appraisal stage because of cost overrun and delays
+    in project implementation.
+
+
+
+                                 Table 3: Summary results of the economic analysis
+     Project                 Without SPC              With SPC-Low                With SPC-high
+     Performance
+                       Appraisal     Additional     Appraisal     Additional            Appraisal     Additional
+     Indicators
+                                     Financing                    Financing                           Financing
+
+     ENPV (US$         1,331.0            461.43    1,333.0            474.15           1,335.0            486.87
+     million)
+
+     EIRR (%)          30.56%             24.4%     30.48%             25.5%            30.5%              28.7%
+
+
+
+B. Technical
+
+
+37. The technical soundness of the project is still valid as there is no change in the engineering designs of the
+    irrigation schemes selected for modernization. The technical aspects of the project have been thoroughly
+    reviewed and conform to good practice. The schemes are in areas of high agricultural production potential due to
+    favorable local climates, soils, farming skills, and existing market linkages, all of which are demonstrated by a long
+    period of continuing operations of the existing schemes.
+38. The designs are robust to adaptive changes in technology and farming models. The design parameters are
+    conservative and robust to reduce operational and maintenance costs, while allowing water efficiency
+    improvements. In almost all places it is designed for commercial agriculture.
+
+
+
+C. Financial Management
+
+
+39. The Project Management Team at the Department of Irrigation is responsible for financial management of the
+    Project including budgeting, implementing internal control procedures as defined in the project financial
+    management manual, management of the designated accounts, processing payments, accounting, and reporting.
+    The financial management system of the project is designed to ensure proper budgeting, accounting, and
+    reporting, as well as compliance with internal controls and audit procedures to effectively manage the project's
+    finances and ensure transparency and accountability. DSI utilizes an accounting software for recording
+    transactions under the project in foreign currency. The project Interim Unaudited Financial Reports are also
+    generated from the accounting software. There is a comprehensive and up to date financial management manual
+    for the project that defines the processes and internal controls in detail. There are two designated accounts for
+    the project, one for the IBRD loan and one for the GEF grant, both kept at the Central Bank of Türkiye.
+
+
+
+                                                                                                                   Page 11
+       The World Bank
+       Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+40. The financial management arrangements for the project have been rated as Satisfactory according to the June
+    2024 ISR. Audit reports for the year ended December 31, 2023, prepared separately for the IBRD loan and GEF
+    grant were submitted to the Bank in June 2024. The auditors have issued unmodified (clean) audit opinions on
+    both sets of financial statements. The audit reports made publicly available in DSI website
+    https://dsi.gov.tr/Sayfa/Detay/727. There are no outstanding audit reports.
+
+
+
+D. Procurement
+
+
+41. The Project Management Team of the Irrigation Department is responsible for carrying out the procurement,
+    and the procurement activities for all project-financed schemes are conducted from DSI Headquarters, with
+    regular supervision from Regional Directorates. World Bank Procurement Regulations for IPF Borrowers, dated
+    September 2023 shall apply to the Project. The Bank's ‘Guidelines on Preventing and Combating Fraud and
+    Corruption in Projects Financed by IBRD Loans and IDA Credits and Grants,’ (revised as of July 01, 2016)
+    (‘Anticorruption Guidelines’) will apply to the project.
+42. A Supplementary Project Procurement Strategy for Development (PPSD) with updated market analysis and
+    procurement plan of Atabey irrigation scheme focusing on the procurement and contract implementation risk
+    and mitigation measures formulated based on the lessons learned from the parent project has been prepared
+    by DSI and agreed with the Bank. Open national competitive market approach will be applied as specified in
+    paragraphs 5.3 through 5.6 of the Procurement Regulations, subject to the provisions provided in the
+    Procurement Plan and using the model bidding document agreed between the Bank and DSI for the parent project.
+    The procurement plan will be uploaded in Systematic Tracking of Exchanges in Procurement (STEP) system and
+    updated at least annually. Monthly reports of procurement and contract implementation progress will be
+    prepared by DSI, and copies shared with the Bank.
+43. The procurement complaints are to be handled by the DSI in accordance with the Bank’s Procurement
+    Regulations. Immediately upon receipt, the complaints will be recorded in the STEP complaint module and
+    addressed within a reasonable time but not later than 15 business days of complaint receipt. The Bank will carry
+    out procurement supervision through prior-review and post-review of the procurement activities as specified in
+    the procurement plan and during project implementation support missions.
+
+
+
+E.   Social (including Safeguards)
+
+44. The proposed AF involves several social safeguards issues, including environmental and social impacts, labor
+    management, cultural heritage, grievance redress mechanism, and occupational health and safety. The project
+    involves activities that may create environmental and social impacts, such as construction works and
+    transformation of open-channel irrigation systems to closed water systems. The project requires an
+    Environmental and Social Management Plan (ESMP) to assess and manage these impacts.
+45. An Environmental and Social Management Framework (ESMF) for the parent project was prepared to assess
+    the requirements of national environmental legislation and to compare them with World Bank operational
+    policies. The draft ESMF was also shared with local villagers and stakeholders via two consultation meetings (first
+    one on October 12, 2017, in Senirkent, Isparta and second one on June 20, 2018, in Atabey). The ESMF was
+
+
+                                                                                                               Page 12
+         The World Bank
+         Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+      finalized with the inputs from the consultation meetings and disclosed in country (August 30, 2018) and on Bank's
+      external website (September 5, 2018).
+46.   The project is expected to finance rehabilitation of four irrigation schemes in Isparta, Manisa, Yozgat, and Konya
+      provinces. In line with the ESMF, sub-project Environmental and Social Management Plans (ESMPs), including
+      site-specific information, are to be prepared by DSI and annexed to the tender documents. All site specific
+      ESMPs, have already been prepared and finalized for the parent project and already are in use by the Contractors
+      under the supervision of DSI. The project is committed to complying with Turkish labor law and international labor
+      standards, ensuring that child labor, forced labor, and discrimination are not tolerated. It also includes measures
+      for workforce camps, consultation with local authorities, and providing a safe and healthy working environment
+      for workers.
+47.   Partial expropriations will be conducted in compulsory situations, and land acquisition will be ensured by
+      expropriation. The land acquisition process will be implemented in line with the Land Acquisition Plan prepared
+      by the DSI according to the World Bank's Operational Policy on land acquisition. No physical resettlement activity
+      is envisaged for the implementation of the project. The project prioritizes the use of state-owned lands as much
+      as possible and aims to minimize the loss of agricultural land. The project aims to prevent adverse impacts on
+      archaeological values and has a chance find procedure in place to manage any accidental discovery of cultural
+      artifacts.
+48.   The parent project has a grievance system in place to address concerns, requests, and complaints of project-
+      affected stakeholders related to environmental and social impacts. It includes a four-level grievance system and
+      mechanisms for collecting and resolving grievances during project implementation. The project also includes
+      measures to ensure the health and safety of workers, such as providing necessary personal protective equipment,
+      job-specific and occupational safety trainings, and facilities for workers' needs.
+49.   These social safeguards issues are essential for ensuring that the proposed AF is implemented in a socially and
+      environmentally sustainable manner, in compliance with the World Bank's safeguard policies and international
+      standards. World Bank’s OP4.12 on land acquisition and involuntary resettlement applies to this project.
+
+F.     Environment (including Safeguards)
+
+50. The proposed AF is subject to compliance with the applicable environmental and social safeguard policies set
+    by the World Bank. The World Bank's safeguard measures, particularly OP 4.01 on Environmental Assessment, SD
+    OP/BP 4.37 on Safety of Dams and OP 4.11 on Physical and Cultural Resources, were taken into consideration
+    when preparing the ESMP and defining the environmental safeguards. In addition, the project is required to
+    comply with the laws and regulations of Türkiye, including the Environment Law No. 2872 and the Regulation on
+    Environmental Impact Assessment (EIA Regulation). The project components are categorized as Category B under
+    the World Bank’s OP 4.01. The ESMPs have been prepared to fulfill the requirements of the World Bank’s policies
+    on Environmental Assessment (OP 4.01) and Physical and Cultural Resources (OP 4.11).
+51. The proposed AF aims to ensure that the sub-projects supported by the World Bank are environmentally and
+    socially sustainable in compliance with the World Bank Safeguards Policies. The project aims to address potential
+    impacts on resource sustainability, communities, and other water users.
+52. The proposed AF addresses hazardous materials, waste management, and occupational health and safety
+    concerns related to construction activities, including the storage and use of hazardous materials, waste disposal,
+    and potential risks to workers’ health and safety. Stakeholder engagement frameworks and plans are essential
+    components of the project's environmental and social management.
+
+
+
+                                                                                                                 Page 13
+        The World Bank
+        Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+53. The specific environmental impacts identified in the Environmental Assessment for the proposed AF include: (i)
+    air quality due to possible dust formation and exhaust emissions from construction machinery and equipment and
+    necessary measures will be taken against dust and exhaust gas emissions; (ii) noise generated by construction
+    equipment and vehicles is expected to negatively affect communities, which shall be minimized by carrying out
+    construction activities during daytime hours; (iii) water and wastewater requirement is anticipated to be mostly
+    due to daily domestic water use of workers on campsites and construction sites and for concrete preparation and
+    the responsible entities are tasked with supplying water and waste water services; and (iv) construction, domestic,
+    and hazardous wastes are expected to be generated during construction, which will be stored as required by local
+    regulations and disposed or recycled by authorized waste management facilities.
+
+G. Other Safeguard Policies (if applicable)
+
+  N/A
+
+H. Corporate Commitments
+
+54. Gender. Though in Türkiye, women have lower access to extension services, thus far, the project has made
+    greater progress on reaching its target share for project beneficiary female farmers (48%) than reaching the
+    total project beneficiary farmers overall (8%). Of the farmers/water users the project has provided so far with
+    improved services, 1 in 5 were female, with the project reaching 250 female farmers out of the target of 519.
+    Additionally, the Social Impact and Gender Assessment (SIGA) exercise, performed at the time of the parent
+    project preparation, identified that female water users tend to have smaller plot sizes, represent between 7 to 18
+    percent of the WUA members and less than 2 percent of WUA councilors in the sample of irrigation schemes
+    where the assessment was conducted, and report lack of access to information consultation platforms, and limited
+    access to training. Under the project, detailed plans, and investments to address the gaps in access to extension,
+    engagement in consultations, and level of awareness of WUA activities are in the process of being implemented.
+    The project conducted training to 102 personnel, including 39 women, and each participating WUA has now
+    designed a specific program for mainstreaming gender in irrigation management as well as designed effective
+    mechanisms to engage women. As a result, the project conducted 10 WUA consultations and is starting to track
+    female consultation participants reported increased awareness of WUA activities. While this initial percentage is
+    9.8 percent out of a target 90 percent, the project expects to conduct a robust follow-up survey to assess
+    awareness at the end of project completion. Additionally, the project will make a more concerted effort to
+    increase women’s awareness of the activities by ensuring the consultations are implemented in all WUAs,
+    including the female engineers from WUAs in outreach/follow-up to female farmers, and centering the
+    consultations around benefits for female farmers (i.e., explaining the new gender mainstreaming program and
+    how female farmers will benefit).
+55. Climate Change. There is no change in project design, components, and activities. Thus, the carbon balance
+    analysis conducted at project appraisal still applies. The gross emissions are expected to be 935,731 tCO2-eq. The
+    net emission is estimated to be -477,325 tCO2-eq over the 30 years life of the project. Net annual average emission
+    is -15,911 tCO2-eq. The project sees net mitigation due to switching to gravity fed irrigation for some locations,
+
+
+
+                                                                                                               Page 14
+                         The World Bank
+                         Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+                      land use changes towards growing perennial crops, improved agricultural practices on land dedicated to growing
+                      annual crops, and utilization of renewable energy for irrigation.
+                  56. Citizen Engagement. DSI has a functional multi-level grievance redress mechanism and public consultation
+                      platforms that guides its project operational activities. DSI adopted a variety of participatory approaches during
+                      land consolidation and construction phases. It extensively engaged WUAs. The land consolidation and
+                      expropriation activities are largely completed. These same procedures and platforms shall be employed to align
+                      project implementation with local needs and capacity during the Additional Financing phase.
+
+
+      V.              WORLD BANK GRIEVANCE REDRESS
+
+
+                    Grievance Redress: Communities and individuals who believe that they are adversely affected by a project
+                    supported by the World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s
+                    Grievance Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to
+                    address project-related concerns. Project affected communities and individuals may submit their complaint to the
+                    Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection Panel, which determines
+                    whether harm occurred, or could occur, as a result of Bank non-compliance with its policies and procedures, and
+                    the Dispute Resolution Service, which provides communities and borrowers with the opportunity to address
+                    complaints through dispute resolution. Complaints may be submitted to the AM at any time after concerns have
+                    been brought directly to the attention of Bank Management and after Management has been given an opportunity
+                    to respond. For information on how to submit complaints to the Bank’s Grievance Redress Service (GRS), visit
+                    http://www.worldbank.org/GRS. For information on how to submit complaints to the Bank’s Accountability
+                    Mechanism, visit https://accountability.worldbank.org.
+
+
+
+     @#&OPS~Doctype~OPS^dynamics@afaprproposedchanges#doctemplate
+Summary changes
+
+
+
+
+                  VI. PROPOSED CHANGES
+
+      Operation Information                      Proposed Changes            Operation Information                Proposed Changes
+
+      Results                                               Yes              Loan Closing Date Extension                 Yes
+      Disbursements Estimates                               Yes              Loan Cancellations                          No
+      Components                                            Yes              Reallocations                               No
+      Development Objective                                 No               Financial Management                        No
+      EA Category                                           No               Procurement                                 No
+      Safeguard Policies Triggered                          No               Institutional Arrangement                   No
+      MFD/PCE                                               No               Implementation Schedule                     No
+
+
+                                                                                                                                Page 15
+          The World Bank
+          Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+
+Legal Covenants                              No               Implementation Modalities                  No
+Conditions                                   No
+Implementation Modalities                    No
+Disbursements Arrangements                   No
+Clients                                      No
+Beneficiary Countries                        No
+
+@#&OPS~Doctype~OPS^dynamics@afaprdetailedchanges#doctemplate
+VII. DETAILED CHANGE(S)
+
+
+COMPONENTS
+
+                            Last Approved                                                 Proposed
+
+     Component Name                 Cost (USD)          Action              Component Name               Cost (USD)
+Component 1. Irrigation                                               Component 1. Irrigation
+                                  249,000,000.00        Revised                                        344,000,000.00
+System Modernization                                                  Systems Modernization
+Component 2. Innovation                                               Component 2. Innovation
+                                    2,000,000.00      No Change                                           2,000,000.00
+and Institutional Support                                             and Institutional Support
+Component 3. Project                                                  Component 3. Project
+                                    3,000,000.00      No Change                                           3,000,000.00
+Management                                                            Management
+
+TOTAL                             254,000,000.00                                                       349,000,000.00
+
+
+COSTS & FINANCING
+ Private Capital Facilitation
+ Is this an MFD-Enabling Project (MFD-EP)?
+
+
+
+ Is this project Private Capital Enabling (PCE)?
+
+
+
+LOANS
+
+Loan Closing
+                                         Original            Revised                Proposed         Proposed Deadline
+Loan/Credit/Trust
+                         Status          Closing            Closing(s)               Closing            for Withdrawal
+Fund
+                                                                                                           Applications
+
+                                                                                                               Page 16
+          The World Bank
+          Additional Financing for the Türkiye Irrigation Modernization (P181624)
+
+
+
+IBRD-89190-001         Effective       27-Feb-2026         27-Feb-2026              31-Dec-2028      30-Apr-2029
+                          Not
+IBRD-97340-001
+                       Effective
+TF-A9363-001            Closed         27-Feb-2026          03-Jul-2019
+TF-B0863-001           Effective                                                    27-Feb-2026      27-Jun-2026
+
+DISBURSEMENTS
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Additional Financing
+Implementation Start Date                                     Operation Closing Date
+22-Jan-2019                                                   27-Feb-2026
+Projected Date for Full Disbursement
+30-Apr-2029
+
+Expected Disbursements (in US $) (Absolute)
+
+                            Original Estimation at Preparation                                    Actual
+Year                                                                      Revised Estimation
+                            (Approval Package – 22 Jan 2019)
+FY2019                                               1,416,744.00                        0.00                  0.00
+FY2020                                            10,101,924.00                10,941,973.00       10,941,973.00
+FY2021                                            14,267,232.00                 5,862,509.00        5,862,509.50
+FY2022                                            28,185,948.00                21,760,600.00       21,760,600.00
+FY2023                                            50,386,896.00                36,168,994.00       36,168,994.75
+FY2024                                            58,477,356.00                36,627,989.00       36,627,989.93
+FY2025                                            57,171,996.00                32,110,000.00                   0.00
+FY2026                                            31,991,904.00                58,710,839.00                   0.00
+FY2027                                                      0.00               61,082,443.00                   0.00
+FY2028                                                      0.00               59,730,273.00                   0.00
+FY2029                                                      0.00               24,004,380.00                   0.00
+
+
+
+
+                                                                                                           Page 17
+                 The World Bank
+                 Additional Financing Türkiye Irrigation Modernization (P181624)
+
+
+
+
+                                                                                      RESULTS FRAMEWORK
+                                                                                       COUNTRY: Turkiye
+                                                                                Turkiye Irrigation Modernization
+
+
+
+@#&OPS~Doctype~OPS^dynamics@afaprresultframework#doctemplate
+Project Development Objective(s)
+The objective of the project is to improve irrigation delivery, through rehabilitation and modernization of distribution infrastructure in selected schemes, and
+through strengthening of capacity of WUAs.
+
+
+PDO Indicators by PDO Outcomes
+
+  Baseline              Period 1           Period 2          Period 3            Period 4       Period 5       Period 6    Period 7    Period 8    Completion Period
+  Revised
+           Improve irrigation service delivery in selected schemes in Turkiye
+  Revise
+           Area provided with new/improved irrigation or drainage services (Hectare(Ha))
+  Jan/2019              Dec/2020           Dec/2021          Dec/2022            Dec/2023       Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00                  0.00               14,000.00         30,500.00           43,650.00      26,048.00      27,848.00   33,682.00   48,682.00   50,764.00
+     ReviseArea provided with new irrigation or drainage services (Hectare(Ha))
+  Jan/2019          Dec/2020          Dec/2021           Dec/2022          Dec/2023             Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00              0.00              0.00               0.00              0.00                 0.00           0.00        0.00        0.00        0.00
+     ReviseArea provided with improved irrigation or drainage services (Hectare(Ha))
+  Jan/2019          Dec/2020         Dec/2021            Dec/2022          Dec/2023             Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00              0.00             14,000.00           30,500.00         43,650.00            26,048.00      27,848.00   33,682.00   48,682.00   50,764.00
+  Revise
+           Increase in irrigation conveyance efficiency (Percentage)
+  Oct/2024              Dec/2025           Dec/2026          Dec/2027                                                                              Dec/2028
+  0.00                  1.00               2.00              4.00                                                                                  5.00
+  Revise
+           Water users provided with improved irrigation service (Number)
+  Jan/2019              Dec/2020           Dec/2021          Dec/2022            Dec/2023       Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+
+
+                                                                                                                                                                   Page 18
+                   The World Bank
+                   Additional Financing Türkiye Irrigation Modernization (P181624)
+
+
+
+
+  0.00                    0.00             4,065.00         9,642.00           15,448.00         15,600.00      16,000.00   16,500.00   17,000.00   17,312.00
+         Revise
+         Female water users provided with improved irrigation service (Number)
+  Jan/2019        Dec/2020          Dec/2021         Dec/2022           Dec/2023                 Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00            0.00              0.00             122.00             289.00                   463.00         480.00      500.00      510.00      519.00
+  New
+        People benefiting from increased resilience of livelihoods, jobs or firms (Number of people) CRI
+  Oct/2024                Dec/2025         Dec/2026         Dec/2027                                                                                Dec/2028
+  0                       16,000           16,500           17,000                                                                                  17,000
+     NewPeople benefiting from increased resilience of livelihoods, jobs or firms - Female (Number of people) CRI
+  Oct/2024        Dec/2025           Dec/2026           Dec/2027                                                                                    Dec/2028
+  0               289                463                519                                                                                         519
+     NewPeople benefiting from increased resilience of livelihoods, jobs or firms - Youth (Number of people) CRI
+  Oct/2024          Dec/2025           Dec/2026         Dec/2027                                                                                    Dec/2028
+  0                 1,542              2,472            2,500                                                                                       2,700
+  Strengthen the institutional capacity of Water User Associations.
+  Revise
+           Water User Associations (WUAs) regularly reporting on water use data (Number)
+  Jan/2019                Dec/2020         Dec/2021         Dec/2022           Dec/2023          Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00                    0.00             80.00            80.00              80.00             80.00          181.00      181.00      181.00      181.00
+
+
+Intermediate Results Indicators by Components
+
+
+  Baseline                Period 1         Period 2         Period 3           Period 4          Period 5       Period 6    Period 7    Period 8    Completion Period
+  Revised
+           Component 1. Irrigation Systems Modernization
+  Revise
+           Length of modernized irrigation network (Kilometers)
+  Jan/2019                Dec/2020         Dec/2021         Dec/2022           Dec/2023          Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00                    0.00             441.00           962.00             1,328.00          1,400.00       1,450.00    1,500.00    1,510.00    1,521.00
+  Revise
+           Annual WUA consultations conducted and results discussed via DSI’s communication channels (Number)
+  Jan/2019                Dec/2020         Dec/2021         Dec/2022           Dec/2023          Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+  0.00                    35.00            70.00            105.00             140.00            175.00         210.00      230.00      245.00      245.00
+         Revise
+                 Annual WUA consultations specifically conducted with women (Number)
+  Jan/2019                Dec/2020         Dec/2021         Dec/2022           Dec/2023          Dec/2024       Dec/2025    Dec/2026    Dec/2027    Dec/2028
+
+
+                                                                                                                                                                 Page 19
+              The World Bank
+              Additional Financing Türkiye Irrigation Modernization (P181624)
+
+
+
+
+0.00                  5.00             10.00             15.00             20.00        25.00             30.00             35.00            35.00      35.00
+   RevisePercentage of women participants in consultations reporting increased awareness of WUA's activities and project investments (Number)
+Jan/2019              Dec/2020         Dec/2021          Dec/2022          Dec/2023     Dec/2024          Dec/2025          Dec/2026         Dec/2027   Dec/2028
+0.00                  60.00            65.00             70.00             75.00        80.00             85.00             90.00            90.00      90.00
+Revise
+         Percent of grievances addressed within stipulated timeframe (Percentage)
+Jan/2019              Dec/2020         Dec/2021          Dec/2022          Dec/2023     Dec/2024          Dec/2025          Dec/2026         Dec/2027   Dec/2028
+0.00                  0.00             65.00             75.00             80.00        80.00             80.00             80.00            80.00      80.00
+Component 2. Innovation and Institutional Support
+Renewable energy capacity enabled with direct support (Megawatt) CRI
+Oct/2024              Dec/2024         Dec/2025          Dec/2026          Dec/2027                                                                     Dec/2028
+0.00                  0.65             0.65              0.65              0.65                                                                         0.65
+WUAs trained in the use of SUTEM MIS (Number)
+Jan/2019              Dec/2020         Dec/2021          Dec/2022          Dec/2023     Dec/2024          Dec/2025          Dec/2026         Dec/2027   Dec/2028
+0.00                  80.00            80.00             80.00             80.00        181.00            181.00            181.00           181.00     181.00
+Share of renewable energy used for Bolvadin irrigation (Percentage)
+Jan/2019              Dec/2020         Dec/2021          Dec/2022          Dec/2023     Dec/2024          Dec/2025          Dec/2026         Dec/2027   Dec/2028
+0.00                  0.00             0.00              69.00             69.00        69.00             69.00             69.00            69.00      69.00
+
+
+
+
+                                                                                                                                                                   Page 20
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                   PROJECT PAPER
+
+
+                                                                     MONITORING & EVALUATION PLAN:
+                                                                     PDO Indicators by PDO Outcomes
+
+
+PDO Outcome                 Improve irrigation service delivery in selected schemes in Türkiye
+
+Indicator Name              Area provided with new/improved irrigation or drainage services (Hectare (Ha))
+
+                           This indicator measures the total area of land provided with irrigation and drainage services under the project, including in (i) the area provided with new
+Description
+                           irrigation and drainage services, and (ii) the area provided with improved irrigation and drainage services, expressed in hectare (ha).
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            The indicator refers to the area covered with pressurized irrigation water delivery through the modernization activities financed by the project.
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Area provided with new irrigation or drainage services (Hectare (Ha))
+
+Description                Measures in hectares the total area of land provided with new irrigation or drainage services in operations supported by the World Bank.
+
+Frequency                   Not applicable
+
+Data source                 Not applicable
+
+Methodology for Data
+                            Not applicable
+Collection
+
+Responsibility for Data
+                           Not applicable
+Collection
+
+Indicator Name              Area provided with improved irrigation or drainage services (Hectare (Ha))
+
+Description                Measures in hectares the total area of land provided with improved irrigation or drainage services in operations supported by the World Bank.
+
+
+
+                                                                                                                                                                                     Page 21
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                       PROJECT PAPER
+
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Increase in irrigation conveyance efficiency (Percentage)
+
+                            This refers to the increase in irrigation efficiency realized by the reduction of conveyance losses. Values and targets refer to efficiency increase, in absolute
+Description                 percentage points from baseline , averaged over project schemes. The term "conveyance" is added to distingue the improved irrigation conveyance
+                            efficiency attributed to the project from the irrigation distribution efficiency or the on-farm irrigation application efficiency within a WUA command.
+
+Frequency                   Annually
+
+Data source                 Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Water users provided with improved irrigation service (Number)
+
+Description                This refers to the number of farmers receiving pressurized irrigation water service delivery through the modernization activities financed by the project
+
+Frequency                   Bi-annually
+
+Data source                  Project Progress Reports
+
+Methodology for Data
+                             M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+
+
+
+                                                                                                                                                                                          Page 22
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                 PROJECT PAPER
+
+
+Indicator Name              Female water users provided with improved irrigation service (Number)
+
+Description                This refers to the number of female farmers receiving pressurized irrigation water delivery through modernization activities financed by the project
+
+Frequency                   Bi-annually
+
+Data source                Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name             People benefiting from increased resilience of livelihoods, jobs or firms (Number of people)
+
+Description                The indicator equals the number of people benefiting from enhanced climate resilience due to the introduced improved irrigation services.
+
+Frequency                  Bi-annually
+
+Data source                Progress Report
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                           DSI
+Collection
+
+Indicator Name             People benefiting from increased resilience of livelihoods, jobs or firms – youth (Number of people)
+
+Description                 The indicator equals the number of youth people benefiting from enhanced climate resilience due to the introduced improved irrigation services.
+
+Frequency                   Bi-annually
+
+Data source                 Progress Report
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+
+
+
+                                                                                                                                                                                  Page 23
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                 PROJECT PAPER
+
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name             People benefiting from increased resilience of livelihoods, jobs or firms - Female (Number of people)
+Description                  The indicator equals the number of female benefiting from enhanced climate resilience due to the introduced improved irrigation services.
+
+Frequency                   Bi-annually
+
+Data source                 Progress Report
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+PDO Outcome                 Strengthen the institutional capacity of Water User Associations.
+
+Indicator Name              Water User Associations (WUAs) regularly reporting on water use data (Number)
+
+Description                This refers to the number of WUAs which are actively collecting and uploading water management data in the SUTEM MIS
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+
+
+
+                                                                                                                                                                                Page 24
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                              PROJECT PAPER
+
+
+                                                                      Monitoring & Evaluation Plan:
+
+                                                           Intermediate Results Indicators by Components
+
+Results Area                Component 1. Irrigation Systems Modernization
+
+Indicator Name              Length of modernized irrigation network (Kilometers)
+
+Description                This refers to the length of primary, secondary, and tertiary pressurized irrigation network financed by the project
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Annual WUA consultations conducted, and results discussed via DSI’s communication channels (Number)
+
+                           This refers to the formal consultations with WUAs organized by DSI before and during the construction period as well as during the implementation period.
+Description                The four selected schemes correspond to 5 WUAs and DSI will conduct 7 consultations per year with each WUA. Results of the annual WUA consultations,
+                           including women consultations, will be shared with water users via DSI’s communication channel.
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Annual WUA consultations specifically conducted with women (Number)
+
+
+
+
+                                                                                                                                                                                 Page 25
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                 PROJECT PAPER
+
+
+                           Number of side consultations separately conducted with women as part of the overall WUA consultation process for scheme design construction or number
+Description
+                           of WUA consultation with a high percentage (25%-50%) of women participation.
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Percentage of women participants in consultations reporting increased awareness of WUA's activities and project investments (Number)
+
+                           This refers to the percentage of women participating in the above-mentioned special consultations, who report awareness of their specific WUAs activities
+Description
+                           and the project investments in the local area. The reporting will be based on a brief survey conducted at the end of each consultation.
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Percent of grievances addressed within stipulated timeframe (Percentage)
+
+                           The indicator refers to grievances addressed within stipulated timeframes (tbc) over total number of grievances filed. Baseline data will be determined by
+Description
+                           DSI and then the annual progress will be entered accordingly.
+
+Frequency                   Bi-annually
+
+Data source                 Project Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+
+
+
+                                                                                                                                                                                   Page 26
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)                                                                                                  PROJECT PAPER
+
+
+Responsibility for Data
+                            DSI
+Collection
+
+Results Area                Component 2. Innovation and Institutional Support
+
+                            Renewable energy capacity enabled with direct support (Megawatt)
+Indicator Name
+
+
+Description                 Refers to Megawatts of solar energy generated for operating irrigation facilities.
+
+Frequency                   Bi-annually
+
+Data source                 Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              WUAs trained in the use of SUTEM MIS (Number)
+
+Description                This refers to the number of WUAs which have received the equipment and training needed for using the SUTEM MIS.
+
+Frequency                   Bi-annually
+
+Data source                 Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Indicator Name              Share of renewable energy used for Bolvadin irrigation (Percentage)
+
+                           This refers to the share of solar energy generated for irrigation in Bolvadin Groundwater Stewardship Pilot being used to cover electricity needs for
+Description
+                           operation of irrigation system in Bolvadin.
+
+Frequency                   Bi-annually
+
+
+
+                                                                                                                                                                                   Page 27
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization(P181624)   PROJECT PAPER
+
+
+Data source                 Progress Reports
+
+Methodology for Data
+                            M&E Framework
+Collection
+
+Responsibility for Data
+                            DSI
+Collection
+
+Results Area                Component 3. Project Management
+
+
+
+
+                                                                                  Page 28
+             The World Bank
+             Additional Financing Türkiye Irrigation Modernization (P181624)
+             PROJECT PAPER
+
+
+
+           ANNEX 1. Results of the Financial and Economic Analysis
+
+
+      1. The detailed cost benefit re-analysis of the overall project addressing changes in project costs and
+         implementation delays shows that the project is economically viable. The Economic and Financial
+         Analysis (EFA) was performed for the TIMP-AF, taking into consideration the cost overrun and
+         delays in implementation to: (i) assess the financial viability of each of the four irrigation schemes,
+         (ii) assess if the planned improvements in irrigation services still provide sufficient financial
+         incentives for farmers, and (iii) evaluate if the project overall is economically viable.
+
+      2. The analysis applied the methodology and assumptions adopted at appraisal of the parent
+         project 6. The key assumptions used for the current analysis are summarized in table A1.1 below.
+
+                           Table A1.1: Summary of key assumptions and parameters
+
+No      Key assumptions                       At appraisal                         At additional financing
+
+1       Changes in cropping pattern           As indicated in the feasibility Same as appraisal
+                                              and design document (See the
+                                              Parent Project PAD)
+
+2       Changes in crop yield                 As indicated in the feasibility Same as Appraisal
+                                              and design document (See the
+                                              Parent Project PAD)
+
+3       Irrigation and crop production As indicated in the feasibility Same as Appraisal
+        costs                          and design document (See the
+                                       Parent Project PAD)
+
+4       Investment costs                      As indicated in the feasibility Revised based on the cost
+                                              and design document (See the overrun estimate
+                                              Parent Project PAD)
+
+5       O&M costs                             As indicated in the feasibility Adjusted using Consumer Price
+                                              and design document (See the Index (2010=100)
+                                              Parent Project PAD)
+
+6       Period of Analysis                    30 years                             30 Years
+
+7       Exchange rate                         1US$=3.80 TL                         1US$=30.26 TL
+
+
+
+6   For the technical details and key assumptions underlying the analysis refer to the Project Appraisal Document
+                                                                                                            29
+          The World Bank
+          Additional Financing Türkiye Irrigation Modernization (P181624)
+          PROJECT PAPER
+
+
+8    Discount rate                       5%                                 5%
+
+9    Net Annual Average Emissions        -15,911 tCO2-eq                    -15,911 tCO2-eq
+
+
+
+    3. Impact on farm income: The unit incremental farm income at appraisal and at AF stages for the
+       four schemes is shown in table A1.2 below. In nominal terms, the incremental farm income
+       increased by about 275 percent over the period of 2019 to 2024 due to inflation. However, in real
+       terms the incremental farm income per hectare in 2024 is only about 52 percent of the value in
+       2019 due to a combination of inflation and exchange rate deterioration. However, the unit
+       incremental farm income shows that the project still provides sufficient incentives for
+       beneficiaries to participate in the project.
+
+               Table A1.2: Incremental farm income due to the project (US$ per hectare)
+
+                 Scheme                Appraisal            Additional Financing*
+
+                 Alasehir              2060                 953
+
+                 Atabey                4130                 1911
+
+                 Eregli-Ivriz          3120                 1443
+
+                 Uzunlu                2830                 1313
+
+                *Adjusted using CPI and current exchange rate
+
+    4. Scheme level financial impacts: The results of scheme-by-scheme financial analyses at appraisal
+       and additional financing stages are summarized in table A1.3 below. The calculated Net Present
+       Values (NPVs) and Internal Rate of Returns (IRRs) for each of the irrigation schemes and for the
+       overall project indicate that the investment is financially viable. However, at the stage of AF, the
+       financial viability of Alasehir and Atabey irrigation schemes is inferior to that of Eregli-Ivriz and
+       Uzunlu, which are currently in the final phases of implementation. At appraisal, the financial
+       viability of Atabey and Alasehir irrigation schemes had been assessed to be superior to that of
+       Eregli-Ivriz and Uzunlu mainly due to the domination of high value crops in the mix crops planned
+       to be cultivated at these schemes.
+
+
+
+
+                                                                                                    30
+           The World Bank
+           Additional Financing Türkiye Irrigation Modernization (P181624)
+           PROJECT PAPER
+
+
+                    Table A1.3: Summary results of scheme-by-scheme financial analysis
+
+  Schemes            NPV (US$ million)               IRR (%)                          Benefit-Cost Ratio
+
+                     Appraisal Additional            Appraisal        Additional      Appraisal    Additional
+                                                                      Financing                    Financing
+                                    Financing
+
+  Alasehir           657            50.37            47%              13.5%           10.5         1.79
+
+  Atabey             487            107.67           31%              14.4%           5.3          1.92
+
+  Eregli-Ivriz       116            175.77           14%              24.0%           2.3          3.66
+
+  Uzunlu             177            113.19           25%              25.9%           2.9          2.71
+
+  Overall Project    NA             403.80           NA               19.30%          NA           2.40
+
+
+
+    5. The values of financial viability indicators are lower at AF for all the schemes considered because
+       of inflation and deterioration exchange rate.
+
+    6. Economic Analysis: An economic analysis was performed for the entire project considering the
+       social value of net reductions in carbon emission, which was estimated to be -15,911 tCO2-eq at
+       appraisal and economic prices. The calculated Economic Net Present Values (ENPVs) and
+       Economic Internal Rate of Returns (EIRRs) (see table A1.4 below) indicate that the project is
+       economically viable in general. However, the calculated project economic worth indicators are
+       significantly lower at AF stage as compared to appraisal stage because of cost overrun and delays
+       in project implementation.
+
+                             Table A1.4: Summary results of the economic analysis
+
+Project                   Without SPC                     With SPC-Low                 With SPC-high
+Performance
+                          Appraisal         Additional    Appraisal      Additional    Appraisal       Additional
+Indicators
+                                            Financing                    Financing                     Financing
+
+ENPV (US$ million)        1,331.0           461.43        1,333.0        474.15        1,335.0         486.87
+
+EIRR (%)                  30.56%            24.4%         30.48%         25.5%         30.5%           28.7%
+
+
+
+
+                                                                                                           31
+

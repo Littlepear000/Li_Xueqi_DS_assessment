@@ -1,0 +1,809 @@
+{
+  "project_id": "P178347",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "43b8ac78",
+  "started_at": "2026-11-07T03:34:38Z",
+  "ended_at": "2026-11-07T03:35:05Z",
+  "input_fingerprint": "e9f549265c925c4d",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 24,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P178347-A1",
+      "project_id": "P178347",
+      "name": "Machine-learning estimates of solar power used for groundwater pumping",
+      "description": "Project will train and verify ML-based estimates of solar power deployed for groundwater extraction.",
+      "why_innovative": "New process: ML estimation of distributed solar pumping capacity - cue: 'machine learning' | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "155661668808873760",
+        "doc_type": "PAD",
+        "doc_date": "2022-06-16",
+        "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+        "char_start": 83314,
+        "char_end": 83819,
+        "text": "The water sector assessment will consider opportunities to enhance access to drinking water through provision of submersible pumps, solar panels, water storage tanks, small desalination units, small water networks and water meters, and capacity‐building support to WUAs to ensure satisfactory maintenance of the water system, with a particular focus on the needs of women, and training and verification for machine learning‐based estimates of the amount of solar power deployed for groundwater extraction.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: ML model is the core measurement mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Renewable Energy Solar",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly concerns estimating solar power deployed for groundwater pumping.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: ML estimates of solar pumping | Innovative: remote estimation of dispersed capacity | Category: new data/ML tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: ML estimation of distributed solar pumping capacity - cue: 'machine learning'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P178347-A2",
+      "project_id": "P178347",
+      "name": "Geospatial electrification plan covering grid, mini-grids and stand-alone systems",
+      "description": "Project prepares a geospatial-based electrification plan and assesses public/private delivery models.",
+      "why_innovative": "New process: geospatial least-cost electrification planning - cue: 'geospatial' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "155661668808873760",
+        "doc_type": "PAD",
+        "doc_date": "2022-06-16",
+        "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+        "char_start": 86927,
+        "char_end": 87342,
+        "text": "(c) preparation of a geospatial‐based electrification plan consisting of grid‐based expansion, mini‐grids, and stand‐alone systems and assessment of the suitability of public sector and private sector delivery models; and (d) a diagnostic of the PEC to assess performance improvement needs including capacity building and structural and system enhancements such as improvements in metering, billing, and collection.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: GIS-based planning tool is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Energy Transmission and Distribution",
+        "code": "",
+        "confidence": null,
+        "rationale": "Electrification planning covering grid, mini-grids and stand-alone systems aligns with energy transmission/distribution.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: geospatial electrification plan | Innovative: integrated grid/off-grid least-cost planning in FCV | Category: geospatial tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: geospatial least-cost electrification planning - cue: 'geospatial'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P178347-A3",
+      "project_id": "P178347",
+      "name": "GIS-based activity mapping and expenditure tracking portal",
+      "description": "A GIS portal maps project activities and tracks expenditures in real time, with social media analysis, to enable public oversight and transparency. Practices: GIS-based portal mapping all project activities for transparency; GIS-based expenditure tracking and information dissemination system; Social media analysis for oversight and accountability.",
+      "why_innovative": "New process: GIS activity map for public transparency - cue: 'portal' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "155661668808873760",
+        "doc_type": "PAD",
+        "doc_date": "2022-06-16",
+        "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+        "char_start": 147522,
+        "char_end": 147636,
+        "text": "(c) maintains a GIS‐based portal mapping all activities supported under sub‐component 1.2 to promote transparency;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "155661668808873760",
+          "doc_type": "PAD",
+          "doc_date": "2022-06-16",
+          "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+          "char_start": 154352,
+          "char_end": 154574,
+          "text": "To that end, UNOPS will establish a real‐time oversight, transparency, and accountability mechanism through a GIS‐based expenditure tracking and information dissemination system as well as the use of social media analysis.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "155661668808873760",
+          "doc_type": "PAD",
+          "doc_date": "2022-06-16",
+          "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+          "char_start": 175183,
+          "char_end": 175344,
+          "text": "(e) establishing a real‐time oversight, transparency, and accountability mechanism through a GIS‐based expenditure tracking and information dissemination system;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "155661668808873760",
+          "doc_type": "PAD",
+          "doc_date": "2022-06-16",
+          "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+          "char_start": 175345,
+          "char_end": 175454,
+          "text": "(f) providing updated GIS maps of the project areas to help monitor progress and enhance project supervision;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: transparency mechanism changing accountability, not a new technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Energy and Extractives",
+        "code": "",
+        "confidence": null,
+        "rationale": "Transparency portal for project activities is a public administration function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: GIS activity portal | Innovative: public transparency mapping in FCV | Category: accountability mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: GIS activity map for public transparency - cue: 'portal'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178347",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "guid": "155661668808873760",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:34:38Z",
+      "ended_at": "2026-11-07T03:34:42Z",
+      "status": "ok",
+      "note": "8 document(s) fetched from the WBG API; 13 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:34:42Z",
+      "ended_at": "2026-11-07T03:34:42Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-06-30, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:34:42Z",
+      "ended_at": "2026-11-07T03:34:43Z",
+      "status": "ok",
+      "note": "24 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 24,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_technologies": 4,
+          "enabling_processes": 1,
+          "innovation_cycle": 11,
+          "innovation_types": 5,
+          "innovation": 2,
+          "results_based_management": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:34:43Z",
+      "ended_at": "2026-11-07T03:34:43Z",
+      "status": "ok",
+      "note": "PAD 2022-06-16 (P178347_PAD_2022-06-16_155661668808873760.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178347",
+            "doc_type": "PAD",
+            "doc_date": "2022-06-16",
+            "guid": "155661668808873760",
+            "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:34:43Z",
+      "ended_at": "2026-11-07T03:34:43Z",
+      "status": "ok",
+      "note": "136 reading units (28 numbered paragraphs) from 1172 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 136
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:34:43Z",
+      "ended_at": "2026-11-07T03:34:46Z",
+      "status": "ok",
+      "note": "64 of 136 units carry a digital / AI cue (14 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 64,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 14
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:34:46Z",
+      "ended_at": "2026-11-07T03:34:53Z",
+      "status": "ok",
+      "note": "11 candidate practices from 64 units in 7 calls; 1 dropped (unresolvable evidence id or category)",
+      "llm_calls": 7,
+      "input_chars": 210547,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1328,
+          "cached_tokens": 44541,
+          "cache_write_tokens": 0,
+          "output_tokens": 2566,
+          "seconds": 21.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0037
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:34:53Z",
+      "ended_at": "2026-11-07T03:35:00Z",
+      "status": "ok",
+      "note": "6 accepted, 5 rejected (not_digital 3, not_innovative 2); 2 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 144832,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 24029,
+          "cached_tokens": 5632,
+          "cache_write_tokens": 0,
+          "output_tokens": 872,
+          "seconds": 6.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0083
+        },
+        "accepted": 6,
+        "rejected": 5,
+        "expanded": 2,
+        "reject_codes": {
+          "not_digital": 3,
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:35:00Z",
+      "ended_at": "2026-11-07T03:35:02Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1843,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 393,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 235,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:35:02Z",
+      "ended_at": "2026-11-07T03:35:03Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1634,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 355,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 56,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:35:03Z",
+      "ended_at": "2026-11-07T03:35:05Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7090,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1090,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 195,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:35:05Z",
+      "ended_at": "2026-11-07T03:35:05Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 6 evidence rows, 5 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:35:05Z",
+      "ended_at": "2026-11-07T03:35:05Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 195
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178347-A1-E1",
+      "approach_id": "P178347-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 501,
+      "char_start": 83314,
+      "char_end": 83819,
+      "sentence": "The water sector assessment will consider opportunities to enhance access to drinking water through provision of submersible pumps, solar panels, water storage tanks, small desalination units, small water networks and water meters, and capacity‐building support to WUAs to ensure satisfactory maintenance of the water system, with a particular focus on the needs of women, and training and verification for machine learning‐based estimates of the amount of solar power deployed for groundwater extraction.",
+      "practice": "Machine-learning estimates of solar power used for groundwater pumping",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Renewable Energy Solar",
+      "extractor_reason": "Digital core: ML estimates of solar pumping | Not routine: remote estimation of dispersed capacity | Adoption: 'training and verification for'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ML estimates of solar pumping | Innovative: remote estimation of dispersed capacity | Category: new data/ML tool",
+      "keywords_hit": "machine learning;machine-learning",
+      "innovation_cues": "",
+      "innovation_basis": "New process: ML estimation of distributed solar pumping capacity - cue: 'machine learning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    },
+    {
+      "row_id": "P178347-A2-E1",
+      "approach_id": "P178347-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U63",
+      "para_no": null,
+      "sentence_position": 520,
+      "char_start": 86927,
+      "char_end": 87342,
+      "sentence": "(c) preparation of a geospatial‐based electrification plan consisting of grid‐based expansion, mini‐grids, and stand‐alone systems and assessment of the suitability of public sector and private sector delivery models; and (d) a diagnostic of the PEC to assess performance improvement needs including capacity building and structural and system enhancements such as improvements in metering, billing, and collection.",
+      "practice": "Geospatial electrification plan covering grid, mini-grids and stand-alone systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: geospatial electrification planning | Not routine: integrated grid/off-grid planning in FCV | Adoption: 'preparation of a geospatial-based electrification plan'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geospatial electrification plan | Innovative: integrated grid/off-grid least-cost planning in FCV | Category: geospatial tool",
+      "keywords_hit": "conflict;geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "New process: geospatial least-cost electrification planning - cue: 'geospatial'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    },
+    {
+      "row_id": "P178347-A3-E1",
+      "approach_id": "P178347-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U108",
+      "para_no": null,
+      "sentence_position": 947,
+      "char_start": 147522,
+      "char_end": 147636,
+      "sentence": "(c) maintains a GIS‐based portal mapping all activities supported under sub‐component 1.2 to promote transparency;",
+      "practice": "GIS-based portal mapping all project activities for transparency",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Energy and Extractives",
+      "extractor_reason": "Digital core: GIS activity-mapping portal | Not routine: public transparency map in FCV setting | Adoption: 'maintains'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS activity portal | Innovative: public transparency mapping in FCV | Category: accountability mechanism",
+      "keywords_hit": "FCV;GIS;mapping;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New process: GIS activity map for public transparency - cue: 'portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    },
+    {
+      "row_id": "P178347-A3-E2",
+      "approach_id": "P178347-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U114",
+      "para_no": null,
+      "sentence_position": 997,
+      "char_start": 154352,
+      "char_end": 154574,
+      "sentence": "To that end, UNOPS will establish a real‐time oversight, transparency, and accountability mechanism through a GIS‐based expenditure tracking and information dissemination system as well as the use of social media analysis.",
+      "practice": "GIS-based expenditure tracking and information dissemination system",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Energy and Extractives",
+      "extractor_reason": "Digital core: GIS expenditure tracking system | Not routine: real-time fiduciary transparency in conflict | Adoption: 'will establish'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS expenditure tracking system | Innovative: real-time fiduciary transparency in conflict | Category: accountability mechanism",
+      "keywords_hit": "GIS;conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time GIS expenditure transparency - cue: 'real-time oversight'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    },
+    {
+      "row_id": "P178347-A3-E3",
+      "approach_id": "P178347-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U128",
+      "para_no": null,
+      "sentence_position": 1095,
+      "char_start": 175183,
+      "char_end": 175344,
+      "sentence": "(e) establishing a real‐time oversight, transparency, and accountability mechanism through a GIS‐based expenditure tracking and information dissemination system;",
+      "practice": "GIS-based expenditure tracking and information dissemination system",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Energy and Extractives",
+      "extractor_reason": "Digital core: GIS expenditure tracking system | Not routine: real-time public transparency mechanism | Adoption: 'establishing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS expenditure tracking system | Innovative: real-time public transparency mechanism | Category: accountability mechanism",
+      "keywords_hit": "GIS",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time GIS expenditure tracking for accountability - cue: 'real-time oversight'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    },
+    {
+      "row_id": "P178347-A3-E4",
+      "approach_id": "P178347-A3",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P178347",
+      "doc_id": "155661668808873760",
+      "doc_type": "PAD",
+      "doc_date": "2022-06-16",
+      "file_name": "P178347_PAD_2022-06-16_155661668808873760.txt",
+      "unit_id": "U128",
+      "para_no": null,
+      "sentence_position": 1096,
+      "char_start": 175345,
+      "char_end": 175454,
+      "sentence": "(f) providing updated GIS maps of the project areas to help monitor progress and enhance project supervision;",
+      "practice": "GIS-based expenditure tracking and information dissemination system",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Energy and Extractives",
+      "extractor_reason": "Digital core: GIS expenditure tracking system | Not routine: real-time public transparency mechanism | Adoption: 'establishing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GIS expenditure tracking system | Innovative: real-time public transparency mechanism | Category: accountability mechanism",
+      "keywords_hit": "GIS",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time GIS expenditure tracking for accountability - cue: 'real-time oversight'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "43b8ac78"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "155661668808873760",
+      "doc_type": "PAD",
+      "position": 383,
+      "char_start": 63385,
+      "char_end": 64003,
+      "sentence": "This sub‐component will: (a) scale up provision of basic pico‐solar systems for vulnerable rural and peri‐urban households, building on the success of both the in‐kind grant support mechanism targeting smaller, more working capital constrained MFIs and the results‐based financing mechanism targeting larger, less capital‐constrained MFIs; and (b) where applicable, introduce a new component for larger, medium‐size household solar systems.32 The provision of solar power will avoid the use of fossil fuel‐based energy sources like candles and kerosene lamps which will result in mitigation climate change co‐benefits.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Results-based and in-kind grant financing via microfinance institutions for pico-solar",
+      "reason": "reject: MFI grant/RBF channels for solar hardware; no digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: dual RBF and in-kind grant channels via MFIs - cue: 'scale up'",
+      "innovation_cues": "scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "MFI grant/RBF channels for solar hardware; no digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 3017
+        }
+      ]
+    },
+    {
+      "guid": "155661668808873760",
+      "doc_type": "PAD",
+      "position": 417,
+      "char_start": 68140,
+      "char_end": 68262,
+      "sentence": "The procurement arrangements and subsidy payment mechanism for sub‐component 1.1 have advanced since RY‐EEAP commenced. a.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Staged MFI-led procurement and subsidy payment for solar kits",
+      "reason": "reject: Supply-chain and subsidy process for solar kits; no digital core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: MFIs import kits directly, subsidy on verified sales - cue: 'advanced'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Supply-chain and subsidy process for solar kits; no digital core",
+          "reject_code": "not_digital",
+          "context_chars": 1234
+        }
+      ]
+    },
+    {
+      "guid": "155661668808873760",
+      "doc_type": "PAD",
+      "position": 426,
+      "char_start": 69065,
+      "char_end": 69226,
+      "sentence": "Subsidy payments by UNOPS are made to the MFIs only upon verifications that products are Verasol certified,33 and sales have been made to eligible beneficiaries.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Verification-triggered subsidy payments for VeraSol-certified solar products",
+      "reason": "reject: VeraSol certification and sales verification; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: output-based subsidy released on verified certified sales - cue: 'scale-up'",
+      "innovation_cues": "scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "VeraSol certification and sales verification; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1457
+        }
+      ]
+    },
+    {
+      "guid": "155661668808873760",
+      "doc_type": "PAD",
+      "position": 669,
+      "char_start": 108435,
+      "char_end": 108605,
+      "sentence": "In addition, UNOPS will provide updated Global Information System (GIS) maps of the project areas to help monitor progress of activities under sub‐components 1.2 and 1.3.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS maps of project areas for monitoring sub-component progress",
+      "reason": "reject: Routine GIS progress maps in standard supervision reporting",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS mapping for activity progress monitoring - cue: 'monitor progress'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine GIS progress maps in standard supervision reporting",
+          "reject_code": "not_innovative",
+          "context_chars": 1237
+        }
+      ]
+    },
+    {
+      "guid": "155661668808873760",
+      "doc_type": "PAD",
+      "position": 948,
+      "char_start": 147637,
+      "char_end": 147735,
+      "sentence": "(d) uses UNOPS’ remote monitoring tools for engaging citizens in monitoring and quality assurance;",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "UNOPS remote monitoring tools for citizen monitoring and quality assurance",
+      "reason": "reject: Standard third-party monitoring and GIS transparency portal, routine MDB supervision practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: remote citizen monitoring in conflict - cue: 'remote monitoring'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "remote monitoring tools unnamed; cannot judge digital mechanism or novelty",
+          "reject_code": "",
+          "context_chars": 1230
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Standard third-party monitoring and GIS transparency portal, routine MDB supervision practice",
+          "reject_code": "not_innovative",
+          "context_chars": 38005
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 12,
+    "input_tokens": 27195,
+    "cached_tokens": 50557,
+    "cache_write_tokens": 0,
+    "output_tokens": 3924,
+    "seconds": 33.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0132
+  }
+}

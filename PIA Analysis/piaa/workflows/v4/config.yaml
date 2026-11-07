@@ -1,0 +1,59 @@
+name: "v4 - digital/AI innovation approaches (4 categories) x sector x theme"
+description: >
+  New approach definition: a digital/AI-related innovation that falls into one of the four
+  categories of the working paper (Operational, Technological, Financial, Collaborative).
+  Sentences are classified (category, adoption = apply / prospect / discuss), each coded
+  passage is assigned ONE sector and ONE theme from the project's own code lists, and passages
+  with the same (category, sector, theme) collapse into ONE approach with N evidence rows.
+  Only approaches with adoption = apply count in headline figures.
+
+llm:
+  model: claude-sonnet-4-5
+  temperature: 0.0
+  max_tokens: 6000
+
+documents:
+  include_types: [PAD, ProjectPaper, PID, ProgramDocument, ICR, ISR]
+  max_per_type: {ISR: 2}
+
+screening:
+  dimensions: [enabling_technologies, innovation, innovation_cycle]
+  high: 4
+  moderate: 2
+
+candidates:
+  # a sentence becomes a candidate when it carries a digital / data / AI cue (DDAT keyword lists)
+  # or an enabling-technology term of the innovation dictionary
+  drop_boilerplate: true
+  max_candidates_per_project: 400
+
+classify:
+  batch_size: 20
+  parallel_batches: 4
+  cache_system: true
+
+codes:
+  batch_size: 30              # coded passages per sector/theme assignment call
+  parallel_batches: 4
+
+aggregation:
+  headline_adoption: [apply]
+  max_evidence_kept: 60
+
+replication:
+  explicit_reference: true
+  similarity: true
+  similarity_threshold: 0.30
+  max_links: 5
+
+steps: [screen, select_documents, segment, candidates, classify, codes, aggregate, replication]
+
+steps_meta:
+  screen:           {kind: python, label: "Keyword screen", summary: "Innovation keyword dictionary -> tier; informational only", inputs: [documents], outputs: [innovation_tier]}
+  select_documents: {kind: python, label: "Select documents", summary: "All PAD / Project Paper / PID / Program Document / ICR; newest 2 ISRs", inputs: [document index], outputs: [documents]}
+  segment:          {kind: python, label: "Segment", summary: "Sentences with char offsets, position and context; boilerplate flagged", inputs: [documents], outputs: [sentences]}
+  candidates:       {kind: python, label: "Digital / AI cue match", summary: "Sentences with a digital, data or AI keyword (DDAT lists + enabling technologies)", inputs: [sentences], outputs: [candidate sentences]}
+  classify:         {kind: llm, label: "Classify passages", summary: "Batches of 20; four categories + digital precondition + adoption (apply / prospect / discuss) in a cached system prompt", prompts: [00_system, 01_classify], inputs: [candidate sentences], outputs: [coded passages, exclusion log]}
+  codes:            {kind: llm, label: "Assign sector & theme", summary: "One sector and one theme per coded passage, chosen from the project's own projects.csv lists", prompts: [02_codes], inputs: [coded passages, projects.csv], outputs: [sector, theme per passage]}
+  aggregate:        {kind: python, label: "Collapse to approaches", summary: "Same (category, sector, theme) = one approach; number_of_evidence; adoption apply > prospect > discuss", inputs: [coded passages], outputs: [approaches, evidence rows]}
+  replication:      {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

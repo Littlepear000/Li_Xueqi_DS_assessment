@@ -1,0 +1,399 @@
+﻿    The World Bank
+    Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                  Project Information Document (PID)
+
+                 Concept Stage | Date Prepared/Updated: 07-Feb-2026 | Report No: PIDDC01431
+
+
+
+
+                                                                                               Official Use Only
+     The World Bank
+     Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+Somalia, Federal Republic      P513127                      Somalia Transformational Access and Infrastructure
+of                                                          Resilience Program, Phase 1
+Region                         Estimated Appraisal Date     Estimated Approval Date        Practice Area (Lead)
+EASTERN AND SOUTHERN           16-Mar-2026                  28-Apr-2026                    Transport
+AFRICA
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Ministry of Finance          Ministry of Transport and
+Financing (IPF)                                             Civil Aviation, Ministry of
+                                                            Public Works,
+                                                            Reconstruction and
+                                                            Housing
+
+Proposed Development Objective(s)
+to improve the safety, climate resilience and performance of selected infrastructure, and improve the capacity of
+relevant institutions
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             No
+
+SUMMARY
+  Total Operation Cost                                                                                            100.00
+
+  Total Financing                                                                                                 100.00
+             of which IBRD/IDA                                                                                100.00
+  Financing Gap                                                                                                     0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+
+                                                                                                                     Page 1
+
+
+
+                                                                                                           Official Use Only
+           The World Bank
+           Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+         International Development Association (IDA)                                                                               100.00
+            IDA Grant                                                                                                              100.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                        Concept Review Decision
+Substantial                                                                         The review did authorize the preparation to continue
+
+
+
+    B. Introduction and Context
+
+ Country Context
+Somalia has made significant progress in recent years by consolidating its federal system of governance, strengthening
+government institutions, and supporting inclusive private sector-led growth. The country reached the Heavily Indebted
+Poor Countries (HIPC) Completion Point on December 13, 2023, securing substantial debt relief that reduced Somalia’s
+external debt to 6 percent of the gross domestic product (GDP). Despite this progress, Somalia continues to face significant
+governance, security, and development challenges that hinder state performance and slow transition out of Fragility,
+Conflict, and Violence (FCV). While there has been incremental gains in financing and institutional capacity to deliver basic
+services, overall service delivery remains limited, particularly in conflict-affected areas. Decades of instability have
+constrained investments in physical and human capital, preventing many Somalis from reaching their full potential.
+Climate change pressures are expected to intensify, with more frequent and erratic droughts and floods.1
+
+Job creation in Somalia has been constrained by recurrent climate and conflict-related shocks, alongside low labor force
+participation. Overall vulnerability to shocks has limited economic growth, averaging about 2 percent annually over the
+last decade, with particularly adverse effects on employment. Agriculture, employing about 65 percent of the country’s
+labor force, is highly vulnerable to climate shocks and insecurity. The 2016-2017 drought caused losses of $3.25 billion,
+equivalent to 65 percent of GDP. Together with conflict, climate induced displacement from rural areas has significantly
+accelerated urbanization – with urban areas now hosting over 4 million IDPs. With only 28% of the 174 000 urban located
+firms classified as formal, the labor market has struggled to absorb the estimated 161,000 new workers entering yearly.
+
+ Sectoral and Institutional Context
+Somalia’s economy functions largely as a fragmented set of cities, with unreliable, inefficient, and insecure transport
+infrastructure limiting interconnectivity and access to global markets. More than 70 percent of Somalia’s GDP is
+generated in urban areas, where agglomeration effects, economic clustering, and relatively improved security offers
+opportunities for more inclusive and resilient growth. The road links connecting these urban centers remain
+underdeveloped, insecure, and highly vulnerable to climate hazards, limiting the ability to leverage the nodes for sustained
+economic expansion. In this context, air transport often serves as the primary, and in some areas the only means of
+connectivity, yet it faces safety, security, and climate resilience challenges that raise costs and undermine reliability. The
+
+
+1   World Bank. 2023. “Somalia Climate Risk Review.�? World Bank, Washington, D.C.
+
+
+                                                                                                                                           Page 2
+
+
+
+                                                                                                                                Official Use Only
+         The World Bank
+         Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+resulting high transport costs contribute to economic fragmentation.2 Rural producers, particularly in agriculture and
+livestock, are further constrained by poor transport and insecurity, which significantly limit their access to urban markets.
+
+The urban nodes themselves struggle to leverage their agglomeration advantage, faced with a set of common
+challenges, including poor internal connectivity, deteriorating infrastructure and services, recurrent disasters, and rapid
+growth. Rapid urbanization, widespread informality, and settlement on marginal land have driven up the costs of basic
+service provision and exacerbated drainage problems. Consequently, recurrent flooding and other disasters continue to
+displace hundreds of thousands, creating a vicious cycle. Furthermore, the urban nodes are internally fragmented, limiting
+access for workers and job seekers and increasing costs of access. These challenges are compounded by strained municipal
+capacities and underdeveloped national and local emergency management systems, which remain heavily reliant on
+international support. As a result, cities and towns are hindered from fully functioning as engines of jobs, trade, and
+inclusive growth.
+
+Reducing the functional economic distance between these cities through strategic, coordinated and sustained corridor
+development can fuel integrated economic regions and unlock critical economies of scale.3 Progressive approaches to
+regional transport development corridors4 aim to leverage the contributions of connected catchments, known as “basins
+of integration�? by synchronizing multisectoral investments to unlock regional economic development. A study5 on the
+potential impact of infrastructure development on the Horn of Africa (HoA) found that coordinated expansion in access
+to roads, electricity, and internet, could drive structural change in employment, with an estimated 12 percent increase in
+the share of services of employment. The same study also estimated that development of key economic corridors,
+combined with trade facilitation measures, could raise real income in Somalia by 6.3 percent. In terms of disaster impacts,
+the 2023 floods caused over $29.7 million in transport infrastructure losses and even greater economic disruptions.6
+
+The governance needed to unlock the growth potential of these economic basins of integration remains fragmented,
+with responsibilities split across federal and sub-national authorities and limited options for sustainable revenue
+generation. In roads, the Ministry of Public Works, Reconstruction, and Housing (MoPWRH) leads national development,
+but its mandate overlaps with the Ministry of Transport and Civil Aviation (MoTCA) and Federal Member States (FMS).
+City governments have growing responsibilities, including urban road development and emergency response, yet disputes
+exist between local, state, and federal levels. For disaster risk management, the Somalia Disaster Management Agency
+(SODMA) coordinates policy and response across levels of government. In the aviation, MoTCA oversees the sector, while
+the Somali Civil Aviation Authority (SCAA) serves as both regulator and as an Airports Authority. Across all sectors,
+operations and maintenance are underfunded, and generated revenues are diverted to general budget needs. For
+example, while aviation contributed $34.8 million to domestic revenue in 2024, sector budgets remain insufficient.
+Aligning aviation taxes and fees with international standards could potentially triple revenues but will require stronger
+fiscal regulation, transparent revenue retention, and improved governance.
+
+    Relationship to CPF
+
+
+2 According to the World Bank (Somalia Country Economic Memorandum: Towards an Inclusive Jobs Agenda, Washington, DC: World Bank, June 2021), rice prices in
+Dinsoor are up to 60 percent higher than in Mogadishu and 30 percent higher than in Baidoa, with transport costs to major cities ranging from US$20 to US$50 per ton.
+3 World Bank. “World Development Report: Reshaping Economic Geography�?. 2009
+4 West Africa Development Corridor Strategy (P180071). World Bank. 2024
+5 Matias Herrera Dappe and Mathilde Lebrand. “Infrastructure and Structural Change in the Horn of Africa�?. World Bank. 2021
+6 World Bank. “Somalia Floods Rapid Post Disaster Needs Assessment�?. 2024
+
+
+
+
+                                                                                                                                                               Page 3
+
+
+
+                                                                                                                                                     Official Use Only
+         The World Bank
+         Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+The Country Partnership Framework (CPF) for FY24–28 supports Somalia in building a stable and resilient state by
+improving basic services, fostering inclusive private sector growth, and enhancing infrastructure. The program
+contributes to CPF goals by strengthening sector governance and revenue generation, improving climate-resilient
+infrastructure, and expanding connectivity. These efforts promote trade, service delivery, climate resilience, job
+creation, and address key growth and trade barriers identified in the Country Private Sector Diagnostic (CPSD).7 A formal
+Public-Private Dialogue Platform for the transport sector is under consideration to bring together investors, government
+entities, and civil society organizations for structured consultation and pipeline development.8 The proposed program is
+Paris-aligned, incorporating adaptation and mitigation measures anchored in key FGS climate and sectoral policies to
+enhance infrastructure resilience and logistics efficiency, including the Nationally Determined Contributions, National
+Adaptation Plan Framework, National Climate Change Policy, and the NTP. It also responds to key constraints identified
+in the Somalia Country Climate and Development Report (CCDR) related to climate resilient access and comprehensive
+disaster risk management.
+
+    C. Proposed Development Objective(s)
+    The Project Development Objective is to improve the safety, climate resilience and performance of selected
+    infrastructure, and improve the capacity of relevant institutions
+
+    Key Results (From PCN)
+
+    Proposed program results indicators:
+       • Beneficiaries with enhanced resilience to climate risk
+       • People that benefit from improved access to sustainable transport infrastructure and services
+       • More and better-paid jobs created and enabled
+       • Implemented reforms supporting private sector development
+
+
+    D. Concept Description
+
+The Project Development Objective of MPA Phase 1 (“the project�?) is to improve the safety, climate resilience and
+performance of selected infrastructure, and improve the capacity of relevant institutions. This phase will lay the
+foundation for subsequent phases through incremental scale-up, creating a national platform for stakeholder
+engagement, bundling infrastructure implementation modalities, and ensuring resilient access to facilitate the movement
+of people and goods to future project sites, while strengthening urban resilience, ensuring service continuity, and
+enhancing emergency preparedness. Activities will be prioritized based on agreed criteria, including criticality in ensuring
+safe and resilient connectivity throughout the country, as well as addressing key bottlenecks in the delivery of urban
+services in regional hubs, and maximizing sustainable job creation.
+Pillar 1- Enabling Resilient Infrastructure for Access to Jobs and Growth
+Under Pillar 1, the project will prioritize ensuring safe, secure, and resilient access. The final list of activities is under
+discussion and will be established during preparation, however interventions are expected to include:
+
+7 Somalia Country Private Sector Diagnostic: Creating Markets in Somalia – Unlocking Private Sector-Led Growth at a Critical Juncture of Somalia’s Development. World
+Bank Group. 2024
+8 Ministry of Planning, Investment & Economic Development. (2025). National Transformation Plan (NTP) 2025–2029. Federal Government of Somalia.
+
+
+
+
+                                                                                                                                                               Page 4
+
+
+
+                                                                                                                                                     Official Use Only
+         The World Bank
+         Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+     •     Resilient airports and airspace: i) Upgrade facilities at Mogadishu and regional hubs9 to meet international
+           standards, including airfield lighting, screening equipment, reliable power and water supply, airfield rescue and
+           firefighting facilities and including Automated Weather System (AWS) linked to national early warning services; ii)
+           upgrade select local priority airstrips to ICAO Aerodrome Code 3C standards, ensuring safe domestic operations
+           and better connectivity for humanitarian assistance, socio-economic development, and commercial trade;10 and
+           iii) installation of critical equipment for air navigation services throughout the country.
+     •     Urban resilience and connectivity: Enhance access to urban services through municipal infrastructure
+           investments including i) robust drainage systems; ii) climate-resilient access roads in and around urban areas,
+           including in residential and commercial zones; and iii) integration with national early warning and response
+           mechanisms.11
+     •     Economic Corridor Development: Upgrade key economic corridor segments to facilitate the movement of people
+           and goods, including roadway improvements, trade facilitation, and the development of aligned linear
+           infrastructure (such as power transmission and fiber optic connectivity).
+Pillar 2 - Institutional Transformation and Capacity Building
+To ensure coordinated and efficient infrastructure implementation, this subcomponent will establish mechanisms for
+all phases of the MPA while supporting planning for future phases. In particular, it will: i) create a high-level coordination
+and technical platforms chaired by the MOF to align phases and resolves, overlaps with sectoral mechanisms (e.g.,
+MoPWRH, disaster management agencies, and cities); ii) conduct economic basin level assessments on jobs and growth,
+localizing and tailoring national level work underway (i.e., CPSD, CEM, CPRJ, and the Jobs Platform) in covering value
+chains, cold chain needs, municipal finance – including performance incentives for local governments, housing and land,
+urban planning, risk mapping, and emergency preparedness; and iii) support preparation of any required feasibility or
+design studies for future phases. At the FMS level, existing civil servant capacity will be leveraged for quality assurance
+with targeted capacity building as needed. The “Reimagining Somali Cities: A Vision for Competitiveness and Job Creation�?,
+along with other deliverables under the Somalia Livable Cities PASA, provides an initial foundation.
+In addition, it will strengthen institutional and technical capacity in relevant sectors. This includes policy and operational
+capacity for air transport, highway, urban, and disaster management stakeholders, with a focus on establishing systems
+for training and licensed professionals in key sectors. Building on the success of SURP II,12 it will also take a targeted
+approach to skills training in the construction sector. The project will use geospatial analytics, predictive modeling, and
+AI-based decision tools where feasible, building on the SURP II MIS in six cities to monitor project and risk data. Embedding
+digital technologies in planning improve transparency, speed implementation, and strengthen resilience.
+Pillar 3 – Sustainable and Resilient Operations
+This component will tackle critical challenges in infrastructure operations and maintenance, with a focus on transport,
+urban resilience, and job creation. Activities include developing legal, governance, and financial frameworks to leverage
+
+
+9 Including Baidoa, Garowe, Kismayo, and Bosasso
+10 The FGS and FMS used technical and socio-economic criteria—such as demand, climate resilience, proximity to higher-code airstrips, maintenance capacity,
+population served, and humanitarian access—to identify priority airstrips for basic access. This phase will upgrade five of nine selected airstrips (Barawe, Dhoobley,
+Dhusamareeb, Galkacyo, Jowhar) to ICAO Aerodrome Code 3C standards, with others to follow in subsequent phases.
+11 The list of cities to be included is under discussion, but potentially to include Garowe, Baidoa, Kismayo and Mogadishu
+
+
+12
+  SURP-II created nearly 13,000 construction jobs (24% women, 49% IDPs, 80% youth) and strengthened national engineering capacity.
+SURP II advanced gender inclusion by training female engineers, upskilling women in construction techniques, and embedding
+gender-inclusive, local hiring requirements in bidding documents
+
+                                                                                                                                                                Page 5
+
+
+
+                                                                                                                                                      Official Use Only
+       The World Bank
+       Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+sector revenues for sustainable operations and maintenance, while embedding climate and disaster risk considerations.
+In aviation, the project will prepare a roadmap for establishing a Somalia Airport Authority (SAA) to clarify mandates,
+ownership, and accountability. It will also support reforms to the country’s overflight fee structure, normalizing with
+regional comparators, and generating an estimated additional $30–50 million annually in overflight revenue. To further
+support economic nodes, activities will include establishing municipal/local frameworks for private sector delivery of
+municipal services (such as through social enterprises and community-based enterprises). The component will also
+explore the viability of an IFC supported Challenge Fund in targeted economic nodes, focused on key value chains in the
+commercial areas that receive investments (such as CBD/markets).
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+The project is designed as a national program, with Phase 1 establishing implementation structures and critical
+connectivity investments across Somalia. Investments span both urban nodes (major cities like Mogadishu, Hargeisa,
+Kismayo, Galkayo, Garowe, Baidoa) and rural areas, particularly through upgrades to regional airstrips and connecting
+infrastructure. The environment context of the proposed activities is largely hot, semi-arid to arid climate, susceptible to
+recurring droughts, floods, and progressive land degradation. Socially, these locations are in areas characterized by rapid
+population growth, with large numbers of internally displaced persons fleeing conflict and climate shocks, which strains
+the already limited public infrastructure and services. Somalia is highly vulnerable to climate variability, with frequent
+droughts and floods. The project integrates climate adaptation and disaster risk reduction measures, including resilient
+infrastructure design and early warning systems. Given the FCV context there is ongoing security concerns, fragmented
+governance, and recurrent climate disasters. The project’s design incorporates conflict sensitivity, inclusive stakeholder
+engagement, and emergency preparedness to address these risks. Most activities are expected to occur within existing
+infrastructure footprints, minimizing risks to high-biodiversity areas. However, some rural airstrips and corridors may be
+near sensitive ecosystems, requiring careful screening and mitigation and others (e.g., airport-city connector roads,
+flood mitigation infrastructure) may have indirect impacts beyond the immediate project footprint.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+     The World Bank
+     Somalia Transformational Access and Infrastructure Resilience Program, Phase 1 (P513127)
+
+
+ Adam Stone Diehl
+ Senior Transport Specialist
+
+ Susan Apudo Owuor
+ Senior Transport Specialist
+
+ Nandya Thalyta Yuwono
+ Senior Urban Specialist
+
+Borrower/Client/Recipient
+ Ministry of Finance
+
+Implementing Agencies
+ Ministry of Transport and Civil Aviation
+
+ Ministry of Public Works, Reconstruction and Housing
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                        Adam Stone Diehl, Susan Apudo Owuor, Nandya Thalyta Yuwono
+
+Approved By
+
+Practice Manager/Manager:                   Binyam Reja                         28-Jan-2026
+
+Country Director:                           Qimiao Fan                          07-Feb-2026
+
+
+
+
+                                                                                                                 Page 7
+
+
+
+                                                                                                         Official Use Only
+

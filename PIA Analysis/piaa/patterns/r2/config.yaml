@@ -1,0 +1,47 @@
+name: "r2 - semantic match, context verification, replication vs scaling by country"
+description: >
+  Portfolio-level workflow. (1) Every validated approach is represented by its theme and the original text
+  it was extracted from; approaches are compared by semantic similarity, with sector and category used as
+  supporting signals only (they do not have to be equal). (2) Pairs above the threshold go to verification:
+  the model reads about two pages before and after each approach's evidence in the source documents and
+  decides whether both projects use the same approach. (3) A verified pair is the same approach: in projects
+  of different countries it is REPLICATION, in projects of the same country it is SCALING.
+
+scope:
+  exclude_status: [rejected, referenced_only, mentioned_only]
+  exclude_adoption: [mentioned, prospect, discuss]   # v3 'mentioned'; v4 'prospect' / 'discuss' (only 'apply' / 'applied' count)
+
+match:
+  backend: auto               # auto = sentence-transformers embeddings when installed, else TF-IDF
+  embedding_model: all-MiniLM-L6-v2
+  text: [theme, evidence]     # what is compared semantically (embedding backend)
+  # TF-IDF cannot match paraphrases: evidence sentences of the same approach rarely share words across
+  # documents, so the fallback also reads the approach name and description written from that evidence
+  tfidf_text: [theme, name, description, evidence]
+  threshold: {embedding: 0.55, tfidf: 0.18}   # tfidf calibrated on the current DB (~180 pairs); embedding: calibrate on first run
+  top_k: 5                    # keep at most the k best partners per approach (bounds the verification cost)
+  reference_bonus: {same_sector: 0.03, same_category: 0.03, same_solution: 0.03}   # supporting signals, never required
+
+verify:
+  enabled: true               # needs an API key; without it pairs stay "unverified candidates"
+  context_pages_each_side: 2  # pages (~3,200 characters) read before and after each evidence sentence
+  min_confidence: 0.6
+  max_pairs: 300              # highest-scoring pairs first
+  parallel: 6
+  cache: true                 # verdicts are cached in <output>/patterns/_verify_cache.json and reused
+
+classify:
+  replication: different country
+  scaling: same country
+  # multi-country / regional projects carry a region name as country; they are compared as written
+
+steps: [corpus, match, verify, group, classify, summarize, write]
+
+steps_meta:
+  corpus:    {kind: python, label: "Build corpus", summary: "Validated approaches with theme, evidence location, sector, category, country, FY", inputs: [review database], outputs: [approach corpus]}
+  match:     {kind: python, label: "Semantic match", summary: "Theme + original text similarity; sector / category as bonus only", inputs: [approach corpus], outputs: [candidate pairs]}
+  verify:    {kind: llm, label: "Verify in context", summary: "Read 2 pages before/after both evidence sentences; same approach?", prompts: [00_system, 01_verify], inputs: [candidate pairs, documents], outputs: [verified pairs]}
+  group:     {kind: python, label: "Group same approaches", summary: "Verified pairs -> connected groups; earliest project is the origin", inputs: [verified pairs], outputs: [patterns]}
+  classify:  {kind: python, label: "Replication vs scaling", summary: "Different country = replication; same country = scaling", inputs: [patterns, pairs], outputs: [events]}
+  summarize: {kind: python, label: "Story tables", summary: "By pattern, sector, region, country and fiscal year", inputs: [events], outputs: [by_sector, by_fy, by_country]}
+  write:     {kind: python, label: "Write results", summary: "result.json for the web app + CSV tables", inputs: [all], outputs: [result.json]}

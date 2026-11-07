@@ -1,0 +1,1079 @@
+{
+  "project_id": "P167184",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "36fb2a9a",
+  "started_at": "2026-11-07T03:24:54Z",
+  "ended_at": "2026-11-07T03:25:43Z",
+  "input_fingerprint": "f7ee930e4ea93481",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 30,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P167184-A1",
+      "project_id": "P167184",
+      "name": "national health performance dashboard and independent verification agent",
+      "description": "Publishes a national health performance dashboard online and uses an independent agent with patient call-backs to verify results. Practices: National Performance Dashboard published online by NDOH; Independent verification agent with patient call-backs for DLI data.",
+      "why_innovative": "New delivery arrangement: public online performance dashboard - cue: 'updated and available online' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "291531587866538520",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-01",
+        "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+        "char_start": 167048,
+        "char_end": 168237,
+        "text": "financing amount of financing amount of financing amount of financing of financing proceeds proceeds from the proceeds from the proceeds from the proceeds from the from the World Bank for World Bank for such World Bank for such World Bank for such World Bank for such such purpose purpose purpose purpose purpose National Performance National Performance National Performance National Performance National Performance National Performance No National Performance Dashboard updated and Dashboard developed and Dashboard developed Dashboard updated and Dashboard updated and Dashboard updated and Dashboard available online updated (Text) and adopted by NDOH available online available online available online Page 46 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) RESULT_FRAME_T BL_ IO Indicator Name DLI Baseline Intermediate Targets End Target 1 2 3 4 Annual Implementation Annual Implementation Annual Implementation Annual Implementation Number of Selected PHAs with Annual Implementation Plans submitted in a Plans submitted in a Plans submitted in a Plans submitted in a a complete Annual Baseline value to be Plans",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 264774,
+          "char_end": 265422,
+          "text": "(ii) Development and use of National and Provincial Performance Dashboards based on routinely reported data, including that reported through the eNHIS; and (b) Increasing the quality of routinely generated data: To ensure that financing through DLIs is based on credible data, the Project will use an IVA, contracted for the duration of the Project, to verify DLI achievements based on a clearly defined protocol for each DLI, including random checks to sub-samples of health facilities and patient call backs to confirm the quality of data on facility quality reported in Integrated Facility Supervision Checklist and of eNHIS data on utilization.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: transparency mechanism changing how performance is reported",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Dashboard publication is a national health system administration/management function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: online national dashboard | Innovative: public transparency of NDOH performance | Category: transparency mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: public online performance dashboard - cue: 'updated and available online'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P167184-A2",
+      "project_id": "P167184",
+      "name": "provincial eNHIS performance dashboards for PHA board decisions",
+      "description": "Builds national and provincial dashboards from routine eNHIS data, with geo-referenced checklist verification, to guide PHA board planning and management. Practices: Provincial Performance Dashboard using eNHIS data for PHA boards; Provincial Performance Dashboard for PHA Board decision-making; Geo-referencing checklist data for independent verification; National and provincial performance dashboards from eNHIS routine data.",
+      "why_innovative": "New tool: eNHIS-fed provincial performance dashboard - cue: 'routine data for decision making' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "291531587866538520",
+        "doc_type": "PAD",
+        "doc_date": "2020-04-01",
+        "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+        "char_start": 168841,
+        "char_end": 169245,
+        "text": "Provincial Performance Dashboard updated and annual Supportive A Provincial Provincial Performance Supervision Plan Provincial Performance Provincial Performance No PHA has a Provincial Performance Dashboard Dashboard updated and prepared in each Early Dashboard updated and Dashboard updated and Number of PHA Boards that Performance Dashboard; has been developed and annual Supportive Adopter province.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 169246,
+          "char_end": 169605,
+          "text": "A annual Supportive annual Supportive have used routine data for DLI 7 No PHA has a Supportive adopted by the PHA Supervision Plan Provincial Performance Supervision Plan Supervision Plan prepared decision making (Text) Supervision Plan Board in each Early prepared in each Early Dashboard has been prepared in each in each Selected Province Adopter Province.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 169606,
+          "char_end": 169708,
+          "text": "Adopter province. developed and adopted Selected Province by the PHA Board in each Expansion Province.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 185862,
+          "char_end": 186196,
+          "text": "DLI_T BL_MATRI X DLI 7 P-DLI 3: Number of PHA Boards that have used routine data for decision making Type of DLI Scalability Unit of Measure Total Allocated Amount (USD) As % of Total Financing Amount Output Yes Text 1,200,000.00 5.50 Period Value Allocated Amount (USD) Formula Baseline No PHA has a Provincial Performance Dashboard;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 186197,
+          "char_end": 186381,
+          "text": "No PHA has a Supportive Supervision Plan Year 1 For Early Adopter Provinces:A Provincial 150,000.00 75,000/ Early Adopter Province,up Performance Dashboard has been developed and to 2.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 186382,
+          "char_end": 186512,
+          "text": "Time-bound adopted by the PHA Board, in at least one (1) Early Adopter Province.Targeted in up to two (2) Early Adopter Provinces.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 205789,
+          "char_end": 206164,
+          "text": "(ii) review geo-referencing data generated in the process of completing the checklist to verify Page 69 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) that the data has been inputed at the facilities which have been scored; and (iii) verify that the percentage increase for a Selected Province is accurate.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 206165,
+          "char_end": 206420,
+          "text": "IVA will also conduct site visits to a random sample of facilities in Selected Provinces which claimed to achieve the P-DLI for the Year to verify that the data input by the facility is accurate as per the procedure outlined in the DLI Operational Manual.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "291531587866538520",
+          "doc_type": "PAD",
+          "doc_date": "2020-04-01",
+          "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+          "char_start": 264242,
+          "char_end": 264773,
+          "text": "The Project will contribute to strengthening monitoring and evaluation mechanisms in the following ways: (a) Improving implementation of sectoral monitoring tools and use of monitoring data to plan and manage service delivery at the frontlines through the following tools: (i) Development and implementation of an Integrated Facility Supervision Checklist which can enable routine monitoring of facility quality, including staff knowledge, availability and functioning of key facility inputs such as presence of drugs and supplies;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the eNHIS-derived dashboard is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Provincial dashboards support PHA board governance and management decisions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: eNHIS-fed provincial dashboard | Innovative: no PHA had one | Category: data tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New tool: eNHIS-fed provincial performance dashboard - cue: 'routine data for decision making'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P167184",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "guid": "291531587866538520",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:24:54Z",
+      "ended_at": "2026-11-07T03:25:17Z",
+      "status": "ok",
+      "note": "12 document(s) fetched from the WBG API; 16 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:25:17Z",
+      "ended_at": "2026-11-07T03:25:17Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-04-22, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:25:17Z",
+      "ended_at": "2026-11-07T03:25:21Z",
+      "status": "ok",
+      "note": "30 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 30,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 4,
+          "innovation_cycle": 12,
+          "enabling_processes": 5,
+          "results_based_management": 1,
+          "innovation_types": 5,
+          "public_good": 2,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:25:21Z",
+      "ended_at": "2026-11-07T03:25:21Z",
+      "status": "ok",
+      "note": "PAD 2020-04-01 (P167184_PAD_2020-04-01_291531587866538520.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P167184",
+            "doc_type": "PAD",
+            "doc_date": "2020-04-01",
+            "guid": "291531587866538520",
+            "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:25:21Z",
+      "ended_at": "2026-11-07T03:25:21Z",
+      "status": "ok",
+      "note": "218 reading units (37 numbered paragraphs) from 1967 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 218
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:25:21Z",
+      "ended_at": "2026-11-07T03:25:24Z",
+      "status": "ok",
+      "note": "50 of 218 units carry a digital / AI cue (6 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 50,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 6
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:25:24Z",
+      "ended_at": "2026-11-07T03:25:32Z",
+      "status": "ok",
+      "note": "15 candidate practices from 50 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 159503,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 862,
+          "cached_tokens": 33920,
+          "cache_write_tokens": 0,
+          "output_tokens": 2958,
+          "seconds": 19.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.004
+        },
+        "extracted": 15
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:25:32Z",
+      "ended_at": "2026-11-07T03:25:37Z",
+      "status": "ok",
+      "note": "7 accepted, 8 rejected (not_innovative 6, not_digital 2); 0 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 62196,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7132,
+          "cached_tokens": 5888,
+          "cache_write_tokens": 0,
+          "output_tokens": 1109,
+          "seconds": 7.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0035
+        },
+        "accepted": 7,
+        "rejected": 8,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 6,
+          "not_digital": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:25:37Z",
+      "ended_at": "2026-11-07T03:25:39Z",
+      "status": "ok",
+      "note": "7 of 7 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1896,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 420,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 254,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:25:39Z",
+      "ended_at": "2026-11-07T03:25:41Z",
+      "status": "ok",
+      "note": "7 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2018,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 445,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 116,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 4,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:25:41Z",
+      "ended_at": "2026-11-07T03:25:43Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7116,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1048,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 188,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:25:43Z",
+      "ended_at": "2026-11-07T03:25:43Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 11 evidence rows, 9 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:25:43Z",
+      "ended_at": "2026-11-07T03:25:43Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 51
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P167184-A1-E1",
+      "approach_id": "P167184-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U120",
+      "para_no": null,
+      "sentence_position": 1200,
+      "char_start": 167048,
+      "char_end": 168237,
+      "sentence": "financing amount of financing amount of financing amount of financing of financing proceeds proceeds from the proceeds from the proceeds from the proceeds from the from the World Bank for World Bank for such World Bank for such World Bank for such World Bank for such such purpose purpose purpose purpose purpose National Performance National Performance National Performance National Performance National Performance National Performance No National Performance Dashboard updated and Dashboard developed and Dashboard developed Dashboard updated and Dashboard updated and Dashboard updated and Dashboard available online updated (Text) and adopted by NDOH available online available online available online Page 46 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) RESULT_FRAME_T BL_ IO Indicator Name DLI Baseline Intermediate Targets End Target 1 2 3 4 Annual Implementation Annual Implementation Annual Implementation Annual Implementation Number of Selected PHAs with Annual Implementation Plans submitted in a Plans submitted in a Plans submitted in a Plans submitted in a a complete Annual Baseline value to be Plans",
+      "practice": "National Performance Dashboard published online by NDOH",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: online national performance dashboard | Not routine: public transparency of health performance | Adoption: 'updated and available online'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online national dashboard | Innovative: public transparency of NDOH performance | Category: transparency mechanism",
+      "keywords_hit": "dashboard",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: public online performance dashboard - cue: 'updated and available online'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A1-E2",
+      "approach_id": "P167184-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U191",
+      "para_no": null,
+      "sentence_position": 1727,
+      "char_start": 264774,
+      "char_end": 265422,
+      "sentence": "(ii) Development and use of National and Provincial Performance Dashboards based on routinely reported data, including that reported through the eNHIS; and (b) Increasing the quality of routinely generated data: To ensure that financing through DLIs is based on credible data, the Project will use an IVA, contracted for the duration of the Project, to verify DLI achievements based on a clearly defined protocol for each DLI, including random checks to sub-samples of health facilities and patient call backs to confirm the quality of data on facility quality reported in Integrated Facility Supervision Checklist and of eNHIS data on utilization.",
+      "practice": "Independent verification agent with patient call-backs for DLI data",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: eNHIS and checklist data verified | Not routine: patient call-backs confirm data quality | Adoption: 'will use an IVA'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IVA verifying eNHIS/checklist data | Innovative: patient call-backs confirm DLI data | Category: new delivery/verification arrangement",
+      "keywords_hit": "dashboard;monitoring data",
+      "innovation_cues": "",
+      "innovation_basis": "New process: third-party verification of DLI data via patient call-backs - cue: 'credible data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E1",
+      "approach_id": "P167184-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U121",
+      "para_no": null,
+      "sentence_position": 1202,
+      "char_start": 168841,
+      "char_end": 169245,
+      "sentence": "Provincial Performance Dashboard updated and annual Supportive A Provincial Provincial Performance Supervision Plan Provincial Performance Provincial Performance No PHA has a Provincial Performance Dashboard Dashboard updated and prepared in each Early Dashboard updated and Dashboard updated and Number of PHA Boards that Performance Dashboard; has been developed and annual Supportive Adopter province.",
+      "practice": "Provincial Performance Dashboard using eNHIS data for PHA boards",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: eNHIS-fed provincial dashboard | Not routine: no PHA had such dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: eNHIS-fed provincial dashboard | Innovative: no PHA had one | Category: data tool",
+      "keywords_hit": "dashboard;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: eNHIS-fed provincial performance dashboard - cue: 'routine data for decision making'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E2",
+      "approach_id": "P167184-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U121",
+      "para_no": null,
+      "sentence_position": 1203,
+      "char_start": 169246,
+      "char_end": 169605,
+      "sentence": "A annual Supportive annual Supportive have used routine data for DLI 7 No PHA has a Supportive adopted by the PHA Supervision Plan Provincial Performance Supervision Plan Supervision Plan prepared decision making (Text) Supervision Plan Board in each Early prepared in each Early Dashboard has been prepared in each in each Selected Province Adopter Province.",
+      "practice": "Provincial Performance Dashboard using eNHIS data for PHA boards",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: eNHIS-fed provincial dashboard | Not routine: no PHA had such dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: eNHIS-fed provincial dashboard | Innovative: no PHA had one | Category: data tool",
+      "keywords_hit": "dashboard;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: eNHIS-fed provincial performance dashboard - cue: 'routine data for decision making'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E3",
+      "approach_id": "P167184-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U121",
+      "para_no": null,
+      "sentence_position": 1204,
+      "char_start": 169606,
+      "char_end": 169708,
+      "sentence": "Adopter province. developed and adopted Selected Province by the PHA Board in each Expansion Province.",
+      "practice": "Provincial Performance Dashboard using eNHIS data for PHA boards",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: eNHIS-fed provincial dashboard | Not routine: no PHA had such dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: eNHIS-fed provincial dashboard | Innovative: no PHA had one | Category: data tool",
+      "keywords_hit": "dashboard;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: eNHIS-fed provincial performance dashboard - cue: 'routine data for decision making'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E4",
+      "approach_id": "P167184-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U132",
+      "para_no": null,
+      "sentence_position": 1274,
+      "char_start": 185862,
+      "char_end": 186196,
+      "sentence": "DLI_T BL_MATRI X DLI 7 P-DLI 3: Number of PHA Boards that have used routine data for decision making Type of DLI Scalability Unit of Measure Total Allocated Amount (USD) As % of Total Financing Amount Output Yes Text 1,200,000.00 5.50 Period Value Allocated Amount (USD) Formula Baseline No PHA has a Provincial Performance Dashboard;",
+      "practice": "Provincial Performance Dashboard for PHA Board decision-making",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Provincial Performance Dashboard | Not routine: PHA Boards lacked any dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Provincial Performance Dashboard | Innovative: PHA Boards lacked any dashboard | Category: data tool",
+      "keywords_hit": "dashboard;data for decision",
+      "innovation_cues": "",
+      "innovation_basis": "New service: routine-data dashboard adopted by PHA Boards - cue: 'data for decision'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E5",
+      "approach_id": "P167184-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U132",
+      "para_no": null,
+      "sentence_position": 1275,
+      "char_start": 186197,
+      "char_end": 186381,
+      "sentence": "No PHA has a Supportive Supervision Plan Year 1 For Early Adopter Provinces:A Provincial 150,000.00 75,000/ Early Adopter Province,up Performance Dashboard has been developed and to 2.",
+      "practice": "Provincial Performance Dashboard for PHA Board decision-making",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Provincial Performance Dashboard | Not routine: PHA Boards lacked any dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Provincial Performance Dashboard | Innovative: PHA Boards lacked any dashboard | Category: data tool",
+      "keywords_hit": "dashboard;data for decision",
+      "innovation_cues": "",
+      "innovation_basis": "New service: routine-data dashboard adopted by PHA Boards - cue: 'data for decision'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E6",
+      "approach_id": "P167184-A2",
+      "evidence_no": 6,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U132",
+      "para_no": null,
+      "sentence_position": 1276,
+      "char_start": 186382,
+      "char_end": 186512,
+      "sentence": "Time-bound adopted by the PHA Board, in at least one (1) Early Adopter Province.Targeted in up to two (2) Early Adopter Provinces.",
+      "practice": "Provincial Performance Dashboard for PHA Board decision-making",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Provincial Performance Dashboard | Not routine: PHA Boards lacked any dashboard | Adoption: 'has been developed and adopted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Provincial Performance Dashboard | Innovative: PHA Boards lacked any dashboard | Category: data tool",
+      "keywords_hit": "dashboard;data for decision",
+      "innovation_cues": "",
+      "innovation_basis": "New service: routine-data dashboard adopted by PHA Boards - cue: 'data for decision'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E7",
+      "approach_id": "P167184-A2",
+      "evidence_no": 7,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U147",
+      "para_no": null,
+      "sentence_position": 1351,
+      "char_start": 205789,
+      "char_end": 206164,
+      "sentence": "(ii) review geo-referencing data generated in the process of completing the checklist to verify Page 69 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) that the data has been inputed at the facilities which have been scored; and (iii) verify that the percentage increase for a Selected Province is accurate.",
+      "practice": "Geo-referencing checklist data for independent verification",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: geo-referencing of checklist data | Not routine: verifies data at scored facilities | Adoption: 'review geo-referencing data'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geo-referenced checklist data | Innovative: verifies facility scoring location | Category: data verification",
+      "keywords_hit": "dashboard;data for decision",
+      "innovation_cues": "",
+      "innovation_basis": "New process: geo-referenced verification of facility data - cue: 'geo-referencing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E8",
+      "approach_id": "P167184-A2",
+      "evidence_no": 8,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U147",
+      "para_no": null,
+      "sentence_position": 1352,
+      "char_start": 206165,
+      "char_end": 206420,
+      "sentence": "IVA will also conduct site visits to a random sample of facilities in Selected Provinces which claimed to achieve the P-DLI for the Year to verify that the data input by the facility is accurate as per the procedure outlined in the DLI Operational Manual.",
+      "practice": "Geo-referencing checklist data for independent verification",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: geo-referencing of checklist data | Not routine: verifies data at scored facilities | Adoption: 'review geo-referencing data'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geo-referenced checklist data | Innovative: verifies facility scoring location | Category: data verification",
+      "keywords_hit": "dashboard;data for decision",
+      "innovation_cues": "",
+      "innovation_basis": "New process: geo-referenced verification of facility data - cue: 'geo-referencing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    },
+    {
+      "row_id": "P167184-A2-E9",
+      "approach_id": "P167184-A2",
+      "evidence_no": 9,
+      "number_of_evidence": 9,
+      "project_id": "P167184",
+      "doc_id": "291531587866538520",
+      "doc_type": "PAD",
+      "doc_date": "2020-04-01",
+      "file_name": "P167184_PAD_2020-04-01_291531587866538520.txt",
+      "unit_id": "U191",
+      "para_no": null,
+      "sentence_position": 1726,
+      "char_start": 264242,
+      "char_end": 264773,
+      "sentence": "The Project will contribute to strengthening monitoring and evaluation mechanisms in the following ways: (a) Improving implementation of sectoral monitoring tools and use of monitoring data to plan and manage service delivery at the frontlines through the following tools: (i) Development and implementation of an Integrated Facility Supervision Checklist which can enable routine monitoring of facility quality, including staff knowledge, availability and functioning of key facility inputs such as presence of drugs and supplies;",
+      "practice": "National and provincial performance dashboards from eNHIS routine data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: eNHIS-based performance dashboards | Not routine: routine data turned into management tool | Adoption: 'Development and use'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: eNHIS-based performance dashboards | Innovative: routine data turned into management tool | Category: digital data tool",
+      "keywords_hit": "dashboard;monitoring data",
+      "innovation_cues": "",
+      "innovation_basis": "New tool: dashboards on routine eNHIS data for planning - cue: 'Development and use'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "36fb2a9a"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 572,
+      "char_start": 78323,
+      "char_end": 78879,
+      "sentence": "Scalable: Yes, by Boards that have Selected This DLI will province. used routine data Provinces are incentivize the for decision Page 22 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) DLI # DLI Province Contributes to DLI Financing Time-bound*/ eligibility the PDO by Value (US$ Scalable** improving equivalent) making eligible use of the electronic National Health Information System (eNHIS) and other routine data to produce performance dashboards to support PHA Board decision making.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "eNHIS-based performance dashboards for PHA Board decisions",
+      "reason": "reject: DLI payment condition; dashboard practice same as A3/A6, not a distinct new approach",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: routine eNHIS data turned into board dashboards - cue: 'incentivize'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "DLI payment condition; dashboard practice same as A3/A6, not a distinct new approach",
+          "reject_code": "not_innovative",
+          "context_chars": 1627
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1207,
+      "char_start": 172100,
+      "char_end": 172683,
+      "sentence": "Collection Training attendance Reports by Number of staff trained in RMNCH-N and Number of staff Annual sheets submitted by PHA designated office PHA PFM under the Project participating in training PHA Contracted NGO or Church service provider Innovations for community-based service implementing community- Annual PHA PHA records PHA designated office delivery trialed and scaled up in Selected based service delivery Provinces innovation in line with proposal received Percentage of health facilities that implemented patient feedback mechanisms and responded to issues identified.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Community-based service delivery innovations trialed and scaled up",
+      "reason": "reject: NGO/church community service innovation pilots; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: NGO/church community delivery innovation pilots - cue: 'trialed and scaled up'",
+      "innovation_cues": "innovation;innovations;scaled-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "NGO/church community service innovation pilots; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1780
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1211,
+      "char_start": 174047,
+      "char_end": 175080,
+      "sentence": "(i) Province performance dashboard for use by PHA PHA Board to submit Board developed and records with updated every six months Provincial Performance PHA Board in Selected Number of PHA Boards that have used using eNHIS data; and (ii) Annual PHA records Dashboard, order of Provinces routine data for decision making Supportive Supervision Plan adoption and to address performance Supportive Supervision concerns adopted by PHA Plan Board ME IO Table SPACE Page 50 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) Disbursement Linked Indicators Matrix DLI_T BL_MATRI X DLI 1 N-DLI 1: Memoranda of Understanding (MoU) signed with up to 4 Selected Provincial Health Authorities (PHAs) Type of DLI Scalability Unit of Measure Total Allocated Amount (USD) As % of Total Financing Amount Output Yes Text 600,000.00 4.10 Period Value Allocated Amount (USD) Formula Baseline No MoU signed Year 1 NDOH has signed a Memorandum of 300,000.00 150,000/MoU signed; up to 2 MoUs.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Provincial Performance Dashboard from eNHIS data for PHA boards",
+      "reason": "reject: Duplicate of same provincial dashboard practice; six-monthly refresh is routine DLI detail",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New tool: eNHIS-fed provincial dashboard - cue: 'using eNHIS data'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicate of same provincial dashboard practice; six-monthly refresh is routine DLI detail",
+          "reject_code": "not_innovative",
+          "context_chars": 1353
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1277,
+      "char_start": 186513,
+      "char_end": 186787,
+      "sentence": "Page 58 of 101 The World Bank Improving Access to and Value from Health Services in PNG: Financing the Frontlines (P167184) Year 2 For Early Adopter Provinces: (a) Provincial 150,000.00 75,000/ Early Adopter Province, up Performance Dashboard in at least one (1) Early to 2.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Six-monthly updated Provincial Performance Dashboard tied to DLI disbursement",
+      "reason": "reject: Six-monthly refresh is DLI disbursement detail, not a distinct new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: dashboard refresh cycle linked to DLI - cue: 'updated every six'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Six-monthly refresh is DLI disbursement detail, not a distinct new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1411
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1354,
+      "char_start": 206587,
+      "char_end": 206819,
+      "sentence": "Provincial Performance Dashboard to be updated every six months in accordance with DLI Operational Manual using recent (no more than 3 months old) data Description available from eNHIS and Integrated Facility Supervision Checklists.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Dashboard built from eNHIS and supervision checklist data",
+      "reason": "reject: Same provincial dashboard practice; data-source specification is routine DLI detail",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: dashboard fed by eNHIS routine data - cue: 'dashboard'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same provincial dashboard practice; data-source specification is routine DLI detail",
+          "reject_code": "not_innovative",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1358,
+      "char_start": 207022,
+      "char_end": 207214,
+      "sentence": "PHA Board in Selected Provinces Verification Entity IVA Compliance specification: -A Selected PHA will develop a Provincial Performance Dashboard in accordance with the DLI Operational Manual.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Provincial Performance Dashboard adopted by PHA Board minutes",
+      "reason": "reject: Board minutes adoption is same dashboard practice; procedural detail",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New organizational practice: Board-adopted performance dashboard - cue: 'dashboard'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Board minutes adoption is same dashboard practice; procedural detail",
+          "reject_code": "not_innovative",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1462,
+      "char_start": 223525,
+      "char_end": 223871,
+      "sentence": "These may include training, TA, purchase of equipment to support performance monitoring and oversight, including tablets to support data collection and skills building during supervision, communications and information technology equipment and vehicles, as well as operating costs for supportive supervision and maintenance for vehicles procured.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Tablets for facility data collection and supportive supervision",
+      "reason": "reject: Standard IT equipment procurement for supervision; no new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: tablet-enabled supervision data collection - cue: 'data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard IT equipment procurement for supervision; no new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1391
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1726,
+      "char_start": 264242,
+      "char_end": 264773,
+      "sentence": "The Project will contribute to strengthening monitoring and evaluation mechanisms in the following ways: (a) Improving implementation of sectoral monitoring tools and use of monitoring data to plan and manage service delivery at the frontlines through the following tools: (i) Development and implementation of an Integrated Facility Supervision Checklist which can enable routine monitoring of facility quality, including staff knowledge, availability and functioning of key facility inputs such as presence of drugs and supplies;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Integrated Facility Supervision Checklist for routine quality monitoring",
+      "reason": "reject: Checklist is a paper supervision tool; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New tool: checklist for routine facility quality monitoring - cue: 'routine monitoring'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Checklist is a paper supervision tool; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1308
+        }
+      ]
+    },
+    {
+      "guid": "291531587866538520",
+      "doc_type": "PAD",
+      "position": 1372,
+      "char_start": 209196,
+      "char_end": 209480,
+      "sentence": "The visits will be conducted in accordance with the DLI Operational Manual. -Baseline under this P-DLI per Selected Province will be reflected in the DLI Operational Manual. -The outreach team will update data on services delivered during Outreach Visits at the location using tablet.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Tablet-based data entry during outreach visits",
+      "reason": "reject: final check round 1: common - Digital: tablet-based data entry is the mechanism | Before 2019: tablet/mobile data collection standard in WBG and UN health projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: tablet capture of outreach service data - cue: 'tablet'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: tablets at outreach sites | Innovative: replaces paper outreach records | Category: mobile data capture",
+          "reject_code": "",
+          "context_chars": 1225
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: tablet-based data entry is the mechanism | Before 2019: tablet/mobile data collection standard in WBG and UN health projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 9907,
+    "cached_tokens": 40192,
+    "cache_write_tokens": 0,
+    "output_tokens": 4625,
+    "seconds": 33.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0088
+  }
+}

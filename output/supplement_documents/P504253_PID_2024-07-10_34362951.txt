@@ -1,0 +1,509 @@
+﻿    The World Bank
+    Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+    3(P504253)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                  Project Information Document (PID)
+
+                 Concept Stage | Date Prepared/Updated: 10-Jul-2024 | Report No: PIDDC00341
+      The World Bank
+      Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+      3(P504253)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)          Operation ID                 Operation Name
+Brazil, Brazil, Brazil, Brazil,   P504253                      Brazil Proactive, Safe, and Resilient Road Asset
+Brazil                                                         Management Program - State of Santa Catarina - Phase 3
+Region                            Estimated Appraisal Date     Estimated Approval Date        Practice Area (Lead)
+LATIN AMERICA AND                 23-Sept-2024                 24-Feb-2025                    Transport
+CARIBBEAN
+Financing Instrument              Borrower(s)                  Implementing Agency
+Investment Project                SEF - Secretaria de Estado   Secretaria de Estado da
+Financing (IPF)                   da Fazenda                   Infraestrutura e
+                                                               Mobilidade
+
+Proposed Development Objective(s)
+Improve access to sustainable, safe, and resilient transport in the State of Santa Catarina
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+Is this project Private Capital Enabling (PCE)?                Yes
+
+SUMMARY
+  Total Operation Cost                                                                                               475.00
+
+  Total Financing                                                                                                    475.00
+               of which IBRD/IDA                                                                                 300.00
+  Financing Gap                                                                                                        0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                                 300.00
+
+
+
+                                                                                                                        Page 1
+        The World Bank
+        Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+        3(P504253)
+
+
+
+    Non-World Bank Group Financing
+      Counterpart Funding                                                                                                              75.00
+         Local Govts. (Prov., District, City) of Borrowing Country                                                                     75.00
+      Commercial Financing                                                                                                            100.00
+         Unguaranteed Commercial Financing                                                                                            100.00
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                 Concept Review Decision
+Moderate                                                                     The review did authorize the preparation to continue
+
+
+
+ The Project will follow Track 1 as part of the MPA, without Decision Review Meeting as overall risk assessment is
+ Moderate.
+
+ B. Introduction and Context
+
+ Country Context
+1. Brazil’s economy is recovering from a decade of sluggish growth and a recent economic recession deepened by the
+   COVID-19 pandemic. Poverty and inequality remain significant challenges. In 2023, growth is expected to have
+   reached 2.9 percent, after having achieved the rates of 4.8 percent in 2021 and 3.0 percent in 2022, driven by
+   agriculture and consumption, and supported by fiscal stimulus, increased public spending, and transfers to low-income
+   households. A large share of the population continues to live in poverty, at 21.3 percent or 43 million people1i
+   (US$6.85 per day), linked to improvements in economic conditions, labor market – with unemployment down to 7.4
+   percent – and social protection policies. Brazil ranks ninth globally in terms of inequality level2, and access to services
+   and opportunities vary sharply across subregions and population segments. On average, rural areas are twice as poor
+   as urban areas. Women and minorities, especially Afro-descendants and indigenous populations, have the lowest
+   rates of access to job opportunities and lower wages on average, and poverty rates among them are the highest.
+   According to IBGE, in Santa Catarina the overall unemployment rate is 50% higher for women in relation to the
+   percentage of unemployed men, being the majority of the former afro-descendants.
+
+2. Brazil faces major climate change challenges, exacerbated by deforestation and land degradation. Climate change
+   is altering temperature and rainfall patterns, potentially pushing 800,000 to 3 million Brazilians into extreme poverty
+   by 2030. Deforestation in the Amazon and Cerrado biomes increases land-use emissions, the main source of Brazil's
+   greenhouse gas emissions. Regarding Santa Catarina State (SC) more particularly, the effects of climate change are
+   exacerbated. SC is one of the main areas negatively affected by Climate Change, with devastating consequences for
+   the road sector..
+
+1 Poverty rates increased from 25.3 percent to 29.4 percent over 2019–21 and then decreased to 24.1 percent over 2022, on par with 2014 levels.
+Poverty was expected to have been driven down to 23.9 percent in 2023 by a recent increase in job opportunities, an increase in minimum wages
+combined with a major overhaul of the Bolsa Família program, and a planned introduction of additional benefits to families with children.
+2 The Gini index for Brazil is 0.518 in 2022. The wealthiest one percent own around 32.2 percent of Brazil's household wealth.
+
+                                                                                                                                           Page 2
+       The World Bank
+       Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+       3(P504253)
+
+
+
+3. Santa Catarina, located in the southernmost part of the Mata Atlantic Forest, is predicted to face significant climatic
+   changes by 2040. Average summer temperatures are expected to increase by up to one degree Celsius, and summer
+   precipitation is expected to increase by 10 percent. This change will likely exacerbate natural phenomena in the region,
+   which have already increased in frequency. In 2022 alone, the state experienced 874 natural phenomena, resulting in
+   13 fatalities, impacting 25 percent of the population, and causing around 3.5 billion reais in damages, predominantly
+   from increasingly frequent flash floods.
+
+4. The state's vulnerability to extreme weather events has manifested in numerous disasters over the years, leading
+   to substantial economic and human costs. From 2002 to 2012, there were 1,108 incidents of flash floods, floods, and
+   landslides, accounting for 11 percent of the nation's similar occurrences in the same period. The costs of these
+   disasters are staggering, with material losses amounting to billions of reais. A detailed breakdown shows that flash
+   floods, droughts, windstorms, and floods have collectively affected millions, emphasizing the urgent need for
+   enhanced preventive measures and infrastructure resilience.
+5. According to the Atlas Digital de Desastres no Brasil, natural disasters have caused damages amounting to R$ 2.6
+   billion in Santa Catarina's industry over the past 32 years. This figure represents 24 percent of the total impact on
+   the national sector, making Santa Catarina the most affected state by natural disasters in Brazil. Furthermore, over
+   the past 32 years, Santa Catarina recorded 6,560 incidents, resulting in 311 deaths and 1.1 million displaced people.
+   Notably, 46 percent of these incidents were reported in the last decade. Beyond industrial impacts, the state incurred
+   additional losses amounting to R$ 32.5 billion, ranking it as the sixth state with the highest recorded losses, behind
+   Rio Grande do Sul (R$ 92 billion), Minas Gerais (R$ 52 billion), Bahia (R$ 42 billion), Paraná (R$ 40 billion), and
+   Pernambuco (R$ 33 billion)
+
+ Sectoral and Institutional Context
+
+6. The transport services and logistics performance in Brazil are hindering the country’s ability to compete globally
+   (Custo Brasil). Brazil's overwhelming reliance on road transport, which accounts for over 65 percent of logistics,
+   combined with inadequate management of road networks, leads to poor road conditions and high vehicle operation
+   costs. Consequently, Brazil performs below its peers in logistics competitiveness, ranking 51st in the 2023 Logistics
+   Performance Index (LPI) and 56th in 2018, compared to China’s 19th and India’s 38th. According to the Infrastructure
+   Department of Santa Catarina (SC), the road system is the primary mode of transportation in Santa Catarina, similar
+   to the rest of the country, accounting for approximately 80 percent of all cargo transported within the state.
+
+7. Investment in infrastructure and maintenance has been neglected by successive governments for years. While the
+   country has developed sound concession programs to expand and manage part of its network, these have been limited
+   to roads with the highest traffic warranting the implementation of tolls. The maintenance of roads with lower traffic
+   levels has remained subject to unsustainable financing, insufficient to cover the costs of maintaining existing assets,
+   let alone the annual depreciation of new investments needed to bridge the infrastructure gap. To achieve the
+   Sustainable Development Goals (SDGs), Brazil will need to invest USD 778 billion by 2030, with 53 percent allocated
+   to transport. In recent years, erratic policies and financing for infrastructure maintenance have led to the overall poor
+   condition of road networks. According to the Brazilian National Transportation Confederation (Confederação Nacional
+
+
+
+                                                                                                                        Page 3
+         The World Bank
+         Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+         3(P504253)
+
+
+     do Transporte, CNT), 41.5 percent of the paved road network was considered regular, 20.3 percent bad, and 5.8
+     percent very bad, whereas the percentage of roads in good or excellent condition was 32.5 percent in 2023.
+
+8. Transport is one of the main sources of greenhouse gas (GHG) emissions in the energy sector in Brazil and is the
+   fastest growing. According to the 5th National Communication on Climate Change in December 2020, the transport
+   sector is responsible for 10 percent of total GHG emissions in Brazil – of which freight road transport is responsible for
+   45 percent. Long distances traveled by road cause not only high transport costs, but also increased GHG emissions.
+   The limited share of paved network (12.4 percent3 in 2016) is a compounding factor: traffic on inappropriate roads
+   wastes an average of 4 to 5 percent of total diesel volume, according to studies4.
+
+B.1. Sectorial and Institutional Context of Santa Catarina:
+
+9. The road network in Santa Catarina consists of 6,289.2 kilometers of state highways, of which 80 percent are single-
+   lane paved roads, primarily asphalted, and 11.8 percent are unpaved roads. The municipal road system adds another
+   66,607 kilometers, with only a small portion paved. Despite the vital role of these highways in freight transport,
+   approximately 74 percent of the paved roads are in poor to mediocre condition. Historically, various methodologies
+   have been used to address the deterioration of state road assets, including direct administration, outsourced
+   maintenance in separate contracts, and outsourced maintenance in integrated contracts, each with its pros and cons.
+   Despite recent state investments for the expansion and improvement of various road segments under state
+   jurisdiction, using both state resources and funding from CAF, Banco do Brasil, BNDES, and others, the current
+   condition in 2023 remains poor, with only about 26 percent in excellent or good condition and 74 percent in regular,
+   poor, or very poor condition.
+
+10. The diagnosis clearly shows that road conservation policies have not achieved the desired efficiency and urgently
+    need revision due to the lack of continuous financial resources. There is a need for an institutional change within the
+    policies of investment in road infrastructure to break away from the reactive paradigm, particularly given the impact
+    of climate changes. This includes the use of public-private partnerships, which have never been utilized by the state.
+    Despite SC's institutional capacity and fiscal space, the state has not engaged in any road PPPs to date, making it an
+    outlier in the country compared with peer states from the south and southeast regions, as well as with the federal
+    government. The only existing concession in the state is for a federal road. In this context, the MPA will also help build
+    capacity in the state regarding private sector participation in infrastructure and promote pivotal and innovative
+    changes in this regard.
+
+11. Santa Catarina is the most affected state by climate change in the country, with increasing frequency and severity
+    of rain and windstorms. The western part of the state, notably susceptible to tornadoes due to its geographical and
+    topographical features, has recorded over 30 tornado incidents in two decades, affecting over 70,000 residents,
+    mainly around Chapecó. Furthermore, floods in 2008 due to heavy rainfall resulted in 128 deaths and 78,700 displaced
+    individuals, and the occurrence of a 'cyclone bomb' in 2020 wreaked havoc across 204 cities, highlighting the
+
+3
+  CNT (Confederação Nacional do Transporte), “Only 12.4% of the Brazilian Road Network Is Paved,�? CNT, August 14, 2018, https://www.cnt.org.br/agencia-
+cnt/somente-12-da-malha-rodoviaria-brasileira-pavimentada.
+4
+  Pesquisa CNT de rodovias 2019, page 183. Bartholomeu (2006) on Escola Superior de Agricultura “Luiz de Queiroz�?, from Universidade de São Paulo – ESALQ-USP
+considering CNT survey in 2005 and the performance of trucks in routes with different pavement condition; also on this link from MIT
+
+
+                                                                                                                                                          Page 4
+       The World Bank
+       Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+       3(P504253)
+
+
+    destructive potential of such events. Snow formation in the mountainous regions also poses seasonal road safety
+    hazards, necessitating immediate interventions like salting roads to mitigate ice-related accidents. This climatic
+    susceptibility underscores the pressing need for proactive and strategic planning to safeguard both the populace and
+    infrastructure against future climatic adversities.
+
+12. Due to the drastic impacts of climate change in Santa Catarina (SC) and its effect on road infrastructure, the state
+    has been prompted to integrate comprehensive environmental and predictive maintenance programs to mitigate
+    the increased risk of natural disasters. The state's roads are managed under environmental permits that incorporate
+    the Environmental Liabilities Survey and Management Program, which aligns with the Proactive Maintenance Program
+    and incorporates climate risks. The Geological Service of Brazil is actively developing Susceptibility Maps for these
+    events, covering significant portions of the state, to guide predictive maintenance strategies. These efforts aim to
+    prioritize investments in drainage maintenance, containment systems, and road improvements, leveraging ongoing
+    data collection and analysis to mitigate the escalating risks associated with climate change, ensuring safer and more
+    reliable transportation networks.
+
+13. Concrete examples of the impact of climate change in the road asset of the SC can be seen in figure 1 below:
+
+
+
+
+                               Figure 1: Photos provided by the Infrastructure Agency of Santa Catarina
+
+
+
+14. Road traffic deaths and injuries are a significant issue in Santa Catarina. According to data from the Ministry of
+    Health, in 2021, there were 33,813 traffic-related deaths in Brazil, an increase of 5.8 percent in relation to 2019. This
+    corresponds to a mortality rate of 15.9 deaths per 100,000 inhabitants, higher than the rates of neighboring countries
+    such as Argentina (12.4), Chile (11.4), and Uruguay (8.9). Although Santa Catarina's traffic death rate of 18 per 100,000
+
+
+                                                                                                                         Page 5
+       The World Bank
+       Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+       3(P504253)
+
+
+    inhabitants in 2022 is below the national average of 19 per 100,000, it remains high compared to neighboring
+    countries. Additionally, the state has not achieved its target of reducing the mortality rate by 50% over the last decade
+    (2011-2020), managing only a 30% reduction.
+
+15. Lack of access to opportunities exacerbates social exclusion and poverty rates in Brazil. Although considerable
+    progress has been made in closing gender gaps in critical sectors such as human capital, significant employment
+    discrepancies remain, particularly in the construction sector. The Brazilian labor market is marked by major gender
+    disparities, with males constituting a larger proportion of the labor force—on average, 20 percentage points more in
+    recent years—and working more often than women. This disparity is especially pronounced in construction, where
+    men are overwhelmingly present compared to women, further promoting discrimination and keeping women
+    concentrated in lower-paying industries and occupations, resulting in occupational segregation.
+
+16. Women and minorities in Santa Catarina have the lowest rates of access to job opportunities and the highest rates
+    of poverty. In the state of Santa Catarina, women earn 29.4% less than men, according to the first Gender Pay
+    Transparency Report published by the Ministries of Labor and Employment (MTE) and Women's Affairs in March 2024.
+    The report also highlights racial disparities, noting that the number of black women is significantly lower than that of
+    non-black women in the surveyed companies, with 68,100 and 322,100 respectively. Additionally, black women earn,
+    on average, 23.1% less than non-black women. Among men, the wage gap is even larger, with black men earning
+    24.8% less than non-black men.
+
+17. Creating job alternatives through the project in partnership with Santa Catarina’s Department of Women may
+    have a significant impact on reducing gender gaps in the transport sector in the state. By promoting equal
+    employment opportunities and addressing wage disparities, such initiatives can help mitigate social exclusion and
+    poverty rates among women and minorities, fostering a more inclusive and equitable labor market.
+
+
+
+ Relationship to CPF
+
+18. The Project will be fully consistent with the current Country Partnership Framework (CPF) for Brazil (FY18 –FY23)
+    (Report No. 113259-BR) and the upcoming CPF (FY2023-FY2028). It will be aligned to CPF’s three focus areas: i.
+    Promoting fiscal sustainability and enhancing the investment climate – by promoting fiscal gains of more efficient
+    long-term CREMA contracts, including the expansion of the Government-pays PPP model to roads; ii. Enhancing
+    productivity and innovation for competitiveness – by ensuring both private and public sector lead the way in the
+    change of paradigm to delegate the management of road management to construction/concession companies; iii.
+    Building resilience to environmental and social (E&S) shocks and improving social inclusion – by enhancing road
+    resilience and safety for users and preventing unforeseen shocks such as road closures that create large economic
+    disruptions and saving thousands of lives along the project timeline.
+
+19. The Project is aligned with the Paris Agreement. On mitigation, the proposed activities are either Universally
+    Aligned (UA) or considered of low or significant risk: road upgrading with longer-periods of maintenance with minor
+    enhancement of capacity for resilience, road safety, and accessibility purposes are considered UA. On adaptation,
+
+
+
+                                                                                                                         Page 6
+        The World Bank
+        Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+        3(P504253)
+
+
+    the operation adequately reduces the climate risks, and the Project’s adaptation design considerations will limit the
+    exposure to a low level of residual risk.
+
+
+ C. Proposed Development Objective(s)
+ Improve access to sustainable, safe, and resilient transport in the State of Santa Catarina
+
+
+  Key Results (From PCN)
+
+  i.     Improved access to sustainable transport. Millions of people that benefit from improved access to sustainable
+         transport infrastructure and services in the State of Santa Catarina (number)
+  ii.    Improved safe road transport access. Change in annual road crash fatalities along targeted state road corridors
+         in selected areas of the State of Santa Catarina (number)
+ iii.    Improved resilient road transport access. Share of the paved state road networks in the State of Santa Catarina
+         with Management Response Plans to climate risks and natural disasters in place (percentage)
+
+ D. Concept Description
+
+20. The third phase of the MPA consists of a proposed project in the State of Santa Catarina for a total of $375
+    million, from which $300 million is IBRD financing and $75 million counterparty financing .
+
+21. The Project Development Objective (PDO) of the third operation is to “improve sustainable, safe, and resilient
+    transport access to socio-economic opportunities for the targeted population of selected areas in the State of
+    Santa Catarina�?. The third phase has four components:
+
+    21.1.        Component 1: Proactive maintenance based on a long-term (8–25 years) CREMA model using PBCs:.
+        21.1.1. Subcomponent 1.1: Proactive maintenance CREMA-DBM: Long-term performance-based safe and
+              resilient road management contracts for state road corridors, (estimated cost US$121.5 million; US$82.75
+              million in IBRD financing, US$26.25 million in counterpart financing, and US$12.5 million from PCM).
+        1.1.1.Subcomponent 1.2: CREMA-PPP: Structuring of long-term (over 20 years) safe and resilient CREMAs using
+              the PPP regulation for selected state roads, (estimated cost US$5 million, covered by counterpart
+              financing).
+
+    21.2.       Component 2: institutional strengthening for sustainability of road asset management, road safety,
+         climate resilience, and decarbonization:
+        21.2.1. Road Network Sustainability: This will involve both counterpart funding (survey/registration, basic
+              design) and financing (multi-year maintenance management). Activities include road network survey and
+              multi-year management.
+        21.2.2. Road Safety: Support will be provided to the institution responsible for road safety in the state, which
+              will be identified (and/or proposed in the Institutional Capacity Review).
+
+
+
+                                                                                                                      Page 7
+       The World Bank
+       Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+       3(P504253)
+
+
+        21.2.3. Climate Resilience: Updating and complementing the micro-level risk management tool for climate
+              vulnerability analysis. Training the state on climate change and vulnerability issues.
+        21.2.4. Decarbonization: The State Logistics and Transportation Plan (PELT) will include road decarbonization
+              issues (green hydrogen and electromobility – study).
+        21.2.5. Social and Gender Inclusion: A gender assessment and action plan will be developed for the CREMA
+              projects and determine the best alternatives for closing gender gaps through the project. This might
+              include hiring female engineers for project management activities, among others.
+
+    21.3.       Component 3—Urban Mobility of greater Florianopolis and rural tourism:
+        21.3.1. Subcomponent 3.1: improvement of road safety, universal accessibility and non-motorized transport
+             along urban stretches of State roads
+        21.3.2. Subcomponent 3.2: Urban Mobility Studies and Electric Bus Pilot: Updating the BRT study, waterway
+             mobility study, active mobility study in Greater Florianópolis, and developing a geospatial tool for disaster
+             risk management. It will also involve a pilot project for electric buses in Florianópolis, including the
+             purchase of buses and installation of necessary infrastructure.
+        21.3.3. Subcomponent 3.3: Promotion of Rural Tourism: Activities will include rural tourism signage and studies
+             to promote tourism in the region.
+
+    21.4.       Component 4—Project management: allocated for program administration, including support for
+         project management.
+
+22. During the preparation mission in May 2024, it was decided that the program will adopt a network approach
+    towards the selection of roads that will benefit from the program. This approach will allow for better management
+    of the state road network in Santa Catarina and enable phased implementation, presenting advantages over
+    independent corridor selection. The program anticipates a progressive extension to the entire state road network.
+    The State Infrastructure Secretariat (SIE) is committed to defining the regions that will benefit from the program and
+    will strive, as much as possible, to align the selection of regions with the criteria previously chosen for corridor
+    selection, namely: (i) Human Development Index (HDI); (ii) climate resilience; (iii) road safety; (iv) road quality; and (v)
+    Annual Average Daily Traffic (AADT). Please refer to Annex 2 for the map of the roads selected.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                     Triggered?
+                                                              Last approved                             Current
+ Projects on International Waterways OP 7.50                        No
+ Projects in Disputed Area OP 7.60                                  No
+
+
+
+
+                                                                                                                           Page 8
+       The World Bank
+       Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+       3(P504253)
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+Environmental risk is moderate. The environmental moderate risk ratting accounts for the potential impacts associated
+with road rehabilitation activities (CREMA rehabilitation Component 1), which may include: production and disposal of
+construction waste; water contamination due to construction runoff, wastewater from construction sites, and soil or
+groundwater contamination from asphalt mill waste; soil and air contamination from asphalt plants; noise pollution, dust
+emission and soil manipulation from quarries, construction work sites and traffic risks to workers and communities; and
+occupational health and safety in construction workplaces. Road rehabilitation works will be restricted to the ROWs,
+therefore no loss of habitats is expected for this project. On the other hand, the Borrower's ability to manage the possible
+risks and environmental impacts generated by the planned works seems satisfactory. Within SIE, the socio-environmental
+management is conducted by the Environmental Advisory (ASMAM/SIE), from the design phase to road operations.
+Social risk is moderate. The Project is expected to have an overall positive impact on the local community, improving
+sustainable, safe, and resilient road transport connectivity. Minimum negative impact is expected under Component 1 as
+it will involve road maintenance works. Although unlikely, some maintenance works may require a limited taking of land,
+occurring mainly on land classified as land not intended for construction. These small parcels of land (easement areas,
+strip of land) may be needed to improve road safety and build new accesses. The designs will be prepared following
+mitigation hierarchy criteria to avoid alternatives with significant adverse impacts, such as physical displacement and
+losses of livelihood. Indigenous peoples will not be affected by the project as they are not present within the direct areas
+Project’s interventions. Construction activities may also induce potential concerns such as safety, accidents, and road
+safety, especially during the operation of the roads. To mitigate these risks, specific road safety studies will be carried out
+and implementing a traffic management plan to minimize potential impacts to road users and communities located in
+surrounding areas. The works are likely to be implemented by local firms and local labor, with low likelihood of labor
+influx. There is also a potential for excluding vulnerable groups from benefits offered by the project, (vulnerable to
+extreme weather events and natural disasters, particularly family farmers). To address these risks, the project will carry
+out mapping of relevant stakeholders, including government entities and NGOs, to support the engagement process. The
+impacts that the Project may have on women will also be considered and activities to promote gender equality and address
+GBV will be included under component 2.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+
+                                                                                                                          Page 9
+     The World Bank
+     Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+     3(P504253)
+
+
+ Carlos Bellas Lamas
+ Senior Transport Specialist
+
+ Eric R. Lancelot
+ Lead Transport Specialist
+
+Borrower/Client/Recipient
+ SEF - Secretaria de Estado da Fazenda
+ Rafael Almeida Pinheiro da Costa
+ External Financing Manager
+ racosta@sef.sc.gov.br
+
+Implementing Agencies
+ Secretaria de Estado da Infraestrutura e Mobilidade
+ Clayton Bortoluzzi
+ Project Coordinator
+ bortoluzzi@sic.sc.gov.br
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Carlos Bellas Lamas, Eric R. Lancelot
+
+Approved By
+
+Practice Manager/Manager:                Bianca Bianchi Alves                    28-Jun-2024
+
+Country Director:                        Johannes C.M. Zutt                      10-Jul-2024
+
+
+
+
+                                                                                                             Page 10
+        The World Bank
+        Brazil Proactive, Safe, and Resilient Road Asset Management Program - State of Santa Catarina - Phase
+        3(P504253)
+
+
+
+iPoverty rates increased from 25.3 percent to 29.4 percent over 2019–21 and then decreased to 24.1 percent over 2022, on par with 2014 levels.
+Poverty was expected to have been driven down to 23.9 percent in 2023 by a recent increase in job opportunities, an increase in minimum wages
+combined with a major overhaul of the Bolsa Família program, and a planned introduction of additional benefits to families with children.
+
+
+
+
+                                                                                                                                        Page 11
+

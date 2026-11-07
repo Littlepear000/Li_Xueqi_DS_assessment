@@ -1,0 +1,1283 @@
+﻿          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 24-May-2018 | Report No: PIDISDSA24084
+
+
+
+
+Apr 29, 2018                                                                                          Page 1 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name              Parent Project ID (if any)
+   Western Africa                                P166042                    Guinea – Mali
+                                                                            Interconnection Project
+   Region                                        Estimated Appraisal Date   Estimated Board Date      Practice Area (Lead)
+   AFRICA                                        08-May-2018                29-Jun-2018               Energy & Extractives
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Republic of Guinea,        EDG, EDM
+                                                 Republic of Mali
+
+   Proposed Development Objective(s)
+
+   The Project Development Objectives are to: (i) increase electricity supply to the Eastern part of Guinea; (ii) enable
+   electricity trade between Guinea and Mali; and (iii) increase Guinea’s electricity export capability towards other West
+   African Power Pool countries.
+
+   Components
+   Power Transmission Infrastructure (Project US$ 343.8 million, of which IDA Credit US$ 71.8 million)
+   Implementation Support and Capacity Building (Project US$ 37.0 million, of which IDA Credit US$ 12.2 million)
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                     380.80
+   Total Financing                                                                                                       380.80
+                             of which IBRD/IDA                                                                             84.00
+   Financing Gap                                                                                                             0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          84.00
+         IDA Credit                                                                                                        84.00
+
+
+
+Apr 29, 2018                                                                                                            Page 2 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+   Non-World Bank Group Financing
+
+      Other Sources                                                                                                         296.80
+         African Development Bank                                                                                            58.42
+         Borrower                                                                                                            13.44
+
+         ECOWAS Bank for Investment and Development                                                                          44.19
+         EC: European Commission                                                                                             13.52
+
+         EC: European Investment Bank                                                                                        47.40
+         Islamic Development Bank                                                                                            86.50
+         West African Development Bank                                                                                       33.33
+
+   Environmental Assessment Category
+   A-Full Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+    Country Context
+   1. Despite Sub-Saharan Africa’s (SSA) significant endowment of natural resources, approximately 600 million
+       people, or two-thirds of its population, do not have access to electricity. For those with access to electricity,
+       average residential electricity consumption per capita is equivalent to about half the average level of China or
+       one-fifth that of Europe (in 2014).1 While SSA is energy poor, it is rich in natural resources, that if harnessed,
+       could meet the needs of the continent for reliable and affordable electricity. Excluding solar, McKinsey
+       estimates that there are 1.2 terawatts (TW) of generation capacity potential. Solar generation capacity was
+       estimated at a staggering potential of 10 terawatts, particularly in the Sahel sub-region (including Mali).
+
+   2. While current levels of consumption are among the lowest in the world, demand for electricity in SSA is
+      expected to increase many fold over the next couple of years. A 2015 study on African electricity markets
+      prepared by McKinsey estimates that demand for electricity in SSA will register a four-fold increase between
+
+
+
+           1 World Energy Outlook 2014 Factsheet: Energy in Sub-Saharan Africa today, International Energy Agency.
+
+
+Apr 29, 2018                                                                                                           Page 3 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       2010 and 2040, representing an average growth of 4.5% per annum.2 This strong growth will be sustained by
+       an increase in industrial and commercial demand for electricity averaging 4.1% per year, and an increase in
+       residential demand averaging 5.6 % per year. This increase in demand could vary significantly between sub-
+       regions. In West Africa, for instance, it is expected that demand for industrial and commercial electricity would
+       grow faster than average, at 5.3% per year.3
+
+   3. If every country builds infrastructure to fulfill its electricity needs, the McKinsey study estimates that the
+      region would require about US$490 billion of capital for new electricity generation capacity by 2040, plus
+      another US$345 billion for transmission and distribution. In this context, regional integration is a game changer
+      that could shape the energy landscape of SSA. The study estimates that significantly increasing regional
+      integration could save more than US$40 billion in capital spending, and save the African consumer nearly
+      US$10 billion per year by 2040, as the levelized cost of energy would fall from US$70 to US$64 per megawatt-
+      hour (MWh). The World Bank estimates that power trade within the West Africa Power Pool (WAPP) could
+      lead to cost savings of US$5-8 billion per year, by enabling WAPP countries to benefit from more cost-
+      effective hydro or gas-based imports4. The overall range of cost saving arising from greater regional integration
+      for the beneficiary countries in SSA is estimated to be in the range of US$0.01 to US$0.07 per kWh5 and the
+      cost of electricity could be cut by more than half in many countries in West Africa.
+
+   4. In that context, and particularly for the West Africa sub-region where the demand-supply gap is likely to reach
+      more than 100 GW by 2040, it is fundamental to optimize supply through regional integration that maximizes
+      economies of scale and links sources of supply to distant centers of consumption, as well as the development
+      of cost-efficient sources of supply, such as hydroelectricity.
+
+   5. Faced with the task of expanding the power system to meet development needs of countries in the sub region,
+      the fifteen-member states6 of the Economic Community of West African States (ECOWAS) have
+      acknowledged that past efforts to achieve national self-sufficiency in electricity supply have been uneconomic
+      due to the high cost of establishing power generation and transmission infrastructure at national levels. They
+      have decided instead to opt for a regional approach to effectively address their growing energy needs.
+
+   6. To foster the expansion of regional energy markets, ECOWAS has put in place, in 1999, the West African
+      Power Pool (WAPP), a cooperative mechanism for integrating national power systems (except Cape Verde)
+      into a regional electricity market, with the expectation that this mechanism would help to provide a stable and
+      reliable electricity supply at affordable cost over the medium to long-term. It was created as a “flagship
+      infrastructure project�? of the New Partnership for African Development (NEPAD), aiming to foster the
+      development of electricity in all ECOWAS member states.
+
+           2 Brighter Africa: The growth potential of the sub-Saharan electricity sector: Castellano, A.; Kendall A; Nikomarov. M; Swemmer
+           T; February 2015. McKinsey & Company.
+
+           3 This strong growth of electricity demand results from relatively high economic growth, rapid urbanization, large population
+           increases, and active policies to expand access.
+
+           4 World Bank, 2018. West Africa Power Pool Securitization of Cross-Border Power Trade: A Proposed Way Forward.
+
+           5 Foster, V., Briceño-Garmendia, C. Africa’s Infrastructure: A Time for Transformation, World Bank, 2010.
+
+
+
+           6 Benin, Burkina Faso, Cape Verde, Côte dIvoire, Gambia, Ghana, Guinea, Guinea Bissau, Liberia, Mali, Niger, Nigeria,
+           Senegal, Sierra Leone, and Togo.
+
+
+Apr 29, 2018                                                                                                                            Page 4 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+   7. The Implementation Road Map of the WAPP Infrastructure Program consists of five distinct but mutually
+      reinforcing sub-programs that will converge into a regional power pool as outlined in the table 1 below.
+
+                                              Table 1. The WAPP Infrastructure Program
+               Sub-programs              Countries           Expected Date                         Objectives
+                                                                  of
+                                                             Commissioning
+        Coastal Transmission       Côte d'Ivoire, Ghana,     June 30, 2016      Establish a robust interconnection link between
+        Backbone                   Benin/ Togo, Nigeria                         the ECOWAS Coastal Member States.
+        Inter-zonal Transmission   Burkina Faso &Mali        December 31st,     Establish more secure, reliable transmission
+        Hub                        via Ghana, OMVS via       2018               corridors for transfer of low cost energy to
+                                   Mali, Liberia-Sierra                         displace diesel-based sources especially in
+                                   Leone-Guinea via                             Burkina Faso, through Ghana and Côte d’Ivoire,
+                                   Côte d'Ivoire                                and OMVS (Organisation pour la mise en valeur
+                                                                                du fleuve Sénégal) through Mali.
+        Organisations pour la      Gambia, Guinea,           June 30, 2022      OMVG and OMVS projects interconnect national
+        mise en valeur du fleuve   Guinea Bissau, Mali,      (OMVG)             systems of The Gambia, Guinea, Guinea Bissau,
+        Gambie / Senegal           Senegal                   December 31st,     Mali, and Senegal and secures access to sources
+        (OMVG / OMVS)                                        2022 (OMVS)        of low cost energy to be built on the Gambia River
+        Regional Projects                                                       and the Senegal River.
+        Côte d'Ivoire–Liberia-     Côte d'Ivoire, Liberia,   October    30th,   Interconnect Côte d'Ivoire, Liberia, Sierra Leone,
+        Sierra Leone-Guinea        Sierra Leone, Guinea      2019               and Guinea into the WAPP Energy System and
+        (CLSG) Regional                                                         develop the hydropower resources in the sub-
+        Interconnector                                                          region.
+        North Core/Dorsale Nord    Nigeria, Niger,           December 31st,     Upgrade and extend capacity to transfer low cost
+        Regional Interconnection   Burkina Faso,             2022 (TBC)         energy supply in the short term from Nigeria to
+        Project                    Benin/Togo                                   Niger, Burkina Faso, and northern Benin, and in
+                                                                                the longer term also from Niger to the other
+                                                                                countries.
+
+
+   8. The World Bank has developed a strong partnership with the WAPP and is financing, together with other
+      donors, part of all the above mentioned five WAPP Master Plan sub-programs. It is also supporting the
+      preparation of key generation projects for cost efficient electricity for the region, and assisting member
+      countries to build commercial and technical instruments to create a regional energy market. To channel this
+      support, the Bank uses various instruments including so far: (i) credits/loans, (ii) technical assistance, and (iii)
+      guarantee instruments. The WAPP is on track to finalize the primary interconnectors shown in Figure 1 (which
+      includes both current and planned interconnectors) by the early 2020s, which will significantly change the
+      energy landscape in West Africa.
+
+
+
+                                             Figure 1. Map of the WAPP Infrastructure
+
+
+Apr 29, 2018                                                                                                                Page 5 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+                            OMVG
+
+
+
+
+                                         Guinea-Mali
+                                       Interconnector
+
+
+
+
+                                CLSG
+
+
+
+
+   9. In the context of the WAPP, Mali has experience trading electricity with Mauritania and Senegal through the
+      OMVS system as well as Cote d’Ivoire via a 225 kV transmission interconnection running from Segou in Mali
+      via Koutiala and Sikasso. In fact, imports from those countries represented 35% of Mali’s energy mix in 2016.
+      On the other hand, Guinea has no experience in electricity trading. However, with the power interconnection
+      projects currently under construction, including this project, Guinea will be at the heart of the WAPP system
+      and will be connected to thirteen (13) ECOWAS countries. Currently and in the short term, both Mali and
+      Guinea would import electricity if the interconnectors were available, as both depend partly on expensive
+      rental power to meet their current electricity needs. In the medium to long term, Guinea is uniquely positioned
+      to play an important role in the future regional power market, as it has an estimated hydropower potential of
+      6,200 MW (largely untapped), or more than 10 times the current size of its national grid, under active
+      development.
+
+   10. Guinea’s ambition to, become a net exporter of hydropower to the sub-region will be realized only if it succeeds
+       in developing its hydropower resources at lower cost and exporting electricity at a competitive price. Indeed,
+       potential importers of Guinean hydropower (Senegal, Guinea Bissau, The Gambia, Liberia, Sierra Leone and
+       Mali) have domestic or regional sources of power at higher than USD 0.12 per kWh from gas fired plants,
+       solar energy and coal fired plants. For Guinea to capture part of the regional power market and fully utilize the
+       rapidly expanding regional power transport network under the West Africa Power Pool (WAPP), Guinea will
+       need to be selective in the hydropower plants it develops and focus on those with the capacity to supply
+       electricity all year around at a low cost.
+
+
+   Sectoral and Institutional Context
+
+
+Apr 29, 2018                                                                                                          Page 6 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+   11. Table 2 below summarizes key sector indicators for the two countries.
+
+                                                   Table 2. Key Sector Indicators
+
+                                                                              Guinea         Mali
+
+                                 Access to electricity (% of population)        18%          30%
+
+                                 Number of customers                          250,000       400,000
+
+                                 System losses (%)                              35%          23%
+
+                                 Average electricity tariff ($/kWh)             0.09         0.16
+
+                                 Average cost of service ($/kWh)                0.20         0.25
+
+                                Sources: World Bank Internal Country Engagement Notes for Guinea and Mali, 2017.
+
+
+       Guinea
+
+
+   12. The energy sector in Guinea is currently undergoing a major restructuring towards a full liberalization of the
+       sector, although it currently remains dominated by public sector players. The Ministry of Energy and
+       Hydraulics (MEH) sets the sector’s policy and plays an overarching surveillance role of the sector. The state -
+       owned electricity utility (Electricité de Guinée, EDG), which was created following the failure of the
+       privatization of the sector in the 1990s, is currently under a four-year Management Services Contract (MSC)
+       until October 2019. After the MSC, it is expected that the utility will be operated by local staff who would
+       have benefited from peering and on-the-job training during the MSC period. There are currently two
+       independent power producers (IPPs), the AON Group and ‘La Guinéenne d’Electricité’ GDE. The
+       China International Water & Electric Corporation (CWE) operates the Kaleta hydropower plant. The recently
+       established agency, “Agence Guinéenne d’Electrification Rurale (AGER),�? created on May 9, 2017, will
+       oversee the development of rural electrification programs including decentralized off grid electrification
+       solutions. The law establishing an independent regulator has been adopted by the parliament in November 24,
+       2017 and the GoG is planning to operationalize it in 2018. The electricity law is being updated with the support
+       of the African Development Bank (AfDB) to reflect new developments in the sector and to encourage private
+       sector participation in solar, and eventually in hydropower. A set of regulations will follow to enforce the law
+       in 2018. The Electricity Generation, Transmission and Distribution master plan that will define a least cost
+       generation plan and grid extension plan is being updated with financing from the AfDB.
+
+   13. Despite its vast hydropower potential, Guinea’s energy sector performance has remained below that of regional
+       peers. The official access rate in 2016 stood at 18%, while reaching 29% when including significant proportion
+       of illegal connections (compared to 57% in Senegal, 53% in Cote d’Ivoire and 30% in Mali in 2016). The
+       access rate in rural areas is as low as 3% in rural areas, which is significantly lower than the Sub-Saharan
+       Africa (SSA) average of 15% in rural areas. With these figures of access, electricity demand has grown by
+       13% in 2015 and it is expected to grow at 9 to 10% per annum in the next five years. The installed capacity in
+       2017 is about 630 MW, of which 367.5 MW (59%) is from hydropower plants. In 2016, EDG produced 1531.5
+       GWh to meet the needs of its 246,527 customers, of which 65% live in the capital city of Conakry. About 45%
+       of the energy was produced by the Kaleta hydropower plant (240 MW), 31% by thermal IPPs and 24% by
+       EDG’s legacy power plants, mainly composed of hydropower plants.
+
+
+Apr 29, 2018                                                                                                         Page 7 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+   14. Guinea is now actively developing its hydropower resources with the completion of the Kaleta hydropower
+       project (240 MW) with Chinese financing in 2015 and the ongoing construction of the Souapiti hydropower
+       project (450 MW) also with Chinese support. In addition to those two national hydropower projects, two other
+       regional hydropower projects are under development: the Sambangalou (128 MW) regional hydropower
+       project, being developed by the OMVG on the Gambia river (bordering Senegal and Guinea) with Chinese
+       financing; and the Koukoutamba (294 MW) hydropower project, being developed by the OMVS on the
+       Senegal river. Other projects that are being considered by the Guinean authorities include; Amaria (300 MW);
+       Korafindi (100MW) and Kogbedou-Frankonedou (90 MW). Guinea is also exploring, with support from IFC
+       Advisory, the development by private investors of solar photovoltaic (PV) projects. With the active
+       development of all these projects, it is expected that Guinea will have enough capacity by 2021, once Souapiti
+       is completed, to meet its future national demand and export excess supply on the regional market. Some of
+       the projects under development, as well as the completed Kaleta project, already anticipate the possibility of
+       exporting electricity to the neighboring countries once the transmission interconnection projects are completed
+       by 2020. By doing so, Guinea will be able to quickly capture part of the demand for regional electricity trade.
+
+   15. The transmission line between Linsan and Fomi, which is critical to link the hydropower generation projects
+       in Guinea to the proposed Guinea-Mali interconnection, is at an advanced stage of development. The GoG has
+       already mobilized the required financing from the Industrial and Commercial Bank of China (ICBC). The line
+       will be constructed by CWE, the developer of the completed Kaleta hydropower plant as well as the ongoing
+       Souapiti hydropower plant, and commissioned in 2020 (before the completion of Souapiti). However, should
+       the construction of the Linsan-Fomi line be delayed, the feasibility study determined that between 150 and 230
+       MW could be transited into the interconnector from the CLSG line with export from Côte d'Ivoire (through
+       the Man substation) or/and Guinea (through the Linsan substation).
+
+   16. The IDA funded MSC of EDG is making some progress towards the improvement of the operational
+       performance of the utility. The management contract became effective on October 9, 2015. To date, a few
+       positive results have been achieved, in particular: (i) reduction in the number and duration of power supply
+       interruptions; (ii) reduction of operational expenditures by 32 percent; (iii) increase in generation capacity in
+       rural secondary cities with the installation of 14 small scale power generators; (iv) increase in the annual
+       turnover by 28 percent; and (v) increase in bill collection rate by 19 percent. However, the midterm review of
+       the MSC undertaken in November 2017 revealed that the contractor achieved limited results in improving the
+       commercial performance of the utility and did not make sufficient efforts to build the capacity of the local
+       Guinean staff. The improvement of these two areas have been prioritized for the remaining two years of the
+       MSC. Therefore, the key activities to be managed by the MSC contractor for the next two years include: the
+       installation of smart meters for non-residential large consumers (as part of the implementation of the Revenue
+       Protection Program, which is a prior action of the Bank’s latest DPO and the IMF program) and both
+       prepayment and post payment meters for residential consumers (depending on the preference of the customer);
+       the implementation of an Integrated Management System (IMS) to modernize the management of the utility;
+       and the rehabilitation of distribution and connection infrastructures to reduce system losses to within SSA
+       averages or lower. The MSC is also committed to improve bill collection (currently at 79 percent). To build
+       the capacity of the local staff of EDG, the MSC has developed a human resources capacity building plan which
+       includes specific training sessions, on-the-job training through industrial attachment in better performing
+       utilities in Africa, voluntary retirement and/or separation packages, etc. The plan will be implemented during
+       the year 2018.
+
+   17. The Additional Financing to the Power Sector Recovery Project (P160771), approved by the Board on March
+       16, 2018, will further the achievement of the parent project’s PDO, which is to improve technical and
+       commercial performance of EDG, by financing critical activities identified by the Internal Recovery Plan of
+
+
+Apr 29, 2018                                                                                                          Page 8 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       EDG (2016-2020) which was adopted by the GoG in October 2017. These activities include: the construction
+       of a new substation in Kissosso to upgrade the distribution network in Conakry; the installation of smart meters
+       for large consumers as part of the implementation of a Revenue Protection Program and installation of regular
+       electronic meters for low voltage consumers; the implementation of a capacity building program for the local
+       staff of EDG; and the financing of additional experts’ time for the implementation of the MSC.
+
+
+   18. EDG is in a critical financial situation as electricity tariffs are far from being cost reflective. Guinea’s power
+       sector faces a quasi-fiscal deficit7 of 2.1 percent of the country’s GDP. This is higher than the 0.9 percent
+       average of 39 countries in Sub-Saharan Africa - excluding South Africa. It is also large in comparison to the
+       central government’s fiscal deficit (6.9 percent of GDP in 2015) and education expenses (3.2 percent of GDP
+       in 2014). The project is expected to improve the financial situation of the utility through the generation of hard
+       currency revenues from exports to EDM, in addition to providing reliable and affordable electricity service to
+       the cities of Siguiri, Kankan, Kerouané, Beyla and Nzerekore, currently being supplied with expensive
+       standalone thermal power generators. Furthermore, the Electricity Access Scale up Project (P164225), which
+       is under preparation, with the objective to expand the access rate from the current 18% to 36% in the next four
+       years, will contribute to the improvement of the financial situation of EDG as it will regularize the illegal
+       connections in Conakry and in the regional cities (about 11% of the population) and hence reduce the
+       commercial losses of the utility. In addition to the above-mentioned project, the GoG concluded a program
+       with the IMF which includes about 25% electricity tariff increase for industrial and professional category and
+       10% electricity tariff increase for residential and tertiary category as part of gradual tariff adjustments to
+       improve the financial viability of EDG.
+
+       Mali
+
+
+   19. Energie du Mali S.A (EDM) is the vertically integrated electricity utility of Mali that has monopoly over power
+       transmission and distribution, while generation is open to the private sector. Since 1989, a variety of models
+       have been experimented for the management of EDM. This includes a performance contract model (1989 –
+       1994), a management contract model (1995–1999), and a concession contract model. In 2000, the concession
+       was awarded to a consortium formed by SAUR International (SAUR) and Industrial Promotion Services West
+       Africa S.A (IPS (WA)).8 A fundamental disagreement between the GoM and SAUR emerged because of
+       divergent interpretations of the contractual obligations of each party concerning required investments and tariff
+       adjustments, which led to SAUR’s departure from the company in October 2005. Since then, the GoM is the
+       majority shareholder of EDM with 66 percent of the shares, while IPS (WA) holds the remaining 34 percent.
+       EDM’s concession covers urban areas only. EDM is the single buyer for power supplied by independent power
+       producers (IPPs).
+
+   20. The Malian Rural Electrification Agency (Agence Malienne pour le Développement de l'Energie Domestique
+       et l'Électrification Rurale, AMADER), created in 2003, supplies electricity to rural areas through a public-
+       private partnership (PPP) approach, whereby rural electrification concessions are granted to private operators.
+
+   21. Significant progress has been made in increasing access in Mali, with access to modern energy services
+       reaching about 30% nationally, corresponding to an access rate of 55% in urban areas and 18% in rural areas.
+       In fact, the access rate in rural areas has increased ten-fold from about 1-2% to 18% in less than a decade.
+
+           7   The difference between the net revenue of an efficient utility and the net cash it collects.
+           8   IPS (WA) is an entity of the Aga Khan Fund for Economic Development.
+
+Apr 29, 2018                                                                                                           Page 9 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       Households still mainly rely on fuelwood for cooking, and wicks and kerosene lamps for lighting. The use of
+       these traditional fuels poses both health and environmental hazards while requiring time-consuming foraging
+       by women and children, and providing inadequate levels of service.
+
+   22. Total domestic installed generation capacity connected to the grid stands at 479 MW, although in 2016 only
+       about 250 MW was available mainly due to lack of maintenance of existing generation facilities, resulting in
+       breakdowns. Additionally, isolated centers in areas located far away from the grid are being served with stand-
+       alone thermal generation units totaling an installed capacity of 57 MW. The demand for electricity in Mali is
+       increasing on average by 10% per year. To serve that fast-growing demand, EDM has largely relied on
+       expensive rental containerized diesel units, which have reached an aggregated installed capacity of 98 MW in
+       2016 (that is, 28% of grid-connected available capacity, including the capacity of rentals)9. Despite these
+       expensive efforts, planned and unplanned outages have increased sharply in recent years in both frequency and
+       duration. Moreover, total losses (including technical and commercial losses) have increased from 19.6% in
+       2011 to close to 22.6% in 2015, mainly due to the lack of investment in the rehabilitation of the network.
+       Therefore, the unreliability of the existing generation facilities, the delays in procurement of new generation
+       facilities, the limited investments in the network, and the fast pace of new customer connections leading to
+       network densification have all contributed to the deterioration in the quality of service, while costs have
+       continued to rise.
+
+   23. Mali is heavily dependent on expensive thermal generation (more than 50% of its energy mix) and is in dire
+       need to diversify its sources of energy. Mali has until recently relied on expensive rental diesel units to meet
+       its fast-growing demand, but that approach comes with a high financial cost. While Mali is embarking on the
+       development of its solar resources, it does not have sufficient large-scale hydropower resources left to exploit
+       and it does not have any known exploitable gas resources; therefore, the most feasible alternative for Mali to
+       lower the cost of electricity in the short to medium term is to increase the import of electricity from its
+       neighboring countries. With this project, Guinea and Cote d’Ivoire though the CLSG will play a strategic role
+       in helping Mali diversify its energy mix and lower its cost of power generation, therefore contributing to the
+       financial equilibrium of the sector.
+
+   24. The timely construction of the Sanankoroba substation is critical to supply power to the area of Bamako
+       through this interconnection project. While the construction of the Sanankoroba substation, which is part of
+       the Sikasso-Bougouni-Sanankoroba 225kV transmission line project, is being financed by BOAD and the
+       Indian Exim Bank, the Bank will consider financing it, in case the said financing does not materialize.
+
+
+   25. Furthermore, with the supply of significant amount of power from Guinea towards Mali through this
+       interconnection project, the Malian grid will need to be reinforced, particularly around the capital city of
+       Bamako, to ensure that the energy supplied to the Malian national grid is absorbed and distributed all the way
+       to the end users. In that regard, EDM, with assistance from the French Development Agency AFD is preparing
+       technical feasibility as well as environmental and social studies for the construction of a 225 kV transmission
+       ring around Bamako. The transmission ring will be composed of four new 225/30 kV substations (Kodialani,
+       Kati, Dialakorodji and Dialakorobougou) and the associated 225 kV transmission lines and will create four
+       infeed points for the import of electricity from the Guinea-Mali interconnection towards the the Malian grid,
+       particularly in the area of Bamako. The studies for the transmission ring are expected to be completed by
+
+           9 Oil-based generation products are imported and especially costly given that Mali is a landlocked country connected to
+           neighboring countries’ ports through relatively poor transport infrastructure.
+
+
+
+
+Apr 29, 2018                                                                                                                         Page 10 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       December 2018. The Bank will consider providing additional financing to this project to finance part of the
+       225 kV transmission ring around Bamako once the studies are completed.
+
+
+   26. The financial situation of EDM has been undermined by high production costs as well as high technical and
+       commercial losses. As the country relies heavily on expensive imported fossil fuels for power generation, the
+       average cost of electricity service to the end users is estimated at $0.25 per kWh. On the other hand, the
+       electricity tariff stands at $ 0.16 per kWh on average and is not cost reflective. Despite that, the tariff is
+       considered high for the average Malian household and business. On the other hand, EDM has been making
+       losses totaling $100 million in 2015. EDM received a total subsidy amounting to US$73.6 million in 2015,
+       translating into a subsidy of US$ 0.055 per kWh. Facing increasing liquidity challenges, EDM has been relying
+       heavily on short-term borrowing to meet its obligations and has delayed payments to fuel and power suppliers,
+       including neighboring countries such as Côte d’Ivoire. EDM’s profitability depends upon its ability to reduce
+       its cost of service by reducing its dependency on rental power and expensive HFO-fired generation and
+       improve its operational efficiency along the value chain.
+
+   27. In an effort to address the challenges in the sector and restore it profitability, EDM has set up a new
+       organization in January 2017 to: (i) reinforce the control and the fight against fraud through the creation of a
+       new internal audit position; (ii) strengthen the strategic planning function by strengthening the prerogatives of
+       the Studies and Strategic Planning Department; (iii) optimize the procurement of supplies, assets and fuel
+       through the creation of a Procurement Department; (iv) strengthen the information and management / data
+       security systems through the creation of an Information System Department; and (v) improve the level of
+       recoveries through the establishment of a department dedicated to that task. Finally, EDM has developed an
+       emergency plan that has been under implementation since January 2017. The plan aims at: rehabilitating
+       several power plants, including Sirakoro (56 MW), Balingue (33 MW), Sélingué (49 MW) and Sotuba (6
+       MW); rehabilitating and strengthening several transport and distribution substations; improving billing and
+       collection; increasing the capacity of the existing interconnections with Cote d'Ivoire (from 40 to 75 MW) and
+       Senegal and Mauritania (from 20 to 60 MW). In April 2018, the Bank agreed to review EDM’s domestic
+       commercial debt and advise the utility on a financial sustainability plan.
+
+   28. The Mali Electricity Sector Improvement Project (P166796), which is under preparation, aims at improving
+       the operational performance of the power utility, EDM-S.A., and expanding electricity access in selected areas
+       of the country. The project will finance among others, the rehabilitation, the reinforcement, and the expansion
+       of the transmission and distribution network in Bamako to reduce technical and commercial losses, improve
+       the quality of supply, and increase access to electricity services. The ongoing IDA-funded Mali Energy Support
+       Project (P108440) aims to improve the access and efficiency of electricity services in Bamako and other
+       targeted (grid-connected) areas in the country (including reducing losses and improving revenue collection
+       with the implementation of a revenue protection program).
+
+   29. The Electricity Subsidy Reform Study in Guinea, Mali, and Togo (P166128) will also undertake the analytical
+       work required to guide the Governments of Guinea and Mali on the implementation of further sector reforms
+       to increase the performance of EDG and EDM and ultimately reduce the government subsidies to the sector.
+
+
+
+
+   C. Proposed Development Objective(s)
+
+
+
+Apr 29, 2018                                                                                                         Page 11 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+  Development Objective(s) (From PAD)
+  The Project Development Objectives are to: (i) increase electricity supply to the Eastern part of Guinea; (ii) enable
+  electricity trade between Guinea and Mali; and (iii) increase Guinea’s electricity export capability towards other West
+  African Power Pool countries.
+
+
+   Key Results
+
+
+   D. Project Description
+
+
+
+   30. The proposed Guinea Mali Interconnection Project starts in N’Zérékoré, in Guinea, near the Liberian border,
+       stretches across the eastern part of Guinea from south to north, through Fomi and crosses the Malian border
+       into Sanankoroba in Mali. The interconnector is complementary to the Cote d’Ivoire, Liberia, Sierra Leone
+       and Guinea (CLSG) Power System Re-Development (P113266), the OMVS Transmission Expansion
+       (P147921) and the OMVG Interconnection (P146830) projects being financed by the Bank. Indeed, the Guinea
+       Mali Interconnection Project will be connected to: the CLSG system through the future N’Zérékoré substation
+       in Guinea (to be constructed by the ongoing CLSG Power System Re-Development Project and extended with
+       the construction of a new bay under this project); the OMVS system through the Sanankoroba substation in
+       Mali (to be constructed by the ongoing Sikasso-Bougouni-Sanankoroba 225 kV transmission line project and
+       extended with the construction of a new bay under this project); and the OMVG system through the future
+       Fomi substation (to be constructed under the project) and the future Linsan-Fomi line in Guinea (to be
+       constructed by the Guinean government with secured financing from China – the Linsan substation will be
+       constructed under the CLSG Power System Re-Development Project). All these connections will contribute
+       to the realization of Guinea’s electricity export potential towards West Africa Power Pool countries.
+
+   31. The proposed project includes two components. The first component is dedicated to the construction of the
+       transmission line and associated substations. The second component will provide implementation support and
+       technical assistance to the PIUs in the two participating countries to assist them to effectively implement the
+       project and ensure the sustainability of its results.
+
+
+   32. To partly mitigate the environmental and social impacts of the project, the AfDB, IsDB and EU are financing
+       the electrification of 201 rural communities located along the line route (121 in Guinea and 80 in Mali) through
+       the 225/33 kV substations that will be constructed under the project. This will provide reliable and affordable
+       access to electricity to the local populations in those communities, and contribute to the social development of
+       the local population directly affected by the project, a key initiative to ensure strong citizen engagement
+       ownership in the project. Since the Bank is already considering financing the ECOWAS-Regional Electricity
+       Access Project (P164044), which includes Guinea and Mali and will be complementary to this component, it
+       is not participating to the financing of that initiative.
+
+
+   33. The project’s main components are described below.
+
+
+   Component 1: Power Transmission Infrastructure (Project US$ 343.8 million, of which IDA Credit US$
+   71.8 million)
+
+Apr 29, 2018                                                                                                        Page 12 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+   34. This component finances the construction of the power transmission infrastructure (lines and substations)
+       between Guinea and Mali.
+
+       Sub-component 1-A: Construction of the Transmission Interconnector (Project US$ 317.3 million, of which
+       IDA Credit US$ 61.6 million)
+
+
+   35. This sub-component involves the construction of 714 km 225 kV double circuit transmission line from
+       N’Zérékoré in Guinea to Sanankoroba in Mali as well as the construction of five substations in Guinea (Fomi,
+       Beyla, Kankan, Kerouane, Siguiri) as well as the extension of one substation in Guinea (N’Zérékoré, planned
+       to be built under the CLSG Power System Re-Development Project) and one in Mali (Sanankoroba). The 225
+       kV high voltage transmission line will be equipped with double circuit, one earthwire and one Optical Fiber
+       Ground Wire (OPGW). The OPGW will provide grounding and communication capabilities to the line. This
+       component includes also the substations: (i) the SCADA/telecommunication equipment and (ii) the
+       compensation equipment (Reactance, Capacitor Bank and SVC). IDA will finance the extension of the
+       substation in Sanankoroba, the construction of a portion of the transmission line between the Mali/Guinea
+       border and Siguiri (53.7 km), as well as the construction of new substations in Siguiri, Kankan and Kerouane.
+       This sub-component will be co-financed with African Development Bank (AfDB), European Union (EU),
+       European Investment Bank (EIB), Islamic Development Bank (IsDB), ECOWAS Bank for Investment and
+       Development (EBID) and West African Development Bank (BOAD).
+
+       Sub-component 1-B: Implementation of the Environmental and Social Management Plans (ESMPs) and
+       Resettlement Action Plans (Project US$ 26.5 million, of which IDA Credit US$ 10.2 million)
+
+
+   36. The cost of the implementation of the Resettlement Action Plans (RAPs) will be financed by the respective
+       Governments as part of their counterpart financing. The costs of the implementation of all the aspects of the
+       Environmental and Social Management Plans (ESMPs) - other than the implementation of the RAPs - will be
+       financed by the donors. Environmental mitigation measures under the Environmental and Social Management
+       Plans (ESMPs) will be included in the construction contract. IDA will finance the cost of the ESMP in Guinea.
+       The cost of the ESMP in Mali will be financed by BOAD.
+
+   Component 2: Implementation Support and Capacity Building (Project US$ 37.0 million, of which IDA
+   Credit US$ 12.2 million)
+
+
+
+       Sub-component 2-A: Implementation Support (Project US$ 29.8 million, of which IDA Credit US$ 5.5
+       million)
+
+
+   37. In each country, a Project Implementation Unit (PIU) will be responsible for implementing the portion of the
+       project located in that country. This subcomponent will finance the procurement of one owner’s engineer for
+       the whole project. The owner’s engineer, financed by the EU and BOAD (with terms of reference reviewed
+       and approved by the Bank), will coordinate and assist the PIUs in the two countries with: (i) overall project
+
+
+Apr 29, 2018                                                                                                     Page 13 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       management and supervision of the procurement, design, construction and preparation for operation and
+       maintenance of the complete investment, including the full transmission line, construction and upgrade of
+       substations; (ii) supervision and monitoring of the implementation of the Environmental and Social
+       Management Plans (ESMPs) and the Resettlement Action Plans (RAPs), based on an agreed monitoring plan.
+
+   38. This sub-component will also provide support to operationalize the implementation arrangements for the
+       project. In addition to the two PIUs, a joint implementation steering committee will guide the implementation
+       of the project during the construction phase. This sub-component will among others cover the operating costs
+       of the two PIUs in the two countries during the construction of the line. It will provide support for setting-up
+       the PIUs, including setting up of systems such as procurement and financial management systems and
+       recruitment of staff, and the operational costs (per diems, acquisition of vehicles, office supplies, furniture and
+       hardware/software, etc.) during the construction phase. It will also support the logistical expenses related to
+       the organization of the joint implementation steering committee meetings. IDA will finance part of these costs.
+
+       Sub-component 2-B: Capacity Building (Project US$ 7.2 million, of which IDA Credit US$ 6.7 million)
+
+
+   39. This sub-component will finance the competitive recruitment of engineers highly experienced in implementing
+       225 kV or more transmission line projects who will reinforce the capacity of the PIU in Guinea as well as the
+       carrying out of specialized studies as required. It will also support some analytical work to strengthen the two
+       countries’ institutional and regulatory framework to facilitate the trade of electricity between them. This
+       subcomponent will also finance the supply of equipment and tools to strengthen the capacity of the two utilities
+       to operate and maintain the interconnected grid and it will finance specific training of the staff involved in
+       operations and maintenance. Finally, this subcomponent will support the commercialization of the excess
+       capacity of the fiber optic associated with the interconnection line. IDA will finance part of these costs.
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+   40. A Memorandum of Understanding (MoU) was signed on June 21, 2017 between the governments of the two
+       countries to combine their efforts for the construction of the power transmission line to interconnect the two
+       power systems and exchange energy between them. The MoU confirms the willingness of the two countries
+       to trade energy and authorizes the two utilities, EDG and EDM, to execute a Power Purchase Agreement
+       (PPA). While the negotiation of a PPA will require some time and support (some technical assistance is
+       provided by the project in that regard), the two countries have agreed to sign by 31 December 2018 a term
+       sheet describing broadly the commercial terms of the energy exchange, including a commitment on a range of
+       quantity and price for the energy, which will govern the negotiation of a PPA.
+
+   41. In each country, the Ministry in charge of Energy, through its National Directorate for Energy, will be the
+       executing agency for the project. The Directorates will delegate the implementation of the project to two
+       Project Implementation Units (PIU) hosted in the two national utility companies, EDG and EDM. Each PIU
+       will be responsible for implementing the portion of the project located in its country.
+
+   42. The PIUs will more precisely be responsible for, among others: carrying out the bidding process for the works;
+       supervising the implementation of the project; coordinating the activities of the various stakeholders, including
+       consultants, manufacturers, installers, inspection services and all the public services concerned; approving
+       technical documents; ensuring sound financial management of the project; preparing progress reports,
+
+Apr 29, 2018                                                                                                           Page 14 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+       coordinating the commissioning of the project once completed; and ensuring the smooth handing over of the
+       facilities to the two utilities that will be in charge of operating and maintaining them.
+
+   43. The PIUs are composed of existing staff from the public utilities, EDG and EDM, and the National Directorate
+       for Energy in the Ministry in charge of the energy sector in each country. They will be reinforced, as needed,
+       by consultants who will be procured and financed under the project. An owner’s engineer will assist the two
+       PIUs in supervising and coordinating the construction works for the entire project in both countries.
+
+   44. A joint implementation steering committee composed of five representatives from Guinea, five representatives
+       from Mali, one representative from the WAPP and one representative from the owner’s engineer has been
+       created to guide and coordinate the implementation of the project during the construction phase, from
+       procurement activities to the supervision of works and management of the project resources, as well as to
+       ensure the smooth commissioning and handing over of the resulting facilities to the respective national utilities
+       who will own the respective portions of the line in their territory and be responsible for its operation and
+       maintenance. The joint implementation steering committee will meet quarterly. The venue of the meeting will
+       alternate between the two countries and the meeting will be chaired by the representative of the national
+       directorate for energy of the country where the meeting is taking place.
+
+
+   45. More precisely, the joint implementation steering committee will among others: guide and coordinate the
+       project stakeholders in carrying out the studies and works related to the construction of the interconnection
+       line and related substations; supervise and coordinate the activities of the PIUs in the two countries; guide and
+       coordinate the project stakeholders in carrying out the studies and works related to the construction of the
+       interconnection line and related substations; resolve any issues / disagreements arising between the PIUs; and
+       prepare the transition to the operation phase.
+
+
+   46. The structure of the implementation arrangements is depicted in Figure 2. More details are provided in Annex
+       2.
+
+
+   47. In addition to being represented in the joint implementation steering committee, the WAPP secretariat will be
+       playing an active role to ensure that the different parties, including the beneficiaries and the donors, are well
+       coordinated. Furthermore, as the lead financier, the AfDB, in coordination with the WAPP, will organize
+       monthly donors meeting to report on each donor’s progress and ensure proper coordination.
+
+
+
+
+                                       Figure 2. Implémentation Arrangements Structure
+
+
+
+
+Apr 29, 2018                                                                                                         Page 15 of 25
+            The World Bank
+            Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will cover two neighboring countries Guinea and Mali, spanning over a 714 km and 225 kV
+      double circuit transmission line between N’Zerekore (Guinea) and Sanankororba (Mali), including the
+      construction or extension of 7 substations and the electrification of several rural communities living along
+      the T-line route. In Guinea, the transport line will involve two administrative regions (Kankan and
+      Nzerekore), 7 divisions, 21 rural communes and 4 urban communes for a total 592 km. The Post stations will
+      be built close of the following cities Siguiri, Fomi, Kankan, Kerouane, Beyla and Nzerekore. In Mali, the
+      project will cover one key region (Koulikoro) and two circles (Kangaba and Kati) for 140 km. The two
+      countries crossed by a network of (over 732 km) present sensitives areas that will be negatively impacted by
+      the project.
+
+
+
+      G. Environmental and Social Safeguards Specialists on the Team
+
+      Cheikh A. T. Sagna, Social Safeguards Specialist
+      Emeran Serge M. Menang Evouna, Environmental Safeguards Specialist
+
+
+
+
+Apr 29, 2018                                                                                                   Page 16 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+   Safeguard Policies                          Triggered?   Explanation (Optional)
+                                                            The policy is triggered as the project will cover more
+                                                            than 714 km and will imply civil works (stations and
+                                                            sub-stations, Transmission and distribution lines)
+                                                            including clean up of the right of way, installation of
+                                                            work campsand material storage, production of
+  Environmental Assessment OP/BP 4.01          Yes          wastes, as well as tree and vegetation trimming, etc.
+                                                            The two governments have already prepared two
+                                                            ESIAs/ESMPs reports that were reviewed and
+                                                            cleared by the Bank and national environmental
+                                                            agencies and disclosed both in-country and at World
+                                                            bank website prior to project appraisal.
+  Performance Standards for Private Sector
+                                               No           This project does not require OP/BP 4.03.
+  Activities OP/BP 4.03
+                                                            The policy is triggered as the project right-of-ways
+                                                            (ROW) will have potential adverse impacts in some
+                                                            critical natural habitats .The ESIAs prepared by the
+                                                            two countries identified several endangered species
+                                                            in the project areas of influence. Several
+                                                            ornithology's sites of importance were listed in Mali
+                                                            and Guinea. RAMSAR sites were also identified close
+                                                            of the ROW in Guinea section of the project. The
+  Natural Habitats OP/BP 4.04                  Yes
+                                                            ESMPs proposed relevant measures to protect
+                                                            endangered species. The two governments will
+                                                            prepare and implement relevant RAMSAR action
+                                                            plans in all RAMSAR sites identified by the
+                                                            ESIAs/ESMPs, to comply with the convention
+                                                            requirements. This will be done during project
+                                                            implementation prior the physical start of civil
+                                                            works.
+                                                            The policy is triggered as the ESIAs reports in the tow
+                                                            countries found that 2364 hectares likely be cleaning
+                                                            up in Guinea and 570 hectares of Savannah , fallow
+                                                            and farms ( in Mali) will be cleaned up for the
+                                                            project purpose. The two governments envisage to
+  Forests OP/BP 4.36                           Yes
+                                                            re-afforest an equivalent if not greater surface as an
+                                                            ecosystem mitigation measure. Relevant mitigation
+                                                            measures were described in the ESMPs. Specific
+                                                            mitigation measures will be included in the
+                                                            Contractors ESMPs during project implementation.
+                                                            The policy is not triggered as the project does not
+  Pest Management OP 4.09                      No
+                                                            anticipate acquiring pesticides. The iron/concrete
+
+
+Apr 29, 2018                                                                                             Page 17 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+                                                            pylons will be built without requiring pretreatment
+                                                            for termites or rodent insects.
+                                                            The policy is triggered as several cultural sites have,
+                                                            so far, been pre-identified in the project areas along
+                                                            the T & D-lines; and the ESIAs reports have proposed
+  Physical Cultural Resources OP/BP 4.11       Yes
+                                                            relevant mitigation measures, such as the use of
+                                                            “Chance Finds�? protocols and relevant protection
+                                                            measures of the sites identified by the studies.
+                                                            The policy is not triggered as no Indigenous Peoples,
+  Indigenous Peoples OP/BP 4.10                No           as per World Bank definition, have been identified in
+                                                            the project areas in the two countries. .
+                                                            The policy is triggered as the project foreseen
+                                                            activities will require land acquisition along both the
+                                                            T and D-line as well as for the construction of
+                                                            stations and substation and workers and material
+                                                            storage camps in both countries, which will lead to
+                                                            loss of assets and/or restriction of access to various
+                                                            means of livelihood upon which affected and/or
+                                                            project riparian communities would depend heavily;
+                                                            hence resulting in the payment of compensation
+                                                            whether or not project affected persons may have to
+                                                            move. The two Government have, with the support
+                                                            of the ongoing regional program of OMVG between
+                                                            2013 and 2014, two RAPs to comply with the core
+  Involuntary Resettlement OP/BP 4.12          Yes
+                                                            requirement of OP/BP 4.12 policy.
+                                                            The two RAPs finalized in 2015 were reviewed by the
+                                                            Bank who recommended an update of the censuses
+                                                            and subsequent RAPs. Both Governments have
+                                                            committed to update the censuses prior to the
+                                                            physical start of civil works. The task team will make
+                                                            sure that this condition will be met.
+                                                            The 2015 versions of two RAPs were therefore
+                                                            disclosed in each country and at the Bank Website.
+                                                            Once revised as committed by the two governments,
+                                                            the two revised RAPs will be disclosed both in
+                                                            country and at the Bank Website prior to the
+                                                            physical start of civil works.
+                                                            This policy is not triggered as the project activities
+                                                            are not intended to build a new dam nor draw
+                                                            energy from existing and specific hydro-power dams.
+  Safety of Dams OP/BP 4.37                    No
+                                                            The project is aimed to promote interconnection,
+                                                            improvement of existing network in the two
+                                                            countries.
+  Projects on International Waterways                       This policy is not triggered as the project activities
+                                               No
+  OP/BP 7.50                                                are not related to electricity production but only
+
+
+Apr 29, 2018                                                                                             Page 18 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+                                                                      distribution and improvement of existing network in
+                                                                      the two countries.
+                                                                      This policy is not triggered as the project activities
+  Projects in Disputed Areas OP/BP 7.60          No                   are not expected to be implemented in the disputed
+                                                                      areas as defined in this policy.
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+   A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The ESIAs/ESMPs reports prepared by the two Governments (Mali and Guinea) identified the key safeguards issues
+  and impacts associated with the project. As the project will cover more than 714 km and will imply civil works (stations
+  and sub-stations, Transmission and distribution lines), the ESIAs helped in the identification and characterization of
+  adverse and positive impacts and risks.
+
+  The relevant negative impacts are the following: ecosystem fragmentation, labor influx, land acquisition, water
+  pollution due to poor use of fuel, vegetation destruction, ornithology sites disturbance, Gender Based Violence,
+  HIV/STI, destruction of farms, soil erosion; RAMSAR sites exposure, forest cleanup of about 2364 hectares in Guinea
+  and 570 hectares of Savannah, fallow and farms in Mali, risk of accidents, risk of electrocution, production and poor
+  management of hazardous wastes.
+
+  The ESIAs/ESMPs also evaluated the cumulative impacts and the most important was the project GHG contribution. In
+  Guinea, the project will contribute to GHG emission by 690,157 TeqCO2 during 40 years and 119,550 TeqCO2 in Mali
+  during 40 years.
+
+  The most positive impacts identified, are related to job creation during the construction phase, and possibly during
+  operationalization, and the access to electricity to several people in the two countries.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  The most potential indirect and long term impact to anticipate will be the risk of encroachment and creation of new
+  settlements along or close of the project Right of Ways due mainly to the electricity access facility that the project will
+  create.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  During the preparation of the ESIAs/ESMPs and RAPs, the most relevant alternatives were proposed in terms of
+  project Right of ways. Most of the sensitive areas were rerouted to reduce negative impacts on RAMSAR sites. During
+  the execution studies, corrections will also be suggested to reduce negative impacts of the project.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  The two governments prepared two ESIAs/ESMPs reports since 2015 that were reviewed by the Bank and national
+  environmental agencies. The two ESIAs/ESMPs reports were updated after the Bank comments and disclosed both in-
+
+
+Apr 29, 2018                                                                                                        Page 19 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+  country and at World bank website prior to project appraisal. The two ESIAs reports identified the key positives and
+  negative impacts including the project contribution to GHG emission. The two countries prepared two robust ESMPs
+  that proposed relevant mitigation measures.
+
+  The two Governments have, with the support of the ongoing regional program of OMVG between 2013 and 2014, two
+  RAPs to comply with the core requirement of OP/BP 4.12 policy.The two RAPs finalized in 2015 were reviewed by the
+  Bank who recommended an update census. Both Governments have committed to update the census prior to the civil
+  works. The task team will make sure that this condition will be met.
+
+  Institutional arrangement for safeguards implementation: Each country involved in the project will have its own
+  Project Implementation Unit (PIU):
+
+  For Mali, Electricité du Mali, Société Anonyme (EDM SA) will be the implementing agency. Even though EDM SA has
+  been implementing several Bank-financed projects, its capacity in safeguards implementation remains limited, and
+  thus needs to be further strengthened. It was therefore agreed to strengthen the existing EDM social and
+  environmental and social safeguards unit comprised of one full time environmental safeguards specialist and one full
+  time social safeguards specialist with experience in gender. Both Environmental and Social Safeguards Specialists will
+  be supported by an International Senior Social and Environmental Safeguards Specialist during a three-year period to
+  strengthen their expertize and design,build and foster their in-house technical capacity on safeguards. The 3-person
+  safeguards team will work in tandem and closely with DNACPN, the national environmental agency at the Ministry of
+  Environment, Sanitation and Sustainable Development and the World Bank Safeguards Specialists to ensure that
+  environmental and social safeguards are properly addressed during project implementation.
+
+  For Guinea, Electricité de Guinée, Société Anonyme- (EDG SA) will be the implementing agency. They are currently
+  implementing several Bank-financed projects but their safeguards capacity continues to be limited, and thus needs to
+  be further strengthened. It was therefore agreed to strengthen the existing EDG environmental and social safeguards
+  unit comprised of one full time environmental safeguards specialist and one full time social safeguards specialist with
+  experience in gender by hiring an international Senior Social and Environmental Safeguards Specialist during a three-
+  year period to strengthen their expertize and design, build and foster their in-house technical capacity on safeguards.
+  The 3-person safeguards team will work in tandem and closely with BGEE, the national Environmental Agency at the
+  Ministry of Environment, Waters and Forests and the World Bank Safeguards Specialists to ensure that environmental
+  and social safeguards issues are properly addressed during project implementation.
+
+  Furthermore, this project will serve as an opportunity for both implementing agencies to build and strengthen their in-
+  house capacity on broader social and environmental safeguards aspects directly relevant to the energy sector, such as
+  environmental management, land acquisition and involuntary resettlement, grievance redress mechanism,
+  stakeholders engagement, as well as systematic screening of subprojects, preparation of site specific safeguards
+  documents, safeguards monitoring and reporting, etc. Hence, the two international Senior Social and Environmental
+  Safeguards Specialists will respectively support EDG and EDM to design, build, train and foster a robust internal
+  Environmental and Social Safeguards Management Unit, both at central and regional levels, that will support EDM and
+  EDG in properly managing safeguards related risks and impacts of their operations.
+
+  The Project Implementation Manuals will detail the safeguards implementation process including reporting
+  mechanism.
+
+  Grievance Redress Mechanism: Both the ESIA/ESMPs and the RAP prepared by the two governments have
+
+Apr 29, 2018                                                                                                    Page 20 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+  incorporated a detailed chapter on Grievance Redress Mechanism (GRM). This will be fully implemented and
+  monitored during the whole project life cycle.
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  Consultation and disclosure: During the preparation of the ESIAs/ESMPs and RAPs in 2015, the two governments
+  conducted an intensive consultation process with the main stakeholders in both countries.
+  The ESMPs prepared by the two governments have very detailed stakeholder consultation and communication plans.
+  These consultation and communication will be implemented and monitored during the whole project life cycle.
+
+  In Mali, the ESIA/ESMP identified the following key stakeholder:
+  •        EDM
+  •        Direction Nationale l’Assainissement et du Contrôle des Pollutions et des Nuisances (DNACPN)
+  •        Direction Nationale de l'Energie (DNE)
+  •        Le chargé des questions Foncières et Domaniales ;
+  •        Direction Nationale des Eaux et Forêt DNEF
+  •        Chambre Régionale de l’Agriculture
+  •        Direction Régionale de la Réglementation et du Contrôle
+  •        Agence Malienne pour le Développement de l'Energie Domestique et de 1'Electrification Rurale (AMADER)
+  •        Direction Nationale du Patrimoine Culturel (DNPC)
+  •        Mission Culturelle de Kangaba
+  •        Agence pour l’Environnement et le Développement Durable (AEDD)
+  •        Direction Régionale de la Santé (DRS)
+  •        Direction Régionale de l'Hydrauliques et de l'Energie (DRHE)
+  •        Direction Régionale de l'Energie
+  •        Société civile ;
+  •        Direction Régionale du Génie Rural
+  •        Organisations non Gouvernementales ;
+  •        Maires Communaux et Ruraux concernés par le projet ;
+  •        Présidents de Conseil de Cercle (Kangaba et Kati)
+  •        Représentant des jeunes pour chaque Commune Urbaine et Rurale concernée par le projet ;
+  •        Représentante des femmes pour chaque Commune Urbaine et Rurale concernée par le projet ;
+  •        Représentants des Groupements de Producteurs par Commune Urbaine et Rurale;
+  Parteniares techniques et financiers.
+
+  In Guinea, the ESIA/ESMP identified the following key stakeholder:
+  EDG SA;
+  BGEE;
+  Sous-préfectures et mairies;
+  ONG, groupements et programmes ;
+  Direction Nationale de l’Energie;
+  •       Direction régionale ou préfectorale de l’Environnement des Eaux et Forêts;
+  •       Direction régionale ou préfectorale de l’Habitat et de l’Urbanism;
+  •       Direction régionale ou préfectorale de l’Agriculture;
+  •       Direction régionale ou préfectorale de l’Elevage;
+  Parteniares techniques et financiers
+
+Apr 29, 2018                                                                                                 Page 21 of 25
+                                        The World Bank
+                                        Guinea – Mali Interconnection Project (P166042)
+
+
+
+
+          B. Disclosure Requirements
+
+            OPS_EA_DISCLOSURE_TABLE
+            Environmental Assessment/Audit/Management Plan/Other
+                                                                                                            For category A projects, date of
+                Date of receipt by the Bank                            Date of submission for disclosure    distributing the Executive Summary of
+                                                                                                            the EA to the Executive Directors
+                18-Apr-2018                                            07-May-2018
+
+                "In country" Disclosure
+
+
+
+            OPS_RA_D ISCLOSURE_T ABLE
+
+
+
+
+            Resettlement Action Plan/Framework/Policy Process
+
+                Date of receipt by the Bank                             Date of submission for disclosure
+                18-Apr-2018                                             07-May-2018
+
+                "In country" Disclosure
+
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          Yes
+          If yes, then did the Regional Environment Unit or Practice Manager (PM) review and approve the EA report?
+          Yes
+          Are the cost and the accountabilities for the EMP incorporated in the credit/loan?
+          Yes
+ OPS_ NH_COM P_TA BLE
+
+
+
+
+          OP/BP 4.04 - Natural Habitats
+
+          Would the project result in any significant conversion or degradation of critical natural habitats?
+          Yes
+
+
+Apr 29, 2018                                                                                                                            Page 22 of 25
+                         The World Bank
+                         Guinea – Mali Interconnection Project (P166042)
+
+
+          If the project would result in significant conversion or degradation of other (non-critical) natural habitats, does the
+          project include mitigation measures acceptable to the Bank?
+          Yes
+ OPS_ PCR_COM P_TA BLE
+
+
+
+
+          OP/BP 4.11 - Physical Cultural Resources
+          Does the EA include adequate measures related to cultural property?
+          Yes
+          Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+          Yes
+ OPS_IR_ COMP_TA BLE
+
+
+
+
+          OP/BP 4.12 - Involuntary Resettlement
+
+          Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared?
+          Yes
+          If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+          Yes
+ OPS_F O_COM P_TA BLE
+
+
+
+
+          OP/BP 4.36 - Forests
+
+          Has the sector-wide analysis of policy and institutional issues and constraints been carried out?
+          NA
+          Does the project design include satisfactory measures to overcome these constraints?
+          Yes
+          Does the project finance commercial harvesting, and if so, does it include provisions for certification system?
+          No
+ OPS_ PDI_ COMP_TA BLE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+
+
+Apr 29, 2018                                                                                                                Page 23 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+   All Safeguard Policies
+
+
+   Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+   measures related to safeguard policies?
+   Yes
+   Have costs related to safeguard policy measures been included in the project cost?
+   Yes
+   Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+   related to safeguard policies?
+   Yes
+   Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+   reflected in the project legal documents?
+   Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Thierno Bah
+   Senior Energy Specialist
+
+   Yussuf Uwamahoro
+   Senior Energy Specialist
+
+   Borrower/Client/Recipient
+   Republic of Guinea
+   Kanny Diallo
+   Minister of Planning and International Cooperation
+   mconde1955@yahoo.com
+
+   Republic of Mali
+   Boubou Cisse
+   Minister of Economics and Finance
+   mef@afribone.net.ml
+   Implementing Agencies
+   EDG
+   Attou Abdenbi
+   Managing Director
+   attou.abdenbi@veolia.com
+
+   EDM
+
+Apr 29, 2018                                                                                                    Page 24 of 25
+          The World Bank
+          Guinea – Mali Interconnection Project (P166042)
+
+
+   Dramane Coulibaly
+   Managing Director
+   drcoulibaly@edm-sa.com.ml
+
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Thierno Bah
+   Task Team Leader(s):
+                                          Yussuf Uwamahoro
+   Approved By
+
+   Safeguards Advisor:                    Maman-Sani Issa                       24-May-2018
+
+   Practice Manager/Manager:              Charles Joseph Cormier                24-May-2018
+
+   Country Director:                      Michael Hamaide                       25-May-2018
+
+
+
+
+    Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when
+    finalizing the document.
+
+
+
+
+Apr 29, 2018                                                                                               Page 25 of 25
+

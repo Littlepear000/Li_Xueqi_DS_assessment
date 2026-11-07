@@ -1,0 +1,1592 @@
+{
+  "project_id": "P512475",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "8af99ed0",
+  "started_at": "2026-11-07T03:39:17Z",
+  "ended_at": "2026-11-07T03:39:42Z",
+  "input_fingerprint": "018ef8679b5ef950",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 23,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P512475-A1",
+      "project_id": "P512475",
+      "name": "integrated digital PFM, HRMIS payroll and statistics systems",
+      "description": "Deploys modular FMIS/HRMIS with identity-verified payroll, hybrid cloud storage, digitized data transmission, business registers and satellite-machine-learning estimates. Practices: Automated payroll with identity-verified employee database and direct bank payment; Hybrid on-premise plus cloud data storage for statistics office; Digitized administrative data transmission systems for national accounts; Business register with unique tax-aligned business IDs; Satellite imagery and machine learning for production estimates; Incremental modular FMIS/HRMIS for PFM and payroll; Hybrid local hosting with cloud backup and hot disaster recovery; HRMIS verifying employee identity and establishment records for payroll; HRMIS identity verification and establishment record updates for payroll.",
+      "why_innovative": "New process: automated direct payroll with identity verification - cue: 'automate' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051526180523302",
+        "doc_type": "PAD",
+        "doc_date": "2026-05-13",
+        "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+        "char_start": 42489,
+        "char_end": 42743,
+        "text": "Improve and automate HRM core processes: (a) Intervention: Improve, streamline, and automate critical HRM functions, including updating the public sector employees database and identity verification, and automating salary payment direct to bank accounts.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 42912,
+          "char_end": 43039,
+          "text": "Automated controls and direct payment will enable more timely and efficient payroll processing, provided there is fiscal space.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 53919,
+          "char_end": 54409,
+          "text": "Investments include installation of a hybrid data storage and transmission system that combines a physical location with a cloud solution, hybrid solar power systems, local Official Use Only Page 10 The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT and wide-area connectivity, laptops, IT hardware, and statistical software (including a comprehensive IT statistical system, provided by an appropriate peer national statistical office).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 57031,
+          "char_end": 57101,
+          "text": "(b) Digitizing administrative data and expanding data sources for SNA.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 57102,
+          "char_end": 57194,
+          "text": "The project will: (i) set up digitized systems for regular administrative data transmission;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 57356,
+          "char_end": 57499,
+          "text": "The project will prioritize developing an up-to-date list of enterprises and establishments (a business register) for the establishment of SNA.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 57500,
+          "char_end": 57724,
+          "text": "The minimum requirements for the business register should include a unique business ID (aligned with tax ID), legal form, ISIC classification, size (employment/turnover band), location (region), and status (active/inactive).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 58530,
+          "char_end": 58773,
+          "text": "Innovative approaches—such as phone surveys, satellite imagery, geographic information system, and machine learning—will be applied to estimate production in sectors with access constraints or to make processes more efficient and reduce costs.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 60159,
+          "char_end": 60367,
+          "text": "(ii) building institutional capacity and processes for core PFM and HRM functions, including budget preparation, expenditures and payroll management; and (iii) modernizing the PFM and HRM information systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 60595,
+          "char_end": 61116,
+          "text": "This component will support (i) generating strategic and pragmatic roadmaps on PFM/HRM reform priorities and data updates, (ii) developing essential modules of a PFM and HRM information system to build on, (iii) strengthening the capacity of the MoF and MoCSI to deploy the systems in line ministries, governorates and CBY-Aden, and (iv) progressive use of the system for revenue data consolidation, timely budget releases and payments, adequate expenditures control, and overall stronger transparency and accountability.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 66781,
+          "char_end": 66983,
+          "text": "Beyond the software and related TA, the project will adopt a hybrid approach of local hosting of data in a primary data processing and storage solution with a cloud service for back-up and redundancies.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 66984,
+          "char_end": 67252,
+          "text": "Also, the project will support an active onpremise hot disaster recovery data processing and storage solution in IRG controlled areas with real-time replication of the servers and underlying data with minimal manual intervention in case of damage to the local servers.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 124391,
+          "char_end": 125582,
+          "text": "10% of cash At least 80% of cash At least 80% bank and cash units’ bank accounts regulation, rules and balances consolidated balances consolidated balances are consolidated completed procedures adopted on a monthly basis on a monthly basis on a weekly basis Timely monthly cash planning and management report produced (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of monthly budget execution reports timely submitted to MoF by central level spending units through FMIS (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 10 30 60 PFM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No Yes Yes Yes Debt and arrears management roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of spending units using new HRMIS to verify employee identification and monthly update establishment records for payroll (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 20 50 80 HRM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Project management and coordination and",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 138766,
+          "char_end": 139402,
+          "text": "Frequency Annual Data source Governance and Institutions Working Group official documents Methodology for Data Review of Governance and Institutions Working Group official documents Collection Responsibility for Data UNDP and to be verified by TPM Collection Share of spending units using new HRMIS to verify employee identification and monthly update establishment records for payroll (Percentage) Description Percentage of spending units using the new HRMIS for monthly update of employees and establishment records, and for which identities of most civil servants have been verified (i.e. more than 80 percent) within past 12 months.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 139403,
+          "char_end": 140082,
+          "text": "Frequency Annual Data source MoCSI official document and HRMIS Page 33 Official Use Only The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT Methodology for Data Review of MoCSI Official document and HRMIS data Collection Responsibility for Data UNDP and to be verified by TPM Collection HRM roadmap is finalized (Yes/No) Description The HRM roadmap identifies strategic priority measures to improve public sector human resource management in the next three years, at least with regards to establishment update, employee records update and verification, payroll arrears, de facto temporary workforce management (contractuals).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: HRMIS automation and identity verification are the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Central Government (Central Agencies)",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: HRMIS payroll with ID verification | Innovative: replaces manual payroll, cuts leakage | Category: system automation",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: automated direct payroll with identity verification - cue: 'automate'",
+      "innovation_cues": [
+        "guarantee",
+        "innovative",
+        "replication"
+      ]
+    },
+    {
+      "approach_id": "P512475-A2",
+      "project_id": "P512475",
+      "name": "Web-based data user satisfaction survey with public feedback loop",
+      "description": "Runs annual web survey of data users and publishes feedback and how it is used on CSO website.",
+      "why_innovative": "New process: web survey of data users with published feedback on how it is used | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051526180523302",
+        "doc_type": "PAD",
+        "doc_date": "2026-05-13",
+        "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+        "char_start": 131889,
+        "char_end": 132519,
+        "text": "Frequency Annual Data source CSO-Aden’s website: https://demo2.cso-ye.org/ Extracted from the CSO-Aden website statistics Methodology for Data Collection Responsibility for Data UNDP and to be verified by the TPM Collection Improved data user satisfaction (Percentage) Data user satisfaction survey capturing satisfaction in the following areas: Availability of data relevant to needs, Description Timeliness of data publication, Ease of accessing data, Clarity of metadata and documentation, Consistency and reliability of statistics, Usefulness of data for decision‑making /analysis, in addition to trust in official statistics.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099051526180523302",
+          "doc_type": "PAD",
+          "doc_date": "2026-05-13",
+          "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+          "char_start": 132520,
+          "char_end": 132671,
+          "text": "The data user satisfaction data is collected and the summary of feedback and how the feedback is used are made available to the public via CSO website.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: links data users to producers via public feedback, not a new technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Central Government (Central Agencies)",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: web user survey | Innovative: feedback published back to users | Category: citizen feedback loop",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: web survey of data users with published feedback on how it is used",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P512475",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "guid": "099051526180523302",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:39:17Z",
+      "ended_at": "2026-11-07T03:39:17Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 4 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:17Z",
+      "ended_at": "2026-11-07T03:39:17Z",
+      "status": "ok",
+      "note": "in scope (approved 2026-06-04, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:17Z",
+      "ended_at": "2026-11-07T03:39:18Z",
+      "status": "ok",
+      "note": "23 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 23,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 4,
+          "innovation_types": 3,
+          "innovation": 3,
+          "innovation_cycle": 6,
+          "enabling_technologies": 4,
+          "results_based_management": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:18Z",
+      "ended_at": "2026-11-07T03:39:18Z",
+      "status": "ok",
+      "note": "PAD 2026-05-13 (P512475_PAD_2026-05-13_099051526180523302.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P512475",
+            "doc_type": "PAD",
+            "doc_date": "2026-05-13",
+            "guid": "099051526180523302",
+            "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:18Z",
+      "ended_at": "2026-11-07T03:39:18Z",
+      "status": "ok",
+      "note": "105 reading units (19 numbered paragraphs) from 879 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 105
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:18Z",
+      "ended_at": "2026-11-07T03:39:19Z",
+      "status": "ok",
+      "note": "78 of 105 units carry a digital / AI cue (19 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 78,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 19
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:19Z",
+      "ended_at": "2026-11-07T03:39:30Z",
+      "status": "ok",
+      "note": "28 candidate practices from 78 units in 8 calls",
+      "llm_calls": 8,
+      "input_chars": 249672,
+      "output": {
+        "usage": {
+          "calls": 8,
+          "input_tokens": 1732,
+          "cached_tokens": 51072,
+          "cache_write_tokens": 0,
+          "output_tokens": 5382,
+          "seconds": 37.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0073
+        },
+        "extracted": 28
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:30Z",
+      "ended_at": "2026-11-07T03:39:37Z",
+      "status": "ok",
+      "note": "14 accepted, 14 rejected (not_innovative 8, background_or_other_programme 3, not_digital 3); 2 sent to the expanded-context round; 4 calls",
+      "llm_calls": 4,
+      "input_chars": 142661,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 18459,
+          "cached_tokens": 11392,
+          "cache_write_tokens": 0,
+          "output_tokens": 2172,
+          "seconds": 14.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0082
+        },
+        "accepted": 14,
+        "rejected": 14,
+        "expanded": 2,
+        "reject_codes": {
+          "not_innovative": 8,
+          "background_or_other_programme": 3,
+          "not_digital": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:39:37Z",
+      "ended_at": "2026-11-07T03:39:37Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:39:37Z",
+      "ended_at": "2026-11-07T03:39:39Z",
+      "status": "ok",
+      "note": "14 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 3181,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 561,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 133,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 10,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:39:39Z",
+      "ended_at": "2026-11-07T03:39:41Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 2 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8783,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1359,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 273,
+          "seconds": 2.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:39:41Z",
+      "ended_at": "2026-11-07T03:39:41Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 17 evidence rows, 18 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:39:41Z",
+      "ended_at": "2026-11-07T03:39:42Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 294
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P512475-A1-E1",
+      "approach_id": "P512475-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U27",
+      "para_no": 19,
+      "sentence_position": 245,
+      "char_start": 42489,
+      "char_end": 42743,
+      "sentence": "Improve and automate HRM core processes: (a) Intervention: Improve, streamline, and automate critical HRM functions, including updating the public sector employees database and identity verification, and automating salary payment direct to bank accounts.",
+      "practice": "Automated payroll with identity-verified employee database and direct bank payment",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: HRMIS payroll and ID verification | Not routine: replaces manual payroll, cuts leakages | Adoption: 'automate'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: HRMIS payroll with ID verification | Innovative: replaces manual payroll, cuts leakage | Category: system automation",
+      "keywords_hit": "automated",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated direct payroll with identity verification - cue: 'automate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E2",
+      "approach_id": "P512475-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U27",
+      "para_no": 19,
+      "sentence_position": 247,
+      "char_start": 42912,
+      "char_end": 43039,
+      "sentence": "Automated controls and direct payment will enable more timely and efficient payroll processing, provided there is fiscal space.",
+      "practice": "Automated payroll with identity-verified employee database and direct bank payment",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: HRMIS payroll and ID verification | Not routine: replaces manual payroll, cuts leakages | Adoption: 'automate'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: HRMIS payroll with ID verification | Innovative: replaces manual payroll, cuts leakage | Category: system automation",
+      "keywords_hit": "automated",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated direct payroll with identity verification - cue: 'automate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E3",
+      "approach_id": "P512475-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U35",
+      "para_no": 30,
+      "sentence_position": 320,
+      "char_start": 53919,
+      "char_end": 54409,
+      "sentence": "Investments include installation of a hybrid data storage and transmission system that combines a physical location with a cloud solution, hybrid solar power systems, local Official Use Only Page 10 The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT and wide-area connectivity, laptops, IT hardware, and statistical software (including a comprehensive IT statistical system, provided by an appropriate peer national statistical office).",
+      "practice": "Hybrid on-premise plus cloud data storage for statistics office",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: hybrid local-cloud data storage | Not routine: resilience design for conflict context | Adoption: 'Investments include installation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: hybrid local-cloud storage | Innovative: conflict-resilient data continuity | Category: infrastructure adaptation",
+      "keywords_hit": "cloud;connectivity;data analysis;data management;programming;statistics act",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: hybrid local-cloud statistical data storage - cue: 'cloud'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E4",
+      "approach_id": "P512475-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U36",
+      "para_no": null,
+      "sentence_position": 336,
+      "char_start": 57031,
+      "char_end": 57101,
+      "sentence": "(b) Digitizing administrative data and expanding data sources for SNA.",
+      "practice": "Digitized administrative data transmission systems for national accounts",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: digitized admin data transmission | Not routine: rebuilds statistics data pipelines | Adoption: 'will set up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized admin data transmission | Innovative: rebuilds statistics data pipelines | Category: system modernization",
+      "keywords_hit": "administrative data;data protection",
+      "innovation_cues": "guarantee",
+      "innovation_basis": "New process: automated administrative data transmission to statistics office - cue: 'administrative data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E5",
+      "approach_id": "P512475-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U36",
+      "para_no": null,
+      "sentence_position": 337,
+      "char_start": 57102,
+      "char_end": 57194,
+      "sentence": "The project will: (i) set up digitized systems for regular administrative data transmission;",
+      "practice": "Digitized administrative data transmission systems for national accounts",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: digitized admin data transmission | Not routine: rebuilds statistics data pipelines | Adoption: 'will set up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized admin data transmission | Innovative: rebuilds statistics data pipelines | Category: system modernization",
+      "keywords_hit": "administrative data;data protection",
+      "innovation_cues": "guarantee",
+      "innovation_basis": "New process: automated administrative data transmission to statistics office - cue: 'administrative data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E6",
+      "approach_id": "P512475-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U37",
+      "para_no": null,
+      "sentence_position": 339,
+      "char_start": 57356,
+      "char_end": 57499,
+      "sentence": "The project will prioritize developing an up-to-date list of enterprises and establishments (a business register) for the establishment of SNA.",
+      "practice": "Business register with unique tax-aligned business IDs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: business register with unique IDs | Not routine: first enterprise frame for SNA | Adoption: 'will prioritize developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: business register with unique IDs | Innovative: first enterprise frame for SNA | Category: digital registry",
+      "keywords_hit": "HRMIS;administrative data;data collection;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: digital business register linked to tax ID - cue: 'registries'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E7",
+      "approach_id": "P512475-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U37",
+      "para_no": null,
+      "sentence_position": 340,
+      "char_start": 57500,
+      "char_end": 57724,
+      "sentence": "The minimum requirements for the business register should include a unique business ID (aligned with tax ID), legal form, ISIC classification, size (employment/turnover band), location (region), and status (active/inactive).",
+      "practice": "Business register with unique tax-aligned business IDs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: business register with unique IDs | Not routine: first enterprise frame for SNA | Adoption: 'will prioritize developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: business register with unique IDs | Innovative: first enterprise frame for SNA | Category: digital registry",
+      "keywords_hit": "HRMIS;administrative data;data collection;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New product: digital business register linked to tax ID - cue: 'registries'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E8",
+      "approach_id": "P512475-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 346,
+      "char_start": 58530,
+      "char_end": 58773,
+      "sentence": "Innovative approaches—such as phone surveys, satellite imagery, geographic information system, and machine learning—will be applied to estimate production in sectors with access constraints or to make processes more efficient and reduce costs.",
+      "practice": "Satellite imagery and machine learning for production estimates",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: satellite imagery and ML models | Not routine: replaces field enumeration in conflict areas | Adoption: 'will be applied'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite imagery and ML models | Innovative: replaces field enumeration in conflict areas | Category: remote sensing/AI",
+      "keywords_hit": "administrative data;data collection;geographic information system;information system;machine learning;satellite imagery;survey;machine-learning",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: ML on satellite imagery for statistics - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E9",
+      "approach_id": "P512475-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 355,
+      "char_start": 60159,
+      "char_end": 60367,
+      "sentence": "(ii) building institutional capacity and processes for core PFM and HRM functions, including budget preparation, expenditures and payroll management; and (iii) modernizing the PFM and HRM information systems.",
+      "practice": "Incremental modular FMIS/HRMIS for PFM and payroll",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: modular FMIS/HRMIS platform | Not routine: fit-for-purpose incremental build in conflict | Adoption: 'will support developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: modular FMIS/HRMIS | Innovative: fit-for-purpose incremental build in conflict | Category: system design",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: building-block modular government systems - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E10",
+      "approach_id": "P512475-A1",
+      "evidence_no": 10,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U39",
+      "para_no": null,
+      "sentence_position": 357,
+      "char_start": 60595,
+      "char_end": 61116,
+      "sentence": "This component will support (i) generating strategic and pragmatic roadmaps on PFM/HRM reform priorities and data updates, (ii) developing essential modules of a PFM and HRM information system to build on, (iii) strengthening the capacity of the MoF and MoCSI to deploy the systems in line ministries, governorates and CBY-Aden, and (iv) progressive use of the system for revenue data consolidation, timely budget releases and payments, adequate expenditures control, and overall stronger transparency and accountability.",
+      "practice": "Incremental modular FMIS/HRMIS for PFM and payroll",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: modular FMIS/HRMIS platform | Not routine: fit-for-purpose incremental build in conflict | Adoption: 'will support developing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: modular FMIS/HRMIS | Innovative: fit-for-purpose incremental build in conflict | Category: system design",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: building-block modular government systems - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E11",
+      "approach_id": "P512475-A1",
+      "evidence_no": 11,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 393,
+      "char_start": 66781,
+      "char_end": 66983,
+      "sentence": "Beyond the software and related TA, the project will adopt a hybrid approach of local hosting of data in a primary data processing and storage solution with a cloud service for back-up and redundancies.",
+      "practice": "Hybrid local hosting with cloud backup and hot disaster recovery",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: replicated local-cloud hosting | Not routine: conflict-resilient data continuity design | Adoption: 'will adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: replicated local-cloud hosting | Innovative: conflict-resilient data continuity | Category: infrastructure design",
+      "keywords_hit": "HRMIS;cloud;hosting;server;servers",
+      "innovation_cues": "replication",
+      "innovation_basis": "New delivery arrangement: real-time replicated disaster recovery hosting - cue: 'replication'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E12",
+      "approach_id": "P512475-A1",
+      "evidence_no": 12,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 394,
+      "char_start": 66984,
+      "char_end": 67252,
+      "sentence": "Also, the project will support an active onpremise hot disaster recovery data processing and storage solution in IRG controlled areas with real-time replication of the servers and underlying data with minimal manual intervention in case of damage to the local servers.",
+      "practice": "Hybrid local hosting with cloud backup and hot disaster recovery",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: replicated local-cloud hosting | Not routine: conflict-resilient data continuity design | Adoption: 'will adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: replicated local-cloud hosting | Innovative: conflict-resilient data continuity | Category: infrastructure design",
+      "keywords_hit": "HRMIS;cloud;hosting;server;servers",
+      "innovation_cues": "replication",
+      "innovation_basis": "New delivery arrangement: real-time replicated disaster recovery hosting - cue: 'replication'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E13",
+      "approach_id": "P512475-A1",
+      "evidence_no": 13,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U83",
+      "para_no": null,
+      "sentence_position": 690,
+      "char_start": 124391,
+      "char_end": 125582,
+      "sentence": "10% of cash At least 80% of cash At least 80% bank and cash units’ bank accounts regulation, rules and balances consolidated balances consolidated balances are consolidated completed procedures adopted on a monthly basis on a monthly basis on a weekly basis Timely monthly cash planning and management report produced (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of monthly budget execution reports timely submitted to MoF by central level spending units through FMIS (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 10 30 60 PFM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No Yes Yes Yes Debt and arrears management roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of spending units using new HRMIS to verify employee identification and monthly update establishment records for payroll (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 20 50 80 HRM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Project management and coordination and",
+      "practice": "HRMIS verifying employee identity and establishment records for payroll",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: HRMIS payroll verification | Not routine: replaces ghost-prone establishment records | Adoption: 'using new HRMIS'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: new HRMIS identity verification | Innovative: verified identities feed payroll records | Category: digital registry system",
+      "keywords_hit": "HRMIS",
+      "innovation_cues": "",
+      "innovation_basis": "New process: HRMIS-based identity verification feeding payroll - cue: 'new HRMIS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E14",
+      "approach_id": "P512475-A1",
+      "evidence_no": 14,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U93",
+      "para_no": null,
+      "sentence_position": 736,
+      "char_start": 138766,
+      "char_end": 139402,
+      "sentence": "Frequency Annual Data source Governance and Institutions Working Group official documents Methodology for Data Review of Governance and Institutions Working Group official documents Collection Responsibility for Data UNDP and to be verified by TPM Collection Share of spending units using new HRMIS to verify employee identification and monthly update establishment records for payroll (Percentage) Description Percentage of spending units using the new HRMIS for monthly update of employees and establishment records, and for which identities of most civil servants have been verified (i.e. more than 80 percent) within past 12 months.",
+      "practice": "HRMIS identity verification and establishment record updates for payroll",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: new HRMIS employee verification | Not routine: verified identities feed payroll records | Adoption: 'using the new HRMIS'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: new HRMIS | Innovative: verified identities feed payroll records | Category: digital registry system",
+      "keywords_hit": "HRMIS;data collection;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New system: HRMIS biometric-style identity verification for payroll - cue: 'new HRMIS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A1-E15",
+      "approach_id": "P512475-A1",
+      "evidence_no": 15,
+      "number_of_evidence": 15,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U93",
+      "para_no": null,
+      "sentence_position": 737,
+      "char_start": 139403,
+      "char_end": 140082,
+      "sentence": "Frequency Annual Data source MoCSI official document and HRMIS Page 33 Official Use Only The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT Methodology for Data Review of MoCSI Official document and HRMIS data Collection Responsibility for Data UNDP and to be verified by TPM Collection HRM roadmap is finalized (Yes/No) Description The HRM roadmap identifies strategic priority measures to improve public sector human resource management in the next three years, at least with regards to establishment update, employee records update and verification, payroll arrears, de facto temporary workforce management (contractuals).",
+      "practice": "HRMIS identity verification and establishment record updates for payroll",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: new HRMIS employee verification | Not routine: verified identities feed payroll records | Adoption: 'using the new HRMIS'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: new HRMIS | Innovative: verified identities feed payroll records | Category: digital registry system",
+      "keywords_hit": "HRMIS;data collection;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New system: HRMIS biometric-style identity verification for payroll - cue: 'new HRMIS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A2-E1",
+      "approach_id": "P512475-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U88",
+      "para_no": null,
+      "sentence_position": 714,
+      "char_start": 131889,
+      "char_end": 132519,
+      "sentence": "Frequency Annual Data source CSO-Aden’s website: https://demo2.cso-ye.org/ Extracted from the CSO-Aden website statistics Methodology for Data Collection Responsibility for Data UNDP and to be verified by the TPM Collection Improved data user satisfaction (Percentage) Data user satisfaction survey capturing satisfaction in the following areas: Availability of data relevant to needs, Description Timeliness of data publication, Ease of accessing data, Clarity of metadata and documentation, Consistency and reliability of statistics, Usefulness of data for decision‑making /analysis, in addition to trust in official statistics.",
+      "practice": "Web-based data user satisfaction survey with public feedback loop",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: web-administered user satisfaction survey | Not routine: feedback loop to users published | Adoption: 'collected and made available'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: web user survey | Innovative: feedback published back to users | Category: citizen feedback loop",
+      "keywords_hit": "data collection;data for decision;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: web survey of data users with published feedback on how it is used",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    },
+    {
+      "row_id": "P512475-A2-E2",
+      "approach_id": "P512475-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P512475",
+      "doc_id": "099051526180523302",
+      "doc_type": "PAD",
+      "doc_date": "2026-05-13",
+      "file_name": "P512475_PAD_2026-05-13_099051526180523302.txt",
+      "unit_id": "U88",
+      "para_no": null,
+      "sentence_position": 715,
+      "char_start": 132520,
+      "char_end": 132671,
+      "sentence": "The data user satisfaction data is collected and the summary of feedback and how the feedback is used are made available to the public via CSO website.",
+      "practice": "Web-based data user satisfaction survey with public feedback loop",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: web-administered user satisfaction survey | Not routine: feedback loop to users published | Adoption: 'collected and made available'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: web user survey | Innovative: feedback published back to users | Category: citizen feedback loop",
+      "keywords_hit": "data collection;data for decision;methodolog;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: web survey of data users with published feedback on how it is used",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8af99ed0"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 343,
+      "char_start": 57989,
+      "char_end": 58143,
+      "sentence": "The FMIS and HRMIS proposed in Component 2 can be used to produce public finance data and public wage data that can be automatically shared with CSO-Aden.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Automatic FMIS/HRMIS data sharing with statistics office",
+      "reason": "reject: FMIS/HRMIS feeding statistics office is standard administrative-data use, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: automated system-to-system data sharing across agencies - cue: 'HRMIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Sentence says FMIS/HRMIS 'can be used' to share data - unclear whether this project commits to it",
+          "reject_code": "",
+          "context_chars": 1334
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "FMIS/HRMIS feeding statistics office is standard administrative-data use, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 5183
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 445,
+      "char_start": 80985,
+      "char_end": 81617,
+      "sentence": "Data storage and processing solutions should be designed to mitigate the risks of damage, looting and data losses while considering a weak connectivity Third party monitoring (TPM) Shift towards a World Bank-led TPM PROJECT APPRAISAL DOCUMENT • The project supports the IRG’s ongoing reform efforts to control the wage bill by (i) equipping the MoCSI and MoF with FMIS and HRMIS, (ii) restoring HR records and verifications, (iii) supporting direct payments processes through personal bank accounts. • The project is informed by the ongoing PFM/HRM systems assessment, which includes capacity, skills, and training needs assessment.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Cloud-based FMIS/HRMIS with hybrid backup for wage-bill control",
+      "reason": "reject: Cloud/off-the-shelf options only 'being discussed' with IRG, not committed by project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New delivery arrangement: cloud-hosted off-the-shelf FMIS/HRMIS with hybrid backup - cue: 'hybrid approach'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cloud/off-the-shelf options only 'being discussed' with IRG, not committed by project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1212
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 512,
+      "char_start": 92300,
+      "char_end": 92505,
+      "sentence": "To enhance near-real-time monitoring between TPM visits, UNDP will maintain dashboards/management information system which will be integrated into the World Bank’s portfolio monitoring dashboard for Yemen.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "UNDP dashboards/MIS integrated into World Bank Yemen portfolio monitoring dashboard",
+      "reason": "reject: Standard TPM monitoring dashboard, routine supervision arrangement",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: near-real-time MIS linked to Bank portfolio dashboard - cue: 'adaptive management'",
+      "innovation_cues": "adaptive;adaptive management",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard TPM monitoring dashboard, routine supervision arrangement",
+          "reject_code": "not_innovative",
+          "context_chars": 1430
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 689,
+      "char_start": 123194,
+      "char_end": 124390,
+      "sentence": "satisfaction (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 0 20 30 50 70 Improvement in coverage and openness of economic indicators, applied only to SNA (ODIN) (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 0 15 30 40 50 Increased availability of economic indicators from the UNSD minimum set of gender indicators (Number) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 0 0 6 10 14 Strengthening core PFM and HRM/payroll functions and systems Processed for the targeted core public finance and civil service management functions are updated (Number) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 0 2 7 7 7 Budget is timely, published (Yes/No) Jan/2026 Feb/2027 Feb/2028 Feb/2029 Feb/2030 PROJECT APPRAISAL DOCUMENT Closing Period Jun/2031 250 Jun/2031 250 Jun/2031 150 Jun/2031 80 Jun/2031 7 Jun/2031 11,000 Jun/2031 80 Jun/2031 60 Jun/2031 14 Jun/2031 7 Jun/2031 Page 27 Official Use Only The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT No No No Yes Yes Yes Treasury Single Account is implemented (Text) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No TSA Inventory of all spending TSA architecture, At least",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Treasury Single Account consolidating spending units' bank balances",
+      "reason": "reject: TSA cash consolidation is a treasury arrangement, no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: TSA consolidating cash balances - cue: 'TSA'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "TSA cash consolidation is a treasury arrangement, no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 2388
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 690,
+      "char_start": 124391,
+      "char_end": 125582,
+      "sentence": "10% of cash At least 80% of cash At least 80% bank and cash units’ bank accounts regulation, rules and balances consolidated balances consolidated balances are consolidated completed procedures adopted on a monthly basis on a monthly basis on a weekly basis Timely monthly cash planning and management report produced (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of monthly budget execution reports timely submitted to MoF by central level spending units through FMIS (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 10 30 60 PFM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No Yes Yes Yes Debt and arrears management roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Share of spending units using new HRMIS to verify employee identification and monthly update establishment records for payroll (Percentage) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 0 0 0 20 50 80 HRM roadmap is finalized (Yes/No) Jan/2026 Jan/2027 Jan/2028 Jan/2029 Jan/2030 Jun/2031 No No No No Yes Yes Project management and coordination and",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "FMIS-based monthly budget execution reporting by spending units",
+      "reason": "reject: FMIS-routed budget reporting is standard PFM practice across MDB operations",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: FMIS-routed budget execution reporting - cue: 'through FMIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "FMIS-routed budget reporting is standard PFM practice across MDB operations",
+          "reject_code": "not_innovative",
+          "context_chars": 2388
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 694,
+      "char_start": 126824,
+      "char_end": 127208,
+      "sentence": "This PDO indicator will tailor the statistical performance indicator (SPI) with a weight of one weights given to the pillars of data sources (except for sub-dimension on censuses) and data Description infrastructure and a weight of zero to the other pillars that will either be captured through intermediate results indicators or are not expected to change as a result of the project.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Tailored SPI weighting for statistical system performance indicator",
+      "reason": "reject: Reweighting an existing SPI indicator is M&E methodology, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: custom-weighted SPI measurement framework - cue: 'tailor'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Reweighting an existing SPI indicator is M&E methodology, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1409
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 707,
+      "char_start": 130047,
+      "char_end": 130400,
+      "sentence": "Modules include: oﬃcial statistics (required for all), Microsoft tools (required for all), statistical sampling Description methods (required for all), Geospatial data management and analysis, Database management and security, Data analysis using statistical software, Coding and programming, Data visualization and dissemination, and Survey management.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geospatial data management and analysis training for CSO statisticians",
+      "reason": "reject: Training modules in geospatial and statistical software are generic capacity building",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: geospatial and database skills modules for official statistics - cue: 'Geospatial data management'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Training modules in geospatial and statistical software are generic capacity building",
+          "reject_code": "not_innovative",
+          "context_chars": 1725
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 712,
+      "char_start": 130869,
+      "char_end": 131413,
+      "sentence": "Frequency Annual Data source Annual assessment on knowledge of SNA completed by 15 staff involved in SNA compilation Methodology for Data Annual assessment on knowledge of SNA completed by 15 staff involved in SNA compilation Collection Responsibility for Data UNDP and to be verified by the TPM Collection Increase in regular digital data transmission from line ministries’ statistical units to CSO HQ (Number) Description Number of line ministries with digital registries that submit required data annually to CSO in Aden verified by the TPM.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital registry data transmission from line ministries to CSO",
+      "reason": "reject: Indicator of line-ministry data transmission to CSO; routine statistical data flow, no new mechanism",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: digital registry-to-CSO data transmission pipeline - cue: 'digital registries'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Indicator only; unclear whether project builds the registries or transmission system",
+          "reject_code": "",
+          "context_chars": 1725
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Indicator of line-ministry data transmission to CSO; routine statistical data flow, no new mechanism",
+          "reject_code": "not_innovative",
+          "context_chars": 12697
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 717,
+      "char_start": 132736,
+      "char_end": 133408,
+      "sentence": "Frequency Annual Data source Web-based user satisfaction survey Methodology for Data Annual web administered survey of data users from government, academia, thinktanks, donors and journalists Collection Responsibility for Data UNDP and to be verified by the TPM Collection Page 31 Official Use Only The World Bank Modernizing Public Institutions and Systems in Yemen (P512475) PROJECT APPRAISAL DOCUMENT Improvement in coverage and openness of economic indicators, applied only to SNA (ODIN) (Percentage) Description The Open Data Inventory (ODIN) measures how complete a country’s statistical offerings are and whether their data meet international standards of openness.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Open Data Inventory scoring of statistical openness",
+      "reason": "reject: ODIN is an external benchmark used as an indicator, not a project practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: external open-data openness benchmark for statistics - cue: 'openness'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ODIN is an external benchmark used as an indicator, not a project practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1242
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 733,
+      "char_start": 137789,
+      "char_end": 138280,
+      "sentence": "Frequency Annual Data source MoF official document Methodology for Data Review of MoF official document Collection Responsibility for Data UNDP and to be verified by the TPM Collection Share of monthly budget execution reports timely submitted to MoF by central level spending units through FMIS (Percentage) Description Indicator represents the share of monthly budget execution reports submitted through the FMIS within 10 days after month end to MoF by central government’ spending units.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "FMIS-based monthly budget execution reporting by spending units",
+      "reason": "reject: FMIS monthly execution reporting is standard PFM practice across MDB operations",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: FMIS-mediated monthly execution reporting deadline - cue: 'through FMIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "FMIS monthly execution reporting is standard PFM practice across MDB operations",
+          "reject_code": "not_innovative",
+          "context_chars": 1459
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 758,
+      "char_start": 144556,
+      "char_end": 144815,
+      "sentence": "26 Recent experience has shown that performance-based incentives have been instrumental in moving away from pure data collection activities that provide staff with “per-diems” to a data systems approach which compiles and analyzes administrative data sources.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Performance-based incentives for statistical data systems",
+      "reason": "reject: Performance incentives are a staffing arrangement; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: performance incentives shift staff to data systems approach - cue: 'performance-based'",
+      "innovation_cues": "performance-based;systems approach;transformative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance incentives are a staffing arrangement; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1432
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 792,
+      "char_start": 147779,
+      "char_end": 147927,
+      "sentence": "Cloud-based solutions and off-the-shelf FMIS packages have proven effective in FCV contexts, enabling rapid deployment while reducing upfront costs.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Cloud-based off-the-shelf FMIS for rapid deployment",
+      "reason": "reject: General lessons-learned statement about cloud FMIS; no evidence this project procures or deploys one",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New delivery arrangement: cloud FMIS rapid deployment in FCV - cue: 'cloud-based'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "General lessons-learned statement about cloud FMIS; no evidence this project procures or deploys one",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 794,
+      "char_start": 147934,
+      "char_end": 148302,
+      "sentence": "Lessons learned from HRM investments in FCV contexts highlight that one of the most critical early priorities is conducting a rapid provisional count of government employees to establish an accurate personnel database, as HR records are often destroyed, missing, or unreliable following conflict—and ghost workers on the payroll represent a significant fiscal leakage.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Rapid provisional government employee count for personnel database",
+      "reason": "reject: Lessons-learned recommendation, not a financed project activity; no digital system specified",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: rapid provisional headcount builds personnel database - cue: 'rapid provisional count'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Lessons-learned recommendation, not a financed project activity; no digital system specified",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 853,
+      "char_start": 153283,
+      "char_end": 153522,
+      "sentence": "34 Additionally, this proposed project design will incorporate ECA—a set of “stop-and-go” mechanisms that will allow for some elements of the project to be paused if certain risks materialize, based on compliance with the pre-set criteria.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "ECA stop-and-go project pause mechanisms",
+      "reason": "reject: Risk-triggered pause criteria; no digital system, data or AI core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: criteria-triggered pausing of project elements - cue: 'stop-and-go'",
+      "innovation_cues": "rapid-assessment",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Risk-triggered pause criteria; no digital system, data or AI core",
+          "reject_code": "not_digital",
+          "context_chars": 1333
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 213,
+      "char_start": 37198,
+      "char_end": 37425,
+      "sentence": "Second, the project will seek data users’ satisfaction and other types of feedback to better understand how data users are using available statistical data and collect their suggestions on data gaps, quality, and dissemination.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Data-user satisfaction scorecards on statistical data quality",
+      "reason": "reject: final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: public scorecards on statistical data use - cue: 'scorecard'",
+      "innovation_cues": "scorecard",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: data-user feedback scorecard | Innovative: public accountability on statistical data quality | Category: transparency mechanism",
+          "reject_code": "",
+          "context_chars": 2748
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 387,
+      "char_start": 65671,
+      "char_end": 65958,
+      "sentence": "This capacity building will target key staff in pilot line ministries (e.g., health and/or education given the size of their wage bill 12 and synergies with World Bank-financed sector operations 13 ) and pilot governorates incrementally, and use local training facilities, when possible.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Pilot line-ministry and governorate rollout of HRMIS payroll processes",
+      "reason": "reject: final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: phased pilot rollout of payroll systems - cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: HRMIS payroll system | Innovative: pilot-then-scale sequencing in fragile state | Category: phased rollout; evidence s4/s7 support",
+          "reject_code": "",
+          "context_chars": 1361
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 861,
+      "char_start": 154411,
+      "char_end": 154616,
+      "sentence": "The establishment of a World Bank-led TPM was endorsed by the YPTT meeting in April 2023, and this project will be the first one to execute the World Bank-led TPM model in the World Bank’s Yemen portfolio.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "World Bank-led third-party monitoring (TPM) model replacing UN-executed TPM",
+      "reason": "reject: final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: first Bank-executed TPM in Yemen portfolio, endorsed 2023",
+      "innovation_cues": "rapid-assessment",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: TPM data verification | New: first Bank-led TPM in Yemen | Category: delivery arrangement",
+          "reject_code": "",
+          "context_chars": 1333
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: scorecards/GM are programme mechanisms, not a digital system | Before 2019: citizen engagement, scorecards and third-party monitoring standard in WBG operations since 2010s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099051526180523302",
+      "doc_type": "PAD",
+      "position": 698,
+      "char_start": 127807,
+      "char_end": 128233,
+      "sentence": "Frequency Annual Data source MoF official website Methodology for Data MoF Official document verification Collection Responsibility for Data UNDP and to be verified by the TPM Collection Share of public sector employees registered in the new payroll system and paid directly to bank accounts (Percentage) Description Salaries of full-time civil servants registered in the new payroll system and paid directly to bank accounts.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "New payroll system paying civil servants directly to bank accounts",
+      "reason": "reject: final check round 1: digital: incidental - Digital: payroll system is a delivery channel; approach is direct-to-bank civil service payment | Before 2019: WBG-supported payroll automation and direct bank payment common in civil service reform",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: direct-to-bank payroll replacing cash payment - cue: 'new payroll system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: new payroll system | Innovative: direct bank salary payment | Category: digital payment replacing cash",
+          "reject_code": "",
+          "context_chars": 1409
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: payroll system is a delivery channel; approach is direct-to-bank civil service payment | Before 2019: WBG-supported payroll automation and direct bank payment common in civil service reform",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 14,
+    "input_tokens": 22111,
+    "cached_tokens": 62976,
+    "cache_write_tokens": 0,
+    "output_tokens": 7960,
+    "seconds": 56.6,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0166
+  }
+}

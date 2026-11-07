@@ -1,0 +1,57 @@
+name: "v2 - DDAT sentence coding (Methodology Notes 1 & 2)"
+description: >
+  Segment documents into sentences -> keyword + semantic candidate matching against the
+  21 DDAT approaches -> LLM classification of candidates (code, evidence level, status,
+  reason) with the taxonomy and exclusions in a cached system prompt -> exclusion log ->
+  Approach Evidence Corpus rows -> project-level approaches -> solution / pillar mapping
+  (Note 2) -> portfolio replication scan.
+
+llm:
+  model: claude-sonnet-4-5
+  temperature: 0.0
+  max_tokens: 6000
+
+documents:
+  # All documents are segmented. ISRs are limited to the newest N so that a project with
+  # 15 ISRs does not dominate; L3 evidence usually appears in the latest ones anyway.
+  include_types: [PAD, ProjectPaper, PID, ProgramDocument, ICR, ISR]
+  max_per_type: {ISR: 2}
+
+screening:                    # kept for information (innovation tier), not used as a gate
+  dimensions: [enabling_technologies, innovation, innovation_cycle]
+  high: 4
+  moderate: 2
+
+candidates:
+  semantic_backend: auto      # auto | embedding | tfidf
+  semantic_threshold_embedding: 0.45
+  semantic_threshold_tfidf: 0.15
+  drop_boilerplate: true      # toc / furniture / reference / short / standard_text never become candidates
+  max_candidates_per_project: 400   # highest-scoring kept when a project exceeds this
+
+classify:
+  batch_size: 20              # candidate sentences per LLM call
+  parallel_batches: 6         # concurrent calls within one project
+  cache_taxonomy: true        # taxonomy + exclusions as a cached system block
+
+aggregation:
+  headline_levels: [L2, L3]   # project counts under an approach at these levels (Note 2)
+  max_rows_per_approach_kept: 8
+
+replication:
+  explicit_reference: true
+  similarity: true
+  similarity_threshold: 0.30
+  max_links: 5
+
+steps: [screen, select_documents, segment, candidates, classify, aggregate, map_solutions, replication]
+
+steps_meta:
+  screen:           {kind: python, label: "Keyword screen", summary: "Innovation keyword dictionary (working paper) -> tier; informational only", inputs: [documents], outputs: [innovation_tier]}
+  select_documents: {kind: python, label: "Select documents", summary: "All PAD / Project Paper / PID / Program Document / ICR; newest 2 ISRs", inputs: [document index], outputs: [documents]}
+  segment:          {kind: python, label: "Segment", summary: "Sentences with char offsets, position and context; boilerplate flagged", inputs: [documents], outputs: [sentences]}
+  candidates:       {kind: python, label: "Keyword + semantic match", summary: "21 DDAT keyword lists (EN/FR/ES/PT) and TF-IDF / embedding similarity", inputs: [sentences], outputs: [candidate sentences]}
+  classify:         {kind: llm, label: "Classify sentences", summary: "Batches of 20 candidates; DDAT taxonomy + exclusions in a cached system prompt; code, L1-L3, status, reason", prompts: [00_system, 01_classify], inputs: [candidate sentences], outputs: [AEC rows, exclusion log]}
+  aggregate:        {kind: python, label: "Aggregate", summary: "AEC rows -> one approach per project x DDAT code; highest evidence level", inputs: [AEC rows], outputs: [approaches]}
+  map_solutions:    {kind: llm, label: "Map solution / pillar", summary: "Note 2: direct mapping or model choice among candidate solutions -> pillar", prompts: [02_solution], inputs: [approaches], outputs: [category, category_solution]}
+  replication:      {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

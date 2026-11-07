@@ -1,0 +1,50 @@
+name: "r1 - replication by matching name + evidence + theme"
+description: >
+  Portfolio-level workflow. Reads every validated approach in the review database and finds approaches
+  that recur across projects. Two approaches are "the same approach" when their names, their original
+  evidence sentences and their themes are similar together (names alone are auto-extracted and not
+  comparable). Approaches are grouped into patterns in approval order; the earliest project is the origin
+  and every later project in the pattern is one replication. Scaling is provisional (see scaling below).
+
+scope:
+  exclude_status: [rejected, referenced_only, mentioned_only]   # approach status values left out
+  exclude_adoption: [mentioned]                                 # adoption values left out (v3 workflows)
+
+similarity:
+  method: tfidf               # pure-python TF-IDF (no external model needed)
+  # evidence sentences come from different documents and rarely share wording, so the model-written
+  # description (built from the same evidence) carries most of the "what it does" signal
+  weights: {name: 0.40, description: 0.25, evidence: 0.10, theme: 0.25}
+  theme_match: {same_level2: 1.0, same_level1: 0.5, other: 0.0}
+  candidate_threshold: 0.25   # pairs at or above this are kept in pairs.csv
+  ngram_max: 2
+
+confirm:
+  enabled: true               # LLM check of borderline pairs; skipped automatically when no API key is set
+  grey_zone: [0.28, 0.40]     # only pairs with a combined score in this band are sent to the model
+  max_pairs: 200
+
+cluster:
+  threshold: 0.34             # mean combined score to the pattern's members needed to join it
+  one_per_project: true       # a project contributes at most one approach to a pattern
+  min_projects: 2             # a pattern is "replicated" when it spans at least this many projects
+
+scaling:
+  status: provisional
+  definition: >
+    PROVISIONAL - methodology to be confirmed. Inside a replication pattern, a later adoption in a country
+    that already used the approach is counted as a scaling candidate (the approach is extended in place:
+    follow-on operation, larger coverage or financing). A later adoption in a new country is replication
+    (spread). Commitment growth between the earlier and later project in the same country is reported as
+    a supporting signal.
+
+steps: [corpus, similarity, confirm, cluster, replication, scaling, write]
+
+steps_meta:
+  corpus:      {kind: python, label: "Build corpus", summary: "Validated approaches + project metadata (FY, country, sector, theme)", inputs: [review database], outputs: [approach corpus]}
+  similarity:  {kind: python, label: "Score pairs", summary: "TF-IDF name / description / evidence similarity + theme match", inputs: [approach corpus], outputs: [pairs.csv]}
+  confirm:     {kind: llm, label: "Confirm borderline pairs", summary: "Model decides if borderline pairs are the same approach (needs API key)", prompts: [00_system, 01_confirm], inputs: [pairs.csv], outputs: [confirmed pairs]}
+  cluster:     {kind: python, label: "Group into patterns", summary: "Approval-ordered grouping; earliest project is the origin", inputs: [pairs], outputs: [patterns.csv, pattern_members.csv]}
+  replication: {kind: python, label: "Replication story", summary: "Reuse counts by pattern, sector, region and fiscal year", inputs: [patterns], outputs: [by_sector.csv, by_fy.csv, by_region.csv]}
+  scaling:     {kind: python, label: "Scaling (provisional)", summary: "Same-country follow-on adoptions + commitment growth", inputs: [patterns], outputs: [scaling_events.csv]}
+  write:       {kind: python, label: "Write results", summary: "result.json for the web app + CSV tables", inputs: [all], outputs: [result.json]}

@@ -1,0 +1,462 @@
+{
+  "project_id": "P502128",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "6aa64515",
+  "started_at": "2026-11-07T03:36:53Z",
+  "ended_at": "2026-11-07T03:37:08Z",
+  "input_fingerprint": "823f37708fe65a50",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 19,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P502128-A1",
+      "project_id": "P502128",
+      "name": "Teacher database as a GPE results-financing disbursement trigger",
+      "description": "Creates a teacher database, a disbursement trigger under GPE results financing",
+      "why_innovative": "Digital core: teacher registry | New: registry tied to GPE reform-linked disbursement trigger | Category: digital data system | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099053124094568400",
+        "doc_type": "PAD",
+        "doc_date": "2024-05-28",
+        "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+        "char_start": 54050,
+        "char_end": 54245,
+        "text": "(b) the creation of a database on teachers (US$3.50 million in total); and (c) the recruitment and integration of 1,500 teachers each year into public service from 2024 to 2028 (US$3.69 million).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099053124094568400",
+          "doc_type": "PAD",
+          "doc_date": "2024-05-28",
+          "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+          "char_start": 53806,
+          "char_end": 54049,
+          "text": "Three triggers that unlock this part of the financing have already been agreed with the government: (a) the recruitment of statisticians at the level of the central administration and academic inspections to guarantee reliable data collection;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital teacher registry is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Teacher database and results-financing disbursement trigger are education system administration functions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: teacher database | Innovative: registry unlocks GPE reform financing | Category: Technological data system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital core: teacher registry | New: registry tied to GPE reform-linked disbursement trigger | Category: digital data system",
+      "innovation_cues": [
+        "accelerator",
+        "guarantee"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P502128",
+      "doc_type": "PAD",
+      "doc_date": "2024-05-28",
+      "guid": "099053124094568400",
+      "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:53Z",
+      "ended_at": "2026-11-07T03:36:55Z",
+      "status": "ok",
+      "note": "4 document(s) fetched from the WBG API; 7 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:55Z",
+      "ended_at": "2026-11-07T03:36:55Z",
+      "status": "ok",
+      "note": "in scope (approved 2024-06-18, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:55Z",
+      "ended_at": "2026-11-07T03:36:56Z",
+      "status": "ok",
+      "note": "19 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 19,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 2,
+          "innovation_cycle": 6,
+          "innovation_types": 5,
+          "innovation": 3,
+          "public_good": 2,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:56Z",
+      "ended_at": "2026-11-07T03:36:56Z",
+      "status": "ok",
+      "note": "PAD 2024-05-28 (P502128_PAD_2024-05-28_099053124094568400.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P502128",
+            "doc_type": "PAD",
+            "doc_date": "2024-05-28",
+            "guid": "099053124094568400",
+            "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:56Z",
+      "ended_at": "2026-11-07T03:36:56Z",
+      "status": "ok",
+      "note": "149 reading units (21 numbered paragraphs) from 1188 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 149
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:56Z",
+      "ended_at": "2026-11-07T03:36:58Z",
+      "status": "ok",
+      "note": "55 of 149 units carry a digital / AI cue (11 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 55,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 11
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:58Z",
+      "ended_at": "2026-11-07T03:37:02Z",
+      "status": "ok",
+      "note": "3 candidate practices from 55 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 177788,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1375,
+          "cached_tokens": 36480,
+          "cache_write_tokens": 0,
+          "output_tokens": 1262,
+          "seconds": 11.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0021
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:37:02Z",
+      "ended_at": "2026-11-07T03:37:04Z",
+      "status": "ok",
+      "note": "2 accepted, 1 rejected (not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 21426,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1511,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 246,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0008
+        },
+        "accepted": 2,
+        "rejected": 1,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:04Z",
+      "ended_at": "2026-11-07T03:37:06Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1017,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 249,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 86,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:06Z",
+      "ended_at": "2026-11-07T03:37:06Z",
+      "status": "ok",
+      "note": "2 approaches -> 2 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:06Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5454,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 827,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 145,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:08Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:08Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 239
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P502128-A1-E1",
+      "approach_id": "P502128-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P502128",
+      "doc_id": "099053124094568400",
+      "doc_type": "PAD",
+      "doc_date": "2024-05-28",
+      "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 336,
+      "char_start": 54050,
+      "char_end": 54245,
+      "sentence": "(b) the creation of a database on teachers (US$3.50 million in total); and (c) the recruitment and integration of 1,500 teachers each year into public service from 2024 to 2028 (US$3.69 million).",
+      "practice": "Teacher database as a GPE results-financing disbursement trigger",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: teacher database | Not routine: registry tied to disbursement trigger | Adoption: 'creation of a database'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: teacher database | Innovative: registry unlocks GPE reform financing | Category: Technological data system",
+      "keywords_hit": "accelerator;data collection",
+      "innovation_cues": "accelerator;guarantee",
+      "innovation_basis": "Digital core: teacher registry | New: registry tied to GPE reform-linked disbursement trigger | Category: digital data system",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6aa64515"
+    },
+    {
+      "row_id": "P502128-A1-E2",
+      "approach_id": "P502128-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P502128",
+      "doc_id": "099053124094568400",
+      "doc_type": "PAD",
+      "doc_date": "2024-05-28",
+      "file_name": "P502128_PAD_2024-05-28_099053124094568400.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 335,
+      "char_start": 53806,
+      "char_end": 54049,
+      "sentence": "Three triggers that unlock this part of the financing have already been agreed with the government: (a) the recruitment of statisticians at the level of the central administration and academic inspections to guarantee reliable data collection;",
+      "practice": "Teacher database as a GPE results-financing disbursement trigger",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Education",
+      "extractor_reason": "Digital core: teacher database | Not routine: registry tied to disbursement trigger | Adoption: 'creation of a database'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: teacher database | Innovative: registry unlocks GPE reform financing | Category: Technological data system",
+      "keywords_hit": "accelerator;data collection",
+      "innovation_cues": "accelerator;guarantee",
+      "innovation_basis": "Digital core: teacher registry | New: registry tied to GPE reform-linked disbursement trigger | Category: digital data system",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6aa64515"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099053124094568400",
+      "doc_type": "PAD",
+      "position": 442,
+      "char_start": 68459,
+      "char_end": 68664,
+      "sentence": "To leverage low-carbon and energy-efficient technologies to deliver the ALP curriculum, such as solar-powered learning devices or digital platforms that can be accessed without relying on grid electricity.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Solar-powered offline digital platforms for ALP curriculum",
+      "reason": "reject: Generic 'innovative instructional technologies' option; no committed device or platform specified",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: off-grid digital curriculum delivery - cue: 'innovative'",
+      "innovation_cues": "innovative;low-carbon",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic 'innovative instructional technologies' option; no committed device or platform specified",
+          "reject_code": "not_innovative",
+          "context_chars": 1238
+        }
+      ]
+    },
+    {
+      "guid": "099053124094568400",
+      "doc_type": "PAD",
+      "position": 485,
+      "char_start": 76662,
+      "char_end": 76723,
+      "sentence": "The project will explore mobile money payment where possible.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Mobile money payment of contract teacher salaries",
+      "reason": "reject: final check round 1: digital: incidental - Digital: mobile money is a payment channel, not the approach | Before 2019: WBG/UN mobile-money salary payments common, e.g. DRC, Liberia teacher payments ~2015",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: mobile money salary disbursement - cue: 'mobile money'",
+      "innovation_cues": "mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: mobile money payroll | Innovative: mobile-money teacher salary payment | Category: Financial disbursement",
+          "reject_code": "",
+          "context_chars": 1205
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: mobile money is a payment channel, not the approach | Before 2019: WBG/UN mobile-money salary payments common, e.g. DRC, Liberia teacher payments ~2015",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 3962,
+    "cached_tokens": 39808,
+    "cache_write_tokens": 0,
+    "output_tokens": 1739,
+    "seconds": 17.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0035
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "tag": "r2.0",
+    "hash": "1a6856d290d4",
+    "date": "2026-11-06",
+    "note": "semantic match + context verification, replication vs scaling by country - first tagged state",
+    "package_version": "0.2.0",
+    "aliases": [
+      "404e40984e5c"
+    ]
+  }
+]

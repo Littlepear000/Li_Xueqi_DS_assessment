@@ -1,0 +1,43 @@
+{
+  "project_id": "P164813",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "39fd8f61",
+  "started_at": "2026-11-07T03:23:26Z",
+  "ended_at": "2026-11-07T03:23:26Z",
+  "input_fingerprint": "f53e34cc8eb98977",
+  "innovation_tier": "",
+  "innovation_keyword_hits": 0,
+  "innovative": "",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [],
+  "trace": [
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:23:26Z",
+      "ended_at": "2026-11-07T03:23:26Z",
+      "status": "ok",
+      "note": "out of scope - approved 2018-09-27 (before 2019-01-01); not read, no model calls",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    }
+  ],
+  "error": "out of scope: approved 2018-09-27 (before 2019-01-01)",
+  "aec_rows": [],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 0,
+    "input_tokens": 0,
+    "cached_tokens": 0,
+    "cache_write_tokens": 0,
+    "output_tokens": 0,
+    "seconds": 0,
+    "reused_answers": 0,
+    "model": "",
+    "est_cost_usd": null
+  }
+}

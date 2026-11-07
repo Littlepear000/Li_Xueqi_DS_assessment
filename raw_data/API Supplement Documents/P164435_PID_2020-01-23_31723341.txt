@@ -1,0 +1,598 @@
+﻿          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+
+
+                       Project Information Document (PID)
+
+
+                      Appraisal Stage | Date Prepared/Updated: 22-Jan-2020 | Report No: PIDC25793
+
+
+
+
+Jan 03, 2020                                                                                        Page 1 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name                  Parent Project ID (if any)
+   Burundi                                       P164435                    Solar Energy in Local
+                                                                            Communities
+   Region                                        Estimated Appraisal Date   Estimated Board Date          Practice Area (Lead)
+   AFRICA                                        22-Jan-2020                28-Feb-2020                   Energy & Extractives
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministère des Finances     Ministère de
+                                                                            l’Hydraulique, de l’Energie
+                                                                            et des Mines (MINHEM),
+                                                                            Agence Burundaise
+                                                                            d’Electrification Rurale
+                                                                            (ABER)
+
+   Proposed Development Objective(s)
+
+   Expand access to energy services for households, enterprises, schools and health facilities in rural areas of Burundi.
+
+   Components
+   Energy Services for Schools and Health Centers
+   Energy Services for Rural Communities
+   Energy Services for Households, including the poor and vulnerable
+   Technical Assistance, Capacity Building and Project Implementation Support
+   Contingent Emergency Response Component
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                         102.00
+   Total Financing                                                                                                           102.00
+                             of which IBRD/IDA                                                                               100.00
+   Financing Gap                                                                                                                 0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+Jan 03, 2020                                                                                                                Page 2 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                                        100.00
+
+         IDA Grant                                                                                                                       100.00
+
+   Non-World Bank Group Financing
+      Counterpart Funding                                                                                                                  2.00
+
+         Borrower/Recipient                                                                                                                2.00
+
+   Environmental and Social Risk Classification
+   Substantial
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+ 1.       Burundi is a small, landlocked country in eastern central Africa with a total land area of 27,834 km2 and
+ approximately 11.1 million inhabitants, making it the second most densely populated country in the continental
+ Sub-Saharan Africa. With its extremely low urbanization level (12 percent), Burundi has the most densely
+ populated rural areas in the world. The high population growth rates (expected to double by 2040) and high
+ population density (470 people per sq. km) generate pressure on land and natural resources.1 Burundi’s
+ population is also very young - about 58 percent of the population is below 19 years old. Economic growth is
+ largely dependent on agriculture, accounting for about 32 percent of the Gross Domestic Product (GDP) and 90
+ percent of livelihoods. This dependence can lead to extreme vulnerability to climatic and external shocks.
+ Although agriculture is the backbone of the economy, many Burundians face hunger, malnutrition, and stunted
+ development2. In 2018, almost the entire Burundian population (95.3 percent) lived below the poverty line of
+ US$3.2/capita/day.
+
+ 2.      Burundi is facing considerable development challenges. Despite strong efforts and improvement in key
+ health and education indicators, Burundi ranks 165th out of 189 countries on the 2018 Statistical Update of the
+ Human Development Index. After more than 10 years of civil disturbances, almost three years of economic
+ embargo, and a four-year post-war emergency period, Burundi has one of the lowest per capita Gross National
+ Income (GNIs) in the world (US$280 in 2016). Despite having a formal legal system that ensures gender equality,
+ women and girls face significant obstacles when accumulating economic assets, including human capital, and
+
+           1   Food and Agriculture Organization and World Bank population estimates. https://data.worldbank.org/indicator/EN.POP.DNST
+           2   56 percent of children under 5 stunted, one of the highest rates of chronic undernutrition worldwide
+
+Jan 03, 2020                                                                                                                        Page 3 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ register lower education, including illiteracy, and health outcomes. Women are significantly disadvantaged in
+ monetizing their economic assets and obtaining relevant returns, particularly in the labor market where, especially
+ in rural areas, women are confined to lower forms of jobs.
+
+ 3.       The Government of Burundi is committed to supporting the economic and social development of the
+ country, as outlined in the “National Development Plan 2018-2027�? (Plan National de Développement, PND),
+ where energy deficit is outlined as one of the main constraints to economic growth. The Government of Burundi
+ (GoB) identified three strategic objectives, the first of which being to ensure “sustainable and inclusive growth for
+ economic resilience and sustainable development�?. Under this objective, the second strategic pillar focuses on
+ appropriate infrastructure to support energy production and promotes alternative sources of energy. At the heart
+ of the PND is a focus on rural areas, where more than 9 million people live, and for which the Government wishes
+ to allocate 60 percent of all resources of the Plan over the next 10 years.
+
+   Sectoral and Institutional Context
+
+ 4.      Governed by the Electricity Law of 2015, the electricity sector in Burundi is largely vertically integrated
+ with a single, fully publicly owned utility REGIDESO that manages all levels of the electricity supply chain:
+ generation, transmission and distribution. The sector currently operates under a single-buyer model, with
+ independent power producers (IPPs) that inject supply to the main utility. Rural electricity service provision by
+ isolated networks is managed by a rural electrification agency, L’Agence Burundaise de l’Électrification Rurale
+ (ABER), which owns and operates the infrastructure and is the agency responsible for the development and
+ implementation of rural electrification programs and projects. The Ministry of Hydraulic, Energy and Mines
+ (MINHEM) is responsible for developing and implementing the energy sector policies, administering sector
+ planning, and supervising state electricity and mining state enterprises. Finally, L’Autorité de Régulation des
+ Secteurs de l'Eau Potable et de l’Energie (AREEN) is the regulatory agency for the electricity and water sector in
+ Burundi.
+           The energy sector in Burundi faces various challenges.
+ 5.       First, renewable energy potential lies largely unharnessed. The average solar insolation in Burundi is
+ similar to that of Southern Europe with around 4-5kWh/m²/day in the Eastern part of the country and 3.3-
+ 4.0kWh/m²/day at high altitudes in the Western part of the country. As for wind energy, there are few sites
+ suitable for wind power generation in Burundi, but some locations such as the shores of Lake Tanganyika (wind
+ speed is 4 to 5 m/s) could prove to have favorable conditions for the exploitation of such energy. There are also
+ several available sources of waste biomass and agricultural residue in different forms in Burundi, which may be
+ harvested and transformed into energy sources.
+
+ 6.      Second, access to electricity remains extremely limited, particularly in rural areas. Most access estimates
+ put overall access to electricity below 10 percent of the population3. REGIDESO serves only about 100,000
+ customers, mainly in the capital (64% of overall client base). While 72.5 percent of the population living in
+ Bujumbura and 42.6 percent of the population living in other urban centers have access to electricity, the
+ proportion falls to 1.8 percent of the population in rural areas, which is a significant constraint to economic, social
+
+
+           3Reliable data on energy access is not available and consequently, access estimates differ. The 2017 Burundi Rapid Household
+           Survey (ECVMB 2017) reports that 7.5 percent of the population has access to electricity. Tracking SDG7: the Energy Progress
+           Report 2018 estimated that nationwide access stands at 9%.
+
+Jan 03, 2020                                                                                                                         Page 4 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ and human capital development in a country where most of the population lives in those areas.4 Burundi’s average
+ per capita consumption of electricity, at 23 kilowatt hour/year (kWh/year), is among the lowest in Sub Saharan
+ Africa where the regional average is 480 kWh/year.5,6
+
+ 7.        Third, insufficient energy supply is undermining economic growth opportunities. A 2014 World Bank
+ Enterprise Survey, the latest so far, found that 22 percent of Burundian firms identified poor electricity access and
+ reliability as major barriers to investment, compared to an average 15 percent across Sub Saharan Africa.7 Outages
+ are frequent due to various reasons: insufficient supply related to lack of investment in new generation capacity
+ along with inadequate maintenance of the existing plants, excessive reliance on hydropower (affecting supply
+ during droughts), and high technical and commercial losses and operational failures. The imbalance between
+ supply and demand in Burundi resulted in rolling blackouts in 2015 and 2016 and service interruptions.8 The
+ situation will not improve in the short term, as demand is expected to continue to grow9 while new generations
+ projects in the pipeline will not come online before 2021, if not later.
+
+ 8.      Fourth, the dependence on wooded biomass is overwhelming with significant implications for
+ deforestation and environment. Biomass represents 95 percent of primary energy consumption, while electricity
+ only accounts for 1.3 percent and oil 2.5 percent. An estimated 98 percent of the population10, in urban and rural
+ areas, uses wood or wood-fuel as the main source for heating and cooking. Cooking happens indoor for 92 percent
+ of the population (96 percent for rural and 60 percent for urban). These poor cooking solutions (primarily with
+ wood and residues) combined with the high density and demographic growth exert a very high pressure on the
+ woodstock. This situation results in (i) significant natural capital depletion, estimated at 29 percent of GDP per
+ capita in 2010 and largely due to a net depletion of forests11, and (ii) dire health costs for families (especially
+ women and the youngest members of families) due to respiratory illness related to indoor air pollution and the
+ physical strain of an ever-expanding radius of wood collection.
+
+           Off-grid service delivery mechanisms are essential for GoB to move towards its announced vision of 30%
+           electricity access by 2030
+
+ 9.      Alternative service delivery mechanisms are needed to provide services to customers in off-grid areas,
+ either as temporary solutions until the arrival of the grid or as a permanent solution. According to preliminary
+ geospatial mapping analysis and estimates of electricity demand, at least one third of the power capacity required
+ to meet electricity demand in 2030 must come from mini-grids, another third would be grid-connected, and the
+ remaining electricity demand would be met through standalone solar systems.
+
+
+
+           4 Subjective Poverty and recent Changes in Living Conditions: Findings from the Rapid Household Survey (2017), World Bank,
+           June 2018.
+           5 Implementation Completion and Results Report on a Global Environment Facility Grant to the Republic of Burundi. World Bank,
+
+           June 2016.
+           6 World Development Indicators. Electric power consumption (kWh per capita), 2016,
+
+           https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC
+           7 Enterprise Surveys (http://www.enterprisesurveys.org). The World Bank. Burundi (2014).
+           8 Plan Directeur de Production et de Transport de l’Energie Électrique au Burundi. Tractebel. (2018). Rapport final - Tome 2:
+
+           Volume 1 - Prévision de la demande. Page 21.
+           9 Peak demand is expected to grow to 89 MW in 2020 and 249 MW in 2030.9
+           10 ESDB-III : Troisième Enquête Démographique et de Santé au Burundi 2016-2017
+           11 Burundi Poverty Assessment, World Bank 2016 – page 153-154
+
+
+
+Jan 03, 2020                                                                                                                         Page 5 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ 10.      Reliance on grid alone is prohibitively expensive. The recently finalized power sector masterplan
+ estimated investment needs of US$661 million in the next 5 years to reach the Government’s goal of 30% of
+ electricity access in the country by 2030. To-date, the government has not been able to mobilize funds and
+ development partners are unwilling to commit funds to grid extension. Given the limited financing available and
+ the weak financial performance of REGIDESO, Government’s initial priority to densify the existing network in
+ urban and peri urban centers has broadened to include decentralized supply solutions, namely mini-grids and
+ standalone systems.
+
+ 11.     Energy access is recognized as a vital enabler of human capital development, particularly SDG 3 and 4.
+ Two notable programs in Burundi are (i) School feeding program, implemented by Direction Nationale des
+ Cantines Scolaires through the World Food Program (WFP), that provides lunches to pupils in the 20 percent of
+ schools with the highest incidence of malnutrition and (ii) national Free Health Care (FHC) for pregnant women
+ and children under 5 years that provides beneficiaries with access to all services available at public and contracted
+ private facilities (health centres and hospitals). Providing energy access to clinics, schools, SMEs and households
+ will improve the provision of basic services, thereby improving welfare, catalyzing growth, and dramatically
+ changing livelihoods in rural areas.
+
+           The proposed SOLEIL is designed to provide energy services to promote human capital development,
+           enhance productivity of rural enterprises, and reach poor and vulnerable populations, including women.
+
+ 12.       The project would leverage ongoing programs in education and health to deliver energy services to such
+ facilities. Public energy programs have been financed by a few development partners over the past couple of
+ years that led to a total of approximately 120 electrified health centers and up to 50 electrified schools, and
+ approximately 400 primary schools were provided with clean and efficient cookstoves (CECs). The Government’s
+ Performance Based Fund (PBF) mechanism supporting health centers throughout the country will be used to
+ guarantee viability of energy systems in those facilities beyond project life, while the project will build on the
+ National Canteen Program to provide CECs to those schools in the Program.
+
+ 13.     The proposed project situates energy as a catalyst for human capital development in rural areas with
+ solar systems for health care centers and schools. PV systems and CECs present key opportunities for energy
+ access in public facilities located in remote areas and often characterized by poor surrounding infrastructure and
+ low energy demand. The need remains for the improved provision of basic energy services at health and
+ education facilities.
+
+ 14.     Project design is underpinned by comprehensive, data-driven analytics. With ESMAP support, Burundi
+ is developing a least cost geospatial plan, off-grid market assessment, a public facilities needs inventory, an energy
+ access survey and a clean cooking assessment. These studies are informing project preparation and will strengthen
+ implementation; they will also contribute to the preparation of the Government’s off-grid strategy. The results of
+ these studies can help strengthen governance and transparency, and establish a future basis for replication by
+ constituting a useful set of data that can be used by other donors and the private sector to support off-grid
+ interventions.
+
+ 15.     The proposed project benefits a varied group of consumers by creating opportunities to improve the
+ provision of community services, generate income and enhance productivity in rural areas, and improve
+ consumer welfare. Health and education facilities, households (including the poor and vulnerable and those
+
+
+Jan 03, 2020                                                                                                         Page 6 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ headed by women), agriculture farms, and small and medium enterprises (SMEs) will all receive enhanced access
+ to energy services. The project will deploy PV-based mini-grids, utilizing recent trends in PV technology and public-
+ private partnership (PPP) models that leverage private sector strengths and efficiencies in constructing, operating
+ and maintaining these mini-grids. A geospatial analysis funded by ESMAP has already identified approximately
+ 150 potential mini-grids for locations that are not expected to be connected to the national grid in the short and
+ mid-term, with the potential to provide electricity to 90,000 customers and at the same time creating economic
+ opportunities and supporting electrification of public facilities in those communities. The project will also deploy
+ standalone solar systems and CECs for the improvement in welfare. The market for stand-alone solar systems in
+ Burundi is estimated to be around 2 million households12.
+
+   C. Proposed Development Objective(s)
+
+ Development Objective(s) (From PAD)
+ 16.     The Project Development Objective is to expand access to energy services for households, enterprises,
+ schools and health facilities in rural areas of Burundi.
+
+   Key Results
+
+ 17.       The PDO-level results indicators are the following:
+            a. People provided with new or improved electricity service (Core Results Indicator, Number)
+            b. Health centers and schools provided with new or improved electricity services (Number)
+            c. Households provided with clean and efficient cookstoves (Number)
+            d. Schools provided with clean and efficient cookstoves (Number)
+
+   D. Project Description
+
+ 18.       The Project has five components.
+           Component 1: Energy Services for Schools and Health Centers (IDA US$27 million)
+ 19.     Under this component, the project will finance the design, installation, maintenance and replacement of
+ solar PV system components and institutional CECs in unelectrified schools and health facilities located in remote
+ areas. The component will enhance the quality of health and education services to the rural parts of the
+ population, with an estimated 6,300,000 beneficiaries annually once all targeted institutions have been equipped.
+
+ 20.      In order to ensure the sustainable provision of energy services, project funds will be used by MINHEM to
+ provide overall supervision of maintenance and specifically (i) provide regular payments for M&R to the schools
+ and health centers, (ii) provide basic stock of equipment for maintenance and initial stock for replacement at the
+ maintenance centers, and (iii) train and contribute technicians to district maintenance centers. The technicians
+ will provide preventive maintenance as needed and curative maintenance for all systems.
+
+ 21.     This component will also finance (i) access to alternative fuel sources, such as briquettes, for schools in
+ areas of severe wood scarcity, (ii) the development and piloting of solar libraries to enable students to borrow
+ individual solar systems to work in evening hours and improve academic success, and (iii) a similar "borrow a new
+
+           12Based on the following assumptions: 88 percent of population living in rural areas; 1.8 percent electrification rate; 4.8 people
+           per household.
+
+Jan 03, 2020                                                                                                                               Page 7 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ stove and try it at home" initiative targeting parents of school children. These efforts will raise consumer
+ awareness of the benefits of solar products in the schools' broader community, complementing the consumer
+ awareness program rolled out under Component 4, and are especially important for the development of a market
+ for such solutions in rural areas as envisaged under Component 3.
+
+ 22.     Energy service provision for health centers and schools requires cross-sectoral, multi-stakeholder
+ collaboration that will be key to long-term success. The MINHEM has established and will continue to lead a very
+ close collaboration with the Ministries of Education and Health, who are already members of the Project Focal
+ Group, established during project preparation and to be converted into the Project Technical Committee during
+ implementation.
+           Component 2: Energy Services for Rural Communities (IDA US$37 million)
+ 23.      This Component will fund the deployment of several mini-grids - using business models that leverage the
+ private sector - in areas where electricity supply through mini-grids represents the least-cost option from a country
+ perspective, as underpinned by geospatial and socioeconomic analyses.
+
+ 24.       Up to 45 mini-grid sites will be selected by MINHEM and ABER from long-list of approximately 150
+ potential sites (identified in an ESMAP-funded study based on GIS analysis13) based on transparent selection
+ criteria. Care will be taken to select sites with significant potential for economic development, income-generating
+ activities, and job creation in diverse areas of the country.
+
+ 25.     The mini-grids will service all households, schools and health facilities in the specified service area.
+ Commercial customers (SMEs) and other anchor loads (such as agricultural post-harvesting centers) will be
+ encouraged to connect as well. Based on preliminary analysis, it is expected that roughly 31,000 customers,
+ including households, SMEs, schools and health facilities, will benefit from mini-grids developed within this
+ component.
+
+ 26.     The mini-grid sites will be supplied through solar hybrid systems, that is, solar generation with battery14
+ storage and diesel backup. The mini-grids will be built to standards specified by AREEN (Burundi’s grid code
+ standard to allow for integration to the main grid in the future is forthcoming and under preparation).
+
+ 27.     Under the proposed approach, the private sector will develop mini-grids to deliver electricity services on
+ a build-own-operate basis. Through a single procurement process, ABER will competitively award to a single
+ bidder the responsibility of the supply, installation, and operation/maintenance of all mini-grid components
+ (generation and distribution network) in a single lot. Subsequently the operator will operate and maintain those
+ assets over a renewable 10–15-year period, providing O&M and retail services to their customers.
+           Component 3: Energy Services for Households, including the poor and vulnerable (IDA US$17 million)
+ 28.    This component will finance a grant fund for the distribution of standalone solar products to roughly
+ 65,000 households and CECs to roughly 300,000 households. This component aims to improve household access
+
+           13 This ESMAP-funded GIS study aggregates high-density populations in order to accurately locate villages and settlements of
+           populations beyond the scope of the national grid network. It also aggregated various datasets, geotagged all building structures
+           in the country, and categorized buildings to provide insight on activities near potential mini-grid sites of interest. Potential sites
+           range in size from 150 to 4600 customers.
+           14 This approach is consistent with World Bank’s recent initiative to promote battery storage.
+
+
+
+Jan 03, 2020                                                                                                                                  Page 8 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+ to solar systems and CECs, and will (i) address constraints to accelerating growth of the isolated solar and CEC
+ markets, (ii) leverage mechanisms put in place to mitigate the lack of access to foreign currency hindering private
+ sector growth and access to finance for households and businesses, (iii) improve affordability of solar products
+ and cooking services, and (iv) encourage productive use of electricity.
+
+ 29.     Financing of standalone solar products and CECs will be provided to the private sector through a variety
+ of grant mechanisms that stimulate and accelerate the growth of clean energy market. This includes:
+
+           a. Start-up grants for companies with viable, scalable and sustainable business models to initiate their
+              operations in Burundi and pilot new approaches.
+           b. Grants for early stage growth of clean energy businesses. These grants will be partially results-based
+              and disbursed based on pre-determined business plan milestones.
+           c. Results-Based Financing (RBF) for quality verified solar and cookstove products to support the
+              penetration of high-quality products in the Burundian market and build customer confidence in these
+              products. These grants will be provided against verified sales/installations of quality-certified
+              products.
+
+           Component 4: Technical Assistance, Capacity Building and Project Implementation Support (IDA US$19
+           million)
+
+ 30.      Given the tender and early stage of energy service provision using solar and clean cooking technologies,
+ considerable technical assistance and capacity development is gravely needed. This component will assist public
+ and private sector stakeholders - Ministry of Energy, ABER, AREEN, REGIDESO, off-grid companies, micro finance
+ institutions, etc. - in building technical expertise and operational capacity, and devise enabling policies and
+ regulatory frameworks to expand off-grid access. It will provide funding to support the broad range of technical
+ and financial support listed below:
+
+           a. Subcomponent 4.1: Access Strategy and Planning, including preparation of a National Electrification
+              Strategy and Geospatial Plan
+           b. Subcomponent 4.2: Market Development Support, including: i) development of local capacity for
+              installing and maintaining solar systems and CECs ii) Strengthening the enabling environment for off-
+              grid energy service provision and iii) Empowering and educating sector players
+           c. Subcomponent 4.3: Consumer Awareness and Citizen Engagement, Women’s Employment and
+              Female Entrepreneurship
+           d. Subcomponent 4.4: Project Coordination, Implementation Support, Capacity Building and Sector
+              Studies
+
+           Component 5: Contingent Emergency Response Component (IDA US$0 million)
+ 31.     A CERC with zero allocation may be used to partially cover emergency response through implementation
+ of key activities by the appropriate agencies to respond to the emergency. The CERC could also be used to channel
+ additional funds should they become available as a result of an eligible emergency. For the Burundi energy sector,
+ emergency conditions may arise subsequent to droughts, flooding, or energy import shortage.
+
+
+
+Jan 03, 2020                                                                                                      Page 9 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+  Environmental
+  .              and Social Safeguards
+  .
+  Legal Operational Policies
+                                                                         Triggered?
+
+   Projects on International Waterways OP 7.50                          No
+
+   Projects in Disputed Areas OP 7.60                                   No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+ 32.      The Environmental Risk Classification of the project is Substantial due to: (i) the expected low institutional
+ capacity of the PIU, ABER, MHEM and OBPE on the ESF; (ii) impacts and risks associated with hybrid systems that
+ combine power generation capacity from solar PV and diesel backup with battery storage as well as the
+ construction of low voltage distribution networks; (iii) the production of noise, and water and air pollution. The
+ Social Risk classification for the project is Moderate, as the project may include (i) small-scale involuntary land
+ acquisition and related impacts, (ii) exposure of GBV/SEAH risks to community members due to labor influx of
+ infrastructure works, (iii) barriers to access to project benefits for women and vulnerable populations including
+ Batwa; and (iv) risks of inequity in the identification of sub-project sites. The establishment of a results-based
+ financing (RBF) facility, and the need to develop and maintain effective environmental and social systems of
+ beneficiary solar off-grid companies adds to the complexity of the social and environmental risks assessment and
+ mitigation measures.
+
+ 33.     The project has been scored as moderate risk according to the Gender-Based Violence (GBV) Risk
+ Assessment Screening Tool. Factors that increase risks of GBV/SEAH are the influx of workers who will be in close
+ proximity to women and girls in communities, notably for work within schools and health centers, spanning a
+ broad geographic area including rural settings that are particularly poor, remote and/or in a humanitarian crisis.
+ In addition, targeting vulnerable households for access to energy services risks setting up the type of unequal
+ power differential between vulnerable women and those who provide access to a valuable asset – energy –
+ causing increased risk of sexual exploitation.
+
+ 34.     As per ESS1 requirements, an ESMF instrument has been prepared that provides guidelines for the
+ preparation of subproject-specific E&S instruments during the implementation phase. These include subproject
+ screening, risk categorization, preparing E&S instruments, as necessary, and review, clearance and disclosure of
+ those instruments. A GBV/SEAH Action Plan will also be prepared with steps to minimize risks related to gender-
+ based violence and sexual exploitation, abuse and harassment.
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+ 35.    The project will be implemented by the Ministry of Hydraulic, Energy and Mines (MINHEM). The
+ MINHEM will create a Project Coordination Unit (PCU) to coordinate all project activities, and the PCU will include
+ a project coordinator and technical staff as well as FM, procurement and environmental and social (E&S)
+
+
+Jan 03, 2020                                                                                                         Page 10 of 13
+           The World Bank
+           Solar Energy in Local Communities (P164435)
+
+
+ safeguards specialists, the latter with experience in WB fiduciary procedures and E&S requirements.
+
+ 36.   The PCU will be responsible for overall project oversight and monitoring progress, the management and
+ implementation of all activities under Components 1, 3, 4 and 5, and will supervise ABER to ensure effective
+ implementation of project activities under Component 2.
+          i.   Component 1. Under subcomponent 1.1, the PCU will obtain initial support by contracting a UN
+               Agency as a service provider (under output agreement) to assist in installing and maintaining
+               stoves in schools. The PCU will directly manage activities related to the procurement, installation
+               and maintenance of solar equipment for health centers and schools.
+               ii.    Component 2. The rural electrification agency, ABER, will establish a project implementing unit
+                      (PIU) and be responsible for activities related to mini-grid development. A transaction adviser will
+                      be hired to facilitate the preparation of the tender documents and to establish and implement
+                      the mini-grid procurement process.
+               iii.   Component 3. The MINHEM through the PCU will competitively select a Grant Administrator to
+                      manage all windows of the Grant Fund, including the screening and selection of grant
+                      beneficiaries and provision of technical assistance under this Component. MINHEM will
+                      determine the technical criteria for companies to qualify to participate in the grants program as
+                      well as set minimum electrification requirements and quality standards for the market.
+               iv.    Component 4: Activities under Component 4 will be executed by the MINHEM through the PCU,
+                      in collaboration with relevant entities (ABER, AREEN, REGIDESO, Ministries of Health and
+                      Education) for technical inputs.
+ 37.     A Project Steering Committee, chaired by the MINHEM, and composed of high-level representatives from
+ MINHEM, ABER, AREEN, REGIDESO, Ministries of Health, Education, Solidarity and Finance, as well as Consumers
+ representatives, will meet bi-annually to review progress, provide policy guidance, and resolve any high-level
+ challenges facing the project. During project preparation, a focal group was created by the MINHEM, which
+ includes technical staff from the entities represented in the Steering Committee. MINHEM requested the
+ convening of a weekly focal group meeting to monitor progress during preparation and identify any issues arising.
+ Once the project moves to implementation, the focal group will meet monthly and be formally established as the
+ Technical Committee.
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Rhonda Lenai Jordan Antoine
+      Energy Specialist
+
+      Justin Marie Bienvenu Beleoken Sanguen
+      Senior Energy Specialist
+
+      Borrower/Client/Recipient
+
+
+Jan 03, 2020                                                                                                           Page 11 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+
+
+   Ministère des Finances
+   Désiré Musharitse
+   Responsable du Bureau de Planification et Suivi et Evaluatio
+   mushdes@yahoo.fr
+   Implementing Agencies
+   Ministère de l’Hydraulique, de l’Energie et des Mines (MINHEM)
+   Ndayi Martin
+   Directeur General de l’Energie
+   ndamartin82@gmail.com
+
+   Agence Burundaise d’Electrification Rurale (ABER)
+   Jacques Dusabunwani
+   Directeur General
+   dusabj@gmail.com
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Rhonda Lenai Jordan Antoine
+   Task Team Leader(s):
+                                          Justin Marie Bienvenu Beleoken Sanguen
+   Approved By
+   Environmental and Social Standards
+   Advisor:
+   Practice Manager/Manager:
+
+   Country Director:                      Veronique Kabongo                        23-Jan-2020
+
+
+
+
+Jan 03, 2020                                                                                     Page 12 of 13
+          The World Bank
+          Solar Energy in Local Communities (P164435)
+
+
+
+
+Jan 03, 2020                                            Page 13 of 13
+

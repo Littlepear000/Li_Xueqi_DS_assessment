@@ -1,0 +1,459 @@
+{
+  "project_id": "P178545",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "7c68a03c",
+  "started_at": "2026-11-07T03:34:39Z",
+  "ended_at": "2026-11-07T03:35:00Z",
+  "input_fingerprint": "a2ce1c99f65f539d",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 29,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P178545-A1",
+      "project_id": "P178545",
+      "name": "Offline-capable tablets with distance-learning YouTube channel for village facilitators",
+      "description": "Provides weatherproof tablets with offline software and smartphone credit, plus YouTube distance learning, to youth groups and facilitators.",
+      "why_innovative": "New delivery arrangement: blended face-to-face and YouTube distance learning - cue: 'distance learning' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099052623095032173",
+        "doc_type": "PAD",
+        "doc_date": "2023-05-24",
+        "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+        "char_start": 129064,
+        "char_end": 129257,
+        "text": "It will expand a capacity-building approach successfully introduced for local PRF staff in the AF phase of PRF III, combining face-to-face sessions with distance learning via a YouTube channel.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099052623095032173",
+          "doc_type": "PAD",
+          "doc_date": "2023-05-24",
+          "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+          "char_start": 129258,
+          "char_end": 129489,
+          "text": "The project provides weatherproof tablets to the YGs, with software allowing offline sessions and smartphone credit to the Page 37 of 84 The World Bank Community Livelihood Enhancement And Resilience (P178545) village facilitators.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: offline tablet software and video channel are the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Supports youth groups and facilitators with learning tools, aligning with social protection/community support services.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: offline tablet software, YouTube channel | Innovative: blended distance learning for village staff | Category: digital delivery tools",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: blended face-to-face and YouTube distance learning - cue: 'distance learning'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178545",
+      "doc_type": "PAD",
+      "doc_date": "2023-05-24",
+      "guid": "099052623095032173",
+      "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:34:39Z",
+      "ended_at": "2026-11-07T03:34:43Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:34:43Z",
+      "ended_at": "2026-11-07T03:34:43Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-06-15, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:34:43Z",
+      "ended_at": "2026-11-07T03:34:46Z",
+      "status": "ok",
+      "note": "29 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 29,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 3,
+          "enabling_processes": 6,
+          "innovation_cycle": 8,
+          "innovation": 4,
+          "results_based_management": 4,
+          "innovation_types": 4
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:34:46Z",
+      "ended_at": "2026-11-07T03:34:46Z",
+      "status": "ok",
+      "note": "PAD 2023-05-24 (P178545_PAD_2023-05-24_099052623095032173.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178545",
+            "doc_type": "PAD",
+            "doc_date": "2023-05-24",
+            "guid": "099052623095032173",
+            "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:34:46Z",
+      "ended_at": "2026-11-07T03:34:46Z",
+      "status": "ok",
+      "note": "179 reading units (0 numbered paragraphs) from 1517 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 179
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:34:46Z",
+      "ended_at": "2026-11-07T03:34:50Z",
+      "status": "ok",
+      "note": "50 of 179 units carry a digital / AI cue (13 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 50,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 13
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:34:50Z",
+      "ended_at": "2026-11-07T03:34:54Z",
+      "status": "ok",
+      "note": "3 candidate practices from 50 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 153840,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 1131,
+          "cached_tokens": 32256,
+          "cache_write_tokens": 0,
+          "output_tokens": 1223,
+          "seconds": 10.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.002
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:34:54Z",
+      "ended_at": "2026-11-07T03:34:58Z",
+      "status": "ok",
+      "note": "1 accepted, 2 rejected (not_innovative 2); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 122513,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 18214,
+          "cached_tokens": 5248,
+          "cache_write_tokens": 0,
+          "output_tokens": 253,
+          "seconds": 3.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0058
+        },
+        "accepted": 1,
+        "rejected": 2,
+        "expanded": 1,
+        "reject_codes": {
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:34:58Z",
+      "ended_at": "2026-11-07T03:34:59Z",
+      "status": "ok",
+      "note": "1 of 1 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 943,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 234,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 45,
+          "seconds": 1.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:34:59Z",
+      "ended_at": "2026-11-07T03:34:59Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:34:59Z",
+      "ended_at": "2026-11-07T03:35:00Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 3848,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 449,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 87,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:35:00Z",
+      "ended_at": "2026-11-07T03:35:00Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:35:00Z",
+      "ended_at": "2026-11-07T03:35:00Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 192
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178545-A1-E1",
+      "approach_id": "P178545-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P178545",
+      "doc_id": "099052623095032173",
+      "doc_type": "PAD",
+      "doc_date": "2023-05-24",
+      "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+      "unit_id": "U93",
+      "para_no": null,
+      "sentence_position": 797,
+      "char_start": 129064,
+      "char_end": 129257,
+      "sentence": "It will expand a capacity-building approach successfully introduced for local PRF staff in the AF phase of PRF III, combining face-to-face sessions with distance learning via a YouTube channel.",
+      "practice": "Offline-capable tablets with distance-learning YouTube channel for village facilitators",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: offline tablet software, YouTube channel | Not routine: blended distance learning for village staff | Adoption: 'will expand'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline tablet software, YouTube channel | Innovative: blended distance learning for village staff | Category: digital delivery tools",
+      "keywords_hit": "smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: blended face-to-face and YouTube distance learning - cue: 'distance learning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "7c68a03c"
+    },
+    {
+      "row_id": "P178545-A1-E2",
+      "approach_id": "P178545-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P178545",
+      "doc_id": "099052623095032173",
+      "doc_type": "PAD",
+      "doc_date": "2023-05-24",
+      "file_name": "P178545_PAD_2023-05-24_099052623095032173.txt",
+      "unit_id": "U93",
+      "para_no": null,
+      "sentence_position": 798,
+      "char_start": 129258,
+      "char_end": 129489,
+      "sentence": "The project provides weatherproof tablets to the YGs, with software allowing offline sessions and smartphone credit to the Page 37 of 84 The World Bank Community Livelihood Enhancement And Resilience (P178545) village facilitators.",
+      "practice": "Offline-capable tablets with distance-learning YouTube channel for village facilitators",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: offline tablet software, YouTube channel | Not routine: blended distance learning for village staff | Adoption: 'will expand'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline tablet software, YouTube channel | Innovative: blended distance learning for village staff | Category: digital delivery tools",
+      "keywords_hit": "smartphone",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: blended face-to-face and YouTube distance learning - cue: 'distance learning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "7c68a03c"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099052623095032173",
+      "doc_type": "PAD",
+      "position": 813,
+      "char_start": 131733,
+      "char_end": 131934,
+      "sentence": "Monitoring data and qualitative information will be entered into a web-based MIS, which will serve as the main source of information for semi-annual and annual reports submitted to Steering Committees.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Web-based MIS fed by tablet data entry at village level",
+      "reason": "reject: Web-based MIS with tablet data entry is standard M&E reporting, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: decentralized tablet data capture into web MIS - cue: 'web-based MIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Web-based MIS with tablet data entry is standard M&E reporting, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1273
+        }
+      ]
+    },
+    {
+      "guid": "099052623095032173",
+      "doc_type": "PAD",
+      "position": 818,
+      "char_start": 132326,
+      "char_end": 132543,
+      "sentence": "The PT will also explore how to effectively use Kobo Toolbox to regularly monitor infrastructure construction progress and quality (particularly with the use of pictures) while considering network connectivity issues.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Kobo Toolbox photo-based monitoring of infrastructure construction quality",
+      "reason": "reject: Kobo Toolbox photo monitoring is routine M&E data collection, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: photo-verified construction monitoring via Kobo - cue: 'explore'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Text only says PT 'will explore' Kobo; unclear whether project commits to photo-based monitoring",
+          "reject_code": "",
+          "context_chars": 1231
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Kobo Toolbox photo monitoring is routine M&E data collection, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 86893
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 20028,
+    "cached_tokens": 37888,
+    "cache_write_tokens": 0,
+    "output_tokens": 1608,
+    "seconds": 16.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0082
+  }
+}

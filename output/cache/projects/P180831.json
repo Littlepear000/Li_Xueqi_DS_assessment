@@ -1,0 +1,421 @@
+{
+  "project_id": "P180831",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "d02b991d",
+  "started_at": "2026-11-07T03:36:32Z",
+  "ended_at": "2026-11-07T03:36:46Z",
+  "input_fingerprint": "ff9c66b7b1afdc9a",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 18,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P180831-A1",
+      "project_id": "P180831",
+      "name": "AI forecasting and outage management for grid operations",
+      "description": "The project deploys an AI tool for daily renewable generation forecasting and dispatch plus an outage management system to speed post-disaster grid restoration. Practices: AI-based daily projection and dispatch tool for RE; outage management system for post-disaster grid restoration.",
+      "why_innovative": "New product: AI daily RE projection and dispatch tool - cue: 'Artificial intelligence-based' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099033125172033452",
+        "doc_type": "PAD",
+        "doc_date": "2025-03-27",
+        "file_name": "P180831_PAD_2025-03-27_099033125172033452.txt",
+        "char_start": 67909,
+        "char_end": 68553,
+        "text": "RREIIF will finance specifically in this phase (i) tools for operation and planning including, modelling tools to build a more resilient transmission network, such as the installation of an outage management system to more efficiently restore infrastructure after natural disasters, Artificial intelligence-based daily projection and dispatch tool; assistance in building complete model for different islands, (iii) elaboration of standards to improve resilience and training in T&D construction, and (iv) supply and installation of 6 MWh BESS and T&D for the BESS integration in the utility grid as well as SCADA system to monitor RE dispatch.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: AI forecasting model is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Energy Networks and Storage",
+        "code": "",
+        "confidence": null,
+        "rationale": "AI projection and dispatch tool supports grid operations and integration of renewable generation.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: AI RE projection/dispatch tool | Innovative: AI forecasting for island grid dispatch | Category: Technological tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: AI daily RE projection and dispatch tool - cue: 'Artificial intelligence-based'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P180831",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-27",
+      "guid": "099033125172033452",
+      "file_name": "P180831_PAD_2025-03-27_099033125172033452.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:32Z",
+      "ended_at": "2026-11-07T03:36:33Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:33Z",
+      "ended_at": "2026-11-07T03:36:33Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-04-17, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:33Z",
+      "ended_at": "2026-11-07T03:36:34Z",
+      "status": "ok",
+      "note": "18 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 18,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 6,
+          "enabling_processes": 1,
+          "innovation_cycle": 6,
+          "innovation": 1,
+          "results_based_management": 2,
+          "enabling_technologies": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:34Z",
+      "ended_at": "2026-11-07T03:36:34Z",
+      "status": "ok",
+      "note": "PAD 2025-03-27 (P180831_PAD_2025-03-27_099033125172033452.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P180831",
+            "doc_type": "PAD",
+            "doc_date": "2025-03-27",
+            "guid": "099033125172033452",
+            "file_name": "P180831_PAD_2025-03-27_099033125172033452.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:34Z",
+      "ended_at": "2026-11-07T03:36:34Z",
+      "status": "ok",
+      "note": "103 reading units (13 numbered paragraphs) from 830 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 103
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:34Z",
+      "ended_at": "2026-11-07T03:36:35Z",
+      "status": "ok",
+      "note": "15 of 103 units carry a digital / AI cue (5 also an innovation cue); 10 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 15,
+        "dropped": 0,
+        "legal_condition": 10,
+        "with_innovation_cue": 5
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:35Z",
+      "ended_at": "2026-11-07T03:36:39Z",
+      "status": "ok",
+      "note": "4 candidate practices from 15 units in 2 calls",
+      "llm_calls": 2,
+      "input_chars": 57534,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 352,
+          "cached_tokens": 11899,
+          "cache_write_tokens": 0,
+          "output_tokens": 786,
+          "seconds": 5.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0011
+        },
+        "extracted": 4
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:39Z",
+      "ended_at": "2026-11-07T03:36:42Z",
+      "status": "ok",
+      "note": "2 accepted, 2 rejected (not_innovative 2); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 23125,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1440,
+          "cached_tokens": 3456,
+          "cache_write_tokens": 0,
+          "output_tokens": 294,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0008
+        },
+        "accepted": 2,
+        "rejected": 2,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:42Z",
+      "ended_at": "2026-11-07T03:36:43Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1038,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 256,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 77,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:43Z",
+      "ended_at": "2026-11-07T03:36:44Z",
+      "status": "ok",
+      "note": "2 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1241,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 292,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 58,
+          "seconds": 1.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:44Z",
+      "ended_at": "2026-11-07T03:36:46Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4085,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 570,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 74,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:46Z",
+      "ended_at": "2026-11-07T03:36:46Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 1 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:46Z",
+      "ended_at": "2026-11-07T03:36:46Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 232
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P180831-A1-E1",
+      "approach_id": "P180831-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P180831",
+      "doc_id": "099033125172033452",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-27",
+      "file_name": "P180831_PAD_2025-03-27_099033125172033452.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 360,
+      "char_start": 67909,
+      "char_end": 68553,
+      "sentence": "RREIIF will finance specifically in this phase (i) tools for operation and planning including, modelling tools to build a more resilient transmission network, such as the installation of an outage management system to more efficiently restore infrastructure after natural disasters, Artificial intelligence-based daily projection and dispatch tool; assistance in building complete model for different islands, (iii) elaboration of standards to improve resilience and training in T&D construction, and (iv) supply and installation of 6 MWh BESS and T&D for the BESS integration in the utility grid as well as SCADA system to monitor RE dispatch.",
+      "practice": "AI-based daily projection and dispatch tool for RE",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Networks and Storage",
+      "extractor_reason": "Digital core: AI projection and dispatch tool | Not routine: AI forecasting rare in MDB grid ops | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: AI RE projection/dispatch tool | Innovative: AI forecasting for island grid dispatch | Category: Technological tool",
+      "keywords_hit": "artificial intelligence;artificial-intelligence",
+      "innovation_cues": "",
+      "innovation_basis": "New product: AI daily RE projection and dispatch tool - cue: 'Artificial intelligence-based'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "d02b991d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099033125172033452",
+      "doc_type": "PAD",
+      "position": 345,
+      "char_start": 65605,
+      "char_end": 65906,
+      "sentence": "This will finance (i) reinforcements of T&D networks to accommodate increased capacity and resilience, (ii) construction of new substations to optimize voltage levels, and (iii) installation of remote redundant computer servers for the existing Supervisory Control and Data Acquisition (SCADA) system.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "remote redundant SCADA servers for grid control centers",
+      "reason": "reject: Redundant SCADA backup servers are standard utility IT procurement, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: redundant remote SCADA backup for grid resilience - cue: 'modernization'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Redundant SCADA backup servers are standard utility IT procurement, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1237
+        }
+      ]
+    },
+    {
+      "guid": "099033125172033452",
+      "doc_type": "PAD",
+      "position": 812,
+      "char_start": 134070,
+      "char_end": 134304,
+      "sentence": "Frequency Monthly Data source Utility operational report and private operators’ operational report Data is collected through the offtake installed AMI meters for both private operator and Methodology for Data Collection the off taker.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "AMI meter data for utility-scale RE output verification",
+      "reason": "reject: Standard M&E data collection via existing AMI meters, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: AMI-metered RE output verification - cue: 'Methodology for Data Collection'",
+      "innovation_cues": "private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard M&E data collection via existing AMI meters, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1306
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 6,
+    "input_tokens": 2910,
+    "cached_tokens": 15739,
+    "cache_write_tokens": 0,
+    "output_tokens": 1289,
+    "seconds": 12.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0025
+  }
+}

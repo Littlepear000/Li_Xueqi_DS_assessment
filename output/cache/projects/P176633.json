@@ -1,0 +1,782 @@
+{
+  "project_id": "P176633",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4f2b4a5d",
+  "started_at": "2026-11-07T03:33:16Z",
+  "ended_at": "2026-11-07T03:33:44Z",
+  "input_fingerprint": "5d2151ca1fedac9c",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 30,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P176633-A1",
+      "project_id": "P176633",
+      "name": "Geospatial least-cost electrification planning with remote mini-grid monitoring",
+      "description": "The project uses geospatial least-cost rollout planning to site mini-grids in conflict-affected areas and a digital platform to remotely monitor their performance. Practices: Geospatial least-cost electrification rollout plan used to select sites in conflict-affected territories; Digital platform for remote mini-grid performance monitoring.",
+      "why_innovative": "Digital core: geospatial rollout plan | New: spatial targeting of neglected conflict territories | Adoption: incorporated in finalized plan and site selection | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099092923114511777",
+        "doc_type": "PAD",
+        "doc_date": "2023-06-01",
+        "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+        "char_start": 31707,
+        "char_end": 31848,
+        "text": "This has been incorporated in the recently finalized geospatial electrification rollout plan and in the selection of sites to be electrified.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099092923114511777",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-01",
+          "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+          "char_start": 31360,
+          "char_end": 31706,
+          "text": "One of the solutions identified is an adjustment to the spatial distribution of investments, through additional investment in neglected or marginalized territories, with potentially multisector projects supporting the deployment of infrastructure, services, and governance systems across territories, focusing on territorial and social inclusion.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099092923114511777",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-01",
+          "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+          "char_start": 31849,
+          "char_end": 31975,
+          "text": "Communities in both conflict and high conflict risk territories will be provided with access to electricity under the project.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099092923114511777",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-01",
+          "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+          "char_start": 114733,
+          "char_end": 114992,
+          "text": "It would support AMADER’s Technical assistance in project management and supervision of works, communication, and the development of the digital platform for the collection and analysis of data to ensure remote performance monitoring of individual mini-grids.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: geospatial analysis is the core targeting mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Renewable Energy Solar",
+        "code": "",
+        "confidence": null,
+        "rationale": "Geospatial least-cost electrification planning targets solar-based access rollout, aligning with the dominant solar sector.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P166042",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Africa Regional Energy Trade DPF Program (P171225), MESIP (P166796), REHSP (131084), and the FCS RE Segou Solaire Mali Project (P148355). The World Bank has also been supporting several investment projects aimed at expanding access to electricity in the region: Guinea- Mali Interconnection Project (P166042) and Regional Off-Grid Electricity Access Project (ROGEAP, P160708) or ECOWAS-Regional Elect"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: geospatial rollout plan | Innovative: directs site selection to conflict areas | Category: geospatial data tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital core: geospatial rollout plan | New: spatial targeting of neglected conflict territories | Adoption: incorporated in finalized plan and site selection",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176633",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-01",
+      "guid": "099092923114511777",
+      "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:33:16Z",
+      "ended_at": "2026-11-07T03:33:22Z",
+      "status": "ok",
+      "note": "5 document(s) fetched from the WBG API; 10 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:22Z",
+      "ended_at": "2026-11-07T03:33:22Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-06-23, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:22Z",
+      "ended_at": "2026-11-07T03:33:23Z",
+      "status": "ok",
+      "note": "30 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 30,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 11,
+          "innovation_cycle": 9,
+          "enabling_processes": 1,
+          "results_based_management": 2,
+          "public_good": 2,
+          "innovation": 3,
+          "enabling_technologies": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:23Z",
+      "ended_at": "2026-11-07T03:33:23Z",
+      "status": "ok",
+      "note": "PAD 2023-06-01 (P176633_PAD_2023-06-01_099092923114511777.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176633",
+            "doc_type": "PAD",
+            "doc_date": "2023-06-01",
+            "guid": "099092923114511777",
+            "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:23Z",
+      "ended_at": "2026-11-07T03:33:23Z",
+      "status": "ok",
+      "note": "263 reading units (23 numbered paragraphs) from 2103 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 263
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:23Z",
+      "ended_at": "2026-11-07T03:33:27Z",
+      "status": "ok",
+      "note": "65 of 263 units carry a digital / AI cue (24 also an innovation cue); 6 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 65,
+        "dropped": 0,
+        "legal_condition": 6,
+        "with_innovation_cue": 24
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:27Z",
+      "ended_at": "2026-11-07T03:33:35Z",
+      "status": "ok",
+      "note": "12 candidate practices from 65 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 208301,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1349,
+          "cached_tokens": 43648,
+          "cache_write_tokens": 0,
+          "output_tokens": 2829,
+          "seconds": 22.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0041
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:35Z",
+      "ended_at": "2026-11-07T03:33:39Z",
+      "status": "ok",
+      "note": "3 accepted, 9 rejected (not_digital 7, background_or_other_programme 2); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 40912,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 5755,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 716,
+          "seconds": 4.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "accepted": 3,
+        "rejected": 9,
+        "expanded": 0,
+        "reject_codes": {
+          "background_or_other_programme": 2,
+          "not_digital": 7
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:39Z",
+      "ended_at": "2026-11-07T03:33:41Z",
+      "status": "ok",
+      "note": "3 of 3 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1328,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 301,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 137,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:41Z",
+      "ended_at": "2026-11-07T03:33:42Z",
+      "status": "ok",
+      "note": "3 approaches -> 2 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1314,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 301,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 64,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:42Z",
+      "ended_at": "2026-11-07T03:33:44Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5536,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 802,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 136,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:44Z",
+      "ended_at": "2026-11-07T03:33:44Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 4 evidence rows, 10 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:44Z",
+      "ended_at": "2026-11-07T03:33:44Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P166042",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "Africa Regional Energy Trade DPF Program (P171225), MESIP (P166796), REHSP (131084), and the FCS RE Segou Solaire Mali Project (P148355). The World Bank has also been supporting several investment projects aimed at expanding access to electricity in the region: Guinea- Mali Interconnection Project (P166042) and Regional Off-Grid Electricity Access Project (ROGEAP, P160708) or ECOWAS-Regional Elect"
+          }
+        ],
+        "store_size": 176
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176633-A1-E1",
+      "approach_id": "P176633-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P176633",
+      "doc_id": "099092923114511777",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-01",
+      "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+      "unit_id": "U20",
+      "para_no": 5,
+      "sentence_position": 165,
+      "char_start": 31707,
+      "char_end": 31848,
+      "sentence": "This has been incorporated in the recently finalized geospatial electrification rollout plan and in the selection of sites to be electrified.",
+      "practice": "Geospatial least-cost electrification rollout plan used to select sites in conflict-affected territories",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Renewable Energy Solar",
+      "extractor_reason": "Digital core: geospatial electrification rollout plan | Not routine: spatial targeting of conflict areas | Adoption: 'incorporated in the recently finalized'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: geospatial rollout plan | Innovative: directs site selection to conflict areas | Category: geospatial data tool",
+      "keywords_hit": "conflict;geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: geospatial rollout plan | New: spatial targeting of neglected conflict territories | Adoption: incorporated in finalized plan and site selection",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4f2b4a5d"
+    },
+    {
+      "row_id": "P176633-A1-E2",
+      "approach_id": "P176633-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P176633",
+      "doc_id": "099092923114511777",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-01",
+      "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+      "unit_id": "U20",
+      "para_no": 5,
+      "sentence_position": 164,
+      "char_start": 31360,
+      "char_end": 31706,
+      "sentence": "One of the solutions identified is an adjustment to the spatial distribution of investments, through additional investment in neglected or marginalized territories, with potentially multisector projects supporting the deployment of infrastructure, services, and governance systems across territories, focusing on territorial and social inclusion.",
+      "practice": "Geospatial least-cost electrification rollout plan used to select sites in conflict-affected territories",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Renewable Energy Solar",
+      "extractor_reason": "Digital core: geospatial electrification rollout plan | Not routine: spatial targeting of conflict areas | Adoption: 'incorporated in the recently finalized'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: geospatial rollout plan | Innovative: directs site selection to conflict areas | Category: geospatial data tool",
+      "keywords_hit": "conflict;geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: geospatial rollout plan | New: spatial targeting of neglected conflict territories | Adoption: incorporated in finalized plan and site selection",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4f2b4a5d"
+    },
+    {
+      "row_id": "P176633-A1-E3",
+      "approach_id": "P176633-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P176633",
+      "doc_id": "099092923114511777",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-01",
+      "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+      "unit_id": "U20",
+      "para_no": 5,
+      "sentence_position": 166,
+      "char_start": 31849,
+      "char_end": 31975,
+      "sentence": "Communities in both conflict and high conflict risk territories will be provided with access to electricity under the project.",
+      "practice": "Geospatial least-cost electrification rollout plan used to select sites in conflict-affected territories",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Renewable Energy Solar",
+      "extractor_reason": "Digital core: geospatial electrification rollout plan | Not routine: spatial targeting of conflict areas | Adoption: 'incorporated in the recently finalized'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: geospatial rollout plan | Innovative: directs site selection to conflict areas | Category: geospatial data tool",
+      "keywords_hit": "conflict;geospatial",
+      "innovation_cues": "",
+      "innovation_basis": "Digital core: geospatial rollout plan | New: spatial targeting of neglected conflict territories | Adoption: incorporated in finalized plan and site selection",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4f2b4a5d"
+    },
+    {
+      "row_id": "P176633-A1-E4",
+      "approach_id": "P176633-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P176633",
+      "doc_id": "099092923114511777",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-01",
+      "file_name": "P176633_PAD_2023-06-01_099092923114511777.txt",
+      "unit_id": "U83",
+      "para_no": null,
+      "sentence_position": 657,
+      "char_start": 114733,
+      "char_end": 114992,
+      "sentence": "It would support AMADER’s Technical assistance in project management and supervision of works, communication, and the development of the digital platform for the collection and analysis of data to ensure remote performance monitoring of individual mini-grids.",
+      "practice": "Digital platform for remote mini-grid performance monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Renewable Energy Solar",
+      "extractor_reason": "Digital core: remote mini-grid monitoring platform | Not routine: remote performance data replaces site checks | Adoption: 'would support ... development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: remote mini-grid monitoring platform | Innovative: replaces site checks with remote data | Category: data platform",
+      "keywords_hit": "accessibility;digital platform",
+      "innovation_cues": "",
+      "innovation_basis": "New service: remote data platform monitoring mini-grid performance - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4f2b4a5d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 307,
+      "char_start": 57338,
+      "char_end": 57714,
+      "sentence": "The national electrification strategy and geospatial least-cost access rollout program (PNAAEM)31 finalized in November 2022, which is informed by the Rural Electrification Master Plan (REMP) of 2010 and the Optimal Investment Master Plan (PDIO) of 2015, provides policy guidance for future grid and off-grid investment projects to meet the country’s ambitious access targets.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geospatial least-cost access rollout program guiding grid and off-grid investment",
+      "reason": "reject: National PNAAEM plan guides all operations; not this project's financed practice",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: geospatial least-cost planning for access rollout - cue: 'geospatial'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "National PNAAEM plan guides all operations; not this project's financed practice",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1468
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 314,
+      "char_start": 58955,
+      "char_end": 59204,
+      "sentence": "The geospatial analysis estimated that universal access would require about US$3 billion, including US$1.92 billion for transmission, US$360 million for distribution, US$656 million for mini grids, and US$58 million for standalone systems solutions.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geospatial cost analysis for universal electricity access",
+      "reason": "reject: Geospatial cost estimate is background analysis, not a project activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: geospatial least-cost split across access modes - cue: 'geospatial'",
+      "innovation_cues": "scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Geospatial cost estimate is background analysis, not a project activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1314
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 624,
+      "char_start": 109590,
+      "char_end": 109754,
+      "sentence": "Subcomponent 2.1: Mini-grid electrification of selected communities, businesses, and public facilities under PPP arrangements (US$54.5 million: IDA US$33.5 million;",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "PPP-structured greenfield solar mini-grids with private operators",
+      "reason": "reject: PPP concession delivery model; no digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: PPP concession model for greenfield mini-grids - cue: 'PPP'",
+      "innovation_cues": "PPP;innovation;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "PPP concession delivery model; no digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1277
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 631,
+      "char_start": 110502,
+      "char_end": 110730,
+      "sentence": "This subcomponent will finance the piloting of hybridization of existing mini grids in permanent conflict zones in the central and northern regions to increase resilience in these areas, affordability, and reliability of supply.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Piloting hybridization of diesel mini-grids in conflict zones",
+      "reason": "reject: Solar-battery hybridization hardware; control electronics not a digital innovation",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: hybrid PV-battery retrofits of conflict-zone diesel grids - cue: 'piloting'",
+      "innovation_cues": "PPP;piloting",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Solar-battery hybridization hardware; control electronics not a digital innovation",
+          "reject_code": "not_digital",
+          "context_chars": 1223
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 643,
+      "char_start": 112190,
+      "char_end": 112575,
+      "sentence": "While the mini-grid model in Mali has been built following a ‘bottom-up approach’, whereby local private operators submitted project proposals to benefits from public subsidies, the proposed project would introduce new business models62 to ensure increased and sustainable private capital and ownership, cost effectiveness, enhanced system performance, and improved quality of service.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "New PPP business model for greenfield solar mini-grids",
+      "reason": "reject: Procurement/business model change; no digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: competitive PPP replacing bottom-up subsidy model - cue: 'new business models'",
+      "innovation_cues": "PPP;private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Procurement/business model change; no digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 650,
+      "char_start": 113435,
+      "char_end": 113665,
+      "sentence": "The recent scale mini-grid PPP templates developed by IFC, including concession agreement term sheet and guide and terms and conditions for minimum revenue guarantee, will be used, and will be adapted and tested under the project.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "IFC mini-grid PPP concession templates with minimum revenue guarantee",
+      "reason": "reject: Concession and guarantee contract templates; no digital element",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: standardized concession and guarantee templates - cue: 'guarantee'",
+      "innovation_cues": "PPP;concession;guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Concession and guarantee contract templates; no digital element",
+          "reject_code": "not_digital",
+          "context_chars": 1395
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 686,
+      "char_start": 118778,
+      "char_end": 118931,
+      "sentence": "This subcomponent will include technical assistance and RBF subsidy for commercial market development for quality certified off-grid solar products (SH).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Results-based financing subsidy for certified off-grid solar market",
+      "reason": "reject: RBF subsidy scheme; no named digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: RBF subsidy tied to verified certified-product sales - cue: 'scale-up'",
+      "innovation_cues": "concessions;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "RBF subsidy scheme; no named digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1272
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 690,
+      "char_start": 119552,
+      "char_end": 119864,
+      "sentence": "To improve the quality of solar products and avoid disputes between beneficiaries and private operators, as was the case in REHSP and GPRBA support, an independent verification agent will be hired to certify products prior to installation/functionality to beneficiaries and to approve invoices prior to payments.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Independent verification agent certifying solar products before RBF payment",
+      "reason": "reject: Third-party verification agent process; no digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: third-party verification gate before RBF disbursement - cue: 'pilot'",
+      "innovation_cues": "gender-lens;pilot;pilots",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Third-party verification agent process; no digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1411
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 689,
+      "char_start": 119378,
+      "char_end": 119551,
+      "sentence": "The project will also aim to include gender lens in the development of the RBF mechanism by using nudges to push contractors toward increasing women workforce participation.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Gender-lens nudges in RBF mechanism for women workforce",
+      "reason": "reject: Behavioral nudges in RBF; no digital technology core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: behavioral nudges embedded in RBF design - cue: 'gender-lens'",
+      "innovation_cues": "gender-lens;pilot;pilots",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Behavioral nudges in RBF; no digital technology core",
+          "reject_code": "not_digital",
+          "context_chars": 1411
+        }
+      ]
+    },
+    {
+      "guid": "099092923114511777",
+      "doc_type": "PAD",
+      "position": 578,
+      "char_start": 102551,
+      "char_end": 102760,
+      "sentence": "This subcomponent will be used to strengthen the existing Supervisory Control and Data Acquisition (SCADA) system to improve the dispatching of the generation facilities, including the solar park and the BESS.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SCADA dispatching center upgrade for solar and BESS integration",
+      "reason": "reject: final check round 1: common - Digital: SCADA dispatch/control system is the core intervention | Before 2019: SCADA grid dispatch upgrades standard in MDB power projects for decades",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: real-time dispatch of variable renewables via SCADA - cue: 'information system'",
+      "innovation_cues": "guarantee",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SCADA dispatch/control upgrade | Innovative: enables VRE and BESS integration | Category: grid control technology",
+          "reject_code": "",
+          "context_chars": 1276
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: SCADA dispatch/control system is the core intervention | Before 2019: SCADA grid dispatch upgrades standard in MDB power projects for decades",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 8508,
+    "cached_tokens": 46976,
+    "cache_write_tokens": 0,
+    "output_tokens": 3882,
+    "seconds": 30.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0075
+  }
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Workflow v2</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+.steps{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.s{border:1px solid #e2e6ec;border-radius:8px;padding:8px 12px;font-size:12px;min-width:120px;background:#fff}.s b{display:block}
+.a{color:#64748b}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}code{background:#eef1f5;padding:1px 4px;border-radius:3px}</style></head>
+<body>
+<h1>Workflow v2 - DDAT sentence coding</h1>
+<p>Implements <em>Methodology Note 1: Approach Definition and Coding Rules</em> and <em>Note 2: Category Definition and Mapping Rules</em>. An approach is one of the 21 second-level themes of the World Bank Theme Taxonomy (June 2025) under 250000 Digital Transformation and 270000 Data Ecosystem; every coded row rests on one verbatim sentence.</p>
+<div class="steps">
+<div class="s"><b>1 · Segment</b>sentences with char offsets, position, context; boilerplate flagged</div><span class="a">→</span>
+<div class="s"><b>2 · Keyword match</b>per-approach keyword lists (EN + FR/ES/PT)</div><span class="a">→</span>
+<div class="s"><b>3 · Semantic match</b>sentence vs. DDAT definition + examples (embedding or TF-IDF)</div><span class="a">→</span>
+<div class="s"><b>4 · Classify</b>LLM, batches of 20 candidates, taxonomy + exclusions cached; code · level · status · reason</div><span class="a">→</span>
+<div class="s"><b>5 · Exclusions</b>rejected candidates kept in an exclusion log</div><span class="a">→</span>
+<div class="s"><b>6 · Aggregate</b>AEC rows → project approaches (highest level)</div><span class="a">→</span>
+<div class="s"><b>7 · Map solutions</b>direct or model choice → pillar</div><span class="a">→</span>
+<div class="s"><b>8 · Replication</b>explicit refs + similarity</div>
+</div>
+<h2>Outputs</h2>
+<table>
+<tr><th>Table</th><th>Grain</th><th>Key columns</th></tr>
+<tr><td>Approach Evidence Corpus (AEC)</td><td>one row per matched sentence × approach</td><td>row_id, bundle_id, bundled_with, project_id, doc_id, doc_type, doc_date, sentence_position, approach_code, approach_name, parent_theme, sentence, context_before, context_after, match_route, keywords_hit, evidence_level, status, reason, solution, pillar, workflow_version, run_id</td></tr>
+<tr><td>Approaches (project level)</td><td>one row per project × approach code</td><td>evidence level = max over rows; evidence = best row; category = pillar; category_solution = solution; sector = lead sector (project attribute); theme = parent theme</td></tr>
+<tr><td>Exclusion log</td><td>one row per rejected candidate</td><td>sentence, candidate codes, reason</td></tr>
+</table>
+<h2>Quality control</h2>
+<p>Run the workflow twice (Run A, Run B) with the same files, prompts and model; <code>piaa compare</code> matches rows on (document, sentence position, approach code), flags rows present in one run only, with a different evidence level, or excluded in one run and kept in the other, samples 5% of agreed rows for spot checks and reports agreement per approach. Flags are settled by a reviewer in the web app.</p>
+<h2>Speed</h2>
+<p>16 projects in parallel; within a project classification batches run 4 at a time; the ~80K-character taxonomy block is sent as a cached system prompt so it is billed once per 5 minutes rather than per call.</p>
+</body></html>

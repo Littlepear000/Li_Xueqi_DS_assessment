@@ -1,0 +1,470 @@
+﻿     The World Bank
+     Angola Youth Employment and Opportunities Project (P505158)
+
+
+
+
+Note to Task Team: The following sections are system generated and changes must be made in Data Sheet(s). Delete
+this note when finalizing the document.
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                   Project Information Document (PID)
+
+                  Concept Stage | Date Prepared/Updated: 28-Jun-2024 | Report No: PIDDC00429
+     The World Bank
+     Angola Youth Employment and Opportunities Project (P505158)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+Angola                         P505158                     Angola Youth Employment and Opportunities Project
+Region                         Estimated Appraisal Date    Estimated Approval Date     Practice Area (Lead)
+EASTERN AND SOUTHERN           20-Dec-2024                 10-Mar-2025                 Social Protection & Jobs
+AFRICA
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Ministry of Finance         National Institute of
+Financing (IPF)                                            Employment and
+                                                           Professional Training
+                                                           (INEFOP)
+
+Proposed Development Objective(s)
+To increase productivity and access to earning opportunities among vulnerable youth.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+Is this project Private Capital Enabling (PCE)?            No
+
+SUMMARY
+  Total Operation Cost                                                                                     250.00
+
+  Total Financing                                                                                          250.00
+             of which IBRD/IDA                                                                            250.00
+  Financing Gap                                                                                              0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                           250.00
+
+
+
+                                                                                                                  Page 1
+         The World Bank
+         Angola Youth Employment and Opportunities Project (P505158)
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                         Concept Review Decision
+Moderate                                                                             The review did authorize the preparation to continue
+
+
+
+    Note to Task Team: End of system generated content, document is editable from here. Delete this note when
+    finalizing the document.
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+ Country Context
+1. Angola is characterized by limited economic diversification and declining labor productivity. As the fifth-largest
+   economy in Sub-Saharan Africa (SSA) and the second-largest oil producer, Angola's growth was sustained by oil
+   revenue until recent years, resulting in volatile growth and limited economic diversification.1 From 2009-2019, over
+   350,000 net jobs were created annually, driven by an expansion in the working population, rather than by productivity
+   (output per capita) increases.2 Since 2002, Angola's economy has shifted towards services, consumption, and
+   construction sectors. However, most jobs remain in agriculture (about 46 percent of employed), followed by services,
+   and the public sector. Limited structural transformation and low-productivity jobs limit Angola’s prospects for
+   increasing earnings and job quality, thereby reducing its opportunities for sustained and inclusive economic growth.
+
+2. Although Angola is a lower middle-income country (LMIC), its poverty and human capital indicators resemble those
+   of low-income countries (LICs). In 2018, 31.1 percent of Angolans were "extremely poor," (i.e., below the international
+   poverty line US$2.15/day) compared to 11.3 percent in LMICs and 43.9 percent in LICs.3 Poor households are often
+   larger, more likely headed by females, and have more young members than wealthier households. Angola’s has a Gini
+   coefficient of 0.51, one of the highest globally.4 In addition, Angola’s Human Capital Index (HCI) of 0.36 is among the
+   lowest in SSA (below SSA, and LMIC averages of 0.40 and 0.48). Girls HCI is lower than boys (0.36 vs 0.37) driven by
+   poor education outcomes.5 This hinders Angola’s future productivity and growth, as a stronger human capital is crucial
+   for sustainable and inclusive development.
+
+3. Angola’s high vulnerability to climate change also poses a risk to its sustainable growth and human capital
+   development. Angola is ranked as the 38th most vulnerable country to climate change with poor readiness to adapt.6
+   Alternating floods and droughts significantly impact Angola’s economy and human capital development.7 Rising
+   temperatures and more frequent extreme floods and droughts are expected, especially in Angola’s largest cities,8
+
+1 International Monetary Fund, World Economic Outlook Database, April 2024.
+2 Monsalve, E.; Cunningham, W.; Ngarachu, M. N. World Bank, 2023. Good Jobs for Angolan Youth: Opportunities, Challenges, and Policy Directions; Technical Report.
+3 World Bank Development Indicators, 2024. Similarly, 52.9 percent of Angolans were poor (below the international poverty line US$3.65/day), as compared to 70.9
+
+percent in LICs and 39.7 percent in LMICs.
+4 World Bank Development Indicators, 2024
+5 https://www.worldbank.org/en/publication/human-capital
+6 171 for readiness to adapt, out of 182 countries. 2018 Notre Dame Global Adaptation Initiative Readiness Index.
+7 Droughts, on average, affect one million people annually, with implications for food insecurity and human capital development. Economic losses in agriculture due
+
+to climate change alone are estimated at US$100 million per year. World Bank. 2022. Angola Country Climate and Development Report (CCDR). Washington: DC.
+8 Think Hazard.
+
+
+
+
+                                                                                                                                                              Page 2
+          The World Bank
+          Angola Youth Employment and Opportunities Project (P505158)
+
+
+       where more than 60 percent of the population resides. Agricultural and fisheries productivity is projected to decline,9
+       impacting food security and livelihoods of millions.10
+
+4. Global trends and regional investments, such as in Angola’s Lobito corridor,11 could enhance growth, employment,
+   and human capital development, but remain unexplored. Adoption of digital technologies and transition to low
+   carbon (green) economy are transforming the world of work. Online gig jobs,12 engaging up to 12 percent of the global
+   labor force, offer income and digital skills development opportunities for vulnerable youth, especially in developing
+   countries like Angola.13 With Angola’s mobile penetration rising from 49 percent in 2020 to 67 percent by 202214,
+   urban areas with higher mobile and internet access stand to benefit, enabling youth to explore new work
+   opportunities. Angola, rich in mineral resources, expects increased demand for green minerals and jobs due to global
+   energy transitions,15 potentially boosting economic growth and employment if managed well. Investments in
+   extractives and the Lobito corridor, critical for transporting strategic minerals, are expected to bring economic and
+   social benefits through upstream linkages and demand from local and international industries. Environmental
+   management and waste treatment also offer sustainable youth employment opportunities that enhance climate
+   resilience and mitigation efforts.
+     Sectoral and Institutional Context
+
+5. Angola saw modest job creation over the last decade, with 3.5 million new jobs created between 2009 and 2019,
+   although most were of low quality, offering minimal contribution to economic growth and worker welfare. More
+   than 72 percent of jobs were created in the non-wage sector, mainly by low-productivity micro-businesses.16 Most
+   new jobs were unskilled positions in agriculture and commerce, offering low wages, poor learning opportunities, and
+   no social benefits, with women overrepresented in these sectors. Despite high participation and employment rates
+   (76 and 85 percent respectively in 2018)17, most workers are in low productivity jobs, with over half in subsistence
+   agriculture or self-employment. The extractives sector, despite being highly productive, contributed minimally to
+   employment creation, representing only 0.8 percent of those employed.
+
+6. Youth employment is a pressing challenge, driven by a rapidly growing young population not adequately absorbed
+   in productive employment Youth, aged 15-34,18 constitute 30 percent of the total population19 and comprise over
+   half of the labor force. About 600,000 youth enter the labor force annually, many leaving school early in search for
+   economic opportunities. The youth unemployment rate is 50 percent higher than the national average (22 vs. 15
+   percent), with youth representing 83 percent of the total unemployed in Angola. Those employed are more likely to
+   work in precarious jobs, with only 9 percent in high-quality jobs compared to 15 percent of adults.20
+
+
+9 World Bank. 2022. Angola Country Climate and Development Report; World Bank. 2024. Establishing an Adaptive Social Protection System in Angola.
+10 Republic of Angola 2021. Nationally Determined Contribution of Angola. https://unfccc.int/sites/default/files/NDC/2022-06/NDC%20Angola.pdf
+11 The Lobito corridor is a 1,344 km Benguela rail line from Lobito port to Luau on the DRC border, spanning four provinces (Benguela, Huambo, Bie, and Moxico),
+
+home to 8 million people—25% of Angola's population. These provinces are key agricultural areas supporting vital agricultural value chains.
+12
+   Tasks or work assignments performed and delivered online can include Online freelancing (larger projects with complex tasks requiring intermediate or high skilled
+workers, such as software development, graphic design) and Microwork (small subtasks that be performed with basic numeracy and literacy skills, such as image tagging,
+data categorization etc.). Namita Datta, Rong Chen, et al. 2023: “Working without Borders: The Promise and Peril of Online Gig Work.�? World Bank, Washington, DC.
+13 Low- and middle-income countries account for 40% of the traffic in gig platforms.
+14 The unique mobile broadband subscriptions increased from 32 percent in to 38% percent during the same period, which is on par with the Sub-Saharan region
+
+average (ranging from 36 to 38 percent). World Bank Group. 2020. Angola Digital Economy Diagnostic Report. Washington, DC: World Bank.
+15 World Bank (2020), “Minerals for Climate Action: The Mineral Intensity of the Clean Energy Transition�?
+16 Monsalve et al. (2023).
+17 Monsalve et al. (2023)
+18 Youth definition according to the Angolan Youth National Policy in the Presidential Decree 273/19
+19 Total population is estimated to be 32.9 million in 2020. UN Population Division.
+20 Monsalve et al. (2023).
+
+
+
+
+                                                                                                                                                                Page 3
+         The World Bank
+         Angola Youth Employment and Opportunities Project (P505158)
+
+
+7. Angolan youth face multiple constraints, with most classified as vulnerable and not prepared for the labor market.
+   Youth can be classified based on their school-to-work transition and labor market barriers. Only four percent of the
+   youth are "low vulnerable" and have followed the expected steps in education and employment (they are full time
+   students or have good quality jobs). On the other hand, 20 percent are "highly vulnerable" and are mostly “Not in
+   Education, Employment, or Training (NEETs)�?, mainly in rural areas. The remaining 76 percent are "vulnerable" and
+   have poor quality jobs or are too old for their grade level, mostly living in urban areas.21 Demand-side constraints,
+   such as macroeconomic conditions, firm-specific constraints, and entrepreneurship challenges, mostly affect urban
+   youth depending on formal markets. All youth face supply-side factors, such as lack of relevant skills, work experience,
+   social barriers, information gaps, and spatial mismatches, that prevent them from being ready for quality jobs.
+
+8. Young women and persons with disabilities face more challenges in the labor market. Despite progress, only 51
+   percent of young females have some secondary education, compared to 64 percent of young males. 22 Female youth
+   participate less in the labor force than males (67 vs. 71 percent) and are more likely to work in low-quality jobs than
+   males (92 vs. 78 percent), and in less profitable sectors.23 Only 26 percent of women hold management positions in
+   private firms.24 Restrictive social norms and traditional gender roles discourage women from pursuing male-
+   dominated fields of study, and occupations.25 Early marriage and early childbearing limit young women's access to
+   education and work, increasing their household responsibilities and disempowering them.26 Persons with disabilities
+   face barriers such as information gaps, negative attitudes, stigma, inaccessible physical environment, low education
+   levels, and ineffective legislation. Those who find work, often work part-time, are paid less and rarely promoted.27 In
+   2014, 2.5 percent of the population had disabilities, mainly due to prolonged armed conflicts,28 highlighting the urgent
+   need for disability-sensitive training and explore digital entrepreneurship to improve their opportunities. 29
+
+9. Youth employment is a top priority for the government of Angola (GoA), emphasized in its Long-Term Development
+   Strategy (LTDS) 2025, the National Development Plan (NDP) (2023-2027), and the National Agenda for
+   Employment.30 These strategies aim to ensure productive employment for all Angolans and promote job creation
+   across key sectors like transportation, agriculture, and manufacturing. The NDP also prioritizes digitization to create
+   new work opportunities, fostering the development of youth skills and learning methods.
+
+10. The Ministry of Public Administration, Labor, and Social Security (MAPTSS) oversees public administration, labor,
+    and social security policies. It oversees the National Institute of Employment and Professional Training (INEFOP)
+    responsible for short term training programs for the current labor force and new entrants, coordinating vocational
+    training centers, promoting employment programs, and intermediation services. MAPTSS, along with the Ministry of
+    Economy and Planning (MEP), implements job creation programs. Vocational and non-formal professional training is
+    led by MAPTSS through INEFOP, while technical education is led by the Ministry of Education (MED), and tertiary
+
+
+
+21 Monsalve et al. (2023)
+22 This gap persists at higher education levels. From 2018 to 2023, only 33 percent of those graduating from the Vocational Training were female. INEFOP, 2024
+23 Monsalve et al. (2023).
+24 REMPE, 2019
+25 World Bank. 2023. Navigating Education, Motherhood, and Informal Labor: The Experiences of Young Women in Luanda. © Washington, DC: World Bank.
+http://hdl.handle.net/10986/40401 License: CC BY-NC 3.0 IGO.�?
+26 At 148 births per 1,000 girls aged 15 to 19 in 2018, the adolescent birth rate in Angola is among the highest in SSA where the mean is 101 births per 1,000 girls.
+World Bank. 2023. Navigating Education, Motherhood, and Informal Labor: The Experiences of Young Women in Luanda. © Washington, DC: World Bank.
+27 Singh, S.; Raja, D.; Datta, N.; Mcclain-Nhlapo, C. V.. Digital Jobs for Youth with Disabilities (English). Solutions for Youth Employment Washington, D.C.: World Bank
+Group. http://documents.worldbank.org/curated/en/565921617169495313/Digital-Jobs-for-Youth-with-Disabilities
+28 Many war veterans struggle with unemployment or low job quality, leading to financial instability.
+29 Singh, S.; Raja, D.; Datta, N.; Mcclain-Nhlapo, C. V.. Ibid.
+30
+   Presidential Decree no. 226/23.
+
+
+                                                                                                                                                                    Page 4
+          The World Bank
+          Angola Youth Employment and Opportunities Project (P505158)
+
+
+       education by the Ministry of Tertiary Education, Science, Technology, and Innovation (MESCTI). Other sectoral
+       ministries are involved in specific employment and technical-professional training programs.31
+
+11. Despite government prioritization of youth employment, its policies are inadequately designed for its large,
+    vulnerable youth population. While spending on active labor market programs (ALMPs) is significant, ALMPs in Angola
+    have restrictive eligibility criteria, limited scale, and overlapping objectives, resulting in inefficient fund allocation and
+    limited reach among vulnerable youth.32 Angola also lacks robust information and monitoring and evaluation systems
+    for labor programs, limiting its ability to assess their effectiveness. The NDP 2023-2027 prioritizes the Employment
+    Market Observatory, under MAPTSS, to produce and analyze labor market, employment, and training statistics, which
+    is yet to be operationalized.
+
+12. In this context, the GoA has requested World Bank support to improve youth’s access to employment opportunities
+    and productivity. Addressing the youth employment challenge in Angola requires a multi-dimensional approach
+    combining policies with impacts in the short- term and those with impacts materializing in the long-term.
+    Complementing government’s longer term strategic investments, the proposed project will focus on interventions to
+    promote opportunities for vulnerable youth already in the labor market to increase their productivity, income, and
+    experience. This will provide a basis for accessing better opportunities over time through innovative approaches.
+    Strengthening the institutional capacity will also be critical to ensure impact at scale and sustainability.
+
+
+ Relationship to CPF
+13. The proposed project aligns with the Country Partnership Framework (CPF) and supports WB’s expanded mission
+    and several Global Challenge Programs (GCPs). Specifically, it aligns with the new CPF under preparation and Angola’s
+    NDP 2023-2027, both focusing on human capital and economic diversification, by building pathways to productivity
+    for current generations. The proposed project supports World Bank’s expanded mission to end extreme poverty and
+    boost shared prosperity on a livable planet, and the institution’s evolution roadmap, contributing to several GCPs:
+    Food and Nutrition Security and (through livelihood opportunities) and Accelerating Digitization (building digital skills
+    for jobs).
+     C. Proposed Development Objective(s)
+
+     Note to Task Team: The PDO has been pre-populated from the datasheet for the first time for your convenience.
+     Keep it up to date whenever it is changed in the datasheet. Delete this note when finalizing the document.
+
+
+     To increase productivity and access to earning opportunities among vulnerable youth.
+
+
+     Key Results (From PCN)
+Results Area 1: Increase productivity among vulnerable youth:
+   • Average earnings of youth beneficiaries at least 6 months after completing the package of entrepreneurship
+        interventions (percentage, disaggregated by gender, people with disability)
+Results Area 2: Increase access to earning opportunities among vulnerable youth:
+
+31 Includes the Ministry of Agriculture and Fisheries (MINAGRIP), Ministry of Territory Administration (MAT), Ministry of Youth and Sports (MINJUD), Ministry of Social
+Action, Family and Women’s Promotion (MASFAMU), and the Ministry of Industry and Commerce (MINDCOM).
+32 Only 24 percent of ALMPs target vulnerable youth. Monsalve et al. (2023)
+
+
+
+
+                                                                                                                                                                  Page 5
+        The World Bank
+        Angola Youth Employment and Opportunities Project (P505158)
+
+
+    •   Youth beneficiaries in wage or self-employment 6 months after receipt of project interventions (percentage,
+        disaggregated by gender, people with disability).
+    •   Youth beneficiaries with ongoing income generating businesses 6 months after completing the package of
+        entrepreneurship interventions (percentage, disaggregated by gender, people with disability).
+    •   Millions of new or better jobs (percentage, disaggregated by gender, people with disability)
+    •   Female beneficiaries who are working in male-dominated sectors at least 6 months after completing gender-
+        specific training module (percentage)
+
+ D. Concept Description
+
+14. The Project will support vulnerable youth through a multi-faceted approach addressing both supply and demand
+    sides constraints, alongside strengthening the institutional capacity to support youth employment. The Project will
+    incorporate digital approaches to foster innovation, enhance productivity, promote green jobs and entrepreneurship,
+    and provide youth with remote work opportunities. While the project has national scope, regional interventions will
+    complement and leverage government and World Bank efforts for economic transformation, diversification and
+    digitalization, especially in the Lobito economic corridor, to maximize impact.
+
+15. The project is structured around three main components:
+
+16. Component 1: Improving the productivity of vulnerable young entrepreneurs. This component aims to provide
+    better economic opportunities through entrepreneurship development and address key constraints and market
+    failures that limit the participation of vulnerable youth in productive entrepreneurship. It will support the adoption of
+    digital tools and digital skills to enhance entrepreneurship. In rural areas, it will explore ways of integrating youth into
+    agricultural value chains by improving their capacity and productivity to respond to the requirements of end markets.
+    It will seek to complement interventions offered by “Diversifica Mais�?: youth benefiting from this component and
+    grow into small and medium-sized enterprises (SME) may qualify for business support, and for young entrepreneurs
+    supported by this component who may be able to participate in upstream and consumption linkages.
+
+17. Component 2: Supporting transition of vulnerable youth to earning opportunities. This component targets
+    vulnerable youth who come out of schools and training centers frequently lacking the relevant work experience and
+    competencies, including behavioral skills, needed for employment. It aims to enhance employability and support
+    access to first work experience, including in digital jobs. It will provide technical and soft skills training, job search
+    assistance, and mentoring. Based on the digital skills strategy that will be developed by the Institute for Administrative
+    Modernization (IMA), (supported by PADA) this component will support the implementation of a new digital skills
+    program that meets market needs and empower youth for the digital economy. It will also support apprenticeships
+    and work experience, with a focus on young women and youth with disabilities. In the Lobito corridor, the project will
+    identify youth who need training, work experience, or certification to access opportunities generated by investments
+    in the area.
+
+18. Component 3: Strengthening Institutional and Implementation Capacity, Monitoring and Evaluation. This
+    component will support the modernization of INEFOP's systems, standardization of processes, provision of training
+    and technical assistance, establishment of a women's leadership academy, and the operationalization of the
+    Employment Market Observatory, alongside the creation of a research and innovation laboratory. This component
+    aims to support MAPTSS, INEFOP in the design, implementation, and evaluation of employment-related policies and
+    programs, including through an impact evaluation of selected project intervention(s), as well as effective project
+    management. INEFOP’s capacity will be strengthened through a technical support team to enhance their operational
+
+                                                                                                                           Page 6
+       The World Bank
+       Angola Youth Employment and Opportunities Project (P505158)
+
+
+    and managerial capacities. This component will also finance technical assistance for the operationalization of the
+    Employment Market Observatory and the elaboration of a strategy for the creation and implementation of a research
+    and innovation laboratory within INEFOP.
+
+
+
+ Note to Task Team: The following sections are system generated and changes must be made in Data Sheet(s). Delete
+ this note when finalizing the document.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                     Triggered?
+                                                              Last approved                             Current
+ Projects on International Waterways OP 7.50                        No
+ Projects in Disputed Area OP 7.60                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ Note to Task Team: This summary section is downloaded from the PCN data sheet and is editable. It should match
+ the text provided by E&S specialist. If it is revised after the initial download the task team must manually update the
+ summary in this section. Delete this note when finalizing the document.
+
+
+Environmental and Social risks are rated as Moderate. This rating results from the combination of the following factors:
+(i) moderate E&S risks and impacts potentially generated by project activities which can be mitigated with readily available
+and reliable measures; (ii) although the implementing agency does not have previous experience implemented projects
+financed by the Bank nor under the Operation Policies, Angola’s has prior experience implementing Bank-financed projects
+under the ESF and commitment to implement the project in a manner consistent with ESF requirements; (iii) the finance
+of business plans in different sectors of activity, can be in a significant number although it is expected that will be small in
+scale due to the expected value allocated to support them ; (iv) absence of relevant contextual factors that can exacerbate
+the project's environmental and social risks and impacts. The project environmental risk is rated as moderate, considering
+that small scale rehabilitation and construction activities are being considered to improve some specifically identified
+infrastructures, under Component 2.2. The project social risk is rated as moderate, due the project’s investments in a new
+construction and requalification of existing infrastructure, under Component 2.2, might result in some labor influx and
+community health and safety issues, particularly the risk associated with SEA/SH, which may be also experienced in
+instructor-student interactions and in the award of internships; the possibility that the elite or specific groups will capture
+the distribution of the project benefits; social inclusion issues, especially relating to women (and other vulnerable groups
+such as persons with disabilities) and equal access to opportunities in training, internships and finance for the
+implementation of the Business Plans, among others.
+
+                                                                                                                           Page 7
+     The World Bank
+     Angola Youth Employment and Opportunities Project (P505158)
+
+
+
+
+Note: To view the Environmental and Social Risks and Impacts, refer to the Concept Stage ESRS Document. Delete
+this note when finalizing the document.
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Emma Mercedes Monsalve Montiel
+ Social Protection Specialist
+
+ Aylin Isik-Dikmelik
+ Senior Economist
+
+ Federica Ricaldi
+ Senior Economist
+
+Borrower/Client/Recipient
+ Ministry of Finance
+
+Implementing Agencies
+ National Institute of Employment and Professional Training (INEFOP)
+ Manuel Mbangui
+ Director
+ manuel.mbangui@inefop.gov.ao
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    Emma Mercedes Monsalve Montiel, Aylin Isik-Dikmelik, Federica Ricaldi
+
+Approved By
+
+
+                                                                                                                 Page 8
+     The World Bank
+     Angola Youth Employment and Opportunities Project (P505158)
+
+
+
+Practice Manager/Manager:               Suleiman Namara                        18-Jun-2024
+
+Country Director:                       Kofi Nouve                             28-Jun-2024
+
+
+
+
+Note to Task Team: This is the end of document. No further content should be added. Delete this note when
+finalizing the document.
+
+
+
+
+                                                                                                            Page 9
+

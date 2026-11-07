@@ -1,0 +1,991 @@
+{
+  "project_id": "P510198",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "ddf40bd7",
+  "started_at": "2026-11-07T03:38:58Z",
+  "ended_at": "2026-11-07T03:39:17Z",
+  "input_fingerprint": "9f975680d5f30f07",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 31,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P510198-A1",
+      "project_id": "P510198",
+      "name": "compliance monitoring system with scoring for pollution enforcement",
+      "description": "Builds a system scoring Category 2 projects' environmental compliance and tracking fines",
+      "why_innovative": "New process: compliance scoring system for enforcement - cue: 'compliance monitoring system' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099070826213541093",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-21",
+        "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+        "char_start": 46204,
+        "char_end": 46312,
+        "text": "Development of a compliance monitoring system for air and water pollution control enforcement housed in MAE.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 46313,
+          "char_end": 46869,
+          "text": "The project will support the development and deployment of a compliance monitoring system for air and water pollution control enforcement to help the GoL better monitor and enforce environmental protection measures, especially for Category 2 investment projects.18 The system will comprise procedures for monitoring and evaluation (M&E) and reporting of compliance with environmental regulations, a compliance scoring system to track and report performance of Category 2 projects’ environmental obligations, and a system for monitoring fines and penalties.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 14236,
+          "char_end": 15170,
+          "text": "(d) cause EPF to establish and thereafter maintain, throughout Project implementation, a Project Coordination Team within EPF, which shall be responsible for carrying out v The World Bank Lao PDR Pollution and Waste Management Project (P510198) PROJECT APPRAISAL DOCUMENT the implementation of Part 1 of the Project, including inter alia financial management, procurement and environmental and social management, monitoring and evaluation and preparation of progress reports and annual work plans and budgets for Part 1 of the Project; and (e) cause MAE to establish and thereafter maintain, throughout Project implementation an Environmental and Social Monitoring Coordination Committee with the mandate to oversee and coordinate environmental and social aspects around the KM32 Landfill and adjacent Vientiane Waste Management Company concession area and at the KM16 and Naxaythong transfer stations as further described in the POM.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the digital compliance system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Water, Sanitation, and Solid Waste Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "Compliance monitoring and enforcement system is a public administration function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174067",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "iety organizations. Page 34\n﻿ The World Bank Public Service Capability Enhancement Project (P174067) Project Information Document (PID) Appraisal Stage | Date Prepared/Updated: 01-Dec-2020 | Report No: PIDA30207 Oct 29, 2020 Page 1 of 15 The World Bank Public Service Capability Enhancement Project (P174067) BASIC INFORMATION OPS_TABLE_BASIC_DATA A. Basic Project Data Country Project ID Project Nam"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: compliance scoring and fines system | Innovative: scores Category 2 project obligations, not standard M&E | Category: digital system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: compliance scoring system for enforcement - cue: 'compliance monitoring system'",
+      "innovation_cues": [
+        "scaling",
+        "scaling-up"
+      ]
+    },
+    {
+      "approach_id": "P510198-A2",
+      "project_id": "P510198",
+      "name": "waste database and infrared landfill fire monitoring",
+      "description": "The project builds a standardized waste and plastics database piloted in Vientiane Capital and installs infrared monitors at the KM32 landfill for early fire warning. Practices: waste and plastics database piloted with Vientiane Capital; infrared monitors for early warning of landfill fires.",
+      "why_innovative": "New service: standardized waste and plastics data platform - cue: 'pilot phase' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099070826213541093",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-21",
+        "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+        "char_start": 53927,
+        "char_end": 54014,
+        "text": "Development of a basic waste and plastic information collection database housed in MAE.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 54083,
+          "char_end": 54280,
+          "text": "The database will be cost-effective with a user-friendly interface and standardized protocols for information providers and users, including national and subnational government and waste operators.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 54281,
+          "char_end": 54419,
+          "text": "The database will receive waste information from cities and districts, with a pilot phase planned in collaboration with the VC government.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 66223,
+          "char_end": 66529,
+          "text": "(ii) equipment – a weighbridge and washing, crushing, and pelletizing equipment at the waste management community center for IWWs, a small solar plant for on-site electricity generation, infrared monitors for early warning on potential landfill fires, and trucks and other equipment for landfill operation.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the database is the core mechanism for data collection",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Solid Waste Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "Waste and plastics database directly supports solid waste management operations.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174067",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "iety organizations. Page 34\n﻿ The World Bank Public Service Capability Enhancement Project (P174067) Project Information Document (PID) Appraisal Stage | Date Prepared/Updated: 01-Dec-2020 | Report No: PIDA30207 Oct 29, 2020 Page 1 of 15 The World Bank Public Service Capability Enhancement Project (P174067) BASIC INFORMATION OPS_TABLE_BASIC_DATA A. Basic Project Data Country Project ID Project Nam"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: standardized waste/plastics database | Innovative: no national waste data system exists | Category: data platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: standardized waste and plastics data platform - cue: 'pilot phase'",
+      "innovation_cues": [
+        "concession",
+        "early-warning",
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P510198-A3",
+      "project_id": "P510198",
+      "name": "online citizen feedback app on waste service quality",
+      "description": "Finances an online feedback mechanism for real-time citizen complaints on waste collection, feeding tariff design.",
+      "why_innovative": "New process: real-time citizen feedback loop into service design - cue: 'feedback' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099070826213541093",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-21",
+        "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+        "char_start": 94106,
+        "char_end": 94223,
+        "text": "The project will support an online feedback mechanism, allowing real-time feedback on service quality and complaints.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 93955,
+          "char_end": 94105,
+          "text": "Subcomponent 2.1 will facilitate engagement with waste collection users; their feedback will be incorporated into the designs of the tariff structure.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099070826213541093",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-21",
+          "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+          "char_start": 94445,
+          "char_end": 94583,
+          "text": "Survey results and data from the app will be reviewed by the recipient annually to determine adjustments needed to Component 2 activities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers how service users feed back into delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Solid Waste Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "Citizen feedback on waste collection quality directly serves solid waste management.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174067",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "iety organizations. Page 34\n﻿ The World Bank Public Service Capability Enhancement Project (P174067) Project Information Document (PID) Appraisal Stage | Date Prepared/Updated: 01-Dec-2020 | Report No: PIDA30207 Oct 29, 2020 Page 1 of 15 The World Bank Public Service Capability Enhancement Project (P174067) BASIC INFORMATION OPS_TABLE_BASIC_DATA A. Basic Project Data Country Project ID Project Nam"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: online feedback app | Innovative: real-time complaints feed tariff design | Category: feedback delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: real-time citizen feedback loop into service design - cue: 'feedback'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P510198",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "guid": "099070826213541093",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:38:58Z",
+      "ended_at": "2026-11-07T03:39:00Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 7 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:00Z",
+      "ended_at": "2026-11-07T03:39:00Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-06-13, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:00Z",
+      "ended_at": "2026-11-07T03:39:00Z",
+      "status": "ok",
+      "note": "31 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 31,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 5,
+          "enabling_processes": 5,
+          "innovation_cycle": 9,
+          "results_based_management": 4,
+          "public_good": 2,
+          "innovation": 3,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:00Z",
+      "ended_at": "2026-11-07T03:39:00Z",
+      "status": "ok",
+      "note": "PAD 2025-05-21 (P510198_PAD_2025-05-21_099070826213541093.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P510198",
+            "doc_type": "PAD",
+            "doc_date": "2025-05-21",
+            "guid": "099070826213541093",
+            "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:00Z",
+      "ended_at": "2026-11-07T03:39:00Z",
+      "status": "ok",
+      "note": "112 reading units (15 numbered paragraphs) from 903 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 112
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:00Z",
+      "ended_at": "2026-11-07T03:39:02Z",
+      "status": "ok",
+      "note": "25 of 112 units carry a digital / AI cue (9 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 25,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 9
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:02Z",
+      "ended_at": "2026-11-07T03:39:07Z",
+      "status": "ok",
+      "note": "8 candidate practices from 25 units in 3 calls",
+      "llm_calls": 3,
+      "input_chars": 84527,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 535,
+          "cached_tokens": 17024,
+          "cache_write_tokens": 0,
+          "output_tokens": 1521,
+          "seconds": 10.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0021
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:07Z",
+      "ended_at": "2026-11-07T03:39:11Z",
+      "status": "ok",
+      "note": "4 accepted, 4 rejected (unsupported_by_evidence 2, not_digital 1, not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 31851,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 3586,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 590,
+          "seconds": 3.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "accepted": 4,
+        "rejected": 4,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1,
+          "unsupported_by_evidence": 2,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:39:11Z",
+      "ended_at": "2026-11-07T03:39:13Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1418,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 328,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 152,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:39:13Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "4 approaches -> 3 by sector x category; 1 Data Sheet sentences attached as extra evidence",
+      "llm_calls": 1,
+      "input_chars": 1193,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 290,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 62,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 1
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:16Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7339,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 824,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 176,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:39:16Z",
+      "ended_at": "2026-11-07T03:39:16Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 10 evidence rows, 4 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:39:16Z",
+      "ended_at": "2026-11-07T03:39:17Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P174067",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "iety organizations. Page 34\n﻿ The World Bank Public Service Capability Enhancement Project (P174067) Project Information Document (PID) Appraisal Stage | Date Prepared/Updated: 01-Dec-2020 | Report No: PIDA30207 Oct 29, 2020 Page 1 of 15 The World Bank Public Service Capability Enhancement Project (P174067) BASIC INFORMATION OPS_TABLE_BASIC_DATA A. Basic Project Data Country Project ID Project Nam"
+          }
+        ],
+        "store_size": 285
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P510198-A1-E1",
+      "approach_id": "P510198-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 233,
+      "char_start": 46204,
+      "char_end": 46312,
+      "sentence": "Development of a compliance monitoring system for air and water pollution control enforcement housed in MAE.",
+      "practice": "compliance monitoring system with scoring for pollution enforcement",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Water, Sanitation, and Solid Waste Management",
+      "extractor_reason": "Digital core: compliance scoring and fines system | Not routine: scores project compliance, not standard M&E | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: compliance scoring and fines system | Innovative: scores Category 2 project obligations, not standard M&E | Category: digital system",
+      "keywords_hit": "data collection",
+      "innovation_cues": "scaling;scaling-up",
+      "innovation_basis": "New process: compliance scoring system for enforcement - cue: 'compliance monitoring system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A1-E2",
+      "approach_id": "P510198-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 234,
+      "char_start": 46313,
+      "char_end": 46869,
+      "sentence": "The project will support the development and deployment of a compliance monitoring system for air and water pollution control enforcement to help the GoL better monitor and enforce environmental protection measures, especially for Category 2 investment projects.18 The system will comprise procedures for monitoring and evaluation (M&E) and reporting of compliance with environmental regulations, a compliance scoring system to track and report performance of Category 2 projects’ environmental obligations, and a system for monitoring fines and penalties.",
+      "practice": "compliance monitoring system with scoring for pollution enforcement",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Water, Sanitation, and Solid Waste Management",
+      "extractor_reason": "Digital core: compliance scoring and fines system | Not routine: scores project compliance, not standard M&E | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: compliance scoring and fines system | Innovative: scores Category 2 project obligations, not standard M&E | Category: digital system",
+      "keywords_hit": "data collection",
+      "innovation_cues": "scaling;scaling-up",
+      "innovation_basis": "New process: compliance scoring system for enforcement - cue: 'compliance monitoring system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A1-L1",
+      "approach_id": "P510198-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 2,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U9",
+      "para_no": null,
+      "sentence_position": 51,
+      "char_start": 14236,
+      "char_end": 15170,
+      "sentence": "(d) cause EPF to establish and thereafter maintain, throughout Project implementation, a Project Coordination Team within EPF, which shall be responsible for carrying out v The World Bank Lao PDR Pollution and Waste Management Project (P510198) PROJECT APPRAISAL DOCUMENT the implementation of Part 1 of the Project, including inter alia financial management, procurement and environmental and social management, monitoring and evaluation and preparation of progress reports and annual work plans and budgets for Part 1 of the Project; and (e) cause MAE to establish and thereafter maintain, throughout Project implementation an Environmental and Social Monitoring Coordination Committee with the mandate to oversee and coordinate environmental and social aspects around the KM32 Landfill and adjacent Vientiane Waste Management Company concession area and at the KM16 and Naxaythong transfer stations as further described in the POM.",
+      "practice": "compliance monitoring system with scoring for pollution enforcement",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Water, Sanitation, and Solid Waste Management",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A2-E1",
+      "approach_id": "P510198-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 280,
+      "char_start": 53927,
+      "char_end": 54014,
+      "sentence": "Development of a basic waste and plastic information collection database housed in MAE.",
+      "practice": "waste and plastics database piloted with Vientiane Capital",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: waste and plastics database | Not routine: no national waste data system exists | Adoption: 'pilot phase planned'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: standardized waste/plastics database | Innovative: no national waste data system exists | Category: data platform",
+      "keywords_hit": "data analysis;data collection",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: standardized waste and plastics data platform - cue: 'pilot phase'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A2-E2",
+      "approach_id": "P510198-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 282,
+      "char_start": 54083,
+      "char_end": 54280,
+      "sentence": "The database will be cost-effective with a user-friendly interface and standardized protocols for information providers and users, including national and subnational government and waste operators.",
+      "practice": "waste and plastics database piloted with Vientiane Capital",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: waste and plastics database | Not routine: no national waste data system exists | Adoption: 'pilot phase planned'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: standardized waste/plastics database | Innovative: no national waste data system exists | Category: data platform",
+      "keywords_hit": "data analysis;data collection",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: standardized waste and plastics data platform - cue: 'pilot phase'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A2-E3",
+      "approach_id": "P510198-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 283,
+      "char_start": 54281,
+      "char_end": 54419,
+      "sentence": "The database will receive waste information from cities and districts, with a pilot phase planned in collaboration with the VC government.",
+      "practice": "waste and plastics database piloted with Vientiane Capital",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: waste and plastics database | Not routine: no national waste data system exists | Adoption: 'pilot phase planned'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: standardized waste/plastics database | Innovative: no national waste data system exists | Category: data platform",
+      "keywords_hit": "data analysis;data collection",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: standardized waste and plastics data platform - cue: 'pilot phase'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A2-E4",
+      "approach_id": "P510198-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 355,
+      "char_start": 66223,
+      "char_end": 66529,
+      "sentence": "(ii) equipment – a weighbridge and washing, crushing, and pelletizing equipment at the waste management community center for IWWs, a small solar plant for on-site electricity generation, infrared monitors for early warning on potential landfill fires, and trucks and other equipment for landfill operation.",
+      "practice": "infrared monitors for early warning of landfill fires",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: infrared fire monitors | Not routine: sensor early-warning rare in waste ops | Adoption: 'equipment'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: infrared fire monitors | Innovative: sensor early-warning rare in waste ops | Category: sensor technology",
+      "keywords_hit": "early warning",
+      "innovation_cues": "concession;early-warning",
+      "innovation_basis": "New service: infrared fire early-warning at landfill - cue: 'early warning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A3-E1",
+      "approach_id": "P510198-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U69",
+      "para_no": null,
+      "sentence_position": 557,
+      "char_start": 94106,
+      "char_end": 94223,
+      "sentence": "The project will support an online feedback mechanism, allowing real-time feedback on service quality and complaints.",
+      "practice": "online citizen feedback app on waste service quality",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: online feedback app | Not routine: real-time user input shapes tariffs | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online feedback app | Innovative: real-time complaints feed tariff design | Category: feedback delivery",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time citizen feedback loop into service design - cue: 'feedback'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A3-E2",
+      "approach_id": "P510198-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U69",
+      "para_no": null,
+      "sentence_position": 556,
+      "char_start": 93955,
+      "char_end": 94105,
+      "sentence": "Subcomponent 2.1 will facilitate engagement with waste collection users; their feedback will be incorporated into the designs of the tariff structure.",
+      "practice": "online citizen feedback app on waste service quality",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: online feedback app | Not routine: real-time user input shapes tariffs | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online feedback app | Innovative: real-time complaints feed tariff design | Category: feedback delivery",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time citizen feedback loop into service design - cue: 'feedback'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    },
+    {
+      "row_id": "P510198-A3-E3",
+      "approach_id": "P510198-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P510198",
+      "doc_id": "099070826213541093",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-21",
+      "file_name": "P510198_PAD_2025-05-21_099070826213541093.txt",
+      "unit_id": "U69",
+      "para_no": null,
+      "sentence_position": 559,
+      "char_start": 94445,
+      "char_end": 94583,
+      "sentence": "Survey results and data from the app will be reviewed by the recipient annually to determine adjustments needed to Component 2 activities.",
+      "practice": "online citizen feedback app on waste service quality",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Solid Waste Management",
+      "extractor_reason": "Digital core: online feedback app | Not routine: real-time user input shapes tariffs | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online feedback app | Innovative: real-time complaints feed tariff design | Category: feedback delivery",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New process: real-time citizen feedback loop into service design - cue: 'feedback'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "ddf40bd7"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099070826213541093",
+      "doc_type": "PAD",
+      "position": 239,
+      "char_start": 47573,
+      "char_end": 47708,
+      "sentence": "(v) developing guidelines and standard operating procedures for inspection, M&E, and reporting on pollution control, and pilot testing.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "pilot-tested inspection and compliance procedures feeding monitoring system",
+      "reason": "reject: Inspection guidelines and SOPs; digital system is the separate compliance system, not this TA",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: pilot-tested inspection procedures for enforcement - cue: 'pilot testing'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Inspection guidelines and SOPs; digital system is the separate compliance system, not this TA",
+          "reject_code": "not_digital",
+          "context_chars": 1244
+        }
+      ]
+    },
+    {
+      "guid": "099070826213541093",
+      "doc_type": "PAD",
+      "position": 536,
+      "char_start": 90344,
+      "char_end": 90956,
+      "sentence": "These include integrating flood, wind, and extreme heat hazard information in the design of waste management infrastructure, the solar power plant, the multi-function room, bathroom facilities and administrative office at the KM32 landfill; ensuring resilient internal access roads; integrating flood hazard information in waste collection planning; providing TA and equipment, such as infrared monitors for early warning on potential landfill fires and developing landfill fire emergency response procedures; and providing health and safety training for waste pickers and waste workers on extreme heat exposure.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "infrared landfill fire early-warning with emergency response procedures",
+      "reason": "reject: Cited sentence is climate-risk adaptation measures; duplicates A4 infrared monitors, not a distinct practice",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: infrared fire early-warning plus response - cue: 'early warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentence is climate-risk adaptation measures; duplicates A4 infrared monitors, not a distinct practice",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1504
+        }
+      ]
+    },
+    {
+      "guid": "099070826213541093",
+      "doc_type": "PAD",
+      "position": 583,
+      "char_start": 98709,
+      "char_end": 99128,
+      "sentence": "Adaptation co-benefits include better monitoring and enforcement of surface and groundwater pollution and reduction of such pollution as an important resilience strategy; development of legislation with measures that consider climate challenges in the waste sector under Subcomponent 1.2; and installation of detection equipment in the KM32 landfill for early warning on potential landfill fires under Subcomponent 2.2.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "landfill fire detection sensors for early warning",
+      "reason": "reject: Cited sentence only lists adaptation co-benefits; duplicates A4 infrared monitors",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New technology: sensor-based landfill fire early warning - cue: 'early warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentence only lists adaptation co-benefits; duplicates A4 infrared monitors",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1440
+        }
+      ]
+    },
+    {
+      "guid": "099070826213541093",
+      "doc_type": "PAD",
+      "position": 865,
+      "char_start": 145585,
+      "char_end": 146283,
+      "sentence": "Frequency Annual Data source Surveys on beneficiary satisfaction Methodology for Data Survey administered through the waste collection app and paper-based to collect information on beneficiary satisfaction Collection Responsibility for Data VCOMS Collection Contingent Emergency Response Component Additional PROBLUE Indicators PROBLUE GRANT Outcome Indicators Target PROBLUE Indicator Description Number TBD, C.1 Distinct beneficiaries, Beneficiaries satisfied with SWM services with target of 75% and Female beneficiaries target 75% disaggregated by type of satisfied with SWM services in VC with target of 75% are indicators in the PWMP’s results 75% women benefits received, of which framework.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "waste collection app for beneficiary satisfaction surveys",
+      "reason": "reject: Standard satisfaction survey indicator; app is data-collection channel, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: app-based citizen feedback on waste services - cue: 'waste collection app'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard satisfaction survey indicator; app is data-collection channel, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1292
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 7,
+    "input_tokens": 5563,
+    "cached_tokens": 20608,
+    "cache_write_tokens": 0,
+    "output_tokens": 2501,
+    "seconds": 19.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0048
+  }
+}

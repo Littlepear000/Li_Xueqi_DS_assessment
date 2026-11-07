@@ -1,0 +1,40 @@
+<div class="wf">
+<h2>Workflow v5 — practice extraction from the PAD</h2>
+<p class="muted">Reading units · extract → judge → expand context · one row per practice. Designed to be tuned on a few projects before scaling up.</p>
+
+<h3>1. Definitions</h3>
+<dl>
+  <dt>Approach</dt>
+  <dd>A <b>specific, identifiable practice</b>: a concrete thing the project does, named precisely enough that the same practice could be recognised in another project. It must be related to digital technology, data or AI, and it maps to exactly one <b>category</b> of the working paper <i>Innovation Patterns in the World Bank Group Portfolio</i>: Operational, Technological, Financial or Collaborative.</dd>
+  <dt>Specificity test</dt>
+  <dd>The practice names (1) the mechanism, tool or system and (2) what it is used for / who uses it. "Use of technology", "digital transformation" or a technology name alone fail the test and are not extracted.</dd>
+  <dt>Adoption</dt>
+  <dd><b>apply</b> — this project finances, builds, deploys, requires or has implemented the practice; <b>prospect</b> — envisaged for the future without commitment; <b>discuss</b> — discussed as background, lessons or options. Only <b>apply</b> counts in headline figures.</dd>
+  <dt>Reading unit</dt>
+  <dd>The smallest piece of text read at once: one numbered paragraph of the PAD (the running paragraph numbers are followed), or, where numbering cannot be followed, a window of consecutive sentences of about 1,200 characters. Units never split a sentence and keep character offsets into the source file. Half a page ≈ 1,600 characters.</dd>
+</dl>
+
+<h3>2. Steps</h3>
+<ol>
+  <li><b>Locate PAD</b> (Python) — the newest PAD of the project; fallback Project Paper → Program Document → PID. No document: the project is marked <i>failed / Unclear</i>.</li>
+  <li><b>Reading units</b> (Python) — the document is segmented into sentences with offsets, then grouped into units (<code>units.target_chars / max_chars / min_chars</code>).</li>
+  <li><b>Cue filter</b> (Python) — units that carry a digital / data / AI keyword cue (DDAT keyword lists + enabling-technology terms of the innovation dictionary); boilerplate units dropped; at most <code>max_units_per_project</code> units, ranked by cue density.</li>
+  <li><b>Extract practices</b> (LLM, <code>01_extract</code>) — ten units per call. For each unit the model returns zero or more practices with category, adoption, a one-sentence description and 1–3 <b>sentence ids</b>. Sentences are resolved in Python, so evidence is verbatim and anchored by construction; an unresolvable id drops the practice.</li>
+  <li><b>Judge / expand</b> (LLM, <code>02_validate</code>, <code>03_revalidate</code>) — every practice is judged on four questions (specific? digital? right category? evidence and adoption supported?) with verdict <b>accept</b> / <b>revise</b> (corrected wording, category or adoption) / <b>expand</b> / <b>reject</b>. For <i>expand</i>, the unit is widened by <code>validate.expand_chars</code> (≈ half a page) on each side and judged again, this time to a final verdict. Rejected practices are written to the exclusion log with the judge's reason.</li>
+  <li><b>Sector &amp; theme</b> (LLM, <code>04_codes</code>) — one sector and one theme per accepted practice, chosen from the project's own <code>projects.csv</code> lists (assigned directly when the project has a single option).</li>
+  <li><b>Merge duplicates</b> (LLM, <code>05_merge</code>, one call) — practices that describe the same mechanism for the same purpose are grouped; their evidence is pooled.</li>
+  <li><b>Build records</b> (Python) — one approach per group: name = practice, adoption = highest among members (apply &gt; prospect &gt; discuss), <code>number_of_evidence</code> = pooled evidence sentences; one evidence row per sentence with unit id, paragraph number, judge rounds and verdict.</li>
+  <li><b>Replication scan</b> (Python) — explicit P-code references and TF-IDF similarity against the portfolio store (unchanged from v2).</li>
+</ol>
+
+<h3>3. What to look at when tuning</h3>
+<ul>
+  <li><b>Exclusion log</b> (table 4 / "rejected" in the drawer): the judge's reasons show whether the extractor is too generous (many <i>reject: generic</i>) or the specificity rule is too strict.</li>
+  <li><b>judge_rounds</b> on evidence rows: practices that needed the expanded context; a high share suggests larger units or a larger <code>expand_chars</code>.</li>
+  <li><b>Cue filter recall</b>: units without a cue are never read; <code>candidates.require_cue: false</code> reads every non-boilerplate unit (more calls).</li>
+  <li><b>Merging</b>: compare approaches before and after the merge step in the trace (<code>merged</code>).</li>
+</ul>
+
+<h3>4. Cost profile</h3>
+<p>Per project: ⌈candidate units / 10⌉ extraction calls + ⌈practices / 12⌉ judge calls (+ one more round for the expanded ones) + ⌈practices / 30⌉ coding calls + 1 merge call. A typical PAD (60–100 candidate units, 20–40 practices) is 20–30 calls of 3–6k input tokens; the system prompt is cached on Anthropic. Token counts and a list-price cost estimate are recorded per run (<code>llm_usage</code>) and printed by the CLI.</p>
+</div>

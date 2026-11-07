@@ -1,0 +1,1368 @@
+{
+  "project_id": "P505158",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "c48f9b3e",
+  "started_at": "2026-11-07T03:37:08Z",
+  "ended_at": "2026-11-07T03:37:36Z",
+  "input_fingerprint": "a3aad7ea7114351d",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 26,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P505158-A1",
+      "project_id": "P505158",
+      "name": "digital platforms for youth employment and entrepreneurship services",
+      "description": "The project uses online application, e-learning, job intermediation and MIS platforms, plus possible machine-learning growth predictors, to select, train and place youth. Practices: Online application platform with entrepreneurial aptitude test for preselection; Enhanced INEFOP MIS tracking implementation progress and beneficiaries; E-learning platform delivering employability training; INEFOP portal for youth job placement intermediation; INEFOP e-learning platform for online skills training; Machine-learning predictors of firm growth to complement business plan analysis.",
+      "why_innovative": "New process: digital aptitude test screens grant applicants - cue: 'Digital tools' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099030325142588823",
+        "doc_type": "PAD",
+        "doc_date": "2025-02-27",
+        "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+        "char_start": 70181,
+        "char_end": 70435,
+        "text": "Digital tools to be adopted in this phase will include a website and IT platform to manage receipt of applications through an online questionnaire and development or adoption of a simple test measuring entrepreneurial aptitude to facilitate preselection.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 112980,
+          "char_end": 113123,
+          "text": "INEFOP will enhance its computerized Management Information System (MIS) to incorporate additional features that track implementation progress.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 112785,
+          "char_end": 112979,
+          "text": "It will prepare semiannual reports on project implementation, utilizing data from an information platform that integrates details on activities and beneficiaries from the participating entities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 140743,
+          "char_end": 141934,
+          "text": "who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 100,000 200,000 300,000 400,000 ➢Female beneficiaries who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 40,000 80,000 120,000 160,000 ➢Beneficiaries with disabilities who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 6,000 12,000 18,000 24,000 Female beneficiaries who recevied stipends who have completed the training program (Percentage) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 80 80 85 90 Beneficiaries who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 25,000 37,500 50,000 ➢Female beneficiaries who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 10,000 15,000 20,000 ➢Beneficiaries with disabilities who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 1,500 2,250 3,000 People who receive training from the E-learning platform (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 5,000 15,000 20,000 Beneficiaries who have accessed digital job",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 143126,
+          "char_end": 144321,
+          "text": "Jul/2029 No No No Yes Yes Female beneficiaries who are working in male-dominated sectors at least one year after completing gender-specific training module (Percentage) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 5 5 10.00 Number of Youth Job Placements through the INEFOP portal (intermediation services) (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 20,000 40,000 70,000 120,000 180,000 Component 3: Strengthening systems, institutional and implementation capacity, and project management MAPTSS and INEFOP staff trained in employment policy design and implementation, and research (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 39 78 116 155 ➢Female MAPTSS and INEFOP staff trained in employment policy design and implementation (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 16 31 47 62 Women's Leadership Strategy Academy developed (Yes/No) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 No No No Yes Yes Number of Impact Evaluations (Number) Page 29 The World Bank Angola Youth Employment Opportunities Project (P505158) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 0 1 1 Employment Market Observatory Operationalization Strategy designed (Yes/No) Feb/2025",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 163821,
+          "char_end": 164158,
+          "text": "Responsibility for Data Collection MAPTSS and INEFOP People who receive training from the E-learning platform (Number) Description This indicator measures the total number of online learning users of INEFOP’s e-learning platform Frequency Semianually Data source INEFOP Methodology for Data Collection Measured at completion of training.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 71795,
+          "char_end": 72072,
+          "text": "For this phase, digital tools might include machine learning tools that consider possible predictors of firms’ growth to complement business plan analysis, preparation of a training need assessment, and development of training content (for physical training and/or e-learning).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the online platform and test are the selection mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Supports youth employment program preselection, core social protection objective.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169222",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Mais (P178035); PADA (P180693); the Angola Secondary Cities Support Program (P181160); the Smallholder Agricultural Transformation Project (MOSAP3, P177305); the Tertiary Education, Science, and Technology Project (TEST, P179154); the Girls Empowerment and Quality Education for All Project (PATII, P169222); and the Enhancing the Social Protection System for Human Capital and Resilience (Kwenda, P1"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: online application platform and aptitude test | Innovative: digital screening replaces manual preselection | Category: technological tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital aptitude test screens grant applicants - cue: 'Digital tools'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P505158-A2",
+      "project_id": "P505158",
+      "name": "pilot connecting youth to gig jobs and microtasks",
+      "description": "Pilots access to gig jobs and microtasks for 5,000 youth at CINFOTEC Talatona and Huambo.",
+      "why_innovative": "New delivery arrangement: pilot digital-job access, test scale-up - cue: 'pilot' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099030325142588823",
+        "doc_type": "PAD",
+        "doc_date": "2025-02-27",
+        "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+        "char_start": 87033,
+        "char_end": 87222,
+        "text": "Finally, this subcomponent includes the promotion of access to technology-based digital jobs (such as gig jobs and microtasks) as part of a pilot project at CINFOTEC in Talatona and Huambo.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 87223,
+          "char_end": 87349,
+          "text": "This pilot intervention aims to benefit 5,000 youth by offering them new opportunities in the rapidly growing digital economy.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099030325142588823",
+          "doc_type": "PAD",
+          "doc_date": "2025-02-27",
+          "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+          "char_start": 87550,
+          "char_end": 87727,
+          "text": "This pilot intervention will evaluate the feasibility of scaling digital job access in other regions, paving the way for more youth to participate in the global digital economy.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: tests a new delivery model before scaling",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Connects youth to gig jobs, directly serving youth employment social protection goals.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169222",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Mais (P178035); PADA (P180693); the Angola Secondary Cities Support Program (P181160); the Smallholder Agricultural Transformation Project (MOSAP3, P177305); the Tertiary Education, Science, and Technology Project (TEST, P179154); the Girls Empowerment and Quality Education for All Project (PATII, P169222); and the Enhancing the Social Protection System for Human Capital and Resilience (Kwenda, P1"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: gig and microtask platforms | Innovative: pilot tests scale-up of digital-job access | Category: pilot delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: pilot digital-job access, test scale-up - cue: 'pilot'",
+      "innovation_cues": [
+        "pilot",
+        "scaling"
+      ]
+    },
+    {
+      "approach_id": "P505158-A3",
+      "project_id": "P505158",
+      "name": "Platform connecting young entrepreneurs to additional funding opportunities, built under the systems-strengthening component",
+      "description": "Creates a platform linking young entrepreneurs with additional funding opportunities.",
+      "why_innovative": "Digital matchmaking platform linking youth entrepreneurs to funders; only one line, no design detail | category Collaborative; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099030325142588823",
+        "doc_type": "PAD",
+        "doc_date": "2025-02-27",
+        "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+        "char_start": 93185,
+        "char_end": 93580,
+        "text": "It will standardize processes, automate tasks, enhance the LMIS (Labor Market Observatory and INEFOP Portal) to provide information to various stakeholders and monitor impact across interventions, implement energy-efficient technologies in INEFOP centers, and support other components as needed, including creating a platform to connect young entrepreneurs with additional funding opportunities.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: connects entrepreneurs with funders via platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Protection",
+        "code": "",
+        "confidence": null,
+        "rationale": "Links young entrepreneurs to funding, supporting entrepreneurship under social protection.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169222",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Mais (P178035); PADA (P180693); the Angola Secondary Cities Support Program (P181160); the Smallholder Agricultural Transformation Project (MOSAP3, P177305); the Tertiary Education, Science, and Technology Project (TEST, P179154); the Girls Empowerment and Quality Education for All Project (PATII, P169222); and the Enhancing the Social Protection System for Human Capital and Resilience (Kwenda, P1"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: entrepreneur-funder matching platform | New: digital funding linkage | Category: multi-actor matchmaking | Weak: single mention, no mechanism detail",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital matchmaking platform linking youth entrepreneurs to funders; only one line, no design detail",
+      "innovation_cues": [
+        "innovative"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P505158",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "guid": "099030325142588823",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:37:08Z",
+      "ended_at": "2026-11-07T03:37:09Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:37:09Z",
+      "ended_at": "2026-11-07T03:37:09Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-03-20, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:37:09Z",
+      "ended_at": "2026-11-07T03:37:11Z",
+      "status": "ok",
+      "note": "26 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 26,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 4,
+          "enabling_technologies": 2,
+          "public_good": 3,
+          "enabling_processes": 5,
+          "innovation_cycle": 7,
+          "results_based_management": 1,
+          "innovation_types": 4
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:37:11Z",
+      "ended_at": "2026-11-07T03:37:11Z",
+      "status": "ok",
+      "note": "PAD 2025-02-27 (P505158_PAD_2025-02-27_099030325142588823.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P505158",
+            "doc_type": "PAD",
+            "doc_date": "2025-02-27",
+            "guid": "099030325142588823",
+            "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:37:11Z",
+      "ended_at": "2026-11-07T03:37:11Z",
+      "status": "ok",
+      "note": "122 reading units (8 numbered paragraphs) from 990 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 122
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:37:11Z",
+      "ended_at": "2026-11-07T03:37:15Z",
+      "status": "ok",
+      "note": "61 of 122 units carry a digital / AI cue (23 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 61,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 23
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:37:15Z",
+      "ended_at": "2026-11-07T03:37:24Z",
+      "status": "ok",
+      "note": "25 candidate practices from 61 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 206419,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1301,
+          "cached_tokens": 42365,
+          "cache_write_tokens": 0,
+          "output_tokens": 4465,
+          "seconds": 30.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.006
+        },
+        "extracted": 25
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:37:24Z",
+      "ended_at": "2026-11-07T03:37:31Z",
+      "status": "ok",
+      "note": "8 accepted, 17 rejected (not_innovative 9, not_digital 7, background_or_other_programme 1); 1 sent to the expanded-context round; 4 calls",
+      "llm_calls": 4,
+      "input_chars": 149133,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 19027,
+          "cached_tokens": 11392,
+          "cache_write_tokens": 0,
+          "output_tokens": 1656,
+          "seconds": 13.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0078
+        },
+        "accepted": 8,
+        "rejected": 17,
+        "expanded": 1,
+        "reject_codes": {
+          "not_innovative": 9,
+          "not_digital": 7,
+          "background_or_other_programme": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:31Z",
+      "ended_at": "2026-11-07T03:37:33Z",
+      "status": "ok",
+      "note": "8 of 8 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2213,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 353,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 273,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:33Z",
+      "ended_at": "2026-11-07T03:37:34Z",
+      "status": "ok",
+      "note": "8 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1979,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 307,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 62,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 5,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:34Z",
+      "ended_at": "2026-11-07T03:37:36Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7329,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1093,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 198,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:36Z",
+      "ended_at": "2026-11-07T03:37:36Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 11 evidence rows, 17 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:36Z",
+      "ended_at": "2026-11-07T03:37:36Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P169222",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "Mais (P178035); PADA (P180693); the Angola Secondary Cities Support Program (P181160); the Smallholder Agricultural Transformation Project (MOSAP3, P177305); the Tertiary Education, Science, and Technology Project (TEST, P179154); the Girls Empowerment and Quality Education for All Project (PATII, P169222); and the Enhancing the Social Protection System for Human Capital and Resilience (Kwenda, P1"
+          }
+        ],
+        "store_size": 245
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P505158-A1-E1",
+      "approach_id": "P505158-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 433,
+      "char_start": 70181,
+      "char_end": 70435,
+      "sentence": "Digital tools to be adopted in this phase will include a website and IT platform to manage receipt of applications through an online questionnaire and development or adoption of a simple test measuring entrepreneurial aptitude to facilitate preselection.",
+      "practice": "Online application platform with entrepreneurial aptitude test for preselection",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: online application and aptitude test | Not routine: digital screening replaces manual preselection | Adoption: 'will include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online application platform and aptitude test | Innovative: digital screening replaces manual preselection | Category: technological tool",
+      "keywords_hit": "incubator",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital aptitude test screens grant applicants - cue: 'Digital tools'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E2",
+      "approach_id": "P505158-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U80",
+      "para_no": null,
+      "sentence_position": 733,
+      "char_start": 112980,
+      "char_end": 113123,
+      "sentence": "INEFOP will enhance its computerized Management Information System (MIS) to incorporate additional features that track implementation progress.",
+      "practice": "Enhanced INEFOP MIS tracking implementation progress and beneficiaries",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: INEFOP computerized MIS | Not routine: integrates cross-entity beneficiary data | Adoption: 'will enhance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: INEFOP computerized MIS | Innovative: cross-entity beneficiary tracking | Category: MIS upgrade",
+      "keywords_hit": "MIS;information system;management information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: integrated MIS tracking activities and beneficiaries - cue: 'enhance'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E3",
+      "approach_id": "P505158-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U80",
+      "para_no": null,
+      "sentence_position": 732,
+      "char_start": 112785,
+      "char_end": 112979,
+      "sentence": "It will prepare semiannual reports on project implementation, utilizing data from an information platform that integrates details on activities and beneficiaries from the participating entities.",
+      "practice": "Enhanced INEFOP MIS tracking implementation progress and beneficiaries",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: INEFOP computerized MIS | Not routine: integrates cross-entity beneficiary data | Adoption: 'will enhance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: INEFOP computerized MIS | Innovative: cross-entity beneficiary tracking | Category: MIS upgrade",
+      "keywords_hit": "MIS;information system;management information system",
+      "innovation_cues": "",
+      "innovation_basis": "New process: integrated MIS tracking activities and beneficiaries - cue: 'enhance'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E4",
+      "approach_id": "P505158-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U100",
+      "para_no": null,
+      "sentence_position": 890,
+      "char_start": 140743,
+      "char_end": 141934,
+      "sentence": "who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 100,000 200,000 300,000 400,000 ➢Female beneficiaries who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 40,000 80,000 120,000 160,000 ➢Beneficiaries with disabilities who have completed employability package (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 6,000 12,000 18,000 24,000 Female beneficiaries who recevied stipends who have completed the training program (Percentage) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 80 80 85 90 Beneficiaries who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 25,000 37,500 50,000 ➢Female beneficiaries who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 10,000 15,000 20,000 ➢Beneficiaries with disabilities who complete the apprenticeship program (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 1,500 2,250 3,000 People who receive training from the E-learning platform (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 5,000 15,000 20,000 Beneficiaries who have accessed digital job",
+      "practice": "E-learning platform delivering employability training",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: e-learning platform | Not routine: online training channel at scale | Adoption: 'People who receive training'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-learning platform | Innovative: online employability training at scale | Category: digital delivery channel",
+      "keywords_hit": "e-learning;e-learning platform",
+      "innovation_cues": "",
+      "innovation_basis": "New service: e-learning platform for employability training - cue: 'E-learning platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E5",
+      "approach_id": "P505158-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U101",
+      "para_no": null,
+      "sentence_position": 892,
+      "char_start": 143126,
+      "char_end": 144321,
+      "sentence": "Jul/2029 No No No Yes Yes Female beneficiaries who are working in male-dominated sectors at least one year after completing gender-specific training module (Percentage) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 5 5 10.00 Number of Youth Job Placements through the INEFOP portal (intermediation services) (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 20,000 40,000 70,000 120,000 180,000 Component 3: Strengthening systems, institutional and implementation capacity, and project management MAPTSS and INEFOP staff trained in employment policy design and implementation, and research (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 39 78 116 155 ➢Female MAPTSS and INEFOP staff trained in employment policy design and implementation (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 16 31 47 62 Women's Leadership Strategy Academy developed (Yes/No) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 No No No Yes Yes Number of Impact Evaluations (Number) Page 29 The World Bank Angola Youth Employment Opportunities Project (P505158) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 0 1 1 Employment Market Observatory Operationalization Strategy designed (Yes/No) Feb/2025",
+      "practice": "INEFOP portal for youth job placement intermediation",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: INEFOP job portal | Not routine: digital intermediation at national scale | Adoption: 'through the INEFOP portal'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: INEFOP portal | Innovative: digital intermediation for 180,000 placements | Category: job-matching platform",
+      "keywords_hit": "gig;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital job-matching portal for placements - cue: 'portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E6",
+      "approach_id": "P505158-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U115",
+      "para_no": null,
+      "sentence_position": 957,
+      "char_start": 163821,
+      "char_end": 164158,
+      "sentence": "Responsibility for Data Collection MAPTSS and INEFOP People who receive training from the E-learning platform (Number) Description This indicator measures the total number of online learning users of INEFOP’s e-learning platform Frequency Semianually Data source INEFOP Methodology for Data Collection Measured at completion of training.",
+      "practice": "INEFOP e-learning platform for online skills training",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: INEFOP e-learning platform | Not routine: online training channel for youth | Adoption: 'receive training from'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: INEFOP e-learning platform | Innovative: online training channel for youth | Category: e-learning",
+      "keywords_hit": "administrative data;data collection;e-learning;e-learning platform;methodolog;online learning",
+      "innovation_cues": "",
+      "innovation_basis": "New service: online e-learning delivery channel for youth training - cue: 'e-learning platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A1-E7",
+      "approach_id": "P505158-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 7,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U50",
+      "para_no": null,
+      "sentence_position": 440,
+      "char_start": 71795,
+      "char_end": 72072,
+      "sentence": "For this phase, digital tools might include machine learning tools that consider possible predictors of firms’ growth to complement business plan analysis, preparation of a training need assessment, and development of training content (for physical training and/or e-learning).",
+      "practice": "Machine-learning predictors of firm growth to complement business plan analysis",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: machine-learning growth prediction | Not routine: ML-assisted selection rare in MDB grants | Adoption: 'might include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ML growth-prediction tools | Innovative: ML-assisted grantee selection rare in MDB grants | Category: technological",
+      "keywords_hit": "e-learning;machine learning;machine-learning",
+      "innovation_cues": "",
+      "innovation_basis": "New process: ML growth predictors aid grantee selection - cue: 'might include'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A2-E1",
+      "approach_id": "P505158-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U62",
+      "para_no": null,
+      "sentence_position": 532,
+      "char_start": 87033,
+      "char_end": 87222,
+      "sentence": "Finally, this subcomponent includes the promotion of access to technology-based digital jobs (such as gig jobs and microtasks) as part of a pilot project at CINFOTEC in Talatona and Huambo.",
+      "practice": "pilot connecting youth to gig jobs and microtasks",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: gig and microtask platforms | Not routine: pilot tests scale-up feasibility | Adoption: 'pilot project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: gig and microtask platforms | Innovative: pilot tests scale-up of digital-job access | Category: pilot delivery arrangement",
+      "keywords_hit": "Digital Jobs;coding;digital economy;digital jobs;digital skills;gig",
+      "innovation_cues": "pilot;scaling",
+      "innovation_basis": "New delivery arrangement: pilot digital-job access, test scale-up - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A2-E2",
+      "approach_id": "P505158-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U62",
+      "para_no": null,
+      "sentence_position": 533,
+      "char_start": 87223,
+      "char_end": 87349,
+      "sentence": "This pilot intervention aims to benefit 5,000 youth by offering them new opportunities in the rapidly growing digital economy.",
+      "practice": "pilot connecting youth to gig jobs and microtasks",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: gig and microtask platforms | Not routine: pilot tests scale-up feasibility | Adoption: 'pilot project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: gig and microtask platforms | Innovative: pilot tests scale-up of digital-job access | Category: pilot delivery arrangement",
+      "keywords_hit": "Digital Jobs;coding;digital economy;digital jobs;digital skills;gig",
+      "innovation_cues": "pilot;scaling",
+      "innovation_basis": "New delivery arrangement: pilot digital-job access, test scale-up - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A2-E3",
+      "approach_id": "P505158-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U62",
+      "para_no": null,
+      "sentence_position": 535,
+      "char_start": 87550,
+      "char_end": 87727,
+      "sentence": "This pilot intervention will evaluate the feasibility of scaling digital job access in other regions, paving the way for more youth to participate in the global digital economy.",
+      "practice": "pilot connecting youth to gig jobs and microtasks",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: gig and microtask platforms | Not routine: pilot tests scale-up feasibility | Adoption: 'pilot project'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: gig and microtask platforms | Innovative: pilot tests scale-up of digital-job access | Category: pilot delivery arrangement",
+      "keywords_hit": "Digital Jobs;coding;digital economy;digital jobs;digital skills;gig",
+      "innovation_cues": "pilot;scaling",
+      "innovation_basis": "New delivery arrangement: pilot digital-job access, test scale-up - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    },
+    {
+      "row_id": "P505158-A3-E1",
+      "approach_id": "P505158-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P505158",
+      "doc_id": "099030325142588823",
+      "doc_type": "PAD",
+      "doc_date": "2025-02-27",
+      "file_name": "P505158_PAD_2025-02-27_099030325142588823.txt",
+      "unit_id": "U66",
+      "para_no": null,
+      "sentence_position": 567,
+      "char_start": 93185,
+      "char_end": 93580,
+      "sentence": "It will standardize processes, automate tasks, enhance the LMIS (Labor Market Observatory and INEFOP Portal) to provide information to various stakeholders and monitor impact across interventions, implement energy-efficient technologies in INEFOP centers, and support other components as needed, including creating a platform to connect young entrepreneurs with additional funding opportunities.",
+      "practice": "Platform connecting young entrepreneurs to additional funding opportunities, built under the systems-strengthening component",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Social Protection",
+      "extractor_reason": "Digital core: entrepreneur funding platform | Not routine: digital funder-entrepreneur matching | Adoption: 'creating a platform'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: entrepreneur-funder matching platform | New: digital funding linkage | Category: multi-actor matchmaking | Weak: single mention, no mechanism detail",
+      "keywords_hit": "incubator;portal",
+      "innovation_cues": "innovative",
+      "innovation_basis": "Digital matchmaking platform linking youth entrepreneurs to funders; only one line, no design detail",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c48f9b3e"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 275,
+      "char_start": 43489,
+      "char_end": 43791,
+      "sentence": "(b) invest in a robust Labor Market Information System (LMIS) to collect and analyze employment data and to provide accurate and timely labor market information to key actors in support of economic planning and development efforts; and (c) adopt innovative approaches to deliver interventions at scale.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Labor Market Information System for employment data and planning",
+      "reason": "reject: LMIS is standard MDB labor-market IT; no new mechanism beyond routine system investment",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: labor market data system informing training and planning - cue: 'invest in a robust'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "LMIS is standard MDB labor-market IT; no new mechanism beyond routine system investment",
+          "reject_code": "not_innovative",
+          "context_chars": 1222
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 281,
+      "char_start": 45069,
+      "char_end": 45259,
+      "sentence": "Also, the project will strengthen government capacity and leverage digital tools, such as the e-learning platform, to foster innovation in entrepreneurship support and enhance employability.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "E-learning platform for entrepreneurship and employability training",
+      "reason": "reject: e-learning platform is routine MDB training delivery, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: digital e-learning channel for entrepreneurship training - cue: 'leverage digital tools'",
+      "innovation_cues": "innovation;scorecard",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "e-learning platform is routine MDB training delivery, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1935
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 496,
+      "char_start": 80153,
+      "char_end": 80478,
+      "sentence": "Mentoring and job search assistance will be available to all beneficiaries based on their needs and readiness (for example, after soft skills training and/or after participation in other interventions) through a single labor intermediation portal and INEFOP centers, in collaboration with private job intermediation services.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "single labor intermediation portal for job search and mentoring",
+      "reason": "reject: Single intermediation portal plus centers is standard job-search service delivery",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: unified portal plus centers for intermediation - cue: 'single labor intermediation portal'",
+      "innovation_cues": "low-carbon",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Single intermediation portal plus centers is standard job-search service delivery",
+          "reject_code": "not_innovative",
+          "context_chars": 1267
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 510,
+      "char_start": 82608,
+      "char_end": 82676,
+      "sentence": "(b) technical assistance for development of an e- learning platform;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "e-learning platform as new modality for professional training",
+      "reason": "reject: e-learning platform for TVET is routine MDB training modality",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: online TVET delivery modality - cue: 'innovative modality'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "e-learning platform for TVET is routine MDB training modality",
+          "reject_code": "not_innovative",
+          "context_chars": 1342
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 511,
+      "char_start": 82677,
+      "char_end": 82950,
+      "sentence": "(c) works and equipment, including design, implementation, and supervision of the works, for the climate-resilient construction of a training center and rehabilitation of a training center; and (d) connecting targeted youth to gig jobs, including through private providers.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "connecting youth to gig jobs via private providers",
+      "reason": "reject: Gig-job brokering via private providers; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: brokering youth into gig work - cue: 'gig jobs'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Gig-job brokering via private providers; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1342
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 516,
+      "char_start": 83754,
+      "char_end": 83966,
+      "sentence": "In addition, the project will facilitate the development and operationalization of an e-learning platform as a new delivery modality for professional training, to minimize disruptions arising from climate shocks.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "e-learning platform for climate-resilient TVET delivery",
+      "reason": "reject: e-learning platform for training continuity is routine delivery, not new",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: online training continuity amid climate shocks - cue: 'new delivery modality'",
+      "innovation_cues": "low-carbon",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "e-learning platform for training continuity is routine delivery, not new",
+          "reject_code": "not_innovative",
+          "context_chars": 1220
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 527,
+      "char_start": 85373,
+      "char_end": 85789,
+      "sentence": "In addition, this subcomponent will finance the upgrade of CINFOTEC in Talatona, which focuses on digital and technological professional training, with a view to support interventions to offer youth in urban areas, not participating in other components, access to technology and digital jobs (gig jobs) through training in digital skills and connecting with international platforms offering employment opportunities.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "digital skills training and linking youth to international gig platforms",
+      "reason": "reject: Training plus connection to platforms; no named digital system built by project",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: training plus global platform placement - cue: 'digital jobs'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Training plus connection to platforms; no named digital system built by project",
+          "reject_code": "not_digital",
+          "context_chars": 1264
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 559,
+      "char_start": 91848,
+      "char_end": 92163,
+      "sentence": "To this end, the component will finance (a) investments in an LMIS, including energy-efficient IT equipment, connectivity, and software development to boost institutional capacity for effective delivery; and (b) training for INEFOP and MAPTSS staff, including on policy/program design, implementation, and analysis.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Labor Market Information System (LMIS) for INEFOP and MAPTSS",
+      "reason": "reject: LMIS with IT equipment and software is standard institutional system investment",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New product: integrated labor market information system - cue: 'LMIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "LMIS with IT equipment and software is standard institutional system investment",
+          "reject_code": "not_innovative",
+          "context_chars": 1408
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 567,
+      "char_start": 93185,
+      "char_end": 93580,
+      "sentence": "It will standardize processes, automate tasks, enhance the LMIS (Labor Market Observatory and INEFOP Portal) to provide information to various stakeholders and monitor impact across interventions, implement energy-efficient technologies in INEFOP centers, and support other components as needed, including creating a platform to connect young entrepreneurs with additional funding opportunities.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "enhanced LMIS portal providing labor market information to stakeholders",
+      "reason": "reject: Enhancing existing LMIS portal is routine system upgrade, not new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New product: automated labor observatory portal - cue: 'innovative approaches'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Enhancing existing LMIS portal is routine system upgrade, not new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1554
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 583,
+      "char_start": 96368,
+      "char_end": 96580,
+      "sentence": "United Nations The Digital Inclusion and Future Skills Education pilot in Cacuaco, Luanda, targets young people (80% women) Development from a cooperative trained in food processing through the Agri-PREI Project.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital inclusion and future skills pilot for food-processing cooperative youth",
+      "reason": "reject: Digital skills/e-commerce training pilot; training programme, no named digital system built",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: digital skills and e-commerce pilot for cooperative youth - cue: 'pilot'",
+      "innovation_cues": "innovative;pilot;scaling",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Digital skills/e-commerce training pilot; training programme, no named digital system built",
+          "reject_code": "not_digital",
+          "context_chars": 1325
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 582,
+      "char_start": 96212,
+      "char_end": 96367,
+      "sentence": "(b) developing national guidelines for internships; and (c) creating a platform for online and offline learning in partnership with education stakeholders.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Online and offline learning platform with education stakeholders",
+      "reason": "reject: UNICEF/UNDP partner activity, not this project's financed component",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New delivery arrangement: multi-stakeholder online/offline learning platform - cue: 'in partnership'",
+      "innovation_cues": "innovative;pilot;scaling",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "UNICEF/UNDP partner activity, not this project's financed component",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1325
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 736,
+      "char_start": 113439,
+      "char_end": 113684,
+      "sentence": "INEFOP will also contract firms and individuals to carry out primary data collection, including beneficiary and tracer surveys, as well as a robust impact evaluation envisioned to utilize randomized controlled trial or quasi experimental design.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "RCT or quasi-experimental impact evaluation of youth employability interventions",
+      "reason": "reject: RCT/tracer surveys are standard M&E, not a new digital practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: experimental evaluation of employability interventions - cue: 'randomized controlled trial'",
+      "innovation_cues": "citizen-feedback;experimental;trial",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "RCT/tracer surveys are standard M&E, not a new digital practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1210
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 820,
+      "char_start": 126525,
+      "char_end": 126661,
+      "sentence": "To strengthen monitoring and information on disability, the project will introduce the Washington Group Short Set of six questions.83 B.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Washington Group Short Set questions for disability monitoring",
+      "reason": "reject: Washington Group question set is a survey instrument, not a digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: standardized disability data collection instrument - cue: 'introduce'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Washington Group question set is a survey instrument, not a digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1230
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 891,
+      "char_start": 141935,
+      "char_end": 143125,
+      "sentence": "platforms and secured gig jobs after participation (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 1,050 3,500 5,000 ➢Female beneficiaries who have accessed digital job platforms and secured gig jobs after participation (Number) Page 28 The World Bank Angola Youth Employment Opportunities Project (P505158) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 420 1,400 2,000 ➢Beneficiaries with disabilities who have accessed digital job platforms and secured gig jobs after participation (Number) Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 0 0 63 210 300 People using digitally enabled services (enhanced services) (Number of people) CRI Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 40,000 80,000 120,000 160,000 200,000 ➢People using digitally enabled services (enhanced services) - Female (Number of people) CRI Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 16,000 32,000 48,000 64,000 80,000 ➢People using digitally enabled services (enhanced services) - Youth (Number of people) CRI Feb/2025 Feb/2026 Feb/2027 Feb/2028 Jul/2029 40,000 80,000 120,000 160,000 200,000 Construction of climate-resilient professional technical training (Yes/No) Feb/2025 Feb/2026 Feb/2027 Feb/2028",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital job platforms and gig job access for youth",
+      "reason": "reject: Indicator of youth using external gig platforms; no named system the project builds",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: gig-platform access for youth employment - cue: 'gig jobs'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator of youth using external gig platforms; no named system the project builds",
+          "reject_code": "not_digital",
+          "context_chars": 2386
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 958,
+      "char_start": 164159,
+      "char_end": 164475,
+      "sentence": "Responsibility for Data Collection INEFOP Beneficiaries who have accessed digital job platforms and secured gig jobs after participation (Number) This indicator measures the total number of vulnerable youth who have accessed digital job platforms and Description successfully secured gig jobs because of the project.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital job platforms for youth gig job placement",
+      "reason": "reject: Indicator of youth accessing external gig platforms; no project-built digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: digital gig-matching platforms for youth employment - cue: 'gig jobs'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator of youth accessing external gig platforms; no project-built digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1264
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 965,
+      "char_start": 166317,
+      "char_end": 166629,
+      "sentence": "In the context of this project, this includes participants receiving training from the upgraded CINFOTEC in Talatona and the Description ones connecting with international platforms offering employment opportunities, under Subcomponent 2.2, including e-learning trainees and jobseekers using the INEFOP platform.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "INEFOP platform connecting youth to international employment platforms",
+      "reason": "reject: Indicator describing linkage to international platforms; no named system built by project",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: online linkage to international job platforms - cue: 'international platforms'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator describing linkage to international platforms; no named system built by project",
+          "reject_code": "not_digital",
+          "context_chars": 1205
+        }
+      ]
+    },
+    {
+      "guid": "099030325142588823",
+      "doc_type": "PAD",
+      "position": 973,
+      "char_start": 168132,
+      "char_end": 168415,
+      "sentence": "Responsibility for Data Collection INEFOP Number of Youth Job Placements through the INEFOP portal (intermediation services) This indicator measures the number of job placements for youth facilitated through the the INEFOP portal or Description other intermediation services portals.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "INEFOP portal and LMIS for youth job intermediation",
+      "reason": "reject: Standard results indicator tracking existing INEFOP portal/LMIS; no new digital system built or deployed",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: online job intermediation via portal and LMIS - cue: 'portal'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard results indicator tracking existing INEFOP portal/LMIS; no new digital system built or deployed",
+          "reject_code": "not_innovative",
+          "context_chars": 1462
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 14,
+    "input_tokens": 22081,
+    "cached_tokens": 54397,
+    "cache_write_tokens": 0,
+    "output_tokens": 6654,
+    "seconds": 49.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0149
+  }
+}

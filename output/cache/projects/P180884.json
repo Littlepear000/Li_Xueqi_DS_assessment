@@ -1,0 +1,946 @@
+{
+  "project_id": "P180884",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "752f7954",
+  "started_at": "2026-11-07T03:36:35Z",
+  "ended_at": "2026-11-07T03:36:53Z",
+  "input_fingerprint": "d0d61b7d673ce28d",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 17,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P180884-A1",
+      "project_id": "P180884",
+      "name": "geospatial land information systems and digital records for land administration",
+      "description": "The project uses CORS networks, satellite imagery, KoBo Toolbox M&E, and digitized land registries to support surveying, hazard modeling, and post-disaster tenure evidence. Practices: CORS network densification for geospatial positioning; Digital M&E system on KoBo Toolbox and geospatial platform for real-time monitoring of project-affected people and assets; Land Information System (LIS) in Wouri and Mfoundi land offices; Satellite imagery and geospatial modeling of climate hazards; Digitized land registry archives with climate risk data; Digitized land records for post-disaster tenure evidence.",
+      "why_innovative": "New service: densified national GNSS reference station network - cue: 'densify' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099073025213545002",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-06",
+        "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+        "char_start": 54337,
+        "char_end": 54416,
+        "text": "(v) densify Cameroon’s Continuously Operating Reference Station (CORS) Network;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 81312,
+          "char_end": 81698,
+          "text": "Building on the use of KoBo Toolbox and an electronic platform for land acquisition and resettlement screening, census, and valuation of Page 14 The World Bank Sustainable Cities and Land Project (P180884) affected assets in the preparation of RAPs, the creation of a digital M&E system can support real-time monitoring of implementation progress and project-affected people and assets.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 81129,
+          "char_end": 81311,
+          "text": "GEMS could help build the capacity of the PIU and government agencies to use low-cost, open-source geospatial platforms such as KoBo Toolbox for digital data collection and analysis.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 80979,
+          "char_end": 81066,
+          "text": "The project will use the Geo-Enabling Initiative for Monitoring and Supervision (GEMS).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 134234,
+          "char_end": 135430,
+          "text": "yes Land laws and regulations submitted for adoption (cumulative) (Number) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 1 1 2 2 3 3 User satisfaction with land administration services in the Wouri and Mfoundi DDDCAFs (Percentage) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 0 60 65 70 75 75 Development and operationalization of a Land Information System (LIS) within the Wouri and Mfoundi DDDCAFs (Text) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 no Bidding documents Contract signed Proposal to LIS module(s) LIS deployed and LIS operationalized LIS operationalized finalized streamline land conceived and tested within the Wouri within the Wouri and administration developed and Mfoundi Mfoundi DDDCAF procedures and LIS DDDCAFs technical architecture defined Implementation plans for increasing land tenure security have been formulated for select urban areas (Yes/No) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 no no no no yes yes yes yes Component 3: Project Management Project-related grievances addressed within the timeframe specified by the project's GRM procedures",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 176268,
+          "char_end": 176523,
+          "text": "Subcomponent - Modeling climate risks through satellite imagery and geospatial data70. - Demarcation72 and monitoring of green and blue areas 2.2: - Protection of cadaster and land registry archives through digitization 71. that have carbon sink benefits.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 176524,
+          "char_end": 176981,
+          "text": "Modernization - Prohibition of issuing land titles in high-risk, flood-prone zones. - The Archives and the DDDCAF buildings will be Level 1 of Land - Development of the LIS with climate risk data that provides evidence EDGE certified and obtain certification post construction, Administration and analytics for improved emergency response and insurance when adhering to the standards and requirements of buildings in Services climate-related hazards happen.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 178093,
+          "char_end": 178358,
+          "text": "71 The digitization activities will enable effective information exchange among government agencies and reduce the risk of losing records in case of climate-induced risks, keeping land rights when properties and their boundaries have disappeared due to such events.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099073025213545002",
+          "doc_type": "PAD",
+          "doc_date": "2025-05-06",
+          "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+          "char_start": 178359,
+          "char_end": 178540,
+          "text": "The digitization of land records will also allow landholders to safely evacuate during climate-induced disasters and provide evidence to resolve disputes in the event of land grabs.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: geospatial positioning infrastructure is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: CORS GNSS reference network | Innovative: national positioning backbone for cadastral surveys | Category: geospatial technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: densified national GNSS reference station network - cue: 'densify'",
+      "innovation_cues": [
+        "performance-based",
+        "pilot"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P180884",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "guid": "099073025213545002",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:35Z",
+      "ended_at": "2026-11-07T03:36:35Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 4 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:35Z",
+      "ended_at": "2026-11-07T03:36:35Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-05-30, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:35Z",
+      "ended_at": "2026-11-07T03:36:35Z",
+      "status": "ok",
+      "note": "17 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 17,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 4,
+          "enabling_processes": 3,
+          "innovation": 2,
+          "innovation_types": 3,
+          "public_good": 2,
+          "results_based_management": 2,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:35Z",
+      "ended_at": "2026-11-07T03:36:36Z",
+      "status": "ok",
+      "note": "PAD 2025-05-06 (P180884_PAD_2025-05-06_099073025213545002.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P180884",
+            "doc_type": "PAD",
+            "doc_date": "2025-05-06",
+            "guid": "099073025213545002",
+            "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:36Z",
+      "ended_at": "2026-11-07T03:36:36Z",
+      "status": "ok",
+      "note": "123 reading units (8 numbered paragraphs) from 999 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 123
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:36Z",
+      "ended_at": "2026-11-07T03:36:37Z",
+      "status": "ok",
+      "note": "43 of 123 units carry a digital / AI cue (17 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 43,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 17
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:37Z",
+      "ended_at": "2026-11-07T03:36:44Z",
+      "status": "ok",
+      "note": "15 candidate practices from 43 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 150202,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 1054,
+          "cached_tokens": 30848,
+          "cache_write_tokens": 0,
+          "output_tokens": 2900,
+          "seconds": 20.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.004
+        },
+        "extracted": 15
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:44Z",
+      "ended_at": "2026-11-07T03:36:50Z",
+      "status": "ok",
+      "note": "7 accepted, 8 rejected (generic 5, not_digital 3); 1 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 92130,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 10969,
+          "cached_tokens": 8448,
+          "cache_write_tokens": 0,
+          "output_tokens": 1149,
+          "seconds": 8.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0047
+        },
+        "accepted": 7,
+        "rejected": 8,
+        "expanded": 1,
+        "reject_codes": {
+          "generic": 5,
+          "not_digital": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:36:50Z",
+      "ended_at": "2026-11-07T03:36:50Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:36:50Z",
+      "ended_at": "2026-11-07T03:36:52Z",
+      "status": "ok",
+      "note": "7 approaches -> 2 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2131,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 471,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 71,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 5,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:36:52Z",
+      "ended_at": "2026-11-07T03:36:53Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5748,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 812,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 132,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:53Z",
+      "ended_at": "2026-11-07T03:36:53Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 9 evidence rows, 9 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:53Z",
+      "ended_at": "2026-11-07T03:36:53Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 233
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P180884-A1-E1",
+      "approach_id": "P180884-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 317,
+      "char_start": 54337,
+      "char_end": 54416,
+      "sentence": "(v) densify Cameroon’s Continuously Operating Reference Station (CORS) Network;",
+      "practice": "CORS network densification for geospatial positioning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: CORS GNSS reference network | Not routine: national geospatial positioning backbone | Adoption: 'densify'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: CORS GNSS reference network | Innovative: national positioning backbone for cadastral surveys | Category: geospatial technology",
+      "keywords_hit": "survey",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: densified national GNSS reference station network - cue: 'densify'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E2",
+      "approach_id": "P180884-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 472,
+      "char_start": 81312,
+      "char_end": 81698,
+      "sentence": "Building on the use of KoBo Toolbox and an electronic platform for land acquisition and resettlement screening, census, and valuation of Page 14 The World Bank Sustainable Cities and Land Project (P180884) affected assets in the preparation of RAPs, the creation of a digital M&E system can support real-time monitoring of implementation progress and project-affected people and assets.",
+      "practice": "Digital M&E system on KoBo Toolbox and geospatial platform for real-time monitoring of project-affected people and assets",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: KoBo Toolbox geospatial M&E platform | Not routine: real-time tracking of PAPs and assets | Adoption: 'can support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: KoBo Toolbox geospatial M&E | Innovative: real-time PAP/asset tracking | Category: technology; adoption 'can support' is prospective wording",
+      "keywords_hit": "census;data collection;digital data collection;geospatial;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: real-time digital M&E linked to resettlement screening - cue: 'digital M&E system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E3",
+      "approach_id": "P180884-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 471,
+      "char_start": 81129,
+      "char_end": 81311,
+      "sentence": "GEMS could help build the capacity of the PIU and government agencies to use low-cost, open-source geospatial platforms such as KoBo Toolbox for digital data collection and analysis.",
+      "practice": "Digital M&E system on KoBo Toolbox and geospatial platform for real-time monitoring of project-affected people and assets",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: KoBo Toolbox geospatial M&E platform | Not routine: real-time tracking of PAPs and assets | Adoption: 'can support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: KoBo Toolbox geospatial M&E | Innovative: real-time PAP/asset tracking | Category: technology; adoption 'can support' is prospective wording",
+      "keywords_hit": "census;data collection;digital data collection;geospatial;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: real-time digital M&E linked to resettlement screening - cue: 'digital M&E system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E4",
+      "approach_id": "P180884-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 469,
+      "char_start": 80979,
+      "char_end": 81066,
+      "sentence": "The project will use the Geo-Enabling Initiative for Monitoring and Supervision (GEMS).",
+      "practice": "Digital M&E system on KoBo Toolbox and geospatial platform for real-time monitoring of project-affected people and assets",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: KoBo Toolbox geospatial M&E platform | Not routine: real-time tracking of PAPs and assets | Adoption: 'can support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: KoBo Toolbox geospatial M&E | Innovative: real-time PAP/asset tracking | Category: technology; adoption 'can support' is prospective wording",
+      "keywords_hit": "census;data collection;digital data collection;geospatial;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: real-time digital M&E linked to resettlement screening - cue: 'digital M&E system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E5",
+      "approach_id": "P180884-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U96",
+      "para_no": null,
+      "sentence_position": 817,
+      "char_start": 134234,
+      "char_end": 135430,
+      "sentence": "yes Land laws and regulations submitted for adoption (cumulative) (Number) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 1 1 2 2 3 3 User satisfaction with land administration services in the Wouri and Mfoundi DDDCAFs (Percentage) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 0 60 65 70 75 75 Development and operationalization of a Land Information System (LIS) within the Wouri and Mfoundi DDDCAFs (Text) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 no Bidding documents Contract signed Proposal to LIS module(s) LIS deployed and LIS operationalized LIS operationalized finalized streamline land conceived and tested within the Wouri within the Wouri and administration developed and Mfoundi Mfoundi DDDCAF procedures and LIS DDDCAFs technical architecture defined Implementation plans for increasing land tenure security have been formulated for select urban areas (Yes/No) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 no no no no yes yes yes yes Component 3: Project Management Project-related grievances addressed within the timeframe specified by the project's GRM procedures",
+      "practice": "Land Information System (LIS) in Wouri and Mfoundi land offices",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: LIS land registry | Not routine: modernizes land titling records | Adoption: 'LIS deployed and operationalized'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: LIS land registry | Innovative: digital land titling records | Category: technology",
+      "keywords_hit": "information system;land information system",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New service: digital land registry replacing paper procedures - cue: 'performance-based'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E6",
+      "approach_id": "P180884-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U122",
+      "para_no": null,
+      "sentence_position": 987,
+      "char_start": 176268,
+      "char_end": 176523,
+      "sentence": "Subcomponent - Modeling climate risks through satellite imagery and geospatial data70. - Demarcation72 and monitoring of green and blue areas 2.2: - Protection of cadaster and land registry archives through digitization 71. that have carbon sink benefits.",
+      "practice": "Satellite imagery and geospatial modeling of climate hazards",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: satellite imagery and geospatial data | Not routine: hazard maps feed land titles and insurance | Adoption: 'Modeling climate risks through satellite imagery'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite/geospatial hazard models | Innovative: hazard maps feed land titles, insurance | Category: remote sensing tool",
+      "keywords_hit": "analytics;geospatial;satellite imagery",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geospatial hazard mapping informs land-use and insurance - cue: 'satellite imagery'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E7",
+      "approach_id": "P180884-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U122",
+      "para_no": null,
+      "sentence_position": 988,
+      "char_start": 176524,
+      "char_end": 176981,
+      "sentence": "Modernization - Prohibition of issuing land titles in high-risk, flood-prone zones. - The Archives and the DDDCAF buildings will be Level 1 of Land - Development of the LIS with climate risk data that provides evidence EDGE certified and obtain certification post construction, Administration and analytics for improved emergency response and insurance when adhering to the standards and requirements of buildings in Services climate-related hazards happen.",
+      "practice": "Satellite imagery and geospatial modeling of climate hazards",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: satellite imagery and geospatial data | Not routine: hazard maps feed land titles and insurance | Adoption: 'Modeling climate risks through satellite imagery'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: satellite/geospatial hazard models | Innovative: hazard maps feed land titles, insurance | Category: remote sensing tool",
+      "keywords_hit": "analytics;geospatial;satellite imagery",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geospatial hazard mapping informs land-use and insurance - cue: 'satellite imagery'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E8",
+      "approach_id": "P180884-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U123",
+      "para_no": null,
+      "sentence_position": 994,
+      "char_start": 178093,
+      "char_end": 178358,
+      "sentence": "71 The digitization activities will enable effective information exchange among government agencies and reduce the risk of losing records in case of climate-induced risks, keeping land rights when properties and their boundaries have disappeared due to such events.",
+      "practice": "Digitized land records for post-disaster tenure evidence",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: digitized land registry records | Not routine: secures tenure evidence after disasters | Adoption: 'digitization of land records will also allow'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized land registry | Innovative: preserves tenure evidence post-disaster | Category: digital registry",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital land records preserve tenure after disasters - cue: 'digitization'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    },
+    {
+      "row_id": "P180884-A1-E9",
+      "approach_id": "P180884-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 9,
+      "project_id": "P180884",
+      "doc_id": "099073025213545002",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-06",
+      "file_name": "P180884_PAD_2025-05-06_099073025213545002.txt",
+      "unit_id": "U123",
+      "para_no": null,
+      "sentence_position": 995,
+      "char_start": 178359,
+      "char_end": 178540,
+      "sentence": "The digitization of land records will also allow landholders to safely evacuate during climate-induced disasters and provide evidence to resolve disputes in the event of land grabs.",
+      "practice": "Digitized land records for post-disaster tenure evidence",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: digitized land registry records | Not routine: secures tenure evidence after disasters | Adoption: 'digitization of land records will also allow'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized land registry | Innovative: preserves tenure evidence post-disaster | Category: digital registry",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital land records preserve tenure after disasters - cue: 'digitization'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "752f7954"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 314,
+      "char_start": 53968,
+      "char_end": 54065,
+      "sentence": "(ii) develop and operationalize a Land Information System (LIS) in the Mfoundi and Wouri DDDCAFs;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Land Information System with digital cadaster and registry archives",
+      "reason": "reject: Duplicates A5/A7/A11 LIS practice; same LIS described in several units is one approach",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital cadaster and land registry replacing paper archives - cue: 'operationalize'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Duplicates A5/A7/A11 LIS practice; same LIS described in several units is one approach",
+          "reject_code": "generic",
+          "context_chars": 1418
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 402,
+      "char_start": 69013,
+      "char_end": 69721,
+      "sentence": "Although PDVIR's mayor-led negotiation approach reduced the RAP preparation and implementation time to less than one year, compared to the nearly three years required for PDVIR's first set of RAPs which followed national expropriation procedures in implementing the RAPs and generated a significant number of claims, the main national actors involved in resettlement in Cameroon, including the consultants preparing the RAPs, could be made more aware of the approach and trained to apply it with a transparent tool available to all actors involved, such as the use of Information and Communication Technologies (ICTs), which could allow early joint verification of the accuracy of the RAPs and reduce claims.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "ICT-based joint verification of resettlement action plans",
+      "reason": "reject: ICT mentioned only as vague possibility; no named tool or system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: ICT-enabled joint verification of RAP accuracy - cue: 'could allow'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ICT mentioned only as vague possibility; no named tool or system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1339
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 816,
+      "char_start": 133036,
+      "char_end": 134233,
+      "sentence": "no no no no yes yes yes yes Government-endorsed operational instruments and investment studies for sustainable urbanization (Number) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Dec/2031 0 0 2 4 6 9 11 13 Kilometers of roads built (Kilometers) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 0 2.50 12.50 22.70 29 29 Number of beneficiaries employed (Number) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 Page 28 The World Bank Sustainable Cities and Land Project(P180884) 0 100 250 500 750 800 900 900 GBV support centers built or strengthened and operational financed by the project (Number) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 0 0 1 2 2 2 Total length of urban roads and drainage maintained or improved in a resilient manner through Performance-Based Contracts (Kilometers) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 0 0 0 0 20 40 40 40 Component 2: Improvement of Land Administration Services National land policy document submitted for adoption (Yes/No) Dec/2024 Dec/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Dec/2030 Jun/2031 no no yes yes yes yes yes",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Performance-based contracts for urban road and drainage maintenance",
+      "reason": "reject: Performance-based maintenance contracts; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: maintenance paid on measured performance - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance-based maintenance contracts; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 2394
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 828,
+      "char_start": 147351,
+      "char_end": 148546,
+      "sentence": "PIU Development and operationalization of a Land Information System (LIS) within the Wouri and Mfoundi DDDCAFs (Text) Measures the project's performance in developing and operationalizing the LIS within the Wouri and Mfoundi Description DDDCAFs Frequency Annual Data source Procurement documents and then the implementation and operationalization status of the LIS Collecting procurement documents (bidding documents and contracts) and then accessing the progress and Methodology for Data Collection operation of the LIS from both DDDCAFs, combined with field visits Responsibility for Data Collection MINDCAF, PIU Implementation plans for increasing land tenure security have been formulated for select urban areas (Yes/No) Monitors the project’s performance in supporting the development of implementation plans for increasing land Description tenure security Frequency Annual Reports presenting proposed options for increasing land tenure security in a form and substance that are Data source acceptable to the World Bank Methodology for Data Collection Collecting reports from MINDCAF Responsibility for Data Collection MINDCAF, PIU Component 3: Project management Project-related grievances",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Land Information System in Yaoundé and Douala land offices",
+      "reason": "reject: Same LIS practice as A5/A11; duplicate, not a separate approach",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital land registry replacing paper records - cue: 'operationalization'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same LIS practice as A5/A11; duplicate, not a separate approach",
+          "reject_code": "generic",
+          "context_chars": 2384
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 913,
+      "char_start": 163342,
+      "char_end": 163584,
+      "sentence": "The support includes, inter alia, analysis and digitalization of processes, inter-governmental coordination and data sharing protocols, synchronization with land-use plans, an institutional, financial and O&M mechanism, and operating support.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Digitalization of land administration processes and data-sharing protocols",
+      "reason": "reject: 'Digitalization of processes' with no named system or tool",
+      "reject_code": "generic",
+      "innovation_basis": "New process: digitalized land workflows with data sharing - cue: 'digitalization of'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "'Digitalization of processes' with no named system or tool",
+          "reject_code": "generic",
+          "context_chars": 1265
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 925,
+      "char_start": 165189,
+      "char_end": 165412,
+      "sentence": "With the support of FAO and other development partners, MINDCAF is also establishing a multi-stakeholder platform to ensure the participation of the public, private and civil society land sectors, and other relevant actors.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Multi-stakeholder land sector platform for policy reform",
+      "reason": "reject: Multi-stakeholder platform with no digital system; fails digital precondition",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: joint land reform platform - cue: 'multi-stakeholder platform'",
+      "innovation_cues": "multi-stakeholder;stakeholder platform",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Multi-stakeholder platform with no digital system; fails digital precondition",
+          "reject_code": "not_digital",
+          "context_chars": 1263
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 932,
+      "char_start": 166381,
+      "char_end": 166509,
+      "sentence": "MINDCAF will adopt the Fit-for-Purpose Land Administration (FFPLA)62 approach to: (i) streamline land administration procedures;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Fit-for-Purpose Land Administration with digital cadastral archives",
+      "reason": "reject: Same LIS/cadastral archive practice as A5; duplicate approach",
+      "reject_code": "generic",
+      "innovation_basis": "New service: low-cost digital cadastre and registry - cue: 'Fit-for-Purpose'",
+      "innovation_cues": "low-carbon;mainstreaming;multi-stakeholder;stakeholder platform",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same LIS/cadastral archive practice as A5; duplicate approach",
+          "reject_code": "generic",
+          "context_chars": 1438
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 942,
+      "char_start": 167977,
+      "char_end": 168079,
+      "sentence": "Page 39 The World Bank Sustainable Cities and Land Project (P180884) Reference Station (CORS) Network;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Continuously Operating Reference Station geospatial network densification",
+      "reason": "reject: Same CORS densification practice as A2; duplicate approach",
+      "reject_code": "generic",
+      "innovation_basis": "New service: national GNSS reference network - cue: 'densify'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Same CORS densification practice as A2; duplicate approach",
+          "reject_code": "generic",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "099073025213545002",
+      "doc_type": "PAD",
+      "position": 911,
+      "char_start": 162851,
+      "char_end": 163050,
+      "sentence": "Development and operationalization of control mechanisms for urban planning and constructure management and one-stop shops (OSSs) in Yaoundé and Douala, including their district-level municipalities.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "One-stop shops for urban planning permits in Yaoundé and Douala",
+      "reason": "reject: final check round 1: digital: incidental - Digital: OSS is an institutional service model, digital permitting only supportive | Before 2019: WBG/IFC one-stop shop reforms widespread in business/permitting",
+      "reject_code": "not_digital",
+      "innovation_basis": "Single-window permit delivery with process digitalization, data-sharing protocols and land-use plan synchronization",
+      "innovation_cues": "nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Text does not say the one-stop shops are digitalized; need detail on the OSS system",
+          "reject_code": "",
+          "context_chars": 1473
+        },
+        {
+          "round": 2,
+          "verdict": "accept",
+          "reason": "Digital core: digitalized OSS permit workflow | Innovative: consolidates fragmented permit issuance, data-sharing protocols | Category: new delivery arrangement",
+          "reject_code": "",
+          "context_chars": 12293
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: OSS is an institutional service model, digital permitting only supportive | Before 2019: WBG/IFC one-stop shop reforms widespread in business/permitting",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 13306,
+    "cached_tokens": 39680,
+    "cache_write_tokens": 0,
+    "output_tokens": 4252,
+    "seconds": 31.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0093
+  }
+}

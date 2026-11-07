@@ -1,0 +1,763 @@
+{
+  "project_id": "P178750",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "f8cc61d9",
+  "started_at": "2026-11-07T03:35:39Z",
+  "ended_at": "2026-11-07T03:36:03Z",
+  "input_fingerprint": "35be30c771485165",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 21,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P178750-A1",
+      "project_id": "P178750",
+      "name": "digital platforms, supercomputing and scholarship tracking for higher education",
+      "description": "The project digitizes ISEP curricula, strengthens IT networks, boosts supercomputer use for big-data research, and runs SENBOURSE to track scholarships transparently. Practices: Digitized program-content platform consolidating ISEP curricula and IT networks; Supercomputer capacity for big-data research and training; SENBOURSE system tracking higher education scholarships transparently.",
+      "why_innovative": "Digital core: shared ISEP content platform | New: consolidated digitized curricula across ISEP network | Adoption: 'would be improved' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099060923150012750",
+        "doc_type": "PAD",
+        "doc_date": "2023-06-07",
+        "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+        "char_start": 66214,
+        "char_end": 66778,
+        "text": "This platform would be improved to consolidate digitized contents of programs; the design of strategic plans and economic models to strengthen the sustainability of ISEPs; the implementation of quality assurance standards; the reinforcement of IT networks for the information system; the establishment of a human resource strategy and of the related legal framework; the setting of a mechanism for teachers’ frequent immersion into companies to allow adaptation to market needs; and planning for sustained capacity building for teachers, technicians, and managers.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099060923150012750",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-07",
+          "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+          "char_start": 76638,
+          "char_end": 76768,
+          "text": "The project will make specific investments to enhance research capacity within the country by supporting improved use of big data.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099060923150012750",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-07",
+          "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+          "char_start": 76769,
+          "char_end": 76923,
+          "text": "This includes supporting better utilization of Senegal’s supercomputer which in its current state, is not being fully exploited for research and training.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099060923150012750",
+          "doc_type": "PAD",
+          "doc_date": "2023-06-07",
+          "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+          "char_start": 79071,
+          "char_end": 79659,
+          "text": "(b) Improve operationalization of the Integrated Higher Education and Research Information System (Système Intégré de Gestion de l’Enseignement Supérieur et de la Recherche, SIGESR) by building on the previously developed infrastructure and digital applications (including ensuring functionality of SENBOURSE which is meant to transparently track higher education scholarships); and (c) Provide support to the growing network of Open Digital Spaces that are being designed to deliver a set of teaching modules for distance learning and are meant to be collectively shared by universities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital content platform and IT system are the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Tertiary Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digitizing ISEP curricula and IT systems directly serves higher education institutions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: ISEP content platform | Innovative: shared digitized curricula network | Category: digital platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital core: shared ISEP content platform | New: consolidated digitized curricula across ISEP network | Adoption: 'would be improved'",
+      "innovation_cues": [
+        "innovation",
+        "innovations",
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P178750-A2",
+      "project_id": "P178750",
+      "name": "Integrated management platform for 3FPT training fund operations",
+      "description": "Project finances an integrated platform for internal control, monitoring and faster processing with stakeholders.",
+      "why_innovative": "New process: integrated platform for fund internal control and processing - cue: 'integrated management platform' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099060923150012750",
+        "doc_type": "PAD",
+        "doc_date": "2023-06-07",
+        "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+        "char_start": 70155,
+        "char_end": 70447,
+        "text": "In addition, institutional support will be provided to the 3FPT, including (a) establishment of an integrated management platform and other tools to support system functioning, internal control, monitoring of implementation, and optimization of processing times with the various stakeholders;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the platform is the core mechanism, not a delivery partnership",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Workforce Development and Vocational Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "3FPT is the vocational training fund, so its platform serves workforce development.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: 3FPT integrated platform | Innovative: consolidates fund control and processing | Category: digital MIS",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: integrated platform for fund internal control and processing - cue: 'integrated management platform'",
+      "innovation_cues": [
+        "innovation"
+      ]
+    },
+    {
+      "approach_id": "P178750-A3",
+      "project_id": "P178750",
+      "name": "Shared Open Digital Spaces delivering distance-learning modules across universities",
+      "description": "Project supports a network of Open Digital Spaces collectively shared by universities for distance-learning modules.",
+      "why_innovative": "New delivery arrangement: shared inter-university digital learning spaces - cue: 'collectively shared' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099060923150012750",
+        "doc_type": "PAD",
+        "doc_date": "2023-06-07",
+        "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+        "char_start": 79071,
+        "char_end": 79659,
+        "text": "(b) Improve operationalization of the Integrated Higher Education and Research Information System (Système Intégré de Gestion de l’Enseignement Supérieur et de la Recherche, SIGESR) by building on the previously developed infrastructure and digital applications (including ensuring functionality of SENBOURSE which is meant to transparently track higher education scholarships); and (c) Provide support to the growing network of Open Digital Spaces that are being designed to deliver a set of teaching modules for distance learning and are meant to be collectively shared by universities.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: shared platform across universities, not single-institution tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Tertiary Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Shared distance-learning modules across universities directly serve tertiary education.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: shared Open Digital Spaces | Innovative: inter-university shared e-learning | Category: shared delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: shared inter-university digital learning spaces - cue: 'collectively shared'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "guid": "099060923150012750",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:39Z",
+      "ended_at": "2026-11-07T03:35:42Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 10 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:42Z",
+      "ended_at": "2026-11-07T03:35:42Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-06-29, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:42Z",
+      "ended_at": "2026-11-07T03:35:43Z",
+      "status": "ok",
+      "note": "21 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 21,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 3,
+          "enabling_processes": 2,
+          "enabling_technologies": 2,
+          "innovation_cycle": 7,
+          "results_based_management": 5,
+          "innovation_types": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:43Z",
+      "ended_at": "2026-11-07T03:35:43Z",
+      "status": "ok",
+      "note": "PAD 2023-06-07 (P178750_PAD_2023-06-07_099060923150012750.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178750",
+            "doc_type": "PAD",
+            "doc_date": "2023-06-07",
+            "guid": "099060923150012750",
+            "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:43Z",
+      "ended_at": "2026-11-07T03:35:44Z",
+      "status": "ok",
+      "note": "155 reading units (29 numbered paragraphs) from 1362 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 155
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:44Z",
+      "ended_at": "2026-11-07T03:35:46Z",
+      "status": "ok",
+      "note": "48 of 155 units carry a digital / AI cue (16 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 48,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 16
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:46Z",
+      "ended_at": "2026-11-07T03:35:51Z",
+      "status": "ok",
+      "note": "8 candidate practices from 48 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 152146,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 924,
+          "cached_tokens": 32766,
+          "cache_write_tokens": 0,
+          "output_tokens": 1879,
+          "seconds": 13.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0027
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:35:51Z",
+      "ended_at": "2026-11-07T03:35:55Z",
+      "status": "ok",
+      "note": "6 accepted, 2 rejected (not_digital 1, not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 32065,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 3706,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 679,
+          "seconds": 3.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0019
+        },
+        "accepted": 6,
+        "rejected": 2,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:35:55Z",
+      "ended_at": "2026-11-07T03:35:57Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1985,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 423,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 228,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:35:57Z",
+      "ended_at": "2026-11-07T03:35:59Z",
+      "status": "ok",
+      "note": "6 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1492,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 346,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 68,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 2,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:35:59Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8688,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1380,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 278,
+          "seconds": 2.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:02Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 6 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:36:02Z",
+      "ended_at": "2026-11-07T03:36:03Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 219
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178750-A1-E1",
+      "approach_id": "P178750-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 426,
+      "char_start": 66214,
+      "char_end": 66778,
+      "sentence": "This platform would be improved to consolidate digitized contents of programs; the design of strategic plans and economic models to strengthen the sustainability of ISEPs; the implementation of quality assurance standards; the reinforcement of IT networks for the information system; the establishment of a human resource strategy and of the related legal framework; the setting of a mechanism for teachers’ frequent immersion into companies to allow adaptation to market needs; and planning for sustained capacity building for teachers, technicians, and managers.",
+      "practice": "Digitized program-content platform consolidating ISEP curricula and IT networks",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Tertiary Education",
+      "extractor_reason": "Digital core: ISEP content platform | Not routine: shared digitized curricula network | Adoption: 'would be improved'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: ISEP content platform | Innovative: shared digitized curricula network | Category: digital platform",
+      "keywords_hit": "incubator;information system",
+      "innovation_cues": "innovation;innovations",
+      "innovation_basis": "Digital core: shared ISEP content platform | New: consolidated digitized curricula across ISEP network | Adoption: 'would be improved'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    },
+    {
+      "row_id": "P178750-A1-E2",
+      "approach_id": "P178750-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 493,
+      "char_start": 76638,
+      "char_end": 76768,
+      "sentence": "The project will make specific investments to enhance research capacity within the country by supporting improved use of big data.",
+      "practice": "Supercomputer capacity for big-data research and training",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Tertiary Education",
+      "extractor_reason": "Digital core: national supercomputer for big data | Not routine: exploits idle HPC for research | Adoption: 'will make specific investments'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national supercomputer | Innovative: exploits idle HPC for research | Category: HPC infrastructure",
+      "keywords_hit": "big data",
+      "innovation_cues": "innovation;pilot",
+      "innovation_basis": "New service: supercomputer-enabled big-data research capacity - cue: 'big data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    },
+    {
+      "row_id": "P178750-A1-E3",
+      "approach_id": "P178750-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 494,
+      "char_start": 76769,
+      "char_end": 76923,
+      "sentence": "This includes supporting better utilization of Senegal’s supercomputer which in its current state, is not being fully exploited for research and training.",
+      "practice": "Supercomputer capacity for big-data research and training",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Tertiary Education",
+      "extractor_reason": "Digital core: national supercomputer for big data | Not routine: exploits idle HPC for research | Adoption: 'will make specific investments'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national supercomputer | Innovative: exploits idle HPC for research | Category: HPC infrastructure",
+      "keywords_hit": "big data",
+      "innovation_cues": "innovation;pilot",
+      "innovation_basis": "New service: supercomputer-enabled big-data research capacity - cue: 'big data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    },
+    {
+      "row_id": "P178750-A1-E4",
+      "approach_id": "P178750-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 507,
+      "char_start": 79071,
+      "char_end": 79659,
+      "sentence": "(b) Improve operationalization of the Integrated Higher Education and Research Information System (Système Intégré de Gestion de l’Enseignement Supérieur et de la Recherche, SIGESR) by building on the previously developed infrastructure and digital applications (including ensuring functionality of SENBOURSE which is meant to transparently track higher education scholarships); and (c) Provide support to the growing network of Open Digital Spaces that are being designed to deliver a set of teaching modules for distance learning and are meant to be collectively shared by universities.",
+      "practice": "SENBOURSE system tracking higher education scholarships transparently",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Tertiary Education",
+      "extractor_reason": "Digital core: SIGESR/SENBOURSE scholarship tracking | Not routine: transparent scholarship tracking system | Adoption: 'improve operationalization'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SENBOURSE/SIGESR | Innovative: transparent scholarship tracking | Category: digital registry",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital scholarship tracking system - cue: 'transparently track'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    },
+    {
+      "row_id": "P178750-A2-E1",
+      "approach_id": "P178750-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 449,
+      "char_start": 70155,
+      "char_end": 70447,
+      "sentence": "In addition, institutional support will be provided to the 3FPT, including (a) establishment of an integrated management platform and other tools to support system functioning, internal control, monitoring of implementation, and optimization of processing times with the various stakeholders;",
+      "practice": "Integrated management platform for 3FPT training fund operations",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Workforce Development and Vocational Education",
+      "extractor_reason": "Digital core: integrated 3FPT management platform | Not routine: consolidates fund control and processing | Adoption: 'will be provided'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: 3FPT integrated platform | Innovative: consolidates fund control and processing | Category: digital MIS",
+      "keywords_hit": "data management;digital skills",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New process: integrated platform for fund internal control and processing - cue: 'integrated management platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    },
+    {
+      "row_id": "P178750-A3-E1",
+      "approach_id": "P178750-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P178750",
+      "doc_id": "099060923150012750",
+      "doc_type": "PAD",
+      "doc_date": "2023-06-07",
+      "file_name": "P178750_PAD_2023-06-07_099060923150012750.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 507,
+      "char_start": 79071,
+      "char_end": 79659,
+      "sentence": "(b) Improve operationalization of the Integrated Higher Education and Research Information System (Système Intégré de Gestion de l’Enseignement Supérieur et de la Recherche, SIGESR) by building on the previously developed infrastructure and digital applications (including ensuring functionality of SENBOURSE which is meant to transparently track higher education scholarships); and (c) Provide support to the growing network of Open Digital Spaces that are being designed to deliver a set of teaching modules for distance learning and are meant to be collectively shared by universities.",
+      "practice": "Shared Open Digital Spaces delivering distance-learning modules across universities",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Tertiary Education",
+      "extractor_reason": "Digital core: shared Open Digital Spaces network | Not routine: inter-university shared e-learning | Adoption: 'provide support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: shared Open Digital Spaces | Innovative: inter-university shared e-learning | Category: shared delivery",
+      "keywords_hit": "information system",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: shared inter-university digital learning spaces - cue: 'collectively shared'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "f8cc61d9"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099060923150012750",
+      "doc_type": "PAD",
+      "position": 487,
+      "char_start": 75790,
+      "char_end": 75906,
+      "sentence": "The subcomponent will finance the establishment of an open competitive fund to source and fund high‐impact research.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Open competitive fund for high-impact research grants",
+      "reason": "reject: Competitive research grant fund; no digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: competitive grant window for research funding - cue: 'pilot'",
+      "innovation_cues": "innovation;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Competitive research grant fund; no digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1388
+        }
+      ]
+    },
+    {
+      "guid": "099060923150012750",
+      "doc_type": "PAD",
+      "position": 1111,
+      "char_start": 173296,
+      "char_end": 173616,
+      "sentence": "(b) Goods and Non‐consulting services: The procurement of goods under the project include, non‐ consulting services, ISEP equipment: Acquisition of equipment to support the development and strengthening of IT networks in addition it will improve Capacity for Utilization of Big Data and Development of Digital Libraries.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ISEP IT network equipment for big data and digital libraries",
+      "reason": "reject: Standard IT equipment procurement, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: digital libraries and big-data capacity in ISEPs - cue: 'Big Data'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard IT equipment procurement, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1739
+        }
+      ]
+    },
+    {
+      "guid": "099060923150012750",
+      "doc_type": "PAD",
+      "position": 928,
+      "char_start": 149745,
+      "char_end": 150147,
+      "sentence": "A functional integrated National Integrated information and management management system within Annual Cyber‐ Reports from the MESRI MESRI / PMU system for higher education in place the MESRI, capable of Infrastructur generating statistics, e for Higher Page 49 of 74 The World Bank SENEGAL HIGHER EDUCATION PROJECT - ESPOIR-JEUNES (P178750) indicators, and reliable data Education, for the sub‐sector.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Integrated national higher-education management information system",
+      "reason": "reject: final check round 1: common - Digital: national higher-education management information system is the core | Before 2019: education MIS/EMIS standard in WBG and UN operations for decades",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New system: integrated national HE data and statistics platform - cue: 'integrated'",
+      "innovation_cues": "innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: national HE MIS | Innovative: consolidates fragmented HE statistics | Category: digital MIS",
+          "reject_code": "",
+          "context_chars": 1304
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: national higher-education management information system is the core | Before 2019: education MIS/EMIS standard in WBG and UN operations for decades",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 6779,
+    "cached_tokens": 36094,
+    "cache_write_tokens": 0,
+    "output_tokens": 3132,
+    "seconds": 24.1,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.006
+  }
+}

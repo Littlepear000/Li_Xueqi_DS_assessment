@@ -1,0 +1,213 @@
+{
+  "reference": "DDAT approach to Plan solution mapping",
+  "version": "1.0",
+  "built_on": "2026-11-06",
+  "source": "Methodology Note 2: Category Definition and Mapping Rules",
+  "assign_when": {
+    "S1": "First-, middle- or last-mile networks and their enabling rules; data centres or cloud that support local hosting and connectivity markets",
+    "S2": "An equity fund, investment platform or blended-finance vehicle for connectivity assets",
+    "S3": "Device taxes and tariffs, device specifications, manufacturing",
+    "S4": "Device subsidies, vouchers, consumer financing, devices for low-income users or MSMEs",
+    "S5": "Refurbishing, trade in used devices, e-waste",
+    "S6": "Digital ID, data exchange, e-services and sector systems that deliver services to people, firms or government",
+    "S7": "ICT industry, tech parks, start-up and venture finance, government outsourcing to local firms, digital economy policy",
+    "S8": "Digital literacy, sector digital skills, specialised IT, data or AI training",
+    "S9": "AI applications in any sector, AI capacity of officials, AI policy and regulation",
+    "S10": "Compute, AI-ready data, data governance, public data collection, data-sharing platforms",
+    "TRUST": "Cybersecurity, data protection, online safety; reported beside the pillars"
+  },
+  "solution_to_pillar": {
+    "S1": "P1",
+    "S2": "P1",
+    "S3": "P2",
+    "S4": "P2",
+    "S5": "P2",
+    "S6": "P3",
+    "S7": "P3",
+    "S8": "P3",
+    "S9": "P4",
+    "S10": "P4",
+    "TRUST": null
+  },
+  "mapping": [
+    {
+      "approach_code": "250100",
+      "approach_name": "Broadband Connectivity",
+      "candidate_solutions": [
+        "S1",
+        "S2",
+        "S3",
+        "S4",
+        "S5"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "250200",
+      "approach_name": "Data Infrastructure",
+      "candidate_solutions": [
+        "S1",
+        "S10"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "250300",
+      "approach_name": "AI and Emerging Technologies",
+      "candidate_solutions": [
+        "S9",
+        "S10"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "250400",
+      "approach_name": "Cybersecurity",
+      "candidate_solutions": [
+        "TRUST"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "250500",
+      "approach_name": "Data Protection and Privacy",
+      "candidate_solutions": [
+        "TRUST"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "250600",
+      "approach_name": "Digital Public Infrastructure",
+      "candidate_solutions": [
+        "S6"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "250700",
+      "approach_name": "Digital Public Services (DPS)",
+      "candidate_solutions": [
+        "S6",
+        "S8"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "250800",
+      "approach_name": "Digital Economy",
+      "candidate_solutions": [
+        "S7"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "250900",
+      "approach_name": "Green Digital",
+      "candidate_solutions": [
+        "S5",
+        "S6"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "251000",
+      "approach_name": "Digital Inclusion",
+      "candidate_solutions": [
+        "S4",
+        "S6",
+        "S8"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "251100",
+      "approach_name": "Digital for Fragile and Conflict-Affected Situations",
+      "candidate_solutions": [
+        "S6"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "251200",
+      "approach_name": "Digital Skills and Jobs",
+      "candidate_solutions": [
+        "S8"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "251300",
+      "approach_name": "Digital Use Cases Across Sectors",
+      "candidate_solutions": [
+        "S6"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270100",
+      "approach_name": "Data Standards and Methods",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270200",
+      "approach_name": "Data Collection and Data Acquisition",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270300",
+      "approach_name": "Data Curation and Data Management",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270400",
+      "approach_name": "Data Dissemination, Accessibility, and Discoverability",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270500",
+      "approach_name": "Data Use",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270600",
+      "approach_name": "Data Policy, Law, Regulation, and Governance",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    },
+    {
+      "approach_code": "270700",
+      "approach_name": "Literacy and Capacity Building On Data",
+      "candidate_solutions": [
+        "S8",
+        "S10"
+      ],
+      "rule": "model_choice"
+    },
+    {
+      "approach_code": "270800",
+      "approach_name": "Geospatial Data",
+      "candidate_solutions": [
+        "S10"
+      ],
+      "rule": "direct"
+    }
+  ]
+}

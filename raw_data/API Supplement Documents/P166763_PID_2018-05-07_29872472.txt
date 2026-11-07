@@ -1,0 +1,1280 @@
+﻿         The World Bank
+         DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+
+                 Combined Project Information Documents /
+                 Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                  Appraisal Stage | Date Prepared/Updated: 04-May-2018 | Report No: PIDISDSA24181
+
+
+
+
+Mar 15, 2018                                                                                        Page 1 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                              Project ID                     Project Name                 Parent Project ID (if any)
+   Congo, Democratic Republic of        P166763                        DRC - Gender Based
+                                                                       Violence Prevention and
+                                                                       Response Project
+   Region                               Estimated Appraisal Date       Estimated Board Date         Practice Area (Lead)
+   AFRICA                               07-May-2018                    28-Jun-2018                  Social, Urban, Rural and
+                                                                                                    Resilience Global Practice
+   Financing Instrument                 Borrower(s)                    Implementing Agency
+   Investment Project Financing         Ministry of Finance            Fonds Social Democratic
+                                                                       Republic of Congo
+
+   Proposed Development Objective(s)
+
+   The objectives of the Project are to increase in targeted Health Zones: (i) the participation in Gender-Based Violence
+   (GBV) prevention programs; (ii) the utilization of multi-sectoral response services for survivors of GBV; and (iii) in the
+   event of an Eligible Crisis or Emergency, to provide immediate and effective response to said Eligible Crisis or
+   Emergency .
+
+   Components
+   Gender-Based Violence prevention and integrated support for survivors at community level
+   Gender-Based Violence Response
+   Support to Policy Development, Project Management and Monitoring and Evaluation
+   Contingency Emergency Response Component
+
+   OPS_TABLE_FCC
+   The processing of this project is applying the policy requirements exceptions for situations of urgent need of
+   assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.
+   Yes
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY     -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                   100.00
+   Total Financing                                                                                                     100.00
+              of which IBRD/IDA                                                                                        100.00
+   Financing Gap                                                                                                          0.00
+
+
+
+May 4, 2018                                                                                                           Page 2 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  DETAILS     -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                       100.00
+
+         IDA Grant                                                                                                      100.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   B. Introduction and Context
+
+   Country Context
+  1. Political instability, poor governance, and weak state institutions are the main factors that explain
+      persistent poverty in the Democratic Republic of Congo (DRC) . DRC is a post-conflict and fragile country
+      with a rapidly growing population. The turbulent history of the country, along with weak governance have
+      limited the ability of successive governments to establish stable institutions and to improve the living
+      standards of the population. Macroeconomic performance improved until mid-2015 and was marked by
+      strong economic growth, ranging from 5.6 to 6.2 percent between 2002 and 2008. However, growth failed
+      to translate into significant reduction in poverty and inequality. While the Gini coefficient improved slightly
+      from 38 in 2005 to 35 in 2012, large portions of the population remain trapped in extreme poverty. High
+      rates of youth unemployment and underemployment in the country are a key indicator that the growth of
+      recent years has not been inclusive. Poverty in the DRC remains pervasive, and above the Sub-Saharan Africa
+      (SSA) average. While the proportion of people living below the poverty line declined from 69.3 percent to
+      64 percent between 2005 and 2012, the absolute number of poor increased by 7 million during that same
+      period. Almost 14 per cent or one out of six people living in extreme poverty in SSA live in the DRC.1
+
+  2. DRC ranked 176th out of 188 countries 2 in the 2016 Gender Inequality Index. This index benchmarks
+     national gender gaps using economic, political, education, and health criteria. Important gains were made
+     in areas such as health and education, and in terms of legislation that addresses gender equality. However,
+     persistent socio-cultural disparities restrict women’s engagement in social and economic life as well as in
+     public decision-making. Women’s participation in politics is limited and they currently occupy about eight
+     percent of parliamentary seats in both the National Assembly and in the Senate (compared with an average
+     of 20.6 percent among low-income countries). The new Family Code (2016) removed several discriminatory
+     provisions in terms of access to land and resources for women and increased the minimum age of marriage
+     for girls from 15 to 18. However, much remains to be done to ensure such legislation is enforced. Women
+     continue to face unequal treatment with respect to labor force participation, land tenure and property
+
+          1
+              World Bank (2017), DRC Systematic Country Diagnosis
+          2
+              With a score of 0.663
+
+
+May 4, 2018                                                                                                        Page 3 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+       ownership. The percentage of female workers was reported at 19 percent in the 2013 World Bank Enterprise
+       Survey Results (notably lower than the average 34 percent in surveyed countries).3 While women make up
+       the majority of workers in the agricultural sector (53 percent)4 their access to land and credit remains
+       constrained limiting productivity.
+
+  3. Gender-Based Violence prevalence is widespread with significant regional variations. In 2014, rates of IPV
+     varied from 71 percent in Kasai Occidental to 34 percent in North Kivu. Women with large families are at
+     particular risk of violence5. The percentage of women (15-49) reporting having ever experienced physical
+     violence was 60.6 for those with five to six children compared to 37.5 for women with no children. Women
+     with no formal schooling and those who have not completed primary education are similarly at higher risk of
+     experiencing physical violence. Among women having completed secondary education the percentage
+     reporting having ever experienced physical violence was 38.1 compared to 51.5 for those with no formal
+     schooling and 57.3 percent for those who had not completed primary education.6
+
+  4. Younger women and adolescent girls constitute a particularly vulnerable group. Overall, younger women
+     are more likely to experience physical violence (See Figure 2 below) with the exception of those in the 15-
+     19 age group. The national teenage pregnancy rate was 27 percent7. Adolescent fertility is nearly three
+     times higher among young women living in the poorest households (42 percent) than among those living in
+     the wealthiest households (15 percent). Overall, 37 percent of women aged 20-24 were married before 18,
+     compared to 6 percent of men in the same age group. Early marriage constitutes an important risk factor for
+     violence with women married before the age of 15 being twice as likely to experience IPV than those married
+     after the age of 25.
+
+       Situations of Urgent Need of Assistance
+
+  5. The rationale for processing this operation using the flexibility provided under paragraph 12 of the
+     Investment Project Financing Policy is that the Democratic Republic of Congo is included in the Harmonized
+     List of Fragile Situations. As such, it is deemed by the Bank to experience capacity constraints because of
+     fragility. The proposed project is expected to contribute to the broader goal of reducing vulnerability of
+     women and girls to Gender Based Violence in DRC. Interventions will focus specifically in Provinces where
+     high rates of GBV and high levels of acceptability of GBV have been further exacerbated by ongoing insecurity
+     and violence.
+
+  6. The DRC is emerging from a long period of conflict which has had a devastating impact on institutions, the
+     economy, and the social fabric. The Congo Wars of 1996-2002 resulted in massive displacement and loss of
+     life8. The Sun City Agreement followed by the 2003 transitional government and two rounds of elections
+     placed the country on a path to recovery. However, real GDP per capita in 2016 was only 40 percent of the
+     1970 level. New elections were expected to take place in 2016. When that did not occur, an agreement was
+
+          3
+            World Bank website: https://data.worldbank.org/data-catalog/enterprise-surveys. World Bank Enterprise Survey Results collect and analyze
+                 firm level data from 139 countries.
+          4
+            1-2-3 Survey on Employment, the Informal Sector, and Household Living Conditions (2013-2014)
+          5
+            Overall fertility rates in DRC were 6.6 children per women in 2014 (DHS). Rates vary from from 5.4 in urban areas to 7.3 in rural areas and by
+          province (from 4.2 in Kinshasa to 8.2 in Kasaï Occidental).
+          6
+            Demographic and Health Survey (DHS), 2014.
+          7
+            For women aged 15 to 19
+          8
+            More than 3.5 million people have died since the war began in 1996 with nearly half being children under 5 years of age - World Bank (2017),
+          DRC Systematic Country Diagnosis
+
+
+May 4, 2018                                                                                                                                            Page 4 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+       reached to postpone elections. An interim government has been in place since December 2016. The
+       security situation has deteriorated due to the political instability generated by non-recognition of the
+       agreement by part of the opposition and lack of clarity about new elections. The conflict in the east and in
+       the Central Region of the country continues to generate high levels of displacement and humanitarian needs.
+       As of February 2018, the United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA)
+       estimates that there are more than 4.5 million displaced persons and refugees in the DRC. Over 13 million
+       people are estimated to be in need of humanitarian assistance in 2018. Provinces considered to be the most
+       affected by the humanitarian crisis are Kasaï, South Kivu, Maniema, Tanganyika, Haut-Katanga (Pweto
+       Territory) and Haut-Lomami Province (Malemba-Nkulu) territory. The humanitarian situation is also
+       considered of concern in North Kivu9. In October 2017, the Inter Agency Standing Committee (IASC)10
+       declared system wide Level 3 emergency response (L3) in the Kasai Region, Tanganyika and South Kivu
+       Provinces in DRC.11
+
+  7. Conflict-related sexual and gender based violence is a pronounced feature of ongoing violence in DRC. The
+     high prevalence rates of GBV in the DRC are linked to underlying social and cultural norms and values that
+     perpetuate power imbalances between men and women. These are often further exacerbated in the context
+     of conflict.12 This is especially true in the Eastern Provinces and more recently in Kasai and Tanganyika.
+     Beyond cases of sexual violence linked to conflict, increased food insecurity associated with the humanitarian
+     crisis is also likely to further exacerbate the risk of Sexual Exploitation and Abuse (SEA). 1314
+
+
+
+
+          9 UNOCHA Humanitarian Response Plan, December 2017
+          10 Inter Agency Standing Committee (IASC) is the primary mechanism for inter-agency coordination of humanitarian assistance, involving UN
+          and non-UN humanitarian partners.
+          11 The L3 activation is a tool triggered to ensure that the right capacities are in place to meet needs and save lives, and prompts improved
+
+          coordination and mobilization of additional funding.
+          12 World Bank (2017), Gender inputs to the Country Partnership Framework
+          13 In 2017, over 26 000 new cases of sexual violence were identified in areas of the country affected by the humanitarian crisis (31% of which in
+
+          Nord-Kivu). UNOCHA Humanitarian Response Plan, December 2017
+          14   DRC Sexual and Gender Based Violence Sub-Cluster, August 2017
+
+
+May 4, 2018                                                                                                                                              Page 5 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  Sectoral and Institutional Context
+
+  8. The Government of the DRC recognizes the burden that gender inequality, including GBV, places on social
+     and economic development. Its commitment to addressing gender inequality and GBV is reflected in the
+     recent progress made in strengthening the legal and policy framework to address GBV as follows:
+
+              a. A Comprehensive Strategy on Combating Sexual Violence in the Democratic Republic of Congo was
+                 developed by the Government of the DRC in coordination with the United Nations Organization
+                 Stabilization Mission in the DRC (MONUSCO) in April 2009.
+              b. A National Strategy on Combating Gender Based Violence (and related five-year National Action Plan)
+                 were subsequently put in place in November 2019 under the leadership of the Ministry of Gender,
+                 Family and Children (MGFC). Both the National Strategy and Action Plan are currently being updated
+                 with the final version of the approved documents expected to be available before the end of 2018.
+                 The National Strategy on Combating Gender Based Violence (NSCGBV) sets out a framework for the
+                 implementation of comprehensive GBV prevention measures and provision of multi-sectoral support
+                 services for survivors in the context of continued instability and conflict. It also outlines the role of
+                 various line agencies, civil society organizations and humanitarian actors at local and national levels.
+                 The NSCGBV lays out the following five areas of intervention: (i) protection from and prevention of
+                 GBV; (ii) ending impunity; (iii) security sector reform; (iv) assistance for victims of violence; and (v)
+                 data collection and mapping. The NSCGBV further highlights the challenges in implementing GBV
+                 prevention and response programs in a context of continued insecurity and instability and lays out
+                 key gaps in terms of service provision as well as challenges in coordinating the response to GBV.
+
+
+  9. The NSCGBV is complemented by a key set of legal instruments including the ratification of major
+     international and regional agreements15 to promote gender equality.          This includes the Constitution
+     (2006), The Law Against Sexual Violence (2006), and the Child Protection Act (2008). The new Family Code
+     (2016) removed a variety of discriminatory provisions and paved the way for improving gender equality. The
+     new Code allows married women independent access to finance, property rights, and entrepreneurship and
+     expands the working age and professional options among women. It removes earlier requirements that a
+     married woman seek the authorization of her husband to undertake certain business activities such as
+     registering a company, opening a bank account, and seeking a loan. It further increases the minimum age of
+     marriage for girls from 15 to 18.
+
+
+
+
+          15
+             DRC is party to: (i) The UN Convention on the Elimination of all Forms of Discrimination Against Women; (ii) The UN Convention of the Rights
+          of Child and African Charter on the Rights and Welfare of the Child; (iii) The Declaration on Elimination of Violence Against Women (1993); (iv)
+          UN Security Council Resolution 1325 on Women, Peace and Security (2000) and UN Security Council Resolution 1820 on sexual violence in
+          situations of armed conflict (2008), (v) the African Charter on Human and Peoples’ Rights and The Protocol to the African Charter on the Rights
+          of Women in Africa (Maputo Protocol) (2003); (vi) The Protocol on the Prevention and Suppression of Sexual Violence against Women and
+          Children of the International Conference on the Great Lakes Region (2006); (vii) the Goma Declaration on Eradicating Sexual violence & ending
+          impunity in the Great Lakes Region (2008); and (viii) the Kampala Declaration on ending impunity (2003).
+
+
+
+
+May 4, 2018                                                                                                                                            Page 6 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+                          Table 1 - Mandates of key Governmental institutions and other stakeholders in the
+                                                   implementation of the NSCGBV
+       Institution                   Mandate
+       Ministry of Gender,           Leads a coordinated prevention and response approach to GBV, establishes coordination
+       Family and Children           mechanisms and is responsible for improving data collection and management.
+       Ministry of Health            Provides appropriate medical services (including emergency services), builds capacity of health
+                                     sector staff and establishes forensic services.
+       Ministry of Justice           Establishes mechanisms for procuring justice for survivors of GBV with a focus on putting in place
+                                     fast-track procedures and is responsible for building capacity of judicial officers to handle GBV
+                                     cases. The NPAGBV highlights the development of appropriate criminal legislation as important
+                                     gap/area of focus.
+       Ministry of Interior and      Provides security, establishes mechanisms to ensure perpetrators are apprehended. Responsible
+       Ministry of Defense           for the exclusion of perpetrators from the army. Awareness raising among security forces on
+                                     GBV
+       Civil           Society       Play a key role in multi-sectoral service delivery (including in socio-economic reintegration) and
+       Organizations,                in emergency support on GBV
+       Development Partners
+       (including UN Agencies)
+
+
+  10. National coordination mechanisms with strong participation by development partners and humanitarian
+      actors have been in place to oversee the emergency interventions on GBV prevention and response. These
+      are acknowledged/reflected in the NSCGBV, namely the Inter-Ministerial Working Group on Sexual and
+      Gender Based Violence (SGBV), coordinated by the MGFC. The platform receives financial and technical
+      assistance through the UN Joint Program. Significant challenges in terms of MGFC’s capacity to effectively
+      coordinate GBV programming were identified during the preparation process.
+
+  11. Given the context of persistent instability, conflict and weak institutions there are significant gaps in the
+      implementation of legal and policy instruments described above. Access to prevention programs and basic
+      services for survivors remains extremely limited and dependent on external funding. Available service
+      provision is almost exclusively linked to the implementation of humanitarian programs. While additional
+      support has recently been channeled to the Kasai, GBV programing in Eastern DRC has been significantly
+      reduced over the last two years with limited interventions now ongoing in both North and South Kivu as
+      Development Partners (DP) focus shifts to other humanitarian situations.
+
+  12. Limited availability and reliability of services, coupled with significant social and cultural barriers to
+      reporting instances of GBV is reflected in service seeking behavior by survivors. Only approximately a third
+      of women who experienced physical or sexual violence seeks support. Women were less likely to seek help
+      if they experienced sexual violence only, with just over a quarter of survivors of sexual violence seeking help.
+      Most women who sought support looked to their own or their partners´ family, or a neighbor or friend for
+      assistance. Only a small percentage of women experiencing violence sought assistance from formal service
+      providers such as the police or medical professionals16
+
+
+
+
+          16
+               Help sought disaggregated by violence type and province is presented in the DRC DHS report table A-18.15
+
+May 4, 2018                                                                                                                      Page 7 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+
+  13. Gender-Based Violence prevention programs require a sustained investment over a long period of time to
+      achieve impacts in terms of reduction in the incidence of GBV. Social norms and values that may condone
+      GBV change slowly. The project will, therefore contribute to the longer-term goal of reducing GBV
+      prevalence focusing on the following set of intermediate level outcomes.
+
+  14. The objectives of the Project are to increase in Targeted Health Zones: (i) the participation in Gender-Based
+      Violence (“GBV�?) prevention programs; (ii) the utilization of multi-sectoral response services for survivors of
+      GBV; and (iii) in the event of an Eligible Crisis or Emergency, to provide immediate and effective response to
+      said Eligible Crisis or Emergency.
+
+   Key Results
+  15. Project beneficiaries will primarily include vulnerable women and girls at risk of GBV as well as survivors
+      of GBV. Men and boys in targeted health zones will also benefit from project activities as survivors of GBV,
+      as family members of survivors and as key opinion leaders and community members promoting behavior
+      change through GBV prevention programs.
+
+  16. The institutional strengthening elements of the program will be national in scope and will target key line
+      ministries and institutions: Fonds Social DRC, Ministry of Health staff, Ministry of Gender and the Office of
+      the Presidential Representative for Gender-Based Violence. These interventions will focus on the: (i) in
+      service training for front line staff in the health sector, (ii) capacity building in GBV data collection,
+      management and analysis; and (iii) the development of a basic package of community level prevention and
+      response services for GBV.
+
+  17. Project resources funding: (i) community level GBV prevention and integrated support for survivors as well
+      as; (ii) the strengthening of first response services will be concentrated in the health zones outlined in
+      Table 2 below with an overall population of 13.5 million people. Health Zones were selected in North and
+      South Kivu, Maniema and Tanganyika Provinces. The proposed project will focus its interventions on
+      Provinces where underlying high level of GBV and acceptability of GBV have been exacerbated by growing
+      insecurity17. The project will therefore focus initially on consolidating the gains made in North and South Kivu,
+      building on the lessons-learned under the Great Lakes Emergency Sexual and Gender Based Violence and
+      Women’s Health Project (P147489 – GL GBV). The project will subsequently expand activities (from Year 2 of
+      project implementation) to Tanganyika and Maniema. Given the rapidly changing security situation in
+      Tanganyika, the project will further validate the selection of Health Zones during Year 1 of project
+      implementation to confirm accessibility of the target areas.
+
+  18. The Kasai Famine Risk Reduction Project (P162517) currently under preparation will include targeted
+      interventions on GBV prevention and response. The current project will therefore not target the Kasai
+      Province but will include the development of a targeting and roll-strategy for GBV programming in the Kasai.
+                 Table 2: Target areas for community level prevention and response services
+
+
+          17
+               In line with the 2018 UNOCHA Humanitarian Situation Analysis
+
+
+May 4, 2018                                                                                                          Page 8 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+
+                                                                   Targeted Health Zones
+                               South Kivu                        North Kivu              Maniema                            Tanganyika
+                             1. Fizi                              1. Binza             1. Kasongo                            1. Kalemie
+                             2. Kaniola                           2. Kayna             2. Kibombo                            2. Niemba
+                             3. Kimbi/Lulenge                     3. Mabalako          3. Kabambare                          3. Nyunzu
+                             4. Shabunda                          4. Alimbongo         4. Kunda                              4. Manono
+                             5. Lulingu                           5. Lubero            5. Lusangi                            5. Moba
+                             6. Minova                            6. Kalunguta         6. Tunda
+                             7. Lemera                            7. Mutwanga          7. Samba
+                             8. Kalonge                           8. Nyirangongo       8. Saramabila
+                             9. Mulungu                           9. Rwanguba
+                             10. Kitutu                           10. Ruthchuru
+                             11. Kalole                           11. Kirotche
+                             12. Haut plateau                     12. Masisi
+                                                                  13. Mwesso
+
+  19. Intensive community level GBV prevention and community referral interventions will be undertaken in
+      selected Aires de Santé [catchment area for each health center with a population of between 5,000 and
+      7,000 people]. Based on average population estimates, awareness raising interventions at Health Zone
+      level are expected to reach at least 785,000 people (of which approximately 400,000 women). This will
+      include more intensive gender transformative training with community and opinions leaders as well as life-
+      skills and livelihood interventions targeting women and men. Criteria for selection of benefiting Aires de
+      Santé will be developed and included in the Project’s Operations Manual (POM). A rapid assessment of
+      targeted Health Zones will be undertaken and shall form the basis for selection of the Aires de Santé. The
+      final proposed list of Aires de Santé will be shared with the World Bank for approval within three months of
+      project effectiveness.
+
+  20. Key indicators to measure progress towards the PDO will be as follows:
+
+          •    Numbers of direct project beneficiaries (percentage of women);
+          •    Percentage reported decrease in accepting attitudes towards GBV in targeted Health Zones;
+          •    Percentage increase in reported cases who receive access to multidisciplinary services, defined as at
+               least two of the following: (medical, psychosocial, security, legal support and livelihoods support);
+          •    Percentage of eligible reported GBV18 cases who receive Post-Exposure Prophylaxis (PEP) Treatment
+               within 72 hours;
+          •    Percentage of implementing partners providing services to GBV survivors in line with defined quality
+               standards.
+
+
+
+
+          18
+            Eligible GBV cases for PEP (provision of antiretroviral medicine following potential exposure to HIV) are usually cases of rape that are
+          reported at a service provider within 72 hours of the incident.
+
+
+May 4, 2018                                                                                                                                            Page 9 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+
+   D. Project Description
+
+  21. In line with global best practices and based on the lessons-learned during the implementation of the GL
+      GBV, the project would focus on:
+
+
+         i.            Preventing GBV and improving the quality of multi-sectoral response services for survivors in
+                       targeted Provinces. Global evidence indicates that effective prevention programs encourage
+                       GBV survivors to come forward and seek services. It is therefore important that awareness raising
+                       and gender transformative training be accompanied by improvements in the availability and
+                       quality of response services.     The proposed project would build on the experience of
+                       implementing the GL GBV and increase the level of resources allocated to prevention activities as
+                       well as livelihood interventions;
+
+
+        ii.            Working primarily through partnerships with civil society organizations for service delivery
+                       while including an element of training and capacity building of the health sector for GBV
+                       response. This approach acknowledges the challenges of providing quality services at community
+                       level given capacity constraints and growing instability in some of the areas potentially targeted.
+                       Challenges include inadequate staffing levels at the level of health facilities, increased difficulties
+                       in accessing services giving the worsening security situation, significant case backlog and “systems
+                       failures�? in the criminal justice system and in terms of the services provided by security forces.
+
+  22. Gender-Based Violence prevention programs require a sustained investment over a long period of time to
+      achieve impacts in terms of reduction of GBV incidence. The social norms and values that may condone GBV
+      at community change slowly. By focusing on whole of community awareness raising approaches, gender-
+      transformative training and livelihood interventions aimed at households and individual and combining the
+      prevention approaches with a set of services for survivors who come forward, the project aims to have an
+      impact in terms of changes in attitudes towards GBV, greater decision-making power for women at
+      household level and higher rates of service seeking behavior by survivors of GBV.
+
+
+  Component 1 - Gender-Based Violence prevention and integrated support for survivors at community level
+  (US$53.8 million)
+
+  23. In order to address the underlying causes of GBV and to tackle the social norms and values that may
+      condone GBV, the project will invest significantly in awareness raising and behavior change
+      communication at individual, interpersonal and community level . 19The approach to prevention will be
+      based on rigorously evaluated models which have shown to be effective in the context of the DRC or in
+      comparable contexts. Particular attention will be paid to taking into account the context of insecurity and
+      instability under which the project will operate.
+
+  24. A detailed protocol for individual, interpersonal and community-based prevention and referral activities
+      will be developed by the Fonds Social DRC (FSDRC) by project effectiveness. The protocol will include the
+
+          19
+               Over 50% of project resources will support the implementation of prevention activities
+
+
+May 4, 2018                                                                                                                Page 10 of 26
+           The World Bank
+           DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+       selection of Aire de Santé to be targeted within the targeted Health Zones. The protocol will be used as the
+       basis for selecting Non-Governmental Organizations (NGOs) who will implement prevention activities as well
+       as community level response interventions and referral to more specialized services. In order to streamline
+       implementation arrangements one Umbrella NGO will be selected per Province for the implementation of
+       Component 1. The umbrella NGO will in turn establish partnerships and sub-contracting arrangements with
+       local NGOs and Community Based Organizations (CBOs) where relevant. The structured transfer of technical
+       expertise to CBOs is expected to contribute to the sustainability of the prevention and community referral
+       approach put in place.
+
+  25. The implementation of GBV prevention activities at community level will build on a critical mass of
+      qualified and reputable community activists including para-legals and para-social workers, teachers,
+      religious leaders, mobilizers, community health workers (relais communautaires) and members of
+      women’s community-based organizations. This pool of activists will receive training on community
+      awareness raising and behavior change interventions as well as on the referral of survivors. Additionally, to
+      ensure that activists will share a core set of knowledge, attitudes and beliefs that promote women’s equality,
+      they will undergo in-depth gender transformative training that will provide them with the tools to challenge
+      the social norms that condone violence against women and girls. This is expected to contribute to providing,
+      GBV survivors with a set of trusted individuals within the community to whom they can report violence and
+      through whom they can access services. This approach will aim to broaden the current set of community
+      mobilizers and focal points trained under the GL GBV project as first responders to the needs of survivors.
+
+      i.      Community mobilization and promotion of behavior change: Building on the training and mentoring of
+              the pool of community activists mentioned above, the project will implement a community mobilization
+              intervention targeting opinion leaders, community based organizations as well as older men and women
+              who play a key role in perpetuating accepting attitudes towards GBV. Male engagement in this process
+              will aim to communicate that violence is an issue that needs solving at the community level rather than
+              a private matter or a ‘women’s issue’.
+
+     ii.      Livelihood interventions: Building on the experience of the GL GBV Project, the project will support the
+              establishment of Village Savings and Loans Associations (VSLAs). The approach will focus initially on
+              supporting women to build savings. Dedicated technical support will be provided by the Umbrella NGO
+              to group formation. As VSLAs are consolidated, those that have the demonstrated capacity will be
+              further supported with business development skills. Community-based organizations will also be
+              supported to organize small-scale income-generating activities. These activities will be selected through
+              a market analysis of economically viable options in each Health Zone and will provide an opportunity for
+              referral of survivors.
+
+    iii.      Gender transformative training: Gender transformative training will be conducted to address gender
+              inequality at the household level. This will include a focus on communication and conflict management
+              skills. In addition, community facilitators will be selected among the pool of trained activists to
+              implement behavior change activities with men focusing on positive masculinities.
+
+  26. In addition, the project will support the establishment of safe spaces for women and girls at community
+      level: The GL GBV Project has supported a network of CBOs in North and South Kivu. These CBOs provide a
+      key point of entry for survivors of violence in terms of access to psycho-social support and referral to
+
+
+May 4, 2018                                                                                                         Page 11 of 26
+              The World Bank
+              DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+        additional services. The project will broaden the scope of activities by CBOs and focus on the establishment
+        of safe spaces at community level. These spaces will be used for awareness raising and information sessions
+        (including on the availability of services for survivors of GBV), life-skills activities but also informal gatherings
+        and implementation of livelihood activities. Activities implemented in the safe spaces will aim to create an
+        environment of trust around service delivery at community level and encourage service seeking. This will
+        be done by ensuring that services for survivors take place in a space that also offers other activities targeting
+        women and girls more broadly (so that accessing services is not stigmatizing for survivors).
+
+   27. Community safe spaces will establish a key link between prevention activities and community referrals
+       and access to services. In addition to the pool of activists highlighted above, focal points selected among
+       CBO members will receive more in-depth training on the provision of psychosocial support and referral to
+       additional services. The basic package of services and referrals provided at community level will be as
+       follows:
+
+        (i)        Provision of case management, psychosocial support and mental health care using the Narrative
+                   Exposure Therapy (NET) approach provided by trained Focal Points at CBO level;
+        (ii)       Referral to specialized health services;
+        (iii)      Provision of initial legal advice by paralegals trained at CBO level (with more complex cases referred
+                   to specialized staff at the level of Umbrella NGO);
+        (iv)       Referral to safety and security services; and
+        (v)        Referral to livelihood activities.
+
+
+28. This component will support the provision of mental health care to survivors of GBV through community-based
+    organizations. In coordination with the National Mental Health Program at Ministry of Health (MoH) level, the
+    project will invest in the implementation of a training module for the provision of mental health care at the
+    community level based on the approaches used in the GL GBV project. Training will be provided to selected NGO
+    / CBO staff on the use of NET piloted as part of the GL GBV project. The Fonds Social will contract VIVO
+    International for the provision of these specialized services.
+
+29. Finally, acknowledging the fact that project implementation will take place in a volatile security context,
+    component 1 will include resources to support the implementation of innovative prevention programs. This
+    will allow the project to be flexible and respond to the potential need to target specific groups through its
+    prevention component. This could include: (i) behavior change communication interventions with the armed
+    forces using methodologies tested in Eastern DRC; or (ii) targeted activities focusing on highly vulnerable
+    population groups such as internally displaced communities, or youth.
+
+
+   Component 2 – Response to Gender Based Violence (US$ 27.5 million)
+
+   30. Complementing GBV prevention activities and the immediate support for groups most at risk of GBV, put
+       in place at community level, the project will also strengthen front-line service provision for survivors with
+       a strong focus on improving: (i) multi-sectoral response for the most complex cases and; (ii) the quality of
+       medical services. Building on the experience of the GL GBV project and the challenges in operationalizing
+       activities with the health sector, the project will strengthen service provision through integrated Centers of
+       Excellence (CoE) with a focus on outreach activities and supporting de-centralized One Stop Centers at Health
+
+ May 4, 2018                                                                                                              Page 12 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+       Zone level. The project will also invest in targeted capacity building of the health sector to bring medical
+       services for survivors of GBV closer to communities.
+
+  31. Sub-Component 2A – Support for existing integrated Centers of Excellence: This sub-component will support
+      the specialized referral facilities: (i) Panzi Hospital and Foundation in South Kivu; and (ii) Heal Africa in North
+      Kivu. Services provided by these facilities will include: (a) medical care, including for the most complex cases;
+      (b) forensic evidence collection, analysis and training; (c) legal services; (d) facility based counseling; (e)
+      support services for survivors and their children rejected by families; (f) mobile clinics in remote areas to
+      reach the most vulnerable groups; (g) training and capacity building for health providers on performing
+      complex surgeries, compiling forensic evidence, and providing high quality medical and mental health
+      services; and (h) operational research on GBV (where relevant). Through the training provided by the CoEs
+      the project will also aim to strengthen forensic response capacity among Health Care Providers (HCP).
+      Forensic training will focus on HCP, police and the judiciary with a focus: (i) handling of forensic evidence, (ii)
+      preparing for hearings and; (iii) the filling of police and medico-legal forms.
+
+  32. In addition to the activities highlighted above, the project will support the provision of specialized services in
+      decentralized One Stop Centers currently managed by Panzi Foundation and Heal Africa as well as outreach
+      activities in hard to reach Health Zones targeted by the project. Mobile clinics and outreach services will
+      also be supported in Maniema (Heal Africa) and Tanganyika (Panzi Hospital and Foundation). A detailed FM
+      assessment of both centers was carried out during preparation and the summary of key findings is included
+      in Annex 2.
+
+  33. Sub-Component 2B – Strengthening the Health Sector Response to GBV. The main objective of this sub-
+      Component will be to strengthen the health sector responsiveness to GBV. Key activities under this sub-
+      component will be as follows:
+
+  34. Training of HCPs, including community health workers in targeted health areas, in response to GBV. Training
+      will include: (a) GBV case screening, medical case management, including the correct collection of forensic
+      evidence; (b) updating and disseminating management protocols and guidance notes for practitioners (job
+      aides) developed specifically for the health system; and (c) finally, this subcomponent will finance small
+      rehabilitations of health facilities (painting, small internal repairs and provision of screens or partitions as
+      well as secure cabinets) to create adequate conditions of consultation where they currently do not exist. In
+      this context, the project will finance internal repairs and rehabilitation of these facilities where relevant
+      without extending the footprint of existing hospitals or health centers.
+
+  35. Support for service provision at hospital and health center level. The project will build on the lessons-learned
+      during the implementation of the GL GBV project in terms of the coordination with the Performance Based
+      Financing (PBF) approach currently in place in North and South Kivu20. Considering the challenges observed
+      in the implementation of the GL GBV project in North and South Kivu and the adopt the following approach:
+
+
+                  i.   Lump sum payments to Health Structures and Provincial Directorates of Health (PDH) in North
+                       Kivu, South Kivu and Tanganyika for quality services provided to survivors of violence. Such
+                       payments will be made against an assessment of the quality of the services provided. Payment
+
+          20
+               with IDA financing through the Health Systems Strengthening Project (PDSS)
+
+
+May 4, 2018                                                                                                           Page 13 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+                   will be linked to quality and not the numbers of survivors assisted to avoid creating perverse
+                   incentives that may result in an over-reporting of cases;
+
+              j.   The assessments of the quality of the services provided by health centers will be carried out by
+                   the PDH and Health Zone Supervision teams using the evaluation quality grids put in place by the
+                   PBF;
+
+              k. Resources will be allocated to the PDH for the supervision and validation of the quality of the
+                 services.  This quality assessment will be done with relevant experts from the National
+                 Reproductive Health and National Mental Health Programs and in coordination with the Umbrella
+                 NGO responsible for the referral of cases (in order to ensure the triangulation of the information);
+
+              l. Resources will be managed directly by the FSDRC and funding allocated will be included in the
+                 “Single Contract�? currently in place in North and South Kivu to ensure that all amounts for
+                 supervision are captured at Provincial level and shared with partners providing funding to the
+                 PDH.
+  36. In Maniema, the current project will aim align itself with the PBF approach and focus on the same eight Health
+      Zones currently covered by the PDSS. The quality assessment tools for the PBF will be updated to take into
+      account the medical care of survivors. Certified evaluators among PDH Health Zone supervision teams will
+      be trained on the use of this updated quality assessment grid. Service providers will be oriented on the type
+      and standards of care required by survivors of GBV. An assessment of PBF readiness to include payment for
+      services provided to survivors of GBV will be undertaken during Year 1 of project implementation. Based on
+      the results of this assessment resources will either be programed through the PBF mechanism for service
+      provision or will be allocated following the mechanism also used in the remaining provinces and described
+      in paragraph 38 above.
+
+  37. Procurement of emergency medication for survivors of GBV will be done directly through UNFPA. This will
+      include Post Exposure Prophylaxis (PEP), emergency contraception and treatment for Sexually Transmitted
+      Diseases (STIs). Distribution will be carried out through the Regional Distribution Centers (CDRs) covering
+      the targeted Provinces where these are functional: Asrames (North Kivu), Cedmeta (Tanganika), Cemema
+      (Maniema), and DCMP / 8th CEPAC (South Kivu). An assessment of the functionality of the CDRs in Maniema
+      and Tanganyika will be carried out within six month of project effectiveness and alternative approaches to
+      distribution of these supplies developed where necessary. The FSRDC will sign contracts with these different
+      CDRs to cover the costs of stock management and drug distribution.
+
+  Component 3 – Support to Policy Development, Project Management and Monitoring and Evaluation
+  (US$18.7 million)
+
+          Sub-Component 3 A – Support to Policy Development and Capacity Building
+
+  38. The project will aim to strengthen coordination mechanisms for GBV programming. In addition to technical
+      coordination meetings chaired by FSRDC at National, Provincial and Health Zone level, the project will
+      participate regularly in the GBV Inter-Ministerial Coordination group. This will aim to ensure that project
+      activities are aligned with the efforts of other Development Partners and that information on project results
+      are reflected in the GBV national monitoring system managed by the Ministry of Gender, Family and Children.
+
+
+
+May 4, 2018                                                                                                       Page 14 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  39. The project will also support the efforts by the Ministry of Gender, Family and Children and the Office of the
+      Presidential Representative for GBV to safely and ethically map GBV programming interventions. In that
+      regard, the project will conduct an assessment of the design and implementation of the existing national
+      database of GBV incidents compared to global standards of good practice in GBV information management.
+      The results of this assessment will be shared with the development partners network, and will determine the
+      level of support that the project can provide for the national GBV database, with particular emphasis on
+      measures that will further align it with global best practices.
+
+  40. This sub-component will fund the dissemination of the 2016 Family Code and Law on Sexual Violence at
+      community level using the CBO and community activist platform put in place under Component 1. The
+      project will further support the dissemination of the Victim Compensation Act (once approved by
+      Parliament). In addition, the project will convene key actors engaged in the revision of National Medico-
+      Legal certificate for the finalization of the certificate and guidelines on its utilization (in coordination with the
+      Development Partners Group on GBV). The establishment of a simplified, user-friendly certificate will play
+      a key role in easing access to forensic services by survivors of GBV.
+
+  41. Finally, this sub-component will support the development of a targeting and roll-out strategy for GBV
+      programming for the Kasaï and Equateur Provinces. (Additional details are provided in Annex I).
+
+
+          Sub- Component 3 B – Project Management
+
+  42. This sub- component will cover overall project management costs to ensure efficient and effective
+      coordination, fiduciary management at national and local levels. This will be done through dedicated
+      support to the implementing agencies, institutional strengthening and purchase of critical equipment. This
+      component will include support for strengthening existing coordination structures, the sustainability of
+      project activities and the training of critical staff at national and sub-national levels.
+
+  43. Given the substantial fiduciary risk involved in project implementation, component 3 will cover the costs of
+      a third party Financial Management Agent (FMA). The ToRs for the FMA were completed during project
+      preparation and were considered acceptable to the WB. The bidding process is expected to start prior to
+      negotiations. The FMA will allow the project to closely monitor transactions related to Components 1 and
+      2.2 where fiduciary risk is considered high.
+
+      Sub-Component 3C – Monitoring and Evaluation
+  44. This sub-component will ensure effective data collection on the implementation of key project activities. The
+      project will fund the upgrading and roll-out of the Management Information System currently being used by
+      the GL GBV project21. In addition, the project will include a third-party process evaluation to provide feedback
+      on the quality of services rendered. The use of this methodology is expected to allow the FSDRC to make
+      periodic adjustments to implementation strategies and put in place corrective action as needed.
+
+  45. In addition, this sub-component will fund an impact evaluation of mental health activities. This will be in line
+      with NET impact assessment, initiated as part of the GL GBV project. This impact evaluation will be
+      conducted by researchers from the World Bank's Africa Gender Innovation Lab. The purpose of this study is
+
+          21
+               Based on the GBV Information Management System.
+
+
+May 4, 2018                                                                                                             Page 15 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+       to evaluate the impact of NET on the mental health, psychosocial well-being, and economic empowerment
+       of SGBV survivors with symptoms of PTSD. (Additional details are provided in Annex I).
+
+
+          Component 4: Contingency Emergency Response Component (CERC) (US$ 0 million)
+
+
+  46. This component will provide immediate response in the event of an eligible crisis or emergency. This
+      component is a “zero-dollar�? Contingency and Emergency Response Component. In the case of an adverse
+      event that causes a major disaster, the Government of DRC may request the Bank for the rapid reallocation
+      of grant proceeds from other components in order to provide preparedness and rapid response support to
+      disaster, emergency and/or catastrophic events, as needed. The funds flow and disbursement arrangements
+      will be determined at the time of activation of the contingency component and will require an amendment
+      to the Project´s Operations Manual (POM).
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+  47. The project will be implemented by the Fonds Social DRC (FSDRC) and in close technical partnership with
+      the Ministry of Health (MoH). The Fonds Social will be responsible for overall project management and
+      consolidation of Annual Work Programs and Budgets. A single Designated Account (DA) will be established
+      at the level of the FS with Provincial Sub-Accounts in place for all targeted Provinces. The FSDRC will procure
+      specialized service providers for the implementation of Component 1 and engage VIVO International for the
+      provision of mental health services using the NET approach. The FS will further sign contracts with the
+      Integrated Centers of Excellence (Panzi Foundation and Hospital and Heal Africa) for the implementation of
+      Component 2A.
+
+
+ 48.    To streamline implementation arrangements for Component 2B and building on the lessons-learned from
+        implementation in North and South Kivu, the FS DRC will establish Memoranda of Understanding with
+        Provincial Directorates (PDH) of Health. The Fonds Social will be responsible for payments made to Health
+        Facilities (Hospitals and Health Centers), PDH and Health Zones Supervision teams (HZS) in North Kivu, South
+        Kivu and Tanganyika. In Maniema the project will aim align with the PBF approach and target the same
+        eight HZ currently being supported by the Health Systems Strengthening Project (PDSS). Funds for the
+        provision of services and verification of quality of services may be channeled through the MoH. The FSDRC
+        team will conduct a review of the functionality of the PBF system in Maniema with MoH and agree on
+        whether to follow the approach outlined above for the remaining Provinces or to channel resources through
+        the PBF mechanism (Figures 1 and 2).
+
+
+ 49.    The FS will be responsible for the procurement of emergency supplies through UN Agencies and for
+        establishing contracts with Regional Medication Distribution Centers for the distribution of these supplies
+        in targeted provinces. The Ministry of Gender and Office of the Presidential Representative for GBV will
+        prepare annual activity plans for the implementation of activities under Component 3A. Payments for
+        supervision and activity costs will be made directly by the FSDRC in line with the agreed activity plans.
+
+
+May 4, 2018                                                                                                       Page 16 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+                 Figure 1: Implementation Arrangements (North and South Kivu and Tanganyika)
+
+
+
+
+                              Figure 2: Implementation Arrangements (Maniema)
+
+
+
+
+May 4, 2018                                                                                    Page 17 of 26
+             The World Bank
+             DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+
+      50. National and Provincial Coordination mechanisms: The project will ensure consistent participation in: (i) the
+          Inter-Ministerial Working Group on GBV chaired by the Ministry of Gender, Family and Children at national
+          level; and (ii) in the Provincial GBV Cluster Coordination meetings. In addition, monthly technical meetings
+          will be held at national and Provincial level with FSDRC, MoH, and specialized service providers. The technical
+          coordination meeting will review critical issues with project implementation and identify concerns/issues
+          with implementation that should be discussed and addressed through the Inter-Ministerial Working Group.
+          The POM will include the detailed description of the functions of participating institutions and local
+          governments.
+
+      51. Role of Umbrella NGOs and Integrated Centers of Excellence: The FSDRC shall procure Umbrella NGOs which
+          will be contracted to provide GBV prevention interventions at household and community levels in the areas
+          of: (i) community mobilization, (ii) livelihood support, (iii) establishment of safe spaces; (iv) community based
+          referral and integrated service provision using evidence based GBV prevention and response approaches.
+          VIVO International will be contracted to provide specialized mental health support using the NET approach.
+          The Integrated Centers of Excellence Panzi Foundation and Hospital and Heal Africa will be contracted to
+          provide: (i) medical care, (ii) forensic evidence collection, analysis and training; (iii) legal services; (iv) facility
+          based counseling; (v) support to survivors and their children rejected by families; (vi) mobile clinics; (vii)
+          training and capacity building for health providers; and (ix) conduct operational research on GBV where
+          relevant. Umbrella NGOs and Integrated Centers of Excellence shall submit quarterly progress activity
+          reports to the FSDRC Heads of Field Offices based on their respective work plans and budgets. Umbrella
+          NGOs and Integrated Centers of Excellence shall submit biannual project technical and financial reports to
+          the FSDRC.
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will be implemented in selected "Aires de Santé" to be identified within the following Health
+      Zones (HZ) of North and South Kivu, Maniema and Tanganyika Provinces. The proposed HZ coverage is as
+      follows: 1. North Kivu: Alimbongo, Binza, Kayna, Kirotshe, Mabalako, Nyirangongo, Rwanguba, Rutshuru,
+      Masisi, Lubero, Kalunguta, Mweso, Mutwanga. 2. South Kivu: Fizi, Kaniola, Kimbi Lulenge, Shabunda,
+      Lulingo, Minova, Lemera, Kalonge, Mulungo, Kitutu, Kalole and Haut Plateau. 3. Maniema: Kasongo,
+      Kibombo,Kabambare,Kunda,Lusangi, Tunda,Samba and Saramabila. 4. Tanganyika: Kalemie, Niemba,
+      Nyunzu, Manono and Moba (to be validated during Year 1 of project implementation). While the project has
+      identified target HZ, the "Aires de Santé" have yet to be identified. This will be conducted during the 1st
+      year of implementation. The preparation of the project´s IPP will completed once these "Aires de Santé"
+      have been selected.
+
+
+
+
+May 4, 2018                                                                                                                   Page 18 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+   G. Environmental and Social Safeguards Specialists on the Team
+
+   Lucienne M. M'Baipor, Social Safeguards Specialist
+   Grace Muhimpundu, Social Safeguards Specialist
+   Joelle Nkombela Mukungu, Environmental Safeguards Specialist
+
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+  Safeguard Policies                          Triggered?            Explanation (Optional)
+                                                                    The project aims to increase participation in Gender-
+                                                                    Based Violence (GBV) prevention programs, and
+                                                                    utilization of multi-sectoral response services for
+                                                                    survivors of GBV in targeted health zones. No major
+                                                                    or irreversible environmental or social impacts are
+                                                                    expected. The project is classified as a category B, as
+                                                                    some activities, mainly those related to livelihood
+                                                                    interventions and gender transformative training
+                                                                    under component 1, may have potential impacts on
+                                                                    the environment. As the exact location is not yet
+  Environmental Assessment OP/BP 4.01         Yes
+                                                                    known, a project Environmental and Social
+                                                                    Management Framework (ESMF) has been prepared.
+                                                                    The ESMF was finalized on April 20, 2018 and
+                                                                    cleared by the RSA on April 24, 2018. In country
+                                                                    disclose took place by May 3, 2018 and through the
+                                                                    World Bank's external website on May 4, 2018. The
+                                                                    ESMF includes a section on environmental due
+                                                                    diligence for pest management, considering national
+                                                                    regulation, as well as health and safety
+                                                                    requirements.
+  Performance Standards for Private Sector
+                                              No
+  Activities OP/BP 4.03
+  Natural Habitats OP/BP 4.04                 No                    No project activity will impact Natural Habitats
+  Forests OP/BP 4.36                          No                    No project activity will impact Forests
+                                                                    This policy is triggered as activities under component
+                                                                    1 related to the support for small scale livelihood
+                                                                    activities, may potentially also include agricultural
+  Pest Management OP 4.09                     Yes                   and small-scale husbandry. In this case, pesticides or
+                                                                    other chemical product may be used by the
+                                                                    beneficiary. Therefore, the ESMF includes a section
+                                                                    on environmental due diligence for pest
+
+
+Mar 15, 2018                                                                                                     Page 19 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+                                                                    management, considering national regulation, as
+                                                                    well as health and safety requirements.
+                                                                    No project activity will impact Physical Cultural
+  Physical Cultural Resources OP/BP 4.11        No
+                                                                    Resources
+                                                                    This policy is triggered as there is a presence of
+                                                                    Indigenous Peoples’ (IP) in the targeted Provinces:
+                                                                    Tanganyika, Maniema as well as North and South
+                                                                    Kivu. To ensure social inclusion of the various
+                                                                    communities of IPs living in the area, an Indigenous
+                                                                    People’s Planning Framework (IPPF). The IPPF was
+  Indigenous Peoples OP/BP 4.10                 Yes                 finalized on April 20th and cleared by the RSA on
+                                                                    April 27, 2018. The IPPF was disclosed in the country
+                                                                    (in the various provinces in form and local language
+                                                                    understadable by local IP communities) between
+                                                                    May 1 and 3rd, as well as through the FSDRC website
+                                                                    (May 3rd) and the World Bank's external website
+                                                                    (May 4th).
+                                                                    Activities under this project will not require
+  Involuntary Resettlement OP/BP 4.12           No
+                                                                    involuntary resettlement
+  Safety of Dams OP/BP 4.37                     No                  This project does not involve dams
+  Projects on International Waterways
+                                                No                  This project will not involve international waterways
+  OP/BP 7.50
+  Projects in Disputed Areas OP/BP 7.60         No                  This project will not involve disputed areas
+
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+  A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The Project’s geographical coverage includes Tanganyika, Maniema as well as North and South Kivu with presence of
+  the Twa Indigenous Peoples’ (IP). To ensure social inclusion of this IP group, the project has triggered safeguard policy
+  OP/BP 4.10. An Indigenous People’s Planning Framework (IPPF) was prepared by the borrower and cleared by the
+  Regional Safeguards Advisor on April 27, 2018. An Indigenous People’s Plan will subsequently be prepared once:(i)
+  targeted Aires de Santé have been defined for North and South Kivus as well as Maniema Province; and (ii) Health
+  Zone coverage has been validated for Tanganyika Province. Free, prior and informed consultations have been carried
+  out with Twa communities between April 7 and 10, 2018. Some of the identified potential positive effects of project
+  implementation on Indigenous Peoples include increased use of available health care services, delivery of culturally
+  appropriate GBV response services and improved access to health services through outreach activities. The project
+  will promote socio-cultural interaction, coordination and consultation with traditional leaders prior and during
+  implementation. For this, it is essential that civil society partners selected to implement Component 1 employ staff
+  who speak the local dialects and are compliant with local socio-cultural interaction norms and belief systems of IP
+  communities. Through the IPPF consultation process the project has identified potential NGOs and associations in the
+
+
+Mar 15, 2018                                                                                                       Page 20 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  four provinces who can act as partners for outreach to IP communities and support project implementation. Feedback
+  sessions with stakeholders on the cleared IPPF were held in North and South Kivu, Tanganyika and Maniema on May 1
+  to 3, 2018.
+
+  The interventions under the project involve improvement in the provision of health services, handling of medical
+  products as well as small scale rehabilitation of health facilities (limited to small internal repairs, painting, installation
+  of screen or partitions for further privacy). Project activities will contribute to improved health services. Given the
+  expected case load (an average of two GBV survivors, per health facility/month) the project is not expected to lead to
+  increased generation of medical waste at health facility level. Small scale rehabilitation works may pose minor health
+  and safety risks, while health care waste may pose health risks to the patients, attendants, health workers and the
+  public in the event of poor management practices. In addition, Component 1 will include support for small scale
+  livelihood activities (potentially also including agricultural and small-scale husbandry). Consequently, the Project
+  triggers the following Environmental Safeguards Policies: Environmental Assessment OP/BP 4.01 and Pest
+  Management OP/BP 4.09. The potential environmental impacts can be adequately managed by integrating
+  environmental due diligence into the Project cycle. Due to the overall limited likelihood of environmental and social
+  impacts, the Project is rated as Environmental Assessment Category B.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  There are no anticipated long term or irreversible impacts by the project.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  The project will use a combination of approaches to handle medical waste as per the guidelines issued by the Ministry
+  of Health
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  Environment - An Environmental Management Framework (EMF) was prepared to guide handling of project
+  environmental aspects during implementation and cleared by the Regional Safeguards Advisor on April 24, 2018. The
+  EMF includes the environmental management approaches to be used by the project and provides guidance on
+  measures to be implemented by the project to address potential negative environmental impacts. Environmental
+  compliance will be the responsibility of the Fonds Social of the DRC and the Ministry of Health (MoH). Relevant staff
+  shall undergo refresher training on implementation of Environmental Safeguard requirements for the project, having
+  already received training during the implementation of the GL GBV Project. An Environmental and Social Safeguards
+  Specialist will be hired as part of the Project Support Team (PST) at FSDRC level and will be responsible for overseeing
+  the preparation of the Environmental Management Plans (EMPs). The specialist will receive additional training from
+  the World Bank safeguards team.
+
+  Social - The borrower prepared an Indigenous Peoples Planning Framework (IPPF) to address the specific needs of the
+  Twa community in North and South Kivu as well as in Maniema and Tanganyika. For the preparation of the IPPF
+  consultations were held from April 5 to 11, 2018. The IPPF was cleared by the Regional Safeguards Advisor on April 27,
+  2018. The measures in the IPPF focus on: (i) ensuring that the additional barriers faced by the Twa in accessing
+  prevention and response services on Gender Based Violence (GBV) are effectively addressed; and (ii) putting in place
+  additional measures to mitigate the potential re-victimization of Twa survivors of GBV given the high levels of
+  stigmatization and cultural bias against the Twa on the part of other ethnic groups at health zone level. The IPF is
+  aligned with the existing project components. It includes additional activities to be carried out in terms of GBV
+  prevention by the civil society organizations to be contracted by Fonds Social DRC (FSDRC) to implementation
+
+Mar 15, 2018                                                                                                           Page 21 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  community-based GBV prevention activities in North and South Kivu as well as Tanganyika and Maniema. In addition
+  to benefits related to project activities, a number of additional needs were identified, these include: (i) improved
+  access to savings, (ii) additional training of IPs to support their participation in Income Generating Activities (IGA), (iii)
+  establishment of a crisis management committee in areas affected by conflict and; (iv) the sensitization of local
+  communities on the living conditions of IP groups and on expected project interventions that will target IP
+  communities. This last measure will be important to support conflict prevention between IP and non-IP groups. The
+  FSDRC will contract the services of specialized civil society organizations for this purpose. These civil society
+  organizations will be required to bring on board the necessary expertise in terms of community facilitators and
+  mobilizers with extensive expertise of working with IP communities.
+
+  The FSDRC will be responsible for the implementation of the development of the project's Indigenous People's Plan
+  (IPP) once Aires de Santé have been identified for project implementation. The GBV Specialist at PMU level will be
+  responsible for overall IPP implementation with the support for the Environmental and Social Safeguards Specialist
+  and will receive additional orientation/training. The FSRDC has experience of implementing social safeguards
+  measures on a number of Bank financed projects, including the Eastern Recovery Project and the Regional Great Lakes
+  Gender Based Violence project under implementation in Eastern DRC.
+
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  Consultations were held between April 5 and 11 2018 with: (i) local authorities, (ii) civil society organizations working
+  on Gender Based Violence programing and with IP groups; as well as (iii) IP communities across all targeted Provinces.
+  Consultations with Indigenous People were held in: (i) Kibumba, Mudja, Kasumba and Kingarame in North Kivu, (ii)
+  Bukavu with representatives of the IP communities in the Buzi, Nbinga-Nord, Ziralo in Kalehe; (iii) Kindu; and (iv)
+  Kalemie.
+
+  In addition, feedback sessions on the IPPF were organized with representatives of IP communities and NGOs in North
+  and South Kivu, Maniema and Tanganyika between May 1 and 3, 2018.
+
+
+  B. Disclosure Requirements
+
+   OPS_EA_DISCLOSURE_TABLE
+   Environmental Assessment/Audit/Management Plan/Other
+                                                                                       For category A projects, date of
+   Date of receipt by the Bank              Date of submission for disclosure          distributing the Executive Summary of
+                                                                                       the EA to the Executive Directors
+   03-May-2018                              04-May-2018
+
+   "In country" Disclosure
+     Congo, Democratic Republic of
+    03-May-2018
+    Comments
+    The cleared version of the document was disclosed on May 3, 2018 by the counterpart.
+
+
+
+Mar 15, 2018                                                                                                           Page 22 of 26
+                                        The World Bank
+                                        DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+           OPS_I P_DIS CLOSURE_TAB LE
+
+
+
+
+           Indigenous Peoples Development Plan/Framework
+            Date of receipt by the Bank       Date of submission for disclosure
+               03-May-2018                                            04-May-2018
+
+               "In country" Disclosure
+                       Congo, Democratic Republic of
+                       20-Apr-2018
+
+                  Comments
+                   The cleared version of the document was disclosed on May 3, 2018. This included feedback sessions with IP
+                   communities at Provincial level (North and South Kivu, Maniema and Tanganyika) held between May 1 and 3, 2018.
+           OPS_ PM_D ISCLOSURE_TAB LE
+
+
+
+
+           Pest Management Plan
+
+               Was the document disclosed prior to
+               appraisal?                                              Date of receipt by the Bank         Date of submission for disclosure
+               Yes                                                     03-May-2018                         04-May-2018
+
+               "In country" Disclosure
+                Congo, Democratic Republic of
+                20-Apr-2018
+                   Comments
+                   The cleared version of the document was disclosed on May 3, 2018 by the counterpart.
+               OPS_PM_ PCR_TABLE
+
+
+
+
+               If the project triggers the Pest Management and/or Physical Cultural Resources policies, the respective issues are to
+               be addressed and disclosed as part of the Environmental Assessment/Audit/or EMP.
+               If in-country disclosure of any of the above documents is not expected, please explain why:
+
+
+
+
+         C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+         decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          No
+ OPS_ PM_COM P_TABLE
+
+
+
+
+Mar 15, 2018                                                                                                                           Page 23 of 26
+                         The World Bank
+                         DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+          OP 4.09 - Pest Management
+
+          Does the EA adequately address the pest management issues?
+          Yes
+          Is a separate PMP required?
+          No
+          If yes, has the PMP been reviewed and approved by a safeguards specialist or PM? Are PMP requirements included in
+          project design? If yes, does the project team include a Pest Management Specialist?
+          Yes
+ OPS_I P_COM P_TABLE
+
+
+
+
+          OP/BP 4.10 - Indigenous Peoples
+
+          Has a separate Indigenous Peoples Plan/Planning Framework (as appropriate) been prepared in consultation with
+          affected Indigenous Peoples?
+          Yes
+          If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+          Yes
+          If the whole project is designed to benefit IP, has the design been reviewed and approved by the Regional Social
+          Development Unit or Practice Manager?
+          NA
+ OPS_ PDI_ COMP_TAB LE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+
+
+Mar 15, 2018                                                                                                         Page 24 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+  All Safeguard Policies
+
+
+  Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+  measures related to safeguard policies?
+  Yes
+  Have costs related to safeguard policy measures been included in the project cost?
+  Yes
+  Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+  related to safeguard policies?
+  Yes
+  Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+  reflected in the project legal documents?
+  Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Patricia Maria Fernandes
+   Senior Social Development Specialist
+
+   Borrower/Client/Recipient
+   Ministry of Finance
+
+
+
+
+   Implementing Agencies
+
+   Fonds Social Democratic Republic of Congo
+   Ruphin Bo-Elongo Kimuemue
+   General Coordinator
+   ruphinboel@fondsocial.cd
+
+
+
+
+Mar 15, 2018                                                                                                   Page 25 of 26
+          The World Bank
+          DRC - Gender Based Violence Prevention and Response Project (P166763)
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+   Task Team Leader(s):                 Patricia Maria Fernandes
+
+   Approved By
+
+   Safeguards Advisor:                  Maman-Sani Issa                       04-May-2018
+
+   Practice Manager/Manager:            Senait Nigiru Assefa                  04-May-2018
+
+   Country Director:                    Laurent Debroux                       07-May-2018
+
+
+
+
+Mar 15, 2018                                                                                Page 26 of 26
+

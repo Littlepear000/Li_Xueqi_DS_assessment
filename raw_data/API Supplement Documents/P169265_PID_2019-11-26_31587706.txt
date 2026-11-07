@@ -1,0 +1,627 @@
+﻿        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+
+
+                       Project Information Document/
+                 Integrated Safeguards Data Sheet (PID/ISDS)
+
+                       Concept Stage | Date Prepared/Updated: 11-Nov-2019 | Report No: PIDISDSC25841
+
+
+
+
+November 2019                                                                                          Page 1 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                           Project ID                     Parent Project ID (if any)        Project Name
+  Western Africa                    P169265                                                          Harmonizing and
+                                                                                                     Improving Statistics in
+                                                                                                     West Africa (P169265)
+  Region                            Estimated Appraisal Date       Estimated Board Date              Practice Area (Lead)
+  AFRICA                            Dec 16, 2019                   Mar 26, 2020                      Poverty and Equity
+
+  Financing Instrument              Borrower(s)                    Implementing Agency
+  Investment Project Financing      Ministry of Finance - Sierra   Ghana Statistical Service,
+                                    Leone,Ministry of Finance -    Liberia Institute of Statistics
+                                    Ghana,Ministry of Finance &    and Geo-Information
+                                    Development Planning -         Services (LISGIS), Statistics
+                                    Liberia,Ministry of Economy    Sierra Leone (Stats SL),
+                                    and Finance - Cote             Institut National de la
+                                    d'Ivoire,Ministry of Economy   Statistique et des Etudes
+                                    and Finance - Togo,Economic    Economiques et
+                                    Community of West African      Démographiques (INSEED),
+                                    States,Ministry of Economy     L'Institut national de la
+                                    and Finance - Burkina          statistique (INS), Institut
+                                    Faso,Ministry of Finance -     National de la Statistique et
+                                    Cabo Verde,African Union       de la Démographie (INSD),
+                                    Commission                     Instituto Nacional de
+                                                                   Estatistica (INE)
+
+   Proposed Development Objective(s)
+
+   Strengthen the statistical system of participating countries and regional bodies in Africa to produce, disseminate and
+   enhance the use of core economic and social statistics.
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                 326.05
+   Total Financing                                                                                                    326.05
+
+                of which IBRD/IDA                                                                                     323.00
+
+   Financing Gap                                                                                                         0.00
+
+
+
+November 2019                                                                                                       Page 2 of 13
+           The World Bank
+           Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+
+   DETAILS    -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                       323.00
+
+            IDA Credit                                                                                                  235.00
+            IDA Grant                                                                                                     88.00
+
+   Non-World Bank Group Financing
+      Trust Funds                                                                                                          3.05
+
+            Miscellaneous 1                                                                                                3.05
+
+
+
+
+  Environmental Assessment Category                                 Concept Review Decision
+  B - Partial Assessment                                            Track II-The review did authorize the preparation to
+                                                                    continue
+
+
+
+
+  Other Decision (as needed)
+
+
+
+  B. Introduction and Context
+
+      I.                    Regional and Country Context
+
+       1. Africa has made significant progress in the past decades, however, substantial challenges remain. The
+       poverty rate declined from 54 percent in 1990 to 41 percent in 2015, but due to rapid population growth,
+       the number of people living in poverty increased to 413 million in 2015 from 278 million in 1990 (World
+       Bank, 2019). The region has struggled to improve shared prosperity. Natural disasters, conflict and
+       displacement continue to ravage large fractions of the population. Good economic performances in many
+       African countries are still driven by high commodity prices of oil, mineral and agriculture. Economic
+       diversification remains a necessary condition for inclusive growth and poverty reduction, but the region
+       faces many challenges in diversifying their economies, including low levels to infrastructure, human
+       capital and governance. Access to energy is the lowest in the world.
+
+       2. These regional trends are also seen in the seven initial countries targeted by this project. All of these
+       countries have seen a significant decrease in poverty since 2000, but four of them have seen an increase
+       in the number of poor. In all of these countries, poverty rates are higher in rural areas, and agriculture
+       accounts for a significant share of GDP and a larger share of the labor force. Most of these countries rely
+
+November 2019                                                                                                         Page 3 of 13
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+       on a few key commodities for export earnings (cotton and gold in Burkina Faso, iron and rubber in Liberia,
+       cocoa in Cote d'Ivoire, oil, gold and cocoa Ghana, iron in Sierra Leone, and oil in Togo). Cabo Verde is
+       heavily dependent on tourism. Sierra Leone and Liberia were hard hit by the Ebola epidemic of
+       2014/2015. High inflation and low growth plague both Sierra Leone and Liberia. Burkina Faso faces a
+       challenging security situation with increasing terrorist attacks. Cote d'Ivoire is experiencing political
+       tensions ahead of planned elections in 2020.
+
+       3. Good data is essential to tackle the challenges facing the region in general, and the seven countries in
+       this project in particular. Good statistics can inform policy making and enable the efficient allocation of
+       scarce resources by governments facing numerous challenges, they are also necessary to track progress
+       and assess the impact of different policies. Good statistics improve the transparency and accountability
+       of policymaking, both of which are essential for good governance. Quality and harmonized statistics can
+       also support closer regional integration, such as the adoption of a single currency by the English-speaking
+       states of ECOWAS, as a means to tackle some of the challenges facing countries in the region. The
+       availability of more disaggregated data will also improve the understanding of the exclusion of specific
+       groups to support formulation of inclusive policies and development interventions.
+
+      II.       Sectoral and Institutional Context
+
+       4. There has been progress in the production of statistics during the last 20 years in Africa. From the early
+       2000s, strategic planning through National Strategies for the Development of Statistics (NSDS) has been
+       adopted, with most African countries implementing one or more by 2015. These have helped countries
+       improve their legal framework with new statistical laws and the status of their National Statistical Office
+       (NSO). Since 2015, the World Bank has committed to improving the statistical capacity of low-income
+       countries given the multiple challenges in terms of the statistics to monitor the twin goals. Initially, it
+       targeted household surveys: supporting low income countries to conduct at least one household survey
+       every 3-5 years. There has been significant improvement in the availability of household level data since
+       2015. Between 2016 and 2018, 44 countries in Sub-Saharan Africa have conducted a household survey.
+
+       5. The increase of the World Bank’s Statistical Capacity Indicator (SCI)1 confirms the overall progress in
+       statistical capacity building in Africa, but the continent is still lagging behind other regions. The Statistical
+       Capacity Indicator (SCI) grades all countries in the world on the quality, frequency and timeliness of core
+       economic and social statistics. The SCI for Africa increased from 55 in 2004 to 62.4 in 2018. There have
+       been improvements in all the three dimensions of the SCI: timeliness, public availability, and
+       methodology. Despite the progress registered, the SCI for Africa is still the lowest among developing
+       regions. Data deprivation, data quality, comparability over time and among countries, data accessibility
+       and the limited use of data to inform policy are among the weaknesses of statistical systems in Africa,
+       although there is considerable variation across countries within Africa.
+
+       6. Statistics in Africa suffers from Institutional weaknesses and inconsistency financing. The National
+       Statistical Offices (NSOs) do not always have the autonomy needed to recruit staff, or to design their
+
+ 1
+   The World Bank’s SCI is a composite score assessing a country’s statistical system based on a diagnostic framework
+ assessing the following areas: methodology; data sources; and periodicity and timeliness. Countries are scored on 25
+ criteria in these areas, using publicly available information and/or country input. The overall SCI score is calculated as the
+ average of all three areas scores on a scale of 0 to 100.
+
+
+November 2019                                                                                                                     Page 4 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+       incentives. The administrative and technical coordination of the NSOs might be inadequate or even
+       nonexistent. Financing mechanisms of NSOs are unreliable and inadequate in many African countries,
+       leading to infrequent data collection and inadequate human resources. As a consequence, there are still
+       important data gaps in many areas of statistics and data standards are outdated and access to data is
+       weak.
+
+       7. The continent has recently pushed effort to harmonize and benchmark country statistics through the
+       African Union’s Strategy for Harmonization of Statistics in Africa (SHaSA2) 2017-2026. This is a continent-
+       wide initiative, adopted by the African Heads of State, which aims to address the constraints facing the
+       African Statistical Systems identified above and promote the regional integration agenda. SHaSA2 is
+       anchored in four strategic themes: (1) production of better-quality statistics through harmonization of
+       statistical standards and methods (2) strengthening cooperation among institutions within the African
+       statistical system, establishing effective coordination mechanisms, and setting statistical priorities to
+       support the integration agenda (3) building sustainable institutional capacity through the reform of
+       national statistical systems and establishing an effective technological environment for dissemination and
+       use of data (4) promoting a culture of quality decision making.
+
+       8. The World Bank is promoting a core set of economic, social and administrative statistics (Data for Policy
+       Package – D4P) which meet international standards and are harmonized for all African countries. It aims
+       at improving five core statistical systems: (1) household-based surveys (and support to population
+       censuses), (2) firm-based surveys (and support to establishment censuses and a sufficiently complete and
+       maintained establishment register), (3) agricultural data, (4) price data, and (5) administrative data (with
+       a focus on health, education, and environmental sustainability). The D4P package will help countries
+       identify vulnerable groups and improve the availability of sex-disaggregated statistics towards more
+       targeted interventions.
+
+       9. The regional project will use a modular approach to introduce the D4P package; each country will
+       introduce statistical products according to its national priorities and capacity of absorption and the
+       interventions of other donors, avoiding overburdening low-capacity NSOs or overlapping efforts. The
+       project's timeline will consider sequencing needs and have a phased roll-out such that the workload on
+       institutions is distributed over time. A regional approach facilitates the introduction and scaling up of
+       innovations, peer-to-peer reviewing and learning. Implementation of the regional program will be co-led
+       by the project coordinating team at the AU Statistics Unit of the Commission for Economic Affairs at the
+       AU, and the regional coordinating unit (RCU) located within the statistics unit of the Directorate of
+       Macroeconomic Policy and Economic Research of ECOWAS. Under the continent wide and sub-regional
+       coordination levels, Governments of the seven participating countries will implement country-level tasks.
+
+      III.      Relationship to CPF
+
+       10. The regional approach of the project is aligned with the African Union’s Strategy for Harmonization
+       of Statistics in Africa (SHaSA2). SHaSA2 is one of the core commitments of the Heads of State for the
+       Minimum Integration Program. For that reason, all African regional organizations, regional integration
+       communities, as well as regional development organizations such UNECA and AfDB which support
+       statistical development in Africa are guided by its principles.
+
+       11. The project is also aligned with ECOWAS 2020 vision adopted in June 2007 and its upcoming regional
+
+
+November 2019                                                                                                         Page 5 of 13
+           The World Bank
+           Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+          strategy 2019-2023 which is also aligned with SHaSA2. This sub-regional organization also has the
+          harmonization of statistics as part its mandate and for this reason, can be used as a regional body for the
+          implementation of this project. By harmonizing economic statistics, filling the gap on important data and
+          producing harmonized Sustainable Development Goal (SDG) estimates, the project will be powerful mean
+          to monitor the ECOWAS 2020 vision. The vision aims to mobilize the regional resources to improve human
+          capital and create opportunities for a sustainable development, to promote peace and security and to
+          strengthen the institutions of democratic governance using appropriate international standards. The
+          overall goal is to raise the living standards of its member country populations. Timely and well-harmonized
+          statistics will be needed to gauge the achievements of this goal.
+
+          12. The project reflects priorities emphasized in Bank country strategies for the countries. Invariably all
+          Country Partnership Framework (CPF) and Systematic Country Diagnostic (SCD) identify weaknesses in
+          statistics as a problem for the effective monitoring of Strategies of Development and SDGs.
+
+          13. The project will also help implement the World Bank Regional Integration Assistance Strategy for Sub-
+          Saharan Africa (RIAS). The RIAS is organized around three main pillars: (a) regional infrastructure, (b)
+          institutional cooperation for economic integration, and (c) coordinated interventions to provide regional
+          public goods. This project contributes to attaining the second and third pillars by collecting data that help
+          seven of the ECOWAS members’ states in achieving its objective of strengthening regional economic
+          integration. By generating data critical to national and regional level planning and monitoring, the project
+          will also be instrumental to attain one of the additional objectives of the RIAS, namely, strengthening the
+          connection between regional policy commitments and national planning.
+
+ C. Proposed Development Objective(s)
+
+          14. Strengthen the statistical system of participating countries and regional bodies in Africa to produce,
+          disseminate and enhance the use of core economic and social statistics.
+
+     I.         Key Results
+
+          15. The project aims to achieve the following outcomes i) increased comparability of core statistics; ii)
+          improved availability of quality and up-to-date core social, economic and administrative statistics; iii)
+          Improved quality of CPI, national accounts; iv) Improved accessibility to statistics and data; and v)
+          improved institutional readiness and capacity for data production, dissemination, and usage.
+
+ D. Concept Description
+
+          16. The project has three components: (1) A regional component to produce harmonized tools, collect a
+          core set of social, economic and administrative statistics while improving their quality; disseminate and
+          facilitate use of data collected both nationally and regionally through a regional platform, (2) A country-
+          specific component to address shortcomings that are not necessarily common to all countries but that
+          will enable NSOs to leverage regional activities, for instance, through institutional building at management
+          level and improving human resource capacity, infrastructure and software needs, and (3) A project
+          management component to oversee and supervise activities 1-2. The World Bank’s support is planned for
+          five years (2020–2024).
+
+
+
+November 2019                                                                                                             Page 6 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+       17. The resources from the regional IDA window will support most of the activities covered in the regional
+       component (component 1). The national IDA allocations will finance some of the activities of the regional
+       component and the country-specific component (component 2), mainly infrastructure and country-
+       specific capacity building needs.
+
+       Component 1: Harmonization, Data Collection, Quality Improvement, Dissemination and Use of Core
+       Social and Economic Statistics
+
+       18. This component will finance or provide most of the funds required for the implementation of a
+       program of activities designed to support; (a) the production of harmonized methodologies; (b) the
+       production of key economic and social statistics, including national accounts and price statistics; (c)
+       training on methodological improvements and supplementary data collection to improve the quality and
+       timeliness of core statistics produced by NSOs; and (d) data dissemination.
+
+       Component 2: Country-Specific Component
+
+       19. This component identifies activities that are specific to the seven participating countries. The activities
+       in this component have been designed looking at the constraints and needs facing each participating
+       country NSO, and what interventions – in physical, technological and statistical infrastructure, in human
+       capacity, or in the legal or regulatory frameworks – will be necessary for the NSO to successfully undertake
+       the program of activities outlined in component 1. This component has following sub-components:
+           • 2.1. Burkina Faso: Accompany institutional reforms, modernize technological and statistical
+                infrastructure, and strengthen capacity. This sub-component will support: (i) the
+                implementation of the revised legal framework of statistical activities and the preparation of a
+                new organizational chart for INSD; (ii) the modernization of technological and statistical
+                infrastructure in INSD at the headquarter and its decentralized directorates as well as the
+                directions of statistics (DGESS) of two line ministries; (iii) the introduction of a Bachelor Degree
+                program in statistics.
+           • 2.2. Cabo Verde: Improving Institutional Capacity, ICT Infrastructure and analytical
+                capabilities. This subcomponent aims to: (i) develop quality standards for administrative data,
+                (ii) upgrade ICT infrastructure for data exchange platforms and data access, and (iii) promote
+                better skills for data analysis.
+           • 2.3. Cote d’Ivoire: Support institutional reforms, modernize technological infrastructures, and
+                improve in key statistics on specific issues. This subcomponent aims to support institutional
+                reforms and key statistics on specific issues through: (i) human resource reforms and
+                management framework; (ii) physical infrastructure and equipment; and (iii) key statistics on
+                migration.
+           • 2.4. Ghana: Modernize physical and statistical infrastructure; and enhance human capital.
+                Under this sub-component the project seeks to; i) modernize physical infrastructure and statistical
+                infrastructure; ii) enhance human resource capacity by providing capacity-building trainings; and
+                iii) strengthen statistical coordination and quality assurance.
+           • 2.5: Liberia: Improving Human Resource and Institutional Capacity. This subcomponent aims to
+                improve: (i) physical and statistical infrastructure within LISGIS; (ii) human resource capacity; and
+                (iii) establish statistics degree program at the University of Liberia.
+           • 2.6: Sierra Leone: Rehabilitation of Stats SL’s Physical Infrastructure. This activity triggers the
+                Environmental Assessment OP/BP 4.01 and Physical Cultural Resources OP/BP 4.11. The
+
+November 2019                                                                                                            Page 7 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+                Statistics Sierra Leone office was damaged during the war and never fully repaired; additional
+                damage to the facility was sustained from flooding in August 2017. The new administration has
+                addressed some of the most pressing infrastructure needs, but decades of insufficient
+                maintenance due to funding constraints mean that the building is in need of a comprehensive
+                rehabilitation. The project will support comprehensive renovation of the facilities, including
+                replacing all the electrical wiring and providing systems for a smooth transition from mains
+                power supply to back up generators, and installing a modern LAN. Combined with improved
+                internet connectivity, this will support more efficient management of data internally and
+                improved public dissemination of data. Essential repairs to the roof and windows will also be
+                undertaken to provide a comfortable work environment and ensure the safe storage of IT
+                equipment and statistical records. The project will also support the expansion of the facilities,
+                on the existing footprint, in particular to provide space for planned internal and regional
+                trainings and workshops. A dedicated classroom space will be constructed and equipped for
+                ongoing trainings. The project will also provide well-equipped conference facilities to host
+                international training workshops and conferences especially for NSOs in the Mano River Union
+                (MRU) states of West Africa for which Stats SL will coordinate capacity building/strengthening
+                activities. All physical works will incorporate disability designs and accessible features.
+           •    2.7. Togo: Support institutional and managerial reforms, building capacities and modernizing
+                technological, statistical and physical infrastructures. This subcomponent aims to boost the
+                performances of the NSS through: (i) institutional reforms; (ii) capacity building; and (iii) physical
+                infrastructure and equipment.
+
+
+       Component 3: Project Management and Monitoring and Evaluation (M&E)
+
+       20. This component seeks to strengthen and develop the NSOs institutional capacity in project
+       management, coordination, monitoring and evaluation (M&E), including preparation of all project
+       documentation. NSOs will be the main implementing agencies (IA) of the project in each country and will
+       be responsible for its technical management and coordination. The project management team (PMT) in
+       each country will coordinate project activities; manage reporting and auditing activities; and ensure
+       compliance with fiduciary policies and procedures. This component would cover costs staff related to the
+       project and the costs related to project coordination (steering committee), operating costs and other
+       mandatory expenses to make the project successful.
+
+
+
+
+  SAFEGUARDS
+
+  A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+November 2019                                                                                                            Page 8 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+
+  Only one part of the Sierra Leone country-specific component (building repairs and renovations of the Stats SL office in
+ Freetown) triggers safeguard policies. The other components of the project relate to data collection, training and
+ harmonization of methodologies and do not trigger any safeguards policies. The environmental impacts are limited in
+ scope and can be managed through the implementation of environmental management plans. Potential impacts
+ associated with demolitions, construction, resource utilization, health and safety of workers and community are
+ envisaged to be temporary and limited only to the area of influence.
+
+  B. Borrower’s Institutional Capacity for Safeguard Policies
+
+  Sierra Leone has no safeguards capacity, but has appointed a focal person to oversee the preparation of the
+ environmental assessment of the project.
+
+  C. Environmental and Social Safeguards Specialists on the Team
+
+  Fisseha Tessema Abissa, Environmental Specialist
+  Gloria Malia Mahama, Social Specialist
+
+  D. Policies that might apply
+
+  Safeguard Policies                           Triggered?           Explanation (Optional)
+                                                                    The policy is triggered because the project activities
+                                                                    will involve civil works for the rehabilitation and
+                                                                    expansion of the Sierra Leone Statistics office complex.
+                                                                    The rehabilitation of the building will include replacing
+                                                                    the windows and doors, improving internal supply of
+                                                                    water and electricity, replacing old electricity and
+                                                                    electronic cables, plumbing etc., while the expansion
+                                                                    work includes the construction of three additional
+                                                                    floors on top of the existing structure, adding
+                                                                    reinforced concrete columns and/or installing
+                                                                    adjustable steel columns, fixing of doors and windows,
+                                                                    painting and tiling of the floor as well as fixing of air
+  Environmental Assessment OP/BP 4.01          Yes                  conditioners. The main negative impacts include the
+                                                                    following: a) dumping of construction material
+                                                                    including asbestos and spillage of machine oil,
+                                                                    lubricants, etc. b) creation of nuisance in the form of
+                                                                    dust and noise due to the construction activities; c)
+                                                                    final disposal of excess material. The Project has been
+                                                                    assigned the Environmental Category B - Partial
+                                                                    Assessment, since it encompasses the construction of
+                                                                    additional floors and rehabilitation of the Statistics
+                                                                    Sierra Leone office building. All interventions are
+                                                                    within the footprint of the current facility. The
+                                                                    prevention and mitigation measures are known and
+                                                                    easily implementable. An Environmental and Social
+
+November 2019                                                                                                     Page 9 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+                                                                    Management Plan (ESMP) was developed by the
+                                                                    Statistics Sierra Leone in order to ensure the
+                                                                    compliance with the Bank’s environmental assessment
+                                                                    policy (OP/BP 4.01). The ESMP specifies mitigation
+                                                                    measures for various potential adverse impacts in the
+                                                                    pre-construction, construction and operation phases
+                                                                    of the project.
+  Performance Standards for Private Sector                          There is no private sector funding involved in the
+                                               No
+  Activities OP/BP 4.03                                             project financing .
+                                                                    The location of the project interventions is not
+  Natural Habitats OP/BP 4.04                  No                   expected to have any negative impacts on natural
+                                                                    habitats, including critical or sensitive areas.
+  Forests OP/BP 4.36                           No                   Project activities do not involve forests
+  Pest Management OP 4.09                      No                   The project activities do not involve pest management
+                                                                    The Physical and Cultural Resources Policy (OP/BP
+                                                                    4.11) is triggered given Sierra Leon’s rich
+                                                                    archaeological and cultural resources and the
+                                                                    likelihood of the Project to support works requiring
+                                                                    excavations especially the addition of reinforced
+  Physical Cultural Resources OP/BP 4.11       Yes
+                                                                    columns. The ESMP includes Chance Find Procedures
+                                                                    (CFP) as well as measures to screen for and manage
+                                                                    potential impacts on cultural heritage or property that
+                                                                    could be affected by neighborhood development
+                                                                    plans.
+                                                                    The project activities do not involve indigenous
+  Indigenous Peoples OP/BP 4.10                No
+                                                                    people
+  Involuntary Resettlement OP/BP 4.12          No                   The project activities do not involve resettlement.
+  Safety of Dams OP/BP 4.37                    No                   The project activities do not involve Dams
+  Projects on International Waterways                               The project activities will not take place international
+                                               No
+  OP/BP 7.50                                                        water ways.
+  Projects in Disputed Areas OP/BP 7.60        No                   The project activities will not occur in disputed areas.
+
+ E. Safeguard Preparation Plan
+
+ Tentative target date for preparing the Appraisal Stage PID/ISDS
+
+  Feb 04, 2019
+
+  Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and
+  their timing should be specified in the Appraisal Stage PID/ISDS
+
+  The ESHIA is currently being undertaken as part of project preparations and will identify the risks and propose mitigation
+ measures to be implemented during project implementation. The report will be consulted upon and disclosed prior to
+ project appraisal and before the decision meeting.
+
+
+November 2019                                                                                                    Page 10 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+
+
+  CONTACT POINT
+
+
+  World Bank
+  Prospere R. Backiny-Yetna, Alejandro De la Fuente, Ayago Esmubancha Wambile, Franck M. Adoho
+  Senior Economist/Statistician
+
+
+  Borrower/Client/Recipient
+  Ministry of Finance - Sierra Leone
+
+
+
+
+  Ministry of Finance - Ghana
+
+
+
+
+  Ministry of Finance & Development Planning - Liberia
+
+
+
+
+  Ministry of Economy and Finance - Cote d'Ivoire
+
+
+
+
+  Ministry of Economy and Finance - Togo
+
+
+
+
+  Economic Community of West African States
+
+
+
+
+  Ministry of Economy and Finance - Burkina Faso
+
+
+
+
+November 2019                                                                                    Page 11 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+
+
+  Ministry of Finance - Cabo Verde
+
+
+
+
+  African Union Commission
+
+
+
+
+  Implementing Agencies
+  Ghana Statistical Service
+  Prof. Samuel Kobina Annim
+  Government Statistician
+  samuel.annim@statsghana.gov.gh
+
+  Liberia Institute of Statistics and Geo-Information Services (LISGIS)
+  Prof. Francis Wreh
+  Director General
+  ffwreh25@gmail.com
+
+  Statistics Sierra Leone (Stats SL)
+  Prof. Osman Sankoh
+  Director General
+  osman.sankoh@statistics.sl
+
+  Institut National de la Statistique et des Etudes Economiques et Démographiques (INSEED)
+  Mr. Koame Kouassi
+  Director General
+  kokoame@yahoo.fr
+
+  L'Institut national de la statistique (INS)
+  Gabriel Doffou Nguessan
+  Director General
+  nguessangabriel@gmail.com
+
+  Institut National de la Statistique et de la Démographie (INSD)
+  Boureima Ouedraogo
+  Director General
+  boureimaoued@gmail.com
+
+  Instituto Nacional de Estatistica (INE)
+
+November 2019                                                                                Page 12 of 13
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa Project (P169265)
+
+
+  Osvaldo Borges
+  Presidente
+  borges.osvaldo@ine.gov.cv
+
+
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+                                           Prospere R. Backiny-Yetna, Alejandro De la Fuente, Ayago Esmubancha
+  Task Team Leader(s):
+                                           Wambile, Franck M. Adoho
+  Approved By
+  APPROVALTBL
+  Safeguards Advisor:                      Hanneke Van Tilburg                  12-Nov-2019
+
+  Practice Manager/Manager:                Andrew L. Dabalen                    12-Nov-2019
+
+  Country Director:                        Deborah L. Wetzel                    26-Nov-2019
+
+
+
+
+November 2019                                                                                             Page 13 of 13
+

@@ -1,0 +1,558 @@
+﻿        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+
+
+                         Project Information Document (PID)
+
+                         Concept Stage | Date Prepared/Updated: 03-Jun-2019 | Report No: PIDC27162
+
+
+
+
+May 22, 2019                                                                                         Page 1 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Somalia                                        P171160                                                 Somali Integrated
+                                                                                                         Statistics and Economic
+                                                                                                         Planning Capacity
+                                                                                                         Building (P171160)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  AFRICA                                         Sep 09, 2019               Dec 18, 2019                 Poverty and Equity
+
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Somalia                    Ministry of Planning,
+                                                                            Investment & Economic
+                                                                            Development
+
+   Proposed Development Objective(s)
+
+    To strengthen the governance and capacity of the National Planning, Statistical and M&E Systems to fill statistical data
+    gaps; design and implement the NDP/IPRSP; and regularly assess, analyze and improve their public policies
+    performance and results.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                      25.00
+   Total Financing                                                                                                        25.00
+
+                             of which IBRD/IDA                                                                            25.00
+
+   Financing Gap                                                                                                            0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          25.00
+          IDA Grant                                                                                                        25.00
+
+
+
+
+May 22, 2019                                                                                                           Page 2 of 12
+          The World Bank
+          Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+
+     Environmental and Social Risk Classification                    Concept Review Decision
+     Moderate                                                        Track II-The review did authorize the preparation to
+                                                                     continue
+
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+
+       1. While progress has been made in rebuilding Somalia after decades of conflict, Somalia remains one of the
+          poorest countries in the world. Sixty-nine percent of the population lives on less than US$1.90 per day per
+          capita, in 2011 purchasing power parity. Poverty is even more prevalent and deeper among hard to reach
+          populations such as rural residents and nomads. Given their remoteness and mobility, their poverty is also
+          multidimensional due to lower access to basic services such as education and improved water and sanitation.
+          The levels of achievement in the country remain low in many domains. For instance, only one third of primary
+          school-aged children are enrolled, half of the population is literate, and women have less educational
+          attainment than men across virtually all age-groups. Natural disasters, conflict and displacement continue to
+          affect large fractions of the population, leaving internally displaced persons to face unique challenges beyond
+          poverty including tenure insecurity and dislocation from social networks and former livelihoods. With most
+          Somalis vulnerable to many forms of shocks, especially those related to climate change, building resilience is
+          essential.
+
+       2. Due to high and unsustainable debt, enormous challenges lie ahead for poverty reduction and shared prosperity
+          in Somalia. Somalia is heavily indebted with US$4.6 billion of external debt.1 Debt restricts Somalia from
+          borrowing from International Financial Institutions for projects that can produce lasting positive development
+          change. The Federal Government of Somalia (FGS) is currently preparing the new Development Plan (NDP) 2020-
+          2025, which will serve as an Interim Poverty Reduction Strategy Paper (I-PRSP) and is an important step for debt
+          relief under a World Bank and IMF initiative known as Heavily Indebted Poor Countries (HIPC).
+
+       3. The preparation of a full Poverty Reduction Strategy Paper (PRSP), which is necessary to obtain full debt relief,
+          requires a sustainable and reliable statistical system to track the poverty reduction strategy, macroeconomic
+          and structural reform programs. However, the existing statistical system is weak, eroded by years of conflict,
+          fragmented and lacking coordination while the statistical infrastructure is missing thus jeopardizing Somalia’s
+          aspiration for full debt relief if not addressed. It is therefore urgent for Somalia to invest in rebuilding the
+          national statistical system (NSS). A strong and well-coordinated statistical system will be better placed to
+          generate needed basic statistics necessary for policy-making that will support conditions for inclusive growth
+          and poverty reduction.
+
+
+ 1
+  IMF, 2018. Second and Final Review Under the Staff Monitored Program and Request for a New Staff Monitored Program —Press
+ Release and Staff Report. IMF Country Report No. 18/212.
+
+May 22, 2019                                                                                                        Page 3 of 12
+          The World Bank
+          Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+
+     Sectoral and Institutional Context
+
+       4. However, the National Statistical System is weak—eroded by years of conflict—fragmented and lacks
+          coordination institutionally and technically creating a difficult context to produce statistics thus jeopardizing
+          Somalia’s aspiration for full debt relief if not addressed. The institutions currently responsible for the production
+          of official statistics are young, fragile and under-resourced. There is limited capacity and resources to coordinate
+          the NSS and provide technical support to statistics units in the line ministries, departments and public agencies
+          (MDAs) in the Federal Member States (FMSs). Some FMSs do not have well-established statistical units to
+          contribute to the wider statistical system. Coordination structures and tools are limited or non-existent.
+
+       5. Statistical capacity remains weak as reflected in the Statistical Capacity Indicator (SCI).2 According to the World
+          Bank’s 2017 Country Statistical Information Database, Somalia has an overall score of 23, which is far below the
+          Sub-Saharan Africa (SSA) average of 61. Somalia ranks the lowest among all countries in SSA due to limited data
+          availability, quality and periodicity. The low statistical capacity is specifically reflected in source data and
+          methodology where it scores 10 out of 100 points for both categories, below the 56 and 44-point average for
+          SSA respectively. The weakness of the source data is, among others, due to outdated agricultural and population
+          censuses and limited data from administrative systems. The weakness of methodology is due to the limited
+          adherence to internationally recommended standards and methods. Deprivation in data coverage, quality, and
+          accessibility to inform policy are also among the weaknesses of the statistical system.
+
+       6. Somalia has significant data gaps and lacks adequate and reliable statistical information—especially in economic
+          statistics—to inform policies and programs aimed at fostering economic growth and reducing poverty. Basic
+          macroeconomic and development indicators are either not available, are dated, or exclude large parts of the
+          population such as nomads.
+
+       7. First, national accounts are limited due to data source and human resources limitations. The staff constraint,
+          coupled with data sources, has made the compilation of national accounts statistics very difficult. These
+          shortfalls provide an incomplete and unreliable picture of the economy. Somalia has no production-based
+          estimates of GDP given the absence of economic censuses and surveys as well as a comprehensive set of
+          administrative data in terms of geographic coverage and coverage of indicators. For instance, there is currently
+          no structured compilation of agricultural administrative records and existing records are limited in scope,
+          coverage and quality. Records from the Revenue Authority are either incomplete or missing (excise duty and
+          VAT). Information from Central Bank, Ministry of Finance and umbrella bodies are not systematically feeding
+          into the statistical system. In addition, MDAs generally do not apply international standards and methodology
+          (classification) for the collection and compilation of data. Therefore, the available data is inconsistent and
+          unreliable. The lack of economic surveys and administrative data must be addressed to improve national
+          accounts.
+
+       8. Second, Somalia has no nationally-representative consumer price index (CPI). This impedes the ability of
+          decision-makers to track inflation, which is a key economic variable. Without the accuracy of statistics that
+          incorporate price statistics, macroeconomic statistics (such as real GDP) and poverty statistics are undermined.
+          The current challenges to producing a CPI for Somalia include incomplete geographical coverage of price data
+
+ 2
+   SCI is a composite score assessing the capacity of a country’s statistical system. It is an average score based on three cate gories
+ (methodology, source data, and periodicity) on a scale of 0 to 100. Information on the 25 indicators covering these areas are derived
+ either from publicly available information and/or country input.
+
+May 22, 2019                                                                                                                Page 4 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+          collection, lags between collection, processing and dissemination, limited know-how of price data compilation,
+          especially among statistical departments in some of the FMSs.
+
+     9. Third, Somalia has no system to support the government to respond quickly to new and more immediate data
+        needs for policy. Although an essential output of the statistical system, traditional surveys require significant
+        amounts of time for preparation and are less agile to quickly respond to new data needs. The 2017-18 drought
+        highlighted the need to able to respond quickly to shocks and disasters. Insecurity in part of the country also
+        continue to hinder data collection requiring less conspicuous methods of data collection. Somali policy makers
+        are operating in a volatile context with very limited data, thus a system that can rapidly provide information to
+        support timely policy responses is important. The lack of timely and reliable data impedes an effective allocation
+        of resources at federal state and local levels, and a proper designing, implementing, and evaluation of public
+        programs.
+
+     10. Forth, there is a low capacity in the planning system and a weak link with statistical system to effectively support
+         policy formulation at the highest levels in government. The recently formed Economic Policy Analysis Unit
+         (EPAU) lacks the capacity to conduct social, economic and financial analyses necessary for policy formulation. As
+         a newly formed unit, the EPAU has yet to fully establish its capacity to successfully conduct objective and sound
+         analysis to inform policies. The EPAU is tasked with supporting the President and the Government on the
+         formulation and execution of sound economic and financial policies and reforms. This requires the EPAU to
+         deliver sound analysis and policy alternatives to be debated in the newly formed National Economic Council
+         (NEC) which is tasked with advising the government on economic and financial policies. The statistical system
+         must closely be linked to this analytical unit to provide the needed inputs for analysis.
+
+     11. The national Monitoring and Evaluation (M&E) system has weaknesses and challenges that impedes it from
+         fulfilling its role of assessing progress in achieving expected results, spotting bottlenecks in implementation, and
+         highlighting any unintended effects from the implementation of FGS’s public policies. From the monitoring
+         perspective, better indicators and targets at the program level are needed, as well as improvements in the
+         quality of administrative data from line ministries that feed into those indicators. From the evaluation
+         perspective, beyond the yearly report prepared by the President’s office, regular national and/or sectoral
+         evaluation reports of main public interventions are needed. Additionally, there is not an evaluation agenda for
+         coordinating and funding the evaluation of public programs. The national planning and M&E systems of public
+         policies and programs should be improved simultaneously. Nonetheless, Somalia has a national M&E policy, and
+         a specialized unit aimed to coordinate the national M&E system, the M&E Directorate at MOPIED.
+
+     12. Despite these challenges, there have been steps to improve the statistical system in the last five years and
+         growing awareness of the importance of quality statistical data for policymaking and monitoring progress. The
+         period 2014-2016 was marked by reforms to the legislative and regulatory framework of statistical activities to
+         improve the organizational structure and operation of the system as well as steps to improve the human and
+         logistical capacities. The Department of Statistics was upgraded into a Directorate of National Statistics (DNS) in
+         2014 and the Statistical Act was reviewed in 2015. In 2018, the National Strategy for the Development of
+         Statistics was designed, providing a strategic vision for statistical development for Somalia. Furthermore,
+         statistical infrastructure and policies for dissemination have been developed. New household survey data has
+         been produced–providing updated poverty and socioeconomic statistics—and a health survey is currently being
+         implemented. Recently, the FGS is establishing units to support planning and policymaking.
+
+
+
+
+May 22, 2019                                                                                                        Page 5 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+  Relationship to CPF
+
+     13. The project is closely aligned with the objectives of the recent Country Partnership Framework (CPF) for Somalia
+         for the period FY19-FY22. CPF Focus Area 1, which aims at strengthening institutions to deliver services, identifies
+         Statistics and Economic Planning as a proposed operation. This recognized the paucity of quantitative data upon
+         which to monitor poverty, socioeconomic indicators, and evaluate macroeconomic development identified in the
+         Somalia Systematic Country Diagnostic 2018.
+
+     14. Access to quality data and statistics is essential for the design, management and monitoring of effective
+         development strategies, policies and programs. The FGS needs statistics to prepare the IPRSP—which is being
+         developed in the context of the NDP 2020-25—and the full PRSP for debt relief under the HIPC initiative. Statistics
+         and a capacitated M&E department are also critical for the government to track the NDP. Statistics are needed to
+         inform analysis emanating from the EPAU.
+
+     15. This project will support the World Bank Group’s commitment to fill the data gaps that are key to monitoring
+         progress on Poverty and Shared Prosperity and the SDGs.
+
+
+
+  C. Proposed Development Objective(s)
+
+  To strengthen the governance and capacity of the National Planning, Statistical and M&E Systems to fill statistical data
+  gaps; design and implement the NDP/IPRSP; and regularly assess, analyze and improve their public policies
+  performance and results.
+
+  Key Results (From PCN)
+
+     16. Key results are to:
+             a. Enhance public confidence in socio-economic official statistics
+             b. Fill main statistical data gaps identified
+             c. Improve Somalia Economic Policy Analysis and Planning, promoting new and redesigned public policies
+                 and evaluation
+             d. Increase accessibility of socio-economic official statistics
+             e. Increase timeliness of relevant socio-economic official statistics
+
+
+  D. Concept Description
+
+     17. The project has four components: (1) A policy analysis and planning component, (2) A statistical system
+         component, (3) A monitoring and evaluation component, and (4) A project management component to
+         oversee and supervise the activities covered in the component 1-3. The World Bank’s support is planned for five
+         years (2019-2023).
+
+     18. Integrated approach: Given the capacity constraints faced by FGS and MOPIED, an integrated approach that
+         combines capacity building of both statistics and economic policy analysis and planning is important to reduce
+         transaction costs and, at the same time, to maximize synergy between the two areas—in terms of enhancing
+
+
+May 22, 2019                                                                                                       Page 6 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+          evidence-based policymaking and planning (from statistics to economic policy analysis and planning) and
+          developing areas for improvements in the national statistical system in formulating economic policies (from
+          economic policy analysis and planning to statistics).
+
+     19. Project focus: This project will support: (i) key time-sensitive activities of FGS to fill critical gaps in statistics and
+         economic policy analysis/planning relating to the HIPC process; and (ii) activities to initiate longer-term (phased)
+         capacity building programs.
+
+     20. Complementarity and coordination: The proposed project complements ongoing TA provided by other
+         development partners including Statistics Sweden.
+
+
+ Component 1 Building Economic Policy Planning, Analysis Capacity (US$5.0 million)
+
+     21. This component seeks to support the Somali authorities in developing economic policies, rebuilding institutions
+         of economic management, and enhancing institutional capacity necessary for policy formulation and
+         implementation. The component aims to promote evidence-based planning and strengthen core government
+         institutions and functions for enhanced service delivery, economic growth, and poverty reduction. The
+         Component activities will constitute: (i) Supporting NEC and Economic Policy Analysis Unit (EPAU) operations; (ii)
+         supporting the preparation of Medium-term National Development Plan 2020-24 (NDP9) and Long-term Vision
+         2040; (iii) TA on macroeconomic-fiscal analysis, forecasting & reporting particularly in the macroeconomics and
+         revenue departments of the MoF and MOPIED.
+
+ Sub-component 1.1        Supporting the operations of NEC and Economic Policy Analysis Unit (EPAU)
+
+     22. The FGS has requested donor support for NEC to execute its mandate and responsibilities. Therefore, this project
+         sub-component seeks to support the Council to deliver on their mandate in key selected areas of focus particularly
+         in areas where the World Bank has a comparative advantage. The sub-component targets the following result
+         areas:
+         a. Core Staffing – NEA and EPAU
+         b. Policy Research and Studies
+         c. Policy Forums
+         d. Publications, Dissemination & Networking
+         e. Office Operating Cost
+
+     23. This result area seeks to cater for the operational costs for the Council’s office particularly office supplies and
+         equipment (including computers, printers, utilities, internet & other communication costs, and related
+         equipment).
+
+ Sub-component 1.2        Supporting the preparation of national planning documents
+
+     24. This sub-component aims to provide support the FGS in the preparation of the NDP9 and the long-term vision
+         2040. The areas of support in the preparation and implementation process of the NDP9 have been identified and
+         selected in line with government’s request as well as World Bank’s comparative advantage – accelerating poverty
+         reduction and promoting shared prosperity especially among the Somali poor groups. These will include technical
+
+
+May 22, 2019                                                                                                             Page 7 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+          assistance to (i) ensure the NDP9 is well linked to policy, planning, and financing; (ii) identify priority pillars under
+          NDP9; (iii) develop sound macroeconomic and fiscal framework with output targets towards accelerate economic
+          growth and transformation; (iv) prepare a well costed pillars priorities’ matrix with output targets and outcomes
+          indicators; (v) prepare implementation framework with clear Monitoring and Evaluation (M&E) strategy and
+          systems, and; (vi) with other stakeholders, ensure NDP9 preparation and implementation is undertaken through
+          a consultative process at internal and external levels.
+
+ Sub-component 1.3         Supporting macroeconomic and fiscal programming
+
+     25. This sub-component seeks to promote evidence-based policy planning and implementation. The sub-component
+         aims to strengthen macro-fiscal analysis, monitoring and forecasting within the Economic and Planning Units of
+         the MoF and MOPIED in the FGS and the FMS. This will be through providing the staff in these Units with the
+         necessary skills-set to formulate, implement and monitor macroeconomic, fiscal and financial policies; to analyze,
+         monitor and evaluate bilateral and multilateral economic and financial relations; and promote transparency and
+         accountability on the use of public resources. This is a data-driven sub-component and will focus on developing
+         the local capacity in the following key areas: (i) overall Somalia economy components and outlook (GDP,
+         inflation/CPI, monetary and fiscal policies, external account, and debt); (ii) revenue reporting and forecasting, and
+         (iii) development of private sector (private investment, business climate, and infrastructure development).
+
+
+ Component 2 Strengthening the National Statistical System (US$15 million)
+
+
+     26. This component provides TA to DNS as well as relevant offices in FMS in strengthening the National Statistical
+         System (NSS) to collect data for poverty and macroeconomic monitoring (national accounts/GDP/sector growth,
+         inflation, poverty, employment, etc.). This component provides statistical capacity building to the DNS through
+         specific trainings, learning by doing processes, as well as a rapid assessment of the DNS’ organizational and
+         managerial model to produce and disseminate statistics, providing practical recommendation for the
+         improvement of its performance.
+
+
+ Sub-component 2.1         Somali Integrated Household Budget Survey
+
+     27. The proposed activity will design and implement the Somali Integrated Household Budget Survey (SIHBS) for
+         monitoring welfare, providing macroeconomic baselines and establishing a baseline survey for a rapid data
+         collection system. SIHBS will serve multiple objectives. The primary objective of SIHBS is to collect detailed
+         information on household expenditures and consumption incurred on goods and services to monitor household
+         welfare. In addition to welfare data, SIHBS will collect other socio-economic information relevant for monitoring
+         the living conditions of private Somali households such access to basic assets, facilities and services. SIHBS also
+         will collect data to improve Gross Domestic Products (GDPs) and the Consumer Price Index (CPI) while it will serve
+         as baseline for a rapid monitoring system.
+
+ Sub-component 2.2         National Consumer Price Index
+
+     28. This activity will strengthen the coordination of price data collection and strengthen the skills of the statistical
+
+
+May 22, 2019                                                                                                             Page 8 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+          authorities. Staff skills and expertise will be expanded through training and development on price collection and
+          CPI. This activity will support the hiring of a price data collection coordinator. This activity will also provide support
+          to the NSO for collecting price data via CAPI installed in tablets connected to servers. Like SIHBS, the use of CAPI
+          will improve monitoring of the data collection process, resulting in high quality price data. Tablets and servers that
+          will be procured for SIHBS will be used for this activity.
+
+
+ Sub-component 2.3         National Accounts
+
+     29. This sub-component aims to improve the quality of national accounts statistics that meet the System of National
+         Accounts 2008 (SNA2008) and other international statistical standards. A high and immediate priority is
+         constructing production/supply-side national accounts (i.e., value-added by industry). GDP is currently estimated
+         using expenditure/demand-side statistics alone which also needs to be improved. Having both supply and demand
+         sides will enable improved estimation of GDP. Production statistics are also essential for the analysis of sources of
+         economic growth that informs NDP9 and other national planning documents. This subcomponent will improve
+         the quality of national accounts by supporting the mainstreaming of economic statistics in relevant government
+         bodies, addressing key data gaps needed to produce production-based GDP estimates, strengthening human and
+         physical capital.
+
+ Component 3       Strengthening Monitoring and Evaluation Capacity (US$2.5 million)
+
+
+     30. This activity aims to strengthen the National Monitoring & Evaluation Department at MOPIED. Although there is
+         a national M&E policy, and a specialized unit aimed to coordinate the national M&E system (M&E Directorate at
+         MOPIED), the national M&E system has weaknesses and challenges that impedes the system complies its role on
+         learning on assessing if progress is made in achieving expected results, to spot bottlenecks in implementation,
+         and to highlight whether there are any unintended effects (positive or negative) from the implementation of FGS’s
+         public policies. From the monitoring perspective better indicators and targets at programs level should be
+         improved, as well as an improvement of the quality of administrative data from line ministries that fed those
+         indicators. Related to the evaluation side, beyond the yearly report for the president’s office, there are not regular
+         national and/or sectoral evaluation reports of main public interventions. Additionally, there is not an evaluation
+         agenda to coordinate and fund the evaluation activities for public programs. A better coordination for the M&E
+         policy implementation at federal state level should be developed.
+
+     31. The activity will support the hiring of specialized staff to support the National M&E Department. This Department
+         is in charge for the overall monitoring, review and evaluation of national plans, programs and projects to
+         determine if they are achieving their intended objectives. It tracks the progress prior to the implementation of
+         national plans, programs and projects through systematic monitoring, reviews, assessments and evaluations. To
+         identify the specialized staff and TA required by this Department, a rapid assessment of its institutional capacity
+         is being doing. This activity will strengthen coordination for M&E among government agencies and donors. This
+         project will improve the M&E framework and evaluation agenda to coordinate disperse existing M&E initiatives
+         and funds.
+
+
+
+
+May 22, 2019                                                                                                              Page 9 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+ Sub-component 3.1       Improving performance monitoring of main public programs
+
+     32. This activity aims to improve performance monitoring of public programs. It is required to monitor regularly the
+         progress of public programs and policies (efficacy, efficiency and quality), through a standardized way to define
+         indicators and targets, and having timely and reliable data (mainly administrative records) from the line ministries.
+         This monitoring process will be closely linked with information of the budgetary process. A revision of the
+         budgetary process structure will be done to align the budget allocation with the specific indicators and targets at
+         policies and programs level. Producing regular performance reports, including clear recommendations and follow
+         up mechanisms is needed. Specialized training will be developed for the M&E Directorate and Planning General
+         Direction at MOPIED, and MoF, to lead the development process of M&E reports. A basic dashboard to compare
+         efficacy, efficiency and quality of public programs and policies by pillars and sectors under the new NDP will be
+         developed under this TA. Monitoring tools related to budgetary data could be also promoted, such as WB Boost.
+         Different options to assess regularly the quality of public services will be explore, such as quarterly surveys,
+         compliance with standards, etc.
+
+
+ Sub-component 3.2       Improving evaluation of public programs
+
+     33. The activity aims to improve the M&E reports development process, through a better coordination and integration
+         of planning, programing, budgetary, and performing information at programs and pillars levels. This activity aims
+         to improve the quarterly M&E reports of public programs. Current quarterly M&E reports are more focused on
+         public finances and budget information, and less in performing indicators and results in terms of the situation of
+         specific welfare conditions such as education, health, nutrition, etc. The development of key indicators and targets
+         by pillars, will lay the foundation for M&E reports. Evaluating annually the progress of on the SDGs indicators and
+         targets will be done as result of the M&E activities. Different evaluation methodologies to assess the performance
+         and results attained of prioritized public programs will be developed. A pilot of few methodologies in some public
+         agencies will be done during the first two years of this project. This activity considers the updating process of the
+         national monitoring and evaluation policy, including the establishment of a national evaluation agenda, involving
+         other stakeholders such as NEC; EPAU, General Audit. Donors, NGOs, and other lines ministries, as well as the
+         inclusion of new M&E tools developed, and roles defined for M&E stakeholders.
+
+ Component 4 Project Management (US$2.5 million)
+
+
+     34. Successful implementation of the project requires a dedicated Project Implementation Unit (PIU) within MOPIED
+         to manage the financial resources. The PIU will be staffed with a project coordinator as well as specialists in
+         financial management (FM), procurement, information and communication technology (ICT), human resources
+         (HR), and monitoring and evaluation (M&E). This project component will provide funding for those functions and
+         their implementation. The unit could be supported by international consultants, if needed, with a focus on building
+         the capacity of the unit over the initial phase of the project.
+
+
+
+
+May 22, 2019                                                                                                       Page 10 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+  Legal Operational Policies                                                             Triggered?
+  Projects on International Waterways OP 7.50                                            No
+  Projects in Disputed Areas OP 7.60                                                     No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+
+  There are no anticipated negative environmental risks or impacts. There are moderate social risks associated with
+  ensuring that there is social inclusion of disadvantaged and vulnerable groups, including those in difficult-to-access areas
+  as well as IDPs.
+
+ Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document.
+
+
+
+  CONTACT POINT
+
+
+  World Bank
+  R. Wendy Karamba, John Randa
+  Economist
+
+
+  Borrower/Client/Recipient
+  Somalia
+
+
+
+
+  Implementing Agencies
+
+  Ministry of Planning, Investment & Economic Development
+  Abdirahman Omar Dahir
+  Director General - Directorate of National Statistics
+  abdirahmanod@gmail.com
+
+
+
+
+May 22, 2019                                                                                                      Page 11 of 12
+        The World Bank
+        Somali Integrated Statistics and Economic Planning Capacity Building (P171160)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                     R. Wendy Karamba, John Randa
+
+ Approved By
+ APPROVALTBL
+ Environmental and Social Standards
+ Advisor:
+  Practice Manager/Manager:
+
+  Country Director:
+
+
+
+
+May 22, 2019                                                                             Page 12 of 12
+

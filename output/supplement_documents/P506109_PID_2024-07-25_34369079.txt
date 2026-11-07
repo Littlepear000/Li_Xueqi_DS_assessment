@@ -1,0 +1,402 @@
+﻿    The World Bank
+    Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                 Project Information Document (PID)
+
+                 Concept Stage | Date Prepared/Updated: 24-Jul-2024 | Report No: PIDDC00870
+     The World Bank
+     Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                 Operation Name
+El Salvador                    P506109                      El Salvador Geothermal Energy for Sustainable and
+                                                            Inclusive Development
+Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+LATIN AMERICA AND              04-Nov-2024                  28-Feb-2025                   Energy & Extractives
+CARIBBEAN
+Financing Instrument           Borrower(s)                  Implementing Agency
+Investment Project             Comisión Ejecutiva           LaGeo
+Financing (IPF)                Hidroeléctrica del Río
+                               Lempa (CEL)
+
+Proposed Development Objective(s)
+The Project Development Objective is to inform the Government of El Salvador on the potential availability of
+geothermal resources for power generation and promote the direct use of geothermal energy in El Salvador.
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                          107.25
+
+  Total Financing                                                                                               107.25
+              of which IBRD/IDA                                                                                 100.00
+  Financing Gap                                                                                                   0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                 100.00
+  Non-World Bank Group Financing
+
+                                                                                                                   Page 1
+         The World Bank
+         Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+       Counterpart Funding                                                                                                      7.25
+          Borrower/Recipient                                                                                                    7.25
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                          Concept Review Decision
+High                                                                  The review did authorize the preparation to continue
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+1.       In recent years, El Salvador has modernized its institutions and reduced crime, but significant development
+challenges persist. The COVID-19 pandemic hit El Salvador hard, with GDP dropping 7.9 percent in 2020 despite major
+fiscal outlays. The country continues to face a delicate macroeconomic context linked to the debt burden exacerbated by
+the COVID-19 crisis which contributed to a still fragile fiscal situation. The economic recovery following the crisis was also
+impacted by high inflation stimulated by rising global fuel and transport costs. The country has made significant progress
+in recent years reducing poverty and crime. However, major challenges persist to creating employment opportunities and
+fostering economic growth, as well as reaching fiscal sustainability and improving access to affordable public services.
+
+2.       Real GDP per capita grew by 3.5 percent in 2023 fueled by public investment and consumption, primarily driven
+by remittances, alongside a rebound in exports. It has nevertheless tended to grow at a more modest pace averaging just
+over 2.4 percent in recent years1 . Over the 2000-2023 period inflation averaged 2.6 percent, and population growth 0.28
+percent. In 2023, per capita GDP in absolute terms was US$5,023. The country’s GDP is expected to grow 3.2 percent in
+2024, slightly below 2023, in line with the Central American average.
+
+3.      EL Salvador has made significant progress towards reducing extreme poverty and boosting shared prosperity.
+The percentage of Salvadoreans living with less than US$6.85/day (2017 PPP) dropped from 52 percent in 2000 to 28
+percent in 2022. The unemployment rate is also relatively low at 2.8 percent in 2023, down from 5 percent in 2020. This
+estimate however does not capture underlying challenges in the labor force. Approximately 25 percent of Salvadoreans
+are estimated to live abroad2 driven primarily by the search for better employment opportunities. Remittances have
+become key for Salvadoran families3. However, remittances have counterproductive effects, contributing to lower labor
+force participation and hours worked.4
+
+4.     El Salvador faces some significant macroeconomic challenges tied to debt sustainability. The fiscal deficit
+widened to 4.2 percent of GDP in 2023, up from 2.7 percent in 2022 with public debt reaching 76 percent. The government
+
+
+1
+  Decade before COVID-19 pandemic 2010-2019
+2
+  US AID El Salvador Country Development Cooperation Strategy (CDCS) 2020 – 2025, March 2021
+3
+  El Salvador Poverty & Equity Brief, April 2024, World Bank
+4
+  Política nacional para la protección y desarrollo de la persona migrante salvadoreña y su familia. Gobierno de El Salvador. 2017
+
+                                                                                                                                     Page 2
+         The World Bank
+         Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+faces liquidity pressures and financing challenges and received less foreign direct investment (FDI) then other Central
+American economies.5 Measures to promote a sustainable and inclusive economic growth will be key to attracting more
+FDI, including investments with the potential of lowering energy costs which can make exports more competitive by
+lowering overall production costs.
+
+5.      El Salvador is also highly vulnerable to climate change and weather-related hazards incurring annual losses of
+around 2.5 percent of GDP. Located in the “Corredor Seco�?, climate change is expected to aggravate the current seasonal
+dry periods and cyclical droughts resulting from El Niño. Worldwide, El Salvador ranks second highest for risk exposure to
+two or more hazards and highest for the total population at a relatively high risk of mortality.6 The Vulnerability Index to
+climate change in the Latin American and the Caribbean region, ranks El Salvador third in the region.7 The weather-
+dependent nature of various sectors, including the power sector (hydropower), agriculture, and fisheries, which are critical
+to sustaining the country’s growth and poverty reduction, are a critical challenge that the country will need to tackle.
+
+    Sectoral and Institutional Context
+
+6.      Developing domestic renewable energy (RE) resources could provide a necessary boost for economic
+development and support increased climate resilience. El Salvador is endowed with a wealth of RE resources, including
+climate resilient energy sources such as geothermal. The Government’s National Integral Development Strategy includes
+a key pillar to accelerate investment in resilient and sustainable infrastructure, including clean energy projects8. Greater
+renewable energy integration is essential to securing more affordable electricity for the population and businesses, to
+create green jobs and support climate change mitigation and adaptation.
+
+7.     El Salvador’s electricity sector is vertically unbundled with an active private sector. The electricity sector is
+governed by the General Electricity Law (Ley General de Electricidad) of 1996 and regulated by the Superintendencia
+General de Electricidad y Telecomunicaciones (SIGET). In 2022, the government consolidated various agencies to create
+the General Directorate of Energy, Hydrocarbons, and Mines [Dirección General de Energia, Hidrocarburos y Minas
+(DGEHM)], responsible for overall energy policy. The state-owned conglomerate the Comisión Ejecutiva Hidroeléctrica del
+Río Lempa (CEL) operates the publicly owned hydropower facilities and oversees LaGeo, the geothermal subsidiary
+company of CEL.
+
+8.       Electricity supply comes from domestic generation using renewables and imported fossil fuels as well as from
+electricity imports. El Salvador had a total installed power capacity of 2,914 MW, from a combination of hydropower,
+geothermal, biomass, solar, wind, and thermal sources. Between 2011 and 2016, the percentage of generation from
+hydropower plants declined significantly compared to thermal generation sources whose share of overall power
+generation increased. To meet electricity demand, which was growing at an annual rate of 2-3 precent, the country
+imported as much as a quarter of its power needs from the regional electricity market (SIEPAC). Starting in 2016, domestic
+generation was ramped up, first with the addition of hydro and solar power capacity (adding over 800 MW between 2016
+and 2023) and more recently with the addition of a 390 MW natural gas plant. These additions have helped displace
+imports and contributed to El Salvador becoming a net exporter of power in 2023.
+
+5
+  The current account deficit widened to 6.7 percent of GDP in 2022, owning in part to the increase in the price of refined petroleum
+products following Russia’s invasion of Ukraine but has since dropped to 1.4 percent slightly under historical levels.
+6
+  The World Bank (2024). Climate Knowledge Portal. https://climateknowledgeportal.worldbank.org/
+7
+  CAF. (2014). Vulnerability index to climate change in the Latin American and Caribbean Region. Caracas: CAF. Retrieved from
+https://scioteca.caf.com/handle/123456789/509
+8
+  Consejo Nacional para el Desarrollo Sostenible (CNDS) (2023). “Estrategia Nacional de Desarrollo Integral (ENDI)�? El Salvador.
+
+                                                                                                                                 Page 3
+       The World Bank
+       Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+
+9.      However, climate change is expected to negatively impact rainfall patterns, increasing the intensity and
+frequency of droughts and affecting the continuity of hydropower generation. While El Salvador produces a significant
+amount of electricity from renewables, many of these sources (solar, wind, biomass, and hydro) provide variable supply
+given hourly and seasonal variations in resource availability. Adding to this, hydropower generation is affected by a marked
+decrease in rainfall patterns exacerbated by climate change, especially in the country’s Dry Corridor. During the El Nino
+event in 2023, the country’s share of power generated from fossil fuels rose to 42% in 2023 9 exposing the country (and
+those that it exports to) to high and volatile international oil and ultimately electricity prices10 as well as higher emissions
+from thermal combustion.
+
+10.      High electricity prices negatively impact businesses and households in El Salvador. In 2020, El Salvador had the
+highest retail tariffs in Central America. The natural gas plant and a solar farm commissioning in 2022 helped reduce tariffs,
+nonetheless electricity prices remain high compared to other Latin American countries. This affects business expansion
+and the entry of prospective businesses and industries, dampening economic growth and job creation. High electricity
+prices also create affordability issues for households and increase the existing energy subsidy burden for the Government.
+Greater renewable development would help lower electricity prices, enhancing affordability and reducing subsidy needs.
+
+11.     Stimulating further domestic RE generation, including from geothermal is high on the government’s agenda. A
+key priority of the Government of El Salvador As part of its mandate the DGEHM is looking to increase renewable energy
+production to reduce costs, ensure affordable electricity prices, and increase energy security as key priorities for the
+Government of El Salvador11. El Salvador’s updated NDC (2022) also aims to reduce annual emissions from fossil fuels by
+640 Kt CO2eq by 2030 compared to a business-as-usual scenario12, supported by geothermal expansion. Further
+development of the country’s vast geothermal resources will be essential to meeting these development and climate
+goals.
+
+12.     El Salvador is endowed with significant geothermal potential, with large reservoirs still undeveloped. El
+Salvador’s geothermal potential is estimated to be between 500-1,000 MW, but only 209 MW is currently used for power
+generation. If further exploited, geothermal energy could provide more reliable power generation, displacing a portion of
+thermal generation and imports, and help reduce prices and hedge against future price increases. The GoSV aims to
+increase the geothermal generating capacity by 100 MW by further developing existing geothermal fields and starting
+production from the new geothermal fields of Chinameca and San Vicente.
+
+13.     Geothermal can provide additional power system resilience as well as other economic benefits. The additional
+power the Chinameca and San Vicente fields would generate multiple economic benefits including: (i) strengthening
+power system resilience to climate change; (ii) reducing GHG emissions from thermal generation; (iii) stimulating
+investments in the economy and job creation; (iv) increasing the affordability of electricity and reducing fossil fuel
+subsidies; and (v) increasing energy security by reducing vulnerability to international fossil fuel price fluctuations.
+
+
+
+
+9
+  LaGeo powertpoint. January 2024.
+10
+   As such the amount of hydropower generation decreased to 19.6%, geothermal to 19.4%, solar 6.9%, biomass 6.1%, wind 2%, and
+region market imports for 2.9% of electricity supply in El Salvador.
+11
+   DGEHM, 2022 https://www.cel.gob.sv/wp-content/uploads/download-manager-files/CELEne2022a.pdf
+12
+   https://unfccc.int/documents/499074
+
+                                                                                                                           Page 4
+           The World Bank
+           Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+ Relationship to CPF
+
+14.      The proposed project will support achieving key objectives of El Salvador’s Country Partnership Framework
+(CPF) 2023-2027 and is aligned with other global commitments and programs, by supporting improved resilience to
+disasters and climate change and quality job creation. It contributes directly to meeting the CPF’s High-Level Outcome 3
+‘Improved resilience to disasters and climate change’ by adding geothermal power which is more resilient to droughts.
+Specifically, it contributes to High-Level Outcome 3’s Objective 5 ‘Improved disaster risk management’ and Objective 6
+‘Strengthened climate-smart interventions’. The project also supports increased private sector investment in the
+geothermal sector that will support the creation of green jobs, in line with CPF High-Level Outcome 1 ‘Increased Private
+Sector Led Job Creation’. In addition, the project contributes to CPF High-Level Outcome 1’s Objective 1 ‘Fiscal
+sustainability’ and Objective 2 ‘Formal private sector development’ as it will help reduce and stabilize electricity costs and
+tariffs that facilitates business expansion, job creation, and economic growth. Furthermore, the proposed project is
+consistent El Salvador’s National Determined Contribution (NDC) and the Paris Agreement by supporting greater
+diversification of the electricity generation matrix with renewables and displacing thermal generation, which contributed
+to climate change mitigation and adaptation.
+
+ C. Proposed Development Objective(s)
+ 15.    The Project Development Objective is to inform the Government of El Salvador on the potential availability of
+ geothermal resources for power generation and promote the direct use of geothermal energy in El Salvador.
+
+  Key Results (From PCN)
+
+ 16.         The key results expected through completion of the proposed Project are described below.
+       •     Renewable energy generation capacity enabled (MW)
+       •     Expected greenhouse gas emissions reductions enabled (tCO2e)
+       •     People trained on productive use of geothermal heat for economic activities
+       •     Female beneficiaries employed in economic activities facilitated by the project and/or the Government in
+             proximity of the geothermal fields
+
+ D. Concept Description
+
+17.      The proposed project will support the geothermal development of the San Vicente and Chinameca Geothermal
+Fields. By financing geothermal drilling for resource confirmation and promoting geothermal direct use, the project is
+expected to achieve its development objective and achieve multiple economic benefits.
+
+The components of this project are the following:
+
+(a) Component 1: Drilling campaign to confirm geothermal resources – This component will finance the drilling of wells
+    to ensure the geothermal fluid necessary for the operation of the first-generation units in San Vicente and Chinameca
+    and expand confirmed resources in the San Vincente and Chinameca fields to an estimated potential of 50 MWe. This
+    component will also carry out feasibility studies for the future expansion of San Vicente and Chinameca geothermal
+    fields. These activities will help attract potential private investment for the installation of successive generation units
+    in both fields and will facilitate full geothermal field development in the future.
+
+
+
+                                                                                                                          Page 5
+       The World Bank
+       Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+
+
+(b) Component 2: Social and environmental programs and geothermal center of excellence – This component will
+    comprise: (i) Activities and investments aimed at promoting the direct use of residual geothermal heat, to create new
+    economic opportunities in the communities around the geothermal plants within the Dry Corridor, (ii) Financing
+    mitigation works associated with the environmental and social impact identified in the environmental impact study
+    and/or required by the environmental permits for these fields, and (iii) Development of studies and training activities
+    that will facilitate the establishment of the Geothermal Center of Excellence. To empower women to access
+    commercial markets and close the access gap to technology, the Project will ensure that at least 25 percent of the
+    component beneficiaries are female.
+
+
+(c) Component 3: Technical Assistance and Project Implementation Support – This component seeks to support LaGeo in
+    strengthening its technical and management capacity for the implementation of the project, including by hiring expert
+    personnel for technical assistance and supervision tasks, as well as for monitoring project activities. This component
+    may finance the hiring of personnel with experience in WB acquisition processes to collaborate with the project
+    management unit (PMU), to support the supervision of drilling activities, and the hiring of external audits.
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                    Triggered?
+                                                              Last approved                             Current
+ Projects on International Waterways OP 7.50                        No
+ Projects in Disputed Area OP 7.60                                  No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+18.       The Environmental and social risks are High, in light of potentially significant direct and indirect impacts both
+from the directly financed project activities (e.g., drilling of geothermal wells in Chinameca and San Vicente) as well as
+from the associated activities, to be implemented by a private sector developer, to construct and operate geothermal
+power plants at the two locations. The primary environmental, health and safety impacts and risks are expected to include:
+(a) significant freshwater consumption requirements during the drilling phase, in settings where local communities already
+experience water shortages during the dry season (particularly in Chinameca); (b) deforestation, and resulting habitat
+fragmentation, from earthworks and civil works related to the associated activities of plant development which will
+require installing networks of pipelines to carry hot and cold process waters, developing and improving access roads, and
+constructing transmission lines; (c) potential for surface and groundwater contamination in the case of improper disposal
+of drilling muds; and (d) varied construction related impacts and risks typical of infrastructure and industrial projects
+stemming mostly from the associated activities of power plant development, including noise, dust, road and traffic safety,
+occupational health and safety, and potential labor influx related issues (including the resulting additional stress on limited
+water resources) in the neighboring towns. Relevant positive environmental benefits are also expected, as long-term
+
+
+                                                                                                                          Page 6
+       The World Bank
+       Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+outcomes associated with the operation include, among others, climate change mitigation and cleaner air. The potential
+social risks and impacts stem largely from: (1) resettlement and land acquisitions; (2) potential labor influx from other
+areas of the country; (3) high expectations within local communities for social programming as well as employment
+opportunities; (4) misconceptions about water availability and use for the project. The overall risk is somewhat moderated
+by the capacity of the project sponsor, LaGeo, to manage these risks and impacts – notably developed through years of
+on-the-ground learning-by-doing and gradual improvement of management practices over nearly 20 years of exploratory
+drilling and development at the two project sites, as well as successful development and operation of geothermal plants
+elsewhere in the country. However, LaGeo lacks experience implementing World Bank/financed projects and needs to
+become fully acquainted with E&S requirements. The project will also include social and environmental investments
+benefiting local communities under component 2. Nonetheless, the overall risk is still considered high, particularly given
+the scale of the projects (when considering also their associated activities) and the challenges of managing multiple works
+contractors at two different geothermal sites, which could present significant E&S managerial, coordination, and oversight
+complexities for LaGeo. The WB team will work with the client to review and update the ESIAs and related management
+plans prepared in accordance with the ESF in 2019 at the time of preparation of an earlier, larger version of this project,
+including additional stakeholder consultations as needed. The proposed risk classification will also be revisited during due
+diligence, and if necessary updated, as more information becomes available.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Laura Wendell Berman
+   Senior Energy Specialist
+
+   Joerie Frederik de Wit
+   Senior Energy Economist
+
+ Borrower/Client/Recipient
+  Comisión Ejecutiva Hidroeléctrica del Río Lempa (CEL)
+
+ Implementing Agencies
+  LaGeo
+  Marlene Jamilet Elias de Quan
+  General Manager
+  melias@lageo.com.sv
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+                                                                                                                        Page 7
+     The World Bank
+     Geothermal Energy for Sustainable and Inclusive Development(P506109)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Laura Wendell Berman, Joerie Frederik de Wit
+
+Approved By
+
+Practice Manager/Manager:              Gabriela Elizondo Azuela              02-Jul-2024
+
+Country Director:                      Karlene Collette Francis              25-Jul-2024
+
+
+
+
+                                                                                           Page 8
+

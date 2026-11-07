@@ -1,0 +1,957 @@
+{
+  "project_id": "P181248",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "09b3095f",
+  "started_at": "2026-11-07T03:36:46Z",
+  "ended_at": "2026-11-07T03:37:08Z",
+  "input_fingerprint": "72fbfce071dbf718",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 28,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P181248-A1",
+      "project_id": "P181248",
+      "name": "Displacement tracking data and spatial IDP database for targeting",
+      "description": "Uses IOM displacement tracking data and a national spatial IDP registration database to select target areas and beneficiaries. Practices: IOM-DTM displacement data for targeting IDP beneficiaries; National spatial IDP database from registration and displacement surveys.",
+      "why_innovative": "New process: displacement data-driven beneficiary targeting - cue: 'pilot' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099072125125539995",
+        "doc_type": "PAD",
+        "doc_date": "2025-07-17",
+        "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+        "char_start": 43043,
+        "char_end": 43295,
+        "text": "The International Organization for Migration (IOM)-Displacement Tracking Matrix (DTM) data will be considered to select the target communities at the LGA and ward levels.22 IOM-DTM data will be the basis for the identification of project beneficiaries.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099072125125539995",
+          "doc_type": "PAD",
+          "doc_date": "2025-07-17",
+          "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+          "char_start": 42648,
+          "char_end": 42693,
+          "text": "MDAs = Ministries, Departments, and Agencies.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072125125539995",
+          "doc_type": "PAD",
+          "doc_date": "2025-07-17",
+          "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+          "char_start": 67347,
+          "char_end": 67953,
+          "text": "(ii) financial and technical support to address the data gaps concerning IDPs, including women, persons with disabilities, and other vulnerable groups; and (iii) financial and technical support to carry out a registration and profiling process of IDPs, including conducting the displacement surveys elaborated in the PIM and building a spatial database for IDPs in participating states that identify IDPs as one of their key development challenges.45 States will finance the state-level work while the project will finance the coordination of the states’ efforts and the development of a national database.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072125125539995",
+          "doc_type": "PAD",
+          "doc_date": "2025-07-17",
+          "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+          "char_start": 67127,
+          "char_end": 67346,
+          "text": "The component will also allocate US$2 F ’ operationalize the National IDP Policy, including the following: (i) TA to facilitate overall programmatic and policy coordination between federal, state, and local governments;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: displacement dataset is the targeting mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Cohesion and Resilience",
+        "code": "",
+        "confidence": null,
+        "rationale": "Targeting IDP beneficiaries directly serves social cohesion and resilience for displaced populations.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P170664",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "ct also promotes inclusive participation and livelihood support for women and youth, building on the work under NFWP-SU (P179447), RAAMP (P180640), Sustainable Urban and Rural Sanitation and Hygiene (SURWASH, P170734), and the Adolescent Girls Initiative for Learning and Empowerment Program (AGILE, P170664). 29. The project leverages W B k’ x ‘productive alliances’ approach while aligning with W B"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: IOM-DTM dataset | Innovative: ward-level IDP targeting from displacement data | Category: data-driven targeting",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: displacement data-driven beneficiary targeting - cue: 'pilot'",
+      "innovation_cues": [
+        "grievance-redress",
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P181248-A2",
+      "project_id": "P181248",
+      "name": "Geo-Enabled Monitoring System for project monitoring and feedback",
+      "description": "Project uses GEMS plus beneficiary feedback/GRM to monitor activities and capture complaints.",
+      "why_innovative": "New process: geo-enabled monitoring with beneficiary feedback - cue: 'grievance-redress' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099072125125539995",
+        "doc_type": "PAD",
+        "doc_date": "2025-07-17",
+        "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+        "char_start": 66672,
+        "char_end": 66858,
+        "text": "(ii) project monitoring which includes a Geo-Enabled Monitoring System (GEMS) and beneficiary feedback/Grievance Redress Mechanism (GRM), including a specialized GRM for cases of SEA/SH;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers monitoring and accountability delivery, not a financial product",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "GEMS monitoring and GRM support sub-national project implementation and accountability.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P170664",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "ct also promotes inclusive participation and livelihood support for women and youth, building on the work under NFWP-SU (P179447), RAAMP (P180640), Sustainable Urban and Rural Sanitation and Hygiene (SURWASH, P170734), and the Adolescent Girls Initiative for Learning and Empowerment Program (AGILE, P170664). 29. The project leverages W B k’ x ‘productive alliances’ approach while aligning with W B"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: GEMS with GRM | Innovative: geo-tagged monitoring plus feedback loop | Category: delivery/accountability",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: geo-enabled monitoring with beneficiary feedback - cue: 'grievance-redress'",
+      "innovation_cues": [
+        "grievance-redress"
+      ]
+    },
+    {
+      "approach_id": "P181248-A3",
+      "project_id": "P181248",
+      "name": "Geotagged activity mapping in GEMS with beneficiary phone surveys",
+      "description": "State PCUs map activities and collect data via GEMS, complemented by geotagging and beneficiary phone surveys.",
+      "why_innovative": "New process: geotagged GEMS data plus phone surveys in FCV areas - cue: 'geotagging' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099072125125539995",
+        "doc_type": "PAD",
+        "doc_date": "2025-07-17",
+        "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+        "char_start": 88377,
+        "char_end": 88558,
+        "text": "The state PCUs will be responsible for operationalizing the state-level Results Framework and results monitoring system and leveraging GEMS for activity mapping and data collection.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099072125125539995",
+          "doc_type": "PAD",
+          "doc_date": "2025-07-17",
+          "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+          "char_start": 88559,
+          "char_end": 88746,
+          "text": "Data collection through geotagging will be supported by regular beneficiary phone surveys to track social cohesion, levels of participation in project activities, satisfaction, and so on.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072125125539995",
+          "doc_type": "PAD",
+          "doc_date": "2025-07-17",
+          "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+          "char_start": 88903,
+          "char_end": 89093,
+          "text": "The World Bank project team will provide support to state PCUs in using GEMS in Fragility, Conflict, and Violence (FCV)-sensitive areas to ensure data collection can proceed and be verified.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital data collection system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "State PCUs using GEMS geotagged mapping is a sub-national government monitoring function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P170664",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "ct also promotes inclusive participation and livelihood support for women and youth, building on the work under NFWP-SU (P179447), RAAMP (P180640), Sustainable Urban and Rural Sanitation and Hygiene (SURWASH, P170734), and the Adolescent Girls Initiative for Learning and Empowerment Program (AGILE, P170664). 29. The project leverages W B k’ x ‘productive alliances’ approach while aligning with W B"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: GEMS geotagging plus phone surveys | Innovative: FCV-sensitive verified data | Category: digital M&E tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: geotagged GEMS data plus phone surveys in FCV areas - cue: 'geotagging'",
+      "innovation_cues": [
+        "performance-based"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P181248",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "guid": "099072125125539995",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:36:46Z",
+      "ended_at": "2026-11-07T03:36:48Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:36:48Z",
+      "ended_at": "2026-11-07T03:36:48Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-08-07, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:36:48Z",
+      "ended_at": "2026-11-07T03:36:49Z",
+      "status": "ok",
+      "note": "28 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 28,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 4,
+          "innovation_types": 4,
+          "enabling_processes": 5,
+          "enabling_technologies": 3,
+          "innovation_cycle": 5,
+          "results_based_management": 4,
+          "innovation": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:36:49Z",
+      "ended_at": "2026-11-07T03:36:49Z",
+      "status": "ok",
+      "note": "PAD 2025-07-17 (P181248_PAD_2025-07-17_099072125125539995.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P181248",
+            "doc_type": "PAD",
+            "doc_date": "2025-07-17",
+            "guid": "099072125125539995",
+            "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:36:49Z",
+      "ended_at": "2026-11-07T03:36:49Z",
+      "status": "ok",
+      "note": "145 reading units (8 numbered paragraphs) from 1007 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 145
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:36:49Z",
+      "ended_at": "2026-11-07T03:36:51Z",
+      "status": "ok",
+      "note": "104 of 145 units carry a digital / AI cue (35 also an innovation cue); 5 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 104,
+        "dropped": 0,
+        "legal_condition": 5,
+        "with_innovation_cue": 35
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:36:51Z",
+      "ended_at": "2026-11-07T03:36:59Z",
+      "status": "ok",
+      "note": "10 candidate practices from 104 units in 11 calls",
+      "llm_calls": 11,
+      "input_chars": 334603,
+      "output": {
+        "usage": {
+          "calls": 11,
+          "input_tokens": 2081,
+          "cached_tokens": 69248,
+          "cache_write_tokens": 0,
+          "output_tokens": 3058,
+          "seconds": 24.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0047
+        },
+        "extracted": 10
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:36:59Z",
+      "ended_at": "2026-11-07T03:37:03Z",
+      "status": "ok",
+      "note": "4 accepted, 6 rejected (not_innovative 4, unsupported_by_evidence 2); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 36807,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4810,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 688,
+          "seconds": 3.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0023
+        },
+        "accepted": 4,
+        "rejected": 6,
+        "expanded": 0,
+        "reject_codes": {
+          "unsupported_by_evidence": 2,
+          "not_innovative": 4
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:03Z",
+      "ended_at": "2026-11-07T03:37:05Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1524,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 351,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 161,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:05Z",
+      "ended_at": "2026-11-07T03:37:06Z",
+      "status": "ok",
+      "note": "4 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1259,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 167,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 56,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:06Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7066,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1097,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 181,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:08Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 8 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:08Z",
+      "ended_at": "2026-11-07T03:37:08Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P170664",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "ct also promotes inclusive participation and livelihood support for women and youth, building on the work under NFWP-SU (P179447), RAAMP (P180640), Sustainable Urban and Rural Sanitation and Hygiene (SURWASH, P170734), and the Adolescent Girls Initiative for Learning and Empowerment Program (AGILE, P170664). 29. The project leverages W B k’ x ‘productive alliances’ approach while aligning with W B"
+          }
+        ],
+        "store_size": 238
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P181248-A1-E1",
+      "approach_id": "P181248-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U26",
+      "para_no": null,
+      "sentence_position": 182,
+      "char_start": 43043,
+      "char_end": 43295,
+      "sentence": "The International Organization for Migration (IOM)-Displacement Tracking Matrix (DTM) data will be considered to select the target communities at the LGA and ward levels.22 IOM-DTM data will be the basis for the identification of project beneficiaries.",
+      "practice": "IOM-DTM displacement data for targeting IDP beneficiaries",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Cohesion and Resilience",
+      "extractor_reason": "Digital core: IOM-DTM displacement dataset | Not routine: data-based IDP targeting at ward level | Adoption: 'will be the basis'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IOM-DTM dataset | Innovative: ward-level IDP targeting from displacement data | Category: data-driven targeting",
+      "keywords_hit": "IDP;host communities;start-up",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New process: displacement data-driven beneficiary targeting - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A1-E2",
+      "approach_id": "P181248-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U26",
+      "para_no": null,
+      "sentence_position": 176,
+      "char_start": 42648,
+      "char_end": 42693,
+      "sentence": "MDAs = Ministries, Departments, and Agencies.",
+      "practice": "IOM-DTM displacement data for targeting IDP beneficiaries",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Cohesion and Resilience",
+      "extractor_reason": "Digital core: IOM-DTM displacement dataset | Not routine: data-based IDP targeting at ward level | Adoption: 'will be the basis'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IOM-DTM dataset | Innovative: ward-level IDP targeting from displacement data | Category: data-driven targeting",
+      "keywords_hit": "IDP;host communities;start-up",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New process: displacement data-driven beneficiary targeting - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A1-E3",
+      "approach_id": "P181248-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 315,
+      "char_start": 67347,
+      "char_end": 67953,
+      "sentence": "(ii) financial and technical support to address the data gaps concerning IDPs, including women, persons with disabilities, and other vulnerable groups; and (iii) financial and technical support to carry out a registration and profiling process of IDPs, including conducting the displacement surveys elaborated in the PIM and building a spatial database for IDPs in participating states that identify IDPs as one of their key development challenges.45 States will finance the state-level work while the project will finance the coordination of the states’ efforts and the development of a national database.",
+      "practice": "National spatial IDP database from registration and displacement surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Cohesion and Resilience",
+      "extractor_reason": "Digital core: national spatial IDP database | Not routine: consolidates fragmented displacement data | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national spatial IDP database | Innovative: consolidates fragmented displacement data | Category: digital registry",
+      "keywords_hit": "IDP;conflict;displaced;host communities;internally displaced;persons with disabilities;survey",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New product: spatial IDP registry from profiling surveys - cue: 'data gaps'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A1-E4",
+      "approach_id": "P181248-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 314,
+      "char_start": 67127,
+      "char_end": 67346,
+      "sentence": "The component will also allocate US$2 F ’ operationalize the National IDP Policy, including the following: (i) TA to facilitate overall programmatic and policy coordination between federal, state, and local governments;",
+      "practice": "National spatial IDP database from registration and displacement surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Cohesion and Resilience",
+      "extractor_reason": "Digital core: national spatial IDP database | Not routine: consolidates fragmented displacement data | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: national spatial IDP database | Innovative: consolidates fragmented displacement data | Category: digital registry",
+      "keywords_hit": "IDP;conflict;displaced;host communities;internally displaced;persons with disabilities;survey",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New product: spatial IDP registry from profiling surveys - cue: 'data gaps'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A2-E1",
+      "approach_id": "P181248-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 308,
+      "char_start": 66672,
+      "char_end": 66858,
+      "sentence": "(ii) project monitoring which includes a Geo-Enabled Monitoring System (GEMS) and beneficiary feedback/Grievance Redress Mechanism (GRM), including a specialized GRM for cases of SEA/SH;",
+      "practice": "Geo-Enabled Monitoring System for project monitoring and feedback",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: Geo-Enabled Monitoring System | Not routine: geo-tagged monitoring with feedback loop | Adoption: 'includes'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GEMS with GRM | Innovative: geo-tagged monitoring plus feedback loop | Category: delivery/accountability",
+      "keywords_hit": "IDP;conflict;displaced;host communities;internally displaced;persons with disabilities;survey",
+      "innovation_cues": "grievance-redress",
+      "innovation_basis": "New process: geo-enabled monitoring with beneficiary feedback - cue: 'grievance-redress'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A3-E1",
+      "approach_id": "P181248-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U61",
+      "para_no": null,
+      "sentence_position": 427,
+      "char_start": 88377,
+      "char_end": 88558,
+      "sentence": "The state PCUs will be responsible for operationalizing the state-level Results Framework and results monitoring system and leveraging GEMS for activity mapping and data collection.",
+      "practice": "Geotagged activity mapping in GEMS with beneficiary phone surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: GEMS geotagging and phone surveys | Not routine: FCV-sensitive verified data collection | Adoption: 'will be supported'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GEMS geotagging plus phone surveys | Innovative: FCV-sensitive verified data | Category: digital M&E tool",
+      "keywords_hit": "FCV;IDP;conflict;data collection;displaced;host communities;internally displaced;mapping;survey",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New process: geotagged GEMS data plus phone surveys in FCV areas - cue: 'geotagging'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A3-E2",
+      "approach_id": "P181248-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U61",
+      "para_no": null,
+      "sentence_position": 428,
+      "char_start": 88559,
+      "char_end": 88746,
+      "sentence": "Data collection through geotagging will be supported by regular beneficiary phone surveys to track social cohesion, levels of participation in project activities, satisfaction, and so on.",
+      "practice": "Geotagged activity mapping in GEMS with beneficiary phone surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: GEMS geotagging and phone surveys | Not routine: FCV-sensitive verified data collection | Adoption: 'will be supported'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GEMS geotagging plus phone surveys | Innovative: FCV-sensitive verified data | Category: digital M&E tool",
+      "keywords_hit": "FCV;IDP;conflict;data collection;displaced;host communities;internally displaced;mapping;survey",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New process: geotagged GEMS data plus phone surveys in FCV areas - cue: 'geotagging'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    },
+    {
+      "row_id": "P181248-A3-E3",
+      "approach_id": "P181248-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P181248",
+      "doc_id": "099072125125539995",
+      "doc_type": "PAD",
+      "doc_date": "2025-07-17",
+      "file_name": "P181248_PAD_2025-07-17_099072125125539995.txt",
+      "unit_id": "U61",
+      "para_no": null,
+      "sentence_position": 430,
+      "char_start": 88903,
+      "char_end": 89093,
+      "sentence": "The World Bank project team will provide support to state PCUs in using GEMS in Fragility, Conflict, and Violence (FCV)-sensitive areas to ensure data collection can proceed and be verified.",
+      "practice": "Geotagged activity mapping in GEMS with beneficiary phone surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: GEMS geotagging and phone surveys | Not routine: FCV-sensitive verified data collection | Adoption: 'will be supported'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: GEMS geotagging plus phone surveys | Innovative: FCV-sensitive verified data | Category: digital M&E tool",
+      "keywords_hit": "FCV;IDP;conflict;data collection;displaced;host communities;internally displaced;mapping;survey",
+      "innovation_cues": "performance-based",
+      "innovation_basis": "New process: geotagged GEMS data plus phone surveys in FCV areas - cue: 'geotagging'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09b3095f"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 723,
+      "char_start": 140255,
+      "char_end": 140667,
+      "sentence": "Project Management and Support for the Implementation of the National Policy Quality Beneficiary Surveys performed (Number) Apr/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Jul/2030 0 2 4 6 8 10 The data gaps on displacement related vulnerabilities are addressed comprehensively (Text) PBC Apr/2025 Dec/2026 Dec/2027 Dec/2028 Dec/2029 Jul/2030 No Registration process of surveys and analytics 80% of IDPs registered.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital IDP registration and profiling feeding displacement analytics",
+      "reason": "reject: Fragmentary results-framework table; no clear statement of a distinct financed practice",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: registration/profiling linked to displacement analytics - cue: 'analytics'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Fragmentary results-framework table; no clear statement of a distinct financed practice",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1239
+        }
+      ]
+    },
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 731,
+      "char_start": 142134,
+      "char_end": 143082,
+      "sentence": "0.00 0.00 3,000,000.00 3,000,000.00 3,000,000.00 PBC allocation 9,000,000.00 As a % of Total PBC Allocation 27.27% 2:The data gaps on displacement related vulnerabilities are addressed comprehensively (Text ) No Participating Tier 1 and Participating Tier 1 States 80% of IDPs in host The data gaps on Condition Met Tier 2 States launched (i) conducted intention communities in all displacement related registration/profiling of surveys and stability index Participating Tier 1 and vulnerabilities are IDPs in selected host assessments in areas of Tier 2 States are registered addressed communities, and local integration in 2 and profiled, Each comprehensively. completed: selected wards; and (ii) Participating State which comprehensive conducted analysis of completes all the above demographic and drivers of displacement, will receive USD 0.5 million vulnerability assessment; underlying root causes, of the PBC allocation. in at least 2 Wards.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital IDP registration/profiling with displacement driver analysis",
+      "reason": "reject: Garbled PBC table text; registration/profiling practice not clearly stated",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: registration plus displacement-driver analytics - cue: 'registration/profiling'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Garbled PBC table text; registration/profiling practice not clearly stated",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1587
+        }
+      ]
+    },
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 738,
+      "char_start": 145658,
+      "char_end": 145949,
+      "sentence": "By utilizing geographic information systems (GIS) and remote sensing technologies, geospatial analysis enables the mapping and Methodology for Data interpretation of spatial data, providing insights into environmental factors, resource distribution, and socio-economic Collection conditions.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS and remote sensing geospatial analysis for beneficiary mapping",
+      "reason": "reject: GIS/remote sensing beneficiary mapping is routine M&E methodology across MDB operations",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geospatial mapping of IDP beneficiaries - cue: 'geographic information systems'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GIS/remote sensing beneficiary mapping is routine M&E methodology across MDB operations",
+          "reject_code": "not_innovative",
+          "context_chars": 1430
+        }
+      ]
+    },
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 756,
+      "char_start": 152535,
+      "char_end": 152978,
+      "sentence": "from direct investment in basic water and Description sanitation infrastructure (for example, bore hole, toilet, tap water) Frequency Annual Data source PMIS, annual progress report This indicator is calculated using GIS to locate the services combined with a population map Methodology for Data Collection layer 2 km around the services to calculate the number of beneficiaries, in addition to field investigation/survey and official records.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS buffer analysis with population maps for beneficiary counts",
+      "reason": "reject: GIS buffer beneficiary counting is standard indicator methodology, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS buffer-based beneficiary estimation - cue: 'GIS to locate'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GIS buffer beneficiary counting is standard indicator methodology, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1642
+        }
+      ]
+    },
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 759,
+      "char_start": 155087,
+      "char_end": 155884,
+      "sentence": "Frequency Annual Data source PMIS annual progress report This indicator is calculated using GIS to locate the services combined with a population map Methodology for Data Collection around the services to calculate the area covered by transport services provision, in addition to field investigation/survey and official records Responsibility for Data Collection FPMU, PCU Direct users that benefit from improved access to sustainable transport infrastructure and services - Female (Number of people) CRI Measures the total number of women living within 500 m of urban roads upgraded or rehabilitated to climate-resilient standards, respectively within 500 m of non-motorized Description transport faciliites built or upgraded by the project, or within within a 2 km buffer around intercity roads.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS buffer analysis for transport infrastructure user counts",
+      "reason": "reject: GIS buffer road-user counting is routine M&E methodology",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS buffer-based transport user counts - cue: 'GIS to locate'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GIS buffer road-user counting is routine M&E methodology",
+          "reject_code": "not_innovative",
+          "context_chars": 1706
+        }
+      ]
+    },
+    {
+      "guid": "099072125125539995",
+      "doc_type": "PAD",
+      "position": 763,
+      "char_start": 157386,
+      "char_end": 157647,
+      "sentence": "This indicator is calculated Methodology for Data Collection using GIS to locate the services combined with a population map layer 2 km around the services to calculate the number of beneficiaries, in addition to field investigation/survey and official records.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS buffer analysis for climate-resilient infrastructure beneficiaries",
+      "reason": "reject: GIS buffer beneficiary estimation is standard indicator methodology",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GIS-based beneficiary estimation - cue: 'GIS to locate'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GIS buffer beneficiary estimation is standard indicator methodology",
+          "reject_code": "not_innovative",
+          "context_chars": 1253
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 15,
+    "input_tokens": 8506,
+    "cached_tokens": 72704,
+    "cache_write_tokens": 0,
+    "output_tokens": 4144,
+    "seconds": 33.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.008
+  }
+}

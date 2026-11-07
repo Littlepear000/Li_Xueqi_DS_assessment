@@ -1,0 +1,886 @@
+{
+  "project_id": "P513127",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "da728f74",
+  "started_at": "2026-11-07T03:39:37Z",
+  "ended_at": "2026-11-07T03:39:55Z",
+  "input_fingerprint": "d71e556c68e2b181",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 29,
+  "innovative": "Yes",
+  "n_approaches": 4,
+  "approaches": [
+    {
+      "approach_id": "P513127-A1",
+      "project_id": "P513127",
+      "name": "Ministry-wide MIS digitalizing permitting and operational processes",
+      "description": "Project rolls out a ministry-wide Management Information System to digitize MoPWRH permitting and operational processes.",
+      "why_innovative": "New service: digital permitting and operations in roads ministry - cue: 'digitalization of' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099041526142037412",
+        "doc_type": "PAD",
+        "doc_date": "2026-04-13",
+        "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+        "char_start": 81418,
+        "char_end": 81741,
+        "text": "Within the MoPWRH, the Project will carry ongoing capacity building activities in World Bank-financed SHIIP and SURP II projects forward, such as the development of an Axle Load law and rollout of a ministry wide Management Information System to allow for the digitalization of several permitting and operational processes.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the MIS platform is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Transportation",
+        "code": "",
+        "confidence": null,
+        "rationale": "Ministry-wide MIS digitizes permitting and operational processes, a public administration function in transport.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: ministry-wide MIS | Innovative: digitizes permitting workflows | Category: management information system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: digital permitting and operations in roads ministry - cue: 'digitalization of'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P513127-A2",
+      "project_id": "P513127",
+      "name": "ADS-B/VSAT ground surveillance for Somali airspace",
+      "description": "Project supplies, installs and commissions ADS-B/VSAT surveillance to improve air traffic control visibility.",
+      "why_innovative": "New service: satellite-linked aircraft surveillance network - cue: 'supply, install, integrate' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099041526142037412",
+        "doc_type": "PAD",
+        "doc_date": "2026-04-13",
+        "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+        "char_start": 84773,
+        "char_end": 84951,
+        "text": "The Project will supply, install, integrate, commission, and provide technical support for Automatic Dependent Surveillance – Broadcast/Very Small Aperture Terminal (ADS-B/VSAT).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099041526142037412",
+          "doc_type": "PAD",
+          "doc_date": "2026-04-13",
+          "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+          "char_start": 84952,
+          "char_end": 85147,
+          "text": "ADS-B (1090 Megahertz Mode S Extended Squitter) ground surveillance system will enhance air traffic control and improve visibility of commercial and private aircraft operating in Somali airspace.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: surveillance system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Aviation",
+        "code": "",
+        "confidence": null,
+        "rationale": "ADS-B/VSAT surveillance directly serves air traffic control and aviation safety.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: ADS-B/VSAT surveillance | Innovative: first national airspace surveillance | Category: sensor/connectivity system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: satellite-linked aircraft surveillance network - cue: 'supply, install, integrate'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P513127-A3",
+      "project_id": "P513127",
+      "name": "FundsChain platform integrated with SFMIS for fund traceability",
+      "description": "Project adopts FundsChain, integrated with SFMIS payment flows, to track funds and fixed assets end-to-end.",
+      "why_innovative": "New process: blockchain-style fund and asset traceability platform - cue: 'traceability' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099041526142037412",
+        "doc_type": "PAD",
+        "doc_date": "2026-04-13",
+        "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+        "char_start": 102734,
+        "char_end": 102872,
+        "text": "This project will adopt the FundsChain platform to enhance transparency, traceability, and efficiency in the Project financial management.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099041526142037412",
+          "doc_type": "PAD",
+          "doc_date": "2026-04-13",
+          "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+          "char_start": 102873,
+          "char_end": 103031,
+          "text": "FundsChain will be integrated with Somalia Financial Information Management System (SFMIS), using payment flows alongside FundsChain's reporting capabilities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099041526142037412",
+          "doc_type": "PAD",
+          "doc_date": "2026-04-13",
+          "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+          "char_start": 103032,
+          "char_end": 103237,
+          "text": "In addition, the platform will be used to track built and procured fixed assets, enhancing the expenditure reporting and end-to-end traceability of project resources within the three implementing entities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: changes how project funds and assets are tracked",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other - Transportation",
+        "code": "",
+        "confidence": null,
+        "rationale": "FundsChain traceability supports overall transport project financial management, fitting the broad Other - Transportation category.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: FundsChain linked to SFMIS | Innovative: end-to-end asset and payment traceability | Category: financial traceability platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: blockchain-style fund and asset traceability platform - cue: 'traceability'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P513127-A4",
+      "project_id": "P513127",
+      "name": "SPARC geospatial parcel-level AI platform for infrastructure prioritization",
+      "description": "Explores deploying SPARC satellite-imagery and AI service for risk-informed spatial analysis and investment sequencing",
+      "why_innovative": "New service: AI satellite parcel-level planning atlas - cue: 'explore the deployment' | category Technological; adoption prospect; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099041526142037412",
+        "doc_type": "PAD",
+        "doc_date": "2026-04-13",
+        "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+        "char_start": 50062,
+        "char_end": 50370,
+        "text": "As part of this effort, the subcomponent will explore the deployment of the World Bank’s Smart Parcel Atlas for Resilient Cities (SPARC), to strengthen risk informed spatial analysis, infrastructure prioritization, and investment sequencing for subsequent phases.12 (ii) Integrating Disaster Risk Management.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099041526142037412",
+          "doc_type": "PAD",
+          "doc_date": "2026-04-13",
+          "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+          "char_start": 50546,
+          "char_end": 51033,
+          "text": "It will support refinement and operationalization of the country’s Disaster Risk Financing strategy and improve key disaster risk management capacities across selected federal member states and 12SPARC is a geospatial, parcel-level intelligence service that uses high-resolution satellite imagery, Artificial Intelligence, and global datasets— combined with local government data—to support land use and infrastructure planning, risk-informed urban development, and investment targeting.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: satellite imagery and AI are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Urban Transport",
+        "code": "",
+        "confidence": null,
+        "rationale": "Geospatial AI platform prioritizes transport infrastructure investments, aligning with the dominant Urban Transport practice.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "mentioned_only",
+      "adoption": {
+        "value": "prospect",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SPARC satellite/AI parcel atlas | Innovative: parcel-level AI planning rare in MDB ops | Category: remote sensing/AI tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: AI satellite parcel-level planning atlas - cue: 'explore the deployment'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P513127",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "guid": "099041526142037412",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:39:37Z",
+      "ended_at": "2026-11-07T03:39:38Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 4 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:38Z",
+      "ended_at": "2026-11-07T03:39:38Z",
+      "status": "ok",
+      "note": "in scope (approved 2026-05-05, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:38Z",
+      "ended_at": "2026-11-07T03:39:39Z",
+      "status": "ok",
+      "note": "29 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 29,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 5,
+          "results_based_management": 3,
+          "innovation_cycle": 7,
+          "innovation_types": 7,
+          "public_good": 2,
+          "innovation": 2,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:39Z",
+      "ended_at": "2026-11-07T03:39:39Z",
+      "status": "ok",
+      "note": "PAD 2026-04-13 (P513127_PAD_2026-04-13_099041526142037412.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P513127",
+            "doc_type": "PAD",
+            "doc_date": "2026-04-13",
+            "guid": "099041526142037412",
+            "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:39Z",
+      "ended_at": "2026-11-07T03:39:39Z",
+      "status": "ok",
+      "note": "111 reading units (4 numbered paragraphs) from 809 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 111
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:39Z",
+      "ended_at": "2026-11-07T03:39:40Z",
+      "status": "ok",
+      "note": "70 of 111 units carry a digital / AI cue (20 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 70,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 20
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:40Z",
+      "ended_at": "2026-11-07T03:39:45Z",
+      "status": "ok",
+      "note": "7 candidate practices from 70 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 215533,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1360,
+          "cached_tokens": 43392,
+          "cache_write_tokens": 0,
+          "output_tokens": 2121,
+          "seconds": 17.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0032
+        },
+        "extracted": 7
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:45Z",
+      "ended_at": "2026-11-07T03:39:50Z",
+      "status": "ok",
+      "note": "4 accepted, 3 rejected (not_innovative 2, not_digital 1); 2 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 111966,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 15989,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 645,
+          "seconds": 5.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0056
+        },
+        "accepted": 4,
+        "rejected": 3,
+        "expanded": 2,
+        "reject_codes": {
+          "not_innovative": 2,
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:39:50Z",
+      "ended_at": "2026-11-07T03:39:53Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1521,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 353,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 163,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:39:53Z",
+      "ended_at": "2026-11-07T03:39:53Z",
+      "status": "ok",
+      "note": "4 approaches -> 4 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:39:53Z",
+      "ended_at": "2026-11-07T03:39:55Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 4 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8470,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1008,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 264,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:39:55Z",
+      "ended_at": "2026-11-07T03:39:55Z",
+      "status": "ok",
+      "note": "4 approaches (3 applied), 8 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:39:55Z",
+      "ended_at": "2026-11-07T03:39:55Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 300
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P513127-A1-E1",
+      "approach_id": "P513127-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 458,
+      "char_start": 81418,
+      "char_end": 81741,
+      "sentence": "Within the MoPWRH, the Project will carry ongoing capacity building activities in World Bank-financed SHIIP and SURP II projects forward, such as the development of an Axle Load law and rollout of a ministry wide Management Information System to allow for the digitalization of several permitting and operational processes.",
+      "practice": "Ministry-wide MIS digitalizing permitting and operational processes",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: ministry-wide MIS | Not routine: digitizes permitting workflows | Adoption: 'will carry forward'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ministry-wide MIS | Innovative: digitizes permitting workflows | Category: management information system",
+      "keywords_hit": "digitalization of;information system;management information system;upskill",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital permitting and operations in roads ministry - cue: 'digitalization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A2-E1",
+      "approach_id": "P513127-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 479,
+      "char_start": 84773,
+      "char_end": 84951,
+      "sentence": "The Project will supply, install, integrate, commission, and provide technical support for Automatic Dependent Surveillance – Broadcast/Very Small Aperture Terminal (ADS-B/VSAT).",
+      "practice": "ADS-B/VSAT ground surveillance for Somali airspace",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Aviation",
+      "extractor_reason": "Digital core: ADS-B/VSAT surveillance system | Not routine: first national airspace surveillance | Adoption: 'will supply, install'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ADS-B/VSAT surveillance | Innovative: first national airspace surveillance | Category: sensor/connectivity system",
+      "keywords_hit": "conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New service: satellite-linked aircraft surveillance network - cue: 'supply, install, integrate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A2-E2",
+      "approach_id": "P513127-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 480,
+      "char_start": 84952,
+      "char_end": 85147,
+      "sentence": "ADS-B (1090 Megahertz Mode S Extended Squitter) ground surveillance system will enhance air traffic control and improve visibility of commercial and private aircraft operating in Somali airspace.",
+      "practice": "ADS-B/VSAT ground surveillance for Somali airspace",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Aviation",
+      "extractor_reason": "Digital core: ADS-B/VSAT surveillance system | Not routine: first national airspace surveillance | Adoption: 'will supply, install'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: ADS-B/VSAT surveillance | Innovative: first national airspace surveillance | Category: sensor/connectivity system",
+      "keywords_hit": "conflict",
+      "innovation_cues": "",
+      "innovation_basis": "New service: satellite-linked aircraft surveillance network - cue: 'supply, install, integrate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A3-E1",
+      "approach_id": "P513127-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 591,
+      "char_start": 102734,
+      "char_end": 102872,
+      "sentence": "This project will adopt the FundsChain platform to enhance transparency, traceability, and efficiency in the Project financial management.",
+      "practice": "FundsChain platform integrated with SFMIS for fund traceability",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Other - Transportation",
+      "extractor_reason": "Digital core: FundsChain linked to SFMIS | Not routine: end-to-end asset and payment traceability | Adoption: 'will adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: FundsChain linked to SFMIS | Innovative: end-to-end asset and payment traceability | Category: financial traceability platform",
+      "keywords_hit": "traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: blockchain-style fund and asset traceability platform - cue: 'traceability'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A3-E2",
+      "approach_id": "P513127-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 592,
+      "char_start": 102873,
+      "char_end": 103031,
+      "sentence": "FundsChain will be integrated with Somalia Financial Information Management System (SFMIS), using payment flows alongside FundsChain's reporting capabilities.",
+      "practice": "FundsChain platform integrated with SFMIS for fund traceability",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Other - Transportation",
+      "extractor_reason": "Digital core: FundsChain linked to SFMIS | Not routine: end-to-end asset and payment traceability | Adoption: 'will adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: FundsChain linked to SFMIS | Innovative: end-to-end asset and payment traceability | Category: financial traceability platform",
+      "keywords_hit": "traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: blockchain-style fund and asset traceability platform - cue: 'traceability'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A3-E3",
+      "approach_id": "P513127-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 593,
+      "char_start": 103032,
+      "char_end": 103237,
+      "sentence": "In addition, the platform will be used to track built and procured fixed assets, enhancing the expenditure reporting and end-to-end traceability of project resources within the three implementing entities.",
+      "practice": "FundsChain platform integrated with SFMIS for fund traceability",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Other - Transportation",
+      "extractor_reason": "Digital core: FundsChain linked to SFMIS | Not routine: end-to-end asset and payment traceability | Adoption: 'will adopt'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: FundsChain linked to SFMIS | Innovative: end-to-end asset and payment traceability | Category: financial traceability platform",
+      "keywords_hit": "traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: blockchain-style fund and asset traceability platform - cue: 'traceability'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A4-E1",
+      "approach_id": "P513127-A4",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 271,
+      "char_start": 50062,
+      "char_end": 50370,
+      "sentence": "As part of this effort, the subcomponent will explore the deployment of the World Bank’s Smart Parcel Atlas for Resilient Cities (SPARC), to strengthen risk informed spatial analysis, infrastructure prioritization, and investment sequencing for subsequent phases.12 (ii) Integrating Disaster Risk Management.",
+      "practice": "SPARC geospatial parcel-level AI platform for infrastructure prioritization",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: SPARC satellite/AI parcel atlas | Not routine: parcel-level AI planning rare in MDB ops | Adoption: 'will explore the deployment'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPARC satellite/AI parcel atlas | Innovative: parcel-level AI planning rare in MDB ops | Category: remote sensing/AI tool",
+      "keywords_hit": "artificial intelligence;geospatial;mapping;satellite imagery;artificial-intelligence",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI satellite parcel-level planning atlas - cue: 'explore the deployment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    },
+    {
+      "row_id": "P513127-A4-E2",
+      "approach_id": "P513127-A4",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P513127",
+      "doc_id": "099041526142037412",
+      "doc_type": "PAD",
+      "doc_date": "2026-04-13",
+      "file_name": "P513127_PAD_2026-04-13_099041526142037412.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 273,
+      "char_start": 50546,
+      "char_end": 51033,
+      "sentence": "It will support refinement and operationalization of the country’s Disaster Risk Financing strategy and improve key disaster risk management capacities across selected federal member states and 12SPARC is a geospatial, parcel-level intelligence service that uses high-resolution satellite imagery, Artificial Intelligence, and global datasets— combined with local government data—to support land use and infrastructure planning, risk-informed urban development, and investment targeting.",
+      "practice": "SPARC geospatial parcel-level AI platform for infrastructure prioritization",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: SPARC satellite/AI parcel atlas | Not routine: parcel-level AI planning rare in MDB ops | Adoption: 'will explore the deployment'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SPARC satellite/AI parcel atlas | Innovative: parcel-level AI planning rare in MDB ops | Category: remote sensing/AI tool",
+      "keywords_hit": "artificial intelligence;geospatial;mapping;satellite imagery;artificial-intelligence",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI satellite parcel-level planning atlas - cue: 'explore the deployment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "da728f74"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099041526142037412",
+      "doc_type": "PAD",
+      "position": 259,
+      "char_start": 47738,
+      "char_end": 48051,
+      "sentence": "Technical assistance supporting the MoTCA in strengthening its capacity for oversight of the sector, including (a) preparation of a MoTCA five-year strategic plan, (b) design of digital systems architecture to support drivers licensing and vehicle registration, and (c) preparation of a civil aviation masterplan.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital systems architecture design for driver licensing and vehicle registration",
+      "reason": "reject: TA study designing licensing/vehicle registration system architecture; no system built, routine institutional TA",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: digital architecture for licensing and vehicle registration - cue: 'digital systems'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Only 'design of digital systems architecture' named; unclear what system is built or whether financed as activity",
+          "reject_code": "",
+          "context_chars": 1213
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "TA study designing licensing/vehicle registration system architecture; no system built, routine institutional TA",
+          "reject_code": "not_innovative",
+          "context_chars": 9169
+        }
+      ]
+    },
+    {
+      "guid": "099041526142037412",
+      "doc_type": "PAD",
+      "position": 392,
+      "char_start": 69886,
+      "char_end": 69995,
+      "sentence": "A multicriteria analysis was developed as a decision-making tool to evaluate and prioritize project airports.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Multicriteria analysis tool to prioritize project airports",
+      "reason": "reject: Multicriteria scoring framework, no digital system or data tool doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: multi-criteria airport prioritization agreed across federal and state - cue: 'decision-making tool'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Multicriteria scoring framework, no digital system or data tool doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1555
+        }
+      ]
+    },
+    {
+      "guid": "099041526142037412",
+      "doc_type": "PAD",
+      "position": 514,
+      "char_start": 89972,
+      "char_end": 90106,
+      "sentence": "Airport meteorological stations will contribute to advance detection and historical data to monitor and manage extreme weather events.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "airport meteorological stations for extreme weather monitoring",
+      "reason": "reject: Standard airport meteorological stations; routine airfield equipment, no novel digital practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: airport weather monitoring data for hazard management - cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether stations are financed by this project or standard airfield equipment; no detail on data system",
+          "reject_code": "",
+          "context_chars": 1297
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Standard airport meteorological stations; routine airfield equipment, no novel digital practice",
+          "reject_code": "not_innovative",
+          "context_chars": 57870
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 18710,
+    "cached_tokens": 49536,
+    "cache_write_tokens": 0,
+    "output_tokens": 3193,
+    "seconds": 26.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0097
+  }
+}

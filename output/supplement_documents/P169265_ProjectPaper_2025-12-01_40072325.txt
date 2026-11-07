@@ -1,0 +1,1531 @@
+                                                         $
+                                                                                        Report No: RES01317
+
+                                           RESTRUCTURING PAPER
+                                                     ON A
+                                     PROPOSED PROJECT RESTRUCTURING
+                                                         OF
+
+
+                      HARMONIZING AND IMPROVING STATISTICS IN WEST AFRICA
+                                       APPROVED ON 26-MARCH-2020
+
+                                                         TO
+
+         AFRICAN UNION, ECONOMIC COMMUNITY OF WEST AFRICAN STATES, BURKINA FASO,
+           REPUBLIC OF CABO VERDE, REPUBLIC OF COTE D'IVOIRE, AND REPUBLIC OF TOGO
+
+
+
+                                             November 25, 2025
+
+
+
+
+Poverty and Equity Global Practice
+Western and Central Africa Region
+
+                              Regional Vice President:       Ousmane Diagana
+                                    Regional Director:       Abebe Adugna Dadi
+                 Acting Regional Integration Director:       Marina Wes
+                                    Practice Manager:        Johan A. Mistiaen
+                                   Task Team Leaders:        Aboudrahyme Savadogo, Gervais Chamberlin
+                                                             Yama, Senait Kassa Yifru, Djibril Ndoye,
+                                                             Abdoullahi Beidou, Felicien Donat Edgar
+                                                             Towenan Accrombessy
+
+
+
+
+                                                                                                        Official Use Only
+The World Bank
+Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                 ABBREVIATIONS AND ACRONYMS
+
+
+
+    AF                  Additional Financing
+    AFRISTAT            Economic and Statistical Observatory for Sub-Saharan Africa
+                        (Observatoire Économique et Statistique d’Afrique Subsaharienne)
+    AU                  African Union
+    CAPI                Computer-Assisted Personal Interviewing
+    CD                  Country Director
+    CMU                 Country Management Unit
+    COVID-19            Coronavirus Disease
+    CPI                 Consumer Price Index
+    DDO                 Deferred Drawdown Option
+    DGESS               General Directorate of Sectoral Studies and Statistics (Direction
+                        Generale des Etudes et des Statistiques Sectorielles)
+    DNP/ MF             National Planning Directorate (Direction Nationale de la
+                        Planification/Ministere des Finances)
+    E&S                 Environment and Social
+    ECOWAS              Economic Community of West African States
+    EHCVM               Harmonized Household Living Conditions Survey (Enquête Harmonisée
+                        sur les Conditions de Vie des Ménages)
+    ESF                 Environmental and Social Framework
+    FA                  Financing Agreement
+    FM                  Financial Management
+    GDP                 Gross Domestic Product
+    GRM                 Grievance Redress Mechanism
+    GSS                 Ghana Statistical Service
+    HIES                Household Income and Expenditure Survey
+    HISWA               Harmonizing and Improving Statistics in West Africa
+    ICI                 Institutional Capacity Index
+    ICT                 Information and Communication Technology
+    IDA                 International Development Association
+    IFRs                Interim Financial Reports
+    IMF                 International Monetary Fund
+    INE                 Cabo Verde National Institute of Statistics
+    INSD                Burkina Faso Institut National de la Statistique et de la Démographie
+    INSEED              Togo Institut National de la Statistique et des Etudes Economiques et
+                        Démographiques
+    IP                  Implementation Progress
+    IPF                 Investment Project Financing
+    IT                  Information Technology
+
+
+
+
+                                                                                                Official Use Only
+The World Bank
+Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+    LFS                 Labor Force Survey
+    LISGIS              Liberia Institute of Statistics and Geo-Information Services
+    M&E                 Monitoring & Evaluation
+    MDAs                Ministries, Departments, and Agencies
+    MFD-EP              Maximizing Finance for Development - Enabling Project
+    MICS                Multi Indicators Cluster Survey
+    MSEs                Micro and Small Enterprises
+    NSO                 National Statistics Office
+    NSS                 National Statistical System
+    PCE                 Private Capital Enabling
+    PDO / DO            Project Development Objective/Development Objective
+    PPA                 Project Preparation Advance
+    RCC                 Regional Coordination Committee
+    RGPH                Population and Housing Census (Recensement Général de la Population
+                        et de l'Habitat)(
+    RI                  Regional Integration
+    SCI                 Statistical Capacity Index
+    SLIHS               Sierra Leone Living Household Survey
+    SMEs                Small and Medium Enterprises
+    SNA                 System of National Account
+    Stats SL            Statistics Sierra Leone
+    WAEMU               West African Economic and Monetary Union
+
+
+
+
+                                                                                              Official Use Only
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+@#&OPS~Doctype~OPS^dynamics@restrhybridbasicdata#doctemplate
+
+BASIC DATA
+
+Product Information
+
+Operation ID                                                    Operation Name
+P169265                                                          Harmonizing and Improving Statistics in West Africa
+
+Product/Financing Instrument                                     Geographical Identifier
+
+Investment Project Financing (IPF)                               Western and Central Africa
+
+Approval Date                                                    Current Closing Date
+
+26-Mar-2020                                                     31-Dec-2026
+
+Original EA Category
+
+Partial Assessment (B) (PAD Approval Package-26 Mar 2020)
+
+
+
+
+Organizations
+Borrower                                                        Responsible Agency
+                                                                Burkina Faso Institut National de la Statistique et de la
+                                                                Démographie (INSD), Cabo Verde National Institute of Statistics
+African Union Commission, Burkina Faso, Economic
+                                                                (INE) and the National Planning Directorate (DNP/ MF), Cote
+Community of West African States, Republic of Cabo
+                                                                d'Ivoire National Statistics Agency (Agence nationale de la
+Verde, Republic of Cote d'Ivoire, Republic of Ghana,
+                                                                statistique), Ghana Statistical Service, Liberia Institute of
+Republic of Liberia, Republic of Sierra Leone, Republic of
+                                                                Statistics and Geo-Information Services (LISGIS), Statistics Sierra
+Togo
+                                                                Leone (Stats SL), Togo Institut National de la Statistique et des
+                                                                Etudes Economiques et Démographiques (INSEED)
+@#&OPS~Doctype~OPS^dynamics@restrhybridoperationstatus#doctemplate
+OPERATION STATUS
+
+Project Development Objective (DO)
+
+Original Development Objective
+Strengthen the statistical systems of participating countries and regional bodies in Africa to harmonize, produce,
+disseminate and enhance the use of core economic and social statistics.
+
+                                            Official Use Only                                                                     i
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+Disbursement Summary (in USD million)
+
+      Source of Funds          Net Commitment                Disbursed        Undisbursed        % Disbursed
+
+IBRD                                              --                     --                 --                  0
+
+IDA                                         397.64                  354.57             40.28             89.80
+
+Grants                                            --                     --                 --                  0
+
+Policy Waivers
+Does this restructuring trigger the need for any policy
+waiver(s)?                                                                                                     No
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+@#&OPS~Doctype~OPS^dynamics@restrhybridmpa#doctemplate
+
+
+
+
+                                         Official Use Only                                                      ii
+            The World Bank
+            Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                                                         TABLE OF CONTENTS
+
+
+   I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING ........................................................................................1
+Introduction .......................................................................................................................................................................1
+       A.      Project Description and Status...................................................................................................................................1
+       B.      Project Status .............................................................................................................................................................2
+       C.      Rational for Restructuring ..........................................................................................................................................8
+   II. DESCRIPTION OF PROPOSED CHANGES ....................................................................................................................8
+   III. PROPOSED CHANGES ..............................................................................................................................................11
+   IV. DETAILED CHANGE(S) .............................................................................................................................................12
+
+
+
+
+                                                               Official Use Only
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+
+Introduction
+
+1.     This Restructuring Paper seeks Management’s approval for a Level 2 restructuring of the Harmonizing and
+Improving Statistics in West Africa Project (HISWA) (P169265), as outlined in Section II below.
+
+A. Project Description and Status
+
+    Project Description
+
+2.       The Harmonizing and Improving Statistics in West Africa project was approved by the World Bank Executive
+Directors on March 26, 2020, with a total financing amount of US$379.0 million equivalent. The project includes seven
+participating countries, namely, Burkina Faso (IDA Credit 65730 - US$30.0 million and IDA Grant D5810 - US$30.0 million),
+Cabo Verde (IDA Credit 65740 - US$15.0 million), Cote d’Ivoire (IDA Credit 65750 - US$54.0 million), Ghana (IDA Credit
+65760 - US$150.0 million), Liberia (IDA Credit 65770 - US$15.0 million and IDA Grant D5830 - US$15.0 million), Sierra
+Leone (IDA Grant D5840 - US$30.0 million) and Togo (IDA Credit 65780 - US$15.0 million and IDA Grant D5850 - US$15.0
+million); as well as two regional organizations, namely, the African Union (AU) (IDA Grant D5880 - US$2.50 million) and
+the Economic Community of West African States (ECOWAS) (IDA Grant D5820 - US$7.50 million). Following the first and
+second Additional Financings (AFs), the total project financing amount has increased to US$394.80 million equivalent.
+
+3.       The first Level 2 project restructuring of the project was approved by the World Bank Regional Integration
+Director for Africa and the Middle East on December 20, 2024. The restructuring focused on revising the results
+framework by: (i) removing PDO-level Indicator 2—the share of beneficiary countries (National Statistical Offices) scoring
+at least 30 out of 50 on the Institutional Capacity Index (ICI)—as it was not implemented across all participating countries
+and proved difficult to measure at an aggregate level; and (ii) correcting data entry errors in the aggregate baseline and
+end-target values for three other PDO-level indicators.
+
+4.     First and Second AFs: To cover cost overruns affecting key statistical activities under Components 1 and 3, two
+AFs were approved in June 2025. These AFs also included a restructuring of the parent project, extending the closing date
+from December 31, 2025, to December 31, 2026, for Sierra Leone, Côte d’Ivoire, Ghana, and Liberia.
+
+        • The first AF, approved on June 16, 2025, totaled US$9.60 million (US$6.0 million for Côte d’Ivoire and
+        US$3.60 million for Sierra Leone). The Sierra Leone AF prioritized completing the Sierra Leone Living Household
+        Survey (SLIHS), modernizing the Consumer Price Index (CPI), updating national accounts, and constructing the
+        Statistics Sierra Leone headquarters. Meanwhile, the Côte d’Ivoire AF focused on sustaining and finalizing critical
+        activities, including: (i) the Harmonized Household Survey (EHCVM); (ii) CPI modernization; and (iii) improvements
+        to economic statistics, particularly national accounts.
+
+        • The second AF, approved on June 30, 2025, totaled US$6.20 million (US$3.0 million for Ghana and US$3.20
+        million for Liberia). The Ghana AF addresses cost overruns and supports completion of key statistical activities
+        under the HISWA Project, including: (i) the Ghana Living Standards Survey Round 8; (ii) National Accounts rebasing;
+        (iii) CPI rebasing; and (iv) the quarterly Labor Force Survey—critical for achieving the Project Development
+        Objective (PDO) and closing data gaps in poverty, labor, and economic statistics. The Liberia AF similarly covers
+        cost overruns to advance the Household Income and Expenditure Survey (HIES), Labor Force Survey (LFS), CPI
+        expansion, improvements in economic statistics, and institutional capacity building.
+
+                                            Official Use Only                                                       Page 1
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+5.      The Project Development Objective is to strengthen the statistical systems of participating countries and regional
+bodies in Africa to harmonize, produce, disseminate, and enhance the use of core economic and social statistics.
+
+6.       The project is designed to address critical data gaps by harmonizing, producing, disseminating, and promoting
+the use of essential economic and social statistics. Its objective is to strengthen the statistical capacity of participating
+countries, enabling their National Statistical Systems (NSS) to effectively meet user needs and generate more comparable
+data to support informed decision-making. In addition, the project advances the modernization of statistical
+methodologies, organizational structures, physical infrastructure, and Information and Communication Technology (ICT)
+within National Statistics Offices (NSOs) and relevant Ministries, Departments, and Agencies (MDAs), thereby enhancing
+their efficiency and effectiveness in fulfilling their mandates.
+
+7.      Structure of the Parent project and the AFs:
+
+        Component 1: Regional Component: Harmonization, Data Collection, Quality Improvement, Dissemination and
+        Use of Core Social and Economic Statistics (US$348.21 million equivalent). This component focuses on promoting
+        harmonized methodologies, producing core economic and social statistics, strengthening administrative data
+        systems, delivering training on methodological innovations, building human resource capacity, and enhancing the
+        quality and timeliness of statistical outputs.
+
+        Component 2: Country-Specific Component – Improving or Modernizing Physical and Statistical Infrastructure
+        (US$27.79 million equivalent). This component targets the specific constraints and priorities of each participating
+        NSO through tailored interventions in physical, technological, and statistical infrastructure. It also includes
+        initiatives to strengthen human capacity and improve legal and regulatory frameworks, ensuring that each NSO
+        has the foundational capabilities required to effectively implement activities under Component 1.
+
+        Component 3: Project Management and Monitoring and Evaluation (US$18.8 million equivalent). This
+        component ensures effective project management and outcome monitoring across participating countries and
+        regional organizations. It supports the efficient execution of activities, with NSOs serving as implementing
+        agencies responsible for technical oversight and coordination. Each country’s project management team handles
+        implementation, reporting, auditing, environmental and social safeguards, and compliance with fiduciary policies.
+        Specifically, this component covers costs for project staff, coordination (including steering committee operations),
+        general operating expenses, and other essential expenditures.
+
+B. Project Status
+
+8.       The project is currently being implemented across all seven participating countries and two regional
+organizations. Official implementation of the parent project began on July 13, 2020, when the Ghana Financing Agreement
+became effective. Recent developments include the effectiveness of the Additional Financing Agreements for Sierra Leone
+(September 12, 2025) and Côte d’Ivoire (October 1, 2025). The Additional Financing Agreement for Liberia, signed on
+August 18, 2025, is still pending effectiveness, while the Ghana Additional Financing Agreement is awaiting client
+signature. The ratings for both the Project Development Objective (PDO) and overall implementation progress (IP) are
+Satisfactory, reflecting that most project activities are on track to achieve the PDO.
+
+9.     Out of the six PDO-level indicators, five have exceeded the end target value at the aggregate level and the
+remaining one (user satisfaction index) is progressing well and expected to be met before the proposed new project
+
+
+                                            Official Use Only                                                        Page 2
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+closing dates. Country-level implementation progress remains on track to be achieved by the proposed new project closing
+dates.
+         PDO indicator 1: Modified Statistical Capacity Index (SCI 2.0): Actual value: 75.37 percent vs. End target: 71.43
+         percent. All countries except Liberia and Cabo Verde have achieved their target. The actual value for Liberia is
+         62.20 percent compared to the end target value of 65 percent and Cabo Verde is 61.33 percent compared to the
+         end target value of 70 percent. Both countries are on track to achieve their end target.
+
+        PDO Indicator 2: Share of comparable core economic and social statistics indicators produced and available for
+        open access: Actual value: 79.43 percent compared to the end target value of 50 percent. All participating
+        countries have achieved their target.
+
+        PDO Indicator 3: Share of comparable core economic and social statistics datasets produced and available for
+        open access: Actual value: 57.14 percent compared to the end target value of 50 percent. Sierra Leone and Cabo
+        Verde have not yet met the target but are on track.
+
+        PDO Indicator 4: Share of statistical products produced and published by the National Statistics Office (NSO)
+        following international standards and a predetermined release calendar: Actual value: 76.29 percent compared
+        to end target value of 62.29 percent. Togo and Côte d’Ivoire have not yet met their target but are on track.
+
+        PDO Indicator 5: Share of countries that produce and disseminate at least two analytical reports using survey,
+        macro, or administrative data: Actual value: 100 percent compared to end target value of 100 percent. All
+        participating countries have fully achieved their target.
+
+        PDO Indicator 6: Increase in user satisfaction index: Actual value: 6.23 percent compared to end target value of
+        10%. Cabo Verde and Burkina Faso have achieved the target; Ghana, Côte d’Ivoire, Togo, Sierra Leone, and Liberia
+        are on track.
+
+10.      Intermediate-Level Indicators: Six out of nine intermediate-level indicators were fully achieved at the aggregate
+level, with the remaining three on track to be achieved. The project has made notable progress in strengthening statistical
+systems, enhancing data quality, and harmonizing methodologies across the participating countries.
+
+11.     Disbursements: Overall disbursements currently stand at US$354.57 million, or 89.8 percent with some variations
+across the participating countries and regional organizations: (i) 99.9 percent for African Union; (ii) 85.4 percent for
+ECOWAS; (iii) 89.35 percent in Burkina Faso; (iv) 76.4 percent in Cabo Verde; (v) 94.3 percent in Cote d’Ivoire; (vi) 93.1
+percent in Ghana; (vii) 93.5 percent in Liberia; (viii) 99.9 percent in Sierra Leone; and (ix) 78.0 percent in Togo.
+
+12.      Project Implementation Progress by Subcomponents. The HISWA project, including its AFs, is structured into
+three main components, each with defined subcomponents and financing allocations. The implementation progress is
+tracked at both component and subcomponent levels to reflect country-specific activities and regional coordination
+efforts.
+
+        Component 1: Regional Component: Harmonization, Data Collection, Quality Improvement, Dissemination and
+        Use of Core Social and Economic Statistics (US$348.21 million)
+
+        Subcomponent 1.1. Support implementation of the SHaSA2 initiative by the African Union, support production
+        of harmonized methodologies by the ECOWAS Commission, and improve data access at the regional level
+        (US$8.00 million equivalent): This subcomponent has supported the NSOs in developing and adopting
+
+                                           Official Use Only                                                        Page 3
+ The World Bank
+ Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+harmonized methodologies aligned with international standards for multitopic living standards household
+surveys, national accounts, and key basic statistics, all within a coordinated framework with the regional
+organizations, such as AU/STATAFRIC and ECOWAS.
+
+Subcomponent 1.2. Support of Household-Based Surveys at the National Level Using Harmonized
+Methodologies (US$168.64 million equivalent): This subcomponent supports the production of core social
+statistics in the seven participating countries through population censuses and living standards household surveys,
+including multi-topic surveys to measure poverty and labor force surveys to analyze employment barriers. It has
+facilitated major surveys and censuses, prioritized the adoption of ECOWAS standards, and aimed to improve data
+on gender, disability, and resilience to shocks such as climate change. Additional efforts include regular labor
+market analysis, enterprise surveys, and coordination with demographic and health surveys. Ongoing key activities
+include the harmonized household survey, demographic and health survey/Multi-Indicator Cluster Survey (MICS),
+and the labor force survey system.
+
+Subcomponent 1.3. Support to the Core Set of Economic Statistics at the National Level Using Harmonized
+Methodologies (US$88.26 million equivalent): This subcomponent focuses on improving the quality of enterprise
+and agricultural statistics to strengthen national accounts and support the adoption of the System of National
+Account (SNA) 2008 standard across all participating countries. Key activities include: (i) establishing a robust
+enterprise statistics system using surveys and administrative data, clarifying formal and informal sector
+definitions, and enhancing data collection methods and coverage; (ii) implementing comprehensive agricultural
+statistics systems through censuses and surveys, leveraging international methodologies to close data gaps and
+promote climate-smart agriculture; and (iii) modernizing national accounts in collaboration with international
+organizations by updating base years, providing software, and delivering technical assistance. These efforts,
+backed by substantial funding and technical support, aim to align with international standards and build statistical
+capacity in the region. Nearly all activities under this subcomponent have been completed. Critical data sources
+such as the business establishment census, agricultural surveys and census, and the producer price index are
+either finalized and published or in progress. The rebasing of national accounts has been completed or is underway
+in all participating countries.
+
+Subcomponent 1.4. Support the Modernization of the Consumer Price Index (CPI) at the National Level Using
+Harmonized Methodologies (US$6.94 million equivalent): This subcomponent focuses on improving the quality
+and timeliness of the CPI across participating countries, in collaboration with the International Monetary Fund
+(IMF), the West African Economic and Monetary Union (WAEMU), and AFRISTAT. Key actions include updating CPI
+methodologies to align with international standards, adopting more recent base years, expanding geographic
+coverage beyond major cities, and financing enhanced price data collection often using Computer-Assisted
+Personal Interviewing (CAPI). ECOWAS supports software selection and engages both international and regional
+price experts. The objective is to deliver a harmonized, integrated national CPI series published monthly on NSO
+websites. Progress toward this goal is strong: the transition from paper-based to CAPI-based price data collection
+is underway, and CPI continues to be published consistently monthly across all participating countries.
+
+Subcomponent 1.5. Support the Improvement of Administrative Data Sources (US$34.09 million equivalent):
+This subcomponent has strengthened the production of administrative statistics through targeted training and
+the provision of essential equipment, such as tablets, computers, and laptops. Implementation of these activities
+is progressing well across all participating countries.
+
+Subcomponent 1.6. Enhancing the Use of Big Data (US$7.53 million equivalent): This subcomponent has driven
+innovation within NSOs by diversifying data sources and establishing innovation centers. These initiatives have
+
+                                   Official Use Only                                                        Page 4
+ The World Bank
+ Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+modernized statistical processes, enhanced data production, and improved census operations and data quality
+across participating countries. Additionally, the adoption of varied data collection methods has enabled the
+creation of more innovative and timely statistics.
+
+Subcomponent 1.7. Enhanced Data Accessibility and Dissemination (US$4.45 million equivalent): This
+subcomponent has greatly improved data accessibility and dissemination in participating countries. Key
+achievements include redesigning NSO websites, creating national databases, and developing applications that
+enable users to download statistics in user-friendly formats. While the initial phase of these activities has been
+completed, ongoing efforts focus on keeping websites updated and responsive to user needs.
+
+Subcomponent 1.8. Support Institutional Reforms and Enhance Human Capital (US$30.30 million equivalent):
+This subcomponent has supported critical institutional reforms to strengthen national statistical systems. Key
+activities include updating legal frameworks, improving financing mechanisms, revising organizational structures,
+and enhancing performance management. In parallel, it has advanced human capital development through formal
+academic programs in statistics and continuing education initiatives. In several participating countries, targeted
+support has enabled the establishment or expansion of training programs, provision of scholarships, and
+partnerships with regional centers of excellence. Training covers data collection, management, dissemination, and
+analysis using modern technologies and statistical software. Additionally, specialized assistance has been provided
+to aligned ministries to build capacity in macroeconomic analysis, fiscal simulation, and policy impact assessment.
+
+Component 2: Country Specific Components (US$27.79 million equivalent): This component aims to rehabilitate
+and expand physical infrastructure while modernizing technological systems across all participating countries.
+Modernization initiatives include providing computers, statistical software, internet connectivity, and solutions
+for data storage and archiving to overcome logistical challenges.
+
+Subcomponent 2.1. Burkina Faso: Modernize Technological and Statistical Infrastructure (US$6.5 million). This
+subcomponent has supported the modernization of technological and statistical infrastructure at Institut National
+de la Statistique et de la Démographie (INSD) Headquarters, its decentralized directorates, and the DGESS units of
+two line-ministries. It addresses critical gaps in technological infrastructure such as internet connectivity,
+computers, statistical software and packages, data archiving systems, and generators across INSD and its regional
+offices. At headquarters, INSD requires advanced equipment, including robust database software and servers, to
+manage and archive multiple datasets effectively. What remains to be done include the establishment of network
+connectivity between the Headquarter with the three regional direction of the institute.
+
+Subcomponent 2.2: Cabo Verde: Improving Information and Communications Technology (ICT) Infrastructure
+(US$2 million equivalent). This subcomponent has supported the enhancement of ICT infrastructure to enable
+data exchange and improve access through the development of a new electronic platform for budget and results
+information, with a strong emphasis on administrative data. The project introduced these platforms at both
+national and local levels. Key activities include acquiring equipment such as servers and laptops, securing software
+licenses, programming data platforms, and strengthening the capacity and functionality of the NSS network. The
+project is currently working on operationalization of the platform for public access to data.
+
+Subcomponent 2.3. Côte d’Ivoire: Modernize Technological Infrastructure (US$1.20 million equivalent): This
+subcomponent has provided computers, statistical software, and internet connectivity to enable innovations such
+as cloud-based data storage. It has also established specialized innovation centers, including a call center, a
+cartography center, and a computer center.
+
+
+                                   Official Use Only                                                        Page 5
+ The World Bank
+ Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+Subcomponent 2.4. Ghana: Modernize Physical and Statistical Infrastructure (US$11.09 million equivalent):
+This subcomponent has played a key role in modernizing Information Technology (IT) infrastructure across
+participating institutions. It strengthened facility networking and improved internet connectivity at the Ghana
+Statistical Service (GSS) and relevant MDAs. The provision of computers, printers, vehicles, and other equipment
+enhanced data collection for major statistical operations, including the 2021 Population and Housing Census and
+the Annual Household Income and Expenditure Survey. It has also advanced data accessibility through public
+platforms and standardized microdata releases. Furthermore, the subcomponent supported the rehabilitation of
+GSS offices, training centers, and conference rooms, creating a more efficient working environment with secure
+data storage and greater use of digital tools in statistical production. These renovated facilities now provide
+improved spaces for training, stakeholder engagement, and collaboration, reinforcing GSS’s capacity to deliver
+timely, high-quality data services.
+
+Subcomponent 2.5: Liberia: Improving Physical and Statistical infrastructure (US$3.00 million equivalent): In
+2024, the Liberia Institute of Statistics and Geo-Information Services (LISGIS) completed minor repairs to its
+administrative building, creating a significantly improved work environment for staff. Using remaining project
+funds, LISGIS plans to refurbish its technical building, with preparations already underway. These works are
+expected to be finalized before the project’s closing date.
+
+Subcomponent 2.6: Sierra Leone: Rehabilitation of Statistics Sierra Leone’s Physical Infrastructure (US$3.00
+million equivalent): US$2.00 million allocated for improving physical and statistical infrastructure and US$1.00
+million allocated for technological upgrades. In Sierra Leone, construction activities include refurbishing existing
+office facilities, adding new floors, and developing supplementary amenities. Progress has been strong; however,
+delays have occurred due to late delivery of finished materials and various IT and electrical components. All
+construction works are expected to be completed in 2025.
+
+Subcomponent 2.7. Togo: Building Capacity and Modernizing Technological, Statistical, and Physical
+Infrastructure (US$1 million equivalent): This subcomponent aims to enhance the performance of the NSS by
+upgrading physical infrastructure, providing essential equipment, and strengthening the demand for statistical
+data.
+
+     Activity 1: Physical infrastructure and equipment (US$0.75 million): The project has supported the
+     acquisition of office equipment, the upgrade of digital infrastructure including computers, servers, software,
+     and internet access and the design of an archiving system to enhance the visibility of the statistics office.
+     These improvements benefit INSEED headquarters in Lomé as well as regional offices.
+
+     Activity 2: Demand side strengthening (US$0.25 million): Under the data production component, samples
+     for phone interviews are prepared for use by INSEED, civil society, and the media to conduct opinion polls.
+     These polls provide valuable feedback to the government, offer engaging statistics to the public, and
+     familiarize media organizations with data-driven reporting. Collectively, these initiatives foster greater
+     interest in and use of statistics and data among the public, media, and civil society.
+
+Component 3: Project Management and Monitoring and Evaluation (US$18.00 million equivalent): This
+component aims to strengthen and develop the institutional capacity of NSOs in project management,
+coordination, and monitoring and evaluation, including the preparation of project documentation. NSOs act as
+the primary implementing agencies in each participating country, overseeing technical management and
+coordination, while AU/STATAFRIC and ECOWAS serve as the regional implementing entities. Each
+implementation unit is responsible for coordinating activities, managing reporting and auditing processes, and
+
+                                   Official Use Only                                                        Page 6
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+        ensuring compliance with fiduciary policies and procedures. The component finances project-related staffing
+        costs, coordination expenses including those linked to steering committee operations and other essential items
+        for successful implementation. Key outputs include the Operations Manual, Annual Work Plan and Budget,
+        biannual updates to the Results Framework, audit reports, procurement plans, and Interim Financial Reports.
+
+        Fiduciary, Environmental, and Social Management
+
+13.      The procurement performance rating is Moderately Satisfactory, and the risk level is Moderate. Overall, the
+procurement performance review notes good implementation progress across project-participating countries, the African Union
+and ECOWAS. Nonetheless, several challenges exist including missing procurement documents in Systematic Tracking of
+Exchanges in Procurement (STEP), and delays in receiving technical specifications and TORs from user departments. Therefore,
+there is need for stronger contract management practices, and more collaboration between the technical departments and
+procurement unit. As mitigation measures, the World Bank continues to provide training on the use of STEP and arrange related
+procurement capacity-building training.
+
+14.      Financial Management (FM) arrangements remain Moderately Satisfactory. The overall FM risk rating is Moderate,
+although residual control risks for certain implementing agencies (e.g., AU and Ghana) remain Substantial. Fiduciary compliance
+was deemed satisfactory for all the implementing agencies. For example, the unaudited Interim Financial Reports (IFRs) were
+submitted on time and found acceptable to World Bank. The last audit reports for the Fiscal Year ending December 31st, 2024,
+were submitted to the World Bank on time with an unqualified opinion, except for AU which has submitted its audit reports
+with more than two months delay (e.g., audit reports due on June 30th, 2025, were submitted on September 22nd, 2025). FM
+team has closely been working with the respective implementing agencies to ensure the timely submission of FY2025 audit
+reports.
+
+15.      Environment and Social: The HISWA Project is governed by the World Bank Safeguard Policy. Environmental and Social
+Risk Rating: Moderate. Activities are primarily technical assistance, surveys, and minor office renovations in Sierra Leone, with
+limited site-specific impacts. Grievance Redress Mechanism (GRM) is operational at regional and country levels; accessible to
+project-affected parties. Overall, the Environmental and Social Framework (ESF) performance is on track.
+
+16.     Monitoring and Evaluation Performance: The project has allocated US$18 million to support project management
+and monitoring & evaluation (M&E) activities. This allocation covers the implementation of the Results Framework, regular
+progress tracking, capacity building for national statistical offices, and coordination with regional bodies to ensure
+harmonization and timely reporting. Overall, M&E performance under all project participating countries and regional
+organizations (AU and ECOWAS) is satisfactory.
+
+17.      General Risks and Mitigation: The overall risk rating for the project remains Moderate to Substantial with respect
+to achieving the Project Development Objective. The proposed restructuring does not change this assessment. However,
+residual risks persist in two key areas: Institutional Capacity for Implementation and Sustainability and Environmental and
+Social (E&S), as both are currently rated Substantial. To address these risks, the following mitigation measures have been
+agreed upon and implemented across participating countries:
+
+    •   Capacity Building on World Bank Operational Policies: Targeted training sessions have strengthened
+        understanding and application of World Bank procedures for projects under the HISWA initiative.
+
+    •   Technical Assistance and Implementation Support: Ongoing support has improved procurement processes,
+        particularly contract management, ensuring timely and high-quality delivery of project outputs.
+
+
+
+                                             Official Use Only                                                           Page 7
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+    •   Monitoring and Planning Enhancements: Implementation plans now include quarterly disbursement
+        projections to facilitate better monitoring and follow-up.
+
+    •   Environmental and Social Risk Management: ESF-related risks are being managed through structured
+        frameworks and stakeholder engagement, with a strong focus on timely reporting and compliance.
+
+C. Rational for Restructuring
+
+18.     During the mid-term review in May 2024 and subsequent implementation support missions, the World Bank
+project teams and the Borrowers jointly assessed progress on the HISWA Project. Based on this assessment and a shared
+understanding, both parties agreed that extending the project closing date is necessary to accelerate implementation and
+address delays caused by a combination of internal and external factors. Following this agreement, the Borrowers
+submitted formal requests for: (i) extension of the project closing dates for Burkina Faso, Cabo Verde, Togo, African Union,
+and ECOWAS; and (ii) reallocation of funds between categories for the Côte d’Ivoire parent project.
+
+    •   Internal factors: During the initial phase, both the implementing entity and fiduciary agencies needed time to
+        build operational capacity, which slowed the execution of planned activities. These constraints were further
+        compounded by weaknesses in contract management and oversight, creating procurement bottlenecks. Delays in
+        procurement planning and lengthy approval processes also hindered timely implementation. The restructuring
+        seeks to address these challenges by adjusting project timelines to enable more effective execution and ensure
+        achievement of the PDO.
+
+    •   External factors contributing to delays: Project implementation was significantly hindered by external shocks,
+        most notably the COVID-19 pandemic. The pandemic disrupted global supply chains, causing delays in
+        procurement and bidding processes for essential goods and services. Delivery timelines for vehicles, computers,
+        tablets, interviewer kits, and other data collection equipment were extended well beyond initial estimates.
+        Additionally, lockdowns and movement restrictions created logistical challenges for survey implementation,
+        requiring major adjustments to field operations and resulting in higher costs and prolonged timelines for
+        enumerator training and data collection. Collectively, these disruptions led to substantial delays in project
+        execution.
+
+II. DESCRIPTION OF PROPOSED CHANGES
+
+19.       The proposed project changes will include: (i) extending the closing date for (A) Burkina Faso, (B) Togo, (C) Cabo
+Verde, (D) ECOWAS, (E) African Union, and (ii) reallocating funds between expenditure categories for Côte d’Ivoire; and
+(iii) adjusting the Results Framework end target date to align with the new closing dates for Burkina Faso, Togo, Cabo
+Verde, and ECOWAS.
+
+    A. Burkina Faso
+
+20.      Request for Amendment of Financing Agreement (IDA Credit-65730 and IDA Grant-D5810). The proposed
+amendment is based on a request sent by the Government on May 22, 2025, for a six-month extension of the project
+closing date to June 30, 2026, to allow completion of key activities in Burkina Faso. These include: (i) finalizing data
+collection for the Harmonized Household Survey; (ii) fully transitioning to Computer-Assisted Personal Interviewing for
+modernizing the Consumer Price Index; (iii) advancing improvements in economic statistics, particularly national accounts;
+and (iv) supporting institutional reforms and human capital development. The Harmonized Household Survey is being
+implemented simultaneously across all WAEMU member states, including Burkina Faso. As shown in the figure below, the
+
+                                            Official Use Only                                                       Page 8
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+first wave of data collection is underway, with full completion expected between 2025 and 2026. The requested extension
+will specifically cover the data collection phase, scheduled to conclude in June 2026. The project needs more financial
+resources to fully complete this activity. In this regard, discussion is ongoing with the Country Management Unit (CMU)
+and Regional Integration (RI) to finance data processing, analysis, and dissemination. If complementary resources become
+available, an AF will be proposed to continue supporting statistical activities in the country.
+
+
+
+
+    B. Togo
+
+21.      Request for Amendment to Financing Agreement (IDA Credit-65780 and IDA Grant-D5850): The proposed
+amendment is based on a request sent by the Government on June 17, 2025, for a 12-month extension of the project
+closing date to December 31, 2026, to allow completion of key activities in Togo, including: (i) the Harmonized Household
+Survey; (ii) the Demographic and Health Survey; (iii) Gross Domestic Product (GDP) rebasing; and (iv) other innovative
+statistical initiatives. The Harmonized Household Survey is being implemented simultaneously across all WAEMU member
+states, including Togo. As shown in the figure below, preparatory activities such as enumerators' training have been
+completed. Although fieldwork started later than planned, data collection is organized into two waves of three months
+each, separated by a three-month interval. The requested extension will provide sufficient time to use the remaining
+resource and complete both waves, as well as subsequent data processing, analysis, and dissemination.
+
+
+
+
+    C. Cabo Verde
+
+22.     Request for Amendment to Financing Agreement (IDA Credit- 65740): The proposed amendment is based on a
+request sent by the Government on July 24, 2025, for a 12-month extension of the project closing date to December 31,
+2026. The proposed project closing date extension would enable the achievement of essential project development
+objectives, through the implementation and completion of key ongoing activities, including (i) a new household poverty
+survey; (ii) cadastral registry; (iii) diaspora mapping; (iv) preparatory activities of the agriculture census; (v) structural
+surveys for the GDP rebasing; (vi) semi-annual employment surveys; (vii) improvement in public access to microdata and
+administrative data; and (viii) the census of public administration agents.
+
+    D. ECOWAS
+
+23.     Request for Amendment to Financing Agreement (Grant No. IDA-D5820). The proposed amendment is based on
+a request sent by ECOWAS on September 25, 2025, for a 12-month extension of the project closing date to December 31,
+2026, to ensure completion and sustainability of key ongoing activities. These include providing technical assistance to
+participating countries for full implementation of recently finalized harmonized regional guidelines and strengthening the
+
+
+
+                                            Official Use Only                                                         Page 9
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+adoption and use of regional tools and standards. The extension will also allow ECOWAS to maintain its regional
+coordination mechanism, ensuring continued oversight and support for project activities across member states.
+
+    E. African Union (AU)
+
+24.      Request for Amendment to Financing Agreement (Grant No. IDA-D5880): The proposed amendment is based on
+a request sent by the AU on November 4, 2025, for a six-month extension of the project closing date for its component
+from December 31, 2025, to June 30, 2026. The delay in implementation stems from the late approval of the AU
+supplementary budget, which was expected in August 2025 but only approved in October 2025. This resulted in
+postponements to several planned activities. The proposed extension will allow AU-STATAFRIC to: Finalize ongoing
+activities, including: (i) completion of the continental statistical harmonization framework, with validation workshops and
+stakeholder consultations across member states; (ii) deployment of the AU statistical data portal, integrating country-level
+inputs and ensuring interoperability with regional platforms; (iii) capacity-building sessions for NSOs and regional
+economic communities, focusing on methodological alignment and data quality assurance; and (iv) completion and
+dissemination of technical reports.
+
+    F.   Cote d’Ivoire
+
+25.      Request to Reallocate Funds Across Expenditure Categories (IDA Credit No. 65750): The proposed amendment
+is based on adjustments made to the original financing agreement for Côte d’Ivoire during the preparation of the
+Additional Financing, which was approved on June 16, 2025, and the AF Financing Agreement signed on July 6, 2025, and
+reflects the request submitted by the Borrower on October 16, 2025. The proposed reallocations under this restructuring
+are presented in Table 1.
+
+                Table 1: Cote d’Ivoire Reallocation of Funds between Categories of the Original Financing Amount
+                Expenditure       Current           Disbursed         Proposed -Re-   Financing     Financing
+                 Category        Allocation          (Actuals +        Allocation         %             %
+                    No.             Euro           Committed)             Euro        (Current)    (Proposed)
+                                                       Euro
+               Category 1     23,600,000.00       23,585,797.15       23,585,797.15       100            100
+               Category 2     15,400,000.00       15,390,869.47       15,390,869.47       100            100
+               Category 3      4,600,000.00                       0            0.00          0             0
+               Category 4      4,400,000.00                       0            0.00          0             0
+               Category 5        500,000.00                       0    1,013,151.15       100            100
+               Category 6        500,000.00                       0    9,010,182.23       100            100
+               Total          49,000,000.00       38,976,666.62       49,000,000.00
+
+
+
+
+                                              Official Use Only                                                     Page 10
+                  The World Bank
+                  Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                              Table 2: Financing Amount in USD per Country
+                                                                             Disbursed USD       Undisbursed USD
+                                                    Original Approved
+                          Country IDA Credit and                            Equivalents (with    Equivalents (with
+                                                      Amount USD
+                             Grant Number                                    exchange rate        exchange rate
+                                                       Equivalents
+                                                                               gain/loss)           gain/loss)
+                          Burkina Faso
+                          IDA-65730                         30,000,000.00       26,144,235.00         4,691,845.00
+                          IDA D5810                         30,000,000.00       29,382,668.00                 0.00
+                          Total                             60,000,000.00       55,526,903.00         4,691,845.00
+                          Cabo Verde
+                          IDA-65740                         15,000,000.00       11,272,452.00         3,486,583.00
+                          Cote d’Ivoire
+                          IDA-65750                         54,000,000.00       53,172,281.00         3,207,118.00
+                          Togo
+                          IDA-65780                         15,000,000.00        8,675,375.00         6,742,665.00
+                          IDA-D5850                         15,000,000.00       14,715,457.00            43,579.00
+                          Total                             30,000,000.00       23,390,832.00         6,786,244.00
+                          African Union
+                          IDA-D5880                          2,500,000.00         2,571,263.00            1,413.00
+                          ECOWAS
+                          IDA-D5820                          7,500,000.00         6,358,948.00        1,088,272.00
+
+26.     The task team reviewed the Results Framework and dated covenants and concluded that no substantive
+changes are needed. However, an amendment is proposed to adjust the Results Framework end target dates to align with
+the revised closing dates for Burkina Faso, Cabo Verde, Togo, and ECOWAS.
+
+     @#&OPS~Doctype~OPS^dynamics@restrhybridsummarychanges#doctemplate
+Summary changes
+
+
+
+
+III. PROPOSED CHANGES
+
+      Operation Information               Proposed Changes              Operation Information               Proposed Changes
+
+      Results                                         Yes               Loan Closing Date Extension                  Yes
+      Disbursements Estimates                         Yes               Reallocations                                Yes
+      Development Objective                           No                Implementation Schedule                      Yes
+      Safeguard Policies Triggered                    No                Loan Cancellations                           No
+      ISDS                                            No                Financial Management                         No
+      MFD/PCE                                         No                Procurement                                  No
+      Risks                                           No                Institutional Arrangement                    No
+      Legal Covenants                                 No
+      Conditions                                      No
+      Implementation Modalities                       No
+
+
+                                                   Official Use Only                                                       Page 11
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+Disbursements Arrangements                   No
+DDO                                          No
+Clients                                      No
+Appraisal Summary                            No
+Components                                   No
+
+@#&OPS~Doctype~OPS^dynamics@restrhybriddetailedchanges-disclose#doctemplate
+IV. DETAILED CHANGE(S)
+
+
+COSTS & FINANCING
+
+ Private Capital Facilitation
+
+ Is this an MFD-Enabling Project (MFD-EP)?
+
+
+
+ Is this project Private Capital Enabling (PCE)?
+
+
+
+LOANS
+
+
+Loan Closing
+                                         Original               Revised      Proposed     Proposed Deadline
+Loan/Credit/Trust
+                         Status          Closing               Closing(s)     Closing        for Withdrawal
+Fund
+                                                                                                Applications
+IDA-65730               Effective      31-Dec-2025            31-Dec-2025   30-Jun-2026         30-Oct-2026
+IDA-65740               Effective      31-Dec-2025            31-Dec-2025   31-Dec-2026         30-Apr-2027
+IDA-65750               Effective      31-Dec-2025            31-Dec-2026
+IDA-65760               Effective      31-Dec-2025            31-Dec-2026
+IDA-65770               Effective      31-Dec-2025            31-Dec-2026
+IDA-65780               Effective      31-Dec-2025            31-Dec-2025   31-Dec-2026         30-Apr-2027
+IDA-78840               Effective      31-Dec-2026            31-Dec-2026
+                           Not
+IDA-79100                              31-Dec-2026            31-Dec-2026
+                        Effective
+                           Not
+IDA-79120                              31-Dec-2026            31-Dec-2026
+                        Effective
+                           Not
+IDA-79130                              31-Dec-2026            31-Dec-2026
+                        Effective
+IDA-D5810               Effective      31-Dec-2025            31-Dec-2025   30-Jun-2026         30-Oct-2026
+
+                                          Official Use Only                                         Page 12
+        The World Bank
+        Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+IDA-D5820             Effective      31-Dec-2025            31-Dec-2025               31-Dec-2026               30-Apr-2027
+IDA-D5830             Effective      31-Dec-2025            31-Dec-2026
+IDA-D5840             Effective      31-Dec-2025            31-Dec-2026
+IDA-D5850             Effective      31-Dec-2025            31-Dec-2025               31-Dec-2026               30-Apr-2027
+IDA-D5880             Effective      31-Dec-2025            31-Dec-2025               30-Jun-2026               30-Oct-2026
+IDA-E4950             Effective      31-Dec-2026            31-Dec-2026
+
+Reallocations
+IDA-65730-001                                               Cancellations (if any):                 New Allocation:
+                                    Currency: EUR
+                                                            0.00                                    26,800,000.00
+
+                                                                                                        Financing %
+                                                                                                        (Type Total)
+Category       Expenditure             Current          Actuals +             Proposed
+  No.            Category             Allocation       Committed              Allocation        Current          Proposed
+   1        G,W,N/CS,OC,TR;         26,800,000.00     18,154,472.94            0.00             100.00                0.00
+
+            Total                   26,800,000.00                              0.00
+IDA-65740-001                                               Cancellations (if any):                 New Allocation:
+                                    Currency: XDR
+                                                            0.00                                    10,900,000.00
+
+                                                                                                        Financing %
+                                                                                                        (Type Total)
+Category         Expenditure           Current           Actuals +            Proposed
+  No.             Category            Allocation        Committed             Allocation        Current          Proposed
+   1        GD,NCS,CS,TR&OC         10,900,000.00      5,126,646.02            0.00             100.00                0.00
+            Prts1.2(A)see more;
+            Total                   10,900,000.00                              0.00
+IDA-65750-001                                               Cancellations (if any):                 New Allocation:
+                                    Currency: EUR
+                                                            0.00                                    49,000,000.00
+
+                                                                                                        Financing %
+                                                                                                        (Type Total)
+Category        Expenditure            Current          Actuals +             Proposed
+  No.             Category            Allocation       Committed              Allocation        Current          Proposed
+   1        G,W,N/CS,TR,OCpt1.      23,600,000.00     23,585,797.15       23,585,797.15         100.00                0.00
+            2A&D,1.3-8B,2.3,3;
+    2       G,W,N/CS,TR,OCpt1.      15,400,000.00     15,390,869.47       15,390,869.47         100.00                0.00
+            2B&C;
+    3       NCS,CS,TRN,OC      Pt   4,600,000.00            0.00               0.00             100.00                0.00
+            1.8A;
+    4       PPF REFINANCING;        4,400,000.00            0.00               0.00                 0.00              0.00
+
+
+                                        Official Use Only                                                              Page 13
+       The World Bank
+       Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+   5       G,W,N/CS,T,Op1.2A-       500,000.00             0.00          1,013,151.15     100.00            0.00
+           D,1.3,1.5-7,3;
+   6       G,W,N/CS,TR,OCpt1.       500,000.00             0.00          9,010,182.23     100.00            0.00
+           4,1.8B,2.3;
+           Total                  49,000,000.00                          49,000,000.00
+IDA-65760-001                                              Cancellations (if any):        New Allocation:
+                                  Currency: XDR
+                                                           0.00                           109,000,000.00
+
+                                                                                              Financing %
+                                                                                              (Type Total)
+Category        Expenditure          Current           Actuals +             Proposed
+  No.             Category          Allocation        Committed              Allocation   Current      Proposed
+   1       GWN/CSTOC              104,600,000.0      95,086,104.58            0.00        100.00            0.00
+           Pt1.2/3/4/5/6/7/8B            0
+           2.4,3;
+   2       PPF REFINANCING;        4,400,000.00       1,763,076.18            0.00         0.00             0.00
+
+           Total                  109,000,000.0
+                                                                              0.00
+                                        0
+IDA-65770-001                                              Cancellations (if any):        New Allocation:
+                                  Currency: USD
+                                                           0.00                           15,000,000.00
+
+                                                                                              Financing %
+                                                                                              (Type Total)
+Category        Expenditure          Current           Actuals +             Proposed
+  No.             Category          Allocation        Committed              Allocation   Current      Proposed
+   1       GWN/CSTOC              11,268,726.00      11,055,682.26            0.00        100.00            0.00
+           Pt1.2/3/4/5/6/7/8B
+           2.5 3;
+   2       Refund            of        0.00                0.00               0.00         0.00             0.00
+           Preparation Advance;
+   3       G,W,N/CS,TR,OC          1,000,000.00        598,194.00             0.00        100.00            0.00
+           Pt1.5/7/8B&2.5;
+   4       G,W,N/CS,TR,OC          2,731,274.00       2,217,634.18            0.00         0.01             0.00
+           Pt1.2/3/4 & 3;
+   5       Complementary Fin.          0.00                0.00               0.00         0.00             0.00
+           Cat DDO;
+           Total                  15,000,000.00                               0.00
+IDA-65780-001                                              Cancellations (if any):        New Allocation:
+                                  Currency: EUR
+                                                           0.00                           13,400,000.00
+
+Category        Expenditure          Current            Actuals +            Proposed         Financing %
+  No.            Category           Allocation         Committed             Allocation       (Type Total)
+
+
+
+                                       Official Use Only                                                     Page 14
+       The World Bank
+       Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+                                                                                            Current      Proposed
+   1       G,W,N/CS,O,T              13,400,000.00      5,507,471.95            0.00        100.00            0.00
+           1.2,3,4,5a,6,7,8,2.7,3;
+           Total                     13,400,000.00                              0.00
+IDA-D5810-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           21,700,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category      Expenditure               Current          Actuals +             Proposed
+  No.           Category               Allocation       Committed              Allocation   Current      Proposed
+   1       G,W,N/CS,OC,TR;           21,700,000.00     15,335,395.58            0.00        100.00            0.00
+
+           Total                     21,700,000.00                              0.00
+IDA-D5820-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           5,500,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure             Current           Actuals +            Proposed
+  No.            Category             Allocation         Committed             Allocation   Current      Proposed
+   1       Gds,Wks,Ncs,Cs,Tr,O       5,500,000.00       4,558,087.58            0.00        100.00            0.00
+           Cprt 1.1,3;
+           Total                     5,500,000.00                               0.00
+IDA-D5830-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           10,900,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure             Current          Actuals +             Proposed
+  No.             Category             Allocation       Committed              Allocation   Current      Proposed
+   1       GWN/CSTOC                 10,719,748.00     10,361,512.10            0.00        100.00            0.00
+           Pt1.2/3/4/5/6/7/8B
+           2.5 3;
+   2       PPF REFINANCING;           180,252.00         180,251.50             0.00         0.00             0.00
+
+   3       G,W,N/CS,TR,OC                0.00                0.00               0.00        100.00            0.00
+           Pt1.5/7/8B&2.5;
+   4       G,W,N/CS,TR,OC                0.00                0.00               0.00         0.01             0.00
+           Pt1.2/3/4 & 3;
+   5       Complementary Fin.            0.00                0.00               0.00         0.00             0.00
+           Cat DDO;
+           Total                     10,900,000.00                              0.00
+
+
+                                         Official Use Only                                                     Page 15
+       The World Bank
+       Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+IDA-D5840-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           21,700,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure             Current          Actuals +             Proposed
+  No.             Category             Allocation       Committed              Allocation   Current      Proposed
+   1       G,W,NC,CS,OC,T1.2B        21,700,000.00     19,981,578.98            0.00        100.00            0.00
+           C,1.3,1.4,1.5,1.7;
+           Total                     21,700,000.00                              0.00
+IDA-D5850-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           10,900,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure             Current          Actuals +             Proposed
+  No.             Category             Allocation       Committed              Allocation   Current      Proposed
+   1       G,W,N/CS,O,T              10,550,000.00     10,349,653.73            0.00        100.00            0.00
+           1.2,3,4,5a,6,7,8,2.7.3;
+   2       PPF REFINANCING;           350,000.00         116,979.14             0.00         0.00             0.00
+
+           Total                     10,900,000.00                              0.00
+IDA-D5880-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           1,900,000.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure             Current           Actuals +            Proposed
+  No.             Category            Allocation         Committed             Allocation   Current      Proposed
+   1       GDs,NCS,CS,TR&OC          1,900,000.00       1,410,039.41            0.00        100.00            0.00
+           Prts 1.1(A) & 3;
+           Total                     1,900,000.00                               0.00
+IDA-E4950-001                                                Cancellations (if any):        New Allocation:
+                                     Currency: XDR
+                                                             0.00                           0.00
+
+                                                                                                Financing %
+                                                                                                (Type Total)
+Category        Expenditure            Current            Actuals +            Proposed
+  No.             Category            Allocation         Committed             Allocation   Current      Proposed
+   1       G,W,N/CS,OC,T1.2B-            0.00               0.00                0.00         0.10             0.00
+           C.1.3,1.4,1.5,1.7;
+   2       G,W,N/CS,OC,T1.5,1.           0.00                0.00               0.00         0.10             0.00
+           7 & 2.6 PROJECT;
+
+
+
+                                         Official Use Only                                                     Page 16
+           The World Bank
+           Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+       3       G,N/CS,OC,T1.2(B)(C)    2,700,000.00        525,130.22           0.00              1.00             0.00
+               ,1.3,1.4&3 PROJ;
+       4       ELIGIBLE                    0.00                0.00             0.00             100.00            0.00
+               EXPENDITURES FOR
+               THE CERP;
+       5       COMPL. FINANCING            0.00                0.00             0.00              0.10             0.00
+               FOR THE CAT DDO;
+               Total                   2,700,000.00                             0.00
+
+
+DISBURSEMENTS
+Operation Dates & Projection Details
+Reasons to change the full Disbursement date and/or the projection
+Restructuring; Change in Pace of Implementation
+Implementation Start Date                                        Operation Closing Date
+26-Mar-2020                                                      31-Dec-2026
+Projected Date for Full Disbursement
+31-Dec-2026
+
+Expected Disbursements (in US $) (Absolute)
+
+                              Original Estimation at Preparation                                          Actual
+Year                                                                       Revised Estimation
+                              (Approval Package – 26 Mar 2020)
+FY2020                                              10,000,000.00                         0.00                            0.00
+FY2021                                              20,000,000.00               86,893,663.00              98,061,813.98
+FY2022                                              40,000,000.00               38,698,062.25              47,321,292.10
+FY2023                                              65,000,000.00               42,146,666.67              53,030,594.73
+FY2024                                              80,000,000.00               54,055,555.60              57,649,379.90
+FY2025                                              90,000,000.00               78,000,000.00              78,207,036.22
+FY2026                                              74,000,000.00               95,006,052.48              20,304,819.54
+
+
+
+
+                                           Official Use Only                                                       Page 17
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                                                                          RESULTS
+                                           COUNTRY: Burkina Faso, Cabo Verde, Cote d'Ivoire, Ghana, Liberia, Sierra Leone, Togo
+                                                          Harmonizing and Improving Statistics in West Africa
+
+
+
+@#&OPS~Doctype~OPS^dynamics@restrannexpolicyandresult#doctemplate
+PDO Indicators by PDO Outcomes
+
+
+Strengthening statistical systems.
+            Indicator Name                          Baseline                        Actual (Previous)                      Actual (Current)                         Closing Period
+                                           Result              Month/Year        Result              Date              Result                 Date           Result            Month/Year
+                                           59.29                Feb/2020         75.37           15-Jul-2025           75.37            15-Jul-2025           71.43             Dec/2026
+Modified Statistical capacity index   Comments on achieving targets         Achievement: The aggregate modified SCI 2.0 achievement is increased from 74.3 percent to 76.14 percent (the
+(SCI 2.0) (disaggregated by                                                 actual value was calculated based on the average for seven project-participating countries). The actual value of
+participating countries)                                                    the modified SCI 2.0 for Ghana increased from 99 to 100 percent; Liberia maintained 62.2, Sierra Leone
+(Percentage)                                                                increased maintained to 70, Togo increased from 73.3 to 80 percent; Cabo Verde maintained to 66.67, Burkina
+                                                                            Faso maintained to 79 and Cote D'Ivoire increased from 70.2 to 75.1 percent.
+       Ghana (Percentage)                  65.00                Feb/2020         100.00          15-Jul-2025           100.00           15-Jul-2025           75.00             Dec/2026
+       Liberia (Percentage)                50.00                Feb/2020         62.20           15-Jul-2025           62.20            15-Jul-2025           65.00             Dec/2026
+       Sierra Leone (Percentage)             50                 Feb/2020         70.00           15-Jul-2025           70.00            15-Jul-2025            65               Dec/2026
+       Revise   Togo (Percentage)          60.00                Feb/2020         80.00           15-Jul-2025           80.00            15-Jul-2025           75.00             Dec/2026
+       Revise
+            Cabo Verde                       55                 Feb/2020         61.33           15-Jul-2025           61.33            15-Jul-2025            70               Dec/2026
+       (Percentage)
+       Revise
+            Burkina Faso                   70.00                Feb/2020         79.00           15-Jul-2025           79.00            15-Jul-2025           75.00             Jun/2026
+       (Percentage)
+       Cote D’Ivoire (Percentage)          65.00                Feb/2020         75.10           15-Jul-2025           75.10            15-Jul-2025           75.00             Dec/2026
+Production and dissemination of harmonized statistics
+            Indicator Name                          Baseline                        Actual (Previous)                      Actual (Current)                         Closing Period
+
+
+                                                                                                                                                                                            Page 18
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                        Result         Month/Year        Result              Date               Result               Date               Result          Month/Year
+                                         0.00           Feb/2020         79.43            15-Jul-2025            79.43           15-Jul-2025            50.00            Dec/2026
+                                    Comments on achieving targets   Achievement: The share of comparable core economic and social statistics indicators produced and available for
+                                                                    open access is maintained to 79.43 percent at the aggregate level. Ghana produced seven (100 percent), Liberia
+Share of comparable core economic                                   produced four out of seven (57 percent); Sierra Leone produced six out of seven (85 percent); Togo produced
+and social statistics indicators                                    four five of seven (71 percent); Cabo Verde produced six out of seven (86 percent); Burkina Faso produced six
+produced and available for open                                     out of seven (86 percent); and Cote d'Ivoire produced five out of seven (71 percent). The indicators to be
+access (Percentage)                                                 considered are the following: (i) Population size by region and areas of residence, (ii) Poverty indices, (iii)
+                                                                    Inflation rates, (iv) Production volume of main staple crops, (v) Value added of SMEs and MSEs, (vi) Gross
+                                                                    domestic product growth and (vii) underemployment rate. Open access means available to the users on a
+                                                                    website. Statistics are comparable when produced using similar methodologies.
+                                         0.00           Feb/2020         100.00           15-Jul-2025           100.00           15-Jul-2025            60.00            Dec/2026
+                                    Comments on achieving targets   7/7 indicators are produced. (1) Population size by region and areas of residence, (2) Poverty indices, (3)
+      Ghana (Percentage)                                            Inflation rates, (4) Production volume of main staple crops, (5) Value added of SMEs and MSMEs, (6) Gross
+                                                                    domestic product growth and (7) underemployment rate. Open access means available to the users on a
+                                                                    website.
+                                         0.00           Feb/2020         57.00            15-Jul-2025            57.00           15-Jul-2025            40.00            Dec/2026
+
+      Liberia (Percentage)          Comments on achieving targets   4/7 indicators are produced—(1) Population Size by Region and Area of Residence (CENSUS, 2022), (3) Inflation
+                                                                    Rates (MONTHLY CPI), (4) Production volume of main staple crops, and (6) Gross Domestic Product Growth and
+                                                                    Trade Statistics (GDP, 2022).
+                                         0.00           Feb/2020         85.00            15-Jul-2025            85.00           15-Jul-2025            40.00            Dec/2026
+
+      Sierra Leone (Percentage)     Comments on achieving targets   6/7 indicators are produced: (1) Population size by region and areas of residence; (2) Poverty indices; (3)
+                                                                    Inflation rates; (4) Production volume of main staple crops; (5) Value added of SMEs and MSMEs; (6) Gross
+                                                                    domestic product growth, trade stats
+                                         0.00           Feb/2020         71.00            15-Jul-2025            71.00           15-Jul-2025            60.00            Dec/2026
+      Revise   Togo (Percentage)    Comments on achieving targets   5/7 indicators are produced. (1) Population size by region and areas of residence, (2) Poverty indices, (3)
+                                                                    Inflation rates, (4) Production volume of main staple crops and (5) Gross domestic product growth.
+                                         0.00           Feb/2020         86.00            15-Jul-2025            86.00           15-Jul-2025            30.00            Dec/2026
+      Revise
+           Cabo Verde               Comments on achieving targets   6/7 indicators are produced. (1) Populaiton size by region and areas of residence, (2) Poverty indices, (3)
+      (Percentage)                                                  Inflation rates, (4) Procudtion volume of main staple crops, Gross domestic product growth, (6) Gross domestic
+                                                                    product growth and (7) underemployment rate.
+                                         0.00           Feb/2020         86.00            15-Jul-2025            86.00           15-Jul-2025            60.00            Dec/2026
+
+
+
+                                                                                                                                                                                     Page 19
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+      Revise                        Comments on achieving targets   6/7 indicators are produced. (1) Population size by region and areas of residence, (2) Poverty indices, (3)
+           Burkina Faso
+                                                                    Inflation rates, (4) Production volume of main staple crops, (5) Gross domestic product growth and (6)
+      (Percentage)
+                                                                    underemployment rate.
+                                         0.00           Feb/2020         71.00            15-Jul-2025            71.00           15-Jul-2025            60.00            Dec/2026
+      Cote D’Ivoire (Percentage)    Comments on achieving targets   5/7 indicators are produced. (1) Population size by region and areas of residence, (2) Poverty indices, (3)
+                                                                    Inflation rates, (4) Production volume of main staple crops and (5) (6) Gross domestic product growth.
+                                         0.00           Feb/2020         57.14            15-Jul-2025            57.14           15-Jul-2025            50.00            Dec/2026
+                                    Comments on achieving targets   Achievement: Share of comparable core economic and social statistics datasets produced and available for open
+                                                                    access. The aggregate or average value is increased from 55.14 to 57.14 percent. Ghana produced 6 out of 7
+Share of comparable core economic                                   datasets (86 percent); Liberia produced 3 out of 7 (43 percent); Sierra Leone produced 2 out of 7 (29 percent);
+and social statistics datasets                                      Togo produced 5 out of 7 (71 percent); Cabo Verde produced 1 out of 7 (14 percent); Burkina Faso produced 6
+produced and available for open                                     out of 7 (86 percent); and Cote d'Ivoire produced 5 out of 7 (71 percent). The list datasets include (1) an
+access (Percentage)                                                 Anonymized cartography dataset; (2) an Anonymized household poverty survey, (3) a CPI dataset, (4) an
+                                                                    Anonymized agricultural census or annual survey dataset, (5) an Anonymized updated business registry, (6)
+                                                                    Input-output tables, and (7) Anonymized labor force surveys dataset. Open access means available to the users
+                                                                    on a website or upon request. Statistics are comparable when produced using similar methodologies.
+                                         0.00           Feb/2020         86.00            15-Jul-2025            86.00           15-Jul-2025            60.00            Dec/2026
+                                    Comments on achieving targets   6/7 datasets produced. (1) Anonymized cartography dataset; (2) Anonymized household poverty survey, (3) CPI
+      Ghana (Percentage)                                            dataset, (4) Anonymized agricultural census or annual survey dataset, (5) Anonymized updated business
+                                                                    registry, (6) Input-output tables, and (7) Anonymized labor force surveys dataset. The previous actual value
+                                                                    should be 86 instead of 100.
+                                         0.00           Feb/2020         43.00            15-Jul-2025            43.00           15-Jul-2025            40.00            Dec/2026
+      Liberia (Percentage)          Comments on achieving targets   3/7 datasets produced: (1) Anonymized cartography, (3) CPI dataset and (5) Anonymized updated business
+                                                                    registry
+                                         0.00           Feb/2020         29.00            15-Jul-2025            29.00           15-Jul-2025            40.00            Dec/2026
+      Sierra Leone (Percentage)     Comments on achieving targets   2/7 datasets produced: (1) Anonymized cartography, (3) CPI dataset
+
+                                         0.00           Feb/2020         71.00            15-Jul-2025            71.00           15-Jul-2025            60.00            Dec/2026
+      Revise   Togo (Percentage)    Comments on achieving targets   5/7 datasets produced.(1) Anonymized cartography dataset; (2) Anonymized household poverty survey, (3) CPI
+                                                                    dataset, (4) Input-output tables.
+
+      Revise
+                                         0.00           Feb/2020         14.00            15-Jul-2025            14.00           15-Jul-2025            30.00            Dec/2026
+           Cabo Verde
+      (Percentage)                  Comments on achieving targets   1/7 datasets produced. (3) CPI datase
+
+
+
+                                                                                                                                                                                    Page 20
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                              0.00           Feb/2020         86.00            15-Jul-2025            86.00            15-Jul-2025           60.00             Jun/2026
+       Revise
+            Burkina Faso                 Comments on achieving targets   6/7 datasets produced. (1) Anonymized cartography dataset; (2) Anonymized household poverty survey, (3) CPI
+       (Percentage)                                                      dataset, (4) Anonymized agricultural census or annual survey dataset, (5) Input-output tables, (6) anonymized
+                                                                         data on labor force
+                                              0.00           Feb/2020         71.00            15-Jul-2025            71.00            15-Jul-2025           60.00             Dec/2026
+       Cote D’Ivoire (Percentage)        Comments on achieving targets   5/7 datasets produced. (1) Anonymized cartography dataset; (2) Anonymized household poverty survey, (3) CPI
+                                                                         dataset, (4) Input-output tables, (5) Anonymized updated business registry.
+                                              24.00          Feb/2020         76.29            15-Jul-2025            76.29            15-Jul-2025           62.29             Dec/2026
+                                         Comments on achieving targets   Achievement: The overall performance for the share of statistical products produced and published by the NSOs
+Share of statistical products produced                                   following international standards and a predetermined release increased from 73.86 to 76.29 percent at the
+and published by the NSOs following                                      aggregate level. Ghana produced and published 6 out of 6 (100 percent); Liberia produced 4 out of 6 (67
+international standards and a                                            percent); Sierra Leone produced 3 out of 6 (50 percent); Togo produced 4 out of 6 (67 percent); Cabo Verde
+predetermined release calendar                                           produced 6 out of 6 (100 percent); Burkina Faso produced 5 out of 6 (83 percent); and Cote d'Ivoire produced 4
+(Percentage)                                                             out of 6 (67 percent). Comments: Core economic and social statistics include 1) household poverty survey
+                                                                         (Poverty indices), 2) CPI (Inflation rate), 3) agricultural census and annual survey data (agricultural production),
+                                                                         4)economic census and annual survey data, 5) national accounts (GDP growth rate), and 6) labor force surveys (
+                                                                         underemployment rate).
+                                              28.00          Feb/2020         100.00           15-Jul-2025           100.00            15-Jul-2025           70.00             Dec/2026
+       Ghana (Percentage)                Comments on achieving targets   6/6 statistical outputs are produced using international standards and predetermined release calendar
+
+                                              14.00          Feb/2020         67.00            15-Jul-2025            67.00            15-Jul-2025           43.00             Dec/2026
+       Liberia (Percentage)              Comments on achieving targets   4/6 statistical products produced and puyblished by the NSO: (2) Consumer Price Index (CPI), (3) Agriculture
+                                                                         Census, (4) business/establishment survey, and (5) the National Accounts(GDP rate)
+                                              14.00          Feb/2020         50.00            15-Jul-2025            50.00            15-Jul-2025           43.00             Dec/2026
+       Sierra Leone (Percentage)         Comments on achieving targets   3/6 statistical products produced and published by the NSO: (2) CPI (Inflation rate), (5) National accounts (GDP
+                                                                         growth rate), and (4) Economic census and annual survey data
+                                              28.00          Feb/2020         67.00            15-Jul-2025            67.00            15-Jul-2025           70.00             Dec/2026
+       Revise                            Comments on achieving targets   4/6 statistical outputs are produced using international standards and predetermined release calendar - 1)
+                Togo (Percentage)
+                                                                         household poverty survey (Poverty indices), 2) CPI (Inflation rate), 3) agricultural census and annual survey data
+                                                                         (agricultural production), 4) national accounts (GDP growth rate).
+                                              28.00          Feb/2020         100.00           15-Jul-2025           100.00            15-Jul-2025           70.00             Dec/2026
+
+
+
+
+                                                                                                                                                                                              Page 21
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                      Comments on achieving targets        6/6 statistical outputs are produced and published by the NSO : 1) household poverty survey (Poverty indices),
+       Revise
+            Cabo Verde                                                     2) CPI (Inflation rate), 3) agricultural census and annual survey data (agricultural production), 4)economic census
+       (Percentage)                                                        and annual survey data, 5) national accounts (GDP growth rate), and 6) labor force surveys ( underemployment
+                                                                           rate).
+                                           28.00               Feb/2020         83.00            15-Jul-2025           83.00            15-Jul-2025           70.00             Jun/2026
+       Revise                         Comments on achieving targets        5/6 statistical outputs are produced using international standards and predetermined release calendar and
+            Burkina Faso
+                                                                           published by the NSO: 1) household poverty survey (Poverty indices), 2) CPI (Inflation rate), 3) agricultural
+       (Percentage)
+                                                                           census and annual survey data (agricultural production), 4) national accounts (GDP growth rate), and 5) labor
+                                                                           force surveys ( underemployment rate).
+                                           28.00               Feb/2020         67.00            15-Jul-2025           67.00            15-Jul-2025           70.00             Dec/2026
+
+       Cote D’Ivoire (Percentage)     Comments on achieving targets        4/6 statistical outputs are produced using international standards and predetermined release calendar and
+                                                                           published by the NSO: 1) household poverty survey (Poverty indices), 2) CPI (Inflation rate), 3) national accounts
+                                                                           (GDP growth rate), 6) labor force surveys
+Enhance the use of statistics
+            Indicator Name                         Baseline                        Actual (Previous)                       Actual (Current)                        Closing Period
+                                          Result              Month/Year        Result              Date               Result                 Date            Result           Month/Year
+                                           0.00                Feb/2020         100.00           15-Jul-2025           100.00           15-Jul-2025           100.00            Dec/2026
+
+Share of countries that produce and   Comments on achieving targets        Achievement: The share of countries that produce and disseminate at least two analytical reports using survey,
+disseminate at least two analytical                                        macro or administrative data generated by the project has achieved the end target. The National Statistics
+reports using survey, macro or                                             Offices websites widely disseminate both the data and reports produced under the project. Achievement under
+administrative data. (Percentage)                                          intermediate indicator 4 is linked with the PDO indicator 5: Overall 75 reports were produced - Ghana produced
+                                                                           10 reports; Sierra Leone-2; Togo-2; Liberia - 11; Cabo Verde 3; Burkina Faso-41; Cote d'Ivoire-6. Target achieved
+                                                                           since all 7 countries produced and disseminated 2 or more reports.
+                                           0.00                Feb/2020          6.23            15-Jul-2025            6.23            15-Jul-2025           10.00             Dec/2026
+                                      Comments on achieving targets        Achievement: The user satisfaction index will be computed from user satisfaction surveys. The overall actual
+                                                                           aggregate value is increased from 3.8 to 6.23 percent. Ghana increased from 3.3 to 4.7 percent; Cabo Verde
+Increase in user satisfaction index                                        maintained to 12.6 percent; Burkina Faso maintained 12.6 percent. Liberia the first survey was conducted and
+(Percentage)                                                               the second survey will be conduced in the first quarter of 2026; Sierra Leone, the first survey was conducted and
+                                                                           the second survey is planned in the first quarter of 2026; Togo - The first survey conducted and and the baseline
+                                                                           is 9 percent and the second survey will beconducted before the project closing date; Cote d'Ivoire the first
+                                                                           survey was conducted and the baseline is 5.3 percent and the second survey will be conducted before the
+                                                                           proejct closing date.
+       Ghana (Percentage)                  0.00                Feb/2020          4.70            15-Jul-2025            4.70            15-Jul-2025           10.00             Dec/2026
+
+
+                                                                                                                                                                                             Page 22
+         The World Bank
+         Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+                                     Comments on achieving targets         79 percent resported in 2018. This was used as the baseline, The last survey reported 76.9 percent in 2022
+                                                                           indicating 2 percentage reduction. This was used as the current value for 2024.
+                                           0.00                Feb/2020          0.00            15-Jul-2025            0.00            15-Jul-2025            10.00             Dec/2026
+                                     Comments on achieving targets         The first User Satisfaction Survey provided critical feedback on the accessibility, quality, and relevance of
+      Liberia (Percentage)                                                 statistical products and services delivered by the national statistics office. Its findings have informed ongoing
+                                                                           reforms to improve data dissemination practices and strengthen user engagement. This survey is the baseline.
+                                                                           The second survey can will be conducted in the first quarter of 2026.
+                                           0.00                Feb/2020          0.00            15-Jul-2025            0.00            15-Jul-2025            10.00             Dec/2026
+
+      Sierra Leone (Percentage)      Comments on achieving targets         The first User Satisfaction Survey offered valuable insights into how users perceive the usefulness and reliability
+                                                                           of official statistics. The results are being used to guide improvements in data quality, responsiveness to user
+                                                                           needs, and overall trust in the statistical system. This survey is the baseline.
+                                           0.00                Feb/2020          9.00            15-Jul-2025            9.00            15-Jul-2025            10.00             Dec/2026
+      Revise   Togo (Percentage)     Comments on achieving targets         Baseline is 65%. Two more user satisfaction surveys are expected, one is ongoing.
+
+                                           0.00                Feb/2020         12.00            15-Jul-2025            12.00           15-Jul-2025            10.00             Dec/2026
+      Revise
+           Cabo Verde
+                                     Comments on achieving targets         Baseline 50.5 percent and the recent one 62.2 percent satisfaction. The difference between the baselien and the
+      (Percentage)
+                                                                           current value is 12 percent
+                                           0.00                Feb/2020         12.60            15-Jul-2025            12.60           15-Jul-2025            10.00             Jun/2026
+      Revise
+           Burkina Faso
+                                     Comments on achieving targets         Baseline value is 78.4percent in 2021 and 91.0percent in 2024 satisfaction survey result. So, the differnce is 12.6
+      (Percentage)
+                                                                           percent.
+                                           0.00                Feb/2020          5.30            15-Jul-2025            5.30            15-Jul-2025            10.00             Dec/2026
+      Cote D’Ivoire (Percentage)     Comments on achieving targets         The baseline value is 74.7percent based on the first survey. The next survey will be conducted before the proejct
+                                                                           closing date.
+
+
+
+Intermediate Results Indicators by Components
+
+
+Regional component: Harmonization, Data Collection, Quality Improvement, Dissemination and Use of Core Social and Economic Statistics
+           Indicator Name                          Baseline                        Actual (Previous)                       Actual (Current)                         Closing Period
+                                          Result              Month/Year        Result              Date               Result                 Date             Result          Month/Year
+                                            No                 Feb/2020          Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+
+
+
+                                                                                                                                                                                               Page 23
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+Manuals on reprocessing and             Comments on achieving targets      Achievement: The manuals on reprocessing and adjustment methodologies to produce and manage all core
+adjustment methodologies adopted                                           economic and social statisticsare on track for all project participating countries. All seven countries achieved
+for producing and managing all core                                        the target.
+economic and social statistics
+(disaggregated by participating
+countries) (Yes/No) (Yes/No)
+       Ghana (Yes/No)                         No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+       Liberia (Yes/No)                       No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+       Sierra Leone (Yes/No)                  No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+       Revise   Togo (Yes/No)                 No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+       Revise   Cabo Verde (Yes/No)           No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+       Revise   Burkina Faso (Yes/No)         No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Jun/2026
+       Cote D’Ivoire (Yes/No)                 No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+Regional platform built or updated            No            Feb/2020             Yes             15-Jul-2025             Yes            15-Jul-2025             Yes              Dec/2026
+that enables data access, archiving     Comments on achieving targets      Achievement: At the ECOWAS level regional platforms exist and is being updated to enable data access,
+and dissemination (Yes/No)                                                 archiving, and dissemination.
+(Yes/No)
+                                           78.00           Feb/2020             232.00           15-Jul-2025           232.00           15-Jul-2025           132.00             Dec/2026
+Number of UNSD Minimum List            Comments on achieving targets       Achievement: The aggregate performance of the UNSD minimum list of gender indicators available using data
+gender indicators available using data                                     collected within the past 5 years increased from 207 to 232. The number of UNSD minimum list of gender
+collected within the past 5 years                                          indicators available using data collected in Togo has increaed from 10 to 30; Ghana increased from 52 to 54;
+(Number)                                                                   Sierra Leone maintained 24; Liberia increased from 21 to 23; Cote d'Ivoire maintained 25; Cabo Verde increased
+                                                                           from 21 to 22; and Burkina Faso maintained to 54.
+       Revise   Togo (Number)                7.00           Feb/2020            30.00            15-Jul-2025            30.00           15-Jul-2025            12.00             Dec/2026
+       Ghana (Number)                        18.00          Feb/2020            54.00            15-Jul-2025            54.00           15-Jul-2025            24.00             Dec/2026
+       Sierra Leone (Number)                 10.00          Feb/2020            24.00            15-Jul-2025            24.00           15-Jul-2025            17.00             Dec/2026
+       Liberia (Number)                      3.00           Feb/2020            23.00            15-Jul-2025            23.00           15-Jul-2025            18.00             Dec/2026
+       Cote d'Ivoire (Number)                5.00           Feb/2020            25.00            15-Jul-2025            25.00           15-Jul-2025            16.00             Dec/2026
+       Revise   Cabo Verde (Number)          18.00          Feb/2020            22.00            15-Jul-2025            22.00           15-Jul-2025            22.00             Dec/2026
+       Revise   Burkina Faso (Number)        17.00          Feb/2020            54.00            15-Jul-2025            54.00           15-Jul-2025            23.00             Jun/2026
+Country-Specific Component: Improving and modernizing physical and statistical infrastructure
+
+
+                                                                                                                                                                                              Page 24
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+            Indicator Name                             Baseline                        Actual (Previous)                     Actual (Current)                       Closing Period
+                                              Result              Month/Year        Result              Date              Result                Date            Result          Month/Year
+                                        0 for all countries        Feb/2020         69.00           15-Jul-2025           69.00           15-Jul-2025       3 reports per        Dec/2026
+Number of analytical reports                                                                                                                                   country
+produced and disseminated using
+survey, macro or administrative data    Comments on achieving targets          Achievement: Overall 69 reports were produced - Ghana produced 10 reports; Sierra Leone-7; Togo-2; Liberia -
+per country (Text)                                                             3; Burkina Faso-41; Cote d'Ivoire produced 6, but pending approval for dissemination. Cabo Verde is not
+                                                                               implimenting this indicator.
+NSS staff trained to produce welfare           0.00                Feb/2020         1,273           15-Jul-2025           1,273           15-Jul-2025           69.00            Dec/2026
+and macroeconomic statistics            Comments on achieving targets          Achievement: At the aggregate level 1273 NSS staff trained. In Ghana (450), Liberia (99); Sierra Leone (200),
+(disaggregated by participating                                                Togo (20); Burkina Faso (487), and Cote d'Ivoire (17) NSS staff trained to produce welfare and macroeconomic
+countries) (number) (Number)                                                   statistics. Cabo Verde is not implimenting this indicator.
+       Ghana (Number)                          0.00                Feb/2020          450            15-Jul-2025            450            15-Jul-2025           12.00            Dec/2026
+       Liberia (Number)                        0.00                Feb/2020           99            15-Jul-2025             99            15-Jul-2025            9.00            Dec/2026
+       Sierra Leone (Number)                   0.00                Feb/2020          200            15-Jul-2025            200            15-Jul-2025            9.00            Dec/2026
+       Revise   Togo (Number)                  0.00                Feb/2020           20            15-Jul-2025             20            15-Jul-2025           12.00            Dec/2026
+       Revise   Burkina Faso (Number)          0.00                Feb/2020          487            15-Jul-2025            487            15-Jul-2025           12.00            Dec/2026
+       Cote d'Ivoire (Number)                  0.00                Feb/2020           17            15-Jul-2025             17            15-Jul-2025           15.00            Dec/2026
+                                              12.00                Feb/2020          8.30           15-Jul-2025            8.30           15-Jul-2025            8.00            Dec/2026
+Months between end of data             Comments on achieving targets           Achievement: The aggregate performance is 8.34 months less than previously reported months of 9.72 months.
+collection and dissemination of main                                           In Ghana the number of months between the end of data collection of major surveys and the release of the
+report (disaggregated by participating                                         main results increased from 8.3 to 8.6 months compared to the previous actual value; in Liberia maintained to
+countries) (number) (Number)                                                   10 months, in Sierra Leone maintained to 4, in Togo maintained to 8; in Cabo Verde maintained to 8; in Burkina
+                                                                               Faso maintained to 6; and in Cote D'Ivoire decreased from 23.91 to 13.8 months.
+       Ghana (Number)                         11.00                Feb/2020          8.60           15-Jul-2025            8.60           15-Jul-2025            6.00            Dec/2026
+       Liberia (Number)                       12.00                Feb/2020         10.00           15-Jul-2025           10.00           15-Jul-2025            8.00            Dec/2026
+       Sierra Leone (Number)                  12.00                Feb/2020          4.00           15-Jul-2025            4.00           15-Jul-2025            8.00            Dec/2026
+       Revise   Togo (Number)                 10.00                Feb/2020          8.00           15-Jul-2025            8.00           15-Jul-2025            6.00            Dec/2026
+       Revise   Cabo Verde (Number)           12.00                Feb/2020          8.00           15-Jul-2025            8.00           15-Jul-2025            8.00            Dec/2026
+       Revise   Burkina Faso (Number)         10.00                Feb/2020          6.00           15-Jul-2025            6.00           15-Jul-2025            6.00            Jun/2026
+       Cote D’Ivoire (Number)                 10.00                Feb/2020         13.80           15-Jul-2025           13.80           15-Jul-2025            6.00            Dec/2026
+
+
+
+                                                                                                                                                                                               Page 25
+          The World Bank
+          Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+Internationally accepted statistical          No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+concepts, definitions and standards     Comments on achieving targets   Achievement: All the seven project participating countries are using the concepts and standards adopted
+are used for data compilation and                                       by ECOWAS (NSNA 2008, harmonized methodology for the CPI, harmonized methodology for enterprises
+validation (disaggregated by                                            surveys) and FAO (AGRI surveys).
+participating countries) (Yes/No)
+(Yes/No)
+       Ghana (Yes/No)                         No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Liberia (Yes/No)                       No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Sierra Leone (Yes/No)                  No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Revise   Togo (Yes/No)                 No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Revise   Cabo Verde (Yes/No)           No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Revise   Burkina Faso (Yes/No)         No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Jun/2026
+       Cote D’Ivoire (Yes/No)                 No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+                                              No            Feb/2020           No            15-Jul-2025             No             15-Jul-2025            Yes             Dec/2026
+Data Quality Assessment Framework       Comments on achieving targets   Achievement: In Ghana, Liberia, Burkina Faso, and Cote d'Ivoire, Sierra Leone, and Cabo Verde the assessment
+developed (Yes/No) (Yes/No)                                             of data quality assessment framework was developed and applied. A calendar of dissemination of the main
+                                                                        statistical products is developed and adopted as well. In Togo the assessment is under progress.
+       Ghana (Yes/No)                         No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Liberia (Yes/No)                       No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Sierra Leone (Yes/No)                  No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Revise   Togo (Yes/No)                 No            Feb/2020           No            15-Jul-2025             No             15-Jul-2025            Yes             Dec/2026
+       Revise   Cabo Verde (Yes/No)           No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Revise   Burkina Faso (Yes/No)         No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Jun/2026
+       Cote d'Ivoire (Yes/No)                 No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+                                              No            Feb/2020           No            15-Jul-2025             No             15-Jul-2025            Yes             Dec/2026
+Data release calendar updated           Comments on achieving targets   Achievement: In Ghana, Liberia, Cabo Verde, Burkina Faso, Sierra Leone, and Cote d'Ivoire the data release
+regularly (Yes/No) (Yes/No)                                             calendar of dissemination of the main statistical products is updated regularly. The implementation in Togo is
+                                                                        on track to meet the target.
+       Ghana (Yes/No)                         No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+       Liberia (Yes/No)                       No            Feb/2020          Yes            15-Jul-2025             Yes            15-Jul-2025            Yes             Dec/2026
+
+
+
+                                                                                                                                                                                         Page 26
+   The World Bank
+   Harmonizing and Improving Statistics in West Africa (P169265)
+
+
+
+
+Sierra Leone (Yes/No)            No          Feb/2020          Yes   15-Jul-2025   Yes   15-Jul-2025   Yes   Dec/2026
+Revise   Togo (Yes/No)           No          Feb/2020          No    15-Jul-2025   No    15-Jul-2025   Yes   Dec/2026
+Revise   Cabo Verde (Yes/No)     No          Feb/2020          Yes   15-Jul-2025   Yes   15-Jul-2025   Yes   Dec/2026
+Revise   Burkina Faso (Yes/No)   No          Feb/2020          Yes   15-Jul-2025   Yes   15-Jul-2025   Yes   Jun/2026
+Cote d'Ivoire (Yes/No)           No          Feb/2020          Yes   15-Jul-2025   Yes   15-Jul-2025   Yes   Dec/2026
+
+
+
+
+                                                                                                                        Page 27
+

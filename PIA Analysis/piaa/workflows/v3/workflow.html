@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Workflow v3</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}code{background:#eef1f5;padding:1px 4px;border-radius:3px}
+.note{background:#eef6ff;border-left:4px solid #2f6fed;padding:8px 12px;border-radius:0 6px 6px 0}</style></head>
+<body>
+<h1>Workflow v3 - DDAT coding + applied / mentioned check</h1>
+<p class="note"><b>Why v3.</b> Reviewing v2 output against one or two pages of context showed that a coded sentence can describe an approach the project does not adopt: a future phase, a government vision, another programme, a lesson cited as justification, an option weighed in design, or a system built under a parent project. The sentence-level evidence level (L1/L2/L3) does not reliably catch this because the sentence itself often reads like a plan. v3 therefore adds an explicit <b>adoption</b> dimension decided from the wider context.</p>
+<h2>Methodology addition (step 7, <code>adoption</code>)</h2>
+<ol>
+<li>For every project × approach produced by aggregation, take the strongest coded sentence (highest evidence level, PAD before ISR).</li>
+<li>Rebuild about one page (~3,200 characters) of the source document around it, with paragraph structure restored and the sentence marked.</li>
+<li>The model answers: <code>applied</code> (the project finances, procures, builds, deploys, pilots, scales or requires the approach: component activity, cost line, indicator/DLI, covenant, or reported progress) or <code>mentioned</code>, with one reason category:</li>
+</ol>
+<table>
+<tr><th>mention_for</th><th>Meaning</th><th>Typical wording</th></tr>
+<tr><td>future_plan</td><td>A later phase or follow-on operation</td><td>"will be considered", "may explore", "in the medium term", "Phase II"</td></tr>
+<tr><td>aspiration_or_vision</td><td>Government vision, strategy, hopes, generic benefits of the technology</td><td>"the Government envisions", "digital technologies can", "is expected to transform"</td></tr>
+<tr><td>other_program</td><td>Another project, donor, agency or programme does it; background</td><td>"financed by the EU", "the Ministry has launched", "under the national programme"</td></tr>
+<tr><td>lesson_or_reference</td><td>Lessons learned or international experience cited as justification</td><td>"experience from Kenya shows", "lessons from the previous project"</td></tr>
+<tr><td>option_considered</td><td>Alternatives weighed in design but not financed</td><td>"an alternative would be", "was considered but"</td></tr>
+<tr><td>parent_or_prior</td><td>Built under a parent or earlier project; this project does not finance its expansion</td><td>"developed under the parent project", "existing system will be used"</td></tr>
+<tr><td>unclear</td><td>The text does not allow a judgement</td><td>—</td></tr>
+</table>
+<ol start="4">
+<li>The model also re-states the evidence level after reading the context; a confidence below 0.5 for "applied" is downgraded to "mentioned / unclear".</li>
+<li>Approach status becomes <code>validated</code> (applied and L2/L3), <code>mentioned_only</code>, or <code>referenced_only</code> (L1 only). Headline counts use <code>validated</code>; mentioned approaches stay in the database with their reason so that "mention without adoption" can be reported per project, sector and theme.</li>
+</ol>
+<h2>Replication column (step 9, <code>replication</code>) - how a "repeat" is detected and verified</h2>
+<ol>
+<li><b>Explicit reference.</b> The project's documents are scanned for other in-scope project IDs (P-codes) and for other in-scope project names of three words or more. A hit within ±300 characters of replication language ("builds on", "replicates", "scaled from", "lessons from", "parent project", "additional financing", "modelled on", "second phase" …) scores 0.9 (P-code) / 0.8 (name); without such language 0.5 / 0.4. The passage is stored as the link's evidence.</li>
+<li><b>Similar approach.</b> The approach text (DDAT name + coded sentences) is compared by TF-IDF cosine similarity with every approach already stored for other projects in the portfolio store; links at or above 0.30 are kept (max 5), with the matched approach's id and score. The scan is incremental: each project is compared with what is already in the store, and a final <code>rescan</code> refreshes all links once the portfolio is complete.</li>
+<li><b>Direction.</b> Approval dates decide: the earlier project is the origin (<code>replicated_by</code>), the later one <code>replicates</code>.</li>
+<li><b>Reviewer verification.</b> In the web app every link has a <b>Verify</b> action that shows, side by side, this project's evidence in its page context and the other project's matching evidence (or the explicit-reference passage with the P-code highlighted), with a one-click jump to the other project. The reviewer records <code>confirmed</code> or <code>rejected</code> with a note; the verdict is stored per approach (<code>replication_verdict</code>) and exported.</li>
+</ol>
+<h2>Everything else is v2</h2>
+<p>Segmentation, keyword and semantic matching, batched classification with the cached DDAT taxonomy, aggregation, Note 2 solution / pillar mapping, replication scan and Run A / Run B quality control are unchanged (see the v2 definition and CHANGELOG).</p>
+<h2>Reviewer tooling</h2>
+<p>In the web app every evidence sentence has a <b>Review in context</b> action that rebuilds 1-4 pages of the source document on demand with the sentence, other coded sentences and approach keywords highlighted, and with aspiration / commitment wording flagged, so the applied-vs-mentioned decision can be checked quickly and overridden per approach.</p>
+</body></html>

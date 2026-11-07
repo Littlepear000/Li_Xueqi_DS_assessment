@@ -1,0 +1,1112 @@
+{
+  "project_id": "P511696",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4241bce5",
+  "started_at": "2026-11-07T03:39:15Z",
+  "ended_at": "2026-11-07T03:39:33Z",
+  "input_fingerprint": "03cb7d2e14cb0e2d",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 10,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P511696-A1",
+      "project_id": "P511696",
+      "name": "digital ambassador training and public middle-mile fiber for rural connectivity",
+      "description": "Trains local Digital Ambassadors to deliver internet safety training and builds public middle-mile fiber where private investment is unviable. Practices: Digital Ambassadors train-the-trainer digital literacy delivery; public middle-mile fiber network enabling private ISP retail expansion.",
+      "why_innovative": "New delivery arrangement: local trainers mobilize and train communities - cue: 'train-the-trainer' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099072525141014574",
+        "doc_type": "ProjectPaper",
+        "doc_date": "2025-07-23",
+        "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+        "char_start": 21179,
+        "char_end": 21437,
+        "text": "Furthermore, the DAIP has trained 3,500 people, adopting a train-the-trainer approach in its implementation by leveraging local talent (as ‘Digital Ambassadors’) in the connected municipalities to deliver trainings and contribute to beneficiary mobilization.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 21438,
+          "char_end": 21648,
+          "text": "Other digital literacy projects like the EU- funded Rural Development through Digital Inclusion (REDI) program are using these trainers for follow-up activities, ensuring continued support to rural communities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 50796,
+          "char_end": 51179,
+          "text": "As a middle mile network aiming to provide access to fiber optic middle mile infrastructure to rural settlements that are financially unviable for the private sector, the Parent and AF Project enable private capital by: (i) stimulating parallel expansion of middle mile fiber optic networks to the more viable rural areas, given that least viable are being covered by the ON network;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 51180,
+          "char_end": 51383,
+          "text": "(ii) expansion of retail networks by ISPs and mobile operators to connect people and businesses in connected rural settlements; and (iii) upgrading retail network infrastructure for existing subscribers.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 51384,
+          "char_end": 51562,
+          "text": "As a result of the Parent Project’s effective implementation, an additional US$ 20 million of private sector investment is estimated to be enabled – see annex 2 for details.20 C.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: local actors deliver training, not a new technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Digital Infrastructure",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital literacy training delivered via connected municipalities, serving the broadband/digital infrastructure project's adoption goals.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169698",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "S$ 1 EUR 0.88 = US$ 1 FISCAL YEAR January 1 - December 31 Regional Vice President: Antonella Bassani Regional Director: Michel Kerf Division Director: Rolande Simone Pryce Practice Manager: Constantin Rusu Task Team Leader(s): Himmat Singh Sandhu, Maria Claudia Pachon The World Bank Log-In Georgia (P169698) PROJECT PAPER ABBREVIATIONS AND ACRONYMS AF Additional Financing AM Accountability Mechanis"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: Digital Ambassadors network | Innovative: community trainers deliver and mobilize | Category: local actors deliver training",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: local trainers mobilize and train communities - cue: 'train-the-trainer'",
+      "innovation_cues": [
+        "private-capital"
+      ]
+    },
+    {
+      "approach_id": "P511696-A2",
+      "project_id": "P511696",
+      "name": "underground middle-mile fiber network with Ookla speed monitoring",
+      "description": "Deploys ~1,200 km of underground middle-mile fiber to rural settlements and uses Ookla subnational data to monitor broadband speeds. Practices: underground fiber deployment as climate-resilience measure; middle mile fiber network to 79 rural settlements; Ookla subnational data for broadband speed monitoring.",
+      "why_innovative": "New process: climate-resilient underground cable routing - cue: 'climate-smart' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099072525141014574",
+        "doc_type": "ProjectPaper",
+        "doc_date": "2025-07-23",
+        "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+        "char_start": 64309,
+        "char_end": 64470,
+        "text": "For example, to mitigate the risks of landslides or high snowfall in mountainous areas, the network is deployed underground (at higher cost) instead of aerially.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 64471,
+          "char_end": 64855,
+          "text": "A major telecom operator in Georgia faced a country-wide outage in January 2025 due to damage to cross-border links with Türkiye, with heavy snowfall limiting repair capabilities.29 As such, the project will continue to deploy underground fiber as a climate resilience measure to mitigate the risk of leaving rural population unconnected due to snowstorms, landslides or flash floods.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 75917,
+          "char_end": 76278,
+          "text": "More specifically, the AF will finance the remaining network in Eastern Georgia by deploying the middle mile connectivity to the areas of Kvemo Kartli, Samtskhe-Javakheti, Mtskheta-Mtianeti, and Kakheti to cover 79 rural settlements, requiring approximately 1,200 km of middle mile infrastructure, completing the pan-national network in all regions as designed.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 75630,
+          "char_end": 75756,
+          "text": "Proceeds of the AF will be utilized to complete extending access to broadband services coutrywide as per the Open Net Program.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 75757,
+          "char_end": 75916,
+          "text": "Toward this end, bulk of the AF will supplement Component 1 alloction supporting both Passive Infrastructure Development and Active Infrastructure Procurement.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 107322,
+          "char_end": 107650,
+          "text": "Collection Responsibility for Data PIE (Open Net) Collection Page 37 The World Bank Log-In Georgia(P169698) PROJECT PAPER Indicator Name New Median mobile broadband download speed in connected settlements (Mbps) (Number) Description Median mobile internet download speed in connected municipalities using Ookla subnational data.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 107696,
+          "char_end": 107890,
+          "text": "Ookla data Methodology for Data Calculated measuring the median of the median mobile download speed in the settlements connected by Open Net Collection Responsibility for Data WB for Ookla data;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099072525141014574",
+          "doc_type": "ProjectPaper",
+          "doc_date": "2025-07-23",
+          "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+          "char_start": 107891,
+          "char_end": 108134,
+          "text": "PIE for conencted settlements Collection New Indicator Name Median fixed broadband download speed in connected settlements (Mbps) (Number) Description Median fixed broadband download speed in connected settlements using Ookla subnational data.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: engineering adaptation of network to hazards",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Digital Infrastructure",
+        "code": "",
+        "confidence": null,
+        "rationale": "Underground fiber deployment is a physical digital infrastructure measure.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169698",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "S$ 1 EUR 0.88 = US$ 1 FISCAL YEAR January 1 - December 31 Regional Vice President: Antonella Bassani Regional Director: Michel Kerf Division Director: Rolande Simone Pryce Practice Manager: Constantin Rusu Task Team Leader(s): Himmat Singh Sandhu, Maria Claudia Pachon The World Bank Log-In Georgia (P169698) PROJECT PAPER ABBREVIATIONS AND ACRONYMS AF Additional Financing AM Accountability Mechanis"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: underground fiber network | Innovative: resilience-driven routing choice | Category: adapted technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: climate-resilient underground cable routing - cue: 'climate-smart'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P511696",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "guid": "099072525141014574",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 1 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-07-23, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "10 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 10,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 2,
+          "enabling_processes": 2,
+          "innovation": 2,
+          "innovation_cycle": 2,
+          "enabling_technologies": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "ProjectPaper 2025-07-23 (P511696_ProjectPaper_2025-07-23_099072525141014574.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P511696",
+            "doc_type": "ProjectPaper",
+            "doc_date": "2025-07-23",
+            "guid": "099072525141014574",
+            "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:15Z",
+      "status": "ok",
+      "note": "82 reading units (6 numbered paragraphs) from 568 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 82
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:15Z",
+      "ended_at": "2026-11-07T03:39:16Z",
+      "status": "ok",
+      "note": "67 of 82 units carry a digital / AI cue (18 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 67,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 18
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:16Z",
+      "ended_at": "2026-11-07T03:39:22Z",
+      "status": "ok",
+      "note": "11 candidate practices from 67 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 214663,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1323,
+          "cached_tokens": 44155,
+          "cache_write_tokens": 0,
+          "output_tokens": 2677,
+          "seconds": 21.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0039
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:22Z",
+      "ended_at": "2026-11-07T03:39:28Z",
+      "status": "ok",
+      "note": "6 accepted, 5 rejected (not_innovative 5); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 38036,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4907,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 814,
+          "seconds": 5.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0025
+        },
+        "accepted": 6,
+        "rejected": 5,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 5
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:39:28Z",
+      "ended_at": "2026-11-07T03:39:30Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1845,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 404,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 210,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:39:30Z",
+      "ended_at": "2026-11-07T03:39:31Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1903,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 421,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 117,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:39:31Z",
+      "ended_at": "2026-11-07T03:39:33Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7225,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1068,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 189,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:39:33Z",
+      "ended_at": "2026-11-07T03:39:33Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 13 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:39:33Z",
+      "ended_at": "2026-11-07T03:39:33Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P169698",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "S$ 1 EUR 0.88 = US$ 1 FISCAL YEAR January 1 - December 31 Regional Vice President: Antonella Bassani Regional Director: Michel Kerf Division Director: Rolande Simone Pryce Practice Manager: Constantin Rusu Task Team Leader(s): Himmat Singh Sandhu, Maria Claudia Pachon The World Bank Log-In Georgia (P169698) PROJECT PAPER ABBREVIATIONS AND ACRONYMS AF Additional Financing AM Accountability Mechanis"
+          }
+        ],
+        "store_size": 290
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P511696-A1-E1",
+      "approach_id": "P511696-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U14",
+      "para_no": 8,
+      "sentence_position": 99,
+      "char_start": 21179,
+      "char_end": 21437,
+      "sentence": "Furthermore, the DAIP has trained 3,500 people, adopting a train-the-trainer approach in its implementation by leveraging local talent (as ‘Digital Ambassadors’) in the connected municipalities to deliver trainings and contribute to beneficiary mobilization.",
+      "practice": "Digital Ambassadors train-the-trainer digital literacy delivery",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: local Digital Ambassadors training network | Not routine: community trainers, reused by other programs | Adoption: 'has trained'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Digital Ambassadors network | Innovative: community trainers deliver and mobilize | Category: local actors deliver training",
+      "keywords_hit": "Digital Literacy;backbone;broadband;connectivity;digital inclusion;digital literacy;fiber",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: local trainers mobilize and train communities - cue: 'train-the-trainer'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A1-E2",
+      "approach_id": "P511696-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U14",
+      "para_no": 8,
+      "sentence_position": 100,
+      "char_start": 21438,
+      "char_end": 21648,
+      "sentence": "Other digital literacy projects like the EU- funded Rural Development through Digital Inclusion (REDI) program are using these trainers for follow-up activities, ensuring continued support to rural communities.",
+      "practice": "Digital Ambassadors train-the-trainer digital literacy delivery",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: local Digital Ambassadors training network | Not routine: community trainers, reused by other programs | Adoption: 'has trained'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Digital Ambassadors network | Innovative: community trainers deliver and mobilize | Category: local actors deliver training",
+      "keywords_hit": "Digital Literacy;backbone;broadband;connectivity;digital inclusion;digital literacy;fiber",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: local trainers mobilize and train communities - cue: 'train-the-trainer'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A1-E3",
+      "approach_id": "P511696-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U35",
+      "para_no": null,
+      "sentence_position": 253,
+      "char_start": 50796,
+      "char_end": 51179,
+      "sentence": "As a middle mile network aiming to provide access to fiber optic middle mile infrastructure to rural settlements that are financially unviable for the private sector, the Parent and AF Project enable private capital by: (i) stimulating parallel expansion of middle mile fiber optic networks to the more viable rural areas, given that least viable are being covered by the ON network;",
+      "practice": "public middle-mile fiber network enabling private ISP retail expansion",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: rural fiber middle-mile network | Not routine: public funding crowds in private ISPs | Adoption: 'enable private capital by'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rural middle-mile fiber | Innovative: public wholesale crowds in private ISPs | Category: public-private delivery",
+      "keywords_hit": "fiber;telecom",
+      "innovation_cues": "private-capital",
+      "innovation_basis": "New delivery arrangement: public middle mile crowds in private capital - cue: 'private-capital'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A1-E4",
+      "approach_id": "P511696-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U35",
+      "para_no": null,
+      "sentence_position": 254,
+      "char_start": 51180,
+      "char_end": 51383,
+      "sentence": "(ii) expansion of retail networks by ISPs and mobile operators to connect people and businesses in connected rural settlements; and (iii) upgrading retail network infrastructure for existing subscribers.",
+      "practice": "public middle-mile fiber network enabling private ISP retail expansion",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: rural fiber middle-mile network | Not routine: public funding crowds in private ISPs | Adoption: 'enable private capital by'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rural middle-mile fiber | Innovative: public wholesale crowds in private ISPs | Category: public-private delivery",
+      "keywords_hit": "fiber;telecom",
+      "innovation_cues": "private-capital",
+      "innovation_basis": "New delivery arrangement: public middle mile crowds in private capital - cue: 'private-capital'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A1-E5",
+      "approach_id": "P511696-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U35",
+      "para_no": null,
+      "sentence_position": 255,
+      "char_start": 51384,
+      "char_end": 51562,
+      "sentence": "As a result of the Parent Project’s effective implementation, an additional US$ 20 million of private sector investment is estimated to be enabled – see annex 2 for details.20 C.",
+      "practice": "public middle-mile fiber network enabling private ISP retail expansion",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: rural fiber middle-mile network | Not routine: public funding crowds in private ISPs | Adoption: 'enable private capital by'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: rural middle-mile fiber | Innovative: public wholesale crowds in private ISPs | Category: public-private delivery",
+      "keywords_hit": "fiber;telecom",
+      "innovation_cues": "private-capital",
+      "innovation_basis": "New delivery arrangement: public middle mile crowds in private capital - cue: 'private-capital'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E1",
+      "approach_id": "P511696-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 350,
+      "char_start": 64309,
+      "char_end": 64470,
+      "sentence": "For example, to mitigate the risks of landslides or high snowfall in mountainous areas, the network is deployed underground (at higher cost) instead of aerially.",
+      "practice": "underground fiber deployment as climate-resilience measure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: underground fiber optic network | Not routine: resilience-driven routing choice | Adoption: 'will continue to deploy'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: underground fiber network | Innovative: resilience-driven routing choice | Category: adapted technology",
+      "keywords_hit": "fiber;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New process: climate-resilient underground cable routing - cue: 'climate-smart'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E2",
+      "approach_id": "P511696-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 351,
+      "char_start": 64471,
+      "char_end": 64855,
+      "sentence": "A major telecom operator in Georgia faced a country-wide outage in January 2025 due to damage to cross-border links with Türkiye, with heavy snowfall limiting repair capabilities.29 As such, the project will continue to deploy underground fiber as a climate resilience measure to mitigate the risk of leaving rural population unconnected due to snowstorms, landslides or flash floods.",
+      "practice": "underground fiber deployment as climate-resilience measure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: underground fiber optic network | Not routine: resilience-driven routing choice | Adoption: 'will continue to deploy'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: underground fiber network | Innovative: resilience-driven routing choice | Category: adapted technology",
+      "keywords_hit": "fiber;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New process: climate-resilient underground cable routing - cue: 'climate-smart'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E3",
+      "approach_id": "P511696-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 401,
+      "char_start": 75917,
+      "char_end": 76278,
+      "sentence": "More specifically, the AF will finance the remaining network in Eastern Georgia by deploying the middle mile connectivity to the areas of Kvemo Kartli, Samtskhe-Javakheti, Mtskheta-Mtianeti, and Kakheti to cover 79 rural settlements, requiring approximately 1,200 km of middle mile infrastructure, completing the pan-national network in all regions as designed.",
+      "practice": "middle mile fiber network to 79 rural settlements",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: open-access middle mile fiber | Not routine: wholesale open-net rural backbone model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle mile fiber | Innovative: wholesale open-net rural backbone | Category: new network technology",
+      "keywords_hit": "broadband;connectivity;fiber",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle mile to rural ISPs - cue: 'Open Net Program'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E4",
+      "approach_id": "P511696-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 399,
+      "char_start": 75630,
+      "char_end": 75756,
+      "sentence": "Proceeds of the AF will be utilized to complete extending access to broadband services coutrywide as per the Open Net Program.",
+      "practice": "middle mile fiber network to 79 rural settlements",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: open-access middle mile fiber | Not routine: wholesale open-net rural backbone model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle mile fiber | Innovative: wholesale open-net rural backbone | Category: new network technology",
+      "keywords_hit": "broadband;connectivity;fiber",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle mile to rural ISPs - cue: 'Open Net Program'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E5",
+      "approach_id": "P511696-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 400,
+      "char_start": 75757,
+      "char_end": 75916,
+      "sentence": "Toward this end, bulk of the AF will supplement Component 1 alloction supporting both Passive Infrastructure Development and Active Infrastructure Procurement.",
+      "practice": "middle mile fiber network to 79 rural settlements",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: open-access middle mile fiber | Not routine: wholesale open-net rural backbone model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle mile fiber | Innovative: wholesale open-net rural backbone | Category: new network technology",
+      "keywords_hit": "broadband;connectivity;fiber",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle mile to rural ISPs - cue: 'Open Net Program'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E6",
+      "approach_id": "P511696-A2",
+      "evidence_no": 6,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 521,
+      "char_start": 107322,
+      "char_end": 107650,
+      "sentence": "Collection Responsibility for Data PIE (Open Net) Collection Page 37 The World Bank Log-In Georgia(P169698) PROJECT PAPER Indicator Name New Median mobile broadband download speed in connected settlements (Mbps) (Number) Description Median mobile internet download speed in connected municipalities using Ookla subnational data.",
+      "practice": "Ookla subnational data for broadband speed monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: Ookla crowdsourced speed dataset | Not routine: replaces operator-reported speeds | Adoption: 'Calculated measuring'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Ookla crowdsourced speed dataset | Innovative: replaces operator-reported speeds | Category: data tool",
+      "keywords_hit": "broadband;fiber;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: crowdsourced speed data as results indicator - cue: 'Ookla data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E7",
+      "approach_id": "P511696-A2",
+      "evidence_no": 7,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 523,
+      "char_start": 107696,
+      "char_end": 107890,
+      "sentence": "Ookla data Methodology for Data Calculated measuring the median of the median mobile download speed in the settlements connected by Open Net Collection Responsibility for Data WB for Ookla data;",
+      "practice": "Ookla subnational data for broadband speed monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: Ookla crowdsourced speed dataset | Not routine: replaces operator-reported speeds | Adoption: 'Calculated measuring'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Ookla crowdsourced speed dataset | Innovative: replaces operator-reported speeds | Category: data tool",
+      "keywords_hit": "broadband;fiber;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: crowdsourced speed data as results indicator - cue: 'Ookla data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    },
+    {
+      "row_id": "P511696-A2-E8",
+      "approach_id": "P511696-A2",
+      "evidence_no": 8,
+      "number_of_evidence": 8,
+      "project_id": "P511696",
+      "doc_id": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-07-23",
+      "file_name": "P511696_ProjectPaper_2025-07-23_099072525141014574.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 524,
+      "char_start": 107891,
+      "char_end": 108134,
+      "sentence": "PIE for conencted settlements Collection New Indicator Name Median fixed broadband download speed in connected settlements (Mbps) (Number) Description Median fixed broadband download speed in connected settlements using Ookla subnational data.",
+      "practice": "Ookla subnational data for broadband speed monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Digital Infrastructure",
+      "extractor_reason": "Digital core: Ookla crowdsourced speed dataset | Not routine: replaces operator-reported speeds | Adoption: 'Calculated measuring'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Ookla crowdsourced speed dataset | Innovative: replaces operator-reported speeds | Category: data tool",
+      "keywords_hit": "broadband;fiber;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: crowdsourced speed data as results indicator - cue: 'Ookla data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4241bce5"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 359,
+      "char_start": 66768,
+      "char_end": 67062,
+      "sentence": "Therefore, by including energy efficiency requirements in bidding documents, the equipment procured will have energy efficiency considerations that are aligned with international good practices such as those established by ETSI and ITU around energy efficiency in the telecommunications sector.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "energy-efficiency requirements in telecom equipment bidding documents",
+      "reason": "reject: Energy-efficiency criteria in equipment bidding documents are standard procurement practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: green procurement criteria for network equipment - cue: 'bidding documents'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Energy-efficiency criteria in equipment bidding documents are standard procurement practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1284
+        }
+      ]
+    },
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 402,
+      "char_start": 76279,
+      "char_end": 76397,
+      "sentence": "The AF will also finance the procurement of the last active equipment necessary for the network's efficient operation.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DWDM active equipment for high-speed backbone transmission",
+      "reason": "reject: DWDM is standard telecom equipment procurement, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New product: DWDM optical multiplexing on rural backbone - cue: 'essential for optimizing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "DWDM is standard telecom equipment procurement, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1361
+        }
+      ]
+    },
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 527,
+      "char_start": 108374,
+      "char_end": 108717,
+      "sentence": "PIE for conencted settlements Collection Results Area Promoting the use of broadband-enabled digital services New Indicator Name Digital skills trainings conducted in connected rural settlements (Number) Description Number of physical training sessions conducted under the Digital Adoption and Inclusion Program in connected rural settlements.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Digital Adoption and Inclusion Program trainings in rural settlements",
+      "reason": "reject: Digital skills training sessions are routine programme delivery, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: targeted rural digital adoption program - cue: 'Digital Adoption and Inclusion Program'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Digital skills training sessions are routine programme delivery, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1782
+        }
+      ]
+    },
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 552,
+      "char_start": 116928,
+      "char_end": 117328,
+      "sentence": "PRIVATE CAPITAL ENABLING (PCE) Template Private sector solution being unlocked: Private investment by Internet Service Providers and mobile operators into expanding middle mile networks to more profitable areas and through retail networks (last mile connectivity) because of construction of the middle mile connectivity infrastructure using public funds in economically unviable areas by the project.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Private Capital Enabling template tracking ISP investment unlocked by public middle-mile",
+      "reason": "reject: PCE template is standard reporting, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: monetizing private capital mobilized by public connectivity - cue: 'private-capital'",
+      "innovation_cues": "private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "PCE template is standard reporting, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1333
+        }
+      ]
+    },
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 555,
+      "char_start": 117566,
+      "char_end": 117921,
+      "sentence": "Type: Monetary Target: 20,000,000 Estimation Methodology: Calculated as a per settlement investment cost on the basis of construction prices for awarded contracts under the Parent Project, multiplied by number of settlements covered by the private sector from the original list of areas where their investments were not planned in a three-year time frame.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Per-settlement investment-cost methodology to estimate private capital enabled",
+      "reason": "reject: PCE estimation methodology is standard M&E reporting, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: proxy valuation of mobilized private investment - cue: 'private-capital'",
+      "innovation_cues": "private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "PCE estimation methodology is standard M&E reporting, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1210
+        }
+      ]
+    },
+    {
+      "guid": "099072525141014574",
+      "doc_type": "ProjectPaper",
+      "position": 316,
+      "char_start": 59573,
+      "char_end": 59756,
+      "sentence": "Beneficiary feedback through implementation has resulted in ComCom adding new training modules and aiming to develop an online digital skills training platform for continued learning.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "beneficiary feedback loop reshaping digital skills training modules",
+      "reason": "reject: final check round 1: digital: incidental - Digital: feedback loop is programme design, online platform only planned | Before 2019: beneficiary feedback loops standard in WBG operations",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: feedback-driven course correction of training modules and planned online skills platform",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: online skills platform planned | Innovative: feedback triggers module redesign | Category: feedback-driven delivery",
+          "reject_code": "",
+          "context_chars": 1316
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: feedback loop is programme design, online platform only planned | Before 2019: beneficiary feedback loops standard in WBG operations",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 8123,
+    "cached_tokens": 47483,
+    "cache_write_tokens": 0,
+    "output_tokens": 4007,
+    "seconds": 32.3,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0075
+  }
+}

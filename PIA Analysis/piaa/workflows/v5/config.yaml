@@ -1,0 +1,76 @@
+name: "v5 - practice extraction from the PAD (reading units, validate, expand context)"
+description: >
+  One project = its Project Appraisal Document. The document is cut into reading units
+  (numbered PAD paragraphs, else ~1,200-character sentence windows). Units with a digital /
+  data / AI cue are read by the model, which extracts APPROACHES: specific, identifiable
+  practices, each mapped to one of the four working-paper categories (Operational,
+  Technological, Financial, Collaborative) with an adoption value (apply / prospect / discuss).
+  Every extracted approach is then judged; when the judge cannot decide from the unit alone the
+  context is widened by half a page on each side and the approach is judged again. Accepted
+  approaches get one sector and one theme from the project's own code lists, duplicates are
+  merged, and the result is one row per approach with all its evidence sentences.
+
+llm:
+  # leave empty to use the provider's default (claude-sonnet-4-5 / deepseek-flash); set to pin a model
+  model: ""
+  temperature: 0.0
+  max_tokens: 6000
+
+documents:
+  # first type found wins; the newest document of that type is read
+  priority: [PAD, ProjectPaper, ProgramDocument, PID]
+  min_latin_share: 0.7        # a document whose letters are mostly non-Latin (Arabic, Russian PADs) is skipped for the next candidate
+
+units:
+  target_chars: 1200          # sentence-window size when paragraph numbers cannot be followed
+  max_chars: 2400             # a longer numbered paragraph is cut at a sentence boundary
+  min_chars: 250              # shorter units are merged into the next one
+
+candidates:
+  require_cue: true           # only units with a digital / data / AI keyword cue are sent to the model
+  drop_boilerplate: true
+  max_units_per_project: 150  # when more units carry a cue, keep the ones with the most cues
+
+extract:
+  units_per_call: 10
+  parallel_calls: 4
+  cache_system: true
+  max_evidence_per_approach: 3
+
+validate:
+  approaches_per_call: 12
+  parallel_calls: 4
+  expand_chars: 1600          # about half a PAD page added on EACH side when the judge asks for more context
+  max_expansions: 1
+  # verdicts that trigger the expansion round (the judge may also answer accept / revise / reject directly)
+  expand_on: [expand, unsure]
+
+codes:
+  batch_size: 30
+  parallel_calls: 4
+
+merge:
+  enabled: true               # one call: group approaches that describe the same practice
+
+aggregation:
+  headline_adoption: [apply]
+  max_evidence_kept: 60
+
+replication:
+  explicit_reference: true
+  similarity: true
+  similarity_threshold: 0.30
+  max_links: 5
+
+steps: [locate_pad, units, candidates, extract, validate, codes, merge, aggregate, replication]
+
+steps_meta:
+  locate_pad:  {kind: python, label: "Locate PAD", summary: "Newest PAD of the project (fallback: Project Paper, Program Document, PID)", inputs: [document index], outputs: [document]}
+  units:       {kind: python, label: "Reading units", summary: "Numbered PAD paragraphs, else ~1,200-char sentence windows; char offsets kept", inputs: [document], outputs: [units]}
+  candidates:  {kind: python, label: "Cue filter", summary: "Units with a digital / data / AI keyword cue (DDAT lists + enabling technologies)", inputs: [units], outputs: [candidate units]}
+  extract:     {kind: llm, label: "Extract practices", summary: "6 units per call: specific practices -> category + adoption + evidence sentence ids", prompts: [00_system, 01_extract], inputs: [candidate units], outputs: [candidate approaches]}
+  validate:    {kind: llm, label: "Judge / expand", summary: "Accept, revise, reject - or widen context by half a page each side and judge again", prompts: [00_system, 02_validate, 03_revalidate], inputs: [candidate approaches], outputs: [accepted approaches, rejected log]}
+  codes:       {kind: llm, label: "Sector & theme", summary: "One sector and one theme per approach from the project's own projects.csv lists", prompts: [04_codes], inputs: [accepted approaches, projects.csv], outputs: [sector, theme]}
+  merge:       {kind: llm, label: "Merge duplicates", summary: "One call groups approaches that describe the same practice; evidence is pooled", prompts: [05_merge], inputs: [accepted approaches], outputs: [approaches]}
+  aggregate:   {kind: python, label: "Build records", summary: "One row per approach; number_of_evidence; adoption apply > prospect > discuss", inputs: [approaches], outputs: [approaches, evidence rows, exclusion log]}
+  replication: {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

@@ -1,0 +1,831 @@
+{
+  "project_id": "P176297",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "c798c6d0",
+  "started_at": "2026-11-07T03:32:55Z",
+  "ended_at": "2026-11-07T03:33:24Z",
+  "input_fingerprint": "dc9f54b76767c405",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 36,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P176297-A1",
+      "project_id": "P176297",
+      "name": "integrated digital STI knowledge-management and open-data platform",
+      "description": "The project finances PeruCRIS, an integrated research information system that digitizes CONCYTEC/PROCIENCIA processes and publishes STI data through open-data mechanisms. Practices: PeruCRIS integrated digital knowledge-management platform for STI; National STI evaluation system with R&D census and surveys; PeruCRIS open-data knowledge platform for STI data; PeruCRIS Stage 2 research information system.",
+      "why_innovative": "New service: integrated digital platform across innovation sectors - cue: 'digital platform' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "538891645205800037",
+        "doc_type": "PAD",
+        "doc_date": "2022-01-27",
+        "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+        "char_start": 82103,
+        "char_end": 82741,
+        "text": "Examples of specific activities include support to CONCYTEC’s and PROCIENCIA’s end-to-end digitalization and modernization of information and knowledge management systems and client services64; the development of an integrated digital platform across innovation sectors65; just-in-time analytical studies and position papers on key innovation policy reforms and topics (e.g. fiscal incentives for innovation, policies to promote innovation in the regions); and training and capacity building to improve management and monitoring and evaluation. b) 1.1.2 Enhance the quality standards for STI-focused PhD programs in Peruvian universities.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 81696,
+          "char_end": 81713,
+          "text": "Subcomponent 1.1.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 83236,
+          "char_end": 83630,
+          "text": "This support will be implemented in coordination with the National System of Evaluation, Accreditation and Certification of Educational Quality (SINEACE) and National Higher Education University Superintendency (SUNEDU) in order to promote the adoption of these standards. c) 1.1.3 Develop a national STI evaluation system to inform decision making on innovation policy and public expenditures.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 83631,
+          "char_end": 83810,
+          "text": "Support CONCYTEC and the national statistics institute (Instituto Nacional de Estadística e Informática, INEI)66 to develop robust indicators, rigorous surveys, and data services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 83811,
+          "char_end": 84023,
+          "text": "Supported surveys will include the Census of R&D in Research Centers, National Survey of public perception of STI, National 63 These do not overlap with the components of the SINACTI supported by the IDB project.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 84295,
+          "char_end": 84443,
+          "text": "65 Particularly, investments will increase the functionalities and deployment of the “PeruCRIS” platform - “Plataforma de gestion del conocimiento”.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 84918,
+          "char_end": 85230,
+          "text": "Furthermore, all of the data collected will be available to the public through government open data mechanisms and through the knowledge management platform (PeruCRIS), which was developed through the STIS project. d) 1.1.4 Evaluate the scope, performance, and institutional arrangements of leading PRIs in Peru.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "538891645205800037",
+          "doc_type": "PAD",
+          "doc_date": "2022-01-27",
+          "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+          "char_start": 207558,
+          "char_end": 207886,
+          "text": "Strengthening the institutional management capacities of CONCYTEC to strengthen its role as the governing body of SINACTI 8,000,000 6,779,661 Digital transformation of CONCYTEC 2,000,000 0.85 1,694,915 PeruCRIS - Stage 2 2,000,000 0.85 1,694,915 Concurrent funds management platform in PROCIENCIA 4,000,000 0.85 3,389,831 1.1.2.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the platform and MIS are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Industry, Trade and Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digitalizes government STI administration systems and integrated innovation-sector platform.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: PeruCRIS knowledge platform | Innovative: integrated cross-sector STI platform | Category: digital system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: integrated digital platform across innovation sectors - cue: 'digital platform'",
+      "innovation_cues": [
+        "innovation"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176297",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "guid": "538891645205800037",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:32:55Z",
+      "ended_at": "2026-11-07T03:33:01Z",
+      "status": "ok",
+      "note": "8 document(s) fetched from the WBG API; 13 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:01Z",
+      "ended_at": "2026-11-07T03:33:01Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-02-17, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:01Z",
+      "ended_at": "2026-11-07T03:33:04Z",
+      "status": "ok",
+      "note": "36 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 36,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 6,
+          "public_good": 3,
+          "results_based_management": 2,
+          "enabling_processes": 4,
+          "innovation_types": 5,
+          "innovation_cycle": 11,
+          "enabling_technologies": 5
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:04Z",
+      "ended_at": "2026-11-07T03:33:04Z",
+      "status": "ok",
+      "note": "PAD 2022-01-27 (P176297_PAD_2022-01-27_538891645205800037.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176297",
+            "doc_type": "PAD",
+            "doc_date": "2022-01-27",
+            "guid": "538891645205800037",
+            "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:04Z",
+      "ended_at": "2026-11-07T03:33:04Z",
+      "status": "ok",
+      "note": "167 reading units (23 numbered paragraphs) from 1297 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 167
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:04Z",
+      "ended_at": "2026-11-07T03:33:06Z",
+      "status": "ok",
+      "note": "56 of 167 units carry a digital / AI cue (45 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 56,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 45
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:06Z",
+      "ended_at": "2026-11-07T03:33:12Z",
+      "status": "ok",
+      "note": "10 candidate practices from 56 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 179579,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1271,
+          "cached_tokens": 38400,
+          "cache_write_tokens": 0,
+          "output_tokens": 2337,
+          "seconds": 19.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0034
+        },
+        "extracted": 10
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:12Z",
+      "ended_at": "2026-11-07T03:33:18Z",
+      "status": "ok",
+      "note": "4 accepted, 6 rejected (not_innovative 3, not_digital 2, unsupported_by_evidence 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 58811,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7118,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 714,
+          "seconds": 5.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.003
+        },
+        "accepted": 4,
+        "rejected": 6,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 2,
+          "not_innovative": 3,
+          "unsupported_by_evidence": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:18Z",
+      "ended_at": "2026-11-07T03:33:20Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1480,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 350,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 164,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:20Z",
+      "ended_at": "2026-11-07T03:33:21Z",
+      "status": "ok",
+      "note": "4 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1654,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 381,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 69,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:21Z",
+      "ended_at": "2026-11-07T03:33:23Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4119,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 539,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 80,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:23Z",
+      "ended_at": "2026-11-07T03:33:23Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 8 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:23Z",
+      "ended_at": "2026-11-07T03:33:24Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 170
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176297-A1-E1",
+      "approach_id": "P176297-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 468,
+      "char_start": 82103,
+      "char_end": 82741,
+      "sentence": "Examples of specific activities include support to CONCYTEC’s and PROCIENCIA’s end-to-end digitalization and modernization of information and knowledge management systems and client services64; the development of an integrated digital platform across innovation sectors65; just-in-time analytical studies and position papers on key innovation policy reforms and topics (e.g. fiscal incentives for innovation, policies to promote innovation in the regions); and training and capacity building to improve management and monitoring and evaluation. b) 1.1.2 Enhance the quality standards for STI-focused PhD programs in Peruvian universities.",
+      "practice": "PeruCRIS integrated digital knowledge-management platform for STI",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: PeruCRIS knowledge platform | Not routine: integrated cross-sector STI platform | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PeruCRIS knowledge platform | Innovative: integrated cross-sector STI platform | Category: digital system",
+      "keywords_hit": "digital platform",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New service: integrated digital platform across innovation sectors - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E2",
+      "approach_id": "P176297-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 465,
+      "char_start": 81696,
+      "char_end": 81713,
+      "sentence": "Subcomponent 1.1.",
+      "practice": "PeruCRIS integrated digital knowledge-management platform for STI",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: PeruCRIS knowledge platform | Not routine: integrated cross-sector STI platform | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PeruCRIS knowledge platform | Innovative: integrated cross-sector STI platform | Category: digital system",
+      "keywords_hit": "digital platform",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New service: integrated digital platform across innovation sectors - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E3",
+      "approach_id": "P176297-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U59",
+      "para_no": null,
+      "sentence_position": 471,
+      "char_start": 83236,
+      "char_end": 83630,
+      "sentence": "This support will be implemented in coordination with the National System of Evaluation, Accreditation and Certification of Educational Quality (SINEACE) and National Higher Education University Superintendency (SUNEDU) in order to promote the adoption of these standards. c) 1.1.3 Develop a national STI evaluation system to inform decision making on innovation policy and public expenditures.",
+      "practice": "National STI evaluation system with R&D census and surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: STI surveys and indicators | Not routine: new national STI data system | Adoption: 'support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: STI surveys/indicators data system | Innovative: national STI data system | Category: data system",
+      "keywords_hit": "census;survey",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New process: national STI indicators, surveys and data services informing policy",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E4",
+      "approach_id": "P176297-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U59",
+      "para_no": null,
+      "sentence_position": 472,
+      "char_start": 83631,
+      "char_end": 83810,
+      "sentence": "Support CONCYTEC and the national statistics institute (Instituto Nacional de Estadística e Informática, INEI)66 to develop robust indicators, rigorous surveys, and data services.",
+      "practice": "National STI evaluation system with R&D census and surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: STI surveys and indicators | Not routine: new national STI data system | Adoption: 'support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: STI surveys/indicators data system | Innovative: national STI data system | Category: data system",
+      "keywords_hit": "census;survey",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New process: national STI indicators, surveys and data services informing policy",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E5",
+      "approach_id": "P176297-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U59",
+      "para_no": null,
+      "sentence_position": 473,
+      "char_start": 83811,
+      "char_end": 84023,
+      "sentence": "Supported surveys will include the Census of R&D in Research Centers, National Survey of public perception of STI, National 63 These do not overlap with the components of the SINACTI supported by the IDB project.",
+      "practice": "National STI evaluation system with R&D census and surveys",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: STI surveys and indicators | Not routine: new national STI data system | Adoption: 'support'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: STI surveys/indicators data system | Innovative: national STI data system | Category: data system",
+      "keywords_hit": "census;survey",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New process: national STI indicators, surveys and data services informing policy",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E6",
+      "approach_id": "P176297-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 476,
+      "char_start": 84295,
+      "char_end": 84443,
+      "sentence": "65 Particularly, investments will increase the functionalities and deployment of the “PeruCRIS” platform - “Plataforma de gestion del conocimiento”.",
+      "practice": "PeruCRIS open-data knowledge platform for STI data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: PeruCRIS open-data platform | Not routine: public open STI data platform | Adoption: 'investments will increase'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PeruCRIS open-data platform | Innovative: public open STI data | Category: digital platform",
+      "keywords_hit": "digitalization of;open data;survey;open-data",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New service: open STI data via PeruCRIS platform - cue: 'open data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E7",
+      "approach_id": "P176297-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 478,
+      "char_start": 84918,
+      "char_end": 85230,
+      "sentence": "Furthermore, all of the data collected will be available to the public through government open data mechanisms and through the knowledge management platform (PeruCRIS), which was developed through the STIS project. d) 1.1.4 Evaluate the scope, performance, and institutional arrangements of leading PRIs in Peru.",
+      "practice": "PeruCRIS open-data knowledge platform for STI data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: PeruCRIS open-data platform | Not routine: public open STI data platform | Adoption: 'investments will increase'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PeruCRIS open-data platform | Innovative: public open STI data | Category: digital platform",
+      "keywords_hit": "digitalization of;open data;survey;open-data",
+      "innovation_cues": "innovation",
+      "innovation_basis": "New service: open STI data via PeruCRIS platform - cue: 'open data'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    },
+    {
+      "row_id": "P176297-A1-E8",
+      "approach_id": "P176297-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 8,
+      "project_id": "P176297",
+      "doc_id": "538891645205800037",
+      "doc_type": "PAD",
+      "doc_date": "2022-01-27",
+      "file_name": "P176297_PAD_2022-01-27_538891645205800037.txt",
+      "unit_id": "U149",
+      "para_no": null,
+      "sentence_position": 1161,
+      "char_start": 207558,
+      "char_end": 207886,
+      "sentence": "Strengthening the institutional management capacities of CONCYTEC to strengthen its role as the governing body of SINACTI 8,000,000 6,779,661 Digital transformation of CONCYTEC 2,000,000 0.85 1,694,915 PeruCRIS - Stage 2 2,000,000 0.85 1,694,915 Concurrent funds management platform in PROCIENCIA 4,000,000 0.85 3,389,831 1.1.2.",
+      "practice": "PeruCRIS Stage 2 research information system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: PeruCRIS research information system | Not routine: national CRIS platform build-out | Adoption: '2,000,000'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: PeruCRIS CRIS platform | Innovative: national CRIS build-out | Category: digital system",
+      "keywords_hit": "digital transformation of",
+      "innovation_cues": "",
+      "innovation_basis": "New service: national research information system scaled to Stage 2 - cue: 'Stage 2'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c798c6d0"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 695,
+      "char_start": 126656,
+      "char_end": 126841,
+      "sentence": "The ongoing randomized control trial (RCT) impact evaluation of the program will provide a comprehensive analysis and inform the opportunity of scaling it in future projects in the SOP.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "RCT impact evaluation of startup support program",
+      "reason": "reject: RCT impact evaluation, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: RCT evidence to guide program scale-up - cue: 'RCT'",
+      "innovation_cues": "RCT;circular economy;pilot;scaling;trial",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "RCT impact evaluation, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1433
+        }
+      ]
+    },
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 747,
+      "char_start": 134654,
+      "char_end": 134971,
+      "sentence": "Building on the experience and capacity building in randomized control trial (RCT) impact evaluations acquired during the current STIS project, PROCIENCIA will aim to apply RCT-based impact evaluations to grant windows where the number of eligible and qualified applicants largely surpasses the availability of funds.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "RCT-based impact evaluations for oversubscribed grant windows",
+      "reason": "reject: Randomized grant allocation/evaluation, no digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: randomized allocation and evaluation of research grants - cue: 'RCT'",
+      "innovation_cues": "RCT;adaptive;trial",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Randomized grant allocation/evaluation, no digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1263
+        }
+      ]
+    },
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 742,
+      "char_start": 134091,
+      "char_end": 134191,
+      "sentence": "An adaptive learning process will be designed and wired into the M&E strategy and results framework.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Adaptive M&E system with real-time data for mid-course correction",
+      "reason": "reject: Standard M&E with real-time data, routine reporting",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: real-time data triggers for course correction - cue: 'adaptive'",
+      "innovation_cues": "RCT;adaptive;trial",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard M&E with real-time data, routine reporting",
+          "reject_code": "not_innovative",
+          "context_chars": 1263
+        }
+      ]
+    },
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 878,
+      "char_start": 160648,
+      "char_end": 160963,
+      "sentence": "ME PDO Table SPACE Monitoring & Evaluation Plan: Intermediate Results Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection TBD Project data TBD PROCIENCIA Digitization of CONCYTEC completed This is a Beneficiary feedback indicator.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "STI beneficiary feedback surveys informing decision-making",
+      "reason": "reject: Beneficiary feedback surveys are standard M&E indicators",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: beneficiary feedback surveys feed decisions - cue: 'feedback'",
+      "innovation_cues": "innovation;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Beneficiary feedback surveys are standard M&E indicators",
+          "reject_code": "not_innovative",
+          "context_chars": 1220
+        }
+      ]
+    },
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 1009,
+      "char_start": 181999,
+      "char_end": 182103,
+      "sentence": "Disbursement to subprojects will be monitored through the tailor-made monitoring information system SYG.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SYG monitoring information system for subproject disbursements",
+      "reason": "reject: Tailor-made disbursement monitoring system is routine M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: tailor-made system tracks subproject disbursements - cue: 'tailor-made'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Tailor-made disbursement monitoring system is routine M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 630
+        }
+      ]
+    },
+    {
+      "guid": "538891645205800037",
+      "doc_type": "PAD",
+      "position": 1161,
+      "char_start": 207558,
+      "char_end": 207886,
+      "sentence": "Strengthening the institutional management capacities of CONCYTEC to strengthen its role as the governing body of SINACTI 8,000,000 6,779,661 Digital transformation of CONCYTEC 2,000,000 0.85 1,694,915 PeruCRIS - Stage 2 2,000,000 0.85 1,694,915 Concurrent funds management platform in PROCIENCIA 4,000,000 0.85 3,389,831 1.1.2.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Concurrent funds management platform in PROCIENCIA",
+      "reason": "reject: Only a cost-line label 'Concurrent funds management platform in PROCIENCIA'; no described mechanism or function.",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: digital platform manages concurrent STI funds - cue: 'platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Only a cost line; unclear what the concurrent funds platform does or how it is new",
+          "reject_code": "",
+          "context_chars": 1335
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Only a cost-line label 'Concurrent funds management platform in PROCIENCIA'; no described mechanism or function.",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 10359
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 9659,
+    "cached_tokens": 44288,
+    "cache_write_tokens": 0,
+    "output_tokens": 3364,
+    "seconds": 29.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0072
+  }
+}

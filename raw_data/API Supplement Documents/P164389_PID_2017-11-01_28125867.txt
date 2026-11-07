@@ -1,0 +1,694 @@
+﻿        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+
+
+                        Project Information Document/
+                  Integrated Safeguards Data Sheet (PID/ISDS)
+
+                        Concept Stage | Date Prepared/Updated: 30-Oct-2017 | Report No: PIDISDSC22898
+
+
+
+
+Oct 30, 2017                                                                                            Page 1 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                         Project ID                      Parent Project ID (if any)     Project Name
+  Mexico                          P164389                                                        Water Security and
+                                                                                                 Resilience for the
+                                                                                                 Valley of Mexico
+                                                                                                 (P164389)
+  Region                          Estimated Appraisal Date        Estimated Board Date           Practice Area (Lead)
+  LATIN AMERICA AND               Nov 27, 2017                    Mar 30, 2018                   Water
+  CARIBBEAN
+  Financing Instrument            Borrower(s)                     Implementing Agency
+  Investment Project Financing    Secretaria de Hacienda y        CONAGUA
+                                  Credito Publico
+
+   Proposed Development Objective(s)
+
+    Improve the reliability of the Cutzamala System, the management of water resources and water services in its sub-
+    basins.
+
+   Financing (in USD Million)
+   Finance OLD
+   Financing Source                                                        Amount
+   Borrowing Agency                                                        166.00
+   Borrower                                                                25.00
+   International Bank for Reconstruction and Development                   200.00
+   Total Project Cost                                                      391.00
+  Environmental Assessment Category                               Concept Review Decision
+   B-Partial Assessment                                           Track II-The review did authorize the preparation to
+                                                                  continue
+
+
+
+ Other Decision (as needed)
+
+
+
+
+Oct 30, 2017                                                                                                    Page 2 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+ B. Introduction and Context
+
+ Country Context
+
+ 1.      Mexico’s economy continues to expand at a steady though moderate rate of growth. The increase in Mexico’s
+ gross domestic product (GDP) over the past three years, 2014-2016, at an annual average of 2.4 percent was slightly
+ below the annual average growth posted during the previous two decades, 1994-2013, of 2.6 percent. The non-oil
+ economy expanded between 2014 and 2016 at the same average annual rate of 2.8 percent as observed over the
+ previous two decades. Growth is expected to moderate to about 2.2 percent in 2017 and strengthen in the medium
+ term to about 2.5 percent by 2019 as uncertainty with respect to NAFTA and the presidential elections (of July 2018)
+ dissipate and gross fixed investment growth resumes. Yet, these rates of growth are only about half of the average
+ growth observed in emerging market economies (5.3 percent between 1994 and 2016).
+
+ 2.       Economic performance has been resilient in view of external shocks experienced in the past few years.
+ Mexico’s economy endured several external shocks in the last few years including a sharp drop in oil prices with average
+ oil prices down by 50-60 percent, an additional reduction in the volume of oil and gas production by 6 percent annually,
+ international financial market volatility related to a normalization of monetary policy in advanced economies, and, more
+ recently, uncertainty over the future of the U.S.-Mexico trade relation. Sensible monetary and fiscal policy responses to
+ these shocks within an overall sound macroeconomic policy framework including a flexible exchange rate, an inflation-
+ targeting monetary policy framework and a fiscal rule that ensures moderate public sector deficits, maintained
+ macroeconomic stability in recent years.
+
+ 3.       Heightened fiscal consolidation efforts focus on expenditure cuts as the tool to stabilize public debt. Modest
+ economic growth and persistent fiscal deficits contributed to a steady increase in the (net) public debt burden over the
+ past decade to an estimated 50.5 percent by the end of 2016. In managing the decline in oil revenue over the past two
+ years, the government benefitted from a tax reform implemented in 2014 that substantially raised non-oil revenue and
+ started to cut expenditures in 2015 and 2016 thereby meeting its overall fiscal deficit targets. Additional fiscal pressures
+ and further fiscal consolidation, needed to stabilize the debt-to-GDP ratio in the short term, will require more spending
+ cuts as the government committed not to raise taxes during the remainder of its term.
+
+ 4.      The central bank aggressively hiked the monetary policy rate to mitigate the pass-through from exchange rate
+ depreciation to inflation. Aggressive monetary tightening took place in response to a normalization of US monetary
+ policy and, more importantly, to mitigate pass-through from currency weakness to inflation. The currency depreciated
+ by an accumulated 35 percent with respect to the US dollar as of the second half of 2014 and has been quite volatile
+ since the US presidential elections. The increase in domestic fuel prices and some pass-through of past currency
+ depreciation lifted annual inflation to 6.7 percent in August 2017 from levels in 2015 and 2016 much closer to the
+ central bank medium term target of 3 plus/minus 1 percent. A return to the medium target is expected by 2018 or 2019.
+
+ 5.      Moderate economic growth over recent years has limited significant poverty reduction and improvements in
+ shared prosperity. The most recent estimation of official poverty -based on a combination of monetary and non-
+ monetary dimensions of welfare- shows a decline in the percentage of people considered poor from 46.2 percent to
+ 43.6 percent and extreme poor from 9.5 percent to 7.6 percent between 2014 and 2016. Access to health services,
+ access to social security and food security were the non-monetary components that improved the most. Monetary
+ poverty also declined as poverty rates at the well-being poverty line dropped from 53.2 percent to 50.6 percent while
+ the rates at the minimum well-being poverty line dropped from 20.6 percent to 17.5 percent. Such a decline in
+ monetary poverty has been driven by higher growth of incomes at the bottom of the income distribution.
+
+
+
+Oct 30, 2017                                                                                                       Page 3 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+
+
+ Sectoral and Institutional Context
+
+
+ 6.       An estimated 38 percent of Mexico’s GDP is generated within the Valley of México Metropolitan Area
+ (VMMA) and Toluca Metropolitan Area (TMA). These two metropolitan areas account for a population of almost 23.4
+ million people, hosting a diverse range of economic activities, from manufacturing to agricultural farmland, that require
+ water for their economic development. Nevertheless, deficient water services, compounded by unreliable bulk water
+ supply, impose economic costs on individuals and firms equivalent to an estimated 1 percent of the GDP of the VMMA.1
+ The VMMA, considered the most populated urban center in Latin America, with an estimated population of 21.5 million
+ people, currently demands a mean water supply of 63 cubic meters per second (m3/s)2 for human consumption and
+ industrial needs. Additionally, mean irrigation used in the VMMA are estimated at 11 m3/s. On the other hand, TMA with
+ a population of approximately 1.9 million people demands 4.7 m3/s.3
+
+ 7.     The supply of bulk water for these two areas constitutes a major challenge. Urban water demands for the
+ VMMA are currently being met through three principal sources: groundwater aquifers, which account for approximately
+ 68 percent of the total supply and two water transfer schemes, the Lerma System (8 percent), and the Cutzamala
+ System (24 percent). Water demands on the TMA are being met through ground water supply (84.6 percent) and the
+ Cutzamala System (15.4 percent).
+
+ 8.      The Cutzamala System plays a central role in the supply of water for the VMMA and TMA. This integrated
+ water system, one of the most significant engineering works of the country, was originally designed in 1930 for
+ hydropower generation and then transformed into an inter-basin water transfer system from the late 1960s to 1993 to
+ reduce the dependence on groundwater resources for the VMMA and TMA. Furthermore the Cutzamala System
+ improves water pressure in the water distribution system in the VMMA. The Cutzamala System sources water from a
+ multitude of rivers and springs from six sub-basins4 in the States of Mexico and Michoacán and provides an average of
+ 15 m3/s to VMMA and TMA with a current reliability of 82 percent. For this, the system uses eight main reservoirs, six
+ main pumping plants, 322 kilometers of canals (none of which are navigable) and tunnels, and the large Los Berros
+ potable water treatment plant.
+
+ 9.       The VMMA and TMA are not the only users of the water resources available in the six sub-basins of the
+ Cutzamala System. The population living in the six sub-basins of the Cutzamala System increased by approximately 97
+ percent between 1970 and 2010, and is expected to increase another 24 percent by 2030. This population growth has
+ resulted in additional water demand, and in the deterioration of water quality in the sub-basins due to deficient
+ sanitation infrastructure and the direct discharge of untreated wastewater into watercourses. This is particularly
+ relevant in the Valle de Bravo and El Bosque reservoirs, where booming urbanization and tourism have contributed to
+ the eutrophication and pollution of the water sources.5 Agricultural activities have also expanded: from 1980 to 2011,
+ irrigated surface increased by 45 percent, reaching a total of 34,500 ha of irrigated land that depend on water supplied
+
+
+
+ 1
+   World Bank, 2013, Agua urbana en el Valle de México – ¿un camino verde para mañana? 
+ 2
+   CONAGUA-World Bank, 2015, Cutzamala Integral Diagnostic.
+ 3
+   Idém
+ 4                        2
+   More than 10,500 km
+ 5
+   The Valle de Bravo and El Bosque dams are affected by untreated water discharge from the towns of Valle de Bravo and Zitacuaro, respectively.
+ Particularly, in the Valle de Bravo dam water quality was assessed as slightly toxic. Ico index. DQO= 10 mg/l; SST = 20 mg/l; NT = 1 mg/l; y CF= 103
+ NMP/100ml.
+
+Oct 30, 2017                                                                                                                                Page 4 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+ from the sub-basins of the Cutzamala System.6 Water withdrawals for irrigation, including illegal abstractions from
+ Cutzamala System infrastructure, are estimated at 7 m3/s per year. The balance between existing water resources and
+ current water demands is tight and there is little slack to meet additional water demands.7
+
+ 10.      Moreover, access to water supply and sanitation services is lagging behind for residents of the sub-basins that
+ feed the system. The six sub-basins of the Cutzamala System are home to some 723,000 residents, 34,500 of which are
+ indigenous people. Approximately, 42.1 percent of residents live in poverty or extreme poverty, and the Secretariat of
+ Social Development considers 13 of the 14 municipalities in the sub-basins to have medium to very high levels of
+ marginalization (a measure of multidimensional poverty). Water and sanitation services coverage within the sub-basins
+ is low. Only 68.8 and 81.9 percent of households within the sub-basins in the States of Mexico and Michoacán,
+ respectively, have access to potable water. Only 27 percent of wastewater generated by communities in the sub-basins
+ is treated, which presents a risk to human health and degrades water quality in the Cutzamala System.8
+
+ 11.      In addition to competing water demands, environmental degradation and climate change put the reliability of
+ the Cutzamala System and the provision of water services in the sub-basins at risk. Soil degradation and water
+ pollution have been exacerbated by an increase in rain-fed agriculture, which has expanded to cover 39 percent of the
+ total area of the six sub-basins and is primarily devoted to the production of guava and strawberries. The Mexican
+ Institute for Water Technology (IMTA) estimates that nearly 50 percent of the sub-basin area has a high to extreme
+ degradation level, which impacts biodiversity and water quality. This environmental degradation can lead to a loss of
+ biodiversity including in the Monarch Butterfly Biosphere Reserve, which protects key overwintering sites for a billion
+ monarch butterflies in 80 percent of the area of the sub-basins. Regarding the impacts of climate change, a recent study
+ concluded that the climate change can negatively impact the reliability of the Cutzamala System by altering precipitation
+ patterns.9 An ensemble of General Circulation Models (GCMs) concludes that by the year 2050, temperature may
+ increase between 1 and 4 degrees Celsius and precipitation changes are in the order of +20 and -40 percent, with a large
+ number of GCMs agreeing that the average annual precipitation of 978 mm in the six sub-basins may decrease rather
+ than increase.
+
+ 12.     The Cutzamala System is facing growing water allocation challenges. Economic development, new activities in
+ the sub-basins and a lack of an information system to monitor water use and water quality, have resulted in growing
+ tension over the allocation of water resources between different regions and user groups. Stakeholders within the sub-
+ basins increasingly express concerns over the transfer of water resources to the VMMA and TMA, particularly irrigation
+ users from the State of Michoacán. Other challenges relate to water quality and aquaculture activities.
+
+ 13.      Multiple federal and local entities are involved in the management of the Cutzamala System and its sub-
+ basins. The Basin Agency for the Valley of Mexico (OCAVM) has a mandate to operate and maintain the Cutzamala
+ System’s infrastructure, and is responsible for the delivery of bulk water to the VMMA and TMA. The Balsas River-Basin
+ Organization (OCB), together with the local Directorates of the National Water Commission (CONAGUA) in the States of
+ Mexico and Michoacán, are responsible for water resource management, soil protection, deforestation control, the
+ issuance and enforcement of water rights and for the inspection and sanction of wastewater discharges. Municipalities
+ are responsible for the provision of water supply and sanitation services. The GoM recognizes the need to account for
+ this institutional structure in addressing the existing challenges of the Cutzamala System and its sub-basins. Accordingly,
+
+ 6
+   26,500 ha within the six sub-basins and some additional 8,000 ha outside of the sub-basins that withdraw water from two of the sub-basins of the
+ Cutzamala System.
+ 7
+   Available water resources and current total demands (i.e. water transfer to VMMA, TMA, irrigation and water supply within the basin) are
+ estimated at 25 m3/s. CONAGUA-World Bank, 2015, Cutzamala Integral Diagnostic.
+ 8
+   CONAGUA-World Bank, 2015, Cutzamala Integral Diagnostic.
+ 9
+   Analysis forthcoming based on the World Bank’s Decision Tree Framework for Climate Resilience, carried out with WPP support.
+
+Oct 30, 2017                                                                                                                            Page 5 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+ the GoM, through CONAGUA, has agreed to support OCAVM, the OCB and the municipalities and reinforce their limited
+ capacity (financial and human resources) to fulfill their mandate. This situation is particularly critical in the case of
+ OCAVM, which has established a 4-year, US$1.6 billion Rehabilitation and Infrastructure Maintenance Program
+ (Programa de Conservación y Mantenimiento de la Infraestructura, PROCYMI) to address both operation and
+ maintenance (O&M) and infrastructure improvement needs (including US$325 million in estimated O&M costs).
+
+ 14.      OCAVM is working to implement the PROCYMI and other urgent measures to ensure the System’s ongoing
+ performance. These include both water quality control measures (e.g. the application of activated charcoal to control
+ anthropogenic algal blooms that adversely impact the environment and the operation of water treatment plants) and
+ structural investments, such as the construction of a third distribution line to reduce service interruptions. Due to
+ OCAVM’s limited legal mandate outside the Cutzamala System, few measures for improving the conditions of the sub-
+ basins and their populations have been included in the PROCYMI. Current conditions will allow the System to operate,
+ with difficulty, over the next 10 years.
+
+ 15.      To complement these efforts OCAVM, led a technical cooperation program in 2013 to establish a framework
+ for an integrated basin management plan for the Cutzamala System and its sub-basins in collaboration with the
+ National University of Mexico (UNAM), IMTA, and the World Bank. This effort identified a comprehensive set of
+ institutional actions and investments for the Cutzamala System and its sub-basins. These activities were carried out as a
+ series of Reimbursable Advisory Services, which produced an integrated assessment of the Cutzamala System and its
+ sub-basins10 informed the design of a stakeholder communication platform for the development of the plan and future
+ investments and its dissemination with the community. These advisory services supported the GoM’s preparation of a
+ draft integrated investment program based on four pillars: improvement of (i) existing Cutzamala System infrastructure;
+ (ii) water supply and sanitation services; (iii) irrigation services; and (iv) soil and environmental conservation. The RASs
+ were expanded through a technical assistance in 2017 to apply the World Bank’s Decision Tree Framework for Climate
+ Resilience and to incorporate water security and resilience in the integrated basin plan. This last exercise prioritized the
+ investments required to achieve water security of the sub-basins and ensure resilience and reliability of the Cutzamala
+ System. In 2017, the GoM requested World Bank support for the development of an investment project that will
+ complement Federal Investment Programs and launch implementation of these four pillars. This investment is
+ envisioned as the first stage of a 20-year plan and continues the World Bank’s longstanding support of Mexico’s water
+ agenda.
+
+ Relationship to CPF
+
+ 16.     The proposed Project is well aligned with the most recent Country Partnership Strategy 2014–201911 and the
+ Performance and Learning Review finalized in 2017.12 In particular, the Project will support Pillar IV, Promoting Green
+ and Inclusive Growth, by supporting the efficient use of water resources and that demands from the VMMA, TMA and
+ the different users of the basin area are met. The Project will also contribute to Pillar I, Unleashing Productivity by
+ improving the reliability of water as an input for firms in the VMMA and TMA, as well as Pillar III, Strengthening Public
+ Finances and Government, through institutional strengthening of water and irrigation service provision. The Project
+ likewise contributes to the World Bank’s Twin Goals. The Project aims to secure water supply for the users of the
+ Cutzamala System and its sub-basins. This will benefit an estimated 42 percent of the population of the Project area
+
+
+
+ 10
+    CONAGUA-World Bank, 2015, Cutzamala Integral Diagnostic.
+ http://documentos.bancomundial.org/curated/es/309801468189248037/pdf/99219-P150092-SPANISH-WP-PUBLIC-Box393194B.pdf
+ 11
+    Report No 80800-MX, endorsed by the Board of Executive Directors on December 12, 2013.
+ 12
+    Report No 104752.
+
+Oct 30, 2017                                                                                                           Page 6 of 14
+             The World Bank
+             Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+ living below the poverty line, including small communities outside of Mexico City that have been overlooked in previous
+ Cutzamala investment programs.
+
+  C. Proposed Development Objective(s)
+
+ Improve the reliability of the Cutzamala system, the management of water resources and water services in its sub-
+ basins.
+  Key Results (From PCN)
+
+  17.          Expected results include:
+
+       i.      Improved reliability of the Cutzamala System for the delivery of water to the VMMA and the TMA (agreed
+               volumes to be transferred are met13 95% of the time);
+      ii.      People provided with access to improved water sources (Corporate results indicator) [male/female breakdown
+               will be considered];
+      iii.     People provided with access to improved sanitation services (Corporate results indicator) [male/female
+               breakdown will be considered];
+      iv.      Area provided with new/improved irrigation or drainage services (hectare) (Corporate results indicator);
+       v.      Decision Support System established and in use.
+  D. Concept Description
+
+  18.     Component 1: Improvement in water resources management and infrastructure of the Cutzamala basins
+  (US$320 million, of which US$155 million IBRD and US$165 GoM). The objectives are: i) to improve the reliability of
+  the infrastructure of the Cutzamala System for the delivery of water to the VMMA and the TMA and ii) to implement
+  effective environmental monitoring and control tools that will contribute to preservation of water resources in terms of
+  quality and quantity.
+
+  19.    Component 2: Improvement of potable water, sanitation, and irrigation services (US$65 million, of which
+  US$40 million IBRD and US$25 GoM). The objectives of this component are: i) to improve the water supply and
+  sanitation services in the prioritized urban and rural communities of the sub-basins of the Cutzamala System and ii) to
+  control the expansion of water demands for agricultural purposes and improve water use efficiency in the three main
+  agricultural areas of the sub-basins.14
+
+  20.     Component 3: Institutional strengthening and project management (US$6 million, of which US$5 million IBRD
+  and US$1 GoM). The objective of this component is to strengthen the capacity of the institutions involved in project
+  implementation and ensure financing of the Project Implementation Unit (PIU). This includes: i) Institutional
+  assessment of the OCAVM, definition of a strengthening program and its implementation; ii) strengthening of the
+  institutional capacity for the delivery of water supply and sanitation services, including the definition of new
+  institutional arrangements to improve service delivery; iii) capacity building for water use organizations in the existing
+  irrigation areas; iv) strengthening River Basin Councils for conflict resolution and; v) the financing of the PIU to carry out
+  project management and application of safeguards policies.
+
+
+
+
+ 13
+      Current reliability level is estimated at 82 percent (World Bank Decision Tree report 2017).
+ 14
+      Irrigation District 045 and the two irrigation units of La Mora-La Florida and Susupato de Guerrero.
+
+Oct 30, 2017                                                                                                          Page 7 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+
+  SAFEGUARDS
+
+  A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+  The Project is located in the Cutzamala System and its sub-basins, in the States of Mexico and Michoacán.
+  The Cutzamala System is the set of sub-basins, dams, canals, river sections, aqueducts, pumping plants, water treatment
+ plants and tanks that together capture, treat and conduct water to supply Valley of México Metropolitan Area (VMMA)
+ and Toluca Metropolitan Area (TMA).
+  The predominant relief in the area of the sub-basins presents irregular areas, with hills, erect mountain formations, deep
+ ravines and relatively extensive valleys. In these topographic conditions, and, as a result of deforestation, the material of
+ the cover of the mountainous area is prone to erosion toward rivers. Predominant soils in the sub-basins (andosols) are
+ characterized by very low bulk density and, being devoid of vegetation and located on slopes and hills, are very vulnerable
+ to water and wind erosion processes. The main channels and tributaries do not have extensive vegetal cover that is
+ common to many riverside ecosystems and that contributes to the retention of sediments and nutrients.
+  Land use. The basins are occupied by forest (46 percent of the total area), rain-fed agriculture (39 percent of the total
+ area) and irrigated agriculture (8 percent of the total area). The area of grassland and induced vegetation is lower (3
+ percent of the total area). Irrigated agriculture is not significant in the six sub-basins, while organized forest activity is
+ important in the upper part of the Valle de Bravo sub-basin. In the wooded areas of the sub-basins, oyamel, oak-pine and
+ mesophyll mountain forests predominate with a primary and secondary vegetation type (arboreal and shrub), as well as
+ medium sub-deciduous forest.
+  In this area, soil degradation and water pollution have been exacerbated by an increase in rain-fed agriculture. The
+ Mexican Institute for Water Technology (IMTA) estimates that nearly 50 percent of the sub-basin area has a high to
+ extreme degradation level, which impacts biodiversity and water quality.
+
+  B. Borrower’s Institutional Capacity for Safeguard Policies
+
+  CONAGUA has knowledge and experience in applying the social and environmental safeguards policies of the Bank
+ through a number of Bank-financed projects. CONAGUA has various tools and methodologies with social criteria to
+ integrate action, measures to mitigate, counteract circumstances that put at risk or alter social or economic activities.
+ Additionally, CONAGUA will develop a Social Assessment, a Resettlement Policy Framework, and an Environmental and
+ Social Management Framework that reflects relevant national bylaws and regulations and the provisions for complying
+ with Bank standards. This Social Assessment will establish baseline social conditions in the Project area and identify social
+ risks and appropriate measures to avoid, minimize, mitigate, or contain potential impacts, and report accordingly. The
+ findings of the SA will indicate the appropriate social safeguards instruments to be developed during preparation and
+ applied throughout Project implementation.
+
+  C. Environmental and Social Safeguards Specialists on the Team
+
+ Carlos Alberto Molina Prieto, Social Safeguards Specialist
+ Arelia Jacive Lopez Castaneda, Social Safeguards Specialist
+ Diacono Raul Vera Hernandez, Environmental Safeguards Specialist
+
+  D. Policies that might apply
+
+ Safeguard Policies                            Triggered?           Explanation (Optional)
+
+
+Oct 30, 2017                                                                                                       Page 8 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+                                                                  The Project is proposed to be classified as Category B.
+                                                                  The expected environmental and social impacts are of
+                                                                  relatively limited scope and it is possible to apply
+                                                                  standard mitigation measures. Potential negative
+                                                                  impacts are associated with project activities to be
+                                                                  carried out in areas that have been highly impacted by
+                                                                  humans. The works involve (i) rehabilitation of existing
+                                                                  infrastructure, (ii) drinking water and sanitation
+                                                                  activities, (iii) modernization of irrigation systems and
+                                                                  (iv) water pollution and erosion control activities. All
+                                                                  these works and activities also have positive
+                                                                  environmental impacts and support efficient use of
+                                                                  water resources in the area.
+
+                                                                  As the specific activities and locations to be
+                                                                  implemented are not currently known, an
+                                                                  Environmental and Social Management Framework
+                                                                  (ESMF) will be prepared. The ESMF will include an
+                                                                  exclusion, selection and evaluation procedure to
+                                                                  identify, assess and manage potential environmental
+                                                                  and social impacts and risks under contracts. The
+                                                                  ESMF will address both CONAGUA and the contractors
+                                                                  performing the works. The ESMF will identify the
+ Environmental Assessment OP/BP 4.01          Yes
+                                                                  environmental and social requirements for the
+                                                                  contractors executing the works, which will be
+                                                                  included in the bidding process and in the contracts.
+                                                                  The draft ESMF as well as all other safeguards
+                                                                  instruments (e.g., Indigenous Peoples Planning
+                                                                  Framework (IPPF) and the Resettlement Policy
+                                                                  Framework) will be consulted and disclosed (on both
+                                                                  the Bank’s and the Borrower’s external websites)
+                                                                  before appraisal.
+
+                                                                  The preparation and application of the ESMF will seek
+                                                                  to avoid and mitigate possible environmental impacts
+                                                                  due to the execution of works to be performed, such
+                                                                  as the following:
+                                                                  Environmental: Impact in the atmosphere by
+                                                                  generation of dust, gases and noises derived from the
+                                                                  movement of materials and operation of machinery
+                                                                  and equipment; Impact on soil and water due to
+                                                                  improper handling of chemicals, construction debris
+                                                                  and hazardous waste (storage, transportation and final
+                                                                  disposal).
+                                                                  Occupational health and safety: Damage to health and
+                                                                  physical integrity derived from improper handling of
+
+
+Oct 30, 2017                                                                                                      Page 9 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+                                                                  chemicals and waste; To accidents due to lack of road
+                                                                  signs and safety signs on the site; And the lack of
+                                                                  personal protective equipment and the lack of training
+                                                                  in the use of tools and equipment.
+
+                                                                  The ESMF shall include references to works contracts
+                                                                  for the contractors performing the works, and shall
+                                                                  define the responsibilities in execution and supervision
+                                                                  related to those contracts.
+
+                                                                  The ESMF will include references to the World Bank
+                                                                  Group’s Environmental, Health, and Safety Guidelines
+                                                                  on Water and Sanitation.
+
+                                                                  The ESMF will also include relevant aspects such as a
+                                                                  sub-project selection procedures and the allocation of
+                                                                  environmental obligations in accordance with the
+                                                                  applicable national legislation on environment, health
+                                                                  and safety at work. It will also propose a set of good
+                                                                  environmental and safety and hygiene practices to be
+                                                                  applied in all cases. It will also include the
+                                                                  establishment of efficient mechanisms for the
+                                                                  reception and attention of complaints during the
+                                                                  development of the works.
+                                                                  The environmental degradation of Cutzamala System
+                                                                  can lead to a loss of biodiversity in the Monarch
+                                                                  Butterfly Biosphere Reserve, which protects key
+                                                                  overwintering sites for a billion monarch butterflies in
+                                                                  80 percent of the area of the sub-basins.
+
+                                                                  The works and activities of the project will help to curb
+                                                                  the degradation process of the Cutzamala System, and
+                                                                  as part of the ESMF to be developed, the works to be
+                                                                  carried out near the natural reserve areas should
+ Natural Habitats OP/BP 4.04                  Yes                 propose additional monitoring actions to avoid
+                                                                  impacts in those areas.
+
+                                                                  The project does not include activities and works
+                                                                  within the Monarch Butterfly Biosphere Reserve, but
+                                                                  may be carried out in its vicinity. The ESMF will have
+                                                                  appropriate screening criteria to ensure that impacts
+                                                                  on natural and critical natural habitats are properly
+                                                                  evaluated. The ESMF will also indicate that no sub-
+                                                                  projects which involve the significant conversion of
+                                                                  natural habitats will be financed.
+ Forests OP/BP 4.36                           Yes                 As part of the soil conservation and erosion control
+
+
+Oct 30, 2017                                                                                                    Page 10 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+                                                                  program, the transformation of farmland into forest
+                                                                  will be encouraged. Conservation practices will also be
+                                                                  promoted on land with important slopes. Screening
+                                                                  mechanisms will be incorporated into the ESMF to
+                                                                  ensure that no sub-projects which affect the
+                                                                  management of forests or the welfare of forest
+                                                                  dependent communities be eligible.
+                                                                  The modernization of irrigation systems will have
+                                                                  positive impacts on agriculture productivity by
+                                                                  increase yields and improving consistency of crops.
+                                                                  This may also involve, with adequate training,
+                                                                  regulation and reduction in the use of agrochemicals
+ Pest Management OP 4.09                      Yes                 (pesticides and fertilizers).
+
+                                                                  The ESMF will include specific requirements for the
+                                                                  management of agrochemicals related supervision.
+                                                                  Similarly, a Pest Management Plan will be developed
+                                                                  and included as part of the ESMF.
+                                                                  This safeguard is only triggered in a preventive
+                                                                  manner. Based on a preliminary assessment it is
+                                                                  unlikely that physical cultural resources would be
+ Physical Cultural Resources OP/BP 4.11       Yes
+                                                                  found in the areas directly affected by the Project sub-
+                                                                  projects. As a precaution, the ESMF will include
+                                                                  measures for chance finds.
+                                                                  This Policy is triggered given that indigenous people
+                                                                  are present in the Project's area of influence, and
+                                                                  could benefit from Project activities.
+
+                                                                  During Project preparation, several activities will be
+                                                                  carried out to assess potential social impacts and
+                                                                  strengthen the Project's performance under the
+                                                                  modalities that are more likely to affect indigenous
+                                                                  people. A general Indigenous Peoples Planning
+                                                                  Framework (IPPF) will be developed by the client in
+                                                                  coordination with the Bank, to review the eligibility
+ Indigenous Peoples OP/BP 4.10                Yes
+                                                                  rules, and identify eventual barriers of access to
+                                                                  Project activities by indigenous people, and propose
+                                                                  corrective measures.
+
+                                                                  During preparation, the Bank will agree on a work
+                                                                  schedule with CONAGUA for the preparation of the
+                                                                  IPPF. A social assessment will initially be developed to
+                                                                  identify potential negative and positive impacts on
+                                                                  indigenous groups. The social assessment and the IPPF
+                                                                  will also provide guidelines to improve outreach and
+                                                                  consultation with indigenous beneficiaries, particularly
+
+
+Oct 30, 2017                                                                                                    Page 11 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+                                                                  under the Potable Water and Sanitation and Irrigation
+                                                                  Services Pillar. (e.g. language provisions, participatory
+                                                                  approaches, design and construction techniques). The
+                                                                  team will consult the World Bank Toolkit “Achieving
+                                                                  Sustainable Outcomes with Indigenous Peoples in
+                                                                  Latin America and the Caribbean�? as a resource when
+                                                                  developing the IPPF.
+                                                                  No land acquisition or involuntarily resettlement is
+                                                                  anticipated, however, OP/BP4.12, Involuntary
+                                                                  Resettlement, is triggered as a precautionary measure
+                                                                  for potential land acquisition and resettlement needs.
+
+                                                                  Project activities may potentially cause adverse
+                                                                  impacts related to restrictions on land use and access
+                                                                  to natural resources by traditional communities with
+                                                                  customary tenure or recognizable usage rights in
+                                                                  special under the Pillar 4: Soil and Environmental
+ Involuntary Resettlement OP/BP 4.12          Yes
+                                                                  Conservation (Payment for environmental services). A
+                                                                  Process Framework will be developed to manage
+                                                                  those impacts.
+
+                                                                  A Resettlement Policy Framework will be prepared
+                                                                  based on the findings in the Social Assessment. The
+                                                                  RPF will establish the criteria and guidelines for
+                                                                  development of a Resettlement Plan, which would be
+                                                                  developed in the event that land acquisition or
+                                                                  resettlement becomes necessary.
+                                                                  Cutzamala System involves the operation of eight
+                                                                  dams, and several of the activities to be developed are
+                                                                  directly related to them.
+                                                                  There is a National Dam Safety Plan. CONAGUA has
+                                                                  procedures in place for monitoring the physical status
+                                                                  of the dams, with defined mechanisms applicable to
+                                                                  the dams involved in the Cutzamala System, based on
+                                                                  Mexican NMX reference standards. The task team is
+                                                                  currently evaluating the Government’s safety
+ Safety of Dams OP/BP 4.37                    Yes                 procedures to determine if they are sufficient to meet
+                                                                  Bank requirements and, if not, will propose actions to
+                                                                  be taken to ensure compliance with Bank policy.
+                                                                  Based on its own criteria and procedures, CONAGUA
+                                                                  considers that Cutzamala System dams are of low risk
+                                                                  and its supervision is carried out less frequently than
+                                                                  in dams with risk (not existing in the project area).
+                                                                  CONAGUA will present to the WB a summary of the
+                                                                  existing procedures for the assessment of the safety of
+                                                                  dams, and the most reports on the evaluations carried
+
+
+Oct 30, 2017                                                                                                     Page 12 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+                                                                     out in each of the eight dams of the Cutzamala
+                                                                     System.
+                                                                     OP 7.50 is not triggered as the proposed project will
+ Projects on International Waterways
+                                              No                     not finance activities involving the use or potential
+ OP/BP 7.50
+                                                                     pollution of international waterways.
+                                                                     OP 7.60 is not triggered as the proposed project will
+ Projects in Disputed Areas OP/BP 7.60        No                     not finance activities in disputed areas as defined in
+                                                                     the policy.
+
+  E. Safeguard Preparation Plan
+
+  Tentative target date for preparing the Appraisal Stage PID/ISDS
+
+  Nov 10, 2017
+
+ Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and
+ their timing should be specified in the Appraisal Stage PID/ISDS
+
+ Confirmation of triggered safeguards policies should happen during September after PCN. Safeguards related studies
+ would be launched by the end of September.
+
+
+CONTACT POINT
+
+
+  World Bank
+  Luiz Claudio Martins Tavares, Diego Juan Rodriguez
+  Lead Water and Sanitation Specialist
+
+
+  Borrower/Client/Recipient
+  Secretaria de Hacienda y Credito Publico
+  Isabel Lozano Santín
+  Directora de Organismos Financieros Internacionales
+  isabel_lozano@hacienda.gob.mx
+
+  Implementing Agencies
+
+  CONAGUA
+  Griselda Medina
+  Subgerente de gestion y evaluacion proyectos con credito
+  griselda.medina@conagua.gob.mx
+
+
+
+
+Oct 30, 2017                                                                                                       Page 13 of 14
+        The World Bank
+        Water Security and Resilience for the Valley of Mexico (P164389)
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+ APPROVAL
+
+ Task Team Leader(s):                      Luiz Claudio Martins Tavares, Diego Juan Rodriguez
+
+Approved By
+APPROVALTBL
+ Practice Manager/Manager:                 Rita E. Cestti                         31-Oct-2017
+
+ Country Director:                         Gerardo M. Corrochano                  01-Nov-2017
+
+
+
+
+Oct 30, 2017                                                                                    Page 14 of 14
+

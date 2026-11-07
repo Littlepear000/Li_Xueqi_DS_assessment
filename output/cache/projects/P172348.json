@@ -1,0 +1,869 @@
+{
+  "project_id": "P172348",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "e10c4f12",
+  "started_at": "2026-11-07T03:29:46Z",
+  "ended_at": "2026-11-07T03:30:16Z",
+  "input_fingerprint": "24630fca2d6199a4",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 26,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P172348-A1",
+      "project_id": "P172348",
+      "name": "geocoded data portal linked to beneficiary feedback mechanism",
+      "description": "An online peacebuilding and recovery data portal combines geocoded mobile photos, spatial data and a grievance feedback mechanism to track infrastructure progress and civic engagement. Practices: geocoded Data Portal on Peacebuilding and Recovery; online Data Portal on Peacebuilding and Recovery linked to feedback mechanism.",
+      "why_innovative": "New delivery arrangement: community-submitted geocoded data portal - cue: 'portal' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "298791604977274272",
+        "doc_type": "PAD",
+        "doc_date": "2020-10-15",
+        "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+        "char_start": 87442,
+        "char_end": 87808,
+        "text": "The BFM will include options for entering beneficiary data into the MRTOT-housed Data Portal on Peacebuilding and Recovery (https://portal.mtot.gov.ua/), a web-based platform that can include geocoded photographic data from local communities (e.g. submitted from mobile phones) and spatial data to track progress on transport- and agriculture-related infrastructure.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "298791604977274272",
+          "doc_type": "PAD",
+          "doc_date": "2020-10-15",
+          "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+          "char_start": 87090,
+          "char_end": 87260,
+          "text": "(g) A 3R Project beneficiary feedback mechanism (BFM), including a GRM will be established by MRTOT to collect, manage, and respond to feedback related to the 3R Project.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "298791604977274272",
+          "doc_type": "PAD",
+          "doc_date": "2020-10-15",
+          "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+          "char_start": 144913,
+          "char_end": 145117,
+          "text": "Under Component 3, a well-advertised BFM (including a GRM), linked to MRTOT’s online Data Portal on Peacebuilding and Recovery, will be established to collect and respond to complaints and other feedback.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "298791604977274272",
+          "doc_type": "PAD",
+          "doc_date": "2020-10-15",
+          "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+          "char_start": 145466,
+          "char_end": 145664,
+          "text": "Based on the evolving COVID-19 situation, proposed citizen engagement activities will also blend traditional and civic technology through the Data Portal; and utilize virtual formats for engagement.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: platform shares community-submitted data across actors",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Transportation",
+        "code": "",
+        "confidence": null,
+        "rationale": "Data portal tracks infrastructure progress, serving transport administration.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: web portal with geocoded mobile photos | Innovative: community-submitted spatial progress data | Category: citizen data sharing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: community-submitted geocoded data portal - cue: 'portal'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P172348-A2",
+      "project_id": "P172348",
+      "name": "Automated weighing and speed enforcement to protect road investments",
+      "description": "Project installs automated weighing and speed measures to curb overweight vehicle damage.",
+      "why_innovative": "New service: automated weigh-in-motion and speed enforcement - cue: 'automated weighing' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "298791604977274272",
+        "doc_type": "PAD",
+        "doc_date": "2020-10-15",
+        "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+        "char_start": 108386,
+        "char_end": 108530,
+        "text": "In addition, the installation of automated weighing and speed measures will help protect investments against the impacts of overweight vehicles.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: sensor-based enforcement system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Rural and Inter-Urban Roads",
+        "code": "",
+        "confidence": null,
+        "rationale": "Weighing and speed enforcement protect road investments, the largest sector.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: automated weighing/speed sensors | Innovative: enforcement tech protecting road assets | Category: adapted technology",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: automated weigh-in-motion and speed enforcement - cue: 'automated weighing'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P172348-A3",
+      "project_id": "P172348",
+      "name": "Data Portal linked to beneficiary feedback mechanism with satellite/geocoded data",
+      "description": "Links BFM to MRTOT Data Portal for satellite, geocoded data and community photo evidence of infrastructure progress",
+      "why_innovative": "New process: community photo evidence and satellite data on recovery portal - cue: 'communities to post' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "298791604977274272",
+        "doc_type": "PAD",
+        "doc_date": "2020-10-15",
+        "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+        "char_start": 119232,
+        "char_end": 119524,
+        "text": "The BFM will be linked to MRTOT’s already established Data Portal on Peacebuilding and Recovery, which will include the potential for MRTOT to include satellite and other geocoded and visual data and for communities to post photographic evidence of the progress of infrastructure investments.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: citizens and agencies jointly feed monitoring data",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Rural and Inter-Urban Roads",
+        "code": "",
+        "confidence": null,
+        "rationale": "Feedback and geocoded data track road infrastructure progress.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: portal with satellite/geocoded data | Innovative: communities post photo evidence | Category: citizen data sharing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: community photo evidence and satellite data on recovery portal - cue: 'communities to post'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P172348",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "guid": "298791604977274272",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:29:46Z",
+      "ended_at": "2026-11-07T03:29:51Z",
+      "status": "ok",
+      "note": "4 document(s) fetched from the WBG API; 9 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:29:51Z",
+      "ended_at": "2026-11-07T03:29:51Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-11-06, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:29:51Z",
+      "ended_at": "2026-11-07T03:29:52Z",
+      "status": "ok",
+      "note": "26 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 26,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 5,
+          "innovation_cycle": 9,
+          "innovation": 2,
+          "innovation_types": 6,
+          "enabling_technologies": 2,
+          "results_based_management": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:29:52Z",
+      "ended_at": "2026-11-07T03:29:52Z",
+      "status": "ok",
+      "note": "PAD 2020-10-15 (P172348_PAD_2020-10-15_298791604977274272.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P172348",
+            "doc_type": "PAD",
+            "doc_date": "2020-10-15",
+            "guid": "298791604977274272",
+            "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:29:52Z",
+      "ended_at": "2026-11-07T03:29:52Z",
+      "status": "ok",
+      "note": "172 reading units (13 numbered paragraphs) from 1445 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 172
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:29:52Z",
+      "ended_at": "2026-11-07T03:29:54Z",
+      "status": "ok",
+      "note": "100 of 172 units carry a digital / AI cue (22 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 100,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 22
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:54Z",
+      "ended_at": "2026-11-07T03:30:02Z",
+      "status": "ok",
+      "note": "11 candidate practices from 100 units in 10 calls",
+      "llm_calls": 10,
+      "input_chars": 307165,
+      "output": {
+        "usage": {
+          "calls": 10,
+          "input_tokens": 1987,
+          "cached_tokens": 64254,
+          "cache_write_tokens": 0,
+          "output_tokens": 3144,
+          "seconds": 27.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0048
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:30:02Z",
+      "ended_at": "2026-11-07T03:30:10Z",
+      "status": "ok",
+      "note": "5 accepted, 6 rejected (not_innovative 5, not_digital 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 80723,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 10761,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 867,
+          "seconds": 7.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0043
+        },
+        "accepted": 5,
+        "rejected": 6,
+        "expanded": 1,
+        "reject_codes": {
+          "not_innovative": 5,
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:30:10Z",
+      "ended_at": "2026-11-07T03:30:12Z",
+      "status": "ok",
+      "note": "5 of 5 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1967,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 420,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 190,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:30:12Z",
+      "ended_at": "2026-11-07T03:30:13Z",
+      "status": "ok",
+      "note": "5 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1316,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 304,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 63,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:30:13Z",
+      "ended_at": "2026-11-07T03:30:16Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8735,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1394,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 255,
+          "seconds": 2.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:30:16Z",
+      "ended_at": "2026-11-07T03:30:16Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 6 evidence rows, 7 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:30:16Z",
+      "ended_at": "2026-11-07T03:30:16Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 108
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P172348-A1-E1",
+      "approach_id": "P172348-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U61",
+      "para_no": null,
+      "sentence_position": 568,
+      "char_start": 87442,
+      "char_end": 87808,
+      "sentence": "The BFM will include options for entering beneficiary data into the MRTOT-housed Data Portal on Peacebuilding and Recovery (https://portal.mtot.gov.ua/), a web-based platform that can include geocoded photographic data from local communities (e.g. submitted from mobile phones) and spatial data to track progress on transport- and agriculture-related infrastructure.",
+      "practice": "geocoded Data Portal on Peacebuilding and Recovery",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: geocoded web portal with mobile photos | Not routine: citizen-submitted spatial progress data | Adoption: 'will include options for entering'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: web portal with geocoded mobile photos | Innovative: community-submitted spatial progress data | Category: citizen data sharing",
+      "keywords_hit": "data portal;geocod;portal;spatial data;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: community-submitted geocoded data portal - cue: 'portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    },
+    {
+      "row_id": "P172348-A1-E2",
+      "approach_id": "P172348-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U61",
+      "para_no": null,
+      "sentence_position": 566,
+      "char_start": 87090,
+      "char_end": 87260,
+      "sentence": "(g) A 3R Project beneficiary feedback mechanism (BFM), including a GRM will be established by MRTOT to collect, manage, and respond to feedback related to the 3R Project.",
+      "practice": "geocoded Data Portal on Peacebuilding and Recovery",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: geocoded web portal with mobile photos | Not routine: citizen-submitted spatial progress data | Adoption: 'will include options for entering'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: web portal with geocoded mobile photos | Innovative: community-submitted spatial progress data | Category: citizen data sharing",
+      "keywords_hit": "data portal;geocod;portal;spatial data;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: community-submitted geocoded data portal - cue: 'portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    },
+    {
+      "row_id": "P172348-A1-E3",
+      "approach_id": "P172348-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U105",
+      "para_no": null,
+      "sentence_position": 932,
+      "char_start": 144913,
+      "char_end": 145117,
+      "sentence": "Under Component 3, a well-advertised BFM (including a GRM), linked to MRTOT’s online Data Portal on Peacebuilding and Recovery, will be established to collect and respond to complaints and other feedback.",
+      "practice": "online Data Portal on Peacebuilding and Recovery linked to feedback mechanism",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: online peacebuilding Data Portal | Not routine: civic-tech feedback channel in conflict area | Adoption: 'will be established'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online Data Portal with BFM | Innovative: civic-tech feedback channel in conflict area | Category: multi-stakeholder engagement",
+      "keywords_hit": "data portal;portal;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: online portal channeling citizen feedback and complaints - cue: 'Data Portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    },
+    {
+      "row_id": "P172348-A1-E4",
+      "approach_id": "P172348-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U105",
+      "para_no": null,
+      "sentence_position": 935,
+      "char_start": 145466,
+      "char_end": 145664,
+      "sentence": "Based on the evolving COVID-19 situation, proposed citizen engagement activities will also blend traditional and civic technology through the Data Portal; and utilize virtual formats for engagement.",
+      "practice": "online Data Portal on Peacebuilding and Recovery linked to feedback mechanism",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Public Administration - Transportation",
+      "extractor_reason": "Digital core: online peacebuilding Data Portal | Not routine: civic-tech feedback channel in conflict area | Adoption: 'will be established'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online Data Portal with BFM | Innovative: civic-tech feedback channel in conflict area | Category: multi-stakeholder engagement",
+      "keywords_hit": "data portal;portal;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: online portal channeling citizen feedback and complaints - cue: 'Data Portal'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    },
+    {
+      "row_id": "P172348-A2-E1",
+      "approach_id": "P172348-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U77",
+      "para_no": null,
+      "sentence_position": 701,
+      "char_start": 108386,
+      "char_end": 108530,
+      "sentence": "In addition, the installation of automated weighing and speed measures will help protect investments against the impacts of overweight vehicles.",
+      "practice": "Automated weighing and speed enforcement to protect road investments",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: automated weighing and speed sensors | Not routine: enforcement tech protects road assets | Adoption: 'installation ... will help protect'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated weighing/speed sensors | Innovative: enforcement tech protecting road assets | Category: adapted technology",
+      "keywords_hit": "automated",
+      "innovation_cues": "",
+      "innovation_basis": "New service: automated weigh-in-motion and speed enforcement - cue: 'automated weighing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    },
+    {
+      "row_id": "P172348-A3-E1",
+      "approach_id": "P172348-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P172348",
+      "doc_id": "298791604977274272",
+      "doc_type": "PAD",
+      "doc_date": "2020-10-15",
+      "file_name": "P172348_PAD_2020-10-15_298791604977274272.txt",
+      "unit_id": "U85",
+      "para_no": null,
+      "sentence_position": 768,
+      "char_start": 119232,
+      "char_end": 119524,
+      "sentence": "The BFM will be linked to MRTOT’s already established Data Portal on Peacebuilding and Recovery, which will include the potential for MRTOT to include satellite and other geocoded and visual data and for communities to post photographic evidence of the progress of infrastructure investments.",
+      "practice": "Data Portal linked to beneficiary feedback mechanism with satellite/geocoded data",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: Data Portal with satellite/geocoded data | Not routine: communities post photo evidence | Adoption: 'will be linked'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: portal with satellite/geocoded data | Innovative: communities post photo evidence | Category: citizen data sharing",
+      "keywords_hit": "data portal;geocod;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New process: community photo evidence and satellite data on recovery portal - cue: 'communities to post'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e10c4f12"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 541,
+      "char_start": 82219,
+      "char_end": 82656,
+      "sentence": "Subcomponent 3A will finance the incremental costs of MRTOT to establish an overall implementation support platform for project investments as well as financial management (FM), procurement, and supervision costs for Components 2 and 3, including the establishment of a management information system for agriculture-related subprojects, implementation of the Environmental and Social Framework (ESF), and monitoring and evaluation (M&E).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "management information system for agriculture subprojects",
+      "reason": "reject: Standard MIS for subproject tracking; routine project management system, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: MIS tracking agriculture subprojects - cue: 'establishment'",
+      "innovation_cues": "scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard MIS for subproject tracking; routine project management system, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1536
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 566,
+      "char_start": 87090,
+      "char_end": 87260,
+      "sentence": "(g) A 3R Project beneficiary feedback mechanism (BFM), including a GRM will be established by MRTOT to collect, manage, and respond to feedback related to the 3R Project.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "beneficiary feedback mechanism with multi-channel GRM",
+      "reason": "reject: BFM/GRM is standard grievance mechanism; no named digital system doing new work",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: continuous beneficiary feedback feeding implementation - cue: 'continuous feedback'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "BFM/GRM is standard grievance mechanism; no named digital system doing new work",
+          "reject_code": "not_innovative",
+          "context_chars": 1215
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 569,
+      "char_start": 87809,
+      "char_end": 87983,
+      "sentence": "The BFM will also provide options for feedback via hotlines, WhatsApp, social media, the project website, verbal or written appeals received by staff, postal mail, and email.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "WhatsApp and social media feedback channels for GRM",
+      "reason": "reject: WhatsApp/social media intake channels are routine GRM practice, not a new approach",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: social-messaging intake for grievances - cue: 'WhatsApp'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "WhatsApp/social media intake channels are routine GRM practice, not a new approach",
+          "reject_code": "not_innovative",
+          "context_chars": 1344
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 930,
+      "char_start": 144139,
+      "char_end": 144682,
+      "sentence": "For infrastructure investments under Components 1 and 2, beneficiary communities will also be engaged through annual beneficiary/user surveys conducted for each infrastructure investment (for the road investments, the agri-hub, and the laboratory) including a baseline measuring the perception of communities regarding existing transport and agricultural infrastructure and services, and then annual surveys to obtain feedback on the design implementation, budgeting, construction process, infrastructure improvements, and facility management.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "annual beneficiary/user surveys with baseline for infrastructure feedback",
+      "reason": "reject: Annual beneficiary surveys are standard M&E; no named digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: recurring beneficiary perception surveys tied to each investment - cue: 'participatory-planning'",
+      "innovation_cues": "participatory-planning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Annual beneficiary surveys are standard M&E; no named digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1414
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 998,
+      "char_start": 157162,
+      "char_end": 158358,
+      "sentence": "SPACE Intermediate Results Indicators by Components RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline Intermediate Targets End Target 1 Component 1: RECONNECT Number of kilometers of roads rehabilitated in 0.00 20.00 50.00 project areas (Kilometers) Transport cost from farms/processing centers to main transport hubs/markets (UAH per ton/km) 1.60 1.50 1.25 (Number) Modernization of road network management: percent change in number of overweight trucks 90.00 40.00 10.00 (Percentage) Number of traffic accidents involving injury and 13.00 11.00 10.00 fatalities on project rehabilitated roads (Number) Number of 3R project community consultations and trainings held in target areas on road 0.00 5.00 10.00 safety/'feeder road’ development (Number) Development of climate resilient maintenance No Yes Yes guidelines for 3R roads investments (Yes/No) Number of short-term jobs created in roads construction in project areas (Number) 0.00 750.00 1,000.00 Percentage beneficiary satisfaction with project- 0.00 50.00 80.00 financed roads (Percentage) Page 42 of 74 The World Bank Eastern Ukraine: Reconnect, Recover, Revitalize (3R Project) (P172348) RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Beneficiary feedback mechanism with online data portal",
+      "reason": "reject: Results indicator counting BFM portal users; standard M&E reporting, not a practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: multi-channel beneficiary feedback mechanism with data portal - cue: 'feedback'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Results indicator counting BFM portal users; standard M&E reporting, not a practice",
+          "reject_code": "not_innovative",
+          "context_chars": 2391
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 1053,
+      "char_start": 171868,
+      "char_end": 172335,
+      "sentence": "Measures whether BFM Number of persons in project areas mechanism/Data Portal is Project Review of project utilizing 3R BFM mechanism through being utilized in project Annually monitoring MRTOT monitoring reports. multiple channels, including online data areas/by types of reports portal, on monthly basis beneficiary and what type of feedback channel is most Page 51 of 74 The World Bank Eastern Ukraine: Reconnect, Recover, Revitalize (3R Project) (P172348) common.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Online BFM data portal for beneficiary feedback",
+      "reason": "reject: Indicator measuring BFM portal usage; standard M&E, not an innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: multi-channel feedback tracked via portal usage - cue: 'data portal'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator measuring BFM portal usage; standard M&E, not an innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1294
+        }
+      ]
+    },
+    {
+      "guid": "298791604977274272",
+      "doc_type": "PAD",
+      "position": 522,
+      "char_start": 79407,
+      "char_end": 79753,
+      "sentence": "(g) market identification and support for traditional and innovative digital marketplaces, particularly if mobility restrictions from COVID-19 continue (to include product selection, partnerships, and direct marketing); and (h) management and technical support prior to handover to ensure sustainable and cooperatively managed clusters over time.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Support for traditional and innovative digital marketplaces for cluster produce (product selection, partnerships, direct marketing)",
+      "reason": "reject: final check round 1: digital: incidental - Digital: digital marketplaces mentioned as channel, approach is market linkage | Before 2019: e-marketplace/ICT4Ag pilots common in WBG/IFAD/FAO projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "Online sales channel for smallholder clusters, especially under COVID mobility limits; only one sub-item of DBOT cluster package",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Only a passing mention of 'digital marketplaces'; unclear what platform, who runs it, or whether financed",
+          "reject_code": "",
+          "context_chars": 1257
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: digital marketplaces for cluster produce | Innovative: online sales channel for smallholders under mobility limits | Category: Technological delivery channel",
+          "reject_code": "",
+          "context_chars": 27517
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: digital marketplaces mentioned as channel, approach is market linkage | Before 2019: e-marketplace/ICT4Ag pilots common in WBG/IFAD/FAO projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 15,
+    "input_tokens": 14866,
+    "cached_tokens": 70142,
+    "cache_write_tokens": 0,
+    "output_tokens": 4519,
+    "seconds": 41.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0103
+  }
+}

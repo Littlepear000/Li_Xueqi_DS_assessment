@@ -1,0 +1,554 @@
+{
+  "project_id": "P169718",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "9a6e6a15",
+  "started_at": "2026-11-07T03:27:19Z",
+  "ended_at": "2026-11-07T03:27:37Z",
+  "input_fingerprint": "f6a3ac528bbcab70",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 17,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P169718-A1",
+      "project_id": "P169718",
+      "name": "Digitized construction permitting system for development control",
+      "description": "Project prepares development control tools including digitization of the manual construction permitting process.",
+      "why_innovative": "New process: digital permitting replaces manual multi-office approvals - cue: 'digitization of permitting systems' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "303511653399623283",
+        "doc_type": "PAD",
+        "doc_date": "2022-04-26",
+        "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+        "char_start": 68518,
+        "char_end": 68854,
+        "text": "(c) prepare development control tools, including digitization of permitting systems; and (d) deliver targeted training to civil servants and appointed officials at the central and local government level with the possible inclusion of community-level organizations, which will ensure that female staff of the municipalities will benefit.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "303511653399623283",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-26",
+          "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+          "char_start": 69125,
+          "char_end": 69547,
+          "text": "Ultimately, the strengthening of urban development control systems and practices, using climate risk maps to inform no- build zones, paired with a public awareness campaign on climate risks also to be supported under the program, is anticipated to contribute to a reduction of citizens settling in high climate and flood-risk zones or ecologically sensitive areas, thereby reducing climate risk in the medium to long term.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers permitting delivery, not a new technology per se",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: digitized permitting system | Innovative: replaces manual multi-agency permits | Category: re-engineered delivery process",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital permitting replaces manual multi-office approvals - cue: 'digitization of permitting systems'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P169718-A2",
+      "project_id": "P169718",
+      "name": "drone aerial surveys producing terrain models for drainage design",
+      "description": "Project uses drone surveys and orthophotos to build topographic maps and drainage models.",
+      "why_innovative": "New service: drone survey terrain models feed drainage feasibility - cue: 'drone survey' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "303511653399623283",
+        "doc_type": "PAD",
+        "doc_date": "2022-04-26",
+        "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+        "char_start": 86338,
+        "char_end": 86532,
+        "text": "Detailed aerial surveys of the Project area have already been conducted using drone survey techniques and resulted in high-resolution terrain models and orthophotos of the Greater Monrovia area.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "303511653399623283",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-26",
+          "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+          "char_start": 86533,
+          "char_end": 86737,
+          "text": "In Component 1, this information will enable the creation of detailed topographic maps and will feed into detailed models to be developed during the feasibility study phase to understand drainage systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: drone remote sensing is the core data mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: drone orthophotos and terrain models | Innovative: replaces ground survey for drainage design | Category: remote sensing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: drone survey terrain models feed drainage feasibility - cue: 'drone survey'",
+      "innovation_cues": [
+        "nature-based"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P169718",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-26",
+      "guid": "303511653399623283",
+      "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:27:19Z",
+      "ended_at": "2026-11-07T03:27:23Z",
+      "status": "ok",
+      "note": "8 document(s) fetched from the WBG API; 12 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:27:23Z",
+      "ended_at": "2026-11-07T03:27:23Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-05-17, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:27:23Z",
+      "ended_at": "2026-11-07T03:27:25Z",
+      "status": "ok",
+      "note": "17 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 17,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 2,
+          "public_good": 3,
+          "innovation_cycle": 4,
+          "innovation_types": 3,
+          "enabling_technologies": 4,
+          "innovation": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:27:25Z",
+      "ended_at": "2026-11-07T03:27:25Z",
+      "status": "ok",
+      "note": "PAD 2022-04-26 (P169718_PAD_2022-04-26_303511653399623283.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P169718",
+            "doc_type": "PAD",
+            "doc_date": "2022-04-26",
+            "guid": "303511653399623283",
+            "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:27:25Z",
+      "ended_at": "2026-11-07T03:27:25Z",
+      "status": "ok",
+      "note": "157 reading units (25 numbered paragraphs) from 1376 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 157
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:27:25Z",
+      "ended_at": "2026-11-07T03:27:27Z",
+      "status": "ok",
+      "note": "45 of 157 units carry a digital / AI cue (4 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 45,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 4
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:27:27Z",
+      "ended_at": "2026-11-07T03:27:30Z",
+      "status": "ok",
+      "note": "3 candidate practices from 45 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 148567,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 951,
+          "cached_tokens": 30720,
+          "cache_write_tokens": 0,
+          "output_tokens": 1135,
+          "seconds": 11.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:27:30Z",
+      "ended_at": "2026-11-07T03:27:34Z",
+      "status": "ok",
+      "note": "2 accepted, 1 rejected (not_innovative 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 111166,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 15608,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 300,
+          "seconds": 3.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0051
+        },
+        "accepted": 2,
+        "rejected": 1,
+        "expanded": 1,
+        "reject_codes": {
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:27:34Z",
+      "ended_at": "2026-11-07T03:27:34Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:27:34Z",
+      "ended_at": "2026-11-07T03:27:34Z",
+      "status": "ok",
+      "note": "2 approaches -> 2 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:27:34Z",
+      "ended_at": "2026-11-07T03:27:36Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5526,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 203,
+          "cached_tokens": 896,
+          "cache_write_tokens": 0,
+          "output_tokens": 145,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:27:36Z",
+      "ended_at": "2026-11-07T03:27:36Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 4 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:27:36Z",
+      "ended_at": "2026-11-07T03:27:37Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 71
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P169718-A1-E1",
+      "approach_id": "P169718-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P169718",
+      "doc_id": "303511653399623283",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-26",
+      "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 377,
+      "char_start": 68518,
+      "char_end": 68854,
+      "sentence": "(c) prepare development control tools, including digitization of permitting systems; and (d) deliver targeted training to civil servants and appointed officials at the central and local government level with the possible inclusion of community-level organizations, which will ensure that female staff of the municipalities will benefit.",
+      "practice": "Digitized construction permitting system for development control",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: digitized permitting system | Not routine: replaces manual multi-agency permits | Adoption: 'prepare development control tools'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized permitting system | Innovative: replaces manual multi-agency permits | Category: re-engineered delivery process",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital permitting replaces manual multi-office approvals - cue: 'digitization of permitting systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9a6e6a15"
+    },
+    {
+      "row_id": "P169718-A1-E2",
+      "approach_id": "P169718-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P169718",
+      "doc_id": "303511653399623283",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-26",
+      "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 379,
+      "char_start": 69125,
+      "char_end": 69547,
+      "sentence": "Ultimately, the strengthening of urban development control systems and practices, using climate risk maps to inform no- build zones, paired with a public awareness campaign on climate risks also to be supported under the program, is anticipated to contribute to a reduction of citizens settling in high climate and flood-risk zones or ecologically sensitive areas, thereby reducing climate risk in the medium to long term.",
+      "practice": "Digitized construction permitting system for development control",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: digitized permitting system | Not routine: replaces manual multi-agency permits | Adoption: 'prepare development control tools'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized permitting system | Innovative: replaces manual multi-agency permits | Category: re-engineered delivery process",
+      "keywords_hit": "digitization of",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital permitting replaces manual multi-office approvals - cue: 'digitization of permitting systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9a6e6a15"
+    },
+    {
+      "row_id": "P169718-A2-E1",
+      "approach_id": "P169718-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P169718",
+      "doc_id": "303511653399623283",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-26",
+      "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+      "unit_id": "U57",
+      "para_no": null,
+      "sentence_position": 495,
+      "char_start": 86338,
+      "char_end": 86532,
+      "sentence": "Detailed aerial surveys of the Project area have already been conducted using drone survey techniques and resulted in high-resolution terrain models and orthophotos of the Greater Monrovia area.",
+      "practice": "drone aerial surveys producing terrain models for drainage design",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: drone orthophotos and terrain models | Not routine: replaces ground survey for drainage design | Adoption: 'have already been conducted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: drone orthophotos and terrain models | Innovative: replaces ground survey for drainage design | Category: remote sensing",
+      "keywords_hit": "drone;survey",
+      "innovation_cues": "nature-based",
+      "innovation_basis": "New service: drone survey terrain models feed drainage feasibility - cue: 'drone survey'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9a6e6a15"
+    },
+    {
+      "row_id": "P169718-A2-E2",
+      "approach_id": "P169718-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P169718",
+      "doc_id": "303511653399623283",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-26",
+      "file_name": "P169718_PAD_2022-04-26_303511653399623283.txt",
+      "unit_id": "U57",
+      "para_no": null,
+      "sentence_position": 496,
+      "char_start": 86533,
+      "char_end": 86737,
+      "sentence": "In Component 1, this information will enable the creation of detailed topographic maps and will feed into detailed models to be developed during the feasibility study phase to understand drainage systems.",
+      "practice": "drone aerial surveys producing terrain models for drainage design",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: drone orthophotos and terrain models | Not routine: replaces ground survey for drainage design | Adoption: 'have already been conducted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: drone orthophotos and terrain models | Innovative: replaces ground survey for drainage design | Category: remote sensing",
+      "keywords_hit": "drone;survey",
+      "innovation_cues": "nature-based",
+      "innovation_basis": "New service: drone survey terrain models feed drainage feasibility - cue: 'drone survey'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "9a6e6a15"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "303511653399623283",
+      "doc_type": "PAD",
+      "position": 497,
+      "char_start": 86738,
+      "char_end": 86977,
+      "sentence": "The Project will also make use of hydrological monitoring instruments in the areas of interest to conduct ground-based surveys necessary for the design of flood management infrastructure works, as well as the development of the O&M system.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "hydrological monitoring instruments for flood infrastructure design and O&M",
+      "reason": "reject: Hydrological monitoring instruments and drone surveys are routine engineering/design practice in MDB urban drainage projects",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: instrumented hydrological monitoring informs design and O&M - cue: 'monitoring instruments'",
+      "innovation_cues": "nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear what instruments measure, whether digital/telemetry, and whether new versus standard survey practice",
+          "reject_code": "",
+          "context_chars": 1508
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Hydrological monitoring instruments and drone surveys are routine engineering/design practice in MDB urban drainage projects",
+          "reject_code": "not_innovative",
+          "context_chars": 74976
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 8,
+    "input_tokens": 16762,
+    "cached_tokens": 37120,
+    "cache_write_tokens": 0,
+    "output_tokens": 1580,
+    "seconds": 17.1,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0071
+  }
+}

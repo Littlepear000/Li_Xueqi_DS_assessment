@@ -1,0 +1,1815 @@
+{
+  "taxonomy": "Digital & Data Approach Taxonomy (DDAT)",
+  "version": "1.0",
+  "built_on": "2026-11-06",
+  "source": {
+    "title": "The World Bank Theme Taxonomy: June 2025",
+    "publisher": "World Bank, Operations Policy and Country Services",
+    "handle": "https://openknowledge.worldbank.org/handle/10986/43948",
+    "local_file": "background/The World Bank Theme Taxonomy.pdf",
+    "sections": "[250000] Digital Transformation (pp. 371-430); [270000] Data Ecosystem (pp. 441-474)"
+  },
+  "note": "Definitions, typical examples and excluded examples are copied verbatim from the source; only line breaks and end-of-line hyphenation were normalised. Each second-level theme is one approach.",
+  "exclusion_count": 192,
+  "exclusions": [
+    {
+      "exclusion_id": "X-250100-01",
+      "approach_code": "250100",
+      "source_theme_code": "250100",
+      "source_theme_name": "Broadband Connectivity",
+      "text": "Data centers",
+      "see_instead": [],
+      "source_page": 372
+    },
+    {
+      "exclusion_id": "X-250100-02",
+      "approach_code": "250100",
+      "source_theme_code": "250100",
+      "source_theme_name": "Broadband Connectivity",
+      "text": "Activities supporting the creation of a digital economy strategy",
+      "see_instead": [],
+      "source_page": 372
+    },
+    {
+      "exclusion_id": "X-250100-03",
+      "approach_code": "250100",
+      "source_theme_code": "250100",
+      "source_theme_name": "Broadband Connectivity",
+      "text": "Activities supporting the creation of an enabling environment for data centers, cloud, and so on.",
+      "see_instead": [],
+      "source_page": 372
+    },
+    {
+      "exclusion_id": "X-250101-01",
+      "approach_code": "250100",
+      "source_theme_code": "250101",
+      "source_theme_name": "Broadband Enabling Environment",
+      "text": "Activities supporting the creation of a digital economy strategy",
+      "see_instead": [],
+      "source_page": 373
+    },
+    {
+      "exclusion_id": "X-250101-02",
+      "approach_code": "250100",
+      "source_theme_code": "250101",
+      "source_theme_name": "Broadband Enabling Environment",
+      "text": "Activities supporting the creation of an enabling environment for data infrastructure investment, such as data centers, cloud, and so on.",
+      "see_instead": [],
+      "source_page": 373
+    },
+    {
+      "exclusion_id": "X-250102-01",
+      "approach_code": "250100",
+      "source_theme_code": "250102",
+      "source_theme_name": "Broadband Infrastructure & Services",
+      "text": "Investment in infrastructure for the collection, storage, analysis, and distribution of data such as data centers",
+      "see_instead": [],
+      "source_page": 375
+    },
+    {
+      "exclusion_id": "X-250102-02",
+      "approach_code": "250100",
+      "source_theme_code": "250102",
+      "source_theme_name": "Broadband Infrastructure & Services",
+      "text": "Demand-side activities such as providing digital skills and literacy training and supporting device affordability.",
+      "see_instead": [],
+      "source_page": 375
+    },
+    {
+      "exclusion_id": "X-250103-01",
+      "approach_code": "250100",
+      "source_theme_code": "250103",
+      "source_theme_name": "Digital Device Access for All",
+      "text": "Other demand-side activities such as digital literacy training or demand aggregation of broadband connectivity.",
+      "see_instead": [],
+      "source_page": 376
+    },
+    {
+      "exclusion_id": "X-250200-01",
+      "approach_code": "250200",
+      "source_theme_code": "250200",
+      "source_theme_name": "Data Infrastructure",
+      "text": "IT activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, and creation/operation of help desks, unless they are directly related to the collection, curation, dissemination, and use of data or statistics)",
+      "see_instead": [],
+      "source_page": 377
+    },
+    {
+      "exclusion_id": "X-250200-02",
+      "approach_code": "250200",
+      "source_theme_code": "250200",
+      "source_theme_name": "Data Infrastructure",
+      "text": "Information and communication technology (ICT) activities, for example, expansion of internet coverage, expansion/reform of telecommunications sector, and mobile communications.",
+      "see_instead": [],
+      "source_page": 377
+    },
+    {
+      "exclusion_id": "X-250201-01",
+      "approach_code": "250200",
+      "source_theme_code": "250201",
+      "source_theme_name": "Data Centers",
+      "text": "Infrastructure primarily used to enable digital connectivity, such as broadband, 5G, and satellite networks",
+      "see_instead": [],
+      "source_page": 379
+    },
+    {
+      "exclusion_id": "X-250201-02",
+      "approach_code": "250200",
+      "source_theme_code": "250201",
+      "source_theme_name": "Data Centers",
+      "text": "Subscription of cloud services, which does not involve developing the underlying infrastructure such as data centers, data warehouse, IXPs, CDNs, and cloud computing platforms",
+      "see_instead": [],
+      "source_page": 379
+    },
+    {
+      "exclusion_id": "X-250201-03",
+      "approach_code": "250200",
+      "source_theme_code": "250201",
+      "source_theme_name": "Data Centers",
+      "text": "General information technology (IT) modernization activities (for example, IT system maintenance, support for IT technicians, purchase/installation of applications, and creation/operation of help desks, unless they are directly related to the collection, curation, dissemination, and use of data or statistics).",
+      "see_instead": [],
+      "source_page": 379
+    },
+    {
+      "exclusion_id": "X-250202-01",
+      "approach_code": "250200",
+      "source_theme_code": "250202",
+      "source_theme_name": "Data Storage and Computing Infrastructure",
+      "text": "Deployment of data centers with only the space, power, and security, without data storage, compute, and network infrastructure. For details, please refer to Theme code [250201] Data Centers.",
+      "see_instead": [
+        "250201"
+      ],
+      "source_page": 380
+    },
+    {
+      "exclusion_id": "X-250202-02",
+      "approach_code": "250200",
+      "source_theme_code": "250202",
+      "source_theme_name": "Data Storage and Computing Infrastructure",
+      "text": "Network infrastructure deployed to support general organizational connectivity outside of the scope of supporting operations of data centers or cloud platforms.",
+      "see_instead": [],
+      "source_page": 380
+    },
+    {
+      "exclusion_id": "X-250202-03",
+      "approach_code": "250200",
+      "source_theme_code": "250202",
+      "source_theme_name": "Data Storage and Computing Infrastructure",
+      "text": "General IT modernization activities (for example, IT system maintenance, support for IT technicians, purchase/installation of applications, and creation/operation of help desks, unless they are directly related to the collection, curation, dissemination, and use of data or statistics).",
+      "see_instead": [],
+      "source_page": 380
+    },
+    {
+      "exclusion_id": "X-250203-01",
+      "approach_code": "250200",
+      "source_theme_code": "250203",
+      "source_theme_name": "Cloud Computing",
+      "text": "Acquisition, development, and upgrade of Data Storage and Computing Infrastructure (see Theme code [250202] Data Storage and Computing Infrastructure).",
+      "see_instead": [
+        "250202"
+      ],
+      "source_page": 381
+    },
+    {
+      "exclusion_id": "X-250203-02",
+      "approach_code": "250200",
+      "source_theme_code": "250203",
+      "source_theme_name": "Cloud Computing",
+      "text": "General information technology (IT) modernization activities (for example, IT system maintenance, support for IT technicians, purchase/installation of applications, and creation/operation of help desks, unless they are directly related to the collection, curation, dissemination, and use of data or statistics).",
+      "see_instead": [],
+      "source_page": 381
+    },
+    {
+      "exclusion_id": "X-250300-01",
+      "approach_code": "250300",
+      "source_theme_code": "250300",
+      "source_theme_name": "AI and Emerging Technologies",
+      "text": "Projects involving basic IT modernization without an AI or emerging technology component",
+      "see_instead": [],
+      "source_page": 383
+    },
+    {
+      "exclusion_id": "X-250300-02",
+      "approach_code": "250300",
+      "source_theme_code": "250300",
+      "source_theme_name": "AI and Emerging Technologies",
+      "text": "Investments in traditional statistical or data systems without AI or automation integration",
+      "see_instead": [],
+      "source_page": 383
+    },
+    {
+      "exclusion_id": "X-250300-03",
+      "approach_code": "250300",
+      "source_theme_code": "250300",
+      "source_theme_name": "AI and Emerging Technologies",
+      "text": "Applications or services with minimal use of AI or emerging technologies (for example, software upgrades or IT support services).",
+      "see_instead": [],
+      "source_page": 383
+    },
+    {
+      "exclusion_id": "X-250301-01",
+      "approach_code": "250300",
+      "source_theme_code": "250301",
+      "source_theme_name": "Artificial Intelligence Foundations",
+      "text": "Deployment of specific AI services or applications (these are coded under Theme code [250303] Artificial Intelligence Services & Applications).",
+      "see_instead": [
+        "250303"
+      ],
+      "source_page": 384
+    },
+    {
+      "exclusion_id": "X-250301-02",
+      "approach_code": "250300",
+      "source_theme_code": "250301",
+      "source_theme_name": "Artificial Intelligence Foundations",
+      "text": "Basic IT infrastructure development unrelated to AI training or deployment.",
+      "see_instead": [],
+      "source_page": 384
+    },
+    {
+      "exclusion_id": "X-250301-03",
+      "approach_code": "250300",
+      "source_theme_code": "250301",
+      "source_theme_name": "Artificial Intelligence Foundations",
+      "text": "Development of standards and protocols for model transparency, explainability, and interoperability (coded under Theme code [250302] Artificial Intelligence Enablers).",
+      "see_instead": [
+        "250302"
+      ],
+      "source_page": 384
+    },
+    {
+      "exclusion_id": "X-250302-01",
+      "approach_code": "250300",
+      "source_theme_code": "250302",
+      "source_theme_name": "Artificial Intelligence Enablers",
+      "text": "Development of AI-specific models or applications (coded under Theme code [250301] Artificial Intelligence Foundations or Theme code [250303] Artificial Intelligence Services & Applications)",
+      "see_instead": [
+        "250301",
+        "250303"
+      ],
+      "source_page": 385
+    },
+    {
+      "exclusion_id": "X-250302-02",
+      "approach_code": "250300",
+      "source_theme_code": "250302",
+      "source_theme_name": "Artificial Intelligence Enablers",
+      "text": "Investments in general-purpose IT infrastructure without explicit AI enablement goals.",
+      "see_instead": [],
+      "source_page": 385
+    },
+    {
+      "exclusion_id": "X-250303-01",
+      "approach_code": "250300",
+      "source_theme_code": "250303",
+      "source_theme_name": "Artificial Intelligence Services & Applications",
+      "text": "Foundational research or model development (coded under Theme code [250301] Artificial Intelligence Foundations)",
+      "see_instead": [
+        "250301"
+      ],
+      "source_page": 386
+    },
+    {
+      "exclusion_id": "X-250303-02",
+      "approach_code": "250300",
+      "source_theme_code": "250303",
+      "source_theme_name": "Artificial Intelligence Services & Applications",
+      "text": "Investment in underlying computational infrastructure (coded under Theme code [250301] Artificial Intelligence Foundations).",
+      "see_instead": [
+        "250301"
+      ],
+      "source_page": 386
+    },
+    {
+      "exclusion_id": "X-250304-01",
+      "approach_code": "250300",
+      "source_theme_code": "250304",
+      "source_theme_name": "Other Emerging Technologies (IoT, Quantum, Blockchain, etc.)",
+      "text": "Projects focusing solely on AI technologies (coded under Theme code [250301] Artificial Intelligence Foundations, Theme code [250302] Artificial Intelligence Enablers, or Theme code [250303] Artificial Intelligence Services & Applications)",
+      "see_instead": [
+        "250301",
+        "250302",
+        "250303"
+      ],
+      "source_page": 387
+    },
+    {
+      "exclusion_id": "X-250304-02",
+      "approach_code": "250300",
+      "source_theme_code": "250304",
+      "source_theme_name": "Other Emerging Technologies (IoT, Quantum, Blockchain, etc.)",
+      "text": "Basic digital infrastructure investments without integration of emerging technologies.",
+      "see_instead": [],
+      "source_page": 387
+    },
+    {
+      "exclusion_id": "X-250400-01",
+      "approach_code": "250400",
+      "source_theme_code": "250400",
+      "source_theme_name": "Cybersecurity",
+      "text": "For cybersecurity activities related to financial institutions as well as in the financial sector or industry—different from national cybersecurity frameworks—see related code [130104] Cyber Security and Data Privacy for Financial Sector.",
+      "see_instead": [
+        "130104"
+      ],
+      "source_page": 388
+    },
+    {
+      "exclusion_id": "X-250500-01",
+      "approach_code": "250500",
+      "source_theme_code": "250500",
+      "source_theme_name": "Data Protection and Privacy",
+      "text": "Remuneration for civil servants such as data protection officials and purchase of real estate or land for a new data protection office",
+      "see_instead": [],
+      "source_page": 389
+    },
+    {
+      "exclusion_id": "X-250500-02",
+      "approach_code": "250500",
+      "source_theme_code": "250500",
+      "source_theme_name": "Data Protection and Privacy",
+      "text": "Cybersecurity and cyber resilience activities which focus on managing risks in a digital environment and responding to cyber incidents (See Theme code [250400] Cybersecurity for details).",
+      "see_instead": [
+        "250400"
+      ],
+      "source_page": 389
+    },
+    {
+      "exclusion_id": "X-250600-01",
+      "approach_code": "250600",
+      "source_theme_code": "250600",
+      "source_theme_name": "Digital Public Infrastructure",
+      "text": "Physical infrastructure enabling digital connectivity, such as broadband and 5G",
+      "see_instead": [],
+      "source_page": 390
+    },
+    {
+      "exclusion_id": "X-250600-02",
+      "approach_code": "250600",
+      "source_theme_code": "250600",
+      "source_theme_name": "Digital Public Infrastructure",
+      "text": "Digital systems that are primarily intended to support specific sectoral use cases",
+      "see_instead": [],
+      "source_page": 390
+    },
+    {
+      "exclusion_id": "X-250600-03",
+      "approach_code": "250600",
+      "source_theme_code": "250600",
+      "source_theme_name": "Digital Public Infrastructure",
+      "text": "For payment and settlement systems (related to exchanging, clearing, and settling financial obligations between payers and payees), credit reporting systems, and other financial infrastructure, see related codes: [130201] Payment Systems and Digital Finance and [130304] Insolvency and Credit Infrastructure",
+      "see_instead": [
+        "130201",
+        "130304"
+      ],
+      "source_page": 390
+    },
+    {
+      "exclusion_id": "X-250600-04",
+      "approach_code": "250600",
+      "source_theme_code": "250600",
+      "source_theme_name": "Digital Public Infrastructure",
+      "text": "For data exchange in the context of financial products and services, see related codes: [130201] Payment Systems and Digital Finance, [130302] Infrastructure Finance, [130301] Agriculture Finance, and [130305] Firms/MSME Finance.",
+      "see_instead": [
+        "130201",
+        "130301",
+        "130302",
+        "130305"
+      ],
+      "source_page": 390
+    },
+    {
+      "exclusion_id": "X-250601-01",
+      "approach_code": "250600",
+      "source_theme_code": "250601",
+      "source_theme_name": "Identification Systems and Civil Registration",
+      "text": "Physical infrastructure enabling digital connectivity, such as broadband and 5G",
+      "see_instead": [],
+      "source_page": 392
+    },
+    {
+      "exclusion_id": "X-250601-02",
+      "approach_code": "250600",
+      "source_theme_code": "250601",
+      "source_theme_name": "Identification Systems and Civil Registration",
+      "text": "Physical and cloud data hosting environments, such as data centers and cloud solutions",
+      "see_instead": [],
+      "source_page": 392
+    },
+    {
+      "exclusion_id": "X-250601-03",
+      "approach_code": "250600",
+      "source_theme_code": "250601",
+      "source_theme_name": "Identification Systems and Civil Registration",
+      "text": "Support for public key infrastructure (PKI), digital signatures/certificates, and e-signatures that is broader than/ separate from ID systems, see Theme code [250603] E-Signatures and Trust Services",
+      "see_instead": [
+        "250603"
+      ],
+      "source_page": 392
+    },
+    {
+      "exclusion_id": "X-250601-04",
+      "approach_code": "250600",
+      "source_theme_code": "250601",
+      "source_theme_name": "Identification Systems and Civil Registration",
+      "text": "Digital systems that are primarily intended to support specific sectoral use cases.",
+      "see_instead": [],
+      "source_page": 392
+    },
+    {
+      "exclusion_id": "X-250602-01",
+      "approach_code": "250600",
+      "source_theme_code": "250602",
+      "source_theme_name": "Data Sharing, Data Exchange and Interoperability",
+      "text": "Physical infrastructure enabling digital connectivity, such as broadband and 5G",
+      "see_instead": [],
+      "source_page": 393
+    },
+    {
+      "exclusion_id": "X-250602-02",
+      "approach_code": "250600",
+      "source_theme_code": "250602",
+      "source_theme_name": "Data Sharing, Data Exchange and Interoperability",
+      "text": "Physical data hosting environments, such as data centers",
+      "see_instead": [],
+      "source_page": 393
+    },
+    {
+      "exclusion_id": "X-250602-03",
+      "approach_code": "250600",
+      "source_theme_code": "250602",
+      "source_theme_name": "Data Sharing, Data Exchange and Interoperability",
+      "text": "Digital systems that are primarily intended to support specific sectoral use cases (for example, a data sharing platform limited to the health sector only)",
+      "see_instead": [],
+      "source_page": 393
+    },
+    {
+      "exclusion_id": "X-250602-04",
+      "approach_code": "250600",
+      "source_theme_code": "250602",
+      "source_theme_name": "Data Sharing, Data Exchange and Interoperability",
+      "text": "For data exchange in the context of financial products and services, see related codes: [130201] Payment Systems and Digital Finance, [130302] Infrastructure Finance, [130301] Agriculture Finance, and [130305] Firms/MSME Finance.",
+      "see_instead": [
+        "130201",
+        "130301",
+        "130302",
+        "130305"
+      ],
+      "source_page": 393
+    },
+    {
+      "exclusion_id": "X-250603-01",
+      "approach_code": "250600",
+      "source_theme_code": "250603",
+      "source_theme_name": "E-Signatures and Trust Services",
+      "text": "Physical infrastructure enabling digital connectivity, such as broadband and 5G",
+      "see_instead": [],
+      "source_page": 394
+    },
+    {
+      "exclusion_id": "X-250603-02",
+      "approach_code": "250600",
+      "source_theme_code": "250603",
+      "source_theme_name": "E-Signatures and Trust Services",
+      "text": "Physical data hosting environments, such as data centers",
+      "see_instead": [],
+      "source_page": 394
+    },
+    {
+      "exclusion_id": "X-250603-03",
+      "approach_code": "250600",
+      "source_theme_code": "250603",
+      "source_theme_name": "E-Signatures and Trust Services",
+      "text": "Cloud-provisioned computing and storage resources that are not linked to the implementation of e-signature or other trust services listed above.",
+      "see_instead": [],
+      "source_page": 394
+    },
+    {
+      "exclusion_id": "X-250700-01",
+      "approach_code": "250700",
+      "source_theme_code": "250700",
+      "source_theme_name": "Digital Public Services (DPS)",
+      "text": "Support to design of horizontal digital policies and regulations, AI policy, and domain and sectoral laws and regulations, except review of domain/sectoral laws and regulations for digital readiness for service provision",
+      "see_instead": [],
+      "source_page": 396
+    },
+    {
+      "exclusion_id": "X-250700-02",
+      "approach_code": "250700",
+      "source_theme_code": "250700",
+      "source_theme_name": "Digital Public Services (DPS)",
+      "text": "Design and implementation of horizontal interoperability framework and systems, and systems for data hosting and storage",
+      "see_instead": [],
+      "source_page": 396
+    },
+    {
+      "exclusion_id": "X-250700-03",
+      "approach_code": "250700",
+      "source_theme_code": "250700",
+      "source_theme_name": "Digital Public Services (DPS)",
+      "text": "Non-digital skills training, such as general capacity-building initiatives, and sector-specific training, such as capacity-building programs targeting the private sector and companies, unless directly linked to supporting digital public services",
+      "see_instead": [],
+      "source_page": 396
+    },
+    {
+      "exclusion_id": "X-250700-04",
+      "approach_code": "250700",
+      "source_theme_code": "250700",
+      "source_theme_name": "Digital Public Services (DPS)",
+      "text": "Design and implementation of DPI systems and services—including digital identity, data sharing, trust services (e-signatures and public key infrastructure [PKI]), and digital payments—digital foundations (data hosting and broadband), and private sector digital services, unless for public service delivery for individuals and businesses. These are included under Theme code [250600] Digital Public Infrastructure.",
+      "see_instead": [
+        "250600"
+      ],
+      "source_page": 396
+    },
+    {
+      "exclusion_id": "X-250701-01",
+      "approach_code": "250700",
+      "source_theme_code": "250701",
+      "source_theme_name": "Leadership and Policy for Digital Public Services",
+      "text": "Overall support to designing and reviewing domain and sectoral laws and regulations (for example, procurement law, companies law and registration, and building code), except reviewing and designing laws and regulations for digital readiness",
+      "see_instead": [],
+      "source_page": 398
+    },
+    {
+      "exclusion_id": "X-250701-02",
+      "approach_code": "250700",
+      "source_theme_code": "250701",
+      "source_theme_name": "Leadership and Policy for Digital Public Services",
+      "text": "Support to design of horizontal digital policies and regulations (ID and e-signature/ transaction law, interoperability framework, data protection, and cybersecurity)",
+      "see_instead": [],
+      "source_page": 398
+    },
+    {
+      "exclusion_id": "X-250701-03",
+      "approach_code": "250700",
+      "source_theme_code": "250701",
+      "source_theme_name": "Leadership and Policy for Digital Public Services",
+      "text": "Design of artificial intelligence (AI) policies and strategies.",
+      "see_instead": [],
+      "source_page": 398
+    },
+    {
+      "exclusion_id": "X-250702-01",
+      "approach_code": "250700",
+      "source_theme_code": "250702",
+      "source_theme_name": "Data Management and Insights for Digital Public Services",
+      "text": "Design of horizontal interoperability framework and implementation of interoperability system (government service bus, and so on).",
+      "see_instead": [],
+      "source_page": 400
+    },
+    {
+      "exclusion_id": "X-250702-02",
+      "approach_code": "250700",
+      "source_theme_code": "250702",
+      "source_theme_name": "Data Management and Insights for Digital Public Services",
+      "text": "Design of systems for data hosting and storage systems (data warehouse and data lake).",
+      "see_instead": [],
+      "source_page": 400
+    },
+    {
+      "exclusion_id": "X-250703-01",
+      "approach_code": "250700",
+      "source_theme_code": "250703",
+      "source_theme_name": "Capacity Building and Government Training",
+      "text": "Non-digital skills training, such as general capacity-building initiatives unrelated to digital transformation, such as training on traditional administrative procedures.",
+      "see_instead": [],
+      "source_page": 402
+    },
+    {
+      "exclusion_id": "X-250703-02",
+      "approach_code": "250700",
+      "source_theme_code": "250703",
+      "source_theme_name": "Capacity Building and Government Training",
+      "text": "Sector-specific training, such as capacity‑building programs targeting the private sector and companies, unless directly linked to supporting digital public services.",
+      "see_instead": [],
+      "source_page": 402
+    },
+    {
+      "exclusion_id": "X-250704-01",
+      "approach_code": "250700",
+      "source_theme_code": "250704",
+      "source_theme_name": "User-centric Service Delivery",
+      "text": "Design and implementation of DPI systems and services (for example, digital ID, e-signatures, public key infrastructure [PKI], data sharing, and digital payments) covered under Theme code [250600] Digital Public Infrastructure",
+      "see_instead": [
+        "250600"
+      ],
+      "source_page": 403
+    },
+    {
+      "exclusion_id": "X-250704-02",
+      "approach_code": "250700",
+      "source_theme_code": "250704",
+      "source_theme_name": "User-centric Service Delivery",
+      "text": "Design and implementation of digital foundations (data hosting, broadband communication systems, cybersecurity systems, and so on)",
+      "see_instead": [],
+      "source_page": 403
+    },
+    {
+      "exclusion_id": "X-250704-03",
+      "approach_code": "250700",
+      "source_theme_code": "250704",
+      "source_theme_name": "User-centric Service Delivery",
+      "text": "Design and implementation of private sector digital services, unless for public service delivery for individuals and businesses",
+      "see_instead": [],
+      "source_page": 403
+    },
+    {
+      "exclusion_id": "X-250704-04",
+      "approach_code": "250700",
+      "source_theme_code": "250704",
+      "source_theme_name": "User-centric Service Delivery",
+      "text": "Design and implementation of domain-specific digital platforms, such as financial management systems, human resources management systems and similar.",
+      "see_instead": [],
+      "source_page": 403
+    },
+    {
+      "exclusion_id": "X-250800-01",
+      "approach_code": "250800",
+      "source_theme_code": "250800",
+      "source_theme_name": "Digital Economy",
+      "text": "General competition, taxation, and innovation policy at the national level and/ or as applied outside the “digital sector,” as well as how they apply to broader digital transactions and start-ups or firms with digital/data business models and offerings",
+      "see_instead": [],
+      "source_page": 405
+    },
+    {
+      "exclusion_id": "X-250800-02",
+      "approach_code": "250800",
+      "source_theme_code": "250800",
+      "source_theme_name": "Digital Economy",
+      "text": "General support for start-ups with digital business models (not explicitly targeted at the digital sector) or adoption of digital technologies by firms, which should use code [120401] Entrepreneurship and Digital Entrepreneurship or [120300] Innovation, Technology, and Green Competitiveness",
+      "see_instead": [
+        "120300",
+        "120401"
+      ],
+      "source_page": 405
+    },
+    {
+      "exclusion_id": "X-250800-03",
+      "approach_code": "250800",
+      "source_theme_code": "250800",
+      "source_theme_name": "Digital Economy",
+      "text": "General support for firms outside of the digital sector that use digital business models, which should use code [120302] E-commerce, Private Sector Platforms, and Cross-Border Digital Trade",
+      "see_instead": [
+        "120302"
+      ],
+      "source_page": 405
+    },
+    {
+      "exclusion_id": "X-250800-04",
+      "approach_code": "250800",
+      "source_theme_code": "250800",
+      "source_theme_name": "Digital Economy",
+      "text": "General support for creative economy sectors (outside of the digital sector) that may use digital technologies, which should use code [120404] Sector Competitiveness and Jobs",
+      "see_instead": [
+        "120404"
+      ],
+      "source_page": 405
+    },
+    {
+      "exclusion_id": "X-250800-05",
+      "approach_code": "250800",
+      "source_theme_code": "250800",
+      "source_theme_name": "Digital Economy",
+      "text": "General support for smart agriculture solutions, which should use Theme code [251301] Digital and Data-Driven Agriculture.",
+      "see_instead": [
+        "251301"
+      ],
+      "source_page": 405
+    },
+    {
+      "exclusion_id": "X-250801-01",
+      "approach_code": "250800",
+      "source_theme_code": "250801",
+      "source_theme_name": "Digital Economy Strategy, Policy, Regulation and Enabling Environment",
+      "text": "General competition, taxation, and innovation policy at the national level and/ or as applied outside the “digital sector,” as well as how they apply to broader digital transactions and start-ups or firms with digital/data business models and offerings.",
+      "see_instead": [],
+      "source_page": 407
+    },
+    {
+      "exclusion_id": "X-250801-02",
+      "approach_code": "250800",
+      "source_theme_code": "250801",
+      "source_theme_name": "Digital Economy Strategy, Policy, Regulation and Enabling Environment",
+      "text": "General support for start-ups with digital business models (not explicitly targeted at the digital sector) or adoption of digital technologies by firms, which should use code [120401] Entrepreneurship and Digital Entrepreneurship or [120300] Innovation, Technology, and Green Competitiveness.",
+      "see_instead": [
+        "120300",
+        "120401"
+      ],
+      "source_page": 407
+    },
+    {
+      "exclusion_id": "X-250801-03",
+      "approach_code": "250800",
+      "source_theme_code": "250801",
+      "source_theme_name": "Digital Economy Strategy, Policy, Regulation and Enabling Environment",
+      "text": "General support for firms with e-commerce and e-trade-related initiatives, which should use code [120302] E-commerce, Private Sector Platforms, and Cross-Border Digital Trade.",
+      "see_instead": [
+        "120302"
+      ],
+      "source_page": 407
+    },
+    {
+      "exclusion_id": "X-250801-04",
+      "approach_code": "250800",
+      "source_theme_code": "250801",
+      "source_theme_name": "Digital Economy Strategy, Policy, Regulation and Enabling Environment",
+      "text": "General support for creative economy sectors (outside of the digital sector) that may use digital technologies, which should use code [120404] Sector Competitiveness and Jobs.",
+      "see_instead": [
+        "120404"
+      ],
+      "source_page": 407
+    },
+    {
+      "exclusion_id": "X-250802-01",
+      "approach_code": "250800",
+      "source_theme_code": "250802",
+      "source_theme_name": "ICT Industry",
+      "text": "General competition, taxation, and innovation policy at the national level and/ or as applied outside the “digital sector,” as well as how they apply to broader digital transactions and start-ups or firms with digital/data business models and offerings.",
+      "see_instead": [],
+      "source_page": 409
+    },
+    {
+      "exclusion_id": "X-250802-02",
+      "approach_code": "250800",
+      "source_theme_code": "250802",
+      "source_theme_name": "ICT Industry",
+      "text": "General support for start-ups with digital business models (not explicitly targeted at the digital sector) or adoption of digital technologies by firms, which should use code [120401] Entrepreneurship and Digital Entrepreneurship or [120300] Innovation, Technology, and Green Competitiveness.",
+      "see_instead": [
+        "120300",
+        "120401"
+      ],
+      "source_page": 409
+    },
+    {
+      "exclusion_id": "X-250802-03",
+      "approach_code": "250800",
+      "source_theme_code": "250802",
+      "source_theme_name": "ICT Industry",
+      "text": "General support for firms outside of the digital sector that use digital business model, which should use code [120302] E-commerce, Private Sector Platforms, and Cross-Border Digital Trade.",
+      "see_instead": [
+        "120302"
+      ],
+      "source_page": 409
+    },
+    {
+      "exclusion_id": "X-250802-04",
+      "approach_code": "250800",
+      "source_theme_code": "250802",
+      "source_theme_name": "ICT Industry",
+      "text": "General support for creative economy sectors (outside of the digital sector) that may use digital technologies, which should use code [120404] Sector Competitiveness and Jobs.",
+      "see_instead": [
+        "120404"
+      ],
+      "source_page": 409
+    },
+    {
+      "exclusion_id": "X-250803-01",
+      "approach_code": "250800",
+      "source_theme_code": "250803",
+      "source_theme_name": "Smart Industry and Smart Infrastructure",
+      "text": "Activities that use basic IT products that do not enhance efficiency or productivity.",
+      "see_instead": [],
+      "source_page": 411
+    },
+    {
+      "exclusion_id": "X-250804-01",
+      "approach_code": "250800",
+      "source_theme_code": "250804",
+      "source_theme_name": "Data Economy and Data Markets",
+      "text": "General digital infrastructure development or telecommunications projects not specific to data economy objectives",
+      "see_instead": [],
+      "source_page": 413
+    },
+    {
+      "exclusion_id": "X-250804-02",
+      "approach_code": "250800",
+      "source_theme_code": "250804",
+      "source_theme_name": "Data Economy and Data Markets",
+      "text": "Broader digital governance or data protection activities that are not directly linked to fostering economic value from data",
+      "see_instead": [],
+      "source_page": 413
+    },
+    {
+      "exclusion_id": "X-250804-03",
+      "approach_code": "250800",
+      "source_theme_code": "250804",
+      "source_theme_name": "Data Economy and Data Markets",
+      "text": "Activities focused solely on digital public services or infrastructure without private sector data roles.",
+      "see_instead": [],
+      "source_page": 413
+    },
+    {
+      "exclusion_id": "X-250900-01",
+      "approach_code": "250900",
+      "source_theme_code": "250900",
+      "source_theme_name": "Green Digital",
+      "text": "Activities where digital elements are a minor and/or nonstrategic part of the activity.",
+      "see_instead": [],
+      "source_page": 414
+    },
+    {
+      "exclusion_id": "X-250901-01",
+      "approach_code": "250900",
+      "source_theme_code": "250901",
+      "source_theme_name": "Greening of Digital",
+      "text": "n.a.",
+      "see_instead": [],
+      "source_page": 415
+    },
+    {
+      "exclusion_id": "X-250902-01",
+      "approach_code": "250900",
+      "source_theme_code": "250902",
+      "source_theme_name": "Greening with Digital",
+      "text": "Activities where digital elements are a minor and/or nonstrategic part of the activity.",
+      "see_instead": [],
+      "source_page": 416
+    },
+    {
+      "exclusion_id": "X-251000-01",
+      "approach_code": "251000",
+      "source_theme_code": "251000",
+      "source_theme_name": "Digital Inclusion",
+      "text": "Deployment of broadband networks.",
+      "see_instead": [],
+      "source_page": 417
+    },
+    {
+      "exclusion_id": "X-251000-02",
+      "approach_code": "251000",
+      "source_theme_code": "251000",
+      "source_theme_name": "Digital Inclusion",
+      "text": "Measures to create an enabling environment for private investment including direct interventions to support public-private partnerships (PPPs).",
+      "see_instead": [],
+      "source_page": 417
+    },
+    {
+      "exclusion_id": "X-251000-03",
+      "approach_code": "251000",
+      "source_theme_code": "251000",
+      "source_theme_name": "Digital Inclusion",
+      "text": "Institutional support and capacity building to telecommunications regulators.",
+      "see_instead": [],
+      "source_page": 417
+    },
+    {
+      "exclusion_id": "X-251001-01",
+      "approach_code": "251000",
+      "source_theme_code": "251001",
+      "source_theme_name": "Closing the Gender Digital Divide",
+      "text": "Deployment of broadband networks.",
+      "see_instead": [],
+      "source_page": 418
+    },
+    {
+      "exclusion_id": "X-251001-02",
+      "approach_code": "251000",
+      "source_theme_code": "251001",
+      "source_theme_name": "Closing the Gender Digital Divide",
+      "text": "Measures to create an enabling environment for private investment including direct interventions to support public-private partnerships (PPPs).",
+      "see_instead": [],
+      "source_page": 418
+    },
+    {
+      "exclusion_id": "X-251001-03",
+      "approach_code": "251000",
+      "source_theme_code": "251001",
+      "source_theme_name": "Closing the Gender Digital Divide",
+      "text": "Institutional support and capacity building to telecommunications regulators.",
+      "see_instead": [],
+      "source_page": 418
+    },
+    {
+      "exclusion_id": "X-251002-01",
+      "approach_code": "251000",
+      "source_theme_code": "251002",
+      "source_theme_name": "Enhancing the Inclusion of Persons with Disabilities",
+      "text": "Deployment of broadband networks.",
+      "see_instead": [],
+      "source_page": 419
+    },
+    {
+      "exclusion_id": "X-251002-02",
+      "approach_code": "251000",
+      "source_theme_code": "251002",
+      "source_theme_name": "Enhancing the Inclusion of Persons with Disabilities",
+      "text": "Measures to create an enabling environment for private investment including direct interventions to support public-private partnerships (PPPs).",
+      "see_instead": [],
+      "source_page": 419
+    },
+    {
+      "exclusion_id": "X-251002-03",
+      "approach_code": "251000",
+      "source_theme_code": "251002",
+      "source_theme_name": "Enhancing the Inclusion of Persons with Disabilities",
+      "text": "Institutional support and capacity building for telecommunications regulators.",
+      "see_instead": [],
+      "source_page": 419
+    },
+    {
+      "exclusion_id": "X-251003-01",
+      "approach_code": "251000",
+      "source_theme_code": "251003",
+      "source_theme_name": "Supporting Online Safety and Security",
+      "text": "n.a.",
+      "see_instead": [],
+      "source_page": 420
+    },
+    {
+      "exclusion_id": "X-251100-01",
+      "approach_code": "251100",
+      "source_theme_code": "251100",
+      "source_theme_name": "Digital for Fragile and Conflict-Affected Situations",
+      "text": "Digital interventions that are not designed to address drivers, risks, and impacts of fragility, conflict, and violence, as evidenced by references to words including fragility, conflict, violence, marginalization, and so on in the project documents or which are not explicitly targeted at displaced persons (including IDPs, stateless persons, and refugees access) and their host communities.",
+      "see_instead": [],
+      "source_page": 421
+    },
+    {
+      "exclusion_id": "X-251101-01",
+      "approach_code": "251100",
+      "source_theme_code": "251101",
+      "source_theme_name": "Digital Solutions for Addressing Fragility, Conflict and Violence",
+      "text": "Any digital interventions that are not designed to address drivers, risks, and impacts of fragility, conflict, and violence, as evidenced by references to words including fragility, conflict, violence, marginalization, and so on in the project documents or which are not implemented in FCS or fragile areas within non‑FCS.",
+      "see_instead": [],
+      "source_page": 422
+    },
+    {
+      "exclusion_id": "X-251102-01",
+      "approach_code": "251100",
+      "source_theme_code": "251102",
+      "source_theme_name": "Digital Solutions for Displaced Persons and Host Communities",
+      "text": "Any of these activities which are not explicitly targeted at displaced persons (including IDPs, stateless persons, and refugees access) and their host communities.",
+      "see_instead": [],
+      "source_page": 423
+    },
+    {
+      "exclusion_id": "X-251200-01",
+      "approach_code": "251200",
+      "source_theme_code": "251200",
+      "source_theme_name": "Digital Skills and Jobs",
+      "text": "Activities that support general improvements in education systems.",
+      "see_instead": [],
+      "source_page": 424
+    },
+    {
+      "exclusion_id": "X-251201-01",
+      "approach_code": "251200",
+      "source_theme_code": "251201",
+      "source_theme_name": "Digital Literacy",
+      "text": "Broad education and training activities that do not deliberately include foundational digital elements.",
+      "see_instead": [],
+      "source_page": 425
+    },
+    {
+      "exclusion_id": "X-251202-01",
+      "approach_code": "251200",
+      "source_theme_code": "251202",
+      "source_theme_name": "Intermediate and Advanced Digital Skills",
+      "text": "Broad education and training activities that do not deliberately include intermediate and/or advanced digital elements.",
+      "see_instead": [],
+      "source_page": 426
+    },
+    {
+      "exclusion_id": "X-251203-01",
+      "approach_code": "251200",
+      "source_theme_code": "251203",
+      "source_theme_name": "Digital Jobs",
+      "text": "Activities to promote economy-wide jobs (that may also include digital jobs). There needs to be a targeted focus on digital job creation. These employment opportunities are often in the ICT sector but can also include digitally enabled sectors (such as emerging digital roles in agribusiness, health, and so on).",
+      "see_instead": [],
+      "source_page": 427
+    },
+    {
+      "exclusion_id": "X-251203-02",
+      "approach_code": "251200",
+      "source_theme_code": "251203",
+      "source_theme_name": "Digital Jobs",
+      "text": "Activities aimed at growing digital private/ public sector investment that does not have a deliberate job creation angle as an objective of that growth.",
+      "see_instead": [],
+      "source_page": 427
+    },
+    {
+      "exclusion_id": "X-251203-03",
+      "approach_code": "251200",
+      "source_theme_code": "251203",
+      "source_theme_name": "Digital Jobs",
+      "text": "Activities that focus on job opportunities that do not require the use of digital technologies as a core element of the function or those that rely on basic digital tools (word processing, email, and so on). This often translates to positions requiring intermediate to advanced digital skills.",
+      "see_instead": [],
+      "source_page": 427
+    },
+    {
+      "exclusion_id": "X-251300-01",
+      "approach_code": "251300",
+      "source_theme_code": "251300",
+      "source_theme_name": "Digital Use Cases Across Sectors",
+      "text": "General information technology (IT) modernization activities that do not directly contribute to sector-specific digital transformation.",
+      "see_instead": [],
+      "source_page": 429
+    },
+    {
+      "exclusion_id": "X-251300-02",
+      "approach_code": "251300",
+      "source_theme_code": "251300",
+      "source_theme_name": "Digital Use Cases Across Sectors",
+      "text": "Activities focused solely on the development of digital infrastructure without sector‑specific applications.",
+      "see_instead": [],
+      "source_page": 429
+    },
+    {
+      "exclusion_id": "X-251301-01",
+      "approach_code": "251300",
+      "source_theme_code": "251301",
+      "source_theme_name": "Digital and Data-Driven Agriculture",
+      "text": "Investments in digital connectivity and telecom infrastructure.",
+      "see_instead": [],
+      "source_page": 431
+    },
+    {
+      "exclusion_id": "X-270100-01",
+      "approach_code": "270100",
+      "source_theme_code": "270100",
+      "source_theme_name": "Data Standards and Methods",
+      "text": "Information technology (IT) or digital technology standards, specifications, or applications",
+      "see_instead": [],
+      "source_page": 442
+    },
+    {
+      "exclusion_id": "X-270100-02",
+      "approach_code": "270100",
+      "source_theme_code": "270100",
+      "source_theme_name": "Data Standards and Methods",
+      "text": "Activities where data or statistical standards or methods are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 442
+    },
+    {
+      "exclusion_id": "X-270101-01",
+      "approach_code": "270100",
+      "source_theme_code": "270101",
+      "source_theme_name": "Data Standards",
+      "text": "This code does not include support for actual primary data collection or data acquisition.",
+      "see_instead": [],
+      "source_page": 443
+    },
+    {
+      "exclusion_id": "X-270101-02",
+      "approach_code": "270100",
+      "source_theme_code": "270101",
+      "source_theme_name": "Data Standards",
+      "text": "Information technology (IT) or digital technology standards, specifications, or applications.",
+      "see_instead": [],
+      "source_page": 443
+    },
+    {
+      "exclusion_id": "X-270101-03",
+      "approach_code": "270100",
+      "source_theme_code": "270101",
+      "source_theme_name": "Data Standards",
+      "text": "Activities where data or statistical standards or methods are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 443
+    },
+    {
+      "exclusion_id": "X-270102-01",
+      "approach_code": "270100",
+      "source_theme_code": "270102",
+      "source_theme_name": "Data Methods",
+      "text": "This code does not include support for actual primary data collection or data acquisition.",
+      "see_instead": [],
+      "source_page": 444
+    },
+    {
+      "exclusion_id": "X-270102-02",
+      "approach_code": "270100",
+      "source_theme_code": "270102",
+      "source_theme_name": "Data Methods",
+      "text": "Information technology (IT) or digital technology standards, specifications, or applications.",
+      "see_instead": [],
+      "source_page": 444
+    },
+    {
+      "exclusion_id": "X-270102-03",
+      "approach_code": "270100",
+      "source_theme_code": "270102",
+      "source_theme_name": "Data Methods",
+      "text": "Activities where data or statistical standards or methods are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 444
+    },
+    {
+      "exclusion_id": "X-270200-01",
+      "approach_code": "270200",
+      "source_theme_code": "270200",
+      "source_theme_name": "Data Collection and Data Acquisition",
+      "text": "Activities where data or statistical collection or acquisition are a minor and/or non-strategic part of the project",
+      "see_instead": [],
+      "source_page": 445
+    },
+    {
+      "exclusion_id": "X-270200-02",
+      "approach_code": "270200",
+      "source_theme_code": "270200",
+      "source_theme_name": "Data Collection and Data Acquisition",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 445
+    },
+    {
+      "exclusion_id": "X-270201-01",
+      "approach_code": "270200",
+      "source_theme_code": "270201",
+      "source_theme_name": "Collection of Data from Traditional Sources",
+      "text": "Activities where data or statistical collection or acquisition are a minor and/or non‑strategic part of the project.",
+      "see_instead": [],
+      "source_page": 446
+    },
+    {
+      "exclusion_id": "X-270201-02",
+      "approach_code": "270200",
+      "source_theme_code": "270201",
+      "source_theme_name": "Collection of Data from Traditional Sources",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 446
+    },
+    {
+      "exclusion_id": "X-270202-01",
+      "approach_code": "270200",
+      "source_theme_code": "270202",
+      "source_theme_name": "Collection of Data from Alternative or Non-Traditional Sources",
+      "text": "Activities where data or statistical collection or acquisition are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 447
+    },
+    {
+      "exclusion_id": "X-270202-02",
+      "approach_code": "270200",
+      "source_theme_code": "270202",
+      "source_theme_name": "Collection of Data from Alternative or Non-Traditional Sources",
+      "text": "Activities supporting the private sector/ small and medium enterprise (SME) strengthening, unrelated to collection or acquisition of salient data or statistics.",
+      "see_instead": [],
+      "source_page": 447
+    },
+    {
+      "exclusion_id": "X-270300-01",
+      "approach_code": "270300",
+      "source_theme_code": "270300",
+      "source_theme_name": "Data Curation and Data Management",
+      "text": "Activities where data curation or data management is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 448
+    },
+    {
+      "exclusion_id": "X-270300-02",
+      "approach_code": "270300",
+      "source_theme_code": "270300",
+      "source_theme_name": "Data Curation and Data Management",
+      "text": "This code does not include support for actual primary data collection or data acquisition.",
+      "see_instead": [],
+      "source_page": 448
+    },
+    {
+      "exclusion_id": "X-270300-03",
+      "approach_code": "270300",
+      "source_theme_code": "270300",
+      "source_theme_name": "Data Curation and Data Management",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, creation/operation of help desks, and so on, unless they are directly related to the curation or management of data or statistics).",
+      "see_instead": [],
+      "source_page": 448
+    },
+    {
+      "exclusion_id": "X-270301-01",
+      "approach_code": "270300",
+      "source_theme_code": "270301",
+      "source_theme_name": "Data Management, Documentation, and Preservation",
+      "text": "Activities where data curation or data management is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 449
+    },
+    {
+      "exclusion_id": "X-270301-02",
+      "approach_code": "270300",
+      "source_theme_code": "270301",
+      "source_theme_name": "Data Management, Documentation, and Preservation",
+      "text": "This code does not include support for actual primary data collection or data acquisition.",
+      "see_instead": [],
+      "source_page": 449
+    },
+    {
+      "exclusion_id": "X-270301-03",
+      "approach_code": "270300",
+      "source_theme_code": "270301",
+      "source_theme_name": "Data Management, Documentation, and Preservation",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, creation/operation of help desks, and so on, unless they are directly related to the curation or management of data or statistics).",
+      "see_instead": [],
+      "source_page": 449
+    },
+    {
+      "exclusion_id": "X-270302-01",
+      "approach_code": "270300",
+      "source_theme_code": "270302",
+      "source_theme_name": "Data Cleaning, Consistency, Data Quality Assurance, and Data Interoperability",
+      "text": "Activities where data curation or data management is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 450
+    },
+    {
+      "exclusion_id": "X-270302-02",
+      "approach_code": "270300",
+      "source_theme_code": "270302",
+      "source_theme_name": "Data Cleaning, Consistency, Data Quality Assurance, and Data Interoperability",
+      "text": "This code does not include support for actual primary data collection or data acquisition.",
+      "see_instead": [],
+      "source_page": 450
+    },
+    {
+      "exclusion_id": "X-270302-03",
+      "approach_code": "270300",
+      "source_theme_code": "270302",
+      "source_theme_name": "Data Cleaning, Consistency, Data Quality Assurance, and Data Interoperability",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, creation/operation of help desks, and so on, unless they are directly related to the curation or management of data or statistics).",
+      "see_instead": [],
+      "source_page": 450
+    },
+    {
+      "exclusion_id": "X-270400-01",
+      "approach_code": "270400",
+      "source_theme_code": "270400",
+      "source_theme_name": "Data Dissemination, Accessibility, and Discoverability",
+      "text": "Activities where data or statistical dissemination, data access, or data discoverability elements are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 451
+    },
+    {
+      "exclusion_id": "X-270400-02",
+      "approach_code": "270400",
+      "source_theme_code": "270400",
+      "source_theme_name": "Data Dissemination, Accessibility, and Discoverability",
+      "text": "Activities which clearly and predominantly focus on digital services or equipment, for example, digital financial services, digital identification (ID), and cybersecurity upgrades.",
+      "see_instead": [],
+      "source_page": 451
+    },
+    {
+      "exclusion_id": "X-270400-03",
+      "approach_code": "270400",
+      "source_theme_code": "270400",
+      "source_theme_name": "Data Dissemination, Accessibility, and Discoverability",
+      "text": "Activities which focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 451
+    },
+    {
+      "exclusion_id": "X-270400-04",
+      "approach_code": "270400",
+      "source_theme_code": "270400",
+      "source_theme_name": "Data Dissemination, Accessibility, and Discoverability",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 451
+    },
+    {
+      "exclusion_id": "X-270401-01",
+      "approach_code": "270400",
+      "source_theme_code": "270401",
+      "source_theme_name": "Data Platforms, Websites, Dashboards, or Information Systems (MISs)",
+      "text": "Activities where data or statistical platforms, websites, dashboards, or MISs are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 453
+    },
+    {
+      "exclusion_id": "X-270401-02",
+      "approach_code": "270400",
+      "source_theme_code": "270401",
+      "source_theme_name": "Data Platforms, Websites, Dashboards, or Information Systems (MISs)",
+      "text": "Activities which clearly and predominantly focus on digital services or equipment, for example, digital financial services, digital identification (ID), and cybersecurity upgrades.",
+      "see_instead": [],
+      "source_page": 453
+    },
+    {
+      "exclusion_id": "X-270401-03",
+      "approach_code": "270400",
+      "source_theme_code": "270401",
+      "source_theme_name": "Data Platforms, Websites, Dashboards, or Information Systems (MISs)",
+      "text": "Activities which focus on information communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 453
+    },
+    {
+      "exclusion_id": "X-270401-04",
+      "approach_code": "270400",
+      "source_theme_code": "270401",
+      "source_theme_name": "Data Platforms, Websites, Dashboards, or Information Systems (MISs)",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 453
+    },
+    {
+      "exclusion_id": "X-270402-01",
+      "approach_code": "270400",
+      "source_theme_code": "270402",
+      "source_theme_name": "Data-Driven Tools or Applications",
+      "text": "Activities which focus on information communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 454
+    },
+    {
+      "exclusion_id": "X-270402-02",
+      "approach_code": "270400",
+      "source_theme_code": "270402",
+      "source_theme_name": "Data-Driven Tools or Applications",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 454
+    },
+    {
+      "exclusion_id": "X-270500-01",
+      "approach_code": "270500",
+      "source_theme_code": "270500",
+      "source_theme_name": "Data Use",
+      "text": "Activities where data or statistical use to support or enable social, economic, or sustainable development outcomes are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 455
+    },
+    {
+      "exclusion_id": "X-270500-02",
+      "approach_code": "270500",
+      "source_theme_code": "270500",
+      "source_theme_name": "Data Use",
+      "text": "Activities that clearly and predominantly focus on digital services, for example, digital financial services, digital identification (ID), and cybersecurity upgrades.",
+      "see_instead": [],
+      "source_page": 455
+    },
+    {
+      "exclusion_id": "X-270500-03",
+      "approach_code": "270500",
+      "source_theme_code": "270500",
+      "source_theme_name": "Data Use",
+      "text": "Activities that focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 455
+    },
+    {
+      "exclusion_id": "X-270500-04",
+      "approach_code": "270500",
+      "source_theme_code": "270500",
+      "source_theme_name": "Data Use",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 455
+    },
+    {
+      "exclusion_id": "X-270501-01",
+      "approach_code": "270500",
+      "source_theme_code": "270501",
+      "source_theme_name": "Data Use by Government Officials",
+      "text": "Activities where data or statistical use to support or enable social, economic, or sustainable development outcomes are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 456
+    },
+    {
+      "exclusion_id": "X-270501-02",
+      "approach_code": "270500",
+      "source_theme_code": "270501",
+      "source_theme_name": "Data Use by Government Officials",
+      "text": "Activities which clearly and predominantly focus on digital services, for example, digital financial services, digital identification (ID), and cybersecurity upgrades.",
+      "see_instead": [],
+      "source_page": 456
+    },
+    {
+      "exclusion_id": "X-270501-03",
+      "approach_code": "270500",
+      "source_theme_code": "270501",
+      "source_theme_name": "Data Use by Government Officials",
+      "text": "Activities which focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 456
+    },
+    {
+      "exclusion_id": "X-270501-04",
+      "approach_code": "270500",
+      "source_theme_code": "270501",
+      "source_theme_name": "Data Use by Government Officials",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 456
+    },
+    {
+      "exclusion_id": "X-270502-01",
+      "approach_code": "270500",
+      "source_theme_code": "270502",
+      "source_theme_name": "Data Use by non-Government Actors",
+      "text": "Activities where data or statistical use to support or enable social, economic, or sustainable development outcomes is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 457
+    },
+    {
+      "exclusion_id": "X-270502-02",
+      "approach_code": "270500",
+      "source_theme_code": "270502",
+      "source_theme_name": "Data Use by non-Government Actors",
+      "text": "Activities which clearly and predominantly focus on digital services, for example, digital financial services, digital identification (ID), and cybersecurity upgrades.",
+      "see_instead": [],
+      "source_page": 457
+    },
+    {
+      "exclusion_id": "X-270502-03",
+      "approach_code": "270500",
+      "source_theme_code": "270502",
+      "source_theme_name": "Data Use by non-Government Actors",
+      "text": "Activities which focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 457
+    },
+    {
+      "exclusion_id": "X-270600-01",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities where a data or statistical policy, law, regulation, or data governance are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270600-02",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities which clearly and predominantly focus on digital policy support, for example, policies to support digital financial services, digital identification (ID), internet/ broadband coverage, telecommunications sector, and mobile communications.",
+      "see_instead": [],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270600-03",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities supporting security establishment entities, for example, armed forces and intelligence agencies.",
+      "see_instead": [],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270600-04",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities that relate to digital data should use relevant codes under [250000] Digital Transformation.",
+      "see_instead": [
+        "250000"
+      ],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270600-05",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities that relate to data policy, law, regulation, and governance in the context of digital transformation, digital economy, or data economy development, including broadband and data/cloud infrastructure and services, digital public infrastructure/stacks, public sector data exchange architecture, standards and platforms, cross-border data flows, artificial intelligence (AI), and related activities, should use relevant codes under [250000] Digital Transformation.",
+      "see_instead": [
+        "250000"
+      ],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270600-06",
+      "approach_code": "270600",
+      "source_theme_code": "270600",
+      "source_theme_name": "Data Policy, Law, Regulation, and Governance",
+      "text": "Activities supporting general data protection legislation, policy, and regulation and/or data protection authority institutional development should use code [250500] Data Protection and Privacy.",
+      "see_instead": [
+        "250500"
+      ],
+      "source_page": 458
+    },
+    {
+      "exclusion_id": "X-270601-01",
+      "approach_code": "270600",
+      "source_theme_code": "270601",
+      "source_theme_name": "Data Diagnostic or Data Assessment",
+      "text": "Activities where a data diagnostic or data assessment is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 460
+    },
+    {
+      "exclusion_id": "X-270601-02",
+      "approach_code": "270600",
+      "source_theme_code": "270601",
+      "source_theme_name": "Data Diagnostic or Data Assessment",
+      "text": "Activities which clearly and predominantly focus on digital policy or regulatory support, for example, policies or regulations to support digital financial services, digital identification (ID), internet/broadband coverage, telecommunications sector, and mobile communications.",
+      "see_instead": [],
+      "source_page": 460
+    },
+    {
+      "exclusion_id": "X-270601-03",
+      "approach_code": "270600",
+      "source_theme_code": "270601",
+      "source_theme_name": "Data Diagnostic or Data Assessment",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 460
+    },
+    {
+      "exclusion_id": "X-270602-01",
+      "approach_code": "270600",
+      "source_theme_code": "270602",
+      "source_theme_name": "Data Strategy and Data Governance",
+      "text": "Activities where a data-focused strategy or data governance activities are a minor and/ or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 461
+    },
+    {
+      "exclusion_id": "X-270602-02",
+      "approach_code": "270600",
+      "source_theme_code": "270602",
+      "source_theme_name": "Data Strategy and Data Governance",
+      "text": "Activities which focus on digital strategy development or support, for example, on digital financial services, digital identification (ID), digitization of IT systems, internet/ broadband coverage, telecommunications sector, mobile communications, and IT security.",
+      "see_instead": [],
+      "source_page": 461
+    },
+    {
+      "exclusion_id": "X-270602-03",
+      "approach_code": "270600",
+      "source_theme_code": "270602",
+      "source_theme_name": "Data Strategy and Data Governance",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 461
+    },
+    {
+      "exclusion_id": "X-270603-01",
+      "approach_code": "270600",
+      "source_theme_code": "270603",
+      "source_theme_name": "Development of Policies, Laws, and Regulations for Data or Statistics",
+      "text": "Activities where a data-focused policy, law, or regulation is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 463
+    },
+    {
+      "exclusion_id": "X-270603-02",
+      "approach_code": "270600",
+      "source_theme_code": "270603",
+      "source_theme_name": "Development of Policies, Laws, and Regulations for Data or Statistics",
+      "text": "Activities which focus on digital or information technology (IT) policy development or support, for example, on digital financial services, digital identification (ID), digitization of IT systems, internet/ broadband coverage, telecommunications sector, mobile communications, and IT security.",
+      "see_instead": [],
+      "source_page": 463
+    },
+    {
+      "exclusion_id": "X-270603-03",
+      "approach_code": "270600",
+      "source_theme_code": "270603",
+      "source_theme_name": "Development of Policies, Laws, and Regulations for Data or Statistics",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 463
+    },
+    {
+      "exclusion_id": "X-270604-01",
+      "approach_code": "270600",
+      "source_theme_code": "270604",
+      "source_theme_name": "Data Rights",
+      "text": "Activities where a data-focused rights-based approach or activity is a minor and/or non‑strategic part of the project.",
+      "see_instead": [],
+      "source_page": 464
+    },
+    {
+      "exclusion_id": "X-270604-02",
+      "approach_code": "270600",
+      "source_theme_code": "270604",
+      "source_theme_name": "Data Rights",
+      "text": "Activities which focus on bridging the digital divide or other digital or information technology (IT) empowerment.",
+      "see_instead": [],
+      "source_page": 464
+    },
+    {
+      "exclusion_id": "X-270700-01",
+      "approach_code": "270700",
+      "source_theme_code": "270700",
+      "source_theme_name": "Literacy and Capacity Building On Data",
+      "text": "Activities where capacity building or institutional strengthening on data or statistics are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 465
+    },
+    {
+      "exclusion_id": "X-270700-02",
+      "approach_code": "270700",
+      "source_theme_code": "270700",
+      "source_theme_name": "Literacy and Capacity Building On Data",
+      "text": "Any training or workshop activity that is not expressly focused on data or statistics collection, analysis, management, governance, protection, dissemination, use, policymaking, and so on.",
+      "see_instead": [],
+      "source_page": 465
+    },
+    {
+      "exclusion_id": "X-270700-03",
+      "approach_code": "270700",
+      "source_theme_code": "270700",
+      "source_theme_name": "Literacy and Capacity Building On Data",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/ installation of applications, and creation/ operation of help desks, not directly related to the above data activities).",
+      "see_instead": [],
+      "source_page": 465
+    },
+    {
+      "exclusion_id": "X-270700-04",
+      "approach_code": "270700",
+      "source_theme_code": "270700",
+      "source_theme_name": "Literacy and Capacity Building On Data",
+      "text": "Information and communication technology (ICT) activities, such as expansion of internet coverage, expansion/ reform of telecommunications/mobile communications, and so on.",
+      "see_instead": [],
+      "source_page": 465
+    },
+    {
+      "exclusion_id": "X-270701-01",
+      "approach_code": "270700",
+      "source_theme_code": "270701",
+      "source_theme_name": "Capacity Building on Data or Statistics",
+      "text": "Activities where capacity building on data or statistics is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 467
+    },
+    {
+      "exclusion_id": "X-270701-02",
+      "approach_code": "270700",
+      "source_theme_code": "270701",
+      "source_theme_name": "Capacity Building on Data or Statistics",
+      "text": "Any training or workshop activity that is not expressly focused on data or statistics collection, analysis, management, governance, protection, dissemination, use, policymaking, and so on.",
+      "see_instead": [],
+      "source_page": 467
+    },
+    {
+      "exclusion_id": "X-270701-03",
+      "approach_code": "270700",
+      "source_theme_code": "270701",
+      "source_theme_name": "Capacity Building on Data or Statistics",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, and creation/operation of help desks, not directly related to the above data activities).",
+      "see_instead": [],
+      "source_page": 467
+    },
+    {
+      "exclusion_id": "X-270701-04",
+      "approach_code": "270700",
+      "source_theme_code": "270701",
+      "source_theme_name": "Capacity Building on Data or Statistics",
+      "text": "Information and communication technology (ICT) activities, such as expansion of internet coverage, expansion/ reform of telecommunications/mobile communications, and so on.",
+      "see_instead": [],
+      "source_page": 467
+    },
+    {
+      "exclusion_id": "X-270702-01",
+      "approach_code": "270700",
+      "source_theme_code": "270702",
+      "source_theme_name": "Development or Strengthening of Data Institutions",
+      "text": "Activities where institutional strengthening on data or statistics is a minor and/or non‑strategic part of the project.",
+      "see_instead": [],
+      "source_page": 468
+    },
+    {
+      "exclusion_id": "X-270702-02",
+      "approach_code": "270700",
+      "source_theme_code": "270702",
+      "source_theme_name": "Development or Strengthening of Data Institutions",
+      "text": "Information technology (IT) activities (for example, IT system maintenance, support for IT technicians, purchasing/installation of applications, and creation/operation of help desks, not directly related to the above data activities).",
+      "see_instead": [],
+      "source_page": 468
+    },
+    {
+      "exclusion_id": "X-270702-03",
+      "approach_code": "270700",
+      "source_theme_code": "270702",
+      "source_theme_name": "Development or Strengthening of Data Institutions",
+      "text": "Any support for an IT or ICT institution that is not expressly focused on data or statistics collection, analysis, management, governance, protection, dissemination, use, policymaking, and so on.",
+      "see_instead": [],
+      "source_page": 468
+    },
+    {
+      "exclusion_id": "X-270702-04",
+      "approach_code": "270700",
+      "source_theme_code": "270702",
+      "source_theme_name": "Development or Strengthening of Data Institutions",
+      "text": "Information and communication technology (ICT) activities, such as expansion of internet coverage, expansion/ reform of telecommunications/mobile communications, and so on.",
+      "see_instead": [],
+      "source_page": 468
+    },
+    {
+      "exclusion_id": "X-270703-01",
+      "approach_code": "270700",
+      "source_theme_code": "270703",
+      "source_theme_name": "Data Ethics",
+      "text": "Activities where best practice on data ethics or responsible data use is a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 469
+    },
+    {
+      "exclusion_id": "X-270703-02",
+      "approach_code": "270700",
+      "source_theme_code": "270703",
+      "source_theme_name": "Data Ethics",
+      "text": "Non-data-based ethics activities.",
+      "see_instead": [],
+      "source_page": 469
+    },
+    {
+      "exclusion_id": "X-270800-01",
+      "approach_code": "270800",
+      "source_theme_code": "270800",
+      "source_theme_name": "Geospatial Data",
+      "text": "Activities where geospatial data are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 470
+    },
+    {
+      "exclusion_id": "X-270800-02",
+      "approach_code": "270800",
+      "source_theme_code": "270800",
+      "source_theme_name": "Geospatial Data",
+      "text": "Activities which focus on information and communication technology (ICT) support (for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications).",
+      "see_instead": [],
+      "source_page": 470
+    },
+    {
+      "exclusion_id": "X-270800-03",
+      "approach_code": "270800",
+      "source_theme_code": "270800",
+      "source_theme_name": "Geospatial Data",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 470
+    },
+    {
+      "exclusion_id": "X-270801-01",
+      "approach_code": "270800",
+      "source_theme_code": "270801",
+      "source_theme_name": "Spatial Data Creation, Analysis, Visualization, and Use",
+      "text": "Activities where geospatial data are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 472
+    },
+    {
+      "exclusion_id": "X-270801-02",
+      "approach_code": "270800",
+      "source_theme_code": "270801",
+      "source_theme_name": "Spatial Data Creation, Analysis, Visualization, and Use",
+      "text": "Activities which focus on information and communication technology (ICT) support (for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications).",
+      "see_instead": [],
+      "source_page": 472
+    },
+    {
+      "exclusion_id": "X-270801-03",
+      "approach_code": "270800",
+      "source_theme_code": "270801",
+      "source_theme_name": "Spatial Data Creation, Analysis, Visualization, and Use",
+      "text": "Activities supporting security establishment entities (for example, armed forces and intelligence agencies).",
+      "see_instead": [],
+      "source_page": 472
+    },
+    {
+      "exclusion_id": "X-270802-01",
+      "approach_code": "270800",
+      "source_theme_code": "270802",
+      "source_theme_name": "Remote Sensing or Earth Observation Products or Services",
+      "text": "Activities where geospatial data are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 473
+    },
+    {
+      "exclusion_id": "X-270802-02",
+      "approach_code": "270800",
+      "source_theme_code": "270802",
+      "source_theme_name": "Remote Sensing or Earth Observation Products or Services",
+      "text": "Activities which focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 473
+    },
+    {
+      "exclusion_id": "X-270802-03",
+      "approach_code": "270800",
+      "source_theme_code": "270802",
+      "source_theme_name": "Remote Sensing or Earth Observation Products or Services",
+      "text": "Activities supporting security establishment entities, for example, armed forces and intelligence agencies.",
+      "see_instead": [],
+      "source_page": 473
+    },
+    {
+      "exclusion_id": "X-270803-01",
+      "approach_code": "270800",
+      "source_theme_code": "270803",
+      "source_theme_name": "Geospatial Information Framework, or Geospatial Data/Service Standards",
+      "text": "Activities where geospatial data are a minor and/or non-strategic part of the project.",
+      "see_instead": [],
+      "source_page": 474
+    },
+    {
+      "exclusion_id": "X-270803-02",
+      "approach_code": "270800",
+      "source_theme_code": "270803",
+      "source_theme_name": "Geospatial Information Framework, or Geospatial Data/Service Standards",
+      "text": "Activities which focus on information and communication technology (ICT) support, for example, expansion of internet/ broadband coverage, fiber-optic cables, expansion/reform of telecommunications sector, or mobile communications.",
+      "see_instead": [],
+      "source_page": 474
+    },
+    {
+      "exclusion_id": "X-270803-03",
+      "approach_code": "270800",
+      "source_theme_code": "270803",
+      "source_theme_name": "Geospatial Information Framework, or Geospatial Data/Service Standards",
+      "text": "Activities supporting security establishment entities, for example, armed forces and intelligence agencies.",
+      "see_instead": [],
+      "source_page": 474
+    }
+  ]
+}

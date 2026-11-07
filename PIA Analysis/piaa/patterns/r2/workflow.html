@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Pattern workflow r2</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+code{background:#eef1f5;padding:1px 4px;border-radius:3px}.note{background:#eef6ff;border-left:4px solid #2f6fed;padding:8px 12px;border-radius:0 6px 6px 0}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}</style></head>
+<body>
+<h1>Pattern workflow r2 - replication &amp; scaling</h1>
+<p class="note">Runs once over the whole review database. It finds approaches that are the same across projects and labels each repeat as <b>replication</b> (another country) or <b>scaling</b> (the same country).</p>
+<h2>Steps</h2>
+<ol>
+<li><b>Semantic match.</b> Each validated approach is represented by its <b>theme</b> and the <b>original text</b> it was extracted from. Every pair of approaches from different projects gets a semantic similarity score (sentence embeddings when <code>sentence-transformers</code> is installed; otherwise TF-IDF, which also reads the approach name and description because lexical matching on the evidence alone cannot find paraphrases).</li>
+<li><b>Reference signals.</b> Same major sector, same category (pillar) and same solution each add a small bonus (+0.03). They are never required.</li>
+<li><b>Verify.</b> Pairs above the threshold (best 5 partners per approach, at most 300 pairs) go to the model, which reads about <b>two pages before and after</b> each evidence sentence in its source document and decides whether both projects use the same approach (confidence &ge; 0.6). Verdicts are cached; re-runs only pay for new pairs.</li>
+<li><b>Same approach.</b> Verified pairs are joined into groups of the same approach (connected components). Projects are ordered by approval date; the first project is the <b>origin</b>.</li>
+<li><b>Replication vs scaling.</b></li>
+</ol>
+<table><tr><th>Later project in the group</th><th>Label</th></tr>
+<tr><td>Country not seen earlier in the group</td><td><b>Replication</b> - the approach travels to a new country</td></tr>
+<tr><td>Country already used the approach in an earlier project</td><td><b>Scaling</b> - the approach is taken further in the same country</td></tr></table>
+<p>Pair level: a verified pair across countries is a replication link; within one country it is a scaling link. Regional / multi-country projects carry a region name as country and are compared as written.</p>
+<p>Without an API key the verification step is skipped and the web app shows the semantic candidates, clearly marked as unverified.</p>
+</body></html>

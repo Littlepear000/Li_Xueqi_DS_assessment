@@ -1,0 +1,30 @@
+[
+  {
+    "tag": "r3.0",
+    "hash": "3670834ed691",
+    "date": "2026-11-07",
+    "note": "two-column replication (confirmed / likely + source project) and scaling (same country + sector), database only",
+    "package_version": "0.3.22"
+  },
+  {
+    "tag": "r3.1",
+    "hash": "f6c71901bc13",
+    "date": "2026-11-07",
+    "note": "loosened scaling, stored links as candidates, rule-only fallback, any provider",
+    "package_version": "0.3.23"
+  },
+  {
+    "tag": "r3.2",
+    "hash": "0378f7496bde",
+    "date": "2026-11-07",
+    "note": "wider candidate funnel, three-band sameness, explicit-reference upgrade, prompts rewritten",
+    "package_version": "0.3.26"
+  },
+  {
+    "tag": "r3.3",
+    "hash": "61b5152e1b43",
+    "date": "2026-11-07",
+    "note": "skip out-of-scope projects",
+    "package_version": "0.3.28"
+  }
+]

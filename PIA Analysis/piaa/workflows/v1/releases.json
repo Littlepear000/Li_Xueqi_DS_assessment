@@ -1,0 +1,20 @@
+[
+  {
+    "tag": "v1.0",
+    "hash": "14ea026dfc5a",
+    "date": "2026-11-06",
+    "note": "Initial version: LLM assigns pillar and solution independently. Hash under the pre-0.2.0 rule (CHANGELOG included); the 156 runs in output/pia_review.db.",
+    "package_version": "0.1.0",
+    "aliases": []
+  },
+  {
+    "tag": "v1.1",
+    "hash": "823edf3a3af4",
+    "date": "2026-11-06",
+    "note": "Strict pillar-solution hierarchy: match assigns only the solution, the pillar is derived in code; validate covers solution/sector/theme.",
+    "package_version": "0.2.0",
+    "aliases": [
+      "5fe9cfe2ba73"
+    ]
+  }
+]

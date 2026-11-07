@@ -1,0 +1,832 @@
+﻿         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+
+
+   @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                       Project Information Document (PID)
+
+                     Concept Stage | Date Prepared/Updated: 14-May-2024 | Report No: PIDDC00737
+
+
+
+
+May 14, 2024                                                                                      Page 1 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+   @#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+   BASIC INFORMATION
+
+
+   A. Basic Project Data
+   Project Beneficiary(ies)       Operation ID                 Operation Name
+   Nigeria                        P181248                      Solutions for the Internally Displaced and Host
+                                                               Communities Project
+   Region                         Estimated Appraisal Date     Estimated Approval Date       Practice Area (Lead)
+   WESTERN AND CENTRAL            11-Feb-2025                  08-Apr-2025                   Urban, Resilience and Land
+   AFRICA
+   Financing Instrument           Borrower(s)                  Implementing Agency
+   Investment Project             The Federal Ministry of      National Commission for
+   Financing (IPF)                Budget and Economic          Refugee Migrants, and
+                                  Planning, Federal Ministry   Internally Displaced
+                                  of Finance                   Persons, North East
+                                                               Development Commission,
+                                                               The Federal Ministry of
+                                                               Budget and Economic
+                                                               Planning
+
+  Proposed Development Objective(s)
+   The Project Development Objective is to improve access to basic services and economic opportunities for internally
+   displaced persons (IDPs) and host communities in displacement affected LGAs of Northern Nigeria.
+
+   @#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+   PROJECT FINANCING DATA (US$, Millions)
+
+   Maximizing Finance for Development
+
+   Is this an MFD-Enabling Project (MFD-EP)?                   No
+   Is this project Private Capital Enabling (PCE)?             No
+
+   SUMMARY
+     Total Operation Cost                                                                                        300.00
+
+     Total Financing                                                                                             300.00
+                of which IBRD/IDA                                                                                300.00
+     Financing Gap                                                                                                  0.00
+
+
+
+May 14, 2024                                                                                                     Page 2 of 17
+          The World Bank
+          Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+     DETAILS
+       World Bank Group Financing
+        International Development Association (IDA)                                                                                                      300.00
+           IDA Credit                                                                                                                                    300.00
+
+     @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+ Environmental and Social Risk Classification                                          Concept Review Decision
+ Substantial                                                                           The review did authorize the preparation to continue
+
+
+
+
+     B. Introduction and Context
+
+      Country Context
+
+     1.      Nigeria, Africa's most populous country, possesses substantial untapped economic potential. As a diverse
+     federation of 36 autonomous states and the continent's largest country with a population exceeding 218 million, it
+     boasts the largest economy in Africa, reaching a gross domestic product (GDP) of approximately US$472 billion in 2022.
+     Fueled by abundant resources, a youthful and entrepreneurial populace, and a vibrant private sector, Nigeria has the
+     capacity to become a prominent player on the global stage. However, despite these prospects, the country faces
+     significant challenges, including stagnant economic growth.1 Weakening overall growth performance has made it
+     significantly harder to reduce poverty: Between 2015 and 2020, the number of poor Nigerians rose from 68 million to
+     over 82 million in 2020, and currently, over 40 percent of Nigeria’s population live in poverty.2 Moreover, Nigeria houses
+     the world's second-largest population of people living in extreme poverty and ranks 163 out of 191 countries on the
+     most recent Human Development Index (HDI) report,3 highlighting its status as one of the least developed nations
+     globally. Thus, Nigeria is central to the World Bank Group (WBG)’s mission of eliminating poverty globally.
+
+     2.     Recognizing the need to change course, a new administration since May 2023 has undertaken bold reforms to
+     restore the economic fundamentals for inclusive growth. The Nigerian government officially removed an increasingly
+     costly, opaque, and regressive gasoline subsidy that amounted 2.2 percent of GDP in 2022, while adopting major
+     exchange rate policy reforms, addressing the previous overvaluation of the official exchange rate.4 The new exchange
+
+
+
+ 1 Between 2001 and 2014, Nigeria was a rising economy in West Africa, with an average growth rate of 7 percent per year. This ended in 2015 due to: (i) a decline in
+ oil prices; (ii) increased insecurity; (iii) a reversal of macroeconomic reforms and heightened unpredictability of economic policies; and—more recently—(iv) the
+ adverse effects of the COVID-19 pandemic.
+ 2    “World Bank. 2022. A Better Future for All Nigerians: Nigeria Poverty Assessment 2022. Washington, DC. © World Bank.
+ https://openknowledge.worldbank.org/handle/10986/37295 License: CC BY 3.0 IGO.�?
+ 3 UNDP (United Nations Development Programme). 2022. Human Development Report 2021/2022: Uncertain Times, Unsettled Lives; Shaping our Future in a
+
+ Transformative World. New York.
+ 4 In recent years, the Central Bank of Nigeria (CBN) maintained more than ten foreign exchange (FX) windows, with different price discovery mechanisms, and heavily
+
+ managed the official Nigerian Autonomous Foreign Exchange Rate Fixing (NAFEX). This severely limited FX supply at the official rate, pushed economic agents into a
+ parallel market to meet their FX requirements, and generated arbitrage and rent-seeking opportunities. In June 2023, the CBN unified the multiple exchange rates by
+ collapsing the Foreign Exchange (FX) windows into the Investors and Exporters (IEFX) window and announced that market-reflective pricing based on genuine willing-
+ buyer willing-seller transactions would be restored. Almost immediately, this caused the official and parallel market rates to converge, and the Nigerian Autonomous
+ Foreign Exchange Fixing (NAFEX) rate adjusted up from 472NGN/USD to 768 NGN/USD (as of July 20, 2023), a depreciation of 39 percent.
+
+
+May 14, 2024                                                                                                                                              Page 3 of 17
+            The World Bank
+            Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+     rate policy regime centers around a unified rate with transparent, market-reflective pricing, and is expected to contribute
+     to macroeconomic stability and support renewed prospects for inclusive, sustainable growth.
+
+     3.     While economic reforms are promising, conflict is a severe constraint on poverty reduction in Nigeria. Alongside
+     increasing climate shocks, conflict events have proliferated, displacing populations, disrupting markets, and interrupting
+     Nigerians’ livelihoods. Fatal conflict events have become more widespread across Nigeria in the past two decades,
+     especially in the country’s north. This corresponds to the onset of the Boko Haram insurgency in 2009 in the North-East
+     (NE) region, the rise of criminal gangs and banditry in the North-West (NW) region, and banditry, farmer-herder conflicts,
+     inter-communal wars and boundary disputes in the North-Central (NC) region. Nigeria is considered an FCV country and
+     has one of the largest and fast-growing populations of internally displaced persons (IDPs) in the world, as a result of
+     conflict and natural events. In Northern Nigeria alone, conflict and violence have led to the displacement of over 3.5
+     million people.
+
+     Sectoral and Institutional Context
+
+ 4.       Across Northern Nigeria, insecurity has fueled large waves of internal displacement. Patterns are nonlinear,
+ complex, and vary within the NE, NW, and NC regions. Timelines of displacement and profiles of displaced persons also
+ vary across regions. Over 65% of IDPs in Northern Nigeria are in the NE region (approximately 2.3 million IDPs as of June
+ 2023)5 and 95% of them are in Borno, Adamawa and Yobe (the “BAY states�?). Borno, which has been the epicenter of
+ fighting involving Boko Haram since 2014, hosts the highest number of IDPs of any state in the North, with nearly 1.7
+ million IDPs, representing over a quarter of the state’s total population and almost half of total IDPs in the North. The NW
+ and NC regions have recorded spiraling forced displacement with the number of IDPs almost doubling from approximately
+ 575,000 to nearly 1.2 million in 2020-2022.
+
+ 5.       States and local government areas (LGAs) in the North, while dealing with the immediate crisis effects of
+ displacement, suffer from five major development challenges; the first is spatial. Northern states have seen a significant
+ spatial redistribution of population, with a substantial inflow of IDPs into state capitals, such as Maiduguri (Borno), Yola
+ (Adamawa) and Makurdi (Benue), and other towns (centers of other LGAs within the state). An analysis on Maiduguri
+ revealed that the inflows of IDPs to the metropolitan region have contributed to horizontal sprawl and vertical urban
+ growth while the closure of camps and the return process have contributed to further changing the built-up area. In Yola,
+ the inflow of IDPs has led to sprawling expansion of the metropolitan region, with IDPs situated in towns and remote areas
+ west, south, and north of the capital and across the Benue River to neighboring towns in Girei LGA. A large concentration
+ of IDPs is in Benue’s capital, Makurdi, and in surrounding smaller urban towns, though IDPs are also located in rural
+ settlements in neighboring LGAs and around major corridors in eastern and southern parts of the state.
+
+ 6.        The second development challenge is physical - the inflow of IDPs has put additional pressure on already
+ strained and obsolete infrastructure and services in host communities. In Maiduguri, IDP inflows have put serious
+ pressure on water supply and sanitation infrastructure and services already under strain before 2014. Public water supply
+ is less than 50 percent of current demand as the state’s Ministry of Water Resources struggles to meet previous demand.
+ Sanitation (liquid and waste) management presents a much bigger challenge than water management in Maiduguri,
+ exacerbated by increased waste generation with rapid population growth. Due to the inflow of IDPs, daily solid waste
+ generation increased from an estimated 390 tons to 570 tons per day.6 Solid waste management in Maiduguri is not
+ sufficient, with over 60 percent of residents lacking access. Furthermore, a sewerage system is mostly non-existent and
+ there is no evidence of availability of wastewater treatment plants within the metropolitan area. Wastewater from homes
+ 5   IOM Mobility Atlas (North-east Round 45, August 2023) and IOM Displacement Index (North-central & North-west Round 11, March 2023)
+ 6   UNDP. 2016. North-east Nigeria Waste and Debris Assessment.
+
+
+May 14, 2024                                                                                                                              Page 4 of 17
+          The World Bank
+          Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+ is discharged into open spaces, and the few drains that exist are either dilapidated or clogged with improperly disposed
+ solid waste and sand, which make the drains incapable of transferring wastewater, rain and storm water during rainfall
+ events leading to flooding. An assessment of services within Borno LGAs in 2022,7 after a significant proportion of IDPs
+ started relocating to LGAs outside of Maiduguri, revealed that household access to services is generally poor. Across LGAs
+ in Borno, boreholes/handpumps and unprotected dug wells are the dominant sources of water, and in some LGAs,
+ residents must travel 15 to over 30 minutes to access water. On average, less than 60% of residents in Borno LGAs have
+ access to a pit latrine. In Adamawa, most surveyed IDPs reported having to travel more than 10 minutes to access water,
+ with handpumps as the main source of drinking water. In two Adamawa LGAs hosting IDPs, surveyed IDPs reported not
+ having any toilet facilities leading to widespread open defecation. With respect to waste management, most surveyed
+ IDPs in Adamawa reported having limited or no garbage disposal system and thus rely on burning garbage as the main
+ disposal method.
+
+ 7.       Unplanned development has increased vulnerability to disasters in host communities lacking climate-resilient
+ infrastructure and housing. Forced urbanization due to displacement has increased the vulnerability of IDPs and host
+ communities to disasters, especially flooding and extreme heat, threats exacerbated by climate change. Self-made
+ makeshift shelters constructed near rivers and host communities lacking sufficient drainage and waste management
+ systems are highly exposed to flood risks. Analyses of Maiduguri and Yola indicate significant proportions of infrastructure,
+ built up areas and population are exposed to river and rainwater flooding. IDPs are susceptible to repeated displacement
+ due to their location in flood zones. Rising temperatures from climate change also increases vulnerability in urban host
+ communities due to urban heat island effects and lack of parks and green spaces, with IDPs highly exposed due to poor
+ living conditions. Some host communities will also have to grapple with climate-induced in and out migration. A recent
+ World Bank study8 shows that several NW states (Kano, Katsina, Jigawa, Sokoto and Kebbi) are expected to be in-migration
+ hotspots while Borno (NE) is anticipated to be an out-migration hotspot.
+
+ 8.      The third development challenge relates to institutions - state and local governments have weak institutional
+ capacity to cope with the rapidly changing IDP situation in host communities. This is a preexisting challenge, but it is
+ exacerbated by the influx of IDPs and concentration in a limited number of LGAs within displacement-affected states.
+ There are overlapping, conflicting and duplication of functions between the state and local government institutions9 in
+ the provision of essential services, which hampers effective planning and delivery of services in host communities
+ experiencing rapid population and spatial growth with the inflow of IDPs. In most state capitals, plans are outdated and
+ no longer relevant, while low technical capacity of staff hinders plan implementation.10 In Nigeria, local governments do
+ not have staffing and financial autonomy, making human capacity and resources for the delivery of essential services
+ weak. State and local governments further struggle to govern effectively, with the additional role they have had to play
+ from a security perspective, in defense of conflicts and now with the return process.
+
+ 9.      The fourth development challenge relates to economic impacts of displacement on IDPs and host communities.
+ Rapid and large-scale inflow of IDPs have prompted stress on already-strained local economies, which are largely
+ agriculture-dependent. Overall, host communities are characterized by limited livelihood opportunities, especially for
+ IDPs. Limited accessibility of land and roads, security risks, and increasing extreme weather events have constrained
+ income-generating opportunities, impacting the availability of agricultural yields and heightening food insecurity. In
+
+ 7
+   International Organization on Migration (IOM). 2022. Multi-Service Needs Assessment (MSNA).
+ 8 World Bank Group. 2021. Groundswell Africa: A deep dive into internal climate migration in Nigeria.
+ 9 For instance, the Borno State Urban Planning and Development Board is responsible for the initiation and actualization of physical development programs in
+
+ Maiduguri, but multiple agencies carry out similar functions in the city.
+ 10 For instance, the Maiduguri development plan (1977-1987) has not been reviewed after its expiration and the law governing the Borno State Urban Planning and
+
+ Development Board has not been fully implemented. Across host communities, local governments face significant gaps in financial resources and management, which
+ also has negative impacts on the provision of services.
+
+
+May 14, 2024                                                                                                                                         Page 5 of 17
+          The World Bank
+          Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+ Borno, the sale of firewood is one of the main sources of income for IDPs but venturing out of the garrison towns to look
+ for firewood for sale comes with major risks including kidnapping, abduction and even death. Apart from sale of firewood,
+ IDPs otherwise rely on menial jobs at market centers in peri-urban areas or as farm laborers within host communities. In
+ Maiduguri, IDPs and returnees face significant challenges with respect to job opportunities and earnings compared to host
+ community members.11 Recent analysis suggests that the presence of IDPs in Nigeria is associated with a decrease in
+ aggregate wealth and an increase in inequality within host communities. These effects are accompanied by an increased
+ risk of conflict onset in the short and long run. An improvement in IDPs’ living conditions is accompanied by a decrease in
+ violence and improved relations between hosts and IDPs.12 Investments are needed to rehabilitate and reconstruct major
+ facilities within host communities to provide economic opportunities for both IDPs and host community members (i.e.,
+ markets, logistics parks, etc.). Transport investments are also needed within host communities to improve mobility and to
+ support accessing livelihood opportunities, and to link urban centers and hinterlands (i.e., to improve connectivity
+ between markets and agricultural production sites and to support local value chains).
+
+ 10.        The fifth development challenge relates to significant social impacts caused by forced displacement. First,
+ displacement has disrupted family units and community cohesion, as individuals have often been separated from loved ones, and women
+ and children have often been separated from their husbands and boys. Second, it has led to loss of access to education for displaced
+ children, making the number of unskilled youths grow. This is further limiting access to already scarce employment opportunities,
+ potentially exacerbating the cycle of poverty and violence due to frustration and lack of recognition as adults. Third, displacement has
+ increased the vulnerability of affected populations to human rights abuses, including gender-based violence (GBV). Displaced women and
+ girls are at high risk for experiencing GBV, with little resources and services to support them. Fourth, forced displacement has placed pressure
+ on host communities, potentially leading to resource conflicts and increased tensions between displaced persons and residents.13 Fifth,
+ the psychological trauma associated with displacement can have long-term mental health consequences for individuals, affecting their
+ ability to reintegrate into society and rebuild their lives. Lastly, the lack of representation and voice of IDPs with local institutions can
+ further jeopardize trust due to lack of social accountability. These impacts collectively undermine the social fabric and stability of the
+ region, presenting significant challenges for humanitarian assistance and development efforts. However, global evidence suggests
+ that multi-sectoral development investments directed to IDPs, and host communities can mitigate the negative effects of
+ displacement, generate positive externalities for host communities, and promote social cohesion.14
+
+ 11.       Protracted displacement is a fundamental development challenge, requiring a development approach to
+ solutions. There is a need to shift from addressing internal displacement as a humanitarian crisis to addressing protracted
+ displacement with long-term inclusive solutions addressing the five challenges discussed above. The Federal Government
+ of Nigeria (FGN) recognizes internal displacement as a major development challenge and the importance of inclusion in
+ sustainable solutions. In 2021, the FGN adopted the National Policy on Internally Displaced Persons (National Policy, “NP�?
+ herein), which states 15 the obligations and responsibilities of the government to protect, promote and fulfill the rights of
+ IDPs, returnees and host communities. The National Policy serves as the official plan to guide all government levels,
+ international partners and other stakeholders in their efforts to provide solutions for IDPs and for ending forced
+ displacement. In 2022, a National Commission for Refugees, Migrants, and Internally Displaced Persons (NCFRMI) was
+ established with the mandate to implement the National Policy through the coordination of national-level actions and
+ facilitation of sustainable solutions for the protection and assistance of all displaced people. While the NP and the NCFRMI
+
+ 11 In Maiduguri, major earning discrepancies exist. In 2019, the average income of host community members, IDPs and returnees was N13,991, N7376 and N4425
+ respectively.
+ 12 Ludolph, Lars; Šedová, Barbora; Talevi, Marta. 2022. Inequality and Security in the Aftermath of Internal Population Displacement Shocks: Evidence from
+
+ Nigeria. Policy Research Working Papers; 10053.
+ 13 Socially, increased pressure on basic services and resources (such as land and jobs) and xenophobia against “outsiders�? has created tensions between IDPs and host
+
+ communities. For example, in Maiduguri, about 15,000 surrendered Boko Haram fighters have been moved to the city, which has created tensions in host
+ communities as residents have not been accepting of Boko Haram converts as their neighbors, thus amplifying local hostilities. (Source: Maiduguri Analytics)
+ 14 World Bank. 2022. Social Cohesion and Forced Displacement: A Synthesis of New Research. © Washington, DC: World Bank.
+ 15 The FGN previously signed and ratified the African Union Convention for the Protection and Assistance of Internally Displaced Persons in Africa (i.e., the Kampala
+
+ Convention, or the Convention) in 2012.
+
+
+May 14, 2024                                                                                                                                               Page 6 of 17
+           The World Bank
+           Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+ represent a significant step forward, gaps need to be addressed in terms of institutional, technical, and financial capacity
+ to effectively implement the policy and provide sustainable solutions for IDPs and host communities. Constraints include
+ specialized institutional, financial, and planning capacity at the state and local levels, leadership and coordination across
+ stakeholders,16 gaps on displacement data and financial support to investments needed for IDP hosting areas and
+ communities.
+
+ 12.      The proposed project will utilize a three-pronged approach to develop sustainable solutions for IDPs and host
+ communities in Northern Nigeria. First, the proposed project aims to provide tailored solutions for each of the targeted
+ states and communities, recognizing that each internal displacement situation is specific and localized, with conflict,
+ violence and/or climate challenges presenting a different level and set of vulnerabilities for host communities. Gender,
+ age, and special needs of individuals also play a role, as well as the length of displacement, number of times displaced and
+ other factors.17 Thus, responses will be adapted to address the specific needs of vulnerable populations within
+ displacement-affected states and communities. Second, the proposed project will follow a “People-in-Place�? approach,
+ integrating the needs of the people and the impacts on the place where they settle. Project activities will aim to improve
+ provision of infrastructure and basic services as well as livelihood opportunities in an integrated way, moving beyond
+ capital investments to supporting operational improvements and sectoral reforms, and fostering income-generating
+ opportunities within host communities. Citizen engagement will be key throughout the project to ensure that
+ interventions address the needs of IDPs and host communities specific to the local context. Third, for successful solutions
+ for long-term displacement, the States need to adopt a “whole-of-government�? approach in which all parts of government
+ actively contribute to solutions, and local authorities are strongly supported. 18 The proposed project will finance activities
+ designed to support institutional strengthening to enable concerned MDAs to fulfill their mandate and contribute to long-
+ term inclusive solutions for the IDPs and host communities.
+
+      C. Relationship to CPF
+
+      Relationship to CPF
+
+ The proposed project aligns with the WBG’s Country Partnership Framework (CPF) for Nigeria, as well as the 2021-2025
+ Climate Change Action Plan (CCAP) and the 2021-2025 FCV Strategy. It aligns with CPF Core Objective 11,19 which aims
+ at reducing fragility in the NE and other conflict-affected areas in Nigeria and the Bank’s 2021-2025 Climate Change Action
+ Plan which supports cities to build resilience and lower greenhouse gas emissions. The project also aligns with the FCV
+ Strategy in addressing forced displacement by focusing on the medium- to long-term development challenges arising from
+ forced displacement, including specific vulnerabilities of internally displaced persons, supporting sustainable economic
+ and social development in host communities, and working with governments to strengthen relevant institutions and
+ policies related to forced displacement. The strategy emphasizes the importance of mitigating the shocks caused by
+ refugee inflows, creating social and economic development opportunities for refugee and host communities, and
+ facilitating sustainable solutions to protracted refugee situations, including the socio-economic inclusion of refugees in
+ the host country or their return to the country of origin.
+
+
+ 16 Stakeholders encompass donor partners, UN agencies, civil society organizations and displacement-affected communities.
+ 17
+    Other factors include social networks in displacement locations, ethnic backgrounds, places of origin, trigger of displacement (conflict, disaster, etc.), previous
+ occupation (agricultural backgrounds versus service or business), current type of accommodation within the host city, camp versus non-camp settlement, current
+ type and size of host city, etc. These factors will generate variations among the displaced population and their respective needs.
+ 18 United Nations, Shining a Light on Internal Displacement: A Vision for the Future, Report of the United Nations Secretary-General's High-Level Panel on Internal
+
+ Displacement, September 2021, p. 13.
+ 19 The proposed project also aligns with Objective 10 which aims at enhancing climate resilience in Northern Nigeria and two CPF Complementary Priorities, namely
+
+ #3: Promote youth employment and skills, and # 6: Modernizing Agriculture
+
+
+May 14, 2024                                                                                                                                                  Page 7 of 17
+              The World Bank
+              Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+
+ 13.      The proposed project also aligns with government strategies at the national level, particularly the National
+ Policy for Internally Displaced Persons, the 2050 Long Term Vision for Nigeria (LTV-50), Nigeria’s Nationally Determined
+ Contributions (NDCs), and state governmental development initiatives. The proposed project aligns with the National
+ Policy and the supporting National Action Plan,20 as well as national development and climate resilience strategies,
+ including Nigeria’s NDC targets21 and LTV-50. The proposed project will also be aligned with existing state-level
+ development plans.
+
+ 14.      The proposed project further strengthens the World Bank’s long-term commitment to support the poorest and
+ FCV-affected areas of Nigeria, with an emphasis on sustainable development, leveraging recent and on-going programs
+ in Northern Nigeria by the Bank and humanitarian efforts by development partners from over the past decade . The
+ proposed project aligns with and has benefitted from the recent Enhancing Development Effectiveness in Northern Nigeria
+ (EDENN) Programmatic ASA (P178600) and builds on the work completed under the Multi-Sectoral Crisis Recovery Project
+ (MCRP) for North-Eastern Nigeria (P157891). The project will also leverage on-going World Bank projects that provide
+ support to improvements in basic services, health and education, climate resilient interventions, and livelihood
+ opportunities in selected Northern states.22 Furthermore, the proposed operation will complement other World Bank
+ operations in the space of social protection and human development.23 The proposed project will contribute to similar
+ social, economic and climate resilience objectives, with a focus on IDPs and displacement-affected communities.
+
+
+      C. Proposed Development Objective(s)
+      The Project Development Objective is to improve access to basic services and economic opportunities for internally
+      displaced persons (IDPs) and host communities in displacement affected LGAs of Northern Nigeria.
+
+      Key Results (From PCN)
+
+          -     Millions of displaced people and people in host communities provided with services and livelihoods
+                (disaggregated by IDPs/host communities, and by gender)
+          -     Direct beneficiaries with improved access to basic services (disaggregated by sex) (Number)
+          -     Number of communities benefited from constructed or rehabilitated to infrastructure and services.
+          -     Beneficiaries surveyed reporting project investments reflected their needs (disaggregated by sex) (Percentage).
+          -     Beneficiaries reporting that project investments have positively contributed to increased trust among
+                community members (Percentage).
+
+
+ 20
+    The National Action Plan was developed by the National Commission for Refugees, Migrants, and Internally Displaced which is the responsible agency for the
+ operationalization of sustainable solution strategies and interventions in the return, reintegration, and resettlement of IDPs within the Federal Ministry of
+ Humanitarian Affairs and Poverty Alleviation (FMHAPA).
+ 21
+    Nigeria updated its NDC targets in 2021, recommitting to its unconditional contribution of 20% below business-as-usual (BAU) and increasing its conditional
+ contribution to 47% below BAU by 2030 as well as extending targets to the water and waste sector. The proposed project can contribute to the areas of water (i.e.,
+ improved water security for households and measures against flooding), waste (i.e., improved waste management systems and recycling/composting) and urban
+ development (i.e., promote resilient development through controlled planning and more robust services) and agriculture (i.e., promote climate smart and resilient
+ agriculture and land use),
+ 22 This includes the Agro-Climatic Resilience in Semi-Arid Landscapes program (ACReSAL, P175237), the Livestock Productivity and Resilience Project (LPRES,
+
+ P160865), Nigeria for Women Project and its Scale Up (NFWP-SU, P179447), the Adolescent Girls Initiative for Learning and Empowerment Program (AGILE-AF,
+ P170664), and the Nigeria for Women Program (P161364) and its Scale-Up Project (P179447). The project will also benefit from lessons learnt from Better Education
+ Service Delivery for ALL - Additional Financing (BESDA-AF, P160430) and Innovation Development and Effectiveness in Acquisition of Skills (IDEAS, P16629).
+ 23 Complementary projects include but are not limited to the Nigeria COVID-19 Action Recovery and Economic Stimulus (NG-CARES, P174037) Program-for-Results
+
+ and the Nigeria Improved Child Survival Program for Human Capital Multi-Phased Approach (P167156).
+
+
+May 14, 2024                                                                                                                                             Page 8 of 17
+            The World Bank
+            Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+        -      Percentage of sub-projects that have adopted climate-resilient approaches.
+
+  D. Concept Description
+
+            15.      The project will promote social inclusion of IDPs by empowering IDP and host communities,
+            improving resilience, making institutions accessible and accountable to citizens, and increasing social
+            cohesion. It will contribute to the Government of Nigeria’s implementation of the National Policy to realize
+            the country’s national responsibility to prevent and protect citizens and, in some cases, non-citizens, from
+            incidences of arbitrary and other forms of internal displacement, meet their assistance and protection needs
+            during displacement, and ensure their rehabilitation, return, reintegration and relocation after
+            displacement. The project will provide support to displacement-affected LGAs and communities through
+            technical assistance and financial investments in 1) resilient infrastructure and services; and 2) community
+            development, income-generating opportunities, and social cohesion.
+
+            16.      Lessons from MCRP will inform the design and implementation approach of SOLID. First, while
+            MCRP focused on emergency recovery of conflict and displacement-affected communities in the BAY states
+            by financing the rehabilitation of service delivery infrastructure and by providing farming and non-farming
+            products and tools for immediate livelihood support, SOLID will focus on longer-term and durable
+            development solutions to increase access to services and livelihood opportunities for IDPs and host
+            communities across Northern Nigeria. The focus of SOLID will be on communities that have experienced
+            protracted displacement, with IDPs living within the community for three years or more, and who are likely
+            to settle permanently within the community rather than return to their original community. SOLID will
+            finance more concentrated investments using the “People-in-Place�? approach to maximize the
+            development impact of investments. Hence, integrated infrastructure solutions will be provided for selected
+            LGAs and communities as discussed below. Second, considering the challenges MCRP faced concerning the
+            participation of various MDAs in implementation, SOLID, by following the idea that addressing the needs of
+            IDPs and host communities requires a “Whole Government�? approach, will put in place measures to be
+            agreed with the counterparts to guarantee effective engagement of concerned state and local government
+            institutions, such as through multi-agency steering committees, and provide more clarity on the operations
+            and maintenance (O&M) responsibilities and sustainability of investments, such as through the
+            development of MOUs with line agencies for sectoral investments to ensure the availability of recurrent
+            budget, personnel and equipment. Third, SOLID will promote the participation of local communities,
+            including IDPs, in the development of sub-projects, from planning through implementation. Under MCRP,
+            the lack of institutional capacity to engage communities early in the process of sub-project identification
+            adversely impacted community participation. This would be improved under SOLID and communities will
+            be equipped to participate in sub-project design, implementation, and the O&M of completed community
+            infrastructure.
+
+            17.     Lessons learned from other Bank projects in Nigeria and similar projects in other countries will
+            also inform the design and approach of SOLID. SOLID will leverage existing Bank programs effective in
+            Northern Nigeria, aligning policy work, coordinating project activities and strengthening beneficiary
+            targeting mechanisms. Amongst the ongoing projects, there are: (i) the Agro-Climatic Resilience in Semi-
+            Arid Landscapes program (ACRESAL, US$700 million IDA) which aims to increase the implementation of
+            sustainable landscape management practices in targeted watersheds in northern Nigeria and strengthen
+            Nigeria’s long-term enabling environment for integrated climate-resilient landscape management, and (ii)
+            Livestock Productivity and Resilience Project (LPRES, US$500 million IDA), which aims to improve
+
+May 14, 2024                                                                                                          Page 9 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+          productivity and commercialization of targeted livestock production systems and strengthen the resilience
+          of livelihoods affected by farmer-herder conflicts. Both programs aim to address some of the root causes of
+          violence as well as to support conflict mitigation activities, which are relevant to the dynamics of forced
+          displacement. Other Bank projects effective in the North have a strong focus on women. These include: (iii)
+          Nigeria for Women Project and its Scale Up (NFWP-SU, US$700), which focuses on economic empowerment,
+          and (iv) Adolescent Girls Initiative for Learning and Empowerment Program (AGILE-AF, US$700), whose goal
+          is to improve secondary education opportunities among girls in targeted states. Furthermore, the proposed
+          operation will complement other World Bank operations in the space of Social Protection and Human
+          Development, including but not limited to the Nigeria COVID-19 Action Recovery and Economic Stimulus
+          (NG-CARES) and the Nigeria Improved Child Survival Program for Human Capital Multi-Phased Approach
+          (MPA). SOLID will also build on capacity created during the implementation of the Community and Social
+          Development Project (CSDP) is a which provided grants to vulnerable groups and communities to help them
+          develop their human capital by using a bottom-up approach that encouraged joint decision making between
+          communities, hence strengthening ‘bonding’ and ‘bridging’ opportunities to increase social cohesion and
+          peaceful coexistence.
+
+          Investment Targeting
+
+          18.      The project’s targeting strategy will be anchored around a combination of needs assessments
+          (for IDPs and other vulnerable groups, and host community members), state and local community
+          development plans, and tailored interventions to strengthen service delivery, inclusiveness, and climate
+          resilience. Considering the uniqueness of each internal displacement situation, the diversity of IDP profiles
+          (including gender, age and special needs of individuals), and the changing landscape of states with the
+          continuing inflow of IDPs to a small number of LGAs within each state, interventions will be operationalized
+          using four guiding principles: 1) adapting interventions to shifting needs over time; 2) adapting
+          interventions to different types of host communities; 3) adapting interventions to different types of
+          displaced people; and 4) assigning interventions to different stakeholders, as IDPs should be the
+          responsibility of all parts of government.
+
+          19.      Target States. The Project will adopt a multi-tiered approach to select four to six states before
+          project negotiation, based on defined criteria. All Northern Nigerian states that have displacement
+          identified as one of the key challenges to their development agenda are eligible to participate in the
+          Project. To participate, states must demonstrate commitment to the key strategies highlighted in the
+          National Policy, including a commitment to removing barriers to the inclusion of IDPs in host communities
+          and providing support to IDPs, returnees as well as host community members. Accordingly, to qualify for
+          the support under the project, states need to fulfil two preconditions that illustrate the commitments to
+          the National Policy as discussed above:
+
+               i. Have an approved state action plan – acceptable to the Bank – that clearly demonstrates the key
+                  principles of the National Policy, with a clear commitment to the rights and responsibilities of both
+                  IDPs and host communities as described in the National Policy. State governments need to
+                  demonstrate that their plans are inclusive, with IDPs and returnees being granted the same rights
+                  as host community members or that they are on the way of becoming full members of the
+                  community. The state action plan should include a set of key performance indicators to monitor the
+                  level of implementation over the plan period.
+
+
+
+May 14, 2024                                                                                                          Page 10 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+               ii. Establish a state institutional coordination mechanism in the form of a committee or taskforce
+                   inclusive of state ministries, departments, and agencies (MDAs), representatives of host
+                   communities and IDPs (both men and women), traditional leaders, and private sector
+                   representatives, with the purpose of engaging and bringing together key stakeholders for the
+                   development of sustainable solutions for IDPs and host communities.
+
+          The mechanism of state selection will be further detailed during project preparation. Additional criteria
+          will be added which may include counterpart readiness (i.e., funding and commitment to project security)
+          and implementation readiness (i.e., institutional capacity and readiness of investment projects). Funds
+          will be allocated to the selected states based on a formula to be developed during project preparation
+          and in consultation with counterparts.
+
+          20.      Target Communities. The project will mainly address displacement at the local level and will focus
+          on selected displacement affected LGAs within the Northern Nigerian states. Within selected LGAs, the
+          project will target host communities, at the neighborhood (ward) level, that have experienced protracted
+          displacement (where people have been internally displaced for at least three years by a single event), will
+          be designated to receive project support. Within selected host communities, support will be extended to
+          both IDP and native community members, with a special attention paid to women, youth, and people with
+          special needs, as part of the project’s support for local economic stabilization. Target communities at the
+          ward level will be the focus of analysis once LGAs are selected. The target LGAs will be selected based on
+          criteria to be developed during preparation, but will consider the following:
+              i. LGAs with the largest total numbers of IDPs
+               ii. LGAs with the largest ratio of IDPs to the existing population
+               iii. LGAs with the largest number of long-term displaced persons (more than three years)
+
+
+          21.   Target beneficiaries. Targeting of beneficiaries will be inclusive of IDPs and host community
+          members, and the most vulnerable and hard to reach groups amongst them. A strong focus on youth and
+          women will be maintained throughout the project.
+
+   Components
+
+          22.      The project is structured around four components. The funding allocations per component are
+          indicative and the final allocations will be agreed during project preparation. In general, the prioritization
+          of investments will be based on criteria to be established during project preparation, including, but not
+          limited to, packaging of works, investment readiness, implementation timeline, and impacts on the most
+          vulnerable groups.
+
+          Component 1: Investing in Resilient Infrastructure and Services for IDPs and Host Communities
+          (US$200 million)
+
+          23.     This component will finance infrastructure and service delivery investments at the LGA and ward
+          levels to improve livability and increase social, economic and climate resilience for IDPs and host
+          communities in selected LGAs. The component will also support state and local government institutions
+
+
+May 14, 2024                                                                                                           Page 11 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+          through technical assistance and capacity building activities to transition to an integrated development
+          approach in tackling the impacts of displacement through long term multisectoral planning solutions.
+
+          Subcomponent 1.1: Strategic investments for improved livability and economic development (US$180
+          million)
+
+          24.       This subcomponent will finance larger scale infrastructure investments in selected LGAs to improve
+          livability and local economic development while increasing climate resilience in displacement-affected
+          areas. Investments will be selected from a menu to be developed in consultation with key stakeholders in
+          selected states and communities. Potential investments will be identified during the integrated
+          development planning process in subcomponent 1.2 and linked to national and state climate agendas and
+          development plans. To inform the selection of investments, state and local governments will follow a rapid
+          diagnostics process to map and assess existing conditions and identify potential investments. States that
+          requested to benefit from SOLID support have already started preparing their lists. Examples of potential
+          investments include: (i) Improved public services (e.g., investments in water supply and sanitation services
+          and/or solid waste management to increase access; rehabilitation and expansion of stormwater drainage
+          systems to mitigate flood risks); (ii) development of central markets, roads and land redevelopment to
+          increase the amenities and economic opportunities in central areas and along major corridors; (iii)
+          development of parks and greenspaces to reduce urban heat, and the protection of flood plains and
+          riparian areas to mitigate flood risks; and (iv) transformative investments that link urban centers and
+          hinterlands (i.e., improve local connectivity between markets and agricultural production sites), support
+          local value chains (e.g., commercial and industrial spaces such as marketplaces and cattle markets), and
+          provide trade and transport related services (e.g., bus stations). This subcomponent will also attempt to fill
+          gaps in key infrastructure services in selected wards to complement the LGA-level work. This will cover
+          rehabilitation and construction of water, sanitation and hygiene facilities, local roads, public spaces, and
+          health and educational facilities. The subproject will also finance waste management services at the ward
+          level. Investments will be selected based on quick needs assessment for wards with concentrations of IDPs.
+
+          Subcomponent 1.2: Strengthening State and Local Government Institutions for Improved Service
+          Delivery (US$ 20 million)
+
+          25.      The subcomponent aims to strengthen the capacity of state and local government institutions as
+          part of the Whole-of-Government endeavor to tackle displacement impacts through long-term
+          multisectoral planning solutions. The subcomponent will finance technical capacity building activities for
+          state MDAs to effectively plan for local development, implement national policies, deliver and maintain
+          services, and improve oversight of local governments. State-level activities may include development of IT
+          systems, training in fiduciary (financial management and procurement) programming, capacity building for
+          property tax/fiscal cadaster for state capitals, support to community organizations and O&M committees,
+          and support for intergovernmental coordination to improve access to national government programming
+          and financing. The subcomponent will also finance technical assistance to improve the provision of public
+          services like municipal solid waste management and public facility management. One key need identified
+          in most states is the lack of a waste management strategy. This sub-component will support preparing such
+          a strategy in selected states. Support to the preparation of master plans for the state capitals has also been
+          identified as one of the main technical assistance needs to be provided under this subcomponent. Thus,
+          the subcomponent will finance technical support selected states in modernizing their planning system,
+          conforming planning practices and institutional set up to national planning laws and regulations (i.e.,
+
+
+May 14, 2024                                                                                                          Page 12 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+          establish a state Planning Board and provide support in drafting the Planning Board’s mandate and
+          operation guidelines) and preparing integrated development plans. This subcomponent will also finance
+          technical capacity building activities for local government officials to fulfill key aspects of their mandated
+          role to deliver services and to develop integrated (multi-sectoral) and climate-resilient development plans
+          for selected displacement-affected communities (at the LGA level), in coordination with the community
+          development plans that will be produced as part of subcomponent 2.1.
+
+          Component 2: Community Development and Income Generating Opportunities (US$80 million)
+
+          26.      This Component finances two main subcomponents to strengthen the capacity for resilient and
+          inclusive community development planning and enhance access to sustainable income-generating
+          opportunities. By achieving results in subcomponents 2.1 and 2.2, the project will contribute to
+          strengthening social cohesion between IDPs and host community members, providing opportunities for
+          bonding and bridging of groups within the selected communities. Activities will be carried out in
+          collaboration with all stakeholders at the State and LGA level.
+
+          Subcomponent 2.1: Capacity-Building and Technical Support for Sustainable and Inclusive Community
+          Development (US$20 million)
+
+          27.      This subcomponent will finance: (i) capacity-building activities to support development of
+          integrated community development plans (CDPs) in selected communities. This includes facilitation of
+          participatory planning processes, training for communities, state and local governments, and traditional
+          institutions on participatory decision-making, and support for sub-project (community-based
+          infrastructure and community agriculture-related infrastructure and services) identification, prioritization,
+          and selection for financing under subcomponent 1.1; (ii) capacity-building activities for communities to
+          support monitoring and accountability of local institutions regarding IDP inclusion and to enhance
+          sustainability of investments (though community driven operations and maintenance); and (iii) technical
+          assistance, training, and programs for economic and social resilience, including financial literacy,
+          entrepreneurship, and business proposal development, marketing and accounting for IDPs and host
+          community members receiving livelihoods support in Subcomponent 2.2, with a focus on supporting
+          women and youth.
+
+          Subcomponent 2.2: Investments in Value Chain Development, Marketing, and Innovation for
+          Sustainable Livelihoods (US $60M million)
+
+          28.     Building on existing value chain assessments, programs and experience of other Bank operations,
+          this subcomponent will finance investments in productive value chains, including agriculture (crops and
+          livestock), pastoralism (livestock), agropastoralism (crop and livestock) and fisheries, and will support
+          commercializing livelihood activities for improved income generation, employment, and self-reliance
+          among IDPs and host community members. The subcomponent will finance the following activities: (i)
+          provision of agriculture production equipment and advisory extension services, such as farming and small
+          processing productive assets, starter packs with climate-resilient seeds, climate information for cropping
+          calendar advisories, and remote sensing surveillance for crop and livestock performance monitoring to
+          increase resilience and adaptive capacity; (ii) in collaboration with other projects (e.g., NFWP SU, ACRESAL,
+          LPRES, AGILE), financing of complementary interventions including insurance schemes and small
+          processing and packaging machines in selected areas where small productive districts demonstrate
+
+May 14, 2024                                                                                                          Page 13 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+          opportunities for scalable innovation technologies with potential for rapid enhancement in productivity
+          and replication; and (iii) community agriculture-related infrastructure and services, including rehabilitation
+          and investment in fences, markets, storage facilities (including aggregation centers, production pens and
+          houses for livestock), and rural road networks – selected through CDPs.
+
+          29.      The subcomponent will also finance identified small investments complementing other projects
+          and other activities, including but not limited to small irrigation schemes, canals, and ponds to enable
+          farmers to have a reliable supply of irrigation water for crops, livestock, and fisheries. This subcomponent
+          will finance capacity building and innovation grants (either cash or in-kind) for individuals or groups,
+          including cooperatives, targeting women and youth groups as well as small entrepreneurs and small family-
+          owned businesses including innovative joint IDP-host community ventures. The subcomponent will focus
+          on enabling small production districts, complementing other State, LGAs, and development partners’
+          initiatives.
+
+          Component 3: Project Management and Support for the Implementation of the National Policy
+          (US$ 20 million)
+
+          30.      This component will support the implementation of all activities in accordance with the World
+          Bank’s policies and guidelines. This will include the following: (a) project management, including technical
+          planning, financial management (FM), procurement, social and environment risk management, security
+          analyses and response plans, and communications; (b) project monitoring which includes a geo-enabled
+          monitoring system (GEMS) and beneficiary feedback/grievance redress mechanism (GRM); (c) impact
+          evaluation; (d) continuous conflict analyses; (e) just-in-time studies as and when needs arise; (f) financing
+          for third-party monitoring as required by the security conditions; and (g) PIU operating costs.
+
+          31.     The component will also finance activities that support the FGN’s efforts to operationalize the
+          National Policy, through strengthening institutional capacity for the coordination of national-level actions
+          and facilitation of sustainable solutions for IDPs and host communities, in line with the National Policy and
+          state action plans. This subcomponent will strengthen the idea of Whole-of-Government engagement in
+          providing solutions for displacement, providing support for overall programmatic and policy coordination
+          between federal, state, and local governments, and will include the provision of Technical Assistance (TA)
+          to address gaps in implementing and monitoring commitments set forth in the policy. The TA would
+          address data gaps on all IDPs, including women, persons with disabilities and other vulnerable groups.
+
+          Component 4: Contingency Emergency Response Component (CERC) (US$0)
+
+          32.      A contingency emergency response component (CERC), initially without a budget allocation, will
+          allow for the rapid reallocation of project funds in the event of natural or man-made crises and major
+          disease outbreaks of public health importance during the implementation of the Project, in accordance
+          with the World Bank Investment Project Financing (IPF) Policy, paragraphs 12 (Projects in Situations of
+          Urgent Need of Assistance or Capacity Constraints). Activation of the CERC is triggered by (a) a declaration
+          of a state of emergency by the Government and (b) Government request to the World Bank for activation
+          of the CERC. Implementation modality and eligible activities to be financed under the CERC will be
+          described in the Project Implementation Manual (PIM).
+
+
+
+
+May 14, 2024                                                                                                          Page 14 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+
+
+   @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+ Legal Operational Policies
+                                                                                Triggered?
+                                                           Last approved                     Current
+  Projects on International Waterways OP 7.50                    No
+  Projects in Disputed Area OP 7.60                              No
+
+
+
+   Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+   @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+   CONTACT POINT
+
+   World Bank
+    Fuad Malkawi
+    Senior Urban Specialist
+
+    Serena Cavicchi
+    Senior Social Development Specialist
+
+   Borrower/Client/Recipient
+    The Federal Ministry of Budget and Economic Planning
+    George N. Stanley
+    Director, International Economic Relations
+    nyekenso@gmail.com
+
+    Federal Ministry of Finance
+    Stanely George
+    Director
+    nyekenso@gmail.com
+
+   Implementing Agencies
+
+
+
+
+May 14, 2024                                                                                           Page 15 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+    National Commission for Refugee Migrants, and Internally Displaced Persons
+    Tijani Aliyu Ahmed
+    Honorable Commissioner
+    aa.tijjani@ncfrmi.gov.ng
+
+    North East Development Commission
+    Mohammed Danjuma
+    Project Coordinator
+    mdanjuma@nedc.gov.ng
+
+    The Federal Ministry of Budget and Economic Planning
+    George N. Stanley
+    Director, International Economic Relations
+    nyekenso@gmail.com
+
+    National Commission for Refugee Migrants, and Internally Displaced Persons
+    Tijani Aliyu Ahmed
+    Honorable Commissioner
+    aa.tijjani@ncfrmi.gov.ng
+
+    North East Development Commission
+    Mohammed Danjuma
+    Project Coordinator
+    mdanjuma@nedc.gov.ng
+
+   FOR MORE INFORMATION CONTACT
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+   @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+   APPROVAL
+
+
+   Task Team Leader(s):                     Fuad Malkawi, Serena Cavicchi
+
+   Approved By
+
+   Practice Manager/Manager:                Madhu Raghunath                         08-Feb-2024
+
+   Country Director:                        Taimur Samad                            14-May-2024
+
+
+May 14, 2024                                                                                      Page 16 of 17
+         The World Bank
+         Solutions for the Internally Displaced and Host Communities Project(P181248)
+
+
+
+
+May 14, 2024                                                                            Page 17 of 17
+

@@ -1,0 +1,1096 @@
+﻿          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                     Appraisal Stage | Date Prepared/Updated: 10-Mar-2020 | Report No: PIDISDSA25752
+
+
+
+
+Oct 28, 2019                                                                                           Page 1 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name                Parent Project ID (if any)
+   Niger                                         P167543                    Niger: Smart Villages for
+                                                                            rural growth and digital
+                                                                            inclusion
+   Region                                        Estimated Appraisal Date   Estimated Board Date        Practice Area (Lead)
+   AFRICA                                        20-Feb-2020                31-Mar-2020                 Digital Development
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministère du Plan          ANSI
+
+
+   Proposed Development Objective(s)
+
+   The project aims at increasing access to cellphone and broadband services in rural areas and bringing digital financial
+   services in selected underserved areas.
+
+   Components
+   1. Enabling environment
+   2. Rural connectivity
+   3. Digital and financial inclusion
+   4. Project management and stakeholder capacity-building
+   5. Contingent Emergency Response Component
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                       100.00
+   Total Financing                                                                                                         100.00
+                             of which IBRD/IDA                                                                             100.00
+   Financing Gap                                                                                                               0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                           100.00
+
+
+Oct 28, 2019                                                                                                              Page 2 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+         IDA Credit                                                                                                       100.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+Other Decision (as needed)
+
+
+B. Introduction and Context
+
+Country Context
+     1. Niger is a large, landlocked and poor country in the arid Sahel region of West Africa. Most of the
+         country's territory is sparsely populated or uninhabitable desert with a low population density
+         (18 inhabitants per sq. km) and a very low rate of urbanization (more than 81 percent of the population
+         in Niger lives in rural areas1). The country's population is young and growing rapidly. Around 50 percent
+         of Niger's estimated 20.7 million inhabitants are younger than 15 years old and 75 percent are under 25.
+         The current population growth rate is over 4 percent with a particularly high rate of births to young
+         mothers. This young population is predominantly under-employed with a literacy rate of only 29 percent
+         (15 percent among young women). With a poverty rate of 44.1 percent and a per capita annual income
+         of just $420, Niger is one of the world’s poorest nations.
+       2. Low rural productivity, insufficient human capital, and weak governance hamper Niger’s development.
+          According to the June 2017 Systematic Country Diagnostic (SCD), Niger’s three principal challenges that
+          inhibit the country’s economic growth and constrain poverty reduction are: (i) a low rural productivity,
+          caused in part by irrigation problems, limited adoptions of new technologies, and lack of access to
+          finance; (ii) insufficient human capital due, in particular, to inadequate skills and training and poor
+          provision of public services; and (iii) weak governance in key sectors, such as agriculture and telecoms,
+          caused by insecurity and lack of public service delivery which in turn leads to limited economic
+          opportunities.
+       3. Niger is a fragile environment, and the security situation has deteriorated in recent months. It is
+          expected that Niger will be added to the list of Fragile, Conflict and Violence-afflicted (FCV) countries, as
+          of 1 July 2020, at the start of the new IDA-19 cycle. Niger has ranked near to last in the United Nations
+          (UN) Human Development Index since 2010. Meanwhile, external pressures due to conflicts involving
+          violent extremist groups in neighboring Mali. Burkina Faso and Nigeria, and the lack of a state presence
+          in southern Libya, have dramatically increased internal risks to Niger, with the potential to fuel pre-
+          existing inter-communal tensions. Responding to security and humanitarian needs is further stretching
+
+
+           1
+               World Bank Development Indicators (2017).
+
+Oct 28, 2019                                                                                                         Page 3 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               already limited public resources. At the same time, weak governance and dissatisfaction over the
+               management of public resources (including mining revenues) and the delivery of services is reinforcing
+               grievances and encouraging alternative – especially religious - forms of mobilization.
+           4. Niger expects to take full advantage of the digital transformation, which has the potential to impact all
+              sectors of socio-economic life. The government of Niger (GoN) has developed a “Niger 2.0�? Strategy,
+              which defines the key pillars (work streams) for sustainable development based on the anticipated
+              dividends of the digital economy2. Niger's ambition is to use digital infrastructures and services to
+              modernize its economy, strengthen its growth, reinforce security, improve its governance and support
+              efforts in key sectors including: agriculture3, access to financial services, health, education and youth
+              entrepreneurship. The “Niger 2.0�? Strategy – implemented under the leadership of the Agence Nationale
+              de la Société de l’Information (ANSI) – is designed to bring significant change in just a few years, with a
+              strong focus on rural areas (Smart Villages Program).
+           5. Niger requested by a letter of 23 January 2018 the support of the World Bank for its Smart Villages
+              Program. As part of the Niger 2.0 Strategy, the Smart Villages Program is aiming at leveraging digital
+              technologies with the objective of reducing poverty and increasing incomes, improving citizens’ living
+              conditions and resiliency to shocks. In addition, the program intends to enhance social inclusion, to
+              develop e-Government services such as e-Agriculture, e-Health and e-Education, to reduce the gap in the
+              access and use of digital services between men and women and finally to support financial inclusion
+              through access to mobile money accounts and services. It is important to differentiate between the Smart
+              Village Program which aims to provide a full range of digitally transformative services to rural areas, and
+              this Smart Villages Project which covers selected foundational components of the Smart Villages
+              Program, namely extending cellphone and broadband access and usage of mobile money in rural areas.
+
+   Sectoral and Institutional Context
+         Digital infrastructure and telecoms/ICT sectoral and institutional context
+
+           6. Niger has one of the least developed digital infrastructures in the world and ranks at the bottom of
+              most international digital rankings. The development of digital infrastructure is lagging in Niger and
+              indeed the country was rated in last position (176th out of 176 economies) in the 2017 ICT Development
+              Index (IDI) of the International Telecommunication Union (ITU)4. Despite competition between several
+              mobile network operators, Niger is one of the worst performers among all Low-Income countries in Sub-
+              Saharan Africa: the total number of mobile SIM5 cards represent only 43 percent of the population, the
+              total number of broadband-enabled mobile SIM cards (i.e. 3G and 4G) represents less than 5 percent of
+              the population compared to 20 percent for Mali (cf. Figure 1). Only 2 percent of the Niger population are
+
+
+
+           2
+             World Bank (2016) World Development Report: Digital Dividends.
+           3
+             Agriculture is also supported by the "3N" initiative (Les Nigériens Nourrissent les Nigériens, Nigeriens Feed Nigerien)
+           with a dedicated High Commission Office (HC3N, online link).
+           4
+             The ICT Development Index (IDI) is published in the ITU’s annual “Measuring the Information Society�? report. The
+           IDI is a composite index of access to and use of ICTs, as well as a measure of digital skills.
+           Niger was not even ranked in subsequent editions of the ITU ranking.
+           5
+             A SIM card is a Subscriber Identification Mobile. SIM cards thus equate to the number of subscribers. However, as
+           some subscribers may have multiple SIM cards, it would be m ore accurate to count only “unique�? mobile subscribers,
+           though this can only be an estimate.
+
+Oct 28, 2019                                                                                                                  Page 4 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               active social media users, compared to the average of 11 percent for Western Africa, and 15 percent for
+               the African continent6.
+           7. The market structure in telecommunications is reasonably competitive, with four players competing
+              for the market. These are Airtel Niger (90 per cent owned by Bharti Airtel of India), Orange Niger
+              (previously owned by the French Orange Group and now Zamani Com), Moov Niger (owned by Maroc
+              Telecoms, which is in turn 48 per cent owned by Etisalat, UAE) and Niger Telecoms (formerly Sonitel and
+              SahelCom, which were merged in 2016; a 100 per cent state-owned enterprise that has been through a
+              number of unsuccessful privatization attempts). As of late 2019, Airtel was the market leader with around
+              42 per cent of the market followed by Moov (26 per cent) and Orange (24 per cent), with Niger Telecom
+              trailing with just 7 per cent. However, Niger Telecom benefits from an effective monopoly in backbone
+              fiber as it has legal protection which prevents other operators from laying fiber on routes where it already
+              has capacity available. Investor confidence in the market received a jolt with the decision of Orange
+              (formerly France Telecom) to sell its entire share in Orange Niger to Zamani Com, which is owned by local
+              business interests, effectively withdrawing from the market. The sale was completed in November 2019.
+           8. At least 10 percent of the population has no mobile telephony coverage, and around half of the
+              population is not covered by mobile broadband. According to figures provided by the sector regulator
+              (ARCEP), there are approximately 6,092 villages representing a total population of 1.93 million
+              (representing around 320,000 households), that still have no cellular coverage, even for voice services
+              (2G). In addition, there are still gaps in the extent and coverage of rural and urban municipalities as well
+              as rural communes. For example, 12% of the population of rural communes is still not covered, and this
+              figure rises to 46% in Agadez, 27% in Diffa and 20% in Zinder7. While many African countries are
+              experiencing an explosive growth in internet penetration, driven primarily by 3G and 4G mobile services,
+              the ownership of smartphones remains low in Niger, and mobile broadband (3G/4G) networks cover only
+              half of the population compared to 70 percent for Africa according to the GSMA.
+           9. Several factors help explain the dismal performance of the digital infrastructure: notably a high share
+              of the population living in rural areas (84 percent of the total population compared to 60 percent for SSA,
+              cf. also Figure 2), limited access to electricity (only 11 percent of the rural population has access to
+              electricity compared to 23 percent for SSA8), and high mobile prices (a basket of mobile services
+              represents 33 percent of monthly Gross National Income (GNI) per capita compared to 14 percent for
+              Africa). The lack of affordability can be partly attributed to a high level of taxation, while inadequate
+              mobile applications and services (that are not always available in local languages) and low international
+              connectivity9 contribute to a relatively low level of usage by regional standards.
+
+
+
+
+           6
+             Source: Hootsuite (2018).
+           7
+             Using, as a basis, the latest 2012 population census and assuming a homogeneous growth across the whole territory.
+           8
+             World Bank Development Indicators (2018).
+           9
+             ITU, Measuring the Information Society Report 2017, Volume 2. ICT country profiles.
+
+Oct 28, 2019                                                                                                                Page 5 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               Figure 1: Mobile penetration rate for voice (2G) and      Figure 2: Mobile penetration rate for urban and
+                      broadband (3G, 4G), as % pop., 2018                       rural population, as % pop., 2018
+
+
+
+
+                                                                        Source: Gallup World Surveys.
+                      Source: GSMA Intelligence.                        Note: Penetration based on a survey of the adult
+                                                                        population.
+                      Note: Penetration based on number of SIM cards.
+
+
+
+           10. The overall ICT sector strategy and development falls under the responsibility of the National
+               Information Society Agency (ANSI) and the Ministry of Posts, Telecommunications, and Digital
+               Economy (MPTEN). The main institutions in charge of overseeing the sector are:
+                   A. Agence Nationale de la Société de l’Information (ANSI) – Presidential Decree 2017-621/PRN (20
+                      July 2017) created the ANSI. Its mission is the operational implementation of strategies, programs
+                      and projects for the promotion and development of information and communication
+                      technologies (ICT), in accordance with the guidelines defined by the Government, in conjunction
+                      with the Ministry in charge of the sector and other relevant structures. The ANSI is also in charge
+                      of managing the Universal Service Fund. The ANSI is placed under the technical supervision of the
+                      Minister Director of Cabinet of the President of the Republic of Niger, and under the financial
+                      supervision of the Minister in charge of Finance.
+                   B. Ministère des Postes, des Télécommunications, et de l’Économie Numérique (MPTEN) – On July
+                      12, 2018, Law No. 2018-45 regulating electronic communications in Niger was adopted. Amongst
+                      other things, the new law puts the MPTEN in charge of defining and implementing the policy for
+                      the development of the electronic communications sector (including by being in charge of the
+                      licensing award process). The MPTEN is under the authority of the Prime Minister’s Office.
+                   C. Regulatory Authority for Electronic Communications and Posts (ARCEP) – Law No. 2018-47 (July
+                      12, 2018) established the ARCEP. The sector regulator is in charge of defining and enforcing the
+                      regulatory framework for the electronic communications sector.
+                   D. High Authority for the Protection of Personal Data (HAPD) – On May 3, 2017, the Government
+                      adopted Law No. 2017-28 to protect personal data. The Law created the HAPD, an independent
+                      administrative agency, in charge of enforcing data protection. The HAPD has been officially
+                      launched in November 2019.
+           Digital finance and financial inclusion sectoral and institutional context
+
+Oct 28, 2019                                                                                                           Page 6 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+           11. Niger is one of the weakest performers in financial inclusion in Sub Saharan Africa and in the West
+               Africa Economy Union (WAEMU) region. According to the 2017 World Bank Financial Inclusion index
+               (Findex), 84 percent of the adult population in Niger is not part of the financial system compared to an
+               average of 58 percent in Sub Sahara Africa, 57 percent in Burkina Faso, and 65 percent in Mali. Only 2
+               percent of the adult population has access to credit, one of the lowest rates in the world. Limitations in
+               financial access are particularly acute among women and people living in rural areas.
+           12. While the constraints to financial inclusion resemble those of other countries in WAEMU, they are more
+               accentuated in Niger. Constraints to financial inclusion include low proximity of financial services
+               providers, restrictive approach of banks, underperformance of the microfinance sector, limited financial
+               literacy, and weak financial infrastructure. Low physical access to financial institutions is one of the
+               biggest issues in Niger given the very low population density with 18 people per sq. km which makes
+               unprofitable brick and mortars branches. According to the International Monetary Fund Financial Access
+               Survey10, there are only 0.13 commercial banks per 1,000 km2 meaning that it takes several hours or even
+               a whole day for a customer to visit a bank branch. In addition to the low proximity issues, the
+               microfinance sector is facing a crisis11 with level of nonperforming loans at more than 17 percent and
+               more than 70 percent of the microfinance institutions in bad shape. The third issue pertains to the high
+               difficulties of populations to fulfill banks’ customer due diligence requirements (formal ID, proof of
+               address and income) which contribute to restrain access to banking services. Indeed, it is estimated that
+               less than 13 percent of the population has a formal identification form. There are no formal physical
+               addresses in rural areas. The lack of information on rural populations is also a big constraint to access to
+               credit12.
+           13. While digital financial services are considered the most effective ways to improve financial inclusion,
+               they remain underdeveloped in Niger. The ratio value of financial transactions through mobile to GDP is
+               one of the lowest in the region, representing 5 percent compared to 30.2 per cent in Mali13. Access and
+               usage of digital financial services in Niger remains among the lowest in Sub-Saharan Africa. In 2017,
+               according to Findex, the percentage of adult population with a mobile money account doubled from 3
+               percent in 2014 to 9 percent but was still low compared to the average of 37 percent in Sub-Saharan
+               Africa. Access to first generation digital financial services (e.g. person to person -P2P transfers, bill
+               payments through mobile) remains limited and second generation of digital financial services (e.g savings
+               and microcredit) is barely available. Total number of mobile money accounts is estimated at 2.8 million,
+               representing twice the number of banks and MFI accounts in Niger, but half the number of mobile money
+               account in Mali, and one third of the number of Burkina Faso. Only 7 percent of the adult population in
+               Niger had received or sent money through mobile phones compared to an average 21 percent in Sub-
+               Saharan Africa. 3.1 percent of adult population has received payments for agriculture products.
+
+
+           10
+              IMF, Financial Access Survey, 2018 (online link).
+           11
+              A high level of non-performing loans due to governance issues and lack of appropriate credit policies and weak staff
+           capacities in small MFIs, weak management information systems, high fragmentation of the sector, inadequate
+           supervision and limited access to resources are the biggest concerns. While multiple initiatives are underway to put in
+           place necessary reforms to improve the supervision and to consolidate the sector, much more remains to be done to
+           make the microfinance sector a true instrument for financial inclusion.
+           12
+              For example, while most financial intermediaries in Kenya, Tanzania, Pakistan, China Bangladesh, Philippines, are
+           using unstructured data to inform lenders and extend credit to those who were excluded from the formal system, this is
+           still not possible in Niger because of scarcity of information, limited awareness of financial institutions on these new
+           solutions offered by new technologies to advance finance inclusion.
+           13
+              IMF FAS data
+
+Oct 28, 2019                                                                                                                   Page 7 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+           Gender focus
+
+           14. Niger faces persistent and strong digital gender gaps. With regards to the digital inclusion of women,
+               there are strong socio-economic gender inequalities in Niger, and socio-economic gender inequality also
+               permeates in the ICT sector: in 2017, some 62 percent of males owned a mobile phone as compared with
+               43 percent of females, which leads to a Gender Parity Index for mobile ownership of 0.69 (the ratio of
+               females to males who own a mobile phone), the third highest gap among SSA Low Income countries (after
+               Ethiopia and Chad). The gender gap in device ownership has a direct impact on women’ access to digital
+               financial services: only 5 percent of women in Niger have a mobile money account against 12 percent of
+               men. This implies a Gender Parity Index for mobile money accounts of 0.44, the second highest after
+               Ethiopia.
+           15. Greater digital inclusion for women can catalyze development by empowering them to pursue new
+               professions, give them access to new markets and economic opportunities, to credit and savings, and
+               to critical government and private services, as well as helping them become more informed citizens.
+               Women in Niger represent an important proportion of the labor force. ILO estimates that around 24
+               percent of women are employed in the agriculture sector.14 Most of them are involved in subsistence or
+               low yield agriculture, due to lack of finance amongst other constraints. They are vulnerable to exploitative
+               trading practices and have weak bargaining positions with buyers due to their limited access to markets,
+               and lack of access to formal means of saving. This applies to all women as they are also vulnerable to
+               security issues due to difficulty to store their financial resources and a lack of digital literacy. There is a
+               particularly high incidence of gender-based violence (GBV) in Niger, as discussed in Annex 3 of the PAD.
+                 Figure 3: Mobile penetration rate by gender and          Figure 4: Penetration of mobile money accounts by
+                      Gender Parity Index, as % pop., 2017                      gender and Gender Parity Index, 2017
+
+
+
+
+               Source: Gallup World Surveys.                            Source: World Bank Findex (2017).
+               Note: Penetration based on a survey of the population.   Note: Penetration rates in Mauritania are too low to show
+                                                                        a gender gap.
+
+
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+
+
+           14
+              International Labor Organization, Women and Men in the Informal Economy: A Statistical Picture, 2013 (online
+           link).
+
+Oct 28, 2019                                                                                                                 Page 8 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+  The project aims at increasing access to cellphone and broadband services in rural areas and bringing digital financial
+  services in selected underserved areas..
+
+   Key Results
+         16. The proposed PDO-level results indicators for the project would include:
+                    A. Mobile broadband (3G and above) penetration rates (SIM cards per 100 inhabitants), including
+                       the percentage of female users;
+                    B. Mobile broadband (3G and above) network coverage (% of population covered);
+                    C. Number of people newly-connected with mobile broadband services, as a result of the project;
+                    D. Number of adults with mobile money accounts (of which, women, and those living in rural areas);
+                    E. Average number of digital payment transactions per user per year (and average for female users
+                       and users living in rural areas).
+
+   D. Project Description
+          Component 1 – Enabling environment (estimated cost US$4 million)
+
+           17. This component will support preparation of studies and reforms grouped in two clusters: digital
+               infrastructure / ICT sector and digital financial inclusion. The objective of these studies will be to assess
+               sectoral bottlenecks that may be preventing the achievement of universal service and contributing to the
+               relatively high retail prices and poor quality of digital services. The component will also provide a
+               diagnostic of the situation and help address some regulatory and legal constraints to the development of
+               digital financial services15.
+           18. Activities on digital infrastructure / ICT sector, to be implemented in close collaboration with MPTEN,
+               ANSI and ARCEP, include:
+                    A. Activity 1.1. Technical assistance to perform a diagnostic of the legal bottlenecks and establish
+                       a strategy to increase private ICT investments, in collaboration with all key stakeholders –
+                       Support, review and assess sectoral telecommunications policy and its implementation, including
+                       the licensing regime, the infrastructure sharing regime, and the opportunity to adopt regulations
+                       to support the installation of telecommunication infrastructures in targeted rural areas.
+                    B. Activity 1.2. Technical assistance to increase the regulator’s capacity (ARCEP) in defining,
+                       monitoring and enforcing the coverage obligations of mobile operators – the technical
+                       assistance will provide a diagnostic of the existing coverage obligations and of the capacities of
+                       ARCEP in monitoring and enforcing them, and will provide recommendations on how the
+                       definition, monitoring, and enforcement of coverage obligations could be enhanced to further
+                       increase the coverage of mobile networks in rural areas.
+                    C. Activity 1.3. Technical assistance to increase the efficiency of the universal service fund (USF)
+                       and to develop a national digital equity strategy – support a more comprehensive and
+                       sustainable approach to universal service, including measures of affordability, accessibility and
+
+           15
+             As legal and policy matters related to financial services in Niger must pay close attention to the rules laid down by the
+           West African regional community of which Niger is a member, the project will also work with the Regional Central
+           Bank (BCEAO), the Ministry of Finance (MOF), and ANSI.
+
+Oct 28, 2019                                                                                                                    Page 9 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+                       availability of service, and support to establish a National Digital Equality Strategy, providing a
+                       diagnostic of the digital gender gap and accessibility gaps for other vulnerable populations, such
+                       as the elderly and those living with disabilities, with actionable recommendations that will inform
+                       policymakers and support the subsequent implementation of project components.
+                   D. Activity 1.4. Capacity building for senior Government officials on the digital economy - Support
+                      capacity building of senior government officials to design, implement and evaluate policies and
+                      regulations to support the development of the digital economy, including developing strategies
+                      to improve device affordability (as a prerequisite to reach the rural population), and to support
+                      for digital expansion and interconnection in the WAEMU/ECOWAS trading area.
+           19. Activities on digital financial inclusion, to be implemented in close collaboration with the Ministry of
+               Finance and the Central Bank, include:
+                   A. Activity 1.5. Support for the creation of a conducive legal framework - Support for the revision
+                      or introduction of laws related to e-signature, data protection, cybersecurity, consumer
+                      protection and digital financial services, in accordance with the Central Bank regional regulations
+                      and aligned with the international standards, to support the development of digital finance.
+           Activity 1.6. Digital addressing - Conducting a study to assess the possibility to use digital addressing
+           systems for populations in rural areas (who do not have formal addresses) and piloting this new system
+           with selected financial institutions
+
+           Component 2 – Rural Connectivity (estimated cost US$63 million)
+
+           20. This component aims to develop connectivity in rural areas, in particular for the approximately
+               6,092 villages, with a total population of 1.9 million, that lack any form of telecommunications coverage
+               under a Mobilizing Finance for Development (MFD) approach. The lack of coverage is the primary binding
+               constraint that explains why digital services are not more widely accessed and used in rural Niger. There
+               are many other constraints, such as lack of electrification, unaffordability of services, lack of compelling
+               local content and applications and appropriate digital skills / literacy programs. While providing coverage
+               will not solve these other problems, it will at least open up possibilities for access and for community
+               services, government services and entrepreneurship to develop. To tackle the lack of power supply,
+               telecommunication networks bring their own power to offer the service and the project embeds an
+               approach to moderately over-dimension the power supply installed to run the local digital connectivity
+               infrastructure and to leverage on other operations fostering off-grid energy access.
+           21. Extending the coverage of mobile communications to these 1.9 million people currently unserved (almost
+               ten per cent of the population) will bring direct benefits in terms of enhanced security as it will enable
+               vulnerable populations to report in real-time what problems and threats they may be experiencing, as
+               well as enabling them to receive alerts of impending threats (e.g., instructions not to travel in the wake
+               of terrorist incidents). The combination of enhanced connectivity with the provision of digital financial
+               services will also help build resilience and a buffer against social and economic shocks, for instance
+               provided by incoming remittances to vulnerable areas. Because the location of “sweet-spot�? villages
+               corresponds so closely with areas with high rates of poverty, incidence of violence and climate stress, and
+               areas under security risk, the provision of fresh investment and new services will also help in addressing
+               internal geographical disparities in the country. Closing the access gap should, in theory, be the mandate
+               of Niger’s Universal Access Fund (Fonds pour l’Accès Universel, or FAU), to which the operators
+               contribute. However, to date it has made only limited progress.
+
+Oct 28, 2019                                                                                                        Page 10 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+           22. In this first phase of the project, it will not be possible to serve all 6,092 villages. Thus, to benefit from
+               economies of scale, and to optimize the available budget, it is proposed to select some 2,111 candidate
+               “smart villages�? for inclusion in this phase of the project (with scale up opportunities through other
+               donors, from the FAU or through additional financing to this project). The selected villages would be
+               among the 6’092 that are unserved by any type of digital cellular signal (i.e., not even 2G coverage) and
+               the selection would be further refined based on objective criteria as follows:
+                   A. A population of between 250 to 2,500 inhabitants. Table presents an estimated distribution of
+                      uncovered villages by size, and the distribution of the population of these villages is illustrated in
+                      Figures 8 and 9 in Annex 1. The candidate villages for inclusion in Component 2 of the project are
+                      the 2,111 unserved villages – “Sweet-spot�? villages – with between 250 and 2,500 population.
+                      The larger unserved villages (2,500 population plus) would probably be servable by the private
+                      sector (telecommunications operators, specialized tower operators, etc.) without any subsidy for
+                      capital expenditure (CAPEX), if an appropriate enabling policy and regulatory environment were
+                      in place. The project will thus seek to address the bottlenecks that are preventing telecoms
+                      operators from investing in these villages. On the other hand, the smaller unserved villages
+                      (below 250 population) would most likely be uneconomic to serve using today’s technology
+                      without also providing a subsidy on Operational Expenses (OPEX), and, in any case, are home to
+                      fewer than a half a million people. Unless there are specific reasons not to do so (for instance,
+                      localized security concerns) all of these intermediate-sized, or “sweet spot�? villages, of between
+                      250 and 2,500 people, would be covered by the project. There are around 2,111 villages in this
+                      category, and they account for some 1.24 million inhabitants. For reference, some 24’000 villages
+                      in Niger are already covered by at least 2G technology.
+                   B. The sweet-spot villages also correspond to areas that experience vulnerability. Indeed, among
+                      the reasons why these villages are not currently served with mobile coverage is because they are
+                      remote, in areas that are conflict -afflicted, and in which the populations are generally too sparse
+                      and too poor to serve economically. A higher percentage of the sweet-spot villages fall in the four
+                      regions of focus selected in the CPF, namely Tillaberi, Maradi, Zinder and Diffa.
+
+
+                    Table 1: Summary of the 6,092 unserved villages (by ranking the villages by population range)
+
+
+
+
+           Source: Data from ARCEP (2016), analysis from task team.
+                   C. For the digital centers and other activities proposed in Component 3 of the project, a further
+                      criterion is that the villages should be suitable for investment, in the sense that there is already
+
+Oct 28, 2019                                                                                                          Page 11 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+                       a certain degree of momentum, for instance from existing economic activity, ongoing or planned
+                       programs undertaken by development partners, or having good experience with community
+                       mobilization. This would be complemented by efforts to raise awareness of the potential benefits
+                       of digital transformation and mobile money.
+
+
+           23. For the 2,111 or so “Sweet-spot�? villages, an average investment of around $60,000 per village is planned
+               (based on a $63 million budget for this component from IDA). Additional financing could come from the
+               Universal Access Fund (FAU), from other donors and mainly from the operators themselves through
+               parallel financing, based on their competitive bids in the reverse auction (see Box 1). Most of this would
+               go into a CAPEX subsidy to attract investment from the private mobile operators and tower companies
+               and should be sufficient to provide the “light�? technical solution to cover a village. Villages could be
+               grouped in batches according to their characteristics and / or degree of priority and / or geographical
+               area. The lots would be tendered in a sequential manner to take advantage of preliminary lessons learned
+               from the ongoing pilot studies, as well as limitations and difficulties of implementation. It will be
+               important to study the economic sustainability of different models of intervention, both for the mobile
+               operators, and for digital entrepreneurs. For that reason, it is proposed that in the initial phase, different
+               solutions may be provided in four sample zones – each of around 50 villages – to cover an initial set of
+               200 villages. In this pilot phase, commercial bids from operators would be evaluated primarily through a
+               “beauty contest�? approach, based on the innovativeness of the business model and technology proposed.
+               Then, based on an evaluation of progress, the solution that proves the most sustainable would be used
+               in the remaining 1,900 or so villages, divided into four lots of approximately 475 each.
+           24. In addition to basic connectivity, the project will also seek to moderately over-dimension the power
+               supply installed to run the local digital connectivity infrastructure, so that spare electric power could be
+               used for some essential needs (i.e. lights or fans in schools, health centre fridges for the conservation of
+               medicine and food, mobile and electronic equipment recharging stations, etc.). Indeed, as the
+               connectivity infrastructure would most likely be the only powered equipment in many of the targeted
+               villages, the project will ensure that the benefits of sharing the electricity provided for the connectivity
+               infrastructure will spread to the rural communities where they are deployed. One option could be to
+               install moderately over-dimensioned additional solar and battery capacity, allowing for the extra
+               available energy to be purchased by citizen and local businesses. Another option could be to encourage
+               subproject developers and investors in the Smart Villages to submit unsolicited proposals to the National
+               Rural Electrification Promotion Agency (ANPER) for electrification. This will build on Component 2 of the
+               Niger Solar Electricity Access Project (NESAP, P160170) which was designed to create the environment
+               and promote private sector investments in rural electrification. The technology solution would be
+               resolved on a case by case basis but is likely to include isolated solar photovoltaic (PV) systems, with
+               diesel mini-grids as back-up.
+           25. The activities supported under Component 2 are detailed in Annex 1 and would include an initial mapping
+               of the villages (2.1); technical assistance for the development of a strategy for supporting deployment of
+               digital infrastructure in rural areas (2.2); the elaboration of an operations manual (2.3); the actual
+               financing of the infrastructure through the reverse auction mechanism (2.4); and financing for power
+               supply and storage facilities (2.5).
+           26. Change management and support for rural development will play an essential part in the success of the
+               project. The project could use "community relays" or “champions�? and establish EIG (Economic Interest
+
+
+Oct 28, 2019                                                                                                          Page 12 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               Groupings) which could serve as contact points. For example, for the operational and training component,
+               it would be ideal to bring together a multi-disciplinary team from the field who could work with the
+               beneficiaries on the use of the installed equipment, manage top up and electricity resale, or oversee
+               mobile agents and any other related functions. They could also assist with local maintenance.
+           Component 3: Digital financial inclusion (US$28 million)
+
+           27. This component aims at improving access to digital financial services, while maximizing the spillover
+               effect in other (economic and social) sectors in rural areas. The proposed project will focus on selected
+               high-priority, high impact and sustainable initiatives that will: (a) foster the development and adoption
+               of financial services; (b) complement current ongoing activities to support financial inclusion including
+               the Financial Sector Reform and Strengthening Initiative (FIRST) in Niger, agriculture projects (the Niger
+               Agro-Pastoral Export and Market Development Project (PIMELAN) and Climate Smart Agriculture
+               (PASEC); (c) allow inclusion of vulnerable populations and refugees receiving safety nets under existing
+               World Bank programs; and (d) seek to catalyze ongoing efforts to develop economic and social inclusion
+               in rural areas, in particular agriculture. More generally, the proposed activities under component 3 will
+               have synergies and/or complementarities with several Bank projects in Niger (details are provided in
+               Annex 1).
+           28. The design of the component into three subcomponents is grounded on the following considerations (a)
+               the result of World Bank studies on financial inclusion under the FIRST project in Niger; b) successful
+               experiences in the development of digital payments and their impact on financial inclusion in East Africa,
+               particularly Kenya, but also in other WAEMU countries such as Côte d'Ivoire and Mali; and (c) the strong
+               commitment of the Nigerien authorities to the development of the digital economy.
+           Sub-component 3.1: – Creating digital centers and improving the digital financial ecosystem
+
+           29. The project will support the enhancement of the digital financial ecosystem, improving digital financial
+               literacy and improved acceptance of digital payments by merchants. These activities are an essential
+               complement and support for the success of activities under sub-components 3.2 and 3.3 as they will help
+               address some of the main constraints in rural areas including limited awareness for digital financial
+               services and poor digital literacy especially for women, limited or no opportunities to use e-money, and
+               the extremely limited number of mobile money agents, many of whom have liquidity constraints and
+               limited working capital and therefore cannot do cash-out transactions.
+           30. This sub-component will support three main activities:
+                   A. The creation of 150 digital centers which will be physical facilities for delivery of e- financial or
+                      digital services to rural populations. They will operate as multiple-services-one-stop-shops where
+                      remittances, cash-in cash-out and any other financial services, can be undertaken. This could
+                      include, for instance, assistance to rural populations in undertaking digital transactions on mobile
+                      phone and computer, financial and digital education programs, onboarding of merchants for
+                      digitization of their payments, power for mobile-charging, and digital ID registration of rural
+                      populations. While the project will not build and own these centers, it will partner with selected
+                      companies that have strong physical presence in rural areas to operate and manage the digital
+                      centers. These companies will receive sub-grants under the project (i) to acquire, upgrade, and
+                      maintain digital centers in the villages; (ii) cover their operational expenses; and (iii) develop
+                      business models that could allow the digital center to be sustainable even after the closing of this
+                      project. The companies will be selected through a competitive bidding process. Preference will
+
+
+Oct 28, 2019                                                                                                        Page 13 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+                       be given to public or private companies with existing premises in rural areas . Most of the services
+                       delivered in the centers will be free of charge for the rural populations except for power for
+                       mobile charging, and transaction fees for cash-out. To ensure affordability of these fees, the
+                       project will work with mobile finance providers to develop more attractive cost structure for
+                       cash-out transactions.
+                   B. Digital financial and literacy campaign programs . The project will finance digital financial and
+                      literacy campaigns. The deployment of these campaigns will be conducted in local languages, will
+                      use a variety of multimedia (pictures, comics, local radio stations etc.), social media channels
+                      (WhatsApp messages, etc. ...), and will be combined with face to face interactions in the digital
+                      centers. Special attention will be given to the development of content relevant for women. The
+                      project will work with several existing World Bank projects including PRODEC, SWEDD, PACRC
+                      and safety nets programs to deliver the digital and financial literacy programs and accelerate
+                      access to digital financial services to beneficiaries of these projects (see Table 4 in Annex 1).
+
+                   C. Increasing acceptance of digital payments. The project will provide vouchers to merchants,
+                      women groups (“tontines�?) and micro-enterprises to cover up to 90 percent of the costs of the
+                      acquisition of payment devices in villages such as integrated contactless payment solutions.
+                      Preference will be given to merchants, women’s groups and micro-enterprises in the regions and
+                      communes around smart villages, without excluding other regions. Each recipient would be
+                      eligible to receive only one device. Basic eligibility criteria include: volume of transactions,
+                      estimated number of clients or members (for tontines), interest in opening an associated financial
+                      account, registration or recognition by peers or traditional authorities.
+                 Subcomponent 3.2: Digitizing payments and development of new fintech products
+
+           31. This sub-component will comprise (i) digitizing payments made and received by farmers; and (ii)
+               promoting new digital financial products for women and farmers.
+           32. To accelerate digitizing payments made and received by farmers, the project will support:
+                   A. The digitization of payments received by the public agriculture input supplier , CAIMA or large
+                      input suppliers. This will be done by financing the upgrading the back-end processes (ERP system)
+                      and financing 75 percent of the costs of payment devices for wholesalers and their retailers to
+                      allow them to receive digital payments from farmers.
+                   B. The digitization of payments received by farmers from their agriculture federations. This will be
+                      done by financing the creation of an ERP solution and other payment infrastructure to enable 5
+                      agriculture federations to manage the constituency of co-operatives and for the co-operatives in
+                      turn to manage the farmers under them. Priority will be given to agriculture federations in the
+                      value chains with a high number of members in communes and regions around smart villages,
+                      and to value chains supported by other World Bank projects including the Agriculture and
+                      Transformation project PIMELAN (P164509) or other donors to ensure synergies.
+                   C. To ease digital payments transactions, the project will finance the development of a user-friendly
+                      interface between the ERPs and MNOs, existing payment providers, and the digital data platform
+                      (cf. sub-component 3.3).
+                   D. Technical assistance to CAIMA, agriculture federations, financial institutions, and other
+                      stakeholders to improve capacities for digital payments.
+
+Oct 28, 2019                                                                                                        Page 14 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+           33. To promote new digital finance products for farmers and women, the project will offer sub-grants of up
+               to a maximum amount of US$250,00016, through a business competition plan to Fintech companies, and
+               startups. The sub-grants will cover seed funding, operation costs, costs for piloting new digital financial
+               and non-financial solutions for women and farmers for two years. Priority will be given to Fintech or
+               startups which will develop business models around saving groups .Fintech and start-ups companies
+               (local, regional or international) interested in entering or expanding their activities in Niger will be
+               eligible to receive the sub-grants. Also, to be eligible to receive sub-grants for the piloting of new
+               solutions, the Fintech and startups will have to demonstrate that there is not yet a clear business case
+               (e.g serving those populations that are unlikely to be profitable in the first two years). The grantee will
+               be encouraged to partner with financial institutions or similar institutions in Niger to offer financial
+               services.
+           Subcomponent 3.3: Creating digital platforms to enable access for rural populations to formal accounts
+           and to increase access to appropriate financial services
+
+           34. To address the issue related to the scarcity of data and information on rural populations, and the high
+               cost of due diligence and onboarding of rural populations, the project will support the creation of a digital
+               data platform that will collect data on rural populations. The platform will serve for two main purposes:
+               including credit scoring, understanding the financial needs of rural populations and KYC purposes. The
+               digital platform will have two outlets: (i) data platform, and (ii) an e-KYC registry. The digital data
+               platform, to be hosted at the BCEAO and managed by an independent private company, will be made
+               accessible to financial institutions, existing credit bureau and other service providers, following an
+               operation manual in accordance with the regional central Bank (BCEAO) regulations and legal provisions
+               governing data protection in Niger. The manager of the data platform shall be selected together by ANSI
+               and the BCEAO and shall be a private entity specialized in e-KYC or credit scoring that has no conflict of
+               interest and is fully trusted by lenders to be predictive, independent and reliable given its responsibility
+               to ensure the quality and consistency of data collected.
+
+
+           35. Activities to be financed under this sub-component will include:
+                      −   Data collection;
+                      −    Creation of a digital data platform which will comprise a credit scoring system and a e-KYC
+                          registry;
+                      −   Linking the data platform with digital agriculture payments platforms to be put in place under
+                          sub-component 2, so that all mobile money transactions and non-financial information could be
+                          captured by the data platform especially for credit assessment purpose;
+                      −   Technical support for the implementation of the digital data platform. This will include (i) the
+                          design of algorithms for credit scoring, (ii) the training and on-boarding of the participating
+                          financial institutions, BCEAO, and other stakeholders; (iii) the design of business model to ensure
+                          the financial viability of the platform (iv) support for the development and technical design of
+                          legal, and supervisory frameworks for the development of a data platform covering credit scoring
+                          and e-KYC registry.
+
+
+
+
+           16
+                Based on WB experience on launching new Fintech products in Sub Saharan Countries
+
+
+Oct 28, 2019                                                                                                          Page 15 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               Component 4: Project management and stakeholder capacity building (US$5 million)
+
+           36. This component will support essential project management functions. This will include support for an
+               overall Project Implementation Unit (PIU) including: (a) all aspects of project preparation, management
+               and audit, including fiduciary management and procurement, logistics and operational overhead; (b)
+               communication, production and knowledge management and coordination among project partners; and
+               (c) monitoring and evaluation (M&E) including geolocation of project intervention sites and "Interactive
+               Beneficiary Monitoring" (IBM) schemes. The project will also leverage on the World Bank Geo-Enabling
+               method for Monitoring and Supervision (GEMS) by recruiting a GEMS specialist. GEMS uses open source
+               tools for in-field collection of structured digital data that automatically feeds into a centralized M&E
+               system. Using GEMS systematically allows operations to enhance the transparency and accuracy of M&E,
+               and the accountability of third-party monitoring.
+           37. The PIU will consist of a project coordinator, a financial management specialist, a procurement specialist,
+               an assistant procurement specialist, and accounting specialist, a GEMS / M&E specialist, and a specialist
+               in environmental and social safeguards. In addition, a number of positions will be recruited to reinforce
+               ANSI as the implementing agency. These may include a digital technology specialist, a digital economy
+               specialist, a financial inclusion specialist and a digital payment specialist. This component will also fund
+               capacity building for sector stakeholders, and preparation of bidding documents and contracts. The
+               project coordinator and other staff, including an FM specialist, a Procurement specialist, a safeguards
+               specialist and an accountant, have already been recruited using the project preparation advance (PPA).
+               The new staff are currently working with the PIU from an existing program (PCDS), which is serving as a
+               transitory PIU. It will handover functions to ANSI once the new PIU is functional. ANSI will be the
+               implementing agency, working in close cooperation with the Ministry of Posts, Telecommunications and
+               Digital Economy (MPTEN).
+               Component 5: Contingent Emergency Response Component�? (CERC) (US$0 million)
+
+           38. A fifth component for a “Contingent Emergency Response Component�? (CERC) is added to the project
+               structure. This will have an initial zero value but may be financed during the course of the project to allow
+               for agile response to emerging events. Adding the component in from the beginning, albeit with zero
+               funding, provides for flexibility to respond to crises as they arise. These could include, for instance,
+               humanitarian crises which require the provision of emergency communications services to replace
+               facilities that have been damaged, or to facilitate emergency humanitarian payments using mobile
+               money.
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+   A. Institutional and Implementation Arrangements
+           39. As several institutions are directly concerned by the activities to be carried out, the project would require
+               an effective cross-agency coordination and implementation mechanism. The project will be implemented
+               under the authority of the National Agency of Society Information (ANSI), attached to the Office of the
+               President of the Republic of Niger. ANSI is also responsible for managing the Universal Access Fund (UAF).
+               ANSI has the overall responsibility for the development of the digital economy in Niger, and is well
+               positioned (and in many instances, is already engaged through its role in overseeing the implementation
+               of the Smart Villages Program) to share information and coordinate with all stakeholders in the
+               ecosystem. ANSI will chair the steering committee to be established by Government Decree, with the
+
+Oct 28, 2019                                                                                                         Page 16 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+               MPTEN and Ministry of Finance as Vice-Chairs. Other members of the steering committee will include
+               beneficiary Ministries such as the Ministry of Planning and Economic Development, the Ministry of
+               Agriculture, the Ministry of commerce, BCEAO, and CAIMA. In addition, a technical committee will be put
+               in place for the implementation of the project. This technical committee includes representatives of
+               mobile operators, regulator, sectoral ministries that participate in the steering committee plus the
+               Ministry of Energy, electricity companies, and financial institutions. ANSI would implement component 2
+               in collaboration with MPTEN, which is the Ministry with responsibility for telecommunications policy and
+               component 3 in close collaboration with the Ministry of Finance which is in charge of financial inclusion.
+               A dedicated “Niger Villages Intelligent�? (NVI) PIU has been created and is now functional. It will formally
+               take over the responsibility of the transitional PIU (PCDS) at the time of Negotiations.
+           40. The scale-up of the Smart Villages Project will guide the institutional arrangements that would build on
+               the successful implementation arrangements of the pilot phase project, by using the same PIU and
+               involving the same implementing agencies. The project will need the buy-in of high-level decision makers,
+               especially for sensitive policy changes. Thus, implementation arrangements will take a multi-tiered
+               approach to ensure high level buy-in from the impacted ministries at the highest level, technical
+               acceptance from the various government sectors expert, and on-the-ground buy-in from the village and
+               administration chiefs.
+
+  .
+       F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+       Some 2,111 "sweetspot" villages of between 250 and 2'500 population where there is currently no cellular
+       coverage will be the main locus of intervention. The villages are mapped in the PAD.
+
+
+
+       G. Environmental and Social Safeguards Specialists on the Team
+
+       Demba Balde, Social Specialist
+       Mamadou Diedhiou, Social Specialist
+       Hubert Maurice Waterinckx, Environmental Specialist
+
+
+
+
+       SAFEGUARD POLICIES THAT MIGHT APPLY
+
+       Safeguard Policies                            Triggered?           Explanation (Optional)
+                                                                          Will require construction of radio masts in rural
+                                                                          areas, a few of which may also require additional
+      Environmental Assessment OP/BP 4.01            Yes                  road access, but delivery of equipment by helicopter
+                                                                          is also likely. Chosen sites are typically around 30
+                                                                          m2, on high sites close to villages.
+
+
+
+Oct 28, 2019                                                                                                       Page 17 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+  Performance Standards for Private Sector
+                                                  No                  Not required.
+  Activities OP/BP 4.03
+                                                                      Will require construction of radio masts in rural
+                                                                      areas,a few of which may also require additional
+  Natural Habitats OP/BP 4.04                     No                  road access, but delivery of equipment by helicopter
+                                                                      is also likely. Some limited removal of vegetation
+                                                                      may be required.
+                                                                      Rural Niger is characterized by desert rather than
+  Forests OP/BP 4.36                              No
+                                                                      forest areas.
+  Pest Management OP 4.09                         No                  Not required.
+                                                                      Construction work to be carried out is almost
+                                                                      exclusively above ground (cellular masts) and it is
+  Physical Cultural Resources OP/BP 4.11          Yes
+                                                                      not considered likely that any physical cultural
+                                                                      resources (chance finds) would be harmed
+                                                                      There are no known areas inhabited by indigenous
+  Indigenous Peoples OP/BP 4.10                   No                  peoples under the areas where activities are
+                                                                      planned.
+                                                                      Construction of radio masts may require some
+                                                                      minimal resettlement in areas of flat terrain where
+                                                                      the cellular mast is in proximity to a village, but this
+  Involuntary Resettlement OP/BP 4.12             Yes                 is very unlikely as population density is so low. More
+                                                                      likely is a requirement for temporary rehousing for
+                                                                      periods of up to a week if construction work creates
+                                                                      excessive dust or noise.
+  Safety of Dams OP/BP 4.37                       No                  Not required
+  Projects on International Waterways
+                                                  No                  Not required
+  OP/BP 7.50
+  Projects in Disputed Areas OP/BP 7.60           No                  Not triggered
+
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+   A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The main potential impact arises from the construction of additional cellular radio masts and solar panel arrays in rural
+  areas, co-financed by IDA and the private sector. Although the footprint of the masts is quite small (around 30 square
+  meters) and they can be constructed relatively quickly (around one week), and are somewhat removed from
+  settlements (on high sites) the construction work may require some removal of vegetation and construction work may
+  raise some dust and disruption.
+
+  These interventions may result in (a) land acquisition; (b) impact on people and properties. In response to these risks,
+  OP/BP 4.12 (Involuntary resettlement) is triggered.
+
+Oct 28, 2019                                                                                                        Page 18 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  It is expected that the provision of cellular services and off-grid solar electricity in rural areas will lead to a net increase
+  in economic activity over the long term.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  From a technical perspective, satellite or fiber optic communications could be considered as an alternative to cellular,
+  and diesel powered generators could be considered as an alternative to solar panel arrays for powering base stations.
+  However, all of these would have a more negative environmental impact and would be most costly than the proposed
+  solution.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  Borrower capacity to address safeguard issues is limited as this is the first WBG program undertaken by the
+  implementing agency (ANSI). However, they have experience of working with other donors (notably AfDB) and there is
+  plenty of experience from other WBG programs in Niger. It is planned to twin the PIU in ANSI with an existing,
+  effective PIU. Environmental and Safeguards assessments will be commissioned using funds from an anticipated
+  project preparation advance.
+
+  The likely environmental and social impacts require project owners to (a) scope and assess the social impacts
+  associated with sub-projects; (b) undertake census, asset enumeration and valuation of affected properties; (c)
+  determine workable arrangements/framework for compensation payment; (d) Initiate and sustain meaningful
+  consultation with local communities with the aim to creating awareness about the positive and negative impacts of
+  the project; and (e) resolve and/or incorporate stakeholder concerns in project design and implementation; (f) Ensure
+  client has budget for compensation; (g) Hire experienced and well-qualified safeguards personnel etc.
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  It is planned to develop an interactive beneficiary mechanism (IBM) to help manage citizen engagement with the
+  program.
+
+
+   B. Disclosure Requirements
+
+   OPS_EA_DISCLOSURE_TABLE
+   Environmental Assessment/Audit/Management Plan/Other
+                                                                                        For category A projects, date of
+   Date of receipt by the Bank              Date of submission for disclosure           distributing the Executive Summary of
+                                                                                        the EA to the Executive Directors
+   11-Oct-2019                              12-Nov-2019
+
+   "In country" Disclosure
+     Niger
+    11-Dec-2019
+    Comments
+
+
+Oct 28, 2019                                                                                                            Page 19 of 22
+                                        The World Bank
+                                        Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+                    In country disclosure at country office and PIU
+
+            OPS_RA_D ISCLOSURE_T ABLE
+
+
+
+
+            Resettlement Action Plan/Framework/Policy Process
+
+                Date of receipt by the Bank                               Date of submission for disclosure
+                23-Oct-2019                                               04-Dec-2019
+
+                "In country" Disclosure
+                         Niger
+                         11-Dec-2019
+                   Comments
+                    In country disclosure at country office and PIU
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          No
+ OPS_ PCR_COM P_TABLE
+
+
+
+
+          OP/BP 4.11 - Physical Cultural Resources
+          Does the EA include adequate measures related to cultural property?
+          Yes
+          Does the credit/loan incorporate mechanisms to mitigate the potential adverse impacts on cultural property?
+          Yes
+ OPS_IR_ COMP_TAB LE
+
+
+
+
+          OP/BP 4.12 - Involuntary Resettlement
+
+          Has a resettlement plan/abbreviated plan/policy framework/process framework (as appropriate) been prepared?
+          Yes
+          If yes, then did the Regional unit responsible for safeguards or Practice Manager review the plan?
+          Yes
+ OPS_ PDI_ COMP_TAB LE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+
+
+Oct 28, 2019                                                                                                           Page 20 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+   Yes
+   Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+   and accessible to project-affected groups and local NGOs?
+   Yes
+
+
+   All Safeguard Policies
+
+
+   Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+   measures related to safeguard policies?
+   Yes
+   Have costs related to safeguard policy measures been included in the project cost?
+   Yes
+   Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+   related to safeguard policies?
+   Yes
+   Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+   reflected in the project legal documents?
+   Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Timothy John Charles Kelly
+   Lead Digital Development Specialist
+
+   Axel Rifon Perez
+   Young Professional
+
+   Fatoumata Den Lamari Fadika
+   Financial Sector Specialist
+
+   Borrower/Client/Recipient
+   Ministère du Plan
+   Saâdou Bakoye
+   Secrétaire Général
+   bb.saadou@gmail.com
+   Implementing Agencies
+
+
+
+
+Oct 28, 2019                                                                                                    Page 21 of 22
+          The World Bank
+          Niger: Smart Villages for rural growth and digital inclusion (P167543)
+
+
+
+   ANSI
+   Ibrahima Saidou
+   Directeur General
+   ibrahima.guimba@hcntic.ne
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                            Timothy John Charles Kelly
+   Task Team Leader(s):                     Axel Rifon Perez
+                                            Fatoumata Den Lamari Fadika
+   Approved By
+
+   Safeguards Advisor:
+
+   Practice Manager/Manager:                Michel Rogy                            04-Mar-2020
+
+   Country Director:                        Joelle Dehasse                         10-Mar-2020
+
+
+
+
+Oct 28, 2019                                                                                     Page 22 of 22
+

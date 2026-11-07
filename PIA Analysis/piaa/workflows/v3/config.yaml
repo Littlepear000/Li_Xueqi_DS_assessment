@@ -1,0 +1,61 @@
+name: "v3 - DDAT coding + applied/mentioned check"
+description: >
+  Workflow v2 (sentence-level DDAT coding) plus an adoption check: for every project x approach
+  the model re-reads about one page of context around the strongest evidence and decides whether
+  the project APPLIES the approach or only MENTIONS it (future plan, vision, other programme,
+  lesson, option considered, parent project). Only applied approaches at L2/L3 count in headline figures.
+
+llm:
+  model: claude-sonnet-4-5
+  temperature: 0.0
+  max_tokens: 6000
+
+documents:
+  include_types: [PAD, ProjectPaper, PID, ProgramDocument, ICR, ISR]
+  max_per_type: {ISR: 2}
+
+screening:
+  dimensions: [enabling_technologies, innovation, innovation_cycle]
+  high: 4
+  moderate: 2
+
+candidates:
+  semantic_backend: auto
+  semantic_threshold_embedding: 0.45
+  semantic_threshold_tfidf: 0.15
+  drop_boilerplate: true
+  max_candidates_per_project: 400
+
+classify:
+  batch_size: 20
+  parallel_batches: 6
+  cache_taxonomy: true
+
+aggregation:
+  headline_levels: [L2, L3]
+  max_rows_per_approach_kept: 8
+
+adoption:
+  context_pages: 1            # pages (~3,200 chars each) of context around the strongest sentence
+  parallel: 6                 # concurrent adoption checks within one project
+  check_levels: [L1, L2, L3]  # which approaches are checked (all); L1-only approaches are "mentioned" unless the model disagrees
+  min_confidence_applied: 0.5 # below this, "applied" is downgraded to "mentioned / unclear"
+
+replication:
+  explicit_reference: true
+  similarity: true
+  similarity_threshold: 0.30
+  max_links: 5
+
+steps: [screen, select_documents, segment, candidates, classify, aggregate, adoption, map_solutions, replication]
+
+steps_meta:
+  screen:           {kind: python, label: "Keyword screen", summary: "Innovation keyword dictionary (working paper) -> tier; informational only", inputs: [documents], outputs: [innovation_tier]}
+  select_documents: {kind: python, label: "Select documents", summary: "All PAD / Project Paper / PID / Program Document / ICR; newest 2 ISRs", inputs: [document index], outputs: [documents]}
+  segment:          {kind: python, label: "Segment", summary: "Sentences with char offsets, position and context; boilerplate flagged", inputs: [documents], outputs: [sentences]}
+  candidates:       {kind: python, label: "Keyword + semantic match", summary: "21 DDAT keyword lists (EN/FR/ES/PT) and TF-IDF / embedding similarity", inputs: [sentences], outputs: [candidate sentences]}
+  classify:         {kind: llm, label: "Classify sentences", summary: "Batches of 20 candidates; DDAT taxonomy + exclusions in a cached system prompt; code, L1-L3, status, reason", prompts: [00_system, 01_classify], inputs: [candidate sentences], outputs: [AEC rows, exclusion log]}
+  aggregate:        {kind: python, label: "Aggregate", summary: "AEC rows -> one approach per project x DDAT code; highest evidence level", inputs: [AEC rows], outputs: [approaches]}
+  adoption:         {kind: llm, label: "Applied vs mentioned", summary: "Re-read ~1 page around the strongest sentence; applied or mentioned (+ reason category); re-stated evidence level", prompts: [03_adoption], inputs: [approaches, documents], outputs: [adoption attribute]}
+  map_solutions:    {kind: llm, label: "Map solution / pillar", summary: "Note 2: direct mapping or model choice among candidate solutions -> pillar", prompts: [02_solution], inputs: [approaches], outputs: [category, category_solution]}
+  replication:      {kind: python, label: "Replication scan", summary: "Explicit cross-references + TF-IDF similarity against the portfolio store", inputs: [approaches, portfolio store], outputs: [replication links]}

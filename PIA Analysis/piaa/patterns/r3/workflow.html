@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Pattern workflow r3</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+code{background:#eef1f5;padding:1px 4px;border-radius:3px}.note{background:#eef6ff;border-left:4px solid #2f6fed;padding:8px 12px;border-radius:0 6px 6px 0}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}</style></head>
+<body>
+<h1>Pattern workflow r3 - replication (confirmed / likely) and scaling, database only</h1>
+<p class="note">Runs once over the whole review database and reads <b>no documents</b>: every validated approach already carries its evidence passages (up to four), the explicit project references found when it was extracted, and its project's country, sector and approval date. The result is <b>two columns per approach</b>: <code>replication</code> (level + source project) and <code>scaling</code> (source project).</p>
+
+<h2>Definitions</h2>
+<table>
+<tr><th>Column</th><th>Value</th><th>Rule</th></tr>
+<tr><td rowspan="2"><b>Replication</b></td><td><b>confirmed</b></td><td>The approach's passages state directly that the project replicated, applied, used or learned from an approach of an <b>earlier</b> project. The strongest form names that project (P-code or title); a clearly identifiable earlier operation also counts. The source project ID is recorded (inside or outside the portfolio).</td></tr>
+<tr><td><b>likely</b></td><td>The passages say the approach draws on earlier experience <b>without naming a project</b>, and a closely matching (verified) earlier approach exists in a project of a <b>different country</b>. That project is recorded as the probable source.</td></tr>
+<tr><td><b>Scaling</b></td><td><b>scaling</b></td><td>The same approach (verified by the model) exists in an <b>earlier</b> project of the <b>same country and the same sector</b>. The earliest such project is recorded as the source.</td></tr>
+</table>
+
+<h2>Steps</h2>
+<ol>
+<li><b>Build corpus.</b> Validated approaches (rejected / mentioned-only excluded) with their passages, explicit references (<code>replication_json</code>, found by the Approach Spot workflow when it read the full documents), country, sector, FY.</li>
+<li><b>Find cues.</b> Rules scan the passages for replication language (replicate, based on the experience of, modelled on, lessons from ...), scaling language (scale up, nationwide, roll-out ...), P-codes and project names from the project list.</li>
+<li><b>Match earlier approaches.</b> Semantic similarity (sentence embeddings, else TF-IDF) between each approach and the approaches of projects approved <b>before</b> it; same sector / category add a small bonus. The best five candidates are kept.</li>
+<li><b>Judge.</b> One model call per approach that has a cue, a reference or candidates. The model sees the passages, the cues and the candidate list and returns (a) the replication level with the source project / text / verbatim quote and (b) for each candidate whether it is the same approach, with a confidence. Judgements are cached.</li>
+<li><b>Two columns.</b> Rules finish the job: <i>confirmed</i> needs an identifiable source (otherwise downgraded to <i>likely</i>); <i>likely</i> needs a verified same approach in an earlier project of another country (otherwise dropped); <i>scaling</i> needs a verified same approach in an earlier project of the same country and sector. Verified links also form same-approach groups for the charts.</li>
+<li><b>Story tables.</b> By sector, region, country and fiscal year, with confirmed and likely counted separately.</li>
+<li><b>Write.</b> <code>result.json</code>, <code>approaches.csv</code> (the two columns) and the other tables; the columns are also written into the database (<code>approaches.replication_label</code>, <code>approaches.scaling_label</code>).</li>
+</ol>
+<p>Cost: one call per approach (about 3-5k tokens), so a full portfolio of a few hundred approaches is a few minutes. Without an API key the model step is skipped and only cached judgements are used.</p>
+<p>Limits: only what the passages say is found - a project that reuses a design without saying so appears, at best, as a verified same approach without a link type. Sources outside the portfolio keep their P-code but cannot be checked.</p>
+</body></html>

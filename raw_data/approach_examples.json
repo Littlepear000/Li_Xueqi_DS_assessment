@@ -1,0 +1,32 @@
+{
+  "enabled": true,
+  "updated_at": "2026-11-06T20:54:33Z",
+  "good": [
+    {
+      "text": "In the absence of a social registry with sufficient coverage in urban and peri-urban areas, the RRR is being developed through two key innovations: (a) geographic targeting based on poverty maps—1,163 of the poorest urban wards with a total population of over 20 million people were selected based on the ward-level poverty maps produced by applying cutting-edge machine learning algorithms to granular satellite imagery data,27 and (b) mobile-based self-registration—potential beneficiaries in the selected wards were invited to self-register through an unstructured supplementary service data (USSD) application through targeted and localized short message service (SMS) blasts in the selected wards.",
+      "category": "",
+      "note": "",
+      "project_id": ""
+    },
+    {
+      "text": "Progress includes adjustments to (Number) achieving targets homogeneous areas, methodological validation for estimating value per square meter, and technical coordination with MEF on machine learning models.",
+      "category": "",
+      "note": "",
+      "project_id": ""
+    }
+  ],
+  "bad": [
+    {
+      "text": "1. For those without an existing bank account, the project has partnered with financial institutions to leverage their agent network to provide an adequate transactional account",
+      "category": "",
+      "note": "This is not an innovation",
+      "project_id": ""
+    },
+    {
+      "text": "(a) Type 1: Beneficiaries without a transaction account, who have no/limited access to mobile connectivity or financial access points (b) Type 2: Beneficiaries without a transaction account who have access to financial access points and mobile connectivity (c) Type 3: Beneficiaries with an existing bank transaction account who have access to financial access points and mobile connectivity.",
+      "category": "",
+      "note": "",
+      "project_id": ""
+    }
+  ]
+}

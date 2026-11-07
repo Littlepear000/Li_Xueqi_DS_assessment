@@ -1,0 +1,981 @@
+﻿          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+                        Project Information Document (PID)
+
+
+                       Appraisal Stage | Date Prepared/Updated: 06-Nov-2019 | Report No: PIDA26509
+
+
+
+
+Sep 29, 2019                                                                                         Page 1 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                   Project Name                 Parent Project ID (if any)
+   Pacific Islands                               P168122                      Statistical Innovation and
+                                                                              Capacity Building in
+                                                                              Pacific Islands
+   Region                                        Estimated Appraisal Date     Estimated Board Date         Practice Area (Lead)
+   EAST ASIA AND PACIFIC                         04-Nov-2019                  11-Feb-2020                  Poverty and Equity
+
+   Financing Instrument                          Borrower(s)                  Implementing Agency
+   Investment Project Financing                  Pacific Community -          Statistics for Development
+                                                 Statistics for Development   Division - Pacific
+                                                 Division                     Community
+
+   Proposed Development Objective(s)
+
+   To improve the quality of welfare data collection and accessibility to comparable welfare data in the Pacific Island
+   Countries.
+
+   Components
+   Support to the Pacific Statistics Methods Board
+   Institutional Strengthening and Implementation Support
+   Alternative data collection methods
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                             4.40
+   Total Financing                                                                                                                4.40
+                             of which IBRD/IDA                                                                                    4.40
+   Financing Gap                                                                                                                  0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                                 4.40
+
+
+Sep 29, 2019                                                                                                                 Page 2 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+         IDA Grant                                                                                                                        4.40
+
+   Environmental and Social Risk Classification
+   Low
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+   B. Introduction and Context
+
+          1.      The Pacific Island Countries (PICs) are characterized by small populations spread across vast
+          areas. There are twelve Pacific Island Countries that are members of the World Bank: Papua New Guinea
+          (PNG), Fiji, Kiribati, the Republic of the Marshall Islands, Federated States of Micronesia, Nauru, Palau,
+          Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu. Excepting PNG, whose population estimates range
+          between 8 and 12 million, these countries have a combined population of about 2.5 million spread across
+          640 inhabited islands over an ocean area of more than 30 million square km, equivalent to 15 percent of
+          the globe’s surface and approximately the same as the combined area of China, Canada, and the United
+          States. Each of these countries share similar challenges and opportunities as small and remote island
+          economies. They are small in size with limited natural resources, narrowly-based economies, large
+          distances away from major markets, and vulnerable to external shocks; all of which can affect growth and
+          have often led to a high degree of economic volatility.
+
+          2.      Within the Pacific region, there is substantial heterogeneity between countries. Buoyed by
+          tourism from Asia and the United States, Palau is the wealthiest country in the region, with a higher GDP
+          per capita than the average for developing countries in the East Asia and Pacific (EAP) Region (see Figure
+          1) and similar to countries in Central Europe. In contrast, Kiribati, an atoll country increasingly impacted
+          by climate change, has the lowest GDP per capita in the region with a value closer to those found in sub-
+          Saharan Africa. There are also differing access to opportunity. Though the total number of Pacific-born
+          migrants living in OECD countries is now more than 400,000, nearly all (79 percent) come from three
+          countries: Fiji, Samoa, and Tonga.1 An additional 15 percent come from countries with open access
+          agreements to the USA through their Compacts of Free Association (FSM, Marshall Islands, and Palau).
+
+
+
+
+          1Curtain, Richard Leigh; Dornan, Matthew Selwyn; Doyle, Jesse Jon Gerome; Howes, Stephen. 2017. Labour mobility: the ten
+          billion dollar prize (English). Pacific possible series; background paper no. 1. Washington, D.C.: World Bank Group.
+          http://documents.worldbank.org/curated/en/171661503669342316/Labour-mobility-the-ten-billion-dollar-prize
+
+Sep 29, 2019                                                                                                                         Page 3 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+                                              Figure 1: GDP per capita 2018 (Current USD)
+
+                                            PALAU
+                                           NAURU
+                           EAST ASIA & PACIFIC*
+                                               FIJI
+                                           SAMOA
+                                            TONGA
+                              MARSHALL ISLANDS
+                                           TUVALU
+                          MICRONESIA, FED. STS.
+                                         VANUATU
+                             PAPUA NEW GUINEA
+                               SOLOMON ISLANDS
+                                          KIRIBATI
+
+                                                      0               5000                  10000    15000
+                          * EXCLUDES HIGH INCOME
+
+
+
+          3.       More and better data is required to explore the heterogeneity within countries. There are often
+          important differences between the populations living on the “outer islands�? compared to those living on
+          the main island. Those living on the outer islands typically do not have the same access to public services,
+          infrastructure, and economic opportunities, and are therefore more vulnerable and more likely to suffer
+          hardship compared to people living on the main island. There has also been substantial international and
+          inter-island migration in response to climate change and in search of economic opportunities. However,
+          movement to the main island does not necessarily improve quality of life, due to higher costs of living and
+          reduced access to subsistence farming and fisheries in urban areas. Thus, in some countries, poverty rates
+          in urban areas are higher than rural areas. However, the long gaps between survey rounds and data quality
+          issues within the surveys hinder further analysis into the patterns of poverty between urban and rural
+          areas.
+
+          4.      More comparable data is also needed to understand deprivation between countries as well as
+          identify and monitor regional trends. A lack of a central coordinating body tasked with establishing
+          guidelines for the measurement of welfare and socio-economic statistics has led to a lack of comparability
+          between countries and even within countries over time. Technical assistance for collections has come
+          from varying sources, including regional organizations and bilateral and multilateral development
+          partners. Welfare measurement has similarly been outsourced to consultants to undertake this analysis.
+          This has often left little in terms of documentation, which is then often lost by National Statistics offices
+          (NSOs), which leaves little to guide analysts in later rounds. The result is that it is often difficult to use
+          poverty and welfare statistics to do cross-country comparisons or to monitor regional trends.
+
+          5.      The Pacific is a region with substantial gender inequality. The World Economic Forum’s 2017
+          Global Gender Gap includes reporting on Fiji, which was ranked 125th out of 144 countries. Various
+          national surveys point to a large incidence of violence against women, with over half of women in Fiji, the
+          Solomon Islands, Vanuatu, Kiribati, and the Marshall Islands ever experiencing physical and/or sexual
+
+
+Sep 29, 2019                                                                                                          Page 4 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          violence by an intimate partner during their lifetimes. Establishing regional guidelines on questionnaire
+          design and data collection methodologies to facilitate gender disaggregated analysis is key to
+          understanding the economic and social impacts of gender inequality as well as being able to compare
+          between countries.
+
+   B. Sectoral and Institutional Context
+
+          6.       Data deprivation in the PICs hinders evidence-based policy design. Data collection in the Pacific
+          Island countries lags many regions in the developing world in terms of data quality, frequency of
+          collection, and the timeliness of results. This lack of data limits options for a data-driven approach to the
+          design and monitoring of national, regional, and sub-regional development strategies. At the country
+          level, policymakers must consider a range of complex trade-offs regarding service delivery and national
+          investments and must identify priorities in the context of the challenges they face. At the regional and
+          sub-regional levels, development partners attempt to direct limited budgets to the areas of highest need
+          or towards programs with the largest expected impacts. Similarly, efforts at greater regional cooperation
+          and integration are dependent on having sufficient, comparable, and credible information on which to
+          base dialogue. The evidence base for these decisions, however, is very thin.
+
+          7.       Public access to the collected data is another challenge facing the region. Data collection in and
+          of itself is not enough: to maximize the benefits of the data, it must be made accessible to various
+          stakeholders in the government, donor, academic, non-government organizations (NGO), and civil society
+          sectors. Before this can occur, NSOs must first anonymize the data sets to protect the identities of the
+          surveyed households and people. However, anonymization is much more complex in countries with small
+          and highly dispersed populations, as it becomes easier to uniquely identify people based on a broader
+          range of variables. Thus, this process is costlier and more time-consuming in the Pacific, and data sets are
+          often only available several years after the surveys are conducted, if they are made available at all.
+
+          8.       Data deprivation hinders the effort to track progress on gender inequality over time and design
+          policies to address it. The World Economic Forum’s 2017 Global Gender Gap only includes reporting on
+          Fiji – which ranked 125th out of 144 – and no other PIC. Sex-disaggregated data on labor force participation
+          is only available in five PICs: Fiji, Samoa, Solomon Islands, Tonga, and Vanuatu, as can be seen in Table 1
+          below. Thus, any effort to improve the monitoring of gender outcomes and design of gender-specific
+          policies must include improvements in data collection.
+
+
+
+
+Sep 29, 2019                                                                                                         Page 5 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+               Table 1. Presentation of sex-disaggregated data in reporting based on latest Household Income and Expenditure
+                                                                 Survey (HIES)
+               Country       Latest                                    Sex-disaggregated indicator
+                             HIES/                                         Health        Labor      Mobile        Total # of
+                                           Poverty rate    Education
+                             poverty                                      access or      force      phone      disaggregated
+                                           by gender of & poverty,
+                             report                                       outcomes     stats, by   ownership    indicators in
+                                             HH head         by sex
+                                                                           by sex         sex        or use      document
+               Fiji          2013/14             N             N              N            N           N              0
+               FSM           2013/14             Y             N              N            N           N              1
+               Kiribati      2006                Y             N              Y            Y           N              5
+               Nauru         2012/13             Y              Y             Y            Y           N              6
+               Palau         2014                Y
+                                                               N              N            N           N              3
+                                          (expenditure)
+               RMI           2002           Y (income)          Y             N            Y           N              8
+               Samoa         2012/13             Y              Y             N            Y           N              3
+               Solomon       2012/13
+                                                 Y             N              N            N           N              1
+               Islands
+               Tonga         2015/16             N             N              Y            Y            Y             5
+               Tuvalu        2015/16             N              Y             Y            Y           N             11
+               Vanuatu       2010                Y              Y             N            Y           N              6
+
+          9.       National Statistics Offices (NSOs) lack funding to meet the prohibitive costs of data collection in
+          the Pacific. The per-interview costs of data collection in the Pacific are some of the highest in the world.
+          These outcomes are partially the result of systemic issues common to the region, including sparse
+          populations and high travel costs due to the island geography. However, these issues are compounded by
+          outdated methodologies and inefficient use of technology. Although the systemic challenges will remain
+          a significant factor in data collection costs in the Pacific, there is scope to substantially reduce costs by
+          integrating proven methods from other parts of the world. One example is switching from a diary method
+          for collecting consumption data to a recall method, which can reduce the number of days required at each
+          location, thereby decreasing personnel costs, a significant component of the survey budget. In addition,
+          integrating new technology, such as Computer Assisted Personal Interviewing (CAPI), reduces the need to
+          print and transport paper questionnaires, which has decreased the costs of data collection in certain
+          contexts despite the upfront cost of hardware investment.
+
+          10.      Low statistical capacity is another major challenge in addressing data deprivation. According to
+          the World Bank’s Statistical Capacity Index2, the PICs rank below the EAP developing country average. In
+          particular the scores for Source Data, which measures if a country meets international recommendations
+          for collecting five key data sources (agricultural census, health survey, population census, poverty survey,
+          and vital registration system coverage), are well below the EAP average (see Figure 2).
+
+
+
+          2The World Bank’s Statistical Capacity Indicator is a composite score assessing the capacity of a country’s statistical system . It is
+          based on a diagnostic framework assessing the following areas: methodology; data sources; and periodicity and timeliness.
+          Countries are scored against 25 criteria in these areas, using publicly available information and/or country input. The overall
+          Statistical Capacity score is then being calculated as simple average of all three area scores on a scale of 0-100. See
+          datatopics.worldbank.org/statisticalcapacity for more detail.
+
+Sep 29, 2019                                                                                                                                  Page 6 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+                                                         Figure 2: Statistical Capacity Index (2018)
+                                             100
+                     East Asia & Pacific*    90
+                     Kiribati
+                     Marshall Islands        80
+                     Micronesia, Fed. Sts.   70
+                     Nauru
+                                             60
+                     Palau
+                     Papua New Guinea        50
+                     Samoa
+                                             40
+                     Solomon Islands
+                     Tonga                   30
+                     Tuvalu
+                                             20
+                     Fiji
+                     Vanuatu                 10
+                                               0
+                                                      METHODOLOGY                PERIODICITY              SOURCE DATA     STATISTICAL
+                                                       ASSESSMENT                                                       CAPACITY INDEX
+                * EXCLUDES HIGH INCOME
+
+                                             Source: World Bank, datatopics.worldbank.org/statisticalcapacity
+
+
+          11.     There has been some improvement in statistical capacity over time, but results have not been
+          sustained. Figure 3 below shows the overall SCI rating for the twelve PICs from 2005 to 2018, where
+          countries have shown uneven progress. Since the measure depends on the periodicity of data collection,
+          countries will improve immediately after completing a survey, but because funding is irregular and often
+          sourced from development partners, the periodicity cannot reliably be maintained, and the SCI score falls
+          again as the data ages. To break this cycle and increase sustainability, data collection must become more
+          affordable.
+
+                                                     Figure 3: Statistical Capacity Index (2005 - 2018)
+
+                     East Asia & Pacific*
+                                               85
+
+                     Fiji
+                                               75
+                     Kiribati
+                     Marshall Islands
+                                               65
+                     Micronesia, Fed. Sts.
+                     Nauru                     55
+                     Palau
+                     Papua New Guinea          45
+                     Samoa
+                     Solomon Islands           35
+                     Tonga
+                                               25
+                     Tuvalu
+                     Vanuatu
+                                               15
+               * EXCLUDING HIGH INCOME              2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+                                             Source: World Bank, datatopics.worldbank.org/statistical capacity
+
+
+
+Sep 29, 2019                                                                                                                   Page 7 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+          12.      Given the shared challenges and small size of the countries, a common approach is needed.
+          While implementing harmonized methods and exploiting economies of scale have benefits in many parts
+          of the world, the approach is particularly crucial in the Pacific context. Countries are small and NSO
+          capacity is thin, limiting the opportunities for domestic initiatives. Pacific Island countries also have many
+          similarities, while being very distinct compared to other contexts globally. This situation limits the
+          applicability of importing international best practice without careful consideration and customization.
+          However, it can provide immense opportunities for rapid adoption and scale-up within the Pacific region
+          after local best practices are identified and tested. Considering these conditions, the most impactful
+          approach to promoting regional and national data-driven policy is to empower a credible and established
+          regional partner to lead the agenda.
+
+          13.      This Project will thus be part of a new IDA Regional Program that seeks to address the
+          considerable challenges of data deprivation and poor quality of statistics across the PICS. In the first
+          phase, the Pacific Community – Statistics for Development Division (SPC-SDD) will work with two IDA small
+          states - Kiribati (also a Fragile and Conflict-Affected Situation) and Tonga - to initiate the Regional IDA
+          program. It is expected that additional countries will join the Program, with the ultimate objective of
+          improving the comparability, accessibility, sustainability and overall quality of statistics across the Pacific.
+
+          14.      SPC-SDD is a key stakeholder in addressing the statistical capacity gap in the region, but it too
+          suffers from resource and capacity issues. SPC-SDD’s primary goal is to “strengthen access to and use of
+          development statistics in policy development and monitoring progress.�? SPC-SDD is charged with
+          providing direct support to NSOs in the PICs in conducting data collection, including household surveys,
+          censuses, administrative statistics, price measures, etc., for their 21 member countries and territories (12
+          of which are World Bank members)3. SPC-SDD has a six-member Statistical Collection team which provides
+          technical assistance on household survey and census rounds, as well as in cleaning and compiling the data.
+          As the complexity of surveys and frequency of data collection has increased in recent years, SPC-SDD has
+          found itself lacking the human and financial resources, as well as the technical capacity, to provide this
+          retail support to its member countries in an adequate manner, particularly regarding improved methods
+          and data analysis. Therefore, the Pacific region lags other parts of the world in adopting new surveying
+          methods and implementing technological improvements.
+
+          15.     The SPC-SDD 2018-2020 Business Plan marks a shift in SPC-SDD’s role to a “statistical system
+          leader.�? The Statistics for Development Program (later Division) was created in November 2012 based on
+          the recommendations of an independent external review of SPC’s engagements, citing the cross-cutting
+          importance of statistics for policy development and investment decisions. At that time, it was recognized
+          that most member countries would struggle to conduct major collections in the absence of the support
+          provided by SPC-SDD. The 2018-2020 Business Plan revisits those conditions considering the advances
+
+          3 The Pacific Island Countries and Territories that are SPC members include: American Samoa, Cook Islands, Federated States of
+          Micronesia, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Mariana Islands,
+          Palau, Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, and Wallis and Futuna. Highlights
+          indicate WB member states, with underlines indicating IDA countries. SPC membership also includes Australia, France, New
+          Zealand, Pitcairn Islands, and the United States of America.
+
+Sep 29, 2019                                                                                                                         Page 8 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          that some countries have made since 2012. Going forward, SPC-SDD will shift from its retail approach to
+          a role as “coordinator, broker, convener, promoter and system leader�? fo r statistics in the PICs. Rather
+          than providing technical assistance on its own, the Business Plan calls for SDD to leverage the technical
+          expertise of other development partners and international experts through ‘partnership arrangements,’
+          while also playing a leadership role in the harmonization and modernization agenda through improved
+          documentation and coordination, while shifting their retail technical assistance to the small member
+          states.
+
+          16.      The Pacific Statistics Methods Board (PSMB) has potential to accelerate the adoption of new
+          methods for data collection and statistical analysis as well as promote regional harmonization and
+          comparability. The PSMB is a recently-formed body that illustrates the changing role of SDD. The PSMB
+          was formed in 2017 as a technical body under the Heads of Planning and Statistics (HOPS) meeting and
+          the Pacific Statistics Standing Committee (PSSC), reporting its key decisions, progress, and achievements
+          to PSSC during their annual meetings. The purpose of the board is to “ensure that relevant best practice
+          standards are developed and are fit for purpose for use in Pacific Island countries and territories for a
+          suite of core censuses and surveys.�? The terms of reference for the PSMB charge the group with
+          promoting standardization and harmonization in the methodologies adopted by NSOs in the PICs, seeking
+          out opportunities to incorporate the latest innovations in data collection, and conducting rigorous
+          assessments of feasibility and suitability of these new methods to the Pacific context. The members
+          include Statistics New Zealand (chair), the Australian Bureau of Statistics, UN agencies, and one NSO
+          representative from each of the four Pacific regions: Micronesia, Melanesia, Polynesia, and the small
+          island states, with the World Bank holding observer status. The 2017 HOPS meeting tasked SPC-SDD to
+          provide secretariat support to the PSMB.
+
+          17.      SPC has a substantial role to play in improving the availability and comparability of gender
+          statistics in the Pacific. As the main counterpart for statistical capacity building and retail support in data
+          collection and analysis, SPC is able to influence the design of HIES questionnaires and the analytical work
+          published in the subsequent HIES reports and poverty assessments. Beyond the retail support to NSOs,
+          SPC can also improve the accessibility of gender statistics by producing and publishing gender statistics
+          from available datasets in their data portal and other dissemination platforms, as well by establishing best
+          practice guidelines for the measurement of sometimes sensitive gender issues.
+
+   C. Relevance to Higher Level Objectives
+
+          18.     Closing data gaps is a corporate priority for the World Bank Group and for the region. The World
+          Bank Shared Strategy for Household Surveys in 2015 identified the need to address data deprivation
+          globally and committed the WBG to support the 78 IDA countries in the production of multi-topic
+          household surveys every 3 years between 2016 and 2030. In the region, Country Partnership Frameworks
+          (CPF) of Papua New Guinea (WB report no. 128471), Fiji (report no. 139509) and the Solomon Islands
+          (report no. 122600) and the Regional Partnership Framework (RPF) for the nine smaller Pacific Island
+          countries (PIC9)4 (report no. 120479) highlight significant gaps in socio-economic indicators in most of the
+
+          4    PIC9 countries: Kiribati, Marshall Islands, Federated States of Micronesia, Nauru, Palau, Samoa, Tonga, Tuvalu, and Vanuatu.
+
+Sep 29, 2019                                                                                                                                  Page 9 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          PICs. All three documents emphasize the necessity of having a solid foundation for evidence-driven
+          policymaking. In addition, the fact that the nine PICs are evaluated together under a single SCD
+          underscores the need for increased comparability in addition to more frequent data to facilitate regional
+          prioritization and decision-making.
+
+          19.     The RPF for the PIC9 emphasizes the need to address persistent knowledge gaps. The RPF
+          highlighted the lack of concrete information on the prevalence and severity of poverty and the specific
+          nature of constraints faced by the poor, as well as the uneven quality and inconsistent methodologies in
+          HIES implementation and poverty analysis. As such, the RPF explicitly lists addressing knowledge gaps as
+          Objective 4.3 and states the need to: 1) provide technical assistance to NSOs and SPC to enhance their
+          data collection and analysis capabilities, and 2) develop and pilot low-cost survey approaches that are
+          financially sustainable.
+
+          20.      Operationalizing the WBG Gender Strategy requires a data-driven approach. The WBG Gender
+          Strategy document for FY16-23 calls for improved country-level diagnostics on gender gaps in Systematic
+          Country Diagnostics (SCDs) and CPFs, to “highlight how closing the key gender gaps in endowments,
+          economic opportunities, and voice and agency would boost the attainment of the twin goals.�? Improving
+          the quality of country-level and regional-level data are prerequisites to that improvement. Not only should
+          the frequency of data collection be improved for better tracking of progress over time, but the types of
+          data collected and reported should also be improved on issues that disproportionately affect women and
+          girls, such as land rights, access to education, family planning, or health care, and collected in such a way
+          as to facilitate regional comparisons.
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s)
+  To improve the quality of welfare data collection, and accessibility to comparable welfare data in the Pacific Island
+  Countries.
+
+          PDO Level Indicators
+                 (i)     Number of PSMB guidance notes produced and circulated to PIC NSOs.
+                 (ii)    Number of experiment reports produced and submitted to PSMB.
+                 (iii)   Number of regionally comparable welfare indicators published on SPC platforms.
+                 (iv)    Number of harmonized micro datasets published on SPC platforms.
+
+   D. Project Description
+
+          21.      The SPC project will provide USD 4.4 million in grant financing to the Statistics for Development
+          Division of the Pacific Community (SPC-SDD) across three components: 1) to support the administration
+          of the Pacific Statistics Methods Board and the dissemination of its recommendations (USD 1.164 million);
+          2) to strengthen SPC-SDD’s ability to play a “statistical system leader�? role and provide technical assistance
+          on data collection methods (USD 1.662 million); and 3) to promote context-appropriate innovation in the
+
+
+Sep 29, 2019                                                                                                         Page 10 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          region (USD 1.574 million). The components and detailed activities are elaborated below, with the
+          linkages between these three components are illustrated in the following flowchart:
+
+                                                Figure 4. SPC project flowchart
+
+
+
+
+          22.       The key feature of the SPC project is two long-term consultant positions that will be hired to
+          execute the majority of the work across the three components. The two positions are one Welfare
+          Economist and one Statistics Advisor. The two consultants will be financed proportionally from each
+          project component. In addition to the two long-term consultants, a medium-term consultant, a
+          Harmonization Advisor, will be hired under component 2 to initiate microdata harmonization processes
+          to facilitate the production of comparable welfare statistics.
+
+          23.     The core responsibilities of the Welfare Economist will include supporting analysis for and
+          dissemination of national poverty statistics as well as producing regionally comparable statistics. This
+          goal would be further supported by technical workshops to increase capacity in NSOs and consequently,
+          the quality of data and statistics they produce. The technical advice and analysis, for up to nine Pacific
+          Island Countries, may include sample design and poverty estimation, among others. These rarely required
+          but technically demanding skills are more efficiently supported centrally rather than through thinly
+          resourced NSOs for whom it would not be cost effective to invest in their development. In the past there
+          have been issues with poverty estimation, such as the creation of inconsistent consumption aggregates,
+          due to varying technical recommendations and the uncoupled processes for the data cleaning and
+          analysis. By joining these activities under a harmonized set of regional guidelines, it would be possible to
+          increase efficiency and quality in the production cycle of national and regional statistics. To support this
+          kind of integrative work, the Welfare Economist will conduct workshops on topics such as poverty
+          assessments, outliers, non-standard units (NSU) conversions, and time use. The desired outcome is an
+          increase in the institutional capacity of SPC-SDD and the technical capacity of country NSOs.
+
+          24.     The Statistics Advisor will act as the chief advisor on survey methodology for the region and as
+          the main source of technical advice to country-level Resident Advisors. The selected candidate will bring
+          extensive knowledge of the survey methods literature, which will be used to inform both the activities of
+
+
+Sep 29, 2019                                                                                                       Page 11 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          the PSMB (Component 1) and the innovation experiments (Component 3). The focus of this consultant’s
+          work will be on the development, documentation, and dissemination of context-specific best practices,
+          as well as skills transfer to current SPC-SDD and regional NSO staff. In addition, the Statistics Advisor will
+          serve as the focal point for operationalizing the PSMB regional guidelines and will be the first point of
+          contact for the Resident Advisors embedded in the NSO under the country-level projects within this Series
+          of Projects (the first phase of which includes Tonga and Kiribati). Linking the country-level Resident
+          Advisors to a single centralized source of advice will eliminate the heterogeneity in technical assistance
+          that has historically hindered comparability and promote regional harmonization.
+
+          Component 1: Pacific Statistics Methods Board (PSMB) (USD 1.13m equivalent)
+
+          25.       Supporting the running of the PSMB will significantly accelerate the identification and adoption
+          of improved methods by NSOs in the PICs. The PSMB is seen to be a vital component in the new regional
+          statistics governance framework recommended by the 2017 HOPS meeting. The PSMB is tasked with
+          undertaking literature reviews and field experiments to test the viability of new statistical methods in the
+          Pacific context, as well as making recommendations to NSOs based on the results. This approach has
+          benefits to the region on several levels: 1) it introduces a culture of academic rigor in the process of
+          statistical innovations while remaining mindful of the local context and the need for local credibility, 2) it
+          promotes harmonization in the Pacific region by replacing bilateral recommendations from development
+          partners – which can sometimes clash with one another – with a more streamlined process, and 3) it shifts
+          the burden of investment in experimentation from resource-constrained NSOs to a regional body with
+          higher capacity, which also introduces economies of scale.
+
+          26.    The project supports SPC-SDD to provide secretariat functions to PSMB due to its role as the
+          main regional development partner. SPC-SDD’s role in PSMB was decided in the 2017 Heads of Planning
+          and Statistics (HOPS) meeting, as described in Paragraph 14 above. However, SPC is also the regional
+          development partner that is best placed to liaise with all members of the board and organize annual
+          meetings in the Pacific.
+
+          Sub-component 1.1: PSMB Technical Support & Administration
+
+          27.     This project will finance SPC-SDD to provide a secretariat function for PSMB. Under this sub-
+          component, the project will finance the secretariat functions, including: (1) the organization and logistics
+          for PSMB meetings to take place twice a year (either live or by videoconference), (2) setting the meeting
+          agenda and inviting appropriate international experts, as needed, (3) coordinating the papers and reports
+          on Pacific data collection to be reviewed at the PSMB meeting, (4) identifying priorities for further review,
+          and (5) summarizing the meeting discussion into formal minutes and recommendations to be circulated
+          to regional NSOs. A meeting will require a quorum of three of the four regional NSO representatives
+          (Micronesia, Melanesia, Polynesia, and the small island states) and two of the three technical partners
+          (Australia Bureau of Statistics, Statistics New Zealand, and the UN system). This subcomponent does not,
+          however, finance the logistics costs (venue, travel for participants) of the Methods Board meetings
+          themselves.
+
+
+Sep 29, 2019                                                                                                         Page 12 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+          28.     The Statistics Advisor will play a key role in providing technical expertise to the PSMB. As part
+          of PSMB’s function to promote academic rigor in its recommendations for standardizing data collection
+          methods, it may commission additional research to understand and tailor recommendations to the Pacific
+          context. The terms of reference for the Statistics Advisor will require knowledge of both current
+          international best practices in the collection of official statistics as well as contact within the wider survey
+          methodology academic community. The Statistics Advisor will deploy these skills to either perform
+          requested research on priorities for further review, including conducting literature reviews and compiling
+          information on regional norms, or identifying the appropriate experts in the field to provide
+          recommendations. The project will finance SPC-SDD to contract external expertise to produce these
+          recommendations.
+
+          Sub-component 1.2: Dissemination & Training
+
+          29.     The project will support SPC-SDD to lead the dissemination of best practice recommendations
+          from the PSMB to regional NSOs. The project will support dissemination and training for PSMB
+          recommendations in IDA-eligible countries, with a strong emphasis on implementation as opposed to
+          theory. The activities under this sub-component will take two forms: large-scale regional trainings and
+          country-level and small group workshops.
+
+          30.      Regional trainings will focus on issues common to all countries. Large regional trainings will bring
+          together technical personnel from NSOs across the Pacific region, with project financing limited to IDA-
+          eligible countries, on topics that are of universal interest. An early request is for SPC-SDD to arrange a
+          regional training on the forthcoming PSMB recommendations on monetary poverty measurement related
+          to SDG 1.1.1 and 1.2.1. These trainings will include both theory and practical applications but are not
+          centered on producing country-specific outputs. Since regional trainings are costly, both in terms of
+          financial cost and time of technical staff away from their NSO, these are envisioned to be rare, occurring
+          only 2-3 times during the lifetime of the project.
+
+          31.      Workshops will be conducted at the level of the country or in small groups of neighboring
+          countries. The focus of these workshops will be on applying PSMB recommendations to specific issues
+          that are timely to where the countries are in the survey process. For example, during the planning stage,
+          countries may construct a sample design or receive training in programming advanced checks into the
+          Computer Assisted Personal Interviewing (CAPI) program. In both cases, the participants would leave the
+          workshop with a concrete output, a sample design and CAPI program, respectively, in the case above.
+          Other proposed topics include anonymization, addressing outliers in the data, converting non-standard
+          units, etc. In all cases, economies of scale will be sought to conduct joint trainings, subject to countries
+          being in similar places both in terms of the survey calendar and technical expertise.
+
+          32.      This sub-component also includes the work to improve the analysis and publication of gender
+          statistics in the region. Beyond the skill transfer from the consultants to permanent SPC-SDD staff, the
+          expanded human resources will be utilized for training workshops, dissemination activities, and technical
+
+
+Sep 29, 2019                                                                                                           Page 13 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          advice to improve the way statistics are reported and consumed among client countries of SPC. It is
+          anticipated that this deeper engagement with the NSOs in relation to analysis and reporting, beyond data
+          collection, will have lasting impacts on SPC-SDD’s evolving mode of operation in the region, building its
+          role as a regional knowledge leader and coordinator, as well as for the production of comparable and
+          better-quality statistics.
+
+          Component 2: Institutional Strengthening and Implementation Support (USD 1.7m equivalent)
+
+          33.      The second component of activities will support SPC-SDD in its transition to a regional
+          knowledge producer and a leader in the dissemination of data. To fulfill its mission of strengthening
+          access to and use of development statistics in policy development, SPC-SDD would benefit from expanded
+          analytical capacity, provided through the recruitment of the two long-term consultants. In addition, this
+          component includes funding for existing SPC staff to support the technical and administrative
+          implementation of the project as well as funding to strengthen SPC-SDD’s ability to provide remote
+          training to NSOs and other office related costs essential to the administration of the project.
+
+          Sub-component 2.1: Expanding Technical Capacity of SPC-SDD
+
+          34.     This sub-component will build SPC-SDD’s technical capacity to support Pacific Island Countries
+          on welfare data collection, analysis, and dissemination. This capacity building will be provided through
+          a Welfare Economist, who will (1) provide direct support to build country capacity on data collection and
+          analysis, which includes the implementation of PSMB-recommended methodological innovations and the
+          production of comparable statistics for key indicators, and (2) provide training and day-to-day mentoring
+          to SPC-SDD staff in these methods. In addition, a Harmonization Advisor will be hired to create comparable
+          indictors and micro-datasets to promote data use in the region. Additionally, the Welfare Economist’s job
+          description includes developing a network of academics and consultants in the region with the relevant
+          experience and skills to provide ad hoc and short-term technical assistance to NSOs in the Pacific.
+          Maintaining an updated roster of consultants will speed up the recruitment process in response to urgent
+          requests for support from NSOs in the Pacific.
+
+          35.      The sub-component additionally funds a Harmonization Advisor to support SPC-SDD in
+          expanding the accessibility of comparable welfare data in the region. Currently the SPC-SDD archives
+          include 96 HIES and census datasets, but only a small number are available to data users. To promote
+          greater access, the project will fund a Harmonization Advisor long term consultant to develop a set of
+          comparable indicators from these datasets to populate the new Pacific Data Hub. The Harmonization
+          Advisor will also produce guidelines, covering topics such as harmonization and anonymization, for the
+          SPC-SDD to ensure that indicators from newly collected data can be added to the Data Portal. In addition,
+          to date SPC-SDD has received permission from NSOs to disseminate the anonymized microdata for
+          approximately one-third of the 96 datasets, subject to a data license agreement, and expects this number
+          to continue to grow. For those surveys which SPC-SDD has permission to disseminate, the Harmonization
+          Advisor will construct harmonized micro-datasets for dissemination. The additional step of harmonization
+          is included to promote use in a capacity constrained region.
+
+
+Sep 29, 2019                                                                                                     Page 14 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+          36.     This sub-component also targets the expansion of the number of gender statistics than can be
+          comparably calculated in the region. The ToRs for both the Welfare Economist and the Harmonization
+          Advisor hired under the project will also explicitly include training on the production of gender indicators,
+          so that a higher number of gender indicators can be published in the Data Hub, SPC-SDD website, and
+          other dissemination platforms used by SPC.
+
+          Sub-component 2.2: Current Staff Support
+
+          37.     The project will finance technical and operational support needed to implement and manage
+          the project. The project will finance SPC’s resources – including FM, procurement, human resources,
+          safeguards, monitoring and evaluation, and senior management – that are required for the successful
+          implementation and management of the project. This support will be provided under two modalities:
+          Recurrent Technical Staff and Corporate Support. The Recurrent Technical Staff modality will be based on
+          the arrangements outlined under the PREP II project while the Corporate Support modality is unique to
+          this project. Recurrent Technical Staff will be limited to a list of six technical positions: Director of SPC-
+          SDD; Manager, Data Analysis and Dissemination; Economic Statistics & Microdata Specialist; Finance and
+          Administration Officer; GIS, Innovation and Dissemination Lead; and Procurement Officer, which will
+          provide direct support to the technical activities of the project, including supervising consultants and
+          providing strategic leadership. Corporate Support refers to those functions which are performed at a
+          corporate level for all of SPC but that nonetheless benefit the project activities. Examples include
+          corporate travel, payroll, etc. The specifics of these modalities will be detailed in the Project Operations
+          Manual (POM). World Bank approval of the POM is a condition for disbursement within this sub-
+          component.
+
+          Sub-component 2.3: Implementation Support
+
+          38.      The project also provides funding for goods and services to support the implementation of the
+          project. Specifically, the project will upgrade two existing SPC meeting rooms in Nouméa to facilitate
+          remote training with NSOs. Videoconferencing equipment, including projectors, screens, and
+          microphones, will be added to the main large training room, allowing for remote participants at large
+          regional workshops hosted at SPC, and the SPC-SDD meeting room will similarly be upgraded with
+          videoconference equipment and other appropriate furnishings as to allow for SPC-SDD staff to provide
+          small group training to NSOs remotely. The companion projects under this program, Statistical Innovation
+          and Capacity Building in Tonga (P171377) and Statistical Innovation and Capacity Building in Kiribati
+          (P171380), similarly include videoconferencing equipment to facilitate this dialogue. In addition to the
+          goods purchases, the project will also fund the necessary ICT support for the long-term consultants
+          (Welfare Economist, Statistics Advisor, and Harmonization Advisor) hired under the project and other
+          office supplies and services necessary to support their work.
+
+          Component 3: Alternative data collection methods (USD 1.57m equivalent)
+
+
+
+Sep 29, 2019                                                                                                         Page 15 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+          39.      Beyond the HIES, the project will support experiments in alternative data collection methods.
+          There are several innovations in data collection that could potentially reduce the costs and complexity of
+          collecting socioeconomic data in Pacific Island Countries, particularly by addressing the vast geography
+          and sparse population constraints to traditional data collection. SPC will work with IDA-eligible NSOs, as
+          agreed with the World Bank, to trial alternative data collection methods, based on what is deemed
+          appropriate and most impactful for the specific contexts. This component includes financing for: (1) the
+          costs of developing the experiments, (2) the costs of implementing the experiments, and (3) the costs
+          associated with preparing the analytical reports, submitting them for PSMB review, and broadly
+          disseminating the results across the Pacific. The work under this component will be undertaken by both
+          the Welfare Economist and the Statistical Advisor, using a range of possible modalities as detailed below
+          in Paragraph 42.
+
+          40.      The innovation agenda is critical for the long-term sustainability of data-driven policymaking in
+          the region. Even with efficiency gains from improved methods, challenges related to geography will
+          always lead to higher per-interview costs for household surveys in the Pacific region. The innovations
+          agenda targets collecting policy relevant information in non-traditional ways, which could potentially
+          reduce the need for or replace the current HIES system. For example, combining the HIES and census into
+          a long form census conducted every five years, and then leveraging the cost savings to do annual estimates
+          of key indicators with models built with satellite and administrative data, would increase information for
+          policymakers while still lowering overall costs. Similarly, crowdsourcing and field-based enumeration is
+          inexpensive compared to traditional surveying, and can provide near real-time information on certain
+          indicators, if data quality issues can be adequately addressed.
+
+          41.     The innovation experiments under this component will be informed by extensive consultations
+          with IDA-eligible NSOs. One key lesson from past data collection experiments is that experiments should
+          be conducted in real-world conditions. Thus, experiments in this subcomponent will be conducted jointly
+          with IDA-eligible NSOs. Securing this buy-in from counterparts requires an extensive process of
+          consultation with country governments and NSOs. The consultation process is important to assess the
+          appetite of potential NSOs to participate, ensure the right types of experiments are conducted, and build
+          the legitimacy of the experiments and any recommendations that are produced, as well as broad
+          community consultation where needed. An initial list of potential ideas has been prepared in conjunction
+          with SPC-SDD, but this list does not limit the scope of experiments for discussion during the consultation
+          process.
+
+          Sub-component 3.1: Innovations Technical Support
+
+          42.      The key personnel to implement the innovations agenda will be the Welfare Economist and
+          Statistics Advisor. The expertise targeted in the recruitment of these two positions come together to
+          provide the main technical experience for designing and implementing innovation experiments. The
+          Welfare Economist brings an understanding of economics and economic indicators, including
+          methodologies for their construction and analysis. The Statistics Advisor provides knowledge of survey
+          implementation, sample design, and the generalizability of results.
+
+
+Sep 29, 2019                                                                                                     Page 16 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+          Sub-component 3.2: Funding for Innovation Experiments
+
+          43.     In order to build the necessary flexibility to ensure optimal results, the list of experiments
+          conducted will be finalized through SPC-SDD’s annual work plan submission. Due to the consultation
+          process detailed in Paragraph 44, it is not possible to identify, ex ante, what experiments will be carried
+          out and in which countries. As such, following the consultations process, SPC-SDD will submit proposals
+          for the innovation experiments on an annual basis through the annual work plan submission, which is
+          detailed in the Project Operations Manual (POM). The annual work plans are subject to approval by the
+          World Bank. World Bank approval of the POM is a condition for disbursement under this sub-component.
+
+          44.      In funding the implementation of the experiments, this subcomponent incorporates the
+          uncertainty of the consultative process and allows substantial flexibility in choice of modality. As the
+          specific experiments and countries are decided on an annual basis through the work plan submission, it is
+          also impossible to determine, ex ante, the most efficient way for SPC-SDD to allocate resources to conduct
+          the experiments. In some contexts, it may be most efficient to provide a sub-grant to IDA-eligible NSOs in
+          order to use country systems for the recruitment of enumerators or the payment of logistics expenses. In
+          others, it may be most efficient for SPC-SDD to conduct all hiring and procurement directly, to hire an
+          external consultant, or to utilize existing technical expertise within the organization. Therefore, this sub-
+          component allows for the purchase of goods, consulting services (either through an individual or firm),
+          use of existing staff time5, workshops, and sub-granting funding to NSOs (see paragraph 45 below). In
+          order to allow this flexibility, the modality used for experiments under this sub-component will be
+          determined on a per-experiment basis within the annual work plan submission, subject to approval by the
+          World Bank.
+
+          45.      In order to support the use of efficient implementation modalities, this subcomponent allows
+          for the creation of sub-grants between SPC and IDA-eligible NSOs. The project will allow for the creation
+          of sub-grants in order to allow for the use of country systems for experiment logistics, e.g., hiring
+          enumerators or buying plane tickets, in cases where the use of SPC systems would be cumbersome and
+          inefficient. In this case, the NSO must agree to enter into a legally-binding sub-grant agreement. The
+          specifics of the sub-grant arrangement, such as fiduciary responsibilities and reporting requirements for
+          the NSO and SPC-SDD, will be detailed in the POM. The use of a sub-grant agreement will be proposed as
+          part of the experiment design in the annual work plan submission and is subject to World Bank approval.
+
+
+
+
+          5The use of existing technical staff time will follow the arrangements set out in the Project Operation Manual for sub-
+          component 2.2 under “recurrent technical staff costs�?.
+
+Sep 29, 2019                                                                                                                        Page 17 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+                               Table 4. Indicative distribution of project financing for SPC project
+
+                                                                                               Projected
+               Component
+                                                                                               financing     %
+               Component 1: Pacific Statistics Methods Board                                  $1,126,403   25.6%
+                 Sub-component 1.1: PSMB Technical Support & Administration
+                      Statistics Advisor (60%)                                                 $468,000    10.6%
+                      Statistics Advisor (travel)                                               $19,639    0.4%
+                      Other consultants                                                        $125,000    2.8%
+                 Sub-component 1.2: Dissemination & Training
+                      Training & Workshops                                                     $513,764    11.7%
+               Component 2: Institutional Strengthening and Implementation Support            $1,699,597   38.6%
+                 Sub-component 2.1: Expanding Technical Capacity of SPC-SDD
+                      Welfare Economist (60%)                                                  $468,000    10.6%
+                      Welfare Economist (travel)                                                $49,097    1.1%
+                      Harmonization Advisor                                                    $517,500    11.8%
+                 Sub-component 2.2: Current Staff Support
+                      Recurrent Technical Staff                                                $315,654     7.2%
+                      Corporate Support                                                        $124,346     2.8%
+                 Sub-component 2.3: Implementation Support
+                      Operating Costs (ICT)                                                     $75,000     1.7%
+                      Operating Costs (copier + consumables)                                   $100,000     2.3%
+                      Goods (VC equipment)                                                      $50,000     1.1%
+               Component 3: Alternative data collection methods                               $1,574,000   35.8%
+                 Sub-component 3.1: Innovations Technical Support
+                      Statistics Advisor (40%)                                                 $312,000     7.1%
+                      Welfare Economist (40%)                                                  $312,000     7.1%
+                 Sub-component 3.2: Funding for Innovation Experiments
+                      Innovation Experiments                                                   $950,000    21.6%
+  .              Total                                                                        $4,400,000   100%
+  .
+  Legal Operational Policies
+                                                                         Triggered?
+
+   Projects on International Waterways OP 7.50                           No
+
+   Projects in Disputed Areas OP 7.60                                    No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+  Impacts associated with the Project are expected to be largely positive. Increased access to anonymized data will
+
+
+Sep 29, 2019                                                                                                   Page 18 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+  provide information and socioeconomic data to various stakeholders in the government, donor, academic, NGO, and
+  civil society sectors, which will be used to improve planning and decision making. The E&S risks associated with
+  Project activities are expected to be limited and easily managed through project design and effective implementation.
+  A Labor Management Plan (LMP) and Stakeholder Engagement Plan (SEP) will be prepared in accordance with
+  ESS2/10 respectively, at least 1 months prior to the engagement of staff or commencement of survey activities.
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+          46.      The implementing agency for this project is the Pacific Community – Statistics for Development
+          Division (SPC-SDD). SPC-SDD is responsible for implementation of all components of the SPC project,
+          including procurement and financial management of the project funds. The activities under the project
+          will be managed by a team led by the Director of SPC-SDD. The two consultants hired under the project
+          should be in place within six months of project effectiveness, and will work on each of the three
+          components, with additional support from existing SPC-SDD staff, such as the Economic Statisticians and
+          Microdata Specialist. Other consultants may be hired as necessary to supplement this support or for
+          specialized tasks. SPC as an organization will provide implementation support in the areas of procurement,
+          financial reporting, and environmental and social safeguards monitoring. SPC would set up a grievance
+          redress mechanism (GRM) service, such as through a page on the SPC website or an NSO website, which
+          would provide project information and an opportunity for the public to contact those managing the
+          project.
+
+
+
+
+Sep 29, 2019                                                                                                     Page 19 of 21
+            The World Bank
+            Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+            47.     A Project Operations Manual (POM) will be prepared and agreed with the World Bank no later
+            than three months after project effectiveness. The POM will include a project description; key project
+            implementation staff; a detailed description of the modalities of project implementation, including
+            protocols for the selection of PSMB commissioned work and innovation experiments; budgeting;
+            procurement guidelines; Financial Management procedures, including accounting, auditing, and charging
+            existing SPC staff time to the project; and the Monitoring and Evaluation framework, including the
+            timeline for the production of annual reports. In addition, SPC-SDD will prepare an Annual Work Plan, and
+            accompanying budget, including staff costs, Operating Costs and Training and Workshops costs. The
+            Annual Work Plan Budget should be received and approved by the World Bank no later than February,
+            one month after the start of the SPC fiscal year.
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Kristen Himelein Kastelic
+      Senior Economist/Statistician
+
+      Borrower/Client/Recipient
+      Pacific Community - Statistics for Development Division
+
+
+
+
+      Implementing Agencies
+
+      Statistics for Development Division - Pacific Community
+      Epeli Waqavonovono
+      Director, Statistics for Development Division
+      epeliwa@spc.int
+
+
+
+
+Sep 29, 2019                                                                                                      Page 20 of 21
+          The World Bank
+          Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+
+   Task Team Leader(s):                    Kristen Himelein Kastelic
+
+   Approved By
+   Environmental and Social Standards
+   Advisor:
+   Practice Manager/Manager:
+
+   Country Director:                       Mona Sur                                   07-Nov-2019
+
+
+
+
+Sep 29, 2019                                                                                        Page 21 of 21
+

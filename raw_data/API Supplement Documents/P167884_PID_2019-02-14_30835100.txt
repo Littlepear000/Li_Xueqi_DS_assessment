@@ -1,0 +1,678 @@
+﻿          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 14-Feb-2019 | Report No: PIDISDSA25849
+
+
+
+
+Jan 24, 2019                                                                                          Page 1 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name              Parent Project ID (if any)
+   Guinea                                        P167884                    Guinea Support to Local
+                                                                            Governance Project
+   Region                                        Estimated Appraisal Date   Estimated Board Date      Practice Area (Lead)
+   AFRICA                                        14-Feb-2019                28-Mar-2019               Social, Urban, Rural and
+                                                                                                      Resilience Global Practice
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministry of Finance        Ministry of Territorial
+                                                                            Administration and
+                                                                            Decentralization
+
+   Proposed Development Objective(s)
+
+   To improve local government capacity in managing their public financial resources in a transparent and participatory
+   manner, and in mitigating local conflicts
+
+   Components
+   Supporting the operationalization of the FNDL
+   Building institutions and capacity for inclusive and accountable local governance
+   Project management and suppor to the ANAFIC
+   Contingent Emergency Response
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                      40.00
+   Total Financing                                                                                                         40.00
+                             of which IBRD/IDA                                                                             40.00
+   Financing Gap                                                                                                            0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          40.00
+
+
+Jan 24, 2019                                                                                                            Page 2 of 14
+             The World Bank
+             Guinea Support to Local Governance Project (P167884)
+
+
+
+            IDA Grant                                                                                                  40.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+    Decision
+    The review did authorize the team to appraise and negotiate
+
+
+
+
+    Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+1. Despite abundant natural resources, Guinea is one of the poorest countries in the world . Annual per capita
+   gross domestic product (GDP) of only US$531 (2015). Poverty stagnated at around 55 percent between 2002
+   and 2012. A series of external shocks, including the Ebola crisis and the sharp decline of commodity prices, has
+   further exacerbated the poverty rate, which was close to 58 percent in 2014.1 Furthermore, economic inclusion
+   is hindered by the lack of job opportunities, limited access to rural infrastructure and services, especially for
+   poor households, low agricultural productivity, and low human capital.
+
+2. The Ebola Virus Disease outbreak of 2013–2015 exacerbated the continued vulnerability of Guinean society
+   and institutions and required a strong response from the government. The disease infected over 3,800
+   Guineans and resulted in 2,536 dead. The human impact was aggravated by economic repercussions, in
+   particular the continued fall in global commodity prices. The Government of Guinea (GoG) developed a post�?
+   Ebola recovery plan for 2015–2017 and has adopted the 2016–2020 National Economic and Social Development
+   Plan (Plan National de Développement Economique et Social, PNDES). The overall objective of the PNDES is to
+   promote strong and high�?quality growth to improve the well�?being of Guineans and initiate the structural
+   transformation of the economy, while putting the country on the path of sustainable development.
+
+3. The economy is now recovering, led by sectors that were less affected by the Ebola epidemic, although per
+   capita GDP growth is slower. Real GDP growth reached 6.7 percent in 2017, supported by positive supply shocks
+   in the mining sector, buoyant exports of bauxite and gold, a dynamic construction sector and good agricultural
+   performance. Per capita GDP growth reached an estimated 4 percent, up from 0.8 percent in 2015. Inflation in
+   2017 is expected to remain moderate at 8.5 percent. Available data on imports suggests aggregate demand is
+   also recovering.
+
+4. Though Guinea is not on the World Bank's harmonized list of fragile situations because it does not host a
+
+
+
+
+    1   Country Partnership Framework (2018-2022).
+
+Jan 24, 2019                                                                                                      Page 3 of 14
+           The World Bank
+           Guinea Support to Local Governance Project (P167884)
+
+
+    peacekeeping or political peace�?building mission and has a 2017 CPIA of 3.2,2 Guinea is a fragile country
+    vulnerable to internal and external shocks. The International Development Association (IDA 2018) has classified
+    Guinea as an "exceptional FCV [fragility, conflict, and violence] risk mitigation regime," along with Niger, Nepal,
+    and Tajikistan. Guinea has therefore been granted access to the IDA18 Risk Mitigation Regime (RMR), which is
+    designed to provide eligible countries enhanced support to reduce risks of FCV. It aims to provide a dedicated
+    financing mechanism to incentivize investments for prevention, and provide countries with additional financing
+    of up to one-third of their indicative IDA18 allocation. The overall objective of the RMR in Guinea is to support
+    Guinea’s efforts to reduce the structural drivers of fragility and conflict that were identified in the 2017 Risks
+    and Resilience Assessment (RRA), while supporting quick wins in a context of instability driven by social
+    discontent.
+
+5. Guinea faces a complicated set of interrelated drivers of FCV that need to be understood in terms of
+   intersecting factors and not in isolation from each other. Four key drivers of fragility have emerged from the
+   2017 RRA: (i) weaknesses in the delivery of services that undermine state legitimacy. Indeed, poor service
+   delivery (whether in health, education, security, electricity or water provision) and the population’s concomitant
+   lack of support for state institutions constitute a key driver of fragility. Moreover, unregulated and rapid
+   urbanization are also contributing factors that increase risks of political instability and social unrest; (ii) exposure
+   to external shocks and high food prices. More than 80 percent of the country’s foreign exchange derives from
+   mining exports, mainly bauxite and iron ore, as well as gold and diamonds. The decline of global commodity
+   prices, coinciding with Guinea’s Ebola epidemic (2013–2016), had a severe impact on the economy. Besides,
+   although affordability has improved in recent years, Guinea’s foodstuff remains costly and economic downturns
+   have an immediate effect on the poor; (iii) youth exclusion and underemployment. Youth face a barely
+   functioning education system and exceedingly high levels of structural unemployment and underemployment.
+   Urban young men are playing a key role in Guinea’s protests, and certain violence-prone and politicized youth
+   milieus continue to pose a critical risk to political stability; (iv) the political instrumentalization of identity in a
+   context of important social fault lines. Guinea’s main political parties tend to be organized along ethnic and
+   regional lines, and the political instrumentalization of identity exacerbates political conflicts. While ethnicity is
+   socially unproblematic in everyday life, Guinea’s experience with multiparty politics in recent years has been
+   marked by worrying degrees of identity-based and political tensions.
+
+6. Such fragility can be exacerbated by weak social inclusion more broadly, including on gender. Indeed, gender
+   inequality, in addition to youth exclusion, is a pressing concern if Guinea is to achieve its population dividend.
+   Women face severe constraints in accessing resources, markets, services, and socio-political spaces (such as
+   representation and participation in local development processes). The causes of gender gaps are multiple and
+   include the limited investments in human capital, the lack of opportunities for income generating activities, and
+   the limited access to good quality infrastructure and financial resources in rural areas. A number of sociocultural
+   constraints also hinder women’s potential to participate in economic activities. In their communities, women do
+   not have the same level of decision-making power as men and have less opportunities to actively participate in
+   decision-making bodies, resulting in women’s reduced ability to shape the country’s socio -economic
+   development and lower per capita incomes, rendering them vulnerable to sexual and economic exploitation and
+   social exclusion.
+
+
+
+    2However, it is worth noting that with a 2017 CPIA of 3.2, Guinea is right at the threshold of the Bank’s Fragile and Conflict Affected
+    Situations (FCS) definition – and has gone below a 3.2 score in eight out of the past ten years.
+
+
+Jan 24, 2019                                                                                                                                  Page 4 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+    Sectoral and Institutional Context
+
+   The decentralization process in Guinea
+
+7. Poor service delivery outcomes in key social sectors (education and health) are a manifestation of the
+   inequitable and inefficient allocation of public resources, and poor financial management of existing limited
+   public funds. Recent sector Public Expenditure Reviews (PERs), undertaken by the Bank in the health and
+   education sectors (2015) and for the country (2017), highlight significant weaknesses in public financial
+   management (PFM). Neither differences in population nor the poverty profiles of the regions can explain the
+   wide disparity in public health expenditures across administrative regions.
+
+8. A new impetus to the decentralization process has been given, embodied by the creation of the National
+   Agency for Local Governments Financing (Agence Nationale de Financement des Collectivités Locales, ANAFIC)
+   and the Local Development Fund (Fond National de Développement Local, FNDL).
+
+9. Current support from international partners is focusing on the pre-requisites and the building blocks of
+   decentralization, but needs to be stepped up to have an impact on service delivery. The 2016-2020 third phase
+   of the Village Community Support project (PACV3), co-financed by the French Development Agency (AFD) and
+   the World Bank (US$15 million), aims to strengthen the LG financing system and improve local service delivery
+   in rural communes. Beyond promoting participatory approaches to local development and building the capacity
+   of local councils, PACV3 supports the creation of the FNDL and the implementation of the funding provisions of
+   the Mining Code.
+
+10. The limited implementation of the decentralization reforms has created a divergence between policy and de
+    facto reality on budget planning, allocation, and execution for basic services and infrastructure. Significant
+    legislation was passed in 2006 providing a framework for increased decentralization (Code des Collectivités
+    Locales), however transfers of resources and responsibilities to the local councils has been very limited.
+
+11. The 2006 Code establishes the basis for an intergovernmental transfer system that has been refined with
+    additional texts in 2017-2018. The law mainly relies on a general block grant for recurrent spending. The design
+    is such that it should strictly compensate for the increase in the LG’s responsibilities.
+
+12. Challenges related to the capacity to undertake decentralized functions remain at the lower levels of
+    government. Past analytical work (World Bank, 2008) identified four factors that constrain LGs performance: (i)
+    administrative parallelism or the parallel presence of deconcentrated and devolved levels of government
+    (leading to redundancies, unnecessary complexity, and the blurring of lines of accountability); (ii) the inefficient
+    distribution of roles and responsibilities between deconcentrated and devolved levels; (iii) oversight
+    relationships (tutelle) that compromise LG autonomy and downward accountability to citizens; and (iv) weak
+    coordination of actors in service delivery and development planning. Synergies between deconcentration and
+    decentralization in terms of development planning and execution have been planned for in 2017-2018 and need
+    to be rolled out, especially for social services (education and health).
+
+13. The proposed project is catalytic for the broader decentralization and deconcentration reform agenda in
+    Guinea. It will foremost support the on-going decentralization reform, as part of a multipronged approach
+    (PACV3 and ASA on citizen engagement), together with other partners (AFD and European Union), by
+    accompanying the transfer of competences and resources to local level authorities through the
+
+Jan 24, 2019                                                                                                          Page 5 of 14
+           The World Bank
+           Guinea Support to Local Governance Project (P167884)
+
+
+    operationalization of the FNDL and ANAFIC. It will directly build on the experience of the PACV3 and is closely
+    coordinated with the AFD project (PANAFIC), approved on September 26, 2018, that will support the
+    operationalization of ANAFIC through equipment and staffing. Urbanization is also a challenge in Guinea, that
+    the recently created ANAFIC will have to contribute to tackle.
+
+    C. Proposed Development Objective(s)
+
+   Development Objective(s) (From PAD)
+   The development objective of the Project is to improve local government capacity in managing their public financial
+   resources and in mitigating local conflicts
+
+     Key Results
+14. The following PDO-level indicators will measure progress towards achievement of the PDO and the key results:
+       • LGs investment budget execution rate (percentage)
+       • Direct project beneficiaries (number), of which female (percentage)
+       • Citizens that feel their needs have been taken into account during the participatory investment planning
+           process at the LGs level (percentage)
+       • Percentage of reported risks of conflicts for which action groups have provided a non-violent response,
+           as part of the EWRS in place
+
+    D. Project Description
+
+15. Component 1: Supporting the operationalization of the FNDL (US$20.0 million). The aim of this component is
+    to provide incentives to improve the availability and management of resources at the local level of government
+    by supporting reforms, to strengthen: the availability of resources transferred to LGs, and; the accountability
+    mechanisms for LGs’ use of public resources, using Disbursement-Linked Indicators. The necessary technical
+    assistance and capacity-building activities associated with the FNDL successful operationalization will be
+    provided through the component 2.
+
+16. Component 2: Building institutions and capacity for inclusive and accountable local governance (US$15.0
+    million). The component aims to support the implementation of the inclusive and accountable decentralization
+    process through the following three complemental sub-components.
+
+17. Sub-component 2.1: Strengthening and digitalizing LGs Public Finance Management (US$5.0m). The sub-
+    component will: (i) support the operationalization of the FNDL and ANAFIC, through technical assistance, studies
+    and equipment; (ii) support the implementation of the Integrated Financial Management Information System
+    (IFMIS) software SIM_BA in all LGs; and (iii) strengthen the capacity of LGs in PFM and institutions in charge of
+    LGs’ financial oversight. This sub-component will also support the operational costs associated with the revision
+    of LDPs, through a participatory approach facilitated by local development agents (ADL). It will also finance some
+    urban planning studies, to progressively improve the planning process for investments financed by the FNDL in
+    urban LGs.
+
+18. Sub-component 2.2: Support to decentralization implementation. (US$5.0m). This sub-component will
+    contribute to strengthening the decentralization process and legal framework through studies, technical
+    assistance, and capacity-building, including: (i) LG revenue mobilization; (ii) local development coordination and
+
+
+ Jan 24, 2019                                                                                                       Page 6 of 14
+            The World Bank
+            Guinea Support to Local Governance Project (P167884)
+
+
+      to the monitoring of Investment Budget execution; (iii) local civil service management; (iv) urban development,
+      and; (v) cross-cutting topics such as on gender and social inclusion, and on climate and disaster risk management
+      in the context of local development. It will also provide TA to enhance management and harmonization of
+      database, and the TA and support required to define, implement and assess the LG performance pilot.
+
+19. Sub-component 2.3: Citizen Engagement and Community-based Early Warning and Response System (EWRS)
+    (US$ 5.0m). This sub-component will support scale-up and improvement of citizen engagement and EWRS pilot
+    activities that have been piloted under the PACV3, with strong emphasis on ICT. Furthermore, all relevant
+    training and monitoring activities under the sub-component will be conducted with an emphasis on social
+    inclusion, including gender, youth, elders, and people with disabilities. Finally, the sub-component will contract
+    out a NGO or a CSO to conduct third-party monitoring of the project’s Citizen Engagement activities, EWRS, and
+    gender and social inclusion aspects, in the second and in the fourth year of the project.
+
+20. Component 3: Project management and support to the ANAFIC (US$5.0 million). At the national level, the
+    project will be managed by a Project Implementation Unit (PIU), embedded within ANAFIC. This component will
+    therefore finance costs of the PIU’s core management functions. The project will strengthen the communication
+    activities of PACV3. In addition to the project management, the component will provide support to the
+    operationalization of the ANAFIC.
+
+21. Component 4: Contingent Emergency Response Component (CERC) (US$0.0). This zero-budget sub-component
+    establishes a disaster contingency fund that could be triggered in the event of a natural disaster through formal
+    declaration of a national emergency, or upon a formal request from GoG.
+
+      E. Implementation
+
+      Institutional and Implementation Arrangements
+
+22. The project will be managed by a Project Implementation Unit (PIU), embedded within ANAFIC. The PACV3
+    National Coordination Unit (Cellule Nationale de coordination – CNC) will provide the technical, managerial and
+    fiduciary support to the ANAFIC PIU, building its capacity, while progressively withdrawing from fiduciary and
+    technical responsibilities. The objective will be to support the transfer of the current PACV team into the ANAFIC.
+    PACV3 (2016-2020), PANAFIC (2018-2023), and LGSP (2019-2023) will provide support to ANAFIC in a
+    complemental and collaborative manner, by covering different key technical and financial aspects for ANAFIC to
+    become fully operational.
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project will be nation-wide in scope as ANAFIC expects to cover 340 municipalities. In the
+      environmental and social screening of the selected physical investments which are subject to feasibility
+      studies to financed through project resources, relevant subproject location and salient physical
+      characteristics will be described and measures taken to avoid and mitigate adverse impacts.
+
+
+
+
+Jan 24, 2019                                                                                                         Page 7 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+   G. Environmental and Social Safeguards Specialists on the Team
+
+   Kristyna Bishop, Social Specialist
+   Emeran Serge M. Menang Evouna, Environmental Specialist
+   Gina Cosentino, Social Specialist
+
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+   Safeguard Policies                         Triggered?            Explanation (Optional)
+                                                                    As IDA funds will not fund physical investments,
+                                                                    OP/BP 4.01 was triggered to ensure that feasibility
+                                                                    studies funded by LGSP remain in compliance with
+                                                                    WB environmental and social policies and to
+                                                                    support enhancement of ANAFIC environmental and
+                                                                    social management system internal E&S policy,
+                                                                    environmental and social procedures and tools, and
+                                                                    human resources). In addition, the Project will
+                                                                    prepare the TORs for the feasibility studies and both
+                                                                    the TORs and the final feasibility study will be
+                                                                    subject to no objection by the World Bank.
+
+                                                                    The Environmental and Social Management
+                                                                    Framework under preparation will clearly define the
+                                                                    environmental and social screening process of all
+                                                                    feasibility studies that will be funded under IDA
+  Environmental Assessment OP/BP 4.01         Yes
+                                                                    resources. IDA resources will not finance feasibility
+                                                                    studies of projects that could be classified as
+                                                                    Environmental Category A within OP/BP 4.01
+                                                                    safeguard policy.
+
+                                                                    The ESMF will include the relevant social issues and
+                                                                    risks so that they are duly considered in the
+                                                                    feasibility studies, in a manner that is consistent with
+                                                                    the risks covered by the Operational Policies for
+                                                                    investment lending, and with appropriate
+                                                                    consultation and disclosure requirements Each of
+                                                                    the proposed project investments will be screened
+                                                                    for its potential social impacts and relevant
+                                                                    safeguards instruments will be prepared. A social
+                                                                    assessment chapter and GRM chapter will also be
+                                                                    included.
+
+
+Jan 24, 2019                                                                                                       Page 8 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+
+
+                                                                 The ESMF will be reviewed and disclosed in country
+                                                                 and on the World Bank website prior appraisal.
+                                                                 This policy is not triggered as the activities are not
+  Performance Standards for Private Sector
+                                              No                 intended to involve private sector as described
+  Activities OP/BP 4.03
+                                                                 under this policy.
+                                                                 This policy is not triggered as the project activities
+  Natural Habitats OP/BP 4.04                 No                 are not expected to have negative impacts in natural
+                                                                 habitats.
+                                                                 This policy is not triggered as the project activities
+                                                                 are not expected to adversely affect the health and
+  Forests OP/BP 4.36                          No                 quality of forests. The project will avoid financing
+                                                                 any activity that should have any negative impact
+                                                                 natural forests.
+                                                                 This policy is not triggered as the project will not
+                                                                 expect to increase the use of chemical pesticides
+  Pest Management OP 4.09                     No
+                                                                 which could have negative environmental and health
+                                                                 impacts.
+                                                                 This policy is not triggered due to the fact that the
+                                                                 project is not financing the physical investments.
+                                                                 Nevertheless,the ESMF will provide relevant
+                                                                 guidance for ANAFIC and municipalities during the
+                                                                 environmental and social due diligence of the
+                                                                 investments that will be financed through ANAFIC
+  Physical Cultural Resources OP/BP 4.11      No
+                                                                 that will be required for identification, protection of
+                                                                 cultural property from theft, and treatment of
+                                                                 discovered artifacts, and will be included in standard
+                                                                 bidding documents. The ESMF will also provide
+                                                                 procedures for handling with “chance finds�? during
+                                                                 implementation project activities.
+                                                                 This policy is not triggered because no Indigenous
+  Indigenous Peoples OP/BP 4.10               No
+                                                                 Peoples are expected to be in the project area.
+                                                                 This policy is not triggered as the project is not
+                                                                 expected to finance physical investment. ESMF will
+                                                                 include the relevant social issues and risks so that
+                                                                 they are duly considered in the feasibility studies
+                                                                 and in a manner that is consistent with the risks
+  Involuntary Resettlement OP/BP 4.12         No                 covered by the Operational Policies for investment
+                                                                 lending. Where future activities involve economic
+                                                                 and physical displacement due to land acquisition,
+                                                                 resettlement plans will be prepared in accordance
+                                                                 with Bank requirements. A chapter on the GRM will
+                                                                 also be included.
+
+
+
+
+Jan 24, 2019                                                                                                   Page 9 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+                                                                     This policy is not triggered as the project activities
+  Safety of Dams OP/BP 4.37                     No                   will not involve the construction of a dam or being
+                                                                     dependent upon an existing dam.
+                                                                     This policy is not triggered as the project does not
+  Projects on International Waterways
+                                                No                   anticipating to finance new or rehabilitate irrigation
+  OP/BP 7.50
+                                                                     schemes that could impact international waterways.
+                                                                     This policy is not triggered as the project does not
+  Projects in Disputed Areas OP/BP 7.60         No
+                                                                     anticipate to be implemented in disputed areas.
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+   A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The development objective of the Project is to improve local government capacity in managing their public financial
+  resources to strengthen service delivery and improve the quality of basic services and mitigate local conflicts. The
+  project will not directly finance physical investments but will finance technical feasibility studies related to local
+  government Annual Investment Plans. Despite this lack of direct financing of civil works, it was agreed to assign an
+  Environmental Category B to the project. The project activities are not expected to generate direct adverse impacts.
+  No direct large scale, significant and/or irreversible impacts are expected from the project.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  The Project will finance feasibility studies of selected physical investments that will not be financed through IDA
+  resources, the project may generate indirect adverse impacts. These impacts will be limited in scale due to relatively
+  small funds that ANAFIC will allocate in each municipality. To address these indirect risks and adverse impact, the
+  project will undertake a robust environmental and social screening of the activities that will be proposed by
+  municipalities to be part of the feasibility study funding. In addition the project resources will support the
+  development and implementation of ANAFIC Environmental and Social management System.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  The environmental and social screening of the annual investment plans of the municipalities will limit or exclude all
+  investments that are able to generate large scale adverse environmental and social impacts.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  Safeguards instruments: Environmental Assessment (OP/BP 4.01) policy will be triggered to ensure full social
+  compliance during the preparation of the feasibility studies related to local government plans. AnEnvironmental and
+  Social Management Framework (ESMF) will be prepared and subsequently reviewed and cleared by the Bank and
+  disclosed in-country and on the Bank website prior to appraisal. In addition, the Project will prepare the TORs for the
+  feasibility studies and both the TORs and the final feasibility study will be subject to no objection by the World Bank.
+  The ESMF will clearly define the environmental and social screening process to guide the selection of the subprojects
+  that will be integrated in local government Annual investment plans on which feasibility studies to be financed with
+  the project resources under Sub-component 1.2: Financing Local Government’s Investment budget feasibility studies.
+
+
+Jan 24, 2019                                                                                                     Page 10 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+  The ESMF will include the relevant social issues and risks so that they are duly considered in the feasibility studies and
+  in a manner that is consistent with the risks and impacts covered by the Operational Policies for investment lending.
+  Relevant safeguard instruments will be prepared in line with World Bank policies and principles, and with appropriate
+  consultation and disclosure requirements. The ESMF will be prepared, reviewed and disclosed in-country and in the
+  Bank website prior appraisal.
+
+  ANAFIC environmental and social management system enhancement: To ensure sustainability, project resources will
+  support the development and implementation of ANAFIC environmental and social management system (internal E&S
+  policy, environmental and social procedures and tools, and human resources).
+
+  Local Governments environmental and social capacity building: Project resources will support local government
+  capacity building through ANAFIC that will be defined after an in-depth needs assessment. The feasibility studies will
+  ensure that all retained investments are climate resilient. The local development plans will be revised and/or
+  prepared to ensure that all selected activities are environmental and socially sound, and consider, among other things,
+  social inclusion, gender, and vulnerable or disadvantaged individuals and groups. The Project will also enhance
+  community ownership for monitoring the quality.
+
+  Environmental and social indicator compliance for DLI approach: The PIU will report periodically on the environmental
+  and social compliance of the project activities including the level of greening the local development plans and
+  inclusion of the environmental and social instruments in the feasibility studies. The environmental and social
+  compliance will be an indicator to be evaluated prior each tranche release. The weighting of the environmental and
+  social compliance will be high, and the adherence to the guidelines will be checked and paid for.
+
+  Operational manual: The PIU will ensure that DLI incorporate environmental and social compliance indicators that will
+  be well described in the operational manual.
+
+  Safeguards institutional arrangement: To deal with all environmental and social commitment including the monitoring
+  and implementation of the capacity building plan, ANAFIC unit will include an Environmental and Social Specialist, as
+  well as a Gender and Citizen Engagement Specialist. The Environmental and Social Specialist will work closely with the
+  relevant ministries, local governments and coordinate with the ministry of Environment, NGOs and local
+  administrative authorities.
+
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  The key stakeholder of the project are the following: ANAFIC, local governments to be financed by ANAFIC; ministry
+  of Environment, NGOs; local communities associations and collectivities (including women's groups, elders, youth);
+  local administrative authorities; MATD, Ministry of Finance, Ministry of Budget. The PIU will prepare a consultation
+  plan that will be implemented during the project implementation period. The environmental and social screening of
+  the annual investment plans will be disclosed and relevant safeguards instruments will also be publicly disclosed.
+
+
+
+
+Jan 24, 2019                                                                                                       Page 11 of 14
+                         The World Bank
+                         Guinea Support to Local Governance Project (P167884)
+
+
+          B. Disclosure Requirements
+
+            OPS_EA_DISCLOSURE_TABLE
+            Environmental Assessment/Audit/Management Plan/Other
+                                                                                           For category A projects, date of
+                Date of receipt by the Bank            Date of submission for disclosure   distributing the Executive Summary of
+                                                                                           the EA to the Executive Directors
+                24-Jan-2019                            14-Feb-2019
+
+                "In country" Disclosure
+                  Guinea
+                 14-Feb-2019
+                   Comments
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          No
+ OPS_ PDI_ COMP_TA BLE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          No
+
+
+
+
+Jan 24, 2019                                                                                                           Page 12 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+  All Safeguard Policies
+
+
+   Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+   measures related to safeguard policies?
+   Yes
+   Have costs related to safeguard policy measures been included in the project cost?
+   Yes
+   Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+   related to safeguard policies?
+   Yes
+   Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+   reflected in the project legal documents?
+   Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Nicolas Perrin
+   Senior Social Development Specialist
+
+   Abel Paul Basile Bove
+   Senior Governance Specialist
+
+   Borrower/Client/Recipient
+   Ministry of Finance
+
+
+
+
+   Implementing Agencies
+
+   Ministry of Territorial Administration and Decentralization
+   Yamory Conde
+   Secretary General
+   fallodebaro@gmail.com
+
+
+
+
+Jan 24, 2019                                                                                                    Page 13 of 14
+          The World Bank
+          Guinea Support to Local Governance Project (P167884)
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                        Nicolas Perrin
+   Task Team Leader(s):
+                                        Abel Paul Basile Bove
+   Approved By
+
+   Safeguards Advisor:                  Maman-Sani Issa          14-Feb-2019
+
+   Practice Manager/Manager:            Aly Zulficar Rahim       14-Feb-2019
+
+   Country Director:                    Michael Hamaide          14-Feb-2019
+
+
+
+
+Jan 24, 2019                                                                   Page 14 of 14
+

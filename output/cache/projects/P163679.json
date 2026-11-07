@@ -1,0 +1,496 @@
+{
+  "project_id": "P163679",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "0938d789",
+  "started_at": "2026-11-07T03:22:48Z",
+  "ended_at": "2026-11-07T03:23:02Z",
+  "input_fingerprint": "8875943adf885d4c",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 33,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P163679-A1",
+      "project_id": "P163679",
+      "name": "hourly simulation and AI virtual power plant for storage absorption",
+      "description": "The project uses an hourly production simulation model and a possible AI-enabled virtual power plant pilot to quantify and raise renewable energy absorption with battery storage. Practices: hourly production simulation model to quantify battery-enabled RE absorption; AI-enabled virtual power plant pilot with demand-side management.",
+      "why_innovative": "New process: simulation model quantifies storage-driven RE absorption - cue: 'methodology' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "853541560564145944",
+        "doc_type": "PAD",
+        "doc_date": "2019-05-20",
+        "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+        "char_start": 70660,
+        "char_end": 70906,
+        "text": "In the study conducted at the national level, the China power system is divided into eight regions to estimate the incremental RE absorption, defined as the difference of RE dispatched in simulations of ‘with’ and ‘without’ battery storage cases.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "853541560564145944",
+          "doc_type": "PAD",
+          "doc_date": "2019-05-20",
+          "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+          "char_start": 70907,
+          "char_end": 70982,
+          "text": "The simulations were conducted using an hourly production simulation model.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "853541560564145944",
+          "doc_type": "PAD",
+          "doc_date": "2019-05-20",
+          "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+          "char_start": 70983,
+          "char_end": 71184,
+          "text": "The model has been used to support the State Grid Corporation to conduct the 2017 and 2018 annual review of RE integration in China and to support NEA in its studies to analyze RE integration in China.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "853541560564145944",
+          "doc_type": "PAD",
+          "doc_date": "2019-05-20",
+          "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+          "char_start": 142606,
+          "char_end": 142750,
+          "text": "A concept of ‘virtual power plant’ may be piloted with advanced IT and artificial intelligence technologies and demand-side management measures.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the simulation model is the core measurement mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other Energy and Extractives",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly supports renewable energy dispatch and battery storage operations, core energy sector activity.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: hourly production simulation model | Innovative: quantifies incremental RE from storage | Category: analytical model, not routine M&E",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: simulation model quantifies storage-driven RE absorption - cue: 'methodology'",
+      "innovation_cues": [
+        "innovative",
+        "pilot",
+        "piloted"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P163679",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-20",
+      "guid": "853541560564145944",
+      "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:49Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 17 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:49Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-06-11, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:50Z",
+      "status": "ok",
+      "note": "33 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 33,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 6,
+          "innovation_cycle": 15,
+          "innovation_types": 5,
+          "enabling_processes": 3,
+          "enabling_technologies": 3,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:22:50Z",
+      "ended_at": "2026-11-07T03:22:50Z",
+      "status": "ok",
+      "note": "PAD 2019-05-20 (P163679_PAD_2019-05-20_853541560564145944.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P163679",
+            "doc_type": "PAD",
+            "doc_date": "2019-05-20",
+            "guid": "853541560564145944",
+            "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:22:50Z",
+      "ended_at": "2026-11-07T03:22:50Z",
+      "status": "ok",
+      "note": "122 reading units (13 numbered paragraphs) from 1174 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 122
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:22:50Z",
+      "ended_at": "2026-11-07T03:22:52Z",
+      "status": "ok",
+      "note": "19 of 122 units carry a digital / AI cue (12 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 19,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 12
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:22:52Z",
+      "ended_at": "2026-11-07T03:22:54Z",
+      "status": "ok",
+      "note": "2 candidate practices from 19 units in 2 calls",
+      "llm_calls": 2,
+      "input_chars": 60853,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 357,
+          "cached_tokens": 12672,
+          "cache_write_tokens": 0,
+          "output_tokens": 588,
+          "seconds": 4.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0009
+        },
+        "extracted": 2
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:22:54Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "ok",
+      "note": "2 accepted, 0 rejected; 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 19283,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 979,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 205,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "accepted": 2,
+        "rejected": 0,
+        "expanded": 0,
+        "reject_codes": {}
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:58Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1071,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 250,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 82,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:22:58Z",
+      "ended_at": "2026-11-07T03:22:59Z",
+      "status": "ok",
+      "note": "2 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1310,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 297,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 62,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:22:59Z",
+      "ended_at": "2026-11-07T03:23:01Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4107,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 502,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 88,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:23:01Z",
+      "ended_at": "2026-11-07T03:23:01Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 4 evidence rows, 0 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:23:01Z",
+      "ended_at": "2026-11-07T03:23:02Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 6
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P163679-A1-E1",
+      "approach_id": "P163679-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P163679",
+      "doc_id": "853541560564145944",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-20",
+      "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 443,
+      "char_start": 70660,
+      "char_end": 70906,
+      "sentence": "In the study conducted at the national level, the China power system is divided into eight regions to estimate the incremental RE absorption, defined as the difference of RE dispatched in simulations of ‘with’ and ‘without’ battery storage cases.",
+      "practice": "hourly production simulation model to quantify battery-enabled RE absorption",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Energy and Extractives",
+      "extractor_reason": "Digital core: hourly production simulation model | Not routine: quantifies incremental RE from storage | Adoption: 'simulations were conducted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: hourly production simulation model | Innovative: quantifies incremental RE from storage | Category: analytical model, not routine M&E",
+      "keywords_hit": "methodolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: simulation model quantifies storage-driven RE absorption - cue: 'methodology'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "0938d789"
+    },
+    {
+      "row_id": "P163679-A1-E2",
+      "approach_id": "P163679-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P163679",
+      "doc_id": "853541560564145944",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-20",
+      "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 444,
+      "char_start": 70907,
+      "char_end": 70982,
+      "sentence": "The simulations were conducted using an hourly production simulation model.",
+      "practice": "hourly production simulation model to quantify battery-enabled RE absorption",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Energy and Extractives",
+      "extractor_reason": "Digital core: hourly production simulation model | Not routine: quantifies incremental RE from storage | Adoption: 'simulations were conducted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: hourly production simulation model | Innovative: quantifies incremental RE from storage | Category: analytical model, not routine M&E",
+      "keywords_hit": "methodolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: simulation model quantifies storage-driven RE absorption - cue: 'methodology'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "0938d789"
+    },
+    {
+      "row_id": "P163679-A1-E3",
+      "approach_id": "P163679-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P163679",
+      "doc_id": "853541560564145944",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-20",
+      "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 445,
+      "char_start": 70983,
+      "char_end": 71184,
+      "sentence": "The model has been used to support the State Grid Corporation to conduct the 2017 and 2018 annual review of RE integration in China and to support NEA in its studies to analyze RE integration in China.",
+      "practice": "hourly production simulation model to quantify battery-enabled RE absorption",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Energy and Extractives",
+      "extractor_reason": "Digital core: hourly production simulation model | Not routine: quantifies incremental RE from storage | Adoption: 'simulations were conducted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: hourly production simulation model | Innovative: quantifies incremental RE from storage | Category: analytical model, not routine M&E",
+      "keywords_hit": "methodolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New process: simulation model quantifies storage-driven RE absorption - cue: 'methodology'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "0938d789"
+    },
+    {
+      "row_id": "P163679-A1-E4",
+      "approach_id": "P163679-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P163679",
+      "doc_id": "853541560564145944",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-20",
+      "file_name": "P163679_PAD_2019-05-20_853541560564145944.txt",
+      "unit_id": "U101",
+      "para_no": null,
+      "sentence_position": 925,
+      "char_start": 142606,
+      "char_end": 142750,
+      "sentence": "A concept of ‘virtual power plant’ may be piloted with advanced IT and artificial intelligence technologies and demand-side management measures.",
+      "practice": "AI-enabled virtual power plant pilot with demand-side management",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Other Energy and Extractives",
+      "extractor_reason": "Digital core: AI virtual power plant | Not routine: novel aggregation of demand-side resources | Adoption: 'may be piloted'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: AI virtual power plant | Innovative: novel demand-side aggregation | Category: technological pilot, future",
+      "keywords_hit": "artificial intelligence;artificial-intelligence",
+      "innovation_cues": "innovative;pilot;piloted",
+      "innovation_basis": "New service: AI-coordinated virtual power plant aggregation - cue: 'may be piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "0938d789"
+    }
+  ],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 6,
+    "input_tokens": 2385,
+    "cached_tokens": 16000,
+    "cache_write_tokens": 0,
+    "output_tokens": 1025,
+    "seconds": 11.6,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.002
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "project_id": "P168326",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "492b405f",
+  "started_at": "2026-11-07T03:26:19Z",
+  "ended_at": "2026-11-07T03:26:40Z",
+  "input_fingerprint": "b123c31ae6c084ee",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 18,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P168326",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-30",
+      "guid": "549701561341661821",
+      "file_name": "P168326_PAD_2019-05-30_549701561341661821.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:26:19Z",
+      "ended_at": "2026-11-07T03:26:33Z",
+      "status": "ok",
+      "note": "11 document(s) fetched from the WBG API; 16 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:26:33Z",
+      "ended_at": "2026-11-07T03:26:33Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-06-20, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:26:33Z",
+      "ended_at": "2026-11-07T03:26:35Z",
+      "status": "ok",
+      "note": "18 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 18,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 2,
+          "innovation": 4,
+          "innovation_cycle": 6,
+          "innovation_types": 3,
+          "enabling_technologies": 1,
+          "results_based_management": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:26:35Z",
+      "ended_at": "2026-11-07T03:26:35Z",
+      "status": "ok",
+      "note": "PAD 2019-05-30 (P168326_PAD_2019-05-30_549701561341661821.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P168326",
+            "doc_type": "PAD",
+            "doc_date": "2019-05-30",
+            "guid": "549701561341661821",
+            "file_name": "P168326_PAD_2019-05-30_549701561341661821.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:26:35Z",
+      "ended_at": "2026-11-07T03:26:35Z",
+      "status": "ok",
+      "note": "99 reading units (21 numbered paragraphs) from 908 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 99
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:26:35Z",
+      "ended_at": "2026-11-07T03:26:36Z",
+      "status": "ok",
+      "note": "33 of 99 units carry a digital / AI cue (7 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 33,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 7
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:26:36Z",
+      "ended_at": "2026-11-07T03:26:38Z",
+      "status": "ok",
+      "note": "1 candidate practices from 33 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 114427,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 850,
+          "cached_tokens": 23552,
+          "cache_write_tokens": 0,
+          "output_tokens": 645,
+          "seconds": 6.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0012
+        },
+        "extracted": 1
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:26:38Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "ok",
+      "note": "0 accepted, 1 rejected (not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 18380,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 676,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 52,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "accepted": 0,
+        "rejected": 1,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:26:40Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:26:40Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:26:40Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:26:40Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:26:40Z",
+      "ended_at": "2026-11-07T03:26:40Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P168052",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "unknown",
+            "evidence": "shment, and the same will be considered for the remaining two projects. 11. There are no overdue audits under the Project and previous audits are found acceptable to the Bank. ES NOTE TABLE 2The other two operations financed by the IDA 18 RMR are the Socio-Economic Resilience Strengthening Project (P168052) and the Rural Electrification Project (P170132). The same is applicable for all three RMR p"
+          }
+        ],
+        "store_size": 57
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "549701561341661821",
+      "doc_type": "PAD",
+      "position": 839,
+      "char_start": 128580,
+      "char_end": 129746,
+      "sentence": "survey/reports with PIG restaurants improved the contribution from n of matching grants provided matching under the program grants and facilitators working with matchin g grant beneficiaries Number of small scale post harvesting Number of small scale post grant PIU in close coordination annual survey/reports processing and cold storage facilities harvesting processing and beneficiaries with the regional project established cold storage facilities to also coordinators and Grant Page 42 of 49 The World Bank Rural Economy Development Project (P168326) contribute into climate Management Company mitigation by reducing food responsible for matching spoilage in extreme heat grants administration Beneficiary feedback mechanism to be Percentage of beneficiaries reporting PIU, PIG in close established by the Grant improved satisfaction with the grant survey/public coordination with the Management Company to annual transparency and responsiveness of the beneficiaries consultations Grant Management ensure feedback and beneficiary feedback mechanism for the Company and enablers satisfaction with the the grants programs. grants programs from grant beneficiaries.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Grant Management Company beneficiary feedback mechanism for grants",
+      "reason": "reject: Beneficiary feedback mechanism for grants; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: grant manager-run beneficiary feedback loop - cue: 'feedback mechanism'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Beneficiary feedback mechanism for grants; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 2353
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 5,
+    "input_tokens": 1526,
+    "cached_tokens": 26496,
+    "cache_write_tokens": 0,
+    "output_tokens": 697,
+    "seconds": 8.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0015
+  }
+}

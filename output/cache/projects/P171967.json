@@ -1,0 +1,222 @@
+{
+  "project_id": "P171967",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "7a9fc26a",
+  "started_at": "2026-11-07T03:29:29Z",
+  "ended_at": "2026-11-07T03:29:49Z",
+  "input_fingerprint": "517b2a0eb60f2d85",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 30,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P171967",
+      "doc_type": "PAD",
+      "doc_date": "2020-06-09",
+      "guid": "776861598448136024",
+      "file_name": "P171967_PAD_2020-06-09_776861598448136024.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:29:29Z",
+      "ended_at": "2026-11-07T03:29:41Z",
+      "status": "ok",
+      "note": "9 document(s) fetched from the WBG API; 14 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:29:41Z",
+      "ended_at": "2026-11-07T03:29:41Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-06-30, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:29:41Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "30 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 30,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 12,
+          "enabling_processes": 3,
+          "innovation_cycle": 7,
+          "innovation": 5,
+          "public_good": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:29:42Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "PAD 2020-06-09 (P171967_PAD_2020-06-09_776861598448136024.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P171967",
+            "doc_type": "PAD",
+            "doc_date": "2020-06-09",
+            "guid": "776861598448136024",
+            "file_name": "P171967_PAD_2020-06-09_776861598448136024.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:29:42Z",
+      "ended_at": "2026-11-07T03:29:42Z",
+      "status": "ok",
+      "note": "166 reading units (28 numbered paragraphs) from 1431 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 166
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:29:42Z",
+      "ended_at": "2026-11-07T03:29:46Z",
+      "status": "ok",
+      "note": "42 of 166 units carry a digital / AI cue (15 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 42,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 15
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:46Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "ok",
+      "note": "0 candidate practices from 42 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 143154,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 873,
+          "cached_tokens": 29568,
+          "cache_write_tokens": 0,
+          "output_tokens": 653,
+          "seconds": 8.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0012
+        },
+        "extracted": 0
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "skipped",
+      "note": "nothing to validate",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 0 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:29:49Z",
+      "ended_at": "2026-11-07T03:29:49Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 105
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 5,
+    "input_tokens": 873,
+    "cached_tokens": 29568,
+    "cache_write_tokens": 0,
+    "output_tokens": 653,
+    "seconds": 8.7,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0012
+  }
+}

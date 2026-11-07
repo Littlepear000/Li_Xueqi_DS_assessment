@@ -1,0 +1,540 @@
+﻿         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+
+                           Project Information Document (PID)
+
+                         Concept Stage | Date Prepared/Updated: 09-Jan-2019 | Report No: PIDISDSC25797
+
+
+
+
+Dec 03, 2018                                                                                             Page 1 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                   Parent Project ID (if any)     Project Name
+  Pacific Islands                                P168122                                                     Statistical Innovation
+                                                                                                             and Capacity Building in
+                                                                                                             Pacific Islands
+                                                                                                             (P168122)
+  Region                                         Estimated Appraisal Date     Estimated Board Date           Practice Area (Lead)
+  EAST ASIA AND PACIFIC                          Apr 29, 2019                 Aug 30, 2019                   Poverty and Equity
+
+  Financing Instrument                           Borrower(s)                  Implementing Agency
+  Investment Project Financing                   Pacific Community -          Statistics for Development
+                                                 Statistics for Development   Division - Pacific Community
+                                                 Division
+
+   Proposed Development Objective(s)
+
+    Program Level Development Objective
+    To improve the quality and efficiency of welfare data collection, and accessibility to welfare data in the Pacific Island
+    Countries.
+
+    Country Project Development Objective
+    To improve the efficiency of HIES implementation, quality of data production, and accessibility to welfare data in Tonga
+    / Kiribati / the Solomon Islands.
+
+    Regional Organization Project Development Objective
+    To strengthen the capacity of SPC to foster innovation and promote improved statistics management practices in the
+    region.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+   Total Project Cost                                                                                                          10.00
+
+   Total Financing                                                                                                             10.00
+
+                             of which IBRD/IDA                                                                                 10.00
+
+   Financing Gap                                                                                                                0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+Dec 03, 2018                                                                                                               Page 2 of 12
+           The World Bank
+           Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+      World Bank Group Financing
+
+         International Development Association (IDA)                                                                                        10.00
+            IDA Grant                                                                                                                       10.00
+
+
+
+
+     Environmental and Social Risk Classification                               Concept Review Decision
+     Low                                                                        Track I-The review did authorize the preparation to
+                                                                                continue
+
+     Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when
+     finalizing the document.
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Regional Context
+
+       1. The Pacific Island Countries (PICs) are characterized by small populations spread across vast areas. There are
+       eleven Pacific small island countries that are members of the World Bank: Fiji, Kiribati, the Republic of the Marshall
+       Islands, Federated States of Micronesia, Nauru, Palau, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu. These
+       countries have a combined population of about 2.3 million spread across 640 inhabited islands over an ocean area of
+       more than 30 million square km, equivalent to 15 percent of the globe’s surface and approximately the same as the
+       combined area of China, Canada, and the United States. Each of these countries share similar challenges and
+       opportunities as small and remote island economies. They are small in size with limited natural resources, narrowly-
+       based economies, large distances away from major markets, and vulnerable to external shocks; all of which can affect
+       growth and have often led to a high degree of economic volatility.
+
+       2. Within the Pacific region, there is substantial heterogeneity between countries. Buoyed by tourism from Asia
+       and the United States, Palau is the richest country in the region, with a higher GDP per capita than the average for
+       developing counties in the East Asia and Pacific Region (see Figure 1) and similar to countries in Central Europe. In
+       contrast, Kiribati, an atoll country increasingly impacted by climate change, has the lowest GDP per capita in the region
+       with a value closer to those found in sub-Saharan Africa. There are also differing access to opportunity. Though the
+       total number of Pacific-born migrants living in OECD countries is now more than 400,000, nearly all (79 percent) come
+       from three countries, Fiji, Samoa, and Tonga.1 An addition 15 percent come from countries with open access
+
+
+ 1
+   Curtain, Richard Leigh; Dornan, Matthew Selwyn; Doyle, Jesse Jon Gerome; Howes, Stephen. 2017. Labour mobility: the ten billion dollar prize
+ (English). Pacific possible series; background paper no. 1. Washington, D.C.: World Bank Group.
+ http://documents.worldbank.org/curated/en/171661503669342316/Labour-mobility-the-ten-billion-dollar-prize
+
+Dec 03, 2018                                                                                                                            Page 3 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+     agreements (FSM, Marshall Islands and Palau). Five percent came from PNG, Solomon Islands, Vanuatu, with almost
+     none coming from the two atoll countries (Kiribati and Tuvalu).
+
+                                         Figure 1: GDP per capita 2017 (Current USD)
+
+                                            PALAU
+                                           NAURU
+                           EAST ASIA & PACIFIC*
+                                               FIJI
+                                           SAMOA
+                                           TONGA
+                              MARSHALL ISLANDS
+                                          TUVALU
+                          MICRONESIA, FED. STS.
+                                        VANUATU
+                              SOLOMON ISLANDS
+                                         KIRIBATI
+
+                                                      0            5000              10000          15000
+                          * EXCLUDES HIGH INCOME
+
+
+
+     3. In addition, there are within-country disparities in standard of living. There are often important differences
+     between the populations living on the “outer islands�? compared to those living on the main island. Those living on the
+     outer islands typically do not have the same access to public services, infrastructure, and economic opportunities, and
+     are therefore more vulnerable and more likely to suffer hardship compared to people living on the main island. There
+     has also been substantial international and inter-island migration in response to climate change and in search of
+     economic opportunities. For the outer islands, this often creates a skewed population structure with only the elderly
+     and sometimes women and children remaining on the outer island, while men look for better income opportunities
+     on the main islands. A more limited number of physically fit people means that activities such as agriculture are
+     reduced, adding to the risks of poverty, fragility, and vulnerability. In some cases, certain settlements may be
+     abandoned entirely.
+
+  Sectoral and Institutional Context
+
+     4. Data deprivation in the PICs hinders evidence-based policy making. Policymakers must consider a range of
+     complex trade-offs regarding service delivery and investments at the national level and identifying priorities in the
+     context of the challenges they face. The evidence based for these decisions, however, is thin. Data collection in the
+     Pacific Island countries lags behind many regions in the developing world in terms of data quality, frequency of
+     collection, and the timeliness of results.
+
+     5. Beyond data deprivation, public access to the collected data is another challenge facing the region. Data
+     collection in and of itself is not sufficient: in order to maximize the benefits of the data, it must be made accessible to
+     various stakeholders in the government, donor, academic, NGO, and civil society sectors. Before this can occur, NSOs
+     must first anonymize the data sets to protect the identities of the surveyed households and people. However,
+     anonymization is much more complex in countries with small and highly dispersed populations, as it becomes easier
+
+
+
+Dec 03, 2018                                                                                                          Page 4 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+     to uniquely identify people based on a broader range of variables. Thus, this process is more costly and time-
+     consuming in the Pacific, and data sets are often only available several years after the surveys are conducted, if at all.
+
+     6. National Statistics Offices (NSOs) lack funding to meet the prohibitive costs of data collection in the Pacific. The
+     per-interview costs of data collection in the Pacific are some of the highest in the world. These outcomes are partially
+     the result of systemic issues, including sparse populations and high travel costs due to the island geography. However,
+     these issues are compounded by outdated methodologies and inefficient use of technology. Although the systemic
+     challenges will remain a significant factor in data collection costs in the Pacific, there is scope to substantially reduce
+     costs by integrating proven methods from other parts of the world. One example is switching from a diary method for
+     collecting consumption data to a recall method, which can reduce the number of days required at each location,
+     thereby decreasing personnel costs, a significant component of the survey budget. In addition, integrating new
+     technology, such as Computer Assisted Personal Interviewing (CAPI), reduces the need to print and transport paper
+     questionnaires, which has decreased the costs of data collection in certain contexts despite the upfront cost of
+     hardware investment.
+
+
+      Box 1. Data deprivation and gender gaps in the Pacific
+      Gender gaps are substantial in the Pacific Island Countries. The World Economic Forum’s 2017 Global Gender
+      Gap includes reporting on Fiji, which was ranked 125 th out of 144 countries. Data on labor force participation (Table
+      1 below) shows large gender gap across the Pacific. Various national surveys point to a large incidence of violence
+      against women, with over half of women in Fiji, the Solomon Islands, Vanuatu, Kiribati, and the Marshall Islands ever
+      experiencing physical and/or sexual violence by an intimate partner during their lifetimes.
+
+                                      Table 1. Gender gaps in labor force participation, 2017
+                        Country              Male LFP (15+)         Female LFP (15+)        Gender gap (M – F)
+                  Fiji                            75.4                     40.8                   34.6
+                  Samoa                           38.9                     23.7                   15.2
+                  Solomon Islands                 80.3                     62.5                   17.8
+                  Tonga                           74.2                     45.1                   29.1
+                  Vanuatu                         79.6                     61.5                   18.1
+                                              Source: World Development Indicators
+
+      However, the limited availability of data in the Pacific hinders any effort to track progress over time and
+      design policies to address the gender gap in the Pacific. For example, data on labor force participation is only
+      available for the 5 countries above, and not for the remaining 6 PICs that are World Bank member states. PICs rarely
+      conduct Demographic and Health Surveys or Family Health and Safety Studies that typically ask questions on
+      violence against women. The long gaps between HIES rounds has also hindered the tracking of health and education
+      outcomes, as well as other outcomes that specifically tracked for SDG Goal 5, such as asset ownership, mobile phone
+      ownership, and time spent on unpaid domestic and care work. Even when the surveys are conducted, the presentation
+      of gender-disaggregated statistics is not yet commonplace, as can be seen in Table 2 below. Thus, any effort to
+      improve the monitoring of gender outcomes and design of gender-specific policies must include improvements in data
+      collection.
+
+                  Table 2. Presentation of gender-disaggregated data in reporting based on latest HIES surveys
+        Country       Latest                                   Gender-disaggregated indicator
+                      HIES/                                        Health         Labor        Mobile        Total # of
+                                        P0 by       Education
+                      poverty                                     access or        force       phone      disaggregated
+                                      gender of     & poverty,
+                      report                                      outcomes       stats, by   ownership     indicators in
+                                      HH head         by sex
+                                                                   by sex           sex        or use       document
+
+
+Dec 03, 2018                                                                                                          Page 5 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+         Fiji             2013/14                N                    N                N                 N                N                   0
+         FSM              2013/14                Y                    N                N                 N                N                   1
+         Kiribati         2014                   Y                    N                Y                 Y                N                   5
+         Nauru            2012/13                Y                    Y                Y                 Y                N                   6
+         Palau            2014                   Y
+                                                                      N                N                 N                N                   3
+                                           (expenditure)
+         RMI              2002              Y (income)                Y                N                 Y                N                   8
+         Samoa            2012/13                Y                    Y                N                 Y                N                   3
+         Solomon          2012/13
+                                                   Y                  N                N                 N                N                   1
+         Islands
+         Tonga            2016                     N                  N                Y                 Y                Y                   5
+         Tuvalu           2010                     N                  Y                Y                 Y                N                  11
+         Vanuatu          2010                     Y                  Y                N                 Y                N                   6
+
+
+
+      7. Low statistical capacity is another major challenge in addressing data deprivation. According to the World Bank’s
+      Statistical Capacity Index2, the PICs rank below the EAP developing country average. In particular the scores for Source
+      Data, which measures if a country meets international recommendations for collecting five key data sources
+      (agricultural census, health survey, population census, poverty survey, and vital registration system coverage), are
+      well below the EAP average (see Figure 2).
+
+
+
+
+ 2
+   The World Bank’s Statistical Capacity Indicator is a composite score assessing the capacity of a country’s statistical system . It is based on a
+ diagnostic framework assessing the following areas: methodology; data sources; and periodicity and timeliness. Countries are scored against 25
+ criteria in these areas, using publicly available information and/or country input. The overall Statistical Capacity score is then being calculated as
+ simple average of all three area scores on a scale of 0-100. See datatopics.worldbank.org/statisticalcapacity for more detail.
+
+Dec 03, 2018                                                                                                                                   Page 6 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+                                                      Figure 2: Statistical Capacity Index (2017)
+                                                100
+                EAST ASIA & PACIFIC*
+                                                 90
+                FIJI
+
+                KIRIBATI                         80
+
+                MARSHALL ISLANDS                 70
+                MICRONESIA, FED. STS.
+                                                 60
+                NAURU
+                                                 50
+                PALAU
+                                                 40
+                SAMOA
+
+                SOLOMON ISLANDS                  30
+
+                TONGA                            20
+
+                TUVALU
+                                                 10
+                VANUATU
+                                                  0
+                                                          METHODOLOGY               PERIODICITY     SOURCE DATA     STATISTICAL
+          * EXCLUDES HIGH INCOME                           ASSESSMENT                                             CAPACITY INDEX
+
+ Source: World Bank, datatopics.worldbank.org/statisticalcapacity
+
+     8. There has been some improvement in statistical capacity over time, but results cannot be sustained. Figure 3
+     below shows the overall SCI rating for the eleven PICs from 2005 to 2017. With the exception of high income Palau,
+     countries have shown uneven progress. Since the measure depends on the periodicity of data collection, countries
+     will improve immediately after completing a survey. Since funding, however, is irregular and often sourced from
+     development partners, the periodicity cannot reliably be maintained, and the SCI score falls again as the data ages. To
+     break this cycle and increase sustainability, data collection must become more affordable.
+
+
+
+
+Dec 03, 2018                                                                                                            Page 7 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+                                                 Figure 3: Statistical Capacity Index (2005 - 2017)
+                                       85
+           EAST ASIA & PACIFIC*
+           FIJI                        75
+           KIRIBATI
+           MARSHALL ISLANDS            65
+
+           MICRONESIA, FED. STS.
+                                       55
+           NAURU
+           PALAU
+                                       45
+           SAMOA
+           SOLOMON ISLANDS             35
+           TONGA
+           TUVALU                      25
+           VANUATU
+                                       15
+      * EXCLUDING HIGH INCOME                2005    2006    2007    2008    2009    2010    2011     2012   2013   2014   2015   2016   2017
+
+ Source: World Bank, datatopics.worldbank.org/statisticalcapacity
+
+     9. Secretariat of the Pacific Community – Statistics for Development Division (SPC-SDD) is a key stakeholder in
+     addressing the statistical capacity gap in the region, but it too suffers from resource and capacity issues. SPC-SDD’s
+     primary goal is to “strengthen access to and use of development statistics in policy development and monitoring
+     progress�?. SPC-SDD is charged with providing direct support to NSOs in the PICs in conducting data collection, including
+     household surveys, censuses, administrative statistics, price measures, etc., for their 21 member countries and
+     territories (12 of which are World Bank members)3. SPC-SDD has a six-member Statistical Collection team which
+     provides technical assistance on household survey and census rounds, as well as in cleaning and compiling the data.
+     As the complexity of surveys and frequency of data collection has increased in recent years, SPC-SDD has found itself
+     lacking the human and financial resources, as well as the technical capacity, to provide this retail support to its
+     member countries in an adequate manner, particularly regarding improved methods and data analysis. Therefore, the
+     Pacific region lags other parts of the world in adopting new surveying methods and implementing technological
+     improvements. With regard to analysis, other development partners, such as the World Bank, Asian Development
+     Bank, and United Nations Development Programme, have led poverty analysis using the data, mainly through
+     consultants. However, due to the disconnect between the data collection/cleaning and the analysis, and the lack of
+     continuity and documentation between rounds, it is difficult for countries issue survey reports in a timely manner and
+     to measure national trends in poverty and other key socioeconomic statistics.
+
+     10. The SPC-SDD 2018-2020 Business Plan marks a shift in SPC-SDD’s role to a “statistical system leader�?. Going
+     forward, SPC-SDD will shift from its retail approach to a role as “coordinator, broker, convenor, promoter and system
+     leader�? for statistics in the PICs. Rather than providing technical assistance on its own, the Business Plan calls for SDD
+
+ 3
+  The Pacific Island Countries and Territories that are SPC members include: American Samoa, Cook Islands, Federated States of
+ Micronesia, Fiji, French Polynesia, Guam, Kiribati, Marshall Islands, Nauru, New Caledonia, Niue, Northern Mariana Islands, Palau,
+ Papua New Guinea, Samoa, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, and Wallis and Futuna. Highlights indicate WB
+ member states. SPC membership also includes Australia, France, New Zealand, Pitcairn Islands, and the United States of America.
+
+Dec 03, 2018                                                                                                                         Page 8 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+     to leverage the technical expertise of other development partners and international experts, while also playing a
+     leadership role in the harmonization and modernization agenda through improved documentation and coordination.
+
+     11. The Pacific Statistics Methods Board has potential to accelerate the adoption of new methods for data
+     collection and statistical analysis. The PSMB is a newly-formed body that illustrates the changing role of SDD. The
+     PSMB was formed in 2017 as a technical body under the Heads of Planning and Statistics (HOPS) meeting and the
+     Pacific Statistics Standing Committee (PSSC), reporting its key decisions, progress, and achievements to PSSC during
+     their annual meetings. The purpose of the board is to “ensure that relevant best practice standards are developed
+     and are fit for purpose for use in Pacific Island countries and territories for a suite of core censuses and surveys�?. The
+     terms of reference for the PSMB charge the group with promoting standardization and harmonization in the
+     methodologies adopted by NSOs in the PICs, seeking out opportunities to incorporate the latest innovations in data
+     collection, and conducting rigorous assessments of feasibility and suitability of these new methods to the Pacific
+     context. The members include Statistics New Zealand (chair), the Australian Bureau of Statistics, UN agencies, and one
+     NSO representative from each of the four Pacific regions: Micronesia, Melanesia, Polynesia, and the small island
+     states, with the World Bank holding observer status. The 2017 HOPS meeting tasked SPC-SDD to provide secretariat
+     support to the PSMB.
+
+  Relationship to CPF
+
+     12. Closing data gaps is a corporate priority for the region. Fiji and Solomon Islands have Country Partnership
+     Frameworks and there is a Regional Partnership Framework for remaining nine Pacific Island countries (Kiribati,
+     Marshall Islands, Federated States of Micronesia, Nauru, Palau, Samoa, Tonga, Tuvalu, and Vanuatu). The latter
+     document, in particular, highlighted significant gaps in socio-economic indicators in most of the PICs. Overall the three
+     documents emphasize the necessity of having a solid foundation for evidence-driven policymaking.
+
+     13. The Regional Partnership Framework for the PIC9 emphasizes the need to address persistent knowledge gaps.
+     The RPF highlighted the lack of concrete information on the prevalence and severity of poverty and the specific nature
+     of constraints faced by the poor, as well as the uneven quality and inconsistent methodologies in HIES implementation
+     and poverty analysis. As such, the RPF explicitly lists addressing knowledge gaps as Objective 4.3 and states the need
+     to: 1) provide technical assistance to NSOs and SPC to enhance their data collection and analysis capabilities, and 2)
+     develop and pilot low-cost survey approaches that are financially sustainable.
+
+     14. The Solomon Islands CPF points to several key knowledge gaps that hindered the systematic country diagnostic
+     process. Compared to other NSOs in the Pacific, the capacity and resourcing of the Solomon Islands NSO is relatively
+     high. As such, data deprivation is not as severe, with HIES rounds conducted in 2005/6 and 2012/13. However, there
+     are still shortcomings: methodological changes and errors in poverty analytics have made it difficult to draw robust
+     conclusions about poverty and inequality dynamics over time.
+
+
+
+
+Dec 03, 2018                                                                                                         Page 9 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+  C. Proposed Development Objective(s)
+
+ Program Level Development Objective
+ To increase availability and access to timely data for policymaking in the Pacific Region.
+
+ Country Project Development Objective
+
+ To improve the quality, frequency, and timeliness of welfare statistics in the Pacific Island Countries (PIC).
+
+ Regional Organization Project Development Objective
+
+ To strengthen the capacity of the regional organization in coordinating technical assistance to NSOs and fostering
+ improved practices in the region.
+
+
+
+  D. Concept Description
+ The Statistical Innovation and Capacity Building in Pacific Islands Series of Projects (SOP) will support countries in the
+ Pacific region to increase the quality, frequency, and timeliness of socioeconomic statistics. The program envisions one
+ regional organization grant to the Statistics for Development Division (SDD) of the Pacific Community, and two to three
+ country level projects. The grant to the regional organization has planned three components. First, the grant will support
+ the newly formed Pacific Statistics Methods Board (PSMB). The PSMB was created by the 2017 Heads of Planning meeting
+ to promote rigorous approaches to methodological work in regional National Statistics Offices (NSOs). The second
+ component supports SDD to increase their capacity to analyze and provide training in welfare measurement, including the
+ calculation of poverty statistics. The final component provides financing to foster innovation, focused mainly on novel
+ methods of data collection. The country-level grants support the collection of the next one to two rounds of the
+ Household Income and Expenditure Survey (HIES) using improved methods, including a revised questionnaire, electronic
+ data capture and verification, and reduced processing times. In addition, the country projects will provide targeted
+ support to the project implementation teams within the NSOs, including materials and non-statistics technical training.
+
+
+
+
+  Legal Operational Policies                                                              Triggered?
+  Projects on International Waterways OP 7.50                                             No
+  Projects in Disputed Areas OP 7.60                                                      No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  Impacts associated with the Project are expected to be largely positive. Increased access to anonymized
+  microdata will provide information and socioeconomic data to various stakeholders in the government,
+  donor, academic, NGO, and civil society sectors, improving planning and decision making. The E&S risks
+  associated with Project activities are expected to be limited and easily managed through project design and
+  effective implementation.
+
+
+
+Dec 03, 2018                                                                                                      Page 10 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+ Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document.
+
+
+
+  CONTACT POINT
+
+
+  World Bank
+  Kristen Himelein Kastelic
+  Senior Economist/Statistician
+
+
+  Borrower/Client/Recipient
+  Pacific Community - Statistics for Development Division
+
+
+
+
+  Implementing Agencies
+
+  Statistics for Development Division - Pacific Community
+  Ofa Ketuu
+  Director, Statistics for Development Division
+  ofak@spc.int
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                        Kristen Himelein Kastelic
+
+  Approved By
+  APPROVALTBL
+  Environmental and Social Standards
+  Advisor:
+  Practice Manager/Manager:
+
+
+Dec 03, 2018                                                                                               Page 11 of 12
+         The World Bank
+         Statistical Innovation and Capacity Building in Pacific Islands (P168122)
+
+
+
+  Country Director:
+
+
+
+
+   Note to Task Teams: End of system generated content, document is editable from here. Please delete this note when
+   finalizing the document.
+
+
+
+
+Dec 03, 2018                                                                                               Page 12 of 12
+

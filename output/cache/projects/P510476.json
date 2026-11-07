@@ -1,0 +1,881 @@
+{
+  "project_id": "P510476",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "8034a778",
+  "started_at": "2026-11-07T03:39:05Z",
+  "ended_at": "2026-11-07T03:39:26Z",
+  "input_fingerprint": "c17f434107676ab9",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 24,
+  "innovative": "Yes",
+  "n_approaches": 4,
+  "approaches": [
+    {
+      "approach_id": "P510476-A1",
+      "project_id": "P510476",
+      "name": "digital bookkeeping tools for community groups",
+      "description": "Introduces community groups to digital bookkeeping and financial management tools for transparency and data.",
+      "why_innovative": "Digital bookkeeping tools digitizing group financial records for lender data | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051525164525007",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-12",
+        "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+        "char_start": 72928,
+        "char_end": 73196,
+        "text": "To enhance sustainability, community groups will be introduced to financial management and digital bookkeeping tools, ensuring efficiency, transparency, and availability of quality data for potential partner institutions, including banks and microfinance institutions.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital bookkeeping tool is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Social Inclusion",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital bookkeeping for community groups supports inclusion and transparency.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P171607",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "o collaborate effectively with activities under the Uganda Climate Smart Agricultural Transformation Project (UCSATP – P173296), the Generating Growth Opportunities and Productivity for Women Enterprises project (GROW – P176747), the Investment for Industrial Transformation and Employment (INVITE – P171607), and the Northern Uganda Social Action Fund Phase II (NUSAF IV – P179904). 39. At the villa"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: digital bookkeeping tools | Innovative: group records digitized for lenders | Category: digital tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital bookkeeping tools digitizing group financial records for lender data",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P510476-A2",
+      "project_id": "P510476",
+      "name": "digital loans scored on transaction history",
+      "description": "Introduces digital banking and payments enabling collateral-free digital loans based on transaction history.",
+      "why_innovative": "New product: collateral-free digital loans from transaction history - cue: 'digital financial services' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051525164525007",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-12",
+        "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+        "char_start": 73197,
+        "char_end": 73383,
+        "text": "The project will introduce digital financial services, including digital banking and payments, to support access to low-risk, collateral- free digital loans based on transaction history.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: new credit product for unbanked groups",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Markets, Commercialization, Agri-Business and Agriculture finance",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital loans and finance align with agriculture finance.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P171607",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "o collaborate effectively with activities under the Uganda Climate Smart Agricultural Transformation Project (UCSATP – P173296), the Generating Growth Opportunities and Productivity for Women Enterprises project (GROW – P176747), the Investment for Industrial Transformation and Employment (INVITE – P171607), and the Northern Uganda Social Action Fund Phase II (NUSAF IV – P179904). 39. At the villa"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: transaction-history digital credit scoring | Innovative: collateral-free loans via digital history | Category: fintech credit",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New product: collateral-free digital loans from transaction history - cue: 'digital financial services'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P510476-A3",
+      "project_id": "P510476",
+      "name": "interoperable MIS data sharing across projects",
+      "description": "Links DRDIP II MIS with related projects to share beneficiary data and prevent overlap.",
+      "why_innovative": "New process: interoperable MIS data sharing across operations - cue: 'interoperab' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099051525164525007",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-12",
+        "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+        "char_start": 75415,
+        "char_end": 75555,
+        "text": "(c) data sharing will be facilitated through interoperability between the DRDIP II management information system (MIS) and related projects;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: inter-agency data sharing is the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Social Risk Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "Interoperable MIS data sharing prevents overlap, a social risk management function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P171607",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicates",
+          "evidence": "o collaborate effectively with activities under the Uganda Climate Smart Agricultural Transformation Project (UCSATP – P173296), the Generating Growth Opportunities and Productivity for Women Enterprises project (GROW – P176747), the Investment for Industrial Transformation and Employment (INVITE – P171607), and the Northern Uganda Social Action Fund Phase II (NUSAF IV – P179904). 39. At the villa"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: interoperable MIS | Innovative: cross-project beneficiary data exchange | Category: inter-agency data sharing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: interoperable MIS data sharing across operations - cue: 'interoperab'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P510476-A4",
+      "project_id": "P510476",
+      "name": "AI model predicting refugee inflows for DCRM disbursement",
+      "description": "World Bank AI model forecasting refugee inflows to trigger early DCRM funding to districts",
+      "why_innovative": "New service: AI inflow prediction for pre-emptive financing - cue: 'predicts' | category Technological; adoption prospect; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099051525164525007",
+        "doc_type": "PAD",
+        "doc_date": "2025-05-12",
+        "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+        "char_start": 57505,
+        "char_end": 57987,
+        "text": "Through ongoing analytical work, the World Bank has developed an Artificial Intelligence (AI)-based model that predicts refugee inflows before they occur.21 If the World Bank is able to raise funds to run the AI model live, the GoU will undertake an assessment to consider using it for Phase II to facilitate the disbursement of DCRM funding to districts before large refugee inflows occur, supporting preparedness and minimizing stress on host populations and refugees in the RHDs.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: predictive AI model is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Social Risk Management",
+        "code": "",
+        "confidence": null,
+        "rationale": "AI forecasting triggers DCRM funding, a social risk management mechanism.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "mentioned_only",
+      "adoption": {
+        "value": "prospect",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: AI refugee-inflow prediction model | Innovative: predictive triggers for pre-emptive financing | Category: AI model",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: AI inflow prediction for pre-emptive financing - cue: 'predicts'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P510476",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-12",
+      "guid": "099051525164525007",
+      "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:39:05Z",
+      "ended_at": "2026-11-07T03:39:06Z",
+      "status": "ok",
+      "note": "3 document(s) fetched from the WBG API; 7 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:39:06Z",
+      "ended_at": "2026-11-07T03:39:06Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-06-04, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:39:06Z",
+      "ended_at": "2026-11-07T03:39:07Z",
+      "status": "ok",
+      "note": "24 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 24,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 7,
+          "public_good": 2,
+          "results_based_management": 2,
+          "enabling_technologies": 3,
+          "innovation_types": 4,
+          "innovation_cycle": 4,
+          "innovation": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:39:07Z",
+      "ended_at": "2026-11-07T03:39:07Z",
+      "status": "ok",
+      "note": "PAD 2025-05-12 (P510476_PAD_2025-05-12_099051525164525007.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P510476",
+            "doc_type": "PAD",
+            "doc_date": "2025-05-12",
+            "guid": "099051525164525007",
+            "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:39:07Z",
+      "ended_at": "2026-11-07T03:39:07Z",
+      "status": "ok",
+      "note": "108 reading units (7 numbered paragraphs) from 895 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 108
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:39:07Z",
+      "ended_at": "2026-11-07T03:39:09Z",
+      "status": "ok",
+      "note": "69 of 108 units carry a digital / AI cue (20 also an innovation cue); 6 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 69,
+        "dropped": 0,
+        "legal_condition": 6,
+        "with_innovation_cue": 20
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:39:09Z",
+      "ended_at": "2026-11-07T03:39:16Z",
+      "status": "ok",
+      "note": "12 candidate practices from 69 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 214590,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1343,
+          "cached_tokens": 44669,
+          "cache_write_tokens": 0,
+          "output_tokens": 2767,
+          "seconds": 20.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.004
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:39:16Z",
+      "ended_at": "2026-11-07T03:39:22Z",
+      "status": "ok",
+      "note": "5 accepted, 7 rejected (not_innovative 5, not_digital 2); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 59087,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 6885,
+          "cached_tokens": 5248,
+          "cache_write_tokens": 0,
+          "output_tokens": 842,
+          "seconds": 5.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0031
+        },
+        "accepted": 5,
+        "rejected": 7,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 2,
+          "not_innovative": 5
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:39:22Z",
+      "ended_at": "2026-11-07T03:39:24Z",
+      "status": "ok",
+      "note": "5 of 5 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1687,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 369,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 193,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:39:24Z",
+      "ended_at": "2026-11-07T03:39:24Z",
+      "status": "ok",
+      "note": "5 approaches -> 5 by sector x category; no group needed naming; 1 Data Sheet sentences attached",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 1
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:39:24Z",
+      "ended_at": "2026-11-07T03:39:26Z",
+      "status": "ok",
+      "note": "5 approaches checked in 1 call(s): 4 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 10006,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 752,
+          "cached_tokens": 1280,
+          "cache_write_tokens": 0,
+          "output_tokens": 292,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:39:26Z",
+      "ended_at": "2026-11-07T03:39:26Z",
+      "status": "ok",
+      "note": "4 approaches (3 applied), 4 evidence rows, 8 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:39:26Z",
+      "ended_at": "2026-11-07T03:39:26Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P171607",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "o collaborate effectively with activities under the Uganda Climate Smart Agricultural Transformation Project (UCSATP – P173296), the Generating Growth Opportunities and Productivity for Women Enterprises project (GROW – P176747), the Investment for Industrial Transformation and Employment (INVITE – P171607), and the Northern Uganda Social Action Fund Phase II (NUSAF IV – P179904). 39. At the villa"
+          }
+        ],
+        "store_size": 288
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P510476-A1-E1",
+      "approach_id": "P510476-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P510476",
+      "doc_id": "099051525164525007",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-12",
+      "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 402,
+      "char_start": 72928,
+      "char_end": 73196,
+      "sentence": "To enhance sustainability, community groups will be introduced to financial management and digital bookkeeping tools, ensuring efficiency, transparency, and availability of quality data for potential partner institutions, including banks and microfinance institutions.",
+      "practice": "digital bookkeeping tools for community groups",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Social Inclusion",
+      "extractor_reason": "Digital core: digital bookkeeping tools | Not routine: group records digitized for lenders | Adoption: 'will be introduced'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: digital bookkeeping tools | Innovative: group records digitized for lenders | Category: digital tool",
+      "keywords_hit": "digital financial services",
+      "innovation_cues": "",
+      "innovation_basis": "Digital bookkeeping tools digitizing group financial records for lender data",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8034a778"
+    },
+    {
+      "row_id": "P510476-A2-E1",
+      "approach_id": "P510476-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P510476",
+      "doc_id": "099051525164525007",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-12",
+      "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+      "unit_id": "U52",
+      "para_no": null,
+      "sentence_position": 403,
+      "char_start": 73197,
+      "char_end": 73383,
+      "sentence": "The project will introduce digital financial services, including digital banking and payments, to support access to low-risk, collateral- free digital loans based on transaction history.",
+      "practice": "digital loans scored on transaction history",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural Markets, Commercialization, Agri-Business and Agriculture finance",
+      "extractor_reason": "Digital core: transaction-history digital credit scoring | Not routine: collateral-free loans via digital history | Adoption: 'will introduce'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: transaction-history digital credit scoring | Innovative: collateral-free loans via digital history | Category: fintech credit",
+      "keywords_hit": "digital financial services",
+      "innovation_cues": "",
+      "innovation_basis": "New product: collateral-free digital loans from transaction history - cue: 'digital financial services'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8034a778"
+    },
+    {
+      "row_id": "P510476-A3-E1",
+      "approach_id": "P510476-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P510476",
+      "doc_id": "099051525164525007",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-12",
+      "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 418,
+      "char_start": 75415,
+      "char_end": 75555,
+      "sentence": "(c) data sharing will be facilitated through interoperability between the DRDIP II management information system (MIS) and related projects;",
+      "practice": "interoperable MIS data sharing across projects",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Public Administration - Social Risk Management",
+      "extractor_reason": "Digital core: interoperable project MIS | Not routine: cross-project data exchange | Adoption: 'will be facilitated'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: interoperable MIS | Innovative: cross-project beneficiary data exchange | Category: inter-agency data sharing",
+      "keywords_hit": "MIS;host communities;information system;interoperab;management information system;mapping;refugee;interoperability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: interoperable MIS data sharing across operations - cue: 'interoperab'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8034a778"
+    },
+    {
+      "row_id": "P510476-A4-E1",
+      "approach_id": "P510476-A4",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P510476",
+      "doc_id": "099051525164525007",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-12",
+      "file_name": "P510476_PAD_2025-05-12_099051525164525007.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 310,
+      "char_start": 57505,
+      "char_end": 57987,
+      "sentence": "Through ongoing analytical work, the World Bank has developed an Artificial Intelligence (AI)-based model that predicts refugee inflows before they occur.21 If the World Bank is able to raise funds to run the AI model live, the GoU will undertake an assessment to consider using it for Phase II to facilitate the disbursement of DCRM funding to districts before large refugee inflows occur, supporting preparedness and minimizing stress on host populations and refugees in the RHDs.",
+      "practice": "AI model predicting refugee inflows for DCRM disbursement",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "Public Administration - Social Risk Management",
+      "extractor_reason": "Digital core: AI refugee-inflow prediction model | Not routine: predictive analytics for contingency triggers | Adoption: 'if able to raise funds'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: AI refugee-inflow prediction model | Innovative: predictive triggers for pre-emptive financing | Category: AI model",
+      "keywords_hit": "AI;artificial intelligence;data collection;host communities;refugee;artificial-intelligence",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AI inflow prediction for pre-emptive financing - cue: 'predicts'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8034a778"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 239,
+      "char_start": 46617,
+      "char_end": 46745,
+      "sentence": "The project featured the world’s first displacement risk financing mechanism, the Displacement Crisis Response Mechanism (DCRM).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Displacement Crisis Response Mechanism contingency financing",
+      "reason": "reject: Contingency financing mechanism with no digital/data/AI core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New financial instrument: displacement risk financing mechanism - cue: 'world's first'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Contingency financing mechanism with no digital/data/AI core",
+          "reject_code": "not_digital",
+          "context_chars": 1431
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 305,
+      "char_start": 56596,
+      "char_end": 56689,
+      "sentence": "The DCRM is a contingency financing mechanism for RHDs that experience large refugee inflows.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "DCRM trigger-based rapid disbursement to pressured districts",
+      "reason": "reject: Population-threshold triggers, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: population-triggered contingency disbursement - cue: 'rapidly disbursed'",
+      "innovation_cues": "adaptive",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Population-threshold triggers, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1334
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 419,
+      "char_start": 75556,
+      "char_end": 75881,
+      "sentence": "(d) the Geo-Enabling initiative for Monitoring and Supervision (GEMS) at the portfolio level will provide mapping of different projects, offering timely information on subproject locations; and (e) bi-annual joint reviews and joint missions of the PIUs and World Bank will be explored for strategic stocktaking and alignment.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GEMS geospatial mapping of subproject locations",
+      "reason": "reject: GEMS geospatial mapping is standard Bank supervision tool, not project innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geospatial mapping of subprojects portfolio-wide - cue: 'mapping'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS geospatial mapping is standard Bank supervision tool, not project innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1425
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 434,
+      "char_start": 77770,
+      "char_end": 77861,
+      "sentence": "Beneficiary phone surveys will be conducted regularly to gather information from the field.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "beneficiary phone surveys for field monitoring",
+      "reason": "reject: Routine M&E beneficiary phone surveys, standard monitoring practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: phone-based beneficiary feedback for M&E - cue: 'survey'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine M&E beneficiary phone surveys, standard monitoring practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1333
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 470,
+      "char_start": 82806,
+      "char_end": 83012,
+      "sentence": "Monitoring will be enhanced in Phase II, including regular beneficiary phone surveys and quarterly technical supervision missions, targeting infrastructure subprojects that are more complex and challenging.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "beneficiary phone surveys for infrastructure supervision",
+      "reason": "reject: Phone surveys as routine supervision of subprojects, standard M&E",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: phone surveys to supervise dispersed subprojects - cue: 'survey'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Phone surveys as routine supervision of subprojects, standard M&E",
+          "reject_code": "not_innovative",
+          "context_chars": 1230
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 524,
+      "char_start": 89967,
+      "char_end": 90198,
+      "sentence": "Regular phone surveys will also be conducted for beneficiaries under the economic opportunity component to gather data on business sustainability and profitability to allow for real-time learning and course correction as necessary.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "phone surveys of economic-opportunity beneficiaries for real-time course correction",
+      "reason": "reject: Routine phone-survey M&E, not a distinctive new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: phone-survey feedback loop for adaptive management - cue: 'real-time learning'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine phone-survey M&E, not a distinctive new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1326
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 825,
+      "char_start": 134794,
+      "char_end": 134901,
+      "sentence": "Geospatial mapping and disaggregation of land/aquatic zone type and Collection activity taken in each area.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "geospatial mapping of land/aquatic zones for environmental M&E",
+      "reason": "reject: Standard geospatial M&E methodology for indicator disaggregation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geospatial crosstabulation of population with hectarage - cue: 'geospatial mapping'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard geospatial M&E methodology for indicator disaggregation",
+          "reject_code": "not_innovative",
+          "context_chars": 1225
+        }
+      ]
+    },
+    {
+      "guid": "099051525164525007",
+      "doc_type": "PAD",
+      "position": 886,
+      "char_start": 146302,
+      "char_end": 146437,
+      "sentence": "Includes establishment of early warning systems and capacity building for government officials to implement the DCRM model effectively.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Early warning systems established under the Displacement Crisis Response Mechanism (DCRM) with official training",
+      "reason": "reject: final check round 1: digital: incidental - Digital: early warning systems may use data but approach is institutional mechanism | Before 2019: EWS standard in WBG/UN disaster risk operations",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: early warning systems feeding DCRM shock response; cue 'early warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear what early warning systems are built and whether financed as digital tool",
+          "reject_code": "",
+          "context_chars": 1630
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: early warning systems | Innovative: EWS tied to DCRM shock response | Category: new delivery arrangement",
+          "reject_code": "",
+          "context_chars": 4916
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: early warning systems may use data but approach is institutional mechanism | Before 2019: EWS standard in WBG/UN disaster risk operations",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 11,
+    "input_tokens": 9349,
+    "cached_tokens": 51197,
+    "cache_write_tokens": 0,
+    "output_tokens": 4094,
+    "seconds": 31.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.008
+  }
+}

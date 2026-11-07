@@ -1,0 +1,322 @@
+{
+  "project_id": "P162835",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "baa87edb",
+  "started_at": "2026-11-07T03:22:47Z",
+  "ended_at": "2026-11-07T03:22:56Z",
+  "input_fingerprint": "64d4c645dff907a2",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 15,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P162835",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-05-27",
+      "guid": "099052725101537196",
+      "file_name": "P162835_ProjectPaper_2025-05-27_099052725101537196.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:22:47Z",
+      "ended_at": "2026-11-07T03:22:47Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 20 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:22:47Z",
+      "ended_at": "2026-11-07T03:22:47Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-04-17, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:22:47Z",
+      "ended_at": "2026-11-07T03:22:49Z",
+      "status": "ok",
+      "note": "15 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 15,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 3,
+          "innovation": 3,
+          "innovation_types": 4,
+          "innovation_cycle": 3,
+          "public_good": 1,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:49Z",
+      "status": "ok",
+      "note": "ProjectPaper 2025-05-27 (P162835_ProjectPaper_2025-05-27_099052725101537196.txt); skipped non-Latin: P162835_PAD_2019-03-27_936201559640333937.txt (latin share 0.01)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P162835",
+            "doc_type": "ProjectPaper",
+            "doc_date": "2025-05-27",
+            "guid": "099052725101537196",
+            "file_name": "P162835_ProjectPaper_2025-05-27_099052725101537196.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": [
+          "P162835_PAD_2019-03-27_936201559640333937.txt (latin share 0.01)"
+        ]
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:49Z",
+      "status": "ok",
+      "note": "12 reading units (7 numbered paragraphs) from 89 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 12
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:22:49Z",
+      "ended_at": "2026-11-07T03:22:50Z",
+      "status": "ok",
+      "note": "6 of 12 units carry a digital / AI cue (3 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 6,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 3
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:22:50Z",
+      "ended_at": "2026-11-07T03:22:54Z",
+      "status": "ok",
+      "note": "3 candidate practices from 6 units in 1 calls",
+      "llm_calls": 1,
+      "input_chars": 24983,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 157,
+          "cached_tokens": 5376,
+          "cache_write_tokens": 0,
+          "output_tokens": 556,
+          "seconds": 4.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:22:54Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "ok",
+      "note": "0 accepted, 3 rejected (not_digital 3); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 21083,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1628,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 157,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "accepted": 0,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:22:56Z",
+      "ended_at": "2026-11-07T03:22:56Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 9
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "099052725101537196",
+      "doc_type": "ProjectPaper",
+      "position": 19,
+      "char_start": 3942,
+      "char_end": 4031,
+      "sentence": "Component 2: Risk Capital for Innovative Startups and High Growth SMEs (US$50 million) c.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Fund-of-funds risk capital for early-stage startups and HGEs",
+      "reason": "reject: Public fund-of-funds financing VC/seed funds; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: public fund-of-funds mobilizing private VC - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Public fund-of-funds financing VC/seed funds; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1438
+        }
+      ]
+    },
+    {
+      "guid": "099052725101537196",
+      "doc_type": "ProjectPaper",
+      "position": 29,
+      "char_start": 5362,
+      "char_end": 5572,
+      "sentence": "MSMEDA’s Fund-of-Funds has invested in 11 early-stage VC and related funds (accelerators, seed funds, early-stage, and growth stage VC funds) in Egypt, and expects to invest in a total of 15 funds by June 2025.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Fund-of-funds investing in VC, seed and accelerator funds",
+      "reason": "reject: Fund-of-funds investing in VC/accelerator funds; financial instrument, no digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: fund-of-funds backing 140 startups - cue: 'accelerators'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Fund-of-funds investing in VC/accelerator funds; financial instrument, no digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 972
+        }
+      ]
+    },
+    {
+      "guid": "099052725101537196",
+      "doc_type": "ProjectPaper",
+      "position": 35,
+      "char_start": 5817,
+      "char_end": 5879,
+      "sentence": "The Project initiated the Egypt’s first Fund of Funds program.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Egypt's first Fund of Funds mobilizing commercial VC capital",
+      "reason": "reject: First fund-of-funds with 3.5x leverage; mobilization arrangement, no digital core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: first fund-of-funds with 3.5x leverage - cue: 'first'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "First fund-of-funds with 3.5x leverage; mobilization arrangement, no digital core",
+          "reject_code": "not_digital",
+          "context_chars": 1290
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 2,
+    "input_tokens": 1785,
+    "cached_tokens": 8320,
+    "cache_write_tokens": 0,
+    "output_tokens": 713,
+    "seconds": 6.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0014
+  }
+}

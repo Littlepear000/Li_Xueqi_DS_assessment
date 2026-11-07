@@ -1,0 +1,72 @@
+[
+  {
+    "tag": "v6.0",
+    "hash": "88ac7948f1fb",
+    "date": "2026-11-06",
+    "note": "v5 + innovation test, innovation screen (step 0), Data Sheet exclusion, reject_code",
+    "package_version": "0.3.0"
+  },
+  {
+    "tag": "v6.1",
+    "hash": "85aeddb218ef",
+    "date": "2026-11-06",
+    "note": "v6.1: sector only (no theme); one approach per sector x category",
+    "package_version": "0.3.1"
+  },
+  {
+    "tag": "v6.2",
+    "hash": "8062dcca7a6e",
+    "date": "2026-11-06",
+    "note": "v6.2: fix aggregate crash (Evidence.char_start) when Data Sheet evidence is attached",
+    "package_version": "0.3.3"
+  },
+  {
+    "tag": "v6.3",
+    "hash": "64f504b7e7df",
+    "date": "2026-11-06",
+    "note": "v6.3: pre-2019 novelty check, 3 rounds, one 'existed before' drops the approach",
+    "package_version": "0.3.9"
+  },
+  {
+    "tag": "v6.4",
+    "hash": "36cc11435630",
+    "date": "2026-11-06",
+    "note": "v6.4: digital & AI as the core of an approach; digital question in the final check",
+    "package_version": "0.3.10"
+  },
+  {
+    "tag": "v6.5",
+    "hash": "380a4f5266d6",
+    "date": "2026-11-06",
+    "note": "v6.5: pre-2019 check relaxed - one call; rare/absent kept, in use/common dropped",
+    "package_version": "0.3.13"
+  },
+  {
+    "tag": "v6.6",
+    "hash": "0c0831994bb8",
+    "date": "2026-11-06",
+    "note": "v6.6: short fixed-shape justifications + category_reason",
+    "package_version": "0.3.14"
+  },
+  {
+    "tag": "v6.7",
+    "hash": "464ebc34050c",
+    "date": "2026-11-07",
+    "note": "v6.7: MDB/international-development context + project life cycle; pre-2019 check vs MDB practice",
+    "package_version": "0.3.20"
+  },
+  {
+    "tag": "v6.8",
+    "hash": "8d326fe00319",
+    "date": "2026-11-07",
+    "note": "v6.8: pre-2019 check loosened - fail_on=[common], keep in_use",
+    "package_version": "0.3.21"
+  },
+  {
+    "tag": "v6.9",
+    "hash": "f55efc9e38b8",
+    "date": "2026-11-07",
+    "note": "scope step: approval date >= 2019-01-01 (calendar), Canceled / Dropped excluded",
+    "package_version": "0.3.28"
+  }
+]

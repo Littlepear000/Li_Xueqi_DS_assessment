@@ -1,0 +1,1034 @@
+{
+  "project_id": "P174684",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "8a52303d",
+  "started_at": "2026-11-07T03:31:59Z",
+  "ended_at": "2026-11-07T03:32:36Z",
+  "input_fingerprint": "5841fde5b49c4362",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 42,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P174684-A1",
+      "project_id": "P174684",
+      "name": "digital case management and CRM for commercial justice and investment promotion",
+      "description": "The project finances digital case management for commercial courts and a full CRM for investment promotion and investor aftercare services. Practices: Digital case management for commercial justice; Full CRM system for investment promotion and investor aftercare.",
+      "why_innovative": "New process: digital case management in commercial courts - cue: 'digitization of' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "236781624327270820",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-27",
+        "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+        "char_start": 54207,
+        "char_end": 54305,
+        "text": "Examples include support for the digitization of case management to streamline commercial justice.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "236781624327270820",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-27",
+          "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+          "char_start": 54061,
+          "char_end": 54206,
+          "text": "The project will develop and utilize digital solutions for government to business services (G2B) to facilitate activities for the private sector.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "236781624327270820",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-27",
+          "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+          "char_start": 69987,
+          "char_end": 70132,
+          "text": "The project will support the implementation of a full CRM system for the various services of EDBM, including the investment promotion activities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "236781624327270820",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-27",
+          "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+          "char_start": 70133,
+          "char_end": 70350,
+          "text": "Such system will strengthen EDBM’s ability to track the investor services they provide (from first contacts, to lead to projects, to issues, reinvestment and linkages), thereby improving the quality of these services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "236781624327270820",
+          "doc_type": "PAD",
+          "doc_date": "2021-05-27",
+          "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+          "char_start": 69747,
+          "char_end": 69916,
+          "text": "As part of the current investment retention program, a relationship management system using a free platform (Hubspot) has been put into place as a transitional solution.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the case-management system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Industry, Trade and Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Commercial justice digitization supports business environment and trade services under public administration.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: commercial court case-management system | Innovative: digitizes judicial workflow | Category: Technological system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: digital case management in commercial courts - cue: 'digitization of'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P174684-A2",
+      "project_id": "P174684",
+      "name": "Pilot digital tourism interventions: online booking, contactless payment, real-time data",
+      "description": "Project pilots online booking and payment, contactless technology and real-time data collection in tourism.",
+      "why_innovative": "New service: online booking and contactless tourism payments - cue: 'pilot' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "236781624327270820",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-27",
+        "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+        "char_start": 91708,
+        "char_end": 92085,
+        "text": "These activities will include (i) pilot interventions in digital technology for tourism, with examples that include online booking and payment, promotion of contactless technology, and the collection of real-time data; and (ii) digital agriculture initiatives that lower barriers to farmers and SMEs’ access to upstream and downstream market s, to services, and to information.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital booking/payment tools are the core",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Tourism",
+        "code": "",
+        "confidence": null,
+        "rationale": "Pilot digital tourism interventions directly target the tourism sector.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: online booking, contactless payment, real-time data | Innovative: pilot in tourism | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: online booking and contactless tourism payments - cue: 'pilot'",
+      "innovation_cues": [
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P174684-A3",
+      "project_id": "P174684",
+      "name": "Digital cards for vanilla producer census and traceability",
+      "description": "Project distributes digital cards to over 6,000 vanilla producers via census",
+      "why_innovative": "New service: census-linked digital producer cards for vanilla traceability | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "236781624327270820",
+        "doc_type": "PAD",
+        "doc_date": "2021-05-27",
+        "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+        "char_start": 242009,
+        "char_end": 242525,
+        "text": "Key integration of digital technology. tourism sites leading to increased revenues, outcome include the census and distribution of digital - Agribusiness: support to multi-stakeholders’ prospections actions for hotel investments cards to more than 6,000 vanilla producers/farmers and platform for improved value chain coordination leading to around 16 letters of intent of the successful implementation of the National Vanilla and enabling environment, and market investments, rehabilitation and improvement Council.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital card system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural markets, commercialization and agri-business",
+        "code": "",
+        "confidence": null,
+        "rationale": "Vanilla producer census and traceability supports agri-business commercialization.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: producer digital cards from census | Innovative: census-linked traceability for vanilla | Category: digital registry tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: census-linked digital producer cards for vanilla traceability",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P174684",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "guid": "236781624327270820",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:31:59Z",
+      "ended_at": "2026-11-07T03:32:07Z",
+      "status": "ok",
+      "note": "13 document(s) fetched from the WBG API; 18 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:32:07Z",
+      "ended_at": "2026-11-07T03:32:07Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-06-18, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:32:07Z",
+      "ended_at": "2026-11-07T03:32:09Z",
+      "status": "ok",
+      "note": "42 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 42,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 12,
+          "innovation": 6,
+          "enabling_processes": 8,
+          "public_good": 4,
+          "innovation_types": 10,
+          "results_based_management": 1,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:32:09Z",
+      "ended_at": "2026-11-07T03:32:09Z",
+      "status": "ok",
+      "note": "PAD 2021-05-27 (P174684_PAD_2021-05-27_236781624327270820.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P174684",
+            "doc_type": "PAD",
+            "doc_date": "2021-05-27",
+            "guid": "236781624327270820",
+            "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:32:09Z",
+      "ended_at": "2026-11-07T03:32:09Z",
+      "status": "ok",
+      "note": "213 reading units (22 numbered paragraphs) from 1674 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 213
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:32:09Z",
+      "ended_at": "2026-11-07T03:32:12Z",
+      "status": "ok",
+      "note": "74 of 213 units carry a digital / AI cue (30 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 74,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 30
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:32:12Z",
+      "ended_at": "2026-11-07T03:32:21Z",
+      "status": "ok",
+      "note": "14 candidate practices from 74 units in 8 calls",
+      "llm_calls": 8,
+      "input_chars": 243517,
+      "output": {
+        "usage": {
+          "calls": 8,
+          "input_tokens": 1504,
+          "cached_tokens": 49917,
+          "cache_write_tokens": 0,
+          "output_tokens": 3105,
+          "seconds": 23.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0045
+        },
+        "extracted": 14
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:32:21Z",
+      "ended_at": "2026-11-07T03:32:30Z",
+      "status": "ok",
+      "note": "6 accepted, 8 rejected (generic 4, background_or_other_programme 3, not_innovative 1); 7 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 235192,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 36694,
+          "cached_tokens": 9088,
+          "cache_write_tokens": 0,
+          "output_tokens": 1246,
+          "seconds": 10.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0126
+        },
+        "accepted": 6,
+        "rejected": 8,
+        "expanded": 7,
+        "reject_codes": {
+          "generic": 4,
+          "not_innovative": 1,
+          "background_or_other_programme": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:32:30Z",
+      "ended_at": "2026-11-07T03:32:32Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1982,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 300,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 239,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:32:32Z",
+      "ended_at": "2026-11-07T03:32:34Z",
+      "status": "ok",
+      "note": "6 approaches -> 5 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1291,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 166,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 56,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:32:34Z",
+      "ended_at": "2026-11-07T03:32:36Z",
+      "status": "ok",
+      "note": "5 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 2 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 10076,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 943,
+          "cached_tokens": 1024,
+          "cache_write_tokens": 0,
+          "output_tokens": 300,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:32:36Z",
+      "ended_at": "2026-11-07T03:32:36Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 7 evidence rows, 10 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:32:36Z",
+      "ended_at": "2026-11-07T03:32:36Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 156
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P174684-A1-E1",
+      "approach_id": "P174684-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U37",
+      "para_no": 24,
+      "sentence_position": 294,
+      "char_start": 54207,
+      "char_end": 54305,
+      "sentence": "Examples include support for the digitization of case management to streamline commercial justice.",
+      "practice": "Digital case management for commercial justice",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: commercial court case-management system | Not routine: digitizes judicial workflow, not standard IT | Adoption: 'support for the digitization'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: commercial court case-management system | Innovative: digitizes judicial workflow | Category: Technological system",
+      "keywords_hit": "digital economy;digital solution;digitization of;startup;traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital case management in commercial courts - cue: 'digitization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A1-E2",
+      "approach_id": "P174684-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U37",
+      "para_no": 24,
+      "sentence_position": 293,
+      "char_start": 54061,
+      "char_end": 54206,
+      "sentence": "The project will develop and utilize digital solutions for government to business services (G2B) to facilitate activities for the private sector.",
+      "practice": "Digital case management for commercial justice",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: commercial court case-management system | Not routine: digitizes judicial workflow, not standard IT | Adoption: 'support for the digitization'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: commercial court case-management system | Innovative: digitizes judicial workflow | Category: Technological system",
+      "keywords_hit": "digital economy;digital solution;digitization of;startup;traceability",
+      "innovation_cues": "",
+      "innovation_basis": "New process: digital case management in commercial courts - cue: 'digitization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A1-E3",
+      "approach_id": "P174684-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 393,
+      "char_start": 69987,
+      "char_end": 70132,
+      "sentence": "The project will support the implementation of a full CRM system for the various services of EDBM, including the investment promotion activities.",
+      "practice": "Full CRM system for investment promotion and investor aftercare",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: EDBM investor CRM system | Not routine: replaces limited Hubspot aftercare tool | Adoption: 'will support the implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EDBM investor CRM | Innovative: replaces limited Hubspot aftercare tool | Category: Technological system",
+      "keywords_hit": "digital technolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: CRM tracking investor leads to reinvestment - cue: 'transitional solution'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A1-E4",
+      "approach_id": "P174684-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 394,
+      "char_start": 70133,
+      "char_end": 70350,
+      "sentence": "Such system will strengthen EDBM’s ability to track the investor services they provide (from first contacts, to lead to projects, to issues, reinvestment and linkages), thereby improving the quality of these services.",
+      "practice": "Full CRM system for investment promotion and investor aftercare",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: EDBM investor CRM system | Not routine: replaces limited Hubspot aftercare tool | Adoption: 'will support the implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EDBM investor CRM | Innovative: replaces limited Hubspot aftercare tool | Category: Technological system",
+      "keywords_hit": "digital technolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: CRM tracking investor leads to reinvestment - cue: 'transitional solution'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A1-E5",
+      "approach_id": "P174684-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U48",
+      "para_no": null,
+      "sentence_position": 391,
+      "char_start": 69747,
+      "char_end": 69916,
+      "sentence": "As part of the current investment retention program, a relationship management system using a free platform (Hubspot) has been put into place as a transitional solution.",
+      "practice": "Full CRM system for investment promotion and investor aftercare",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Industry, Trade and Services",
+      "extractor_reason": "Digital core: EDBM investor CRM system | Not routine: replaces limited Hubspot aftercare tool | Adoption: 'will support the implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EDBM investor CRM | Innovative: replaces limited Hubspot aftercare tool | Category: Technological system",
+      "keywords_hit": "digital technolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: CRM tracking investor leads to reinvestment - cue: 'transitional solution'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A2-E1",
+      "approach_id": "P174684-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U64",
+      "para_no": null,
+      "sentence_position": 492,
+      "char_start": 91708,
+      "char_end": 92085,
+      "sentence": "These activities will include (i) pilot interventions in digital technology for tourism, with examples that include online booking and payment, promotion of contactless technology, and the collection of real-time data; and (ii) digital agriculture initiatives that lower barriers to farmers and SMEs’ access to upstream and downstream market s, to services, and to information.",
+      "practice": "Pilot digital tourism interventions: online booking, contactless payment, real-time data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Tourism",
+      "extractor_reason": "Digital core: online booking, contactless payment, real-time data | Not routine: pilot in tourism sector | Adoption: 'pilot interventions'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: online booking, contactless payment, real-time data | Innovative: pilot in tourism | Category: Technological",
+      "keywords_hit": "digital agriculture;digital technolog;traceability",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New service: online booking and contactless tourism payments - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    },
+    {
+      "row_id": "P174684-A3-E1",
+      "approach_id": "P174684-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P174684",
+      "doc_id": "236781624327270820",
+      "doc_type": "PAD",
+      "doc_date": "2021-05-27",
+      "file_name": "P174684_PAD_2021-05-27_236781624327270820.txt",
+      "unit_id": "U173",
+      "para_no": null,
+      "sentence_position": 1384,
+      "char_start": 242009,
+      "char_end": 242525,
+      "sentence": "Key integration of digital technology. tourism sites leading to increased revenues, outcome include the census and distribution of digital - Agribusiness: support to multi-stakeholders’ prospections actions for hotel investments cards to more than 6,000 vanilla producers/farmers and platform for improved value chain coordination leading to around 16 letters of intent of the successful implementation of the National Vanilla and enabling environment, and market investments, rehabilitation and improvement Council.",
+      "practice": "Digital cards for vanilla producer census and traceability",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Agricultural markets, commercialization and agri-business",
+      "extractor_reason": "Digital core: digital producer ID cards | Not routine: links census to vanilla value chain | Adoption: 'census and distribution of digital cards'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: producer digital cards from census | Innovative: census-linked traceability for vanilla | Category: digital registry tool",
+      "keywords_hit": "census;connectivity;digital technolog",
+      "innovation_cues": "",
+      "innovation_basis": "New service: census-linked digital producer cards for vanilla traceability",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "8a52303d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 296,
+      "char_start": 54461,
+      "char_end": 54789,
+      "sentence": "32 Digital tools and solutions will also be leveraged to support increased demand for traceability of agriculture value chains, as well as for tourism online booking and payment of facilities and services, the promotion of contactless technology at certain points along the tourism journey, and the collection of real-time data.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital traceability tools for agri value chains",
+      "reason": "reject: Only 'digital tools' named; no traceability system, mechanism or beneficiary specified",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital traceability along agri chains - cue: 'traceability'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Only vague 'digital tools' for traceability; unclear what system is financed or built",
+          "reject_code": "",
+          "context_chars": 2577
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Only 'digital tools' named; no traceability system, mechanism or beneficiary specified",
+          "reject_code": "generic",
+          "context_chars": 22880
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 296,
+      "char_start": 54461,
+      "char_end": 54789,
+      "sentence": "32 Digital tools and solutions will also be leveraged to support increased demand for traceability of agriculture value chains, as well as for tourism online booking and payment of facilities and services, the promotion of contactless technology at certain points along the tourism journey, and the collection of real-time data.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Contactless and online booking technology along tourism journey",
+      "reason": "reject: Online booking/contactless listed as examples; no named platform or system",
+      "reject_code": "generic",
+      "innovation_basis": "New service: contactless and online tourism booking/payment - cue: 'contactless'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether online booking/contactless is financed activity or illustrative example",
+          "reject_code": "",
+          "context_chars": 2577
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Online booking/contactless listed as examples; no named platform or system",
+          "reject_code": "generic",
+          "context_chars": 22880
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 408,
+      "char_start": 73792,
+      "char_end": 74359,
+      "sentence": "(ii) financial and technical support for the development and implementation of an enhanced framework and systems for tourism data collection, management and dissemination, and (iii) financial support to accessing market intelligence and technical support for its use for demand-driven sector repositioning and planning. o For the agribusiness sector, the project will support line Ministries in charge of Trade and Industry and Agriculture, to review, harmonize, update, implement and monitor the legal and regulatory framework covering key agribusiness value chains.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Tourism data collection, management and dissemination system",
+      "reason": "reject: Standard tourism data collection framework; routine sector statistics support",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: tourism data framework for planning - cue: 'systems for tourism data'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear what digital system is built; 'framework and systems' may be non-digital data work",
+          "reject_code": "",
+          "context_chars": 1293
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Standard tourism data collection framework; routine sector statistics support",
+          "reject_code": "not_innovative",
+          "context_chars": 18074
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 488,
+      "char_start": 91145,
+      "char_end": 91374,
+      "sentence": "(v) support certification and traceability for higher-value products using digital technologies; and (vi) promoting training curricula to fill key skills gaps in the agribusiness sector including those on food hygiene and safety.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital certification and traceability for higher-value agribusiness products",
+      "reason": "reject: Certification/traceability named only as 'using digital technologies'; no system specified",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital traceability for export certification - cue: 'traceability'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear which digital traceability/certification system is financed and what it does",
+          "reject_code": "",
+          "context_chars": 1276
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Certification/traceability named only as 'using digital technologies'; no system specified",
+          "reject_code": "generic",
+          "context_chars": 17444
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 492,
+      "char_start": 91708,
+      "char_end": 92085,
+      "sentence": "These activities will include (i) pilot interventions in digital technology for tourism, with examples that include online booking and payment, promotion of contactless technology, and the collection of real-time data; and (ii) digital agriculture initiatives that lower barriers to farmers and SMEs’ access to upstream and downstream market s, to services, and to information.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital agriculture platforms lowering farmer and SME market access barriers",
+      "reason": "reject: 'Digital agriculture initiatives' with no named platform, tool or service",
+      "reject_code": "generic",
+      "innovation_basis": "New service: digital market/information access for farmers - cue: 'digital agriculture'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "No named digital platform; unclear what digital agriculture initiative is financed",
+          "reject_code": "",
+          "context_chars": 1276
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "'Digital agriculture initiatives' with no named platform, tool or service",
+          "reject_code": "generic",
+          "context_chars": 17444
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 1549,
+      "char_start": 268242,
+      "char_end": 268434,
+      "sentence": "Innovations in the targeting program are being introduced to rapidly identify beneficiaries through spatial poverty mapping and to expedite access to transfers by using mobile money transfers.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Spatial poverty mapping to target emergency cash beneficiaries",
+      "reason": "reject: Describes government emergency targeting programme, not this project's financed activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: spatial poverty mapping for targeting - cue: 'innovations'",
+      "innovation_cues": "innovations;mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Describes government emergency targeting programme, not this project's financed activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1541
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 1549,
+      "char_start": 268242,
+      "char_end": 268434,
+      "sentence": "Innovations in the targeting program are being introduced to rapidly identify beneficiaries through spatial poverty mapping and to expedite access to transfers by using mobile money transfers.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Mobile money transfers to targeted social protection beneficiaries",
+      "reason": "reject: Describes government COVID response measures, not a project-financed activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: mobile money transfer delivery - cue: 'mobile money'",
+      "innovation_cues": "innovations;mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Describes government COVID response measures, not a project-financed activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1541
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 1558,
+      "char_start": 270226,
+      "char_end": 270528,
+      "sentence": "Social Protection measures include: • Expansion of the number of beneficiaries of social protection programs from 2,500,000 to 3,900,000 households. • Simplifying ID requirements for mobile money transfers to social protection beneficiaries. • Monitoring of market prices to curb opportunistic pricing.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Simplified ID requirements for mobile money social transfers",
+      "reason": "reject: Government social protection measure listed as background, not project activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: simplified KYC for mobile transfers - cue: 'mobile money'",
+      "innovation_cues": "mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Government social protection measure listed as background, not project activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1238
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 417,
+      "char_start": 77157,
+      "char_end": 77441,
+      "sentence": "This sub-component will support the improvement, streamlining and digitalization of government services to businesses, with initial priority support to business registration and licensing, registering property and resolution of commercial disputes in the targeted regions and sectors.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Digitalization of business registration and licensing government services",
+      "reason": "reject: final check round 1: common - Digital: online business registration/licensing platform is the approach | Before 2019: WBG one-stop e-registration (e.g. Rwanda, Vietnam) standard",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New delivery arrangement: digitalized G2B service delivery - cue: 'digitalization of'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: online G2B registration/licensing | Innovative: digitalizes service delivery | Category: delivery arrangement",
+          "reject_code": "",
+          "context_chars": 1403
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: online business registration/licensing platform is the approach | Before 2019: WBG one-stop e-registration (e.g. Rwanda, Vietnam) standard",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "236781624327270820",
+      "doc_type": "PAD",
+      "position": 1378,
+      "char_start": 238630,
+      "char_end": 239780,
+      "sentence": "Key results include the - Investment promotion support targeted to Tourism expected reforms include the elaboration of elaboration of the Special Economic Zone lodging and Agri sectors. the Investment Code and the streamligning and Page 75 of 91 PIC 2.1 (2015-2019) PIC 2.2 (2019-2024) PIC 3.1 (2021-2026) IDA Financing US$50 million US$70 million US$150 million (SEZ) law, the implementation of a One-stop - Transaction support : Conduct feasibility studies on digitalization of Government to business (G2B) Shop (OSS) in Diana and Atsimo- Andrefana transaction opportunities, including priority PPP projects. services such as licensing, registering property, region;the streamligning and digitalization of Work on the marina project in Nosy is ongoing. and business registration. procedures at the commercial court which - Boost to entrepreneurship and private investment with - Export promotion support targeted to Tourism yielded positive results as captures by the three windows: business plan competition, tourism and and Agri sectors and increased market access Doing Business (DB) assessment. agribusiness, and scaling up of business centers.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "One-stop shop digitalizing G2B licensing and business registration",
+      "reason": "reject: final check round 1: common - Digital: one-stop shop digital G2B licensing platform | Before 2019: WBG one-stop-shop digital licensing widespread (e.g. Rwanda, Macedonia)",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New delivery arrangement: single digital window consolidating G2B licensing and registration",
+      "innovation_cues": "PPP;scaling;scaling-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Fragmentary table text; unclear whether OSS digitalization is this project's activity",
+          "reject_code": "",
+          "context_chars": 1204
+        },
+        {
+          "round": 2,
+          "verdict": "accept",
+          "reason": "Digital core: online G2B one-stop shop | Innovative: consolidates licensing/registration into one digital window | Category: re-engineered service delivery",
+          "reject_code": "",
+          "context_chars": 27518
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: one-stop shop digital G2B licensing platform | Before 2019: WBG one-stop-shop digital licensing widespread (e.g. Rwanda, Macedonia)",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 14,
+    "input_tokens": 39607,
+    "cached_tokens": 60285,
+    "cache_write_tokens": 0,
+    "output_tokens": 4946,
+    "seconds": 40.6,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0182
+  }
+}

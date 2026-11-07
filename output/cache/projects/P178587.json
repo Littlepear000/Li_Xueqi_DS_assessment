@@ -1,0 +1,1017 @@
+{
+  "project_id": "P178587",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4ca40008",
+  "started_at": "2026-11-07T03:35:05Z",
+  "ended_at": "2026-11-07T03:35:39Z",
+  "input_fingerprint": "76e5363447d64fea",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 21,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P178587-A1",
+      "project_id": "P178587",
+      "name": "social media surveys and digital vaccination registry for uptake",
+      "description": "Uses Facebook surveys on vaccine beliefs and the IMPACT platform for real-time vaccination data to raise uptake and trust. Practices: Facebook surveys to diagnose COVID-19 vaccine hesitancy; Digital vaccination registry on IMPACT platform for data transparency; IMPACT digital platform for real-time immunization progress tracking.",
+      "why_innovative": "New process: social-media survey data on vaccine hesitancy - cue: 'data collection' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "33875167",
+        "doc_type": "PAD",
+        "doc_date": "2022-07-28",
+        "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+        "char_start": 44819,
+        "char_end": 44980,
+        "text": "Facebook Surveys to assess beliefs and attitudes towards COVID-19 vaccination and identify\r\n                         causes of hesitancy\r\n                     b.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 44981,
+          "char_end": 45069,
+          "text": "Testing of communication messages to improve uptake of vaccines\r\n                     c.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 45287,
+          "char_end": 45702,
+          "text": "Third-party monitoring of vaccine deployment: Performance score cards to monitor\r\n                         performance by vaccination sites and identify challenges in vaccination deployment\r\n      •     Digital vaccination registry: An innovative approach for data transparency based on the digitalization of\r\n            vaccination data has significantly enhanced public trust in the COVID-19 vaccination program.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 45703,
+          "char_end": 45943,
+          "text": "This approach\r\n            utilizes the digital platform pioneered by the Inter-ministerial and Municipal Platform for Assessment\r\n            Coordination and Tracking (IMPACT), hosted by the oversight body Central Inspection Bureau (CIB).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 153671,
+          "char_end": 154060,
+          "text": "The immunization program data is managed through an innovative platform (IMPACT) which uses\r\n\r\n\r\n                                                                                                              Page 33 of 54\r\n\f          The World Bank\r\n          Strengthening Lebanon’s Covid-19 Response (P178587)\r\n\r\n\r\n\r\n     digital technology for real time updates of immunization progress.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 154061,
+          "char_end": 154294,
+          "text": "In addition to providing disaggregated\r\n     information of vaccination uptake in a transparent manner, this system is more climate friendly and efficient and\r\n     has helped move away from traditional paper-based reporting systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital survey channel is the core data mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Survey/data collection and message testing for program management falls under public administration of health.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P175131",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.4,
+          "direction": "replicates",
+          "evidence": "GOODS SOLUTIONS\r\n                                 IN THE AMOUNT OF US$4.00 MILLION\r\n                                                TO\r\n                                       THE LEBANESE REPUBLIC\r\n                                                   FOR\r\n                     STRENGTHENING LEBANON’S COVID-19 RESPONSE PROJECT\r\n\r\n                                       UNDER THE\r\n              COVID-19"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: Facebook survey instrument | Innovative: rapid perception data for rollout | Category: digital data collection tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: social-media survey data on vaccine hesitancy - cue: 'data collection'",
+      "innovation_cues": [
+        "feedback loop",
+        "innovative",
+        "learning agenda"
+      ]
+    },
+    {
+      "approach_id": "P178587-A2",
+      "project_id": "P178587",
+      "name": "offline-capable mobile vaccine registration for field workers",
+      "description": "Deploys offline mobile registration modules so field workers and volunteers can register vaccinations in low-connectivity areas. Practices: offline-capable mobile app for vaccine registration; offline registration module for NGO field workers; Offline vaccine registration module for low-connectivity field workers.",
+      "why_innovative": "New service: offline mobile registration in low-coverage areas - cue: 'innovative' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "33875167",
+        "doc_type": "PAD",
+        "doc_date": "2022-07-28",
+        "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+        "char_start": 62247,
+        "char_end": 62771,
+        "text": "COVID-19 vaccination need to be\r\n                          World Bank also supported an innovative             regularly updated based on the revisions\r\n                           initiative using mobile applications which          in age eligibility of vaccines.\r\n                           can work offline and volunteer networks to\r\n                           enhance registration and vaccine uptake in\r\n                           areas with low coverage\r\nService delivery          88 vaccination sites are operational.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 89683,
+          "char_end": 90105,
+          "text": "Additionally, the World Bank Health and Social Protection\r\n(Jobs) teams have collaborated with a local partner, Beirut Digital District (BDD), and IMPACT to increase\r\nregistration in areas with low vaccination coverage by developing an offline registration module to enable NGOs’\r\nfield workers and volunteers on the ground to expedite the COVID-19 vaccine registration process in areas with\r\ninternet connectivity issues.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 90347,
+          "char_end": 90483,
+          "text": "The pilot was successful in increasing registration in Akkar\r\ngovernorate which has the lowest levels of vaccination coverage till date.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 90484,
+          "char_end": 90597,
+          "text": "Based on the lessons learned, this\r\ninitiative is being scaled up to other areas with low levels of registration.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "33875167",
+          "doc_type": "PAD",
+          "doc_date": "2022-07-28",
+          "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+          "char_start": 157057,
+          "char_end": 157423,
+          "text": "In addition, the national vaccination platform IMPACT, in\r\n    coordination with the MoPH, Beirut Digital District and the World Bank and other partners, has released an offline\r\n    registration module to enable NGOs’ field workers and volunteers on the ground to expedite the COVID-19 vaccine\r\n    registration process in areas with unstable internet connectivity.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: offline mobile app is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Health",
+        "code": "",
+        "confidence": null,
+        "rationale": "Mobile registration directly serves vaccine service delivery and uptake.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P175131",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.4,
+          "direction": "replicates",
+          "evidence": "GOODS SOLUTIONS\r\n                                 IN THE AMOUNT OF US$4.00 MILLION\r\n                                                TO\r\n                                       THE LEBANESE REPUBLIC\r\n                                                   FOR\r\n                     STRENGTHENING LEBANON’S COVID-19 RESPONSE PROJECT\r\n\r\n                                       UNDER THE\r\n              COVID-19"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: offline mobile registration app | Innovative: works without connectivity | Category: mobile app",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: offline mobile registration in low-coverage areas - cue: 'innovative'",
+      "innovation_cues": [
+        "innovative",
+        "pilot",
+        "scaled-up"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178587",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "guid": "33875167",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "source": "api",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:05Z",
+      "ended_at": "2026-11-07T03:35:16Z",
+      "status": "ok",
+      "note": "9 document(s) fetched from the WBG API; 14 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:16Z",
+      "ended_at": "2026-11-07T03:35:16Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-05-15, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:16Z",
+      "ended_at": "2026-11-07T03:35:18Z",
+      "status": "ok",
+      "note": "21 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 21,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 2,
+          "innovation": 2,
+          "results_based_management": 3,
+          "innovation_cycle": 5,
+          "enabling_technologies": 2,
+          "innovation_types": 6,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:18Z",
+      "ended_at": "2026-11-07T03:35:18Z",
+      "status": "ok",
+      "note": "PAD 2022-07-28 (P178587_PAD_2022-07-28_33875167.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178587",
+            "doc_type": "PAD",
+            "doc_date": "2022-07-28",
+            "guid": "33875167",
+            "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+            "source": "api",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:18Z",
+      "ended_at": "2026-11-07T03:35:18Z",
+      "status": "ok",
+      "note": "147 reading units (8 numbered paragraphs) from 983 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 147
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:18Z",
+      "ended_at": "2026-11-07T03:35:22Z",
+      "status": "ok",
+      "note": "51 of 147 units carry a digital / AI cue (15 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 51,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 15
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:22Z",
+      "ended_at": "2026-11-07T03:35:27Z",
+      "status": "ok",
+      "note": "11 candidate practices from 51 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 176315,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 19383,
+          "cached_tokens": 16896,
+          "cache_write_tokens": 0,
+          "output_tokens": 2332,
+          "seconds": 17.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0087
+        },
+        "extracted": 11
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:35:27Z",
+      "ended_at": "2026-11-07T03:35:32Z",
+      "status": "ok",
+      "note": "8 accepted, 3 rejected (not_digital 2, generic 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 38097,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 5579,
+          "cached_tokens": 2304,
+          "cache_write_tokens": 0,
+          "output_tokens": 901,
+          "seconds": 5.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0028
+        },
+        "accepted": 8,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 2,
+          "generic": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:35:32Z",
+      "ended_at": "2026-11-07T03:35:35Z",
+      "status": "ok",
+      "note": "8 of 8 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2249,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 465,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 276,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:35:35Z",
+      "ended_at": "2026-11-07T03:35:36Z",
+      "status": "ok",
+      "note": "8 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2546,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 526,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 148,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 5,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:35:36Z",
+      "ended_at": "2026-11-07T03:35:39Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7410,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1432,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 206,
+          "seconds": 2.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:35:39Z",
+      "ended_at": "2026-11-07T03:35:39Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 11 evidence rows, 5 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:35:39Z",
+      "ended_at": "2026-11-07T03:35:39Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P175131",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.4,
+            "direction": "replicates",
+            "evidence": "GOODS SOLUTIONS\r\n                                 IN THE AMOUNT OF US$4.00 MILLION\r\n                                                TO\r\n                                       THE LEBANESE REPUBLIC\r\n                                                   FOR\r\n                     STRENGTHENING LEBANON’S COVID-19 RESPONSE PROJECT\r\n\r\n                                       UNDER THE\r\n              COVID-19"
+          }
+        ],
+        "store_size": 207
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178587-A1-E1",
+      "approach_id": "P178587-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U27",
+      "para_no": null,
+      "sentence_position": 188,
+      "char_start": 44819,
+      "char_end": 44980,
+      "sentence": "Facebook Surveys to assess beliefs and attitudes towards COVID-19 vaccination and identify\r\n                         causes of hesitancy\r\n                     b.",
+      "practice": "Facebook surveys to diagnose COVID-19 vaccine hesitancy",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Facebook survey data collection | Not routine: rapid perception data for rollout | Adoption: 'will be undertaken'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Facebook survey instrument | Innovative: rapid perception data for rollout | Category: digital data collection tool",
+      "keywords_hit": "data collection;survey",
+      "innovation_cues": "feedback loop;learning agenda",
+      "innovation_basis": "New process: social-media survey data on vaccine hesitancy - cue: 'data collection'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A1-E2",
+      "approach_id": "P178587-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U27",
+      "para_no": null,
+      "sentence_position": 189,
+      "char_start": 44981,
+      "char_end": 45069,
+      "sentence": "Testing of communication messages to improve uptake of vaccines\r\n                     c.",
+      "practice": "Facebook surveys to diagnose COVID-19 vaccine hesitancy",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: Facebook survey data collection | Not routine: rapid perception data for rollout | Adoption: 'will be undertaken'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Facebook survey instrument | Innovative: rapid perception data for rollout | Category: digital data collection tool",
+      "keywords_hit": "data collection;survey",
+      "innovation_cues": "feedback loop;learning agenda",
+      "innovation_basis": "New process: social-media survey data on vaccine hesitancy - cue: 'data collection'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A1-E3",
+      "approach_id": "P178587-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U28",
+      "para_no": null,
+      "sentence_position": 191,
+      "char_start": 45287,
+      "char_end": 45702,
+      "sentence": "Third-party monitoring of vaccine deployment: Performance score cards to monitor\r\n                         performance by vaccination sites and identify challenges in vaccination deployment\r\n      •     Digital vaccination registry: An innovative approach for data transparency based on the digitalization of\r\n            vaccination data has significantly enhanced public trust in the COVID-19 vaccination program.",
+      "practice": "Digital vaccination registry on IMPACT platform for data transparency",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: IMPACT-hosted vaccination registry | Not routine: transparency tool for public trust | Adoption: 'utilizes the digital platform'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IMPACT-hosted vaccination registry | Innovative: transparency tool for public trust | Category: digital registry",
+      "keywords_hit": "conflict;digital platform;digitalization of",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New service: digitalized vaccination registry for transparency - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A1-E4",
+      "approach_id": "P178587-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U28",
+      "para_no": null,
+      "sentence_position": 192,
+      "char_start": 45703,
+      "char_end": 45943,
+      "sentence": "This approach\r\n            utilizes the digital platform pioneered by the Inter-ministerial and Municipal Platform for Assessment\r\n            Coordination and Tracking (IMPACT), hosted by the oversight body Central Inspection Bureau (CIB).",
+      "practice": "Digital vaccination registry on IMPACT platform for data transparency",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: IMPACT-hosted vaccination registry | Not routine: transparency tool for public trust | Adoption: 'utilizes the digital platform'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IMPACT-hosted vaccination registry | Innovative: transparency tool for public trust | Category: digital registry",
+      "keywords_hit": "conflict;digital platform;digitalization of",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New service: digitalized vaccination registry for transparency - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A1-E5",
+      "approach_id": "P178587-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U102",
+      "para_no": null,
+      "sentence_position": 715,
+      "char_start": 153671,
+      "char_end": 154060,
+      "sentence": "The immunization program data is managed through an innovative platform (IMPACT) which uses\r\n\r\n\r\n                                                                                                              Page 33 of 54\r\n\f          The World Bank\r\n          Strengthening Lebanon’s Covid-19 Response (P178587)\r\n\r\n\r\n\r\n     digital technology for real time updates of immunization progress.",
+      "practice": "IMPACT digital platform for real-time immunization progress tracking",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: IMPACT immunization data platform | Not routine: replaces paper-based reporting | Adoption: 'is managed through'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IMPACT immunization data platform | Innovative: replaces paper reporting | Category: digital data platform",
+      "keywords_hit": "digital technolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New service: real-time digital immunization data platform - cue: 'innovative platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A1-E6",
+      "approach_id": "P178587-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U102",
+      "para_no": null,
+      "sentence_position": 716,
+      "char_start": 154061,
+      "char_end": 154294,
+      "sentence": "In addition to providing disaggregated\r\n     information of vaccination uptake in a transparent manner, this system is more climate friendly and efficient and\r\n     has helped move away from traditional paper-based reporting systems.",
+      "practice": "IMPACT digital platform for real-time immunization progress tracking",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Health",
+      "extractor_reason": "Digital core: IMPACT immunization data platform | Not routine: replaces paper-based reporting | Adoption: 'is managed through'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: IMPACT immunization data platform | Innovative: replaces paper reporting | Category: digital data platform",
+      "keywords_hit": "digital technolog",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New service: real-time digital immunization data platform - cue: 'innovative platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A2-E1",
+      "approach_id": "P178587-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 275,
+      "char_start": 62247,
+      "char_end": 62771,
+      "sentence": "COVID-19 vaccination need to be\r\n                          World Bank also supported an innovative             regularly updated based on the revisions\r\n                           initiative using mobile applications which          in age eligibility of vaccines.\r\n                           can work offline and volunteer networks to\r\n                           enhance registration and vaccine uptake in\r\n                           areas with low coverage\r\nService delivery          88 vaccination sites are operational.",
+      "practice": "offline-capable mobile app for vaccine registration",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Health",
+      "extractor_reason": "Digital core: offline mobile registration app | Not routine: works without connectivity | Adoption: 'supported an innovative initiative'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline mobile registration app | Innovative: works without connectivity | Category: mobile app",
+      "keywords_hit": "mobile application",
+      "innovation_cues": "innovative",
+      "innovation_basis": "New service: offline mobile registration in low-coverage areas - cue: 'innovative'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A2-E2",
+      "approach_id": "P178587-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U56",
+      "para_no": null,
+      "sentence_position": 345,
+      "char_start": 89683,
+      "char_end": 90105,
+      "sentence": "Additionally, the World Bank Health and Social Protection\r\n(Jobs) teams have collaborated with a local partner, Beirut Digital District (BDD), and IMPACT to increase\r\nregistration in areas with low vaccination coverage by developing an offline registration module to enable NGOs’\r\nfield workers and volunteers on the ground to expedite the COVID-19 vaccine registration process in areas with\r\ninternet connectivity issues.",
+      "practice": "offline registration module for NGO field workers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Health",
+      "extractor_reason": "Digital core: offline vaccine registration module | Not routine: enables registration without internet | Adoption: 'being scaled up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline IMPACT registration module | Innovative: registration without internet | Category: digital tool",
+      "keywords_hit": "connectivity;digital platform;refugee",
+      "innovation_cues": "innovative;pilot;scaled-up",
+      "innovation_basis": "New tool: offline module for field-worker registration - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A2-E3",
+      "approach_id": "P178587-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U56",
+      "para_no": null,
+      "sentence_position": 347,
+      "char_start": 90347,
+      "char_end": 90483,
+      "sentence": "The pilot was successful in increasing registration in Akkar\r\ngovernorate which has the lowest levels of vaccination coverage till date.",
+      "practice": "offline registration module for NGO field workers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Health",
+      "extractor_reason": "Digital core: offline vaccine registration module | Not routine: enables registration without internet | Adoption: 'being scaled up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline IMPACT registration module | Innovative: registration without internet | Category: digital tool",
+      "keywords_hit": "connectivity;digital platform;refugee",
+      "innovation_cues": "innovative;pilot;scaled-up",
+      "innovation_basis": "New tool: offline module for field-worker registration - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A2-E4",
+      "approach_id": "P178587-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U56",
+      "para_no": null,
+      "sentence_position": 348,
+      "char_start": 90484,
+      "char_end": 90597,
+      "sentence": "Based on the lessons learned, this\r\ninitiative is being scaled up to other areas with low levels of registration.",
+      "practice": "offline registration module for NGO field workers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Health",
+      "extractor_reason": "Digital core: offline vaccine registration module | Not routine: enables registration without internet | Adoption: 'being scaled up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline IMPACT registration module | Innovative: registration without internet | Category: digital tool",
+      "keywords_hit": "connectivity;digital platform;refugee",
+      "innovation_cues": "innovative;pilot;scaled-up",
+      "innovation_basis": "New tool: offline module for field-worker registration - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    },
+    {
+      "row_id": "P178587-A2-E5",
+      "approach_id": "P178587-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P178587",
+      "doc_id": "33875167",
+      "doc_type": "PAD",
+      "doc_date": "2022-07-28",
+      "file_name": "P178587_PAD_2022-07-28_33875167.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 730,
+      "char_start": 157057,
+      "char_end": 157423,
+      "sentence": "In addition, the national vaccination platform IMPACT, in\r\n    coordination with the MoPH, Beirut Digital District and the World Bank and other partners, has released an offline\r\n    registration module to enable NGOs’ field workers and volunteers on the ground to expedite the COVID-19 vaccine\r\n    registration process in areas with unstable internet connectivity.",
+      "practice": "Offline vaccine registration module for low-connectivity field workers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Health",
+      "extractor_reason": "Digital core: offline IMPACT registration module | Not routine: works without internet connectivity | Adoption: 'has released'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: offline IMPACT registration module | Innovative: registration without internet | Category: digital tool",
+      "keywords_hit": "Digital Literacy;connectivity;digital literacy",
+      "innovation_cues": "",
+      "innovation_basis": "New service: offline vaccine registration for unstable connectivity - cue: 'offline registration module'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "4ca40008"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "33875167",
+      "doc_type": "PAD",
+      "position": 191,
+      "char_start": 45287,
+      "char_end": 45702,
+      "sentence": "Third-party monitoring of vaccine deployment: Performance score cards to monitor\r\n                         performance by vaccination sites and identify challenges in vaccination deployment\r\n      •     Digital vaccination registry: An innovative approach for data transparency based on the digitalization of\r\n            vaccination data has significantly enhanced public trust in the COVID-19 vaccination program.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Performance scorecards monitoring vaccination sites",
+      "reason": "reject: Scorecards are a monitoring product; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: site-level performance scorecards - cue: 'monitor performance'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Scorecards are a monitoring product; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1283
+        }
+      ]
+    },
+    {
+      "guid": "33875167",
+      "doc_type": "PAD",
+      "position": 346,
+      "char_start": 90106,
+      "char_end": 90346,
+      "sentence": "This initiative also included an innovative, gamified door-to-door campaign that\r\nincentivized trusted volunteers from the local areas such as municipality staff, university students and youth\r\ngroups and NGOs to drive vaccine registration.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "gamified door-to-door volunteer registration campaign",
+      "reason": "reject: Gamified volunteer door-to-door campaign; no named digital system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: gamified volunteer-driven registration drive - cue: 'gamified'",
+      "innovation_cues": "innovative;pilot;scaled-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Gamified volunteer door-to-door campaign; no named digital system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 1316
+        }
+      ]
+    },
+    {
+      "guid": "33875167",
+      "doc_type": "PAD",
+      "position": 735,
+      "char_start": 158719,
+      "char_end": 158854,
+      "sentence": "In February 2021, the World Bank team administered a Facebook survey to assess\r\n    beliefs and attitudes towards COVID-19 vaccination.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Social media surveys and scorecards for vaccination feedback",
+      "reason": "reject: Bundles routine TPM, surveys and scorecards; no single specific digital practice",
+      "reject_code": "generic",
+      "innovation_basis": "New process: social-media survey and scorecard feedback - cue: 'score cards'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Bundles routine TPM, surveys and scorecards; no single specific digital practice",
+          "reject_code": "generic",
+          "context_chars": 1326
+        }
+      ]
+    },
+    {
+      "guid": "33875167",
+      "doc_type": "PAD",
+      "position": 190,
+      "char_start": 45070,
+      "char_end": 45286,
+      "sentence": "Iterative Beneficiary Monitoring (IBM): an iterative feedback loop that collects information\r\n                         directly from beneficiaries and identifies challenges at the local level\r\n                     d.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Iterative beneficiary monitoring feedback loop on vaccination",
+      "reason": "reject: final check round 1: digital: incidental - Digital: feedback loop is operational monitoring, digital tools only support it | Before 2019: WBG iterative beneficiary monitoring and community feedback loops already applied in multiple projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: iterative beneficiary feedback loop - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop;learning agenda",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: IBM feedback loop | Innovative: continuous local course-correction | Category: delivery feedback mechanism",
+          "reject_code": "",
+          "context_chars": 1223
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: feedback loop is operational monitoring, digital tools only support it | Before 2019: WBG iterative beneficiary monitoring and community feedback loops already applied in multiple projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "33875167",
+      "doc_type": "PAD",
+      "position": 739,
+      "char_start": 159460,
+      "char_end": 159676,
+      "sentence": "An IBM approach is also being\r\n    planned as an iterative feedback loop that collects information directly from beneficiaries and identifies challenges\r\n    at the local level that can be addressed by project teams.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Iterative Beneficiary Monitoring feedback loop for vaccination rollout",
+      "reason": "reject: final check round 1: digital: incidental - Digital: feedback loop is operational monitoring, digital tools only support it | Before 2019: WBG iterative beneficiary monitoring and community feedback loops already applied in multiple projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: iterative beneficiary feedback loop for course-correction - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: IBM feedback loop | Innovative: continuous local course-correction | Adoption: 'being planned', not yet applied",
+          "reject_code": "",
+          "context_chars": 1326
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: feedback loop is operational monitoring, digital tools only support it | Before 2019: WBG iterative beneficiary monitoring and community feedback loops already applied in multiple projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 27385,
+    "cached_tokens": 19200,
+    "cache_write_tokens": 0,
+    "output_tokens": 3863,
+    "seconds": 29.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.013
+  }
+}

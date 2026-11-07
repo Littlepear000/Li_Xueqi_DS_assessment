@@ -1,0 +1,874 @@
+﻿         The World Bank
+         Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+
+
+                      Project Information Document (PID)
+
+
+                     Appraisal Stage | Date Prepared/Updated: 29-May-2019 | Report No: PIDA26704
+
+
+
+
+May 06, 2019                                                                                       Page 1 of 17
+          The World Bank
+          Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name               Parent Project ID (if any)
+   Ghana                                         P165557                    Ghana Accountability for
+                                                                            Learning Outcomes
+                                                                            Project
+   Region                                        Estimated Appraisal Date   Estimated Board Date       Practice Area (Lead)
+   AFRICA                                        20-May-2019                30-Jul-2019                Education
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministry of Finance        Ministry of Education
+
+
+   Proposed Development Objective(s)
+
+   To improve the quality of low performing basic education schools and strengthen education sector equity and
+   accountability in Ghana.
+
+
+   Components
+   Strengthen teaching and learning through support and resources for teachers
+   Strengthen school support, management and resourcing
+   Strengthen accountability systems for improved effectiveness and efficiency
+   Technical Assistance, institutional strengthening, monitoring, and research
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                      559.40
+   Total Financing                                                                                                        559.40
+                             of which IBRD/IDA                                                                            150.00
+   Financing Gap                                                                                                              0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                          150.00
+
+
+May 06, 2019                                                                                                             Page 2 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+
+           IDA Credit                                                                                                            150.00
+
+     Non-World Bank Group Financing
+
+        Counterpart Funding                                                                                                      385.00
+           Borrower/Recipient                                                                                                    385.00
+        Trust Funds                                                                                                               24.40
+
+           Education for All - Fast Track Initiative                                                                              24.40
+
+     Environmental and Social Risk Classification
+     Moderate
+
+     Decision
+     The review did authorize the team to appraise and negotiate
+
+
+
+
+     Other Decision (as needed)
+
+
+     B. Introduction and Context
+
+    Country Context
+1. The Republic of Ghana is a lower middle-income country (LMIC) located in West Africa that covers approximately
+   240,000 square kilometers and is bordered by Burkina Faso, Togo, Cote d’Ivoire and the Atlantic Ocean. Ghana was
+   divided into ten administrative regions until December 27, 2018 when the number of regions was increased to 16 – Upper
+   West, Upper East, North East, Northern, Savannah, Brong Ahafo, Bono East, Ahafo, Ashanti, Eastern, Oti, Volta, Greater
+   Accra, Central, Western North and Western1. It is a multiparty parliamentary democracy with national elections held
+   every four years. Its population is approximately 30 million, of which 40 percent are below 14 years. The population
+   growth rate is 2.2 percent and overall literacy is almost 80 percent, with large regional variation.
+
+2. Ghana’s Gross Domestic Product (GDP) growth has been historically volatile and is strongly linked to oil and gas
+   production and prices. Between 2008 and 2012, Ghana’s growth rate averaged approximately 9 percent per year, peaking
+   in 2011 when it was the second highest in the world at 14.4 percent. However, worsening macroeconomic conditions in
+   the form of weak fiscal and monetary policies and declining terms of trade (from lower oil prices and electricity rationing)
+   slowed growth substantially to less than 4 percent between 2014 and 2016. In 2017, GDP growth recovered and reached
+   8.1 percent, and 2018 growth is estimated at 6.2 percent.2 Inflation, which was over 13 percent in January 2017, dropped
+   significantly to 9.4 percent in December 2018. In terms of sector contribution to the GDP, Ghana’s services sector makes
+   up 54 percent of GDP, while industry accounts for 26 percent and agriculture for 20 percent3.
+
+            1
+              All data in the PAD is based on the original ten regions as data is not yet available for the six new regions.
+            2
+              World Bank. April 2019. 4th Ghana Economic Update: Enhancing Financial Inclusion.
+            3
+              Ministry of Education, Education Sector Analysis (ESA) 2018.
+
+  May 06, 2019                                                                                                                 Page 3 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+
+
+3. Ghana has made substantial progress in reducing poverty over the last 25 years, but this progress stalled between 2012
+   and 2016; in addition, large regional disparities in levels of poverty and inequality persist. In 1991, the poverty rate was
+   52.7 percent, but this was more than halved by 2012 when it reached 24.2 percent, allowing Ghana to achieve Millennium
+   Development Goal (MDG) 1: to eradicate extreme poverty and hunger. However, the poverty rate has since levelled off
+   and in 2016 was estimated at 23.4 percent. Inequality, as measured by the country’s Gini coefficient, was 0.43 in 2016,
+   where zero expresses perfect equality. Although Ghana compares favorably to other lower middle-income countries
+   (LMICs) in sub-Saharan Africa (SSA), the picture of poverty and inequality is a regional one. In 2016, poverty rates ranged
+   from 2 percent in Greater Accra to 71 percent in Upper West, while the Gini coefficient was 0.35 in Greater Accra and
+   Eastern regions and 0.48 in Upper West. Since 2012 poverty rates increased in Upper East, Northern and Volta regions
+   and Gini coefficients increased in Northern, Upper East and Brong Ahafo regions. In addition, 26 percent of the country’s
+   poor live in the Northern region.
+
+4. According to the Human Capital Index4 (HCI) which measures the amount of human capital that a child born today can
+   expect to attain by age 18, Ghana’s productivity for the next generation of workers is suboptimal. Five indicators inform
+   the index including survival to age five, adult survival rate, proportion of children who are not stunted, a child’s expected
+   years of schooling, and harmonized test scores as a measure of learning quality. The health indicators are better than the
+   SSA average with 95 out of 100 children born in Ghana surviving to age 5, and 19 out of 100 children stunted. Seventy-six
+   percent of 15-year-olds will survive until age 60. However, out of the average years of schooling in Ghana (11.6), the
+   number of quality adjusted learning years is just 5.7 – children are in school but not learning for nearly six years. Ghana’s
+   HCI at 0.44 means that a child born in Ghana today will be 44 percent as productive when she grows up as she could be
+   if she had complete education and full health. In other words, 56 percent of productivity is lost for a child born in Ghana
+   today.
+
+
+5. The Government launched the Coordinated Program of Economic and Social Development Policies (CPESDP) 2017–
+   20245 in March 2018 which aims at doubling GDP by 2024. The four key goals to be pursued are: building a prosperous
+   country; creating opportunities for all Ghanaians; safeguarding the natural environment and ensuring a resilient built
+   environment; and maintaining a stable, united and safe country. According to the CPESDP, creating opportunities for all
+   entails enhancing the preparedness of the population to take advantage of current and emerging opportunities, which in
+   turn means greatly expanding access to quality education and healthcare for all socio-economic groups and communities.
+   Government policies for education and training therefore focus on improving inclusive and equitable access to education
+   at all levels; intensifying education in science, mathematics, and technology; raising the quality of education at pre-
+   tertiary levels, with emphasis on mathematics and science; facilitating the implementation of the language policy;
+   strengthening the school management system; and ensuring sustainable sources of financing for education. Key strategies
+   to be implemented to achieve these objectives include undertaking curriculum reforms with emphasis on competency in
+   reading, writing, arithmetic, and creativity at primary level; developing curriculum and pupil achievement standards and
+   designing a common national test to assess pupil achievement of foundational literacy and numeracy competency at
+   primary level; and ensuring inclusive education for children with special needs.
+
+
+
+
+            4
+              World Bank. 2018. http://www.worldbank.org/en/publication/human-capital
+            5
+              Accessed on May 3, 2019 at https://s3-us-west-2.amazonaws.com/new-ndpc-
+            static1/CACHES/PUBLICATIONS/2018/04/11/Coordinate+Programme-Final+(November+11,+2017)+cover.pdf
+
+  May 06, 2019                                                                                                        Page 4 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+     Sectoral and Institutional Context
+6. The Ministry of Education (MOE) is responsible for Ghana’s education system and education policy. The Ghana
+   Education Service (GES) is the implementing agency under the MOE mandated to implement interventions at the pre-
+   tertiary level of education. Ghana’s pre-tertiary education system can be described as a 2-6-3-3 system: basic education
+   includes two years of Kindergarten (KG), six years of Primary and three years of Junior High School (JHS). Secondary
+   education consists of three years of second cycle education which includes Senior High School (SHS) or
+   technical/vocational education. SHS includes business, agriculture, visual arts, technical, general arts and general science
+   programs. Technical and vocational training is provided by technical institutes and other training centers as well as
+   through informal apprenticeship. The Free Compulsory Universal Basic Education (FCUBE) program was introduced in
+   1995 and the free SHS and technical/vocational program was rolled out in 2017/18. Entry into SHS and
+   technical/vocational institutions is contingent upon passing the Basic Education Certificate Examination (BECE) in grade
+   9 (JHS3). In grade 12 (SHS3), students take the West African Senior Secondary Certificate Examination (WASSCE). The
+   WASSCE is also taken in The Gambia, Liberia, Nigeria and Sierra Leone and qualifies students for tertiary education
+   including universities, polytechnics6, teacher training colleges, agriculture and nursing training institutes. The GES
+   implements policy through its decentralized Regional and District Education Directorates (REDs, DEDs). The day-to-day
+   operations of basic, senior secondary, and technical/vocational institutes are overseen by District Education Directors,
+   Regional Education Directors and a Director for Technical Vocational Education, respectively. Disaggregating data by
+   region shows a strong correlation between poverty rates, rural-urban divides and educationally deprived districts.
+
+7. Education is a highly prioritized sector, exceeding some international targets for public spending in education. Public
+   education expenditure accounted for between 6 and 8 percent of Ghana’s GDP and 21 to 28 percent of government
+   expenditure annually between 2011 and 2015, exceeding the recommended benchmarks (6 percent of GDP and 20
+   percent of government expenditure) of the Global Partnership for Education (GPE) and higher than any of the other 13
+   Economic Community of West African States (ECOWAS) countries.7 However, in the last few years, nominal education
+   expenditure has been growing at a slower rate than GDP. Public education expenditure as a percentage of GDP fell to 5.4
+   percent in 2016 and then to 5.2 percent in 2017. A fall in total government expenditure as a percentage of GDP from 27
+   to 30 percent between 2011 and 2015 to 18 percent in 2017 further contributes to the low public education expenditure
+   to GDP ratio. Nevertheless, education expenditure as a percentage of total government expenditure was at 28.9 percent
+   in 2017 – representing an 11 percentage point increase since the previous year – indicating the government’s
+   prioritization of the sector. In terms of sources of contribution, in 2017, the Government of Ghana’s (GoG) contribution
+   to the sector was the largest making up 74 percent of total education expenditure; however, 95.4 percent of these funds
+   was expended on wages and salaries. Once other sources of education financing8 are added, wages and salaries made up
+   72 percent of overall education expenditure, with goods and services accounting for 23 percent and capital expenditure
+   5 percent. This indicates that almost all non-salary expenditures are from education financing sources outside of
+   government financing. The allocation by sub-sector between 2015 and 2017, shows increasing expenditure at all levels
+   of pre-tertiary education, with the largest proportion of education expenditure at the SHS sub-sector in 2017 due to the
+   roll out of the free SHS program.
+
+
+
+            6
+              In August 2016, Parliament passed a bill converting 8 out of 10 polytechnics which had met the conversion
+            criteria into technical universities
+            7
+              Note that Internally Generated Funds (IGF) are included in these estimates; if these are removed, then, in 2015,
+            education expenditure as a percentage of GDP was 5.3 percent and as a percent of total government expenditure
+            was 19 percent.
+            8
+              Other sources of funds include Internally Generated Funds (IGF), donor financing, Ghana Education Trust Fund
+            (GETFund) and Annual Budget Funding Amount (ABFA)
+
+  May 06, 2019                                                                                                              Page 5 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+8. Ghana has a high proportion of trained teachers, with systems in place to attract and retain qualified teachers. The
+   GoG has prioritized the training of teachers through the provision of tuition free teacher training and teacher trainee
+   allowances, and by directly employing all those graduating from the Colleges of Education9. Over 77 percent of the
+   teaching workforce in public schools is trained, although a higher proportion of trained teachers are deployed to JHSs and
+   SHSs where students take high-stakes examinations (BECE and WASSCE respectively). A labor market analysis undertaken
+   by the Ghana Statistical Service showed that a larger share of primary and secondary school teachers had tertiary
+   education compared to other white-collar professions; further analysis of hours of work, remuneration and second jobs
+   indicates that teachers are under-paid. However, they do receive incentives like study leave with or without pay, health
+   care and subsidized loans, invigilation and supervision allowances and so on. Further, almost every teacher belongs to
+   one of three teacher unions including the Ghana National Association of Teachers (GNAT), the National Associate of
+   Graduate Teachers (NAGT) and the Coalition of Concerned Teachers (CCT). Teachers who accept posts or are transferred
+   to areas designated as difficult by the leadership of GNAT and GES are eligible to receive an allowance equivalent to 25
+   percent of gross monthly income.
+
+
+9. Ghana has made significant progress in terms of increasing access to education. Gross Enrolment Rates (GERs) at the
+   KG and Primary levels are over 100 percent and gender parity has been achieved10 at all levels of pre-tertiary education.
+   The free SHS program has greatly improved access to secondary education as indicated by the JHS3 to SHS1 transition
+   rates, which increased to 78 percent in 2017, ten percentage points from the previous four years during which transition
+   rates had stagnated. Despite this increase in access, student-classroom ratios and student-teacher ratios have remained
+   unchanged, indicating some efficiencies in the short term to accommodate the increased enrolment11.
+
+            Key Challenges in Basic Education
+
+10. Low learning outcomes. Results of the Early Grade Reading Assessment (EGRA) did not change between 2013 and 2015
+    and indicated that just 2 percent of Primary 2 (P2) pupils were able to read at an appropriate grade level with 50 percent
+    unable to recognize a single word. In 2018, despite a decrease in zero scorers, the pool of zero scorers for higher order
+    reading sub-tasks was still high with 85 percent for reading comprehension, 57 percent for oral reading fluency, and 64
+    percent for non-word reading. Between 2016 and 2018, NEA test scores remained essentially the same, if not decreased
+    slightly. At the secondary level, learning outcomes are also low. Only 33 percent of students passed the WASSCE for
+    Mathematics in 2017, and in 2016, only 23 percent of students qualified for entry into tertiary education.
+
+11. There are significant regional and income disparities in learning outcomes and in higher grades gender disparities.
+    Those regions that have the lowest performance are generally Upper East, Upper West and the Northern regions where
+    poverty is highest. There are also important disparities in terms of rural/urban areas. Pupils in rural areas score
+    substantially lower on the NEA and EGRA than those in urban areas: the percent of pupils scoring non-zero scores in EGRA
+    in English was just 19.6 percent in rural areas compared to 39.5 percent in urban areas, while the proportion of pupils
+    providing correct answers in P4 Math was nearly 10 percentage points lower among those students in rural areas
+    compared to those in urban areas. Based on results from the NEA (2018), there are no significant differences in
+
+            9
+              National Teaching Council. 2019. Report on Country Analysis Mapping on the Teacher Situation in Ghana.
+            10
+               UNESCO considers gender parity to have been attained when the Gender Parity Index (GPI) is between 0.97 and
+            1.03.
+            11
+               The Ministry of Education introduced a double track enrollment system in 2018 to accommodate the increase in
+            enrollment of over 150,000 students entering SHS1. The system enables two tracks of students to enroll in SHS1 in
+            September and November each year. The “green�? and “gold�? tracks a lternate in the use of classroom and other
+            facilities.
+
+  May 06, 2019                                                                                                              Page 6 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    performance by gender in the lower primary grades. However, national averages mask wealth quintile differences – data
+    from Ghana MICS 6 shows that while there is no difference in reading and numeracy scores between boys and girls in the
+    top quintile, girls in the bottom quintile significantly underperform in numeracy12. On average, girls tend to outperform
+    boys in English in both P4 and P6, and boys tend to outperform girls in Mathematics in P6. Differences in performance
+    are more evident at higher grades. National pass rates for BECE show that males perform better than females on all
+    subjects, except for Social Studies, where females outperform males. Further, 23 percent of students qualified for tertiary
+    education in 2016, with 26 percent of males qualifying compared to 20 percent of females.
+
+12. Gaps remain in mainstreaming gender and disability inclusive education, despite efforts to introduce child protection
+    and disability inclusiveness programs. The Safe Schools Initiative being rolled out by Government with support from
+    UNICEF, focuses on responding to school-based violence and creating awareness regarding MOE and GES policy directives
+    amongst stakeholders. It includes training for teachers and students, and provides a resource pack including teacher
+    manuals, peer to peer manuals and factsheets for engaging and supporting children. However, this initiative has only
+    been rolled out to targeted schools in 20 districts. While the Guidance and Counselling Unit in GES conducts disability
+    screening and psychosocial support for vulnerable students, these efforts are inadequately funded at the district level
+    without clear integration in the functional roles of district education officers.
+
+13. Learning outcomes are impacted by an ambitious curriculum and a shortage of appropriate textbooks and learning
+    materials. The Ministry of Education undertook a curriculum reform in 2018, which will be rolled out in the 2019/2020
+    academic year. Textbook-pupil ratios of only 0.2 workbooks per child provided at the KG level, 1.4 at Primary, and 1.5 at
+    JHS in 2016/2017are far below established norms of one workbook per child in KG and three per child at Primary and JHS.
+
+14. Inadequate teacher knowledge with lack of ongoing training and coaching support. The ESA (2018) identifies challenges
+    with teacher capacity and management as the leading factor in low learning outcomes in basic education. Outdated
+    curriculum and assessment methods for teacher education have not encouraged the development of effective teaching
+    skills. Skills like classroom management and differentiated teaching strategies geared to the level of the learner are not
+    emphasized. The content-overloaded curriculum lacks attention to important skills such as critical thinking, creativity,
+    collaboration, communication, and digital literacy. Although the proportion of trained teachers has increased over the
+    last decade, significant gaps remain at the KG level (only 65 percent in 2016/17) and in the northern sector of Ghana. In
+    addition, inadequate content knowledge13, lack of support, coaching, mentoring and continuous professional
+    development (CPD) weakens teacher effectiveness.
+
+15. Ineffective and inequitable teacher management. Teacher absenteeism, attrition and low time-on-task have been widely
+    recognized as a problem with overall teacher absenteeism of 14 percent in 2014/15 as measured in 75 deprived districts
+    (Ghana Partnership for Education Grant (GPEG) districts) and varying considerably by region (higher in northern sectors).
+    Teacher absenteeism is only one of the reasons for limited instruction and is often linked to school location, lack of school
+    and social amenities, lack of opportunities for other income generation activities and illness. School closings, sports and
+    culture events and poor classroom instructional time use also contribute to lower time-on-task.
+
+16. Ghana’s teacher deployment is inequitable with significant variance of PTRs and mismatched local languages of
+    instruction. There are large regional disparities in pupil-teacher ratios and weak correlation at district level between the
+    number of students and teachers, especially at the KG and SHS levels. PTRs vary substantially across the country, with
+
+            12
+              World Bank. 2019. Human Capital Development in Ghana.
+            13
+              The new curriculum has reduced the number of subjects from 9 to 4 or 5 - teachers at basic level are expected to
+            teach all subjects in each class.
+
+  May 06, 2019                                                                                                              Page 7 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    districts mostly in the north of Ghana having a shortage of teachers, while districts in the south of Ghana have a surplus
+    of teachers. Data indicate that on average, 20 percent of teachers are placed in schools where they are not proficient or
+    are only partially proficient in the language of instruction and 18 percent of pupils did not speak the language of
+    instruction that was used or taught in their schools.
+
+17. Inequity and inefficiency in the use of non-salary budget. Ghana has been implementing the capitation grant in all public
+    basic schools, providing budget for non-salary expenditures since 2005. There have been substantial delays in the
+    disbursement of the capitation grant in years past. Prior to the doubling of the capitation grant in 2017/18, the previous
+    amount (4.5 Ghana cedis per student) was found to be too low and only covered 40 percent of school expenditures, with
+    75 percent of schools charging levies that often exceeded the amount of the grant. More recently, the timeliness of the
+    capitation grants disbursement has improved, so that they are no longer in arrears. Nonetheless, the disbursement for
+    the current semester remains outstanding.
+
+18. In addition to delayed and irregular capitation grants, there are regional inequities in per-student spending. Capitation
+    grants are provided to all public schools with a per-student amount of 10 Ghana cedis without any differentiation
+    regarding school context or need. Per-student spending varies widely by region, with the least amount spent on the Upper
+    West, Greater Accra, Western, and Ashanti regions and the most spent on Eastern and Central regions. This has strong
+    correlations with regional distributions of poverty.
+
+19. The management and accountability structures seek to ensure vertical alignment and decentralized implementation
+    of education services. In practice, however, there is a lack of resources for many of these structures and limited
+    coordination among relevant entities. Financial and human resources are often lacking at all levels and capacity is limited.
+    Limited funding is available to support systematic inspection, school supervision and lesson observation - for example
+    funding support for circuit supervisors and for SPIPs are inconsistent.
+
+20. There is a lack of harmonized inspection tools, coherent assessment strategy and underutilization of data information
+    systems which limits system-wide accountability. Circuit supervisor reports are not standardized or collated to inform
+    management. The lesson observations are not routinely captured in a format that can be verified or supervised by other
+    inspectors. Districts often use different inspection tools depending on the type of development partner support provided.
+    Although the National Inspectorate Board is expected to conduct annual inspections, the tools have not yet been
+    developed in alignment with how supervision/monitoring is being carried out at the regional and district levels. There is
+    limited use of technology to support school monitoring, inspections and data reporting. Information is stored across
+    different databases, departments and paper files preventing their availability and utilization. Furthermore, the NIB is not
+    yet capacitated to harmonize the inspection process or conduct regular annual inspections. In addition, Ghana has an
+    underutilized education management information system (EMIS) with poor data utilization, sharing and feedback
+    mechanisms. Ghana has numerous learning assessments, but these are sample-based, disjointed and poorly coordinated
+    with no overarching guiding strategy on national assessments.
+
+     C. Proposed Development Objective(s)
+
+    Development Objective(s) (From PAD)
+    To improve the quality of low performing basic education schools and strengthen education sector equity and
+    accountability in Ghana.
+
+     Key Results
+21. Progress toward meeting the PDO would be measured through the following proposed key outcome indicators:
+
+  May 06, 2019                                                                                                        Page 8 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+                             i.   Improved proficiency of P4 pupils in Math (disaggregated by gender/region)
+                            ii.   Improved proficiency of P4 pupils in English (disaggregated by gender/region)
+                           iii.   Increased number of basic schools meeting satisfactory standards of teaching practices14
+                           iv.    Percentage of KG and primary schools with pupil to trained teacher ratios at a range around
+                                  the national average/ESP target
+                            v.    Increased number of schools using accountability dashboard data during cluster level
+                                  meetings
+                           vi.    Direct project beneficiaries (core indicator), of which female
+
+     D. Project Description
+
+    Component 1: Strengthen teaching and learning through support and resources for teachers (estimated cost: US$56.5
+    million)
+
+22. The objective of this component is to strengthen teaching and learning through support to teachers to build their
+    capacity through regular in-service training, provide training on the new curriculum, and provide teaching and learning
+    materials.
+
+23. Sub-component 1.1: Teacher capacity building and innovative delivery of in-service training. This sub-component would
+    aim to improve teaching practices by providing: (a) in-service training (INSET) and capacity building support for teachers
+    on the new curriculum which will be rolled out in September 2019 for KG (KG1 and KG2) and primary (P1 to P6)
+    grades;15,16,17 (b) innovative delivery of in-service training on targeted instruction and structured pedagogy18, which
+    would rely on high quality instruction, both face to face and digital education as well as innovative digital methods to
+    support uptake (e.g., GES mobile app with video lessons and teaching tips, distance coaching, WhatsApp reminders); and
+    (c) specialized in-service training for kindergarten teachers in play-based and active learning pedagogy. Additional
+    modules focused on inclusive participation (to ensure all students are engaged in the learning process as well as address
+    any issues of classroom violence, exploitation or School Related GBV) would be included. Teacher capacity building and
+    training would also focus on promoting inclusion, i.e., teaching pupils with disabilities, by scaling up tools developed by
+    UNICEF. KG teacher training will also involve disability screening and inclusive pedagogy to ensure timely identification
+
+            14
+               As measured by a harmonized lesson observation tool used in a representative sample of schools observing Math
+            and English lessons, with teaching practices standards defined by the guidelines in the Ghana National Inspections
+            Handbook – schools meet satisfactory standards of teaching practices if they score over 50 percent on the lesson
+            observation tool.
+            15
+               Note that the pre-service training will be provided by the ongoing Transforming Teacher Education and Learning
+            (T-TEL) program funded by DFID.
+            16
+               UNICEF is supporting the curation of training resource materials to support specialized training of KG teachers as
+            part of the curriculum roll-out.
+            17
+               The curriculum rollout will be aligned with the Inclusive Education Policy Implementation Plan that ensures that
+            training of all teachers and education personnel highlights inclusion and inclusive practices.
+            18
+               Targeted instruction refers to teaching students at their level of knowledge, and not their grade level. The Teacher
+            Community Assistant Initiative (TCAI) on targeted instruction found that this model increased student learning, but
+            there was limited uptake by teachers. The STARS project being piloted in Ghana is the new iteration of TCAI and
+            builds on it to improve teacher uptake of targeted instruction through support to school leadership. Structured
+            pedagogy involves utilization of evidence-based content and scripted lesson plans to improve learning – schools are
+            provided with new materials and teaching aids, and teachers are trained on the new content and given instructional
+            support from school leadership. These methods have been piloted in Ghana through the USAID Partnership for
+            Learning project.
+
+  May 06, 2019                                                                                                                   Page 9 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    and adequate response to special education needs of students. The teacher training will be aligned with the new
+    curriculum standards and focus areas (inclusion, digital literacy, safe schools19, child protection, etc.). This would be
+    supported at the district level by the development of an annual Professional Learning calendar on which teachers can
+    enrol for training, and at the district level by the introduction of professional learning communities that are informed by
+    CS review of teacher instructional practices. At the school level, teacher INSET will be allocated dedicated time in the
+    time-table. All targeted schools will conduct periodic self-assessments to decide potential areas for school-based
+    continuous professional development (CPD). They will be supported by the District Training Support Teams (DTSTs) and
+    a cluster-based peer network for these trainings. Additional coaching and support would be provided to teachers for
+    implementing the new assessment system to be introduced, the results of which would be used to inform instruction and
+    learning. A training log would be maintained for each teacher that would feed into a digitized database for point-based
+    CPD. Training on the curriculum will be led by NaCCA in collaboration with GES. In-service training will have rotational
+    leadership based on the implementation phase with NaCCA leading on content development, NTC on training, and NIB
+    on monitoring and supervision. Each of these bodies will work in collaboration with GES.
+
+24. Sub-component 1.2: Training support teams for school-based support and instructional leadership. This sub-component
+    would aim to improve decentralized systems of school support, coaching and monitoring. The project would support the
+    training of support teams (Curriculum Leads, Circuit Supervisors, District Training Support Teams-DTSTs, and School
+    Heads) to provide school-based support and instructional leadership. These entities will be trained to guide teachers in
+    the teaching of the new curriculum and the use of assessment to inform instruction. Circuit Supervisors will be trained to
+    take on the role of an instructional coach rather than an inspector. School management and instructional leadership
+    would be provided through the completion of specific courses (e.g. online management course)20. Many of the current
+    training modules and systems developed under the USAID supported Partnership for Learning and UNICEF supported
+    STARS21 will be extended to GALOP schools. These materials will be reviewed to cover grades KG1 through P6 and ensure
+    gender responsiveness in school support and instructional leadership. Capacity building initiatives will be tailored to the
+    level of education to account for the distinctive needs of KG and primary. This sub-component will be implemented by
+    NTC and GES.
+
+25. Sub-component 1.3: Provision of teaching and learning materials (TLMs). This sub-component aims to ensure the
+    provision of teacher guides for the new curriculum, and pupil books (e-readers22 and workbooks) for targeted instruction.
+    While some of these materials have already been developed for KG to P2 levels under a different project23 and for
+    remedial instruction in literacy and mathematics under STARS for P4 to P6, the development of materials that align with
+    the new curriculum for other levels is currently underway. Appropriate TLMs would be provided for early childhood
+    education (KG1 and KG2) and for students with disabilities and teachers that have been trained in their use to support
+    greater disability inclusion in mainstream schools. This sub-component will be implemented by the GES.
+
+
+            19
+               UNICEF has supported the development of resources for training on safe schools, which focus on inclusion,
+            elimination of corporal punishment, promoting positive discipline in the classroom, and prevention and redressal of
+            bullying and sexual harassment. GALOP will support the integration of these resources in pedagogical training.
+            20
+               These could be in the form of partnerships with the University of Education Winneba, University of Ghana and
+            Colleges of Education, with the possibility of linking with international institutions like Lancaster University Ghana
+            or UCL Institute of Education, amongst others.
+            21
+               Details on these projects are available in Annex 5.
+            22
+               World Reader has piloted the use of e-readers in 90 primary schools and communities in Ghana with over 45,000
+            books digitized. Material developed under the USAID Partnership for Learning Project and the STARS project will be
+            adapted and uploaded to e-readers.
+            23
+               USAID Partnership for Learning Project.
+
+  May 06, 2019                                                                                                                Page 10 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+26. For this component, release of IDA and GPE funds would be linked to achievement of the following Disbursement-Linked
+    Indicators (DLIs):
+                • DLI 1: Improved teaching practices in beneficiary schools
+                • DLI 2: Improved teacher subject knowledge and pedagogical skills
+
+    Component 2: Strengthen school support, management and resourcing (Estimated cost: US$82 million)
+
+27. The objective of this component is to provide resources to schools and strengthen learning support systems through
+    learning grants for beneficiary schools and strengthening SMCs for improved resource mobilization and school-based
+    management.
+
+28. Sub-component 2.1: Learning grants to improve learning outcomes. All targeted schools will receive a learning grant to
+    implement activities focused on improving learning. Schools will be given and trained on guidelines on school self-
+    assessments, learning grant utilization (including core activities for learning and a negative list) and templates for learning-
+    oriented proposals and performance contracts. The guidelines will include a differentiated section on materials for
+    kindergarten teaching and learning to promote school readiness. Each school will conduct a self-assessment that will
+    inform the development of a three-year School Performance Improvement Plan (SPIP) proposal, based on which they will
+    sign a performance agreement with the District Education Office. The performance agreement will help ensure that
+    certain school standards are in place (reporting on EMIS, school based CPDs, reconciliation of existing school grants)
+    before the first learning grant can be disbursed. Schools may also benefit from assistance from SMCs, Circuit Supervisors,
+    civil society organizations (CSOs) and District Education Offices operating in the school catchment area. The learning grant
+    will be disbursed annually conditional on grant utilization and performance (at least 80 percent utilization rate before
+    subsequent disbursements); and the SPIP will be reviewed annually.
+
+29. The learning grant would complement the capitation grant (provided by government)24. The learning grant aims to ensure
+    that the school has adequate funding to achieve the minimum learning outcomes. Capitation grants have in the past been
+    irregularly disbursed and are inadequate, although improving in recent years. To embed the school learning grants within
+    existing systems, schools will use the same planning mechanism as they would for capitation grants – the SPIPs. The
+    learning grants will be disbursed directly into the schools’ bank accounts. This will improve the efficiency in the flow of
+    funds to schools and provide lessons for the disbursement of the capitation grants. The learning grants are also efficiency-
+    inducing because the application process ensures that schools that are more motivated are also more likely to apply. At
+    the same time, schools that do not have the capacity or experience difficulties in preparing/submitting their learning
+    grant proposals will be given support by Circuit Supervisors to complete and submit their proposals.
+
+30. Financial accountability in the expenditure of the learning grants will be achieved through a layered monitoring approach
+    – the SMC and PTA will be involved in the design of the SPIP; the Circuit Supervisor will review the SPIP to ensure that
+    activities are linked to those in the guidelines and are not duplicated; the District Director will review the final SPIP before
+    signing a performance contract with the school to deliver the SPIP. These steps will be pre-requisites to the disbursement
+    of funds. Annually, CSs will review utilization of learning grants before updating utilization rate in the dashboard to trigger
+    the flow of subsequent tranches of the learning grant. Finally, regular internal audits of the capitation grant will also cover
+    the utilization of the GALOP learning grants.
+
+
+            24
+              The current annual capitation grant is GHS 10 per pupil; this is divided into a base grant which all schools are
+            provided in the first term regardless of enrolment, and grants based on enrolment that are provided in the second
+            and third terms (Ghana Partnership for Education Grant project 2012-2016).
+
+  May 06, 2019                                                                                                             Page 11 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+31. Sub-component 2.2: District strengthening for school level support and monitoring for accountability. Regional and
+    district education offices will be strengthened to support incremental costs associated with GALOP activities through
+    existing systems such as the Annual District Education Operational Plans (ADEOPs). Districts will support schools with
+    training on learning grant utilization, development of 3-year learning-oriented SPIPs, and consolidation, supervision and
+    monitoring of learning grant utilization. Districts will be required to support Circuit Supervisors in their role as
+    instructional coaches and for the facilitation and monitoring of teacher in-service training. Additionally, Districts will fund
+    cluster-level meetings for heads of schools and SMC Chairs at least once a year, organized by the Circuit Supervisor to
+    discuss data collected on the accountability dashboard (including national, regional and district level comparisons) and
+    to encourage sharing of best practices, knowledge and innovation between schools within a cluster. Organized peer
+    learning between school heads will ensure that all the data collected on the accountability dashboard is used well and
+    will also provide a forum to support teachers that are new to reporting real time data on the dashboard. Finally,
+    encouraging SMC Chairs to attend these cluster level meetings will increase citizen engagement and allow communities
+    to hold their head teachers accountable for school performance.
+
+32. Sub-component 2.3: Strengthening SMCs for enhanced citizen engagement. The proposed activities would also include
+    training for SMCs to support the use of school grants for learning activities and further leverage community contributions.
+    This would involve the reconstitution of SMCs to include voluntary community involvement and elected leadership
+    positions. It would also introduce differentiated roles in addition to the SMC Chairperson including Vice-Chairperson,
+    M&E, Treasurer etc25. District Education Officers would conduct SMC training in monitoring implementation of SPIPs using
+    a training manual developed under another DP funded project26. The training would (a) functionalize SMCs to ensure
+    participatory and decentralized school-based management; and (b) strengthen capacity for accountable and transparent
+    financial management of school grants and resource mobilization. Additional training modules would also be included to
+    extend outreach on gender related issues including School Based Violence (SBV) training sensitization.
+
+33. For this component, release of IDA and GPE funds would be linked to achievement of the following DLI:
+                • DLI 3: Strengthened school support for learning
+
+    Component 3: Strengthen accountability systems for improved effectiveness and efficiency (Estimated cost: US$24
+    million)
+
+34. Component 3 would aim to support the rollout of an accountability for learning framework, learning assessments and
+    reforms for improved efficiency in teacher management. This component is expected to be rolled out nationwide.
+
+35. Sub-component 3.1: Development and implementation of an accountability for learning framework. The accountability
+    for learning framework would ensure a harmonized system of inspection for all levels of the education system. Under this
+    sub-component, the following activities would be supported: (a) harmonization of all inspection tools aligned to meet the
+    needs of schools, districts, regions and Ministry levels, including digitization for improved data collection; (b) digitization
+    of EMIS annual school census tool with tablet based collection to improve timely collection and analysis of data, including
+    school mapping and student tracking; (c) creation of an integrated dashboard through the review and scale up of the
+    mobile School Report Card to include linkages with EMIS, HRMIS, school mapping, inspection, assessment, student
+
+
+            25
+               Reconstitution of the SMCs will encourage increased participation of women in school governance, as well as
+            representation of students with disabilities and/or parents of students with disabilities where possible.
+            26
+               JICA is supporting the pilot for the School for All activity to empower and train SMCs to support learning activities.
+            Further detail is provided in Annex 5.
+
+  May 06, 2019                                                                                                                    Page 12 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    tracking and other databases; (d) continuous and robust communication to stakeholders; and (e) regular monitoring and
+    reporting on results from inspection findings and dashboard updates.
+
+36. The accountability system would be responsive to all levels of education. It would be tailored to the distinctive needs of
+    KG and primary. At the basic school level, it would involve termly lesson observations conducted by the Head Teacher for
+    each classroom teacher. The CS would conduct termly lesson observations of selected classes as well as a larger school
+    inspection. The lesson observation tool will measure gender stereotyping and skewed gender perceptions in teacher
+    behavior, which will allow for further analysis on its impact on learning outcomes for girls. The accountability framework
+    would inform frequency of monitoring and data collection at each level, consolidation of information for decision making
+    and protocols for data usage and sharing.
+
+37. The component will build on existing dashboards like the mobile School Report Card (mSRC) and the USAID Partnership
+    for Learning project dashboard. The dashboard will also be accessible to decision makers at the school, district, regional
+    and headquarters levels, as well as to parents and students, to strengthen system efficiency through data driven decision
+    making and to foster citizen engagement and community-led accountability. The project would support the procurement
+    of tablets for data collection and usage at all targeted circuits, and the development of a GES mobile application for heads
+    of schools. It would further explore the possibility of student tracking through the introduction of unique student
+    identification numbers supplemented by biometric technology, starting with P4 students to align national assessment
+    data with EMIS and mSRC databases. This subcomponent would be implemented by MOE in collaboration with GES and
+    NIB.
+
+38. Sub-component 3.2: Development and implementation of a national assessment strategy. This sub-component would
+    support the development and rollout of a national learning assessment strategy and learning assessments every two
+    years. Ghana has numerous learning assessments – the EGRA and EGMA, the NEA (grades P4 and P6), the BECE (end of
+    P9) – and has also committed to participating in the Programme for International Student Assessment for Development
+    (PISA-d), which targets 15-year olds. The Government may also consider future participation in the Programme for the
+    Analysis of Education Systems (PASEC) which targets grade 2, grade 4 and end of primary; TIMSS in 2023 and PIRLS in
+    2021 to assess reading at grade 4. The MOE is also planning to introduce a regularly implemented national, low-cost
+    assessment that can be administered to every pupil in grades 2, 4, 6 and 8 to be used to provide feedback and better
+    instruction support. The proposed project would initially support scale up of the P4 assessment to all students in public
+    schools to ensure baseline data and performance indicators are available to measure results. Teacher content knowledge
+    will also be assessed through the marking of sample P4 assessment answer scripts. This will provide information for the
+    design of targeted continuous professional development programmes. The scale up of the P4 assessment will be
+    complemented with capacity building in item response theory and test item bank development, development of
+    operational guidelines for national assessments and linkages between assessment databases and EMIS, which will provide
+    important implementation lessons for the scale up of national assessment at other grades. Provisions for a simplified
+    school-readiness assessment will also be incorporated in the national assessment strategy. It will also have provisions to
+    ensure students with special education needs are assessed along with their peers.27 The purposes, levels, timeframes,
+    and funding for the various assessments would be carefully thought through, costed and formalized within a national
+    learning assessment strategy. Capacity building for NaCCA, National Assessment Unit, GES and MOE would aim to
+    strengthen sustainability of undertaking such assessments. This subcomponent would be implemented by MOE in
+    collaboration with GES and NaCCA.
+
+
+            27
+              This will be done by ensuring that reasonable accommodations like extra time, dictation of answers, braille, use
+            of sign language to deliver answers etc. are made available as part of assessment rules.
+
+  May 06, 2019                                                                                                             Page 13 of 17
+            The World Bank
+            Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+39. Sub-component 3.3: Policy reforms for improved teacher management. The project would support the development,
+    approval and endorsement of policy reforms to improve teacher efficiency related to (a) teacher recruitment,
+    deployment, transfer and incentives; (b) merit based selection of head teachers; (c) introduction of an administrative fast
+    track for teachers serving in rural schools; (d) staffing and roles of GES and District Education Offices (DEOs) based on a
+    functional analysis of what is required to improve learning outcomes; (e) dedicated school leadership program and
+    accompanying qualifications for head teachers; and (f) review of instructional calendar to include dedicated time for
+    higher quality teacher professional development.
+
+40. For this component, release of IDA and GPE funds would be linked to achievement of the following DLIs:
+                • DLI 4: Improved accountability for learning
+                • DLI 5: Improved proficiency in Math and English in P4
+                • DLI 6: Improved equity in the distribution of KG and primary trained teachers
+
+    Component 4: Technical Assistance, institutional strengthening, monitoring, and research (estimated cost: US$11.4
+    million)
+
+41. The objective of this component is to strengthen MOE and GES implementation capacity and related implementing
+    agencies to ensure effectiveness of the GALOP. This component would provide overall support to the other three
+    components; and include two subcomponents (i) technical assistance for capacity building and on-demand education
+    research/policy analysis; and (ii) monitoring and evaluation, management, and operational costs. These activities would
+    be financed following standard World Bank investment lending procedures. This component would finance technical
+    assistance, strategic research and data analysis, targeted capacity building of implementing agencies, training,
+    procurement of goods and incremental operating costs.
+
+42. Sub-component 4.1: Technical assistance for capacity building and institutional strengthening. This sub-component
+    would fund institutional strengthening and consultancy services to support: (a) development of the assessment
+    framework and operationalization plan for the biennial national assessment; (b) harmonization and digitization of school
+    inspection and lesson observation tools; (c) delivery of targeted instruction and development of digitized training
+    material; (d) integrated dashboard and digitized EMIS and school performance mobile app; (e) school leadership and
+    management training; (f) consolidation of data systems (EMIS, Integrated Personnel and Payroll Database (IPPD), WAEC,
+    Inspection and GIS); (g) communications strategy; (h) procurement audit; (i) financial audit; (j) safeguards audit; (k)
+    revisions to teachers handbook/code of conduct to address gender based violence issues; and (l) analysis of learning
+    assessment data to provide better feedback to teachers on inclusive education. The communications strategy would
+    deliver key messages to parents and students.28 This sub-component would also support the procurement of goods and
+    non-consultancy services to support project implementation.
+
+43. Sub-component 4.2: Monitoring and evaluation, management and operational costs. This sub-component would fund
+    all M&E activities conducted at the headquarters, regional, district and school level including semi-annual progress
+    reporting (one of which includes NESAR); monthly pulse reports on progress towards meeting DLRs based on primary
+    data collection and analysis of accountability dashboard data; annual expenditure tracking survey on learning grants by
+    CSOs; citizen satisfaction survey by CSOs conducted at mid-term and at the end of the project; and baseline and annual
+    data collection for all results framework indicators. It would also support the operational costs for independent
+
+            28
+              Glennerster and Rudge (2019) find that giving information on education benefits (in terms of income), costs,
+            sources of funding available, and school quality to parents and children, via texts, videos, meetings or reminders,
+            was one of the most cost-effective interventions for improving learning outcomes.
+
+  May 06, 2019                                                                                                              Page 14 of 17
+              The World Bank
+              Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    verification of DLIs done by an independent third-party verification firm, NIB and NTC. Under this sub-component, on-
+    demand, high caliber technical assistance for education research and analysis, including impact evaluations, would also
+    be funded to ensure that the MOE has a robust body of knowledge they can tap into as and when needed. This is intended
+    to be staffed by individuals who serve as experts in various areas of education policy and data analysis. The TA would
+    complement staffing and activities identified under the Reform Secretariat. An M&E capacity development plan will also
+    be supported. An annual work plan will identify the incremental operating costs, goods and services required to support
+    the
+    . key agencies responsible for project management.
+    .
+    Legal Operational Policies
+                                                                         Triggered?
+
+        Projects on International Waterways OP 7.50                      No
+
+        Projects in Disputed Areas OP 7.60                               No
+
+
+    Summary of Assessment of Environmental and Social Risks and Impacts
+    The overall risk classification is proposed as moderate. Project Interventions (eg minor repairs of school building,
+    refurbishment of ICT laboratory, refurbishment of science laboratory, beautification of school compound construction
+    of walkways and construction of fence wall/main gate) are not envisaged to be significant or irreversible. They will be
+    site specific, limited to existing school compound, and can be managed through the implementation of cost-effective
+    mitigation measures.
+
+        Note: To view the Environmental and Social Risks and Impacts, please refer to the Appraisal Stage ESRS Document.
+
+    .
+
+
+        E. Implementation
+
+        Institutional and Implementation Arrangements
+
+44. The implementation of the GALOP will be mainstreamed in the Ministry of Education (MOE) and the Ghana Education
+    Service (GES). A Technical Team comprising MOE and GES teams will be set up to drive implementation. The leaders of
+    the two technical teams from MOE and GES would coordinate work among the relevant institutions and liaise with
+    management on approval of agreed activities for speedy implementation. Key institutions for purposes of GALOP
+    implementation include three semi-autonomous agencies that fall under the purview of MOE: (i) The National Council for
+    Curriculum and Assessment (NaCCA), which has completed and is rolling out the new standards-based curriculum that
+    teachers will be trained on under component 1; (ii) The National Teaching Council (NTC), which is in charge of teacher
+    licensing and will therefore be instrumental in the design of the teacher training under component 1, as well as reform
+    of teacher management under component 3; and (iii) the National Inspectorate Board (NIB), which is in charge of school
+    supervision, and will provide support to the design and implementation of the inspection tool under component 3. Where
+    necessary, TA would be recruited to augment the Technical team’s activities. A Project Leadership/Steering Team
+    comprising the Minister, Deputy Minister, Director General, Deputy Director General, Chief Director and/or other
+    delegated official will provide oversight for the entire implementation team. Innovations in improving project
+
+  May 06, 2019                                                                                                    Page 15 of 17
+              The World Bank
+              Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+    implementation will include direct disbursement of learning grants to school bank accounts with the collaboration of
+    district offices, effective communications strategy for community engagement and dissemination of policy reforms,
+    digitized process monitoring, and efficient procurement at the school level using school/community based procurement
+    and 'last mile' delivery of centralized procurement only where necessary with items delivered directly to basic schools.
+
+45. Implementation will be led by the Ministry of Education (MOE) and the Ghana Education Service (GES), both of which
+    have successfully implemented Bank projects over many years. Since 2014, the MOE and GES have been implementing
+    the Secondary Education Improvement Project using a RBF modality (IPF with DLIs) and have adequate staffing and
+    capacity for financial management, procurement, safeguards and monitoring and evaluation. The MOE will oversee the
+    administration of all components under GALOP. NTC, NaCCA and GES will be responsible for the implementation of
+    Component 1; GES will be primarily responsible for implementation of Component 2; and NaCCA, NIB and NTC will be
+    primarily responsible for Components 3.1, 3.2 and 3.3 respectively. Implementation of Component 4 will be led by MOE.
+    However, given the range and sequencing of activities that will be required to achieve the proposed results, all these
+    agencies will need to coordinate and collaborate on annual work planning, budgeting, reporting and expenditure tracking.
+    Project coordination would be mainstreamed using existing government systems and staff with clear responsibilities
+    delineated for program implementation. GALOP would finance additional capacity to support coordination and
+    implementation, as needed complementing planned technical assistance from other development partners (e.g., DFID,
+    USAID, UNICEF, JICA).
+
+
+    .
+
+        CONTACT POINT
+
+        World Bank
+
+        Deborah Newitter Mikesell
+        Senior Education Specialist
+
+        Dina N. Abu-Ghaida
+        Lead Economist
+
+        Eunice Yaa Brimfah Ackwerh
+        Senior Education Specialist
+
+        Borrower/Client/Recipient
+        Ministry of Finance
+        Patrick Nomo
+        Chief Director
+        pnomo@mofep.gov.gh
+        Implementing Agencies
+
+
+
+
+  May 06, 2019                                                                                                   Page 16 of 17
+          The World Bank
+          Ghana Accountability for Learning Outcomes Project (P165557)
+
+
+
+   Ministry of Education
+   Yaw Adutwum
+   Deputy Minister of Education
+   yaw.adutwum@gmail.com
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                         Deborah Newitter Mikesell
+   Task Team Leader(s):                  Dina N. Abu-Ghaida
+                                         Eunice Yaa Brimfah Ackwerh
+   Approved By
+   Environmental and Social Standards
+   Advisor:
+   Practice Manager/Manager:
+
+   Country Director:                     Henry G. Kerali                 29-May-2019
+
+
+
+
+May 06, 2019                                                                           Page 17 of 17
+

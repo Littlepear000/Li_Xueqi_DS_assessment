@@ -1,0 +1,816 @@
+{
+  "project_id": "P171607",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "517ec184",
+  "started_at": "2026-11-07T03:28:50Z",
+  "ended_at": "2026-11-07T03:29:15Z",
+  "input_fingerprint": "920431e491299a67",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 23,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P171607-A1",
+      "project_id": "P171607",
+      "name": "WhatsApp-based business and start-up coaching for women entrepreneurs",
+      "description": "Delivers business, start-up and non-cognitive skills training and coaching at scale via WhatsApp.",
+      "why_innovative": "New service: WhatsApp-delivered entrepreneurship coaching at scale - cue: 'at scale' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "469061641926083502",
+        "doc_type": "PAD",
+        "doc_date": "2021-12-07",
+        "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+        "char_start": 79837,
+        "char_end": 80063,
+        "text": "Business and start-up training and coaching of workers, including non- cognitive skills especially for women entrepreneurs through WhatsApp at scale, will be provided to ensure that communities benefit from the new investment.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: messaging app is the delivery channel",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Capital Markets",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P170466",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Investing Pending 148.2 58 To improve sustainable 1. Potential to engage in Forests and effectiveness management of forests community forestry Protected Areas and protected areas MSMEs. for Climate-Smart and increase benefits 2. Strengthened Development to communities from natural resource Project (P170466) forests in target management in RHDs landscapes (including which could be linked Refugee se"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: WhatsApp coaching channel | Innovative: mass entrepreneurship coaching via messaging app | Category: digital delivery channel",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: WhatsApp-delivered entrepreneurship coaching at scale - cue: 'at scale'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P171607-A2",
+      "project_id": "P171607",
+      "name": "Digital marketplace platform enrolling MSMEs for business development services",
+      "description": "Sets up online platform where MSMEs enroll and receive training, coaching from vetted providers",
+      "why_innovative": "New delivery arrangement: vetted provider marketplace for MSME services - cue: 'digital platform' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "469061641926083502",
+        "doc_type": "PAD",
+        "doc_date": "2021-12-07",
+        "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+        "char_start": 249108,
+        "char_end": 249253,
+        "text": "This MDTF component will set up a digital platform where MSMEs can enroll and receive business development services (i.e. training and coaching).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "469061641926083502",
+          "doc_type": "PAD",
+          "doc_date": "2021-12-07",
+          "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+          "char_start": 249462,
+          "char_end": 249848,
+          "text": "The digital platform will represent a dynamic marketplace for accelerators, incubators and consultancies – eligible service providers will be vetted and selected based on a competitive tender – and will lay the foundation for an improved business development environment for MSMEs, increasing their ability to take advantage of growing markets in manufacturing and export supply chains.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "469061641926083502",
+          "doc_type": "PAD",
+          "doc_date": "2021-12-07",
+          "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+          "char_start": 249254,
+          "char_end": 249461,
+          "text": "Access to the platform will be granted to firms that meet a set of eligibility criteria (will not required formalization) and will specifically target female-owned enterprises and MSMEs that employ refugees.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: matches MSMEs with vetted accelerators, incubators, consultancies",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Capital Markets",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P170466",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "Investing Pending 148.2 58 To improve sustainable 1. Potential to engage in Forests and effectiveness management of forests community forestry Protected Areas and protected areas MSMEs. for Climate-Smart and increase benefits 2. Strengthened Development to communities from natural resource Project (P170466) forests in target management in RHDs landscapes (including which could be linked Refugee se"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: MSME enrollment and provider marketplace platform | Innovative: competitive vetted provider matching online | Category: multi-actor platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: vetted provider marketplace for MSME services - cue: 'digital platform'",
+      "innovation_cues": [
+        "trial"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P171607",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-07",
+      "guid": "469061641926083502",
+      "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:28:50Z",
+      "ended_at": "2026-11-07T03:28:53Z",
+      "status": "ok",
+      "note": "6 document(s) fetched from the WBG API; 11 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:28:53Z",
+      "ended_at": "2026-11-07T03:28:53Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-12-20, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:28:53Z",
+      "ended_at": "2026-11-07T03:28:55Z",
+      "status": "ok",
+      "note": "23 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 23,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 8,
+          "enabling_processes": 1,
+          "innovation": 4,
+          "innovation_cycle": 8,
+          "enabling_technologies": 1,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:28:55Z",
+      "ended_at": "2026-11-07T03:28:55Z",
+      "status": "ok",
+      "note": "PAD 2021-12-07 (P171607_PAD_2021-12-07_469061641926083502.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P171607",
+            "doc_type": "PAD",
+            "doc_date": "2021-12-07",
+            "guid": "469061641926083502",
+            "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:28:55Z",
+      "ended_at": "2026-11-07T03:28:55Z",
+      "status": "ok",
+      "note": "203 reading units (17 numbered paragraphs) from 1666 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 203
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:28:55Z",
+      "ended_at": "2026-11-07T03:29:00Z",
+      "status": "ok",
+      "note": "120 of 203 units carry a digital / AI cue (35 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 120,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 35
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:00Z",
+      "ended_at": "2026-11-07T03:29:09Z",
+      "status": "ok",
+      "note": "12 candidate practices from 120 units in 12 calls",
+      "llm_calls": 12,
+      "input_chars": 363341,
+      "output": {
+        "usage": {
+          "calls": 12,
+          "input_tokens": 2528,
+          "cached_tokens": 75776,
+          "cache_write_tokens": 0,
+          "output_tokens": 3655,
+          "seconds": 29.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0056
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:29:09Z",
+      "ended_at": "2026-11-07T03:29:13Z",
+      "status": "ok",
+      "note": "3 accepted, 9 rejected (not_digital 7, generic 1, background_or_other_programme 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 40344,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 5470,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 680,
+          "seconds": 4.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0025
+        },
+        "accepted": 3,
+        "rejected": 9,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 7,
+          "generic": 1,
+          "background_or_other_programme": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:29:13Z",
+      "ended_at": "2026-11-07T03:29:13Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:29:13Z",
+      "ended_at": "2026-11-07T03:29:13Z",
+      "status": "ok",
+      "note": "3 approaches -> 3 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:29:13Z",
+      "ended_at": "2026-11-07T03:29:15Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 6840,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1020,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 197,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0005
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:29:15Z",
+      "ended_at": "2026-11-07T03:29:15Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 4 evidence rows, 10 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:29:15Z",
+      "ended_at": "2026-11-07T03:29:15Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P170466",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "Investing Pending 148.2 58 To improve sustainable 1. Potential to engage in Forests and effectiveness management of forests community forestry Protected Areas and protected areas MSMEs. for Climate-Smart and increase benefits 2. Strengthened Development to communities from natural resource Project (P170466) forests in target management in RHDs landscapes (including which could be linked Refugee se"
+          }
+        ],
+        "store_size": 96
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P171607-A1-E1",
+      "approach_id": "P171607-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P171607",
+      "doc_id": "469061641926083502",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-07",
+      "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 490,
+      "char_start": 79837,
+      "char_end": 80063,
+      "sentence": "Business and start-up training and coaching of workers, including non- cognitive skills especially for women entrepreneurs through WhatsApp at scale, will be provided to ensure that communities benefit from the new investment.",
+      "practice": "WhatsApp-based business and start-up coaching for women entrepreneurs",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Capital Markets",
+      "extractor_reason": "Digital core: WhatsApp coaching channel | Not routine: mass reach via messaging app | Adoption: 'will be provided'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: WhatsApp coaching channel | Innovative: mass entrepreneurship coaching via messaging app | Category: digital delivery channel",
+      "keywords_hit": "start-up;venture",
+      "innovation_cues": "",
+      "innovation_basis": "New service: WhatsApp-delivered entrepreneurship coaching at scale - cue: 'at scale'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "517ec184"
+    },
+    {
+      "row_id": "P171607-A2-E1",
+      "approach_id": "P171607-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P171607",
+      "doc_id": "469061641926083502",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-07",
+      "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+      "unit_id": "U188",
+      "para_no": null,
+      "sentence_position": 1570,
+      "char_start": 249108,
+      "char_end": 249253,
+      "sentence": "This MDTF component will set up a digital platform where MSMEs can enroll and receive business development services (i.e. training and coaching).",
+      "practice": "Digital marketplace platform enrolling MSMEs for business development services",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Capital Markets",
+      "extractor_reason": "Digital core: MSME enrollment and provider marketplace platform | Not routine: competitive vetted provider matching online | Adoption: 'will set up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: MSME enrollment and provider marketplace platform | Innovative: competitive vetted provider matching online | Category: multi-actor platform",
+      "keywords_hit": "accelerator;digital platform;incubator;refugee;voucher",
+      "innovation_cues": "trial",
+      "innovation_basis": "New delivery arrangement: vetted provider marketplace for MSME services - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "517ec184"
+    },
+    {
+      "row_id": "P171607-A2-E2",
+      "approach_id": "P171607-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P171607",
+      "doc_id": "469061641926083502",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-07",
+      "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+      "unit_id": "U188",
+      "para_no": null,
+      "sentence_position": 1572,
+      "char_start": 249462,
+      "char_end": 249848,
+      "sentence": "The digital platform will represent a dynamic marketplace for accelerators, incubators and consultancies – eligible service providers will be vetted and selected based on a competitive tender – and will lay the foundation for an improved business development environment for MSMEs, increasing their ability to take advantage of growing markets in manufacturing and export supply chains.",
+      "practice": "Digital marketplace platform enrolling MSMEs for business development services",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Capital Markets",
+      "extractor_reason": "Digital core: MSME enrollment and provider marketplace platform | Not routine: competitive vetted provider matching online | Adoption: 'will set up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: MSME enrollment and provider marketplace platform | Innovative: competitive vetted provider matching online | Category: multi-actor platform",
+      "keywords_hit": "accelerator;digital platform;incubator;refugee;voucher",
+      "innovation_cues": "trial",
+      "innovation_basis": "New delivery arrangement: vetted provider marketplace for MSME services - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "517ec184"
+    },
+    {
+      "row_id": "P171607-A2-E3",
+      "approach_id": "P171607-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P171607",
+      "doc_id": "469061641926083502",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-07",
+      "file_name": "P171607_PAD_2021-12-07_469061641926083502.txt",
+      "unit_id": "U188",
+      "para_no": null,
+      "sentence_position": 1571,
+      "char_start": 249254,
+      "char_end": 249461,
+      "sentence": "Access to the platform will be granted to firms that meet a set of eligibility criteria (will not required formalization) and will specifically target female-owned enterprises and MSMEs that employ refugees.",
+      "practice": "Digital marketplace platform enrolling MSMEs for business development services",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Capital Markets",
+      "extractor_reason": "Digital core: MSME enrollment and provider marketplace platform | Not routine: competitive vetted provider matching online | Adoption: 'will set up'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: MSME enrollment and provider marketplace platform | Innovative: competitive vetted provider matching online | Category: multi-actor platform",
+      "keywords_hit": "accelerator;digital platform;incubator;refugee;voucher",
+      "innovation_cues": "trial",
+      "innovation_basis": "New delivery arrangement: vetted provider marketplace for MSME services - cue: 'digital platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "517ec184"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 410,
+      "char_start": 64336,
+      "char_end": 65100,
+      "sentence": "The project is structured around (a) providing liquidity to MSMEs, through several innovative products designed and adapted for the context: extending the amortization period of loans providing firms and banks with the capacity to sustain such extensions, buying precious time, and reducing risks of excessive insolvencies (that would otherwise increase the challenge toward economic recovery); providing liquidity to small and micro firms on better terms to cope with the fall in demand and economic opportunities; and establishing an innovative factoring facility for MSMEs—the component also supports financial services to RHD communities where transaction costs are high and communities are vulnerable (Component 1 focuses on relief and restructuring phases );",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Factoring facility for MSME receivables financing",
+      "reason": "reject: Factoring facility, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: factoring against large-buyer invoices - cue: 'innovative factoring facility'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Factoring facility, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1839
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 449,
+      "char_start": 72324,
+      "char_end": 72444,
+      "sentence": "Window 1.3 (receivables financing) seeks to provide finance to MSMEs based on security in the form of their receivables.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Receivables financing secured on invoices to large buyers",
+      "reason": "reject: Invoice-backed credit product, no digital platform or system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: invoice-backed credit using buyer credit standing - cue: 'introducing a product'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Invoice-backed credit product, no digital platform or system",
+          "reject_code": "not_digital",
+          "context_chars": 1293
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 460,
+      "char_start": 74221,
+      "char_end": 74437,
+      "sentence": "Window 2.1 will target MSMEs with a focus on manufacturing and export supply chains, by setting up a Credit Guarantee Facility (CGF) to share the risks associated with new lending on a proposed 50/50 basis with PFIs.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Credit guarantee facility sharing MSME lending risk 50/50",
+      "reason": "reject: Risk-sharing guarantee instrument, no digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: 50/50 risk-sharing guarantee for MSME loans - cue: 'guarantee'",
+      "innovation_cues": "guarantee;transformative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Risk-sharing guarantee instrument, no digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1285
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 482,
+      "char_start": 78164,
+      "char_end": 78337,
+      "sentence": "The component will provide competitively selected lead investors in the RHDs in the South West, Northern, and West Nile regions of the country with performance-based grants.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Performance-based grants to lead investors in rural supply chains",
+      "reason": "reject: Grant competition, no digital element",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: competitive performance-based grants for supply chains - cue: 'performance-based'",
+      "innovation_cues": "performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Grant competition, no digital element",
+          "reject_code": "not_digital",
+          "context_chars": 1292
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 486,
+      "char_start": 79019,
+      "char_end": 79212,
+      "sentence": "Winners of the competition will be provided access to a performance-based grant, which will be made available to the investors over a specific period and according to a defined investment plan.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "performance-based grants to supply-chain investors employing refugees",
+      "reason": "reject: Performance grant selection, no digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: competition-awarded performance grants tied to refugee inclusion - cue: 'performance-based'",
+      "innovation_cues": "innovation;performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance grant selection, no digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 520,
+      "char_start": 84237,
+      "char_end": 84410,
+      "sentence": "Establishment of a web platform to enable the project to reach all beneficiaries (particularly refugees and host communities) and be accessible from all locations in Uganda.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "web platform reaching refugees and host-community beneficiaries nationwide",
+      "reason": "reject: Bare 'web platform' for outreach, no mechanism or service specified",
+      "reject_code": "generic",
+      "innovation_basis": "New service: nationwide web platform for beneficiary outreach - cue: 'web platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Bare 'web platform' for outreach, no mechanism or service specified",
+          "reject_code": "generic",
+          "context_chars": 1314
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 709,
+      "char_start": 112215,
+      "char_end": 112455,
+      "sentence": "The receivables financing/factoring platform mitigates risk of late payment and nonpayment, improving overall trust and building credit relationships with large buyers in the economy, and will be provided on a financially sustainable basis.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "receivables financing/factoring platform for MSMEs",
+      "reason": "reject: Factoring described as product; no digital platform actually specified",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: factoring platform against late-payment risk - cue: 'platform'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Factoring described as product; no digital platform actually specified",
+          "reject_code": "not_digital",
+          "context_chars": 1209
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 1562,
+      "char_start": 248349,
+      "char_end": 248482,
+      "sentence": "High- performing participants of both the exporter and supplier development program will be eligible for a capacity building voucher.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Capacity building vouchers for certification, trade fairs, first-trial export lots",
+      "reason": "reject: Voucher subsidy, no digital system involved",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: voucher subsidy for first-trial export costs - cue: 'first-trial export lot'",
+      "innovation_cues": "trial",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Voucher subsidy, no digital system involved",
+          "reject_code": "not_digital",
+          "context_chars": 1499
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 1636,
+      "char_start": 264151,
+      "char_end": 264319,
+      "sentence": "The Office of the Prime Minister (OPM) and UNHCR concluded the countrywide biometric verification exercise of all asylum-seekers and refugees in Uganda in October 2018.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "countrywide biometric verification of refugees and asylum-seekers",
+      "reason": "reject: OPM/UNHCR 2018 exercise, not this project's activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: biometric identity verification of refugee caseload - cue: 'biometric registration'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "OPM/UNHCR 2018 exercise, not this project's activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1353
+        }
+      ]
+    },
+    {
+      "guid": "469061641926083502",
+      "doc_type": "PAD",
+      "position": 1119,
+      "char_start": 169852,
+      "char_end": 170307,
+      "sentence": "In addition to establishing a Grievance Redress Service (GRS), as discussed in Section V, the project will seek to establish a robust citizen engagement (CE) strategy that includes establishing a variety of interaction channels between beneficiaries/users, including RHDs and refugees, and the government, which may include real-time polling such as through SMS messages that will allow the people to report on issues affecting them and their communities.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "SMS-based real-time citizen polling for beneficiary feedback",
+      "reason": "reject: final check round 1: common - Digital: SMS polling is the feedback mechanism | Before 2019: SMS-based citizen feedback/polling standard in WBG and UN projects since ~2010",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: SMS real-time polling of beneficiaries - cue: 'citizen engagement'",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SMS polling channel | Innovative: real-time beneficiary feedback loop | Category: feedback delivery mechanism",
+          "reject_code": "",
+          "context_chars": 1214
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: SMS polling is the feedback mechanism | Before 2019: SMS-based citizen feedback/polling standard in WBG and UN projects since ~2010",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 14,
+    "input_tokens": 9018,
+    "cached_tokens": 79104,
+    "cache_write_tokens": 0,
+    "output_tokens": 4532,
+    "seconds": 35.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0086
+  }
+}

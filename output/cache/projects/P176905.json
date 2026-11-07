@@ -1,0 +1,844 @@
+{
+  "project_id": "P176905",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "09bd071e",
+  "started_at": "2026-11-07T03:33:30Z",
+  "ended_at": "2026-11-07T03:34:00Z",
+  "input_fingerprint": "e2d83422c6e8f824",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 39,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P176905-A1",
+      "project_id": "P176905",
+      "name": "incubator platform and technological surveillance system for agri-tech",
+      "description": "Project finances design of an incubator platform and a technological surveillance system under Component 3.",
+      "why_innovative": "New organizational practice: platform linking agri-tech actors and tech intelligence - cue: 'incubator' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "572191641931780873",
+        "doc_type": "PAD",
+        "doc_date": "2021-12-15",
+        "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+        "char_start": 155111,
+        "char_end": 155335,
+        "text": "Under component 3, consulting services include the design of an incubator platform and a technological surveillance system, both to be carried out through a Request for Proposals (QCBS with an international market approach).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: platform convenes startups, researchers and firms",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Extension, Research, and Other Support Activities",
+        "code": "",
+        "confidence": null,
+        "rationale": "Incubator platform and technological surveillance system are agri-tech research/support activities.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: incubator platform + tech surveillance system | Innovative: new agri-tech ecosystem coordination tool | Category: multi-actor platform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New organizational practice: platform linking agri-tech actors and tech intelligence - cue: 'incubator'",
+      "innovation_cues": [
+        "incubator"
+      ]
+    },
+    {
+      "approach_id": "P176905-A2",
+      "project_id": "P176905",
+      "name": "Cloud platform for supervising public infrastructure subprojects",
+      "description": "Component 1 subproject supervision is carried out through a cloud-based project delivery platform.",
+      "why_innovative": "New delivery arrangement: cloud platform supervises subprojects - cue: 'cloud platform' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "572191641931780873",
+        "doc_type": "PAD",
+        "doc_date": "2021-12-15",
+        "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+        "char_start": 207664,
+        "char_end": 207765,
+        "text": "Supervision of subprojects in Component 1 will be made through a cloud platform for project delivery.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "572191641931780873",
+          "doc_type": "PAD",
+          "doc_date": "2021-12-15",
+          "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+          "char_start": 12248,
+          "char_end": 12282,
+          "text": "Public Infrastructure Subprojects.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        },
+        {
+          "guid": "572191641931780873",
+          "doc_type": "PAD",
+          "doc_date": "2021-12-15",
+          "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+          "char_start": 12300,
+          "char_end": 12987,
+          "text": "The Borrower shall, through MAGyP’s Page iv of vi The World Bank Climate Intelligent and Inclusive Agri-food Systems Project (P176905) DIPROSE, prior to the implementation of any activity under Part 1 of the Project for the benefit of a Participating Province, which shall be implemented by the Participating Province through a sub-loan, enter into an agreement with the relevant Participating Province, under terms and conditions acceptable to the Bank and substantially similar to those in the model form of Framework Subsidiary Loan Agreement, setting forth the framework for the implementation of the Public Infrastructure Subprojects under Part 1 of the Project in its jurisdiction.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        },
+        {
+          "guid": "572191641931780873",
+          "doc_type": "PAD",
+          "doc_date": "2021-12-15",
+          "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+          "char_start": 16191,
+          "char_end": 16225,
+          "text": "Public Infrastructure Subprojects.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: changes how subprojects are supervised, not the works",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Agriculture, Fishing & Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Cloud platform supports public subproject supervision, a public administration function.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: cloud project-delivery platform | Innovative: replaces conventional subproject supervision | Category: delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: cloud platform supervises subprojects - cue: 'cloud platform'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176905",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "guid": "572191641931780873",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:33:30Z",
+      "ended_at": "2026-11-07T03:33:37Z",
+      "status": "ok",
+      "note": "10 document(s) fetched from the WBG API; 15 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:37Z",
+      "ended_at": "2026-11-07T03:33:37Z",
+      "status": "ok",
+      "note": "in scope (approved 2021-12-09, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:37Z",
+      "ended_at": "2026-11-07T03:33:39Z",
+      "status": "ok",
+      "note": "39 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 39,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 5,
+          "public_good": 3,
+          "enabling_processes": 9,
+          "innovation_types": 7,
+          "innovation_cycle": 8,
+          "results_based_management": 2,
+          "enabling_technologies": 5
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:39Z",
+      "ended_at": "2026-11-07T03:33:39Z",
+      "status": "ok",
+      "note": "PAD 2021-12-15 (P176905_PAD_2021-12-15_572191641931780873.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176905",
+            "doc_type": "PAD",
+            "doc_date": "2021-12-15",
+            "guid": "572191641931780873",
+            "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:39Z",
+      "ended_at": "2026-11-07T03:33:39Z",
+      "status": "ok",
+      "note": "232 reading units (47 numbered paragraphs) from 1841 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 232
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:39Z",
+      "ended_at": "2026-11-07T03:33:42Z",
+      "status": "ok",
+      "note": "85 of 232 units carry a digital / AI cue (46 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 85,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 46
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:42Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "ok",
+      "note": "12 candidate practices from 85 units in 9 calls",
+      "llm_calls": 9,
+      "input_chars": 271944,
+      "output": {
+        "usage": {
+          "calls": 9,
+          "input_tokens": 1674,
+          "cached_tokens": 55678,
+          "cache_write_tokens": 0,
+          "output_tokens": 3124,
+          "seconds": 24.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0046
+        },
+        "extracted": 12
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:57Z",
+      "status": "ok",
+      "note": "2 accepted, 10 rejected (not_digital 7, not_innovative 2, generic 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 64397,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7670,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 706,
+          "seconds": 6.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0032
+        },
+        "accepted": 2,
+        "rejected": 10,
+        "expanded": 1,
+        "reject_codes": {
+          "not_digital": 7,
+          "generic": 1,
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:57Z",
+      "ended_at": "2026-11-07T03:33:58Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1164,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 270,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 90,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:58Z",
+      "ended_at": "2026-11-07T03:33:58Z",
+      "status": "ok",
+      "note": "2 approaches -> 2 by sector x category; no group needed naming; 3 Data Sheet sentences attached",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 3
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:58Z",
+      "ended_at": "2026-11-07T03:34:00Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5482,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 785,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 135,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:34:00Z",
+      "ended_at": "2026-11-07T03:34:00Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 5 evidence rows, 10 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:34:00Z",
+      "ended_at": "2026-11-07T03:34:00Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 178
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176905-A1-E1",
+      "approach_id": "P176905-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P176905",
+      "doc_id": "572191641931780873",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "unit_id": "U107",
+      "para_no": null,
+      "sentence_position": 876,
+      "char_start": 155111,
+      "char_end": 155335,
+      "sentence": "Under component 3, consulting services include the design of an incubator platform and a technological surveillance system, both to be carried out through a Request for Proposals (QCBS with an international market approach).",
+      "practice": "incubator platform and technological surveillance system for agri-tech",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Agricultural Extension, Research, and Other Support Activities",
+      "extractor_reason": "Digital core: incubator and tech-surveillance platform | Not routine: new agri-tech ecosystem coordination tool | Adoption: 'include the design of'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: incubator platform + tech surveillance system | Innovative: new agri-tech ecosystem coordination tool | Category: multi-actor platform",
+      "keywords_hit": "connectivity;incubator",
+      "innovation_cues": "incubator",
+      "innovation_basis": "New organizational practice: platform linking agri-tech actors and tech intelligence - cue: 'incubator'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09bd071e"
+    },
+    {
+      "row_id": "P176905-A2-E1",
+      "approach_id": "P176905-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P176905",
+      "doc_id": "572191641931780873",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "unit_id": "U147",
+      "para_no": null,
+      "sentence_position": 1210,
+      "char_start": 207664,
+      "char_end": 207765,
+      "sentence": "Supervision of subprojects in Component 1 will be made through a cloud platform for project delivery.",
+      "practice": "Cloud platform for supervising public infrastructure subprojects",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "Digital core: cloud project-delivery platform | Not routine: replaces conventional subproject supervision | Adoption: 'will be made through'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: cloud project-delivery platform | Innovative: replaces conventional subproject supervision | Category: delivery arrangement",
+      "keywords_hit": "cloud;connectivity;rural connectivity",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: cloud platform supervises subprojects - cue: 'cloud platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "09bd071e"
+    },
+    {
+      "row_id": "P176905-A2-L1",
+      "approach_id": "P176905-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 1,
+      "project_id": "P176905",
+      "doc_id": "572191641931780873",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "unit_id": "U8",
+      "para_no": null,
+      "sentence_position": 79,
+      "char_start": 12248,
+      "char_end": 12282,
+      "sentence": "Public Infrastructure Subprojects.",
+      "practice": "Cloud platform for supervising public infrastructure subprojects",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "09bd071e"
+    },
+    {
+      "row_id": "P176905-A2-L2",
+      "approach_id": "P176905-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 1,
+      "project_id": "P176905",
+      "doc_id": "572191641931780873",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "unit_id": "U8",
+      "para_no": null,
+      "sentence_position": 82,
+      "char_start": 12300,
+      "char_end": 12987,
+      "sentence": "The Borrower shall, through MAGyP’s Page iv of vi The World Bank Climate Intelligent and Inclusive Agri-food Systems Project (P176905) DIPROSE, prior to the implementation of any activity under Part 1 of the Project for the benefit of a Participating Province, which shall be implemented by the Participating Province through a sub-loan, enter into an agreement with the relevant Participating Province, under terms and conditions acceptable to the Bank and substantially similar to those in the model form of Framework Subsidiary Loan Agreement, setting forth the framework for the implementation of the Public Infrastructure Subprojects under Part 1 of the Project in its jurisdiction.",
+      "practice": "Cloud platform for supervising public infrastructure subprojects",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "09bd071e"
+    },
+    {
+      "row_id": "P176905-A2-L3",
+      "approach_id": "P176905-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 1,
+      "project_id": "P176905",
+      "doc_id": "572191641931780873",
+      "doc_type": "PAD",
+      "doc_date": "2021-12-15",
+      "file_name": "P176905_PAD_2021-12-15_572191641931780873.txt",
+      "unit_id": "U10",
+      "para_no": 2,
+      "sentence_position": 100,
+      "char_start": 16191,
+      "char_end": 16225,
+      "sentence": "Public Infrastructure Subprojects.",
+      "practice": "Cloud platform for supervising public infrastructure subprojects",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing & Forestry",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "09bd071e"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 420,
+      "char_start": 64262,
+      "char_end": 64415,
+      "sentence": "This subcomponent will provide finance through four windows for the development of new climate- smart technologies and practices through matching grants.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Matching grants through four windows for agri-food tech MSMEs",
+      "reason": "reject: Matching grant windows for MSMEs; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: staged grant windows from incubation to venture - cue: 'incubator'",
+      "innovation_cues": "accelerator;climate-smart;incubator;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Matching grant windows for MSMEs; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1377
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 424,
+      "char_start": 64944,
+      "char_end": 65230,
+      "sentence": "Window 4 - Innovation Challenge Funds: this window will support open competitions and challenges to finance individual entrepreneurs or innovators who are in the ideation and prototype phases of developing solutions to specific problems related to climate-smart agriculture development.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Innovation Challenge Funds via open competitions for agri-tech prototypes",
+      "reason": "reject: Open grant competitions; no digital platform or system named",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: open challenge competitions with inter-stakeholder panels - cue: 'innovation-challenge'",
+      "innovation_cues": "climate-smart;innovation;innovation-challenge;innovative;prototype",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Open grant competitions; no digital platform or system named",
+          "reject_code": "not_digital",
+          "context_chars": 1281
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 692,
+      "char_start": 110206,
+      "char_end": 110356,
+      "sentence": "Channels will be developed to allow for community M&E of site-specific project activities such as through social audits or citizen feedback platforms.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "citizen feedback platforms for community M&E of subprojects",
+      "reason": "reject: Vague 'channels...such as social audits or citizen feedback platforms'; no named digital system, sits in grievance section",
+      "reject_code": "generic",
+      "innovation_basis": "New process: community M&E via citizen feedback platforms - cue: 'citizen-feedback'",
+      "innovation_cues": "citizen-feedback",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether citizen feedback platforms are financed or just envisaged; no named system",
+          "reject_code": "",
+          "context_chars": 1277
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Vague 'channels...such as social audits or citizen feedback platforms'; no named digital system, sits in grievance section",
+          "reject_code": "generic",
+          "context_chars": 7882
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 891,
+      "char_start": 157520,
+      "char_end": 158106,
+      "sentence": "Component 3: (i) goods: technological infrastructure (hardware and software) and peripherals; infrastructure for the new data center, computer security, networking equipment, software licensing and computer equipment for INTA´s operational units; investments for laboratories and the acquisition of a laboratory management system; and investments in new technologies and equipment; through national or international open competitive procedures (ii) consulting services: iincubator platform design and technological surveillance system, through international open competitive procedures;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "laboratory management system for INTA research units",
+      "reason": "reject: Standard procurement of lab management software and hardware, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New product: digital lab management system in research institutes - cue: 'laboratory management system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard procurement of lab management software and hardware, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1696
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1042,
+      "char_start": 179686,
+      "char_end": 179880,
+      "sentence": "Component 3.2 will also support the Agri-food Tech ecosystem incubators and accelerators co- financing venture capital initiatives with co-sharing participation in benefits, via matching grants.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Matching grants co-financing agri-food tech incubators and venture capital",
+      "reason": "reject: Matching grants with benefit-sharing; no digital system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: matching grants co-share venture capital benefits - cue: 'co-sharing participation in benefits'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Matching grants with benefit-sharing; no digital system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 2541
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1427,
+      "char_start": 246148,
+      "char_end": 246615,
+      "sentence": "(c) Window 3 - Venture/risk capital: this window will provide, and seek to attract, venture capital financing for expanding the activities of innovative Agri-food Tech businesses; and (d) Window 4 - Innovation Challenge Funds: this window will support open competitions and challenges to finance individual entrepreneurs/innovators who are in the ideation/prototype phases of developing solutions to specific problems related to climate-smart agriculture development.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Innovation Challenge Fund open competitions for agri-tech prototypes",
+      "reason": "reject: Open challenge competitions for grants; no digital system named",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: crowdsourced open innovation challenges for agri-tech - cue: 'Innovation Challenge Funds'",
+      "innovation_cues": "climate-smart;innovation;innovation-challenge;innovative;prototype",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Open challenge competitions for grants; no digital system named",
+          "reject_code": "not_digital",
+          "context_chars": 1286
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1436,
+      "char_start": 247843,
+      "char_end": 248032,
+      "sentence": "The incubator-accelerator initiative involves a public-private partnership that leverages private capital to increase the pool of investment capital available to small Agri-food Tech MSMEs.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Public-private matching grant leveraging private venture capital",
+      "reason": "reject: 1:1 private-capital matching grant; no digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New financial product: 1:1 private-capital matching grant - cue: 'private-capital'",
+      "innovation_cues": "accelerator;incubator;innovation;innovation-challenge;private-capital;public-private-partnership;scaling;scaling-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "1:1 private-capital matching grant; no digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 971
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1460,
+      "char_start": 250783,
+      "char_end": 251076,
+      "sentence": "This will be done through a team of individual consultants/experts to be hired by the MAGYP (and/or INTA) to identify the various problems and opportunities of the agriculture sector that could be addressed through new technologies, and then translate those into actionable call for proposals.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Crowdsourced innovation challenge calls for agri-tech solutions",
+      "reason": "reject: Crowdsourced calls and awards; no digital platform named as core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: problem-to-call crowdsourcing with awards - cue: 'crowdsource'",
+      "innovation_cues": "accelerator;incubator;innovation;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Crowdsourced calls and awards; no digital platform named as core",
+          "reject_code": "not_digital",
+          "context_chars": 1362
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1483,
+      "char_start": 253314,
+      "char_end": 253461,
+      "sentence": "For the AICC, a model of open calls for innovation along the lines of the United States Small Business Innovation Research (SBIR) will be designed.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "SBIR-model open innovation calls for agri-tech",
+      "reason": "reject: SBIR-style open call cycle; no digital system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: SBIR-style open innovation call cycle - cue: 'innovation'",
+      "innovation_cues": "innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "SBIR-style open call cycle; no digital system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 2207
+        }
+      ]
+    },
+    {
+      "guid": "572191641931780873",
+      "doc_type": "PAD",
+      "position": 1664,
+      "char_start": 287809,
+      "char_end": 288058,
+      "sentence": "The overall success of the proposed activities will be measured through the project-level Women’s Empowerment in Agriculture Index (Pro-WEAI), a survey-based index for measuring empowerment, agency, and inclusion of women in the agricultural sector.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Pro-WEAI survey index measuring women's empowerment in agriculture",
+      "reason": "reject: Standard survey-based M&E index, not a new digital practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: survey-based empowerment index as project-level M&E - cue: 'measured'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard survey-based M&E index, not a new digital practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1275
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 13,
+    "input_tokens": 10399,
+    "cached_tokens": 61566,
+    "cache_write_tokens": 0,
+    "output_tokens": 4055,
+    "seconds": 34.5,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0084
+  }
+}

@@ -1,0 +1,620 @@
+﻿    The World Bank
+    Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                  Project Information Document (PID)
+
+                 Concept Stage | Date Prepared/Updated: 23-Jul-2024 | Report No: PIDDC00842
+      The World Bank
+      Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)         Operation ID                Operation Name
+Brazil, Brazil, Brazil, Brazil   P506142                     Santa Catarina Rural Development Project for
+                                                             Sustainability and Innovation
+Region                           Estimated Appraisal Date    Estimated Approval Date        Practice Area (Lead)
+LATIN AMERICA AND                26-Aug-2024                 31-Mar-2025                    Agriculture and Food
+CARIBBEAN
+Financing Instrument             Borrower(s)                 Implementing Agency
+Investment Project               State of Santa Catarina     Secretary of Agriculture
+Financing (IPF)                                              and Livestock of Santa
+                                                             Catarina
+
+Proposed Development Objective(s)
+To increase climate resilience and market access of family farmers in the State of Santa Catarina
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    Yes
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                         150.00
+
+  Total Financing                                                                                              150.00
+               of which IBRD/IDA                                                                              120.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                              120.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                    Page 1
+         The World Bank
+         Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+       Counterpart Funding                                                                                                               30.00
+          Borrower/Recipient                                                                                                             30.00
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                Concept Review Decision
+Moderate                                                                    The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+1. Recent economic development in Brazil has been characterized by a mix of positive and negative trends. Between
+2001 and 2014, Brazil experienced growth averaging 3.3 percent annually in real terms. This growth was propelled by
+favorable commodity prices, capital flows, and sound macroeconomic management, enabling the financing of important
+social protection programs and helping lift over 27 million people out of poverty. However, by 2014, a combination of
+falling commodity prices, political instability, and unaddressed structural challenges had plunged the economy into a
+recession. From 2014 to 2019, real annual Gross Domestic Product (GDP) growth averaged -0.3 percent. In 2020, the
+COVID-19 pandemic caused a decline in the GDP growth of -3.3 percent. By 2021, the unemployment rate jumped to 14
+percent.
+2. Following a rebound from the COVID-19 pandemic, economic growth slowed down. In 2021, the post-COVID-19
+recovery began with a rebound in economic growth of 5 percent. This surge was fueled by fiscal stimulus, a successful
+COVID-19 vaccination, favorable conditions in commodity markets, and high demand for services. From 2022 to 2023,
+economic growth reached 3 percent, driven by agriculture, exports, and fiscal transfers to low-income households.
+Projections indicate a further decline in economic growth to 2 percent over the next five years. Meanwhile, inflation
+peaked at 12 percent year-over-year in 2022, fueled by high energy and food prices and a robust domestic economy. Tight
+monetary policy resulted in a decline in inflation to 3.9 percent in 2023.
+3. Brazil will experience rapid change in climate conditions and its impacts will be spatially varied. By the end of the
+century, the average temperature in Brazil is expected to rise, depending on the trajectory of global Greenhouse Gas
+(GHG) emissions, by 1.7 °C to 5.3 °C from the 1986–2005 average1. All of Brazil’s biomes are vulnerable to the impact of
+changes in temperature and rainfall, though with significant regional differences2. In rural areas, more frequent and severe
+climate events such as droughts and floods are likely to cause major impacts on agriculture productivity, logistics (lowering
+conditions of rural roads) and delivery of water and sanitation services due to dwindling water supply.
+4. In the last months of 2023 and first months of 2024, the state of Santa Catarina experienced various extreme
+weather events, highlighting the vulnerabilities of the state to climate change. These changes threaten rural and fishing
+
+
+1World  Bank. 2021. Climate Risk Country Profile: Brazil. Washington, DC: World Bank Group.
+2 Painel Brasileiro de Mudanças Climáticas (PBMC). 2013. Executive Summary. In Impactos, Vulnerabilidades e Adaptação: Contribuição do Grupo de
+Trabalho 2 ao Primeiro Relatório de Avaliação Nacional do Painel Brasileiro de Mudanças Climáticas edited by E.D. Assad and A.R. Magalhães. Rio de
+Janeiro: Universidade Federal do Rio de Janeiro.
+
+                                                                                                                                             Page 2
+         The World Bank
+         Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+lifestyles, agricultural sustainability, and the ability to meet rising demands for food, fibers, and biomass. The most
+immediate and tangible effects on Santa Catarina's production chains are related to erratic rainfall. Intense, prolonged
+droughts have negatively impacted water supply, leading to productivity losses, increased vulnerability to pests and
+diseases, and higher production costs. Additionally, changes in rainfall patterns have resulted in more frequent short-
+duration, high-volume rain events, causing crop damage, infrastructure losses, and soil erosion.
+
+
+    Sectoral and Institutional Context
+5. Brazil’s agricultural sector is highly heterogenous. There are nearly 5 million rural properties nationwide distributed
+over 65 million of hectares of land. Nearly 3.9 million rural properties are classified as family farms.3,4 They represent 77
+percent of all rural properties in Brazil. The Northeast region holds the highest concentration of family farmers, accounting
+for 47 percent of all family farms in Brazil, followed by the South region (18 percent), the Southeast region (17 percent), .
+the North region (12 percent), and the Center-West region (5 percent). These family farmers co-exist with 1.1 million
+small, medium, and large-scale non-family, more commercial farmers. Family farmers exhibit significant diversity: some
+are highly productive and commercially oriented, embracing technological innovations5, while others follow subsistence-
+oriented farming practices, lack market access, and rely on traditional farming methods.
+6. In Santa Catarina, the productive structure of agriculture is characterized by the strength of family farming and the
+predominance of small rural properties. In the state, 183,000 agricultural establishments are registered, 78 percent of
+which are family farms, with a total area of 6.45 million hectares and an average area of 35.2 ha per establishment. The
+agriculture sector employs more than 500,000 people.6
+7. Brazil’s agrifood sector plays an important role in the national economy and livelihoods of the poor . The primary
+agriculture sector accounts for 5 percent of the national GDP, nearly USD 175 billion. Considering the back and forward
+linkages along the entire agrifood system, ranging from input providers, farmers, agribusiness firms and distributors, its
+contribution to the national economy reaches 26 percent of GDP. The primary agricultural sector employs 15 million
+people, accounting for 20 percent of the national workforce. Brazil is now a top-5 producer of 34 agricultural commodities,
+and it is the largest net agrifood exporter in the world. Half of its agrifood production, USD 123.2 billion, is sold in
+international markets. The agrifood exports represent 37 percent of Brazil’s total exports.
+8. Agriculture in Santa Catarina has the 10th highest added value in Brazil and contributes 6.7 percent of the value
+added by the local economy. The 2023 Value of Agricultural Production (VPA) reached USD 13.28 billion and in the last
+10 years it has had an average real growth of more than 2.5 percent per year. Despite the great diversification of
+agriculture in Santa Catarina, almost 60 percent of VPA results from just four activities: swine, 20.2 percent; poultry, 16.4
+percent; milk, 12.3 percent; and soybeans, 10.9 percent. In 2023, state agribusiness exports had the second-best
+performance in history, with US$7.49 billion exported, 65 percent of the total value of Santa Catarina's exports in 2023
+and 4.5 percent of those exported by Brazilian agriculture.
+9. Overall, Brazil’s agrifood sector has performed well on aggregate , yet many family farmers struggle, , with rural
+poverty estimated at 38.7 percent, more than double the urban poverty rate7. Also, it is estimated that one percent of
+
+3 Instituto Brasileiro de Geografia e Estatística. 2017. Censo Agropecuário. Rio de Janeiro.
+4 Federal Law No. 11.326, dated July 24, 2006 defines family farmers as: (a) who does not have under any tenure regime an area of more than four
+fiscal modules, (b) who predominantly relies on its own family labor; (c) whose household income predominantly originates in the family farm; and
+(d) whose family members operate the farm. A fiscal module defines the minimum land size per municipality needed for a family farm to succeed,
+considering subsistence, social progress, and full dedication to agriculture. This area ranges from 5 to 110 hectares.
+5 Schwab, K. 2016. The fourth industrial revolution . World Economic Forum.
+6
+  Instituto Brasileiro de Geografia e Estatística. 2017. Censo Agropecuário. Rio de Janeiro.
+7
+  Instituto Brasileiro de Geografia e Estatistica (IBGE). 2023. Síntese dos indicadores sociais (SIS).
+
+                                                                                                                                            Page 3
+          The World Bank
+          Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+the rural properties, mostly medium and large-scale farms, generate 50 percent of the gross agricultural value of
+production.8 In Santa Catarina, it is estimated that around 22 percent of family farmers are benefiting from the Bolsa
+Familia program.9
+10. The national agrifood sector witnessed an annual growth rate of 2.03 percent in Total Factor Productivity (TFP)
+from 1970 to 201710. The Center-West region demonstrated the most impressive performance, with an annual agricultural
+TFP growth of 3.9 percent. The South and Southeast regions also experienced significant growth, at 2.43 percent and 1.91
+percent respectively. However, the North and Northeast regions saw a decline in agricultural TFP growth rates between
+2006 and 2017. This high TFP growth was achieved through investments in: (i) agricultural innovation (i.e., research and
+development, agricultural extension, and technical assistance); (ii) agriculture finance (i.e., credit and insurance); (iii)
+infrastructure (i.e., rural roads and irrigation); and (iv) trade liberalization. Small-to-mid-size farmers (20-200 hectares)
+and those in the North and Northeast of Brazil have recorded the lowest TFP growth through this period.11 Despite the
+country’s overall improvement in competitiveness, certain regions (i.e., North and Northeast) and specific farmers
+segments lag behind. Prioritizing agricultural TFP improvements in lagging regions and farmers is a priority for Brazil to
+unlock sectoral further economic growth, while reducing poverty and inequality.
+11. Despite the recent growth and future potential of the agrifood sector in Brazil, there are several challenges to be
+overcome.
+12. Challenge #1 – Delivery of last-mile agricultural public goods and services. The literature shows that agricultural
+public goods like rural infrastructure (rural roads, electrification, irrigation, information and communication technology,
+etc.) and services (land administration, food safety and agriculture health, agriculture innovation, etc.) are fundamental
+for addressing food security and sustainable development.12,13 Brazil invests only one percent of its agricultural GDP on
+agricultural public goods and services, compared to the Organization for Economic Cooperation and Development (OECD)
+average of 3.4 percent.14 As a result, few farmers benefit from them (i.e., 20 percent of farmers benefit from agricultural
+extension services) and 63 percent of the rural population has experienced food insecurity. This low coverage is
+compounded by the poor-quality of agriculture public goods and services provided.15 Roads are another example of the
+challenges of delivering such agricultural public goods. Rural roads near agriculture production areas are often unpaved
+and in poor condition16, leading to high transport cost for inputs and outputs.17 This problem is significant for family
+farmers located in remote areas.
+13. In Santa Catarina, the vast majority of rural communities are located in remote areas, leading to socioeconomic
+isolation due to deficient communication infrastructure for Internet access and mobile telephony. Additionally, the
+logistical structure is compromised by undersized and poorly maintained roads, which hinders the transport of inputs and
+production, thereby limiting the development of regions and production chains. With regard to support to agricultural
+
+8 Souza, G., et al. 2018. Imperfeições de mercado e concentração de renda na produção agrícola . Revista de Política Agrícola, ano 27, n. 2, p. 31-38.
+9
+  To benefit from the Bolsa Familia program, members of the family should not earn more than USD 40 per month.
+10 Gasques, J.G. et al. 2020. Crescimento e produtividade da agricultura brasileira: uma análise do censo agropecuário , in José Eustáquio Ribeiro Vieira
+
+Filho and José Garcia Gasques, eds., Uma jornada pelos contrastes do Brasil. Cem anos de Censo Agropecuário. IPEA. Rio de Janeiro, Brasil.
+11
+     WB, 2017. Agricultural growth in Brazil
+12 Atkin, David, and Dave Donaldson. 2015. Who’s Getting Globalized? The Size and Implications of IntraNational Trade Costs, NBER Working Paper.
+13 Porteous, Obie. 2019. High Trade Costs and Their Consequences: An Estimated Dynamic Model of African Agricultural Storage and Trade, American
+
+Economic Journal: Applied Economics 11 (4): 327–66.
+14 Organization for Economic Cooperation Development (OECD). 2023. Agricultural Policy Monitoring and Evaluation 2023. Adapting Agriculture to
+
+Climate Change.
+15 Davis, K., S. C. Babu, and C. Ragasa. 2020. Agricultural Extension: Global Status and Performance in Selected Countries. Washington, DC:
+
+International Food Policy Research Institute.
+16 Vieira Filho, José Eustáquio Ribeiro Organizador et al. 2019. Diagnóstico e desafios da agricultura brasileira . Rio de Janeiro: IPEA, 2019.
+17 Brazil ranks 74th on the Road Connectivity Index and 51st logistics performance (LPI). By comparison China’s rank is 19th and India’s 38th on LPI.
+
+
+
+                                                                                                                                                    Page 4
+             The World Bank
+             Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+public goods and services, in the period 2017-2021, there was a low level of investment, equivalent to 0.7 percent of the
+state agricultural GDP. This level is below the OECD average (more than 5 percent), and what was observed in São Paulo
+(1.2 percent). Of the total State’s investment in public goods in the sector, 24 percent corresponds to agricultural
+innovation (Research and Development, extension) and the rest is distributed in infrastructure, health inspection, control
+services, and others.18
+14. Challenge #2 - Building assets for an inclusive agrifood system. Most family farmers struggle with poverty, with
+household incomes falling below the USD 1.24 daily threshold. This struggle can be attributed, in part, to the lack of
+minimum asset endowment. In Santa Catarina, there are significant challenges in the inclusion of family farmers with
+limited land and impoverished rural populations, as well as Traditional People and Communities (TPCs). 20 percent
+(37,000) of rural producers in Santa Catarina have farms primarily for subsistence production and there are 67,700
+agricultural establishments (37 percent of the total) with less than 10 hectares.19 Current literature highlights the
+significance of minimum asset ownership for production.20 Also, recent research provides compelling evidence for the
+effectiveness of supporting rural households through various productive inclusion phases using a multifaceted "graduation
+approach21" and "productive alliances�?22 programs.23 These approaches and programs, combining productive asset
+transfers, technical and business management assistance, and access to saving accounts, have demonstrably led to long-
+term sustained increases in income and consumption for participating family farmers, therefore, lifting them out of
+poverty.
+15. Challenge # 3 – Improving agrifood system sustainability. Brazil’s agrifood sector accounts for nearly one third of
+total national GHG emissions. When combined with land-use change and forestry, the agrifood system’s contribution
+reaches 60 percent of the national GHG emissions.24 In 2019, Brazil was the fourth largest global consumer of fertilizers.
+Overuse of fertilizer is associated with leaching of nitrates into groundwater, emission of nitrogen oxides, pollution of soil
+with toxic heavy metals, and surface runoff of nitrogen and phosphorus. Furthermore, family farmers are highly exposed
+to extreme weather events (i.e., high spatial and temporal rainfall variability), which combined with low asset’s
+endowment and income levels, make them highly vulnerable to climate change.
+16. In Santa Catarina, the agricultural sector contributes around 36 percent of total emissions estimates in the state
+(Estimative System of GHG Emissions - Sistema Estimativa de Emissão de Gases - SEEG, 2021), a situation that places Santa
+Catarina in 15th place in the ranking of emissions by state with gross emissions of 59 MtCO 2 equivalent per year. In
+addition, the use of outdated farm technologies and farming practices leads to soil degradation and water pollution. To
+address the issue, a simultaneous approach is recommended: (i) implementing environmental policies to halt agricultural
+frontier expansion (i.e., turning unassigned public lands into protected areas, improving the implementation of the rural
+
+
+
+
+18World Bank. 2024. Analysis of support policies for the agricultural sector in Santa Catarina, Brazil Agricultural Support Estimates Report 2017 –
+2021
+19 Instituto Brasileiro de Geografia e Estatística. 2017. Censo Agropecuário. Rio de Janeiro.
+20 Eswaran, Mukesh, and Ashok Kotwal. 1986. Access to Capital and Agrarian Production Organization, The Economic Journal 96(382): 482-98.
+21 The Bangladeshi organization BRAC (www.brac.net) designed a livelihood program known as the “Graduation approach�?. This program provides
+ultra-poor households with a productive asset, training, coaching, access to savings, and consumption support to help them graduate from extreme
+poverty. The program has been replicated in many countries and rigorously evaluated.
+22 Productive Alliances are business partnerships among the following partners: (i) technical (either private or public), commercial (wholesalers,
+
+processors, and/or retailers), and financial (banks) along with producer organizations (POs) designed to strengthen the position of family farmers
+within agricultural value chains.
+23 Abhijit Banerjee, Dean Karlan, Robert Osei, Hannah Trachtman, Christopher Udry. 2022. Unpacking a multi-faceted program to build sustainable
+
+income for the very poor, Journal of Development Economics, Volume 155
+24 According to SEEG, in 2022, Brazil’s net GHG emissions were of 1.688 GtCO2e. Agriculture and livestock emitted a net 617 MtCO 2e (or 36 percent
+
+of total net GHG emissions), while land-use change and forest sector emitted 489 MtCO2e.
+
+                                                                                                                                              Page 5
+         The World Bank
+         Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+environmental cadaster– CAR) and (ii) promoting agriculture intensification of family farmers through the adoption of
+climate-smart agriculture (CSA)25 technologies and farming practices.
+17. Challenge #4 - Agrifinancing for sustainable agrifood system development. Returns from investing in agrifood
+production can be highly uncertain because of significant variations in natural conditions and volatility in agrifood markets.
+Availability of credit heavily influences agrifood systems (i.e., crop and livestock selection, type of production technologies
+and practices, etc). In Brazil, the public sector remains a significant contributor of the agrifinance market providing 33
+percent of total credit (USD 75 billion from Plano Safra). Despite the use of preferential credit schemes as a key agriculture
+public support policy, only 15 percent of family farmers access credit lines, indicating a pressing need for improved
+agrifinance accessibility to family farmers.26 Furthermore, the current available agrifinance instruments could be
+strengthened to provide incentives for the adoption of CSA practices and technologies, contributing towards improvement
+in agrifood productivity, environmental goals, and improved livelihoods.
+18. Challenge # 5 – Enhancing women participation in agrifood system development. Despite comprising over 32
+percent of Brazil’s farmers, women face marginalization within the agrifood system. Sociocultural norms limit their access
+to essential resources such as land, water, financing, inputs, and innovation services.27 Furthermore, women
+disproportionately bear the burden of unpaid domestic and caregiving responsibilities. They spend 2.3 times as much time
+on unpaid domestic and caregiving work than men.28 Moreover, women’s leadership within farmers’ organizations, such
+as cooperatives and community associations, remain underrepresented.29 Recent findings indicate that female-owned
+properties are 61 percent less productive30, on average, than male-owned ones.31 Female farmers yields are 20-30 percent
+smaller than those of male farmers.32 Additionally, agricultural commercialization is lower when farmers' organizations
+are led by women, as compared to those led by men.33 Addressing these gender inequalities in the agrifood system of
+Brazil could improve yields, incomes, and food security.
+
+
+ Relationship to CPF
+19. The MPA is relevant for the Country Partnership Framework (CPF) for Brazil CPF (FY24 –FY28). It aligns with the
+existing CPF Higher Level Objectives (HLOs) of: (i) great productivity and employment; (ii) greater inclusion of the poor and
+underserved populations; and (iii) greener economy with reduced vulnerability to climate chocks. The MPA’s alignment is
+realized through prioritized investments within the proposed pillars of the MPA. The pillar 1 purpose is to enhance access
+to direct support by family farmers (including TPC) to overcome market failures. In this case, it will remove liquidity
+constraints these beneficiaries face when adopting new technologies and farming practices, leading to higher productivity,
+improved resilience to climate shocks and environmental sustainability. Investments under this pillar could contribute to
+HLO (i), (ii) and (iii). The pillar 2 aims to strengthen the provision of agricultural public services and goods, with a focus on
+strengthening agrifood innovation systems, land administration, food safety and agriculture health and rehabilitation and
+
+25 CSA farming practices and technologies are defined as those contributing to climate change resilience, and/or climate change mitigation while
+achieving two or more of the CSA pillars: (i) improving productivity, (ii) adapting and improving resilience to climate change, and (iii) mitigating climate
+change.
+26 Souza, Priscila and Amanda Albuquerque. 2023. Family Farming in Brazil: Inequalities in Credit Access. Rio de Janeiro: Climate Policy Initiative, 2023.
+27 Only 20 percent of women have access to land within the family agriculture segment. Additionally, only 12 percent of women obtain technical
+
+assistance (Censo Agropecuário – IBGE, 2017).
+28 World Bank Gender Data Portal. 2023. Brazil Country Profile.
+29 Women participation in associative activities is only 5.3 percent, while 12.8 percent two men participate in some type of association. (Censo
+
+Agropecuário – IBGE, 2017).
+30 Female-owned properties as less capital-intensive, relying on fewer modern inputs, hiring fewer workers, and having limited credit access
+
+compared to male-owned properties.
+31 Araujo, R. et al. 2024. Seeds of Disparity: The Gender Land Divide from Brazil’s Agricultural Transition (No. dk4bc). Center for Open Science.
+32 Northern Michigan University, 2021. https://nmu.edu/gender/sites/gender/files/2021-01/Martz-GC.GN495-Zine.pdf
+33 In Brazil, farmers sell, on average, 60 percent of their output. Among women led farmers, they only sell 46 percent of their outputs.
+
+
+
+                                                                                                                                                       Page 6
+        The World Bank
+        Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+expansion of last mile rural infrastructure. The investments under this pillar could improve agriculture productivity and
+access to markets in lagging areas. Therefore, the second pillar will contribute to the CPF HLO (i) and (ii).
+
+
+ C. Proposed Development Objective(s)
+ To increase resilience to climate shocks and market access of family farmers in the State of Santa Catarina
+
+
+  Key Results (From PCN)
+        1. Program Results Chain
+
+
+20. The MPA leverages recent research on agrifood system development, acknowledging that a singular approach
+cannot address the multifaceted causes of lack of access to markets, low productivity, poor resilience to shocks, and
+food insecurity. Recognizing the context-specific nature of these challenges, the program’s Theory of Change (ToC)
+depicted in Figure 1 outlines a causal pathway towards achieving program impacts through a three-pillared approach: (i)
+pillar 1 will improve access to direct support for targeted family farmers and their POs, thereby reducing financial
+constraints for investment in productive activities; (ii) pillar 2 aims to enhance the delivery of last mile agricultural public
+goods and services, which will improve the enabling conditions for the agrifood system to develop; (iii) pillar 3 will support
+governments to enhance monitoring and evaluation of public policies and programs to repurpose them to foster green,
+resilient, and inclusion within the agrifood system. The MPA’s pillars are presented in more detail in the framework
+section. Incorporated in the overall MPA strategy is a set of activities (social, agronomic, and financial measures) designed
+to increase resiliency of farmers to shocks (e.g., climate change).
+21. The successful delivery of expected outcomes in the MPA hinges upon several key assumptions: (i) family farmer’s
+constraints to adopting and maintaining new agricultural technologies and practices (higher-yielding, more profitable,
+resilience building technologies) do not significantly change; (ii) timely development of national-level governance
+frameworks to facilitate coordination and cooperation between federal and state government levels throughout program
+implementation; (iii) political support to the establishment of effective monitoring and evaluation systems to validate
+outcomes and steer implementation efforts; (iv) food consumers are aware of the benefits of nutrient-rich food; and (v)
+there is no significant changes to the sectoral environment (business/policy) that affects family farms profitability and/or
+productivity. The MPA is designed to recognize that the impact pathway from activities to be implemented by each phase
+to the MPA’s impacts is long, complex, and context specific.
+
+
+        2. Proposed MPA Program Development Objective (PrDO)
+22. The MPA Program Development Objective (PrDO) is to enhance resilience of family farmers in targeted States. The
+PrDO will be monitored by measuring progress on four program outcomes (Table 1). Each proposed phase of the MPA will
+contribute to one or more PrDOs indicators, as appropriate, and it will also add relevant intermediary outcome indicators.
+                   Table 1. PrDO outcome indicators for the MPA “Brazilian AgriFood System Transformation�?
+     Program Development
+                                   Unit                                          Program Indicators
+           Objectives
+ PrDO 1: Enhance resilience of            Increase in gross value of sales by family farmers and rural organizations in the agri-food system
+                                    %
+ family farmers                           (disaggregated by male, female, and youth).
+ PrDO 2: Enhance resilience of            People with strengthened food and nutrition security (disaggregated by female, and youth)
+                                 Number
+ family farmers                           (ScoreCard).
+
+
+                                                                                                                                        Page 7
+        The World Bank
+        Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+ PrDO 3: Enhance resilience of                Hectares of terrestrial and aquatic areas under enhanced conservation and management
+                                   Number
+ family farmers                               (ScoreCard)
+ PrDO 4: Enhance resilience of
+                                   Number     People with enhanced resilience to climate risk (disaggregated by female, and youth) (ScoreCard).
+ family farmers
+
+
+ D. Concept Description
+
+
+23. The project aims at increasing resilience of family farmers by lifting the bottlenecks that prevent their sustainable
+intensification and development. The project will support family farmers in targeted areas to (i) improve the agrifood
+system sustainability, through the adoption of climate-smart agriculture (CSA) practices, sustainable management of
+natural resources and environmental regularization, (ii) build minimum asset ownership for agrifood production, through
+productive assets transfers, access to finance and innovations, technical and managerial assistance, and (iii) delivery of
+last-mile agriculture public goods and services by supporting farms connection to rural roads, on-farm electrification and
+digital connectivity, access to information. The project will also provide support to the State of Santa Catarina to integrate
+this approach into its agricultural policies and programs.
+24. The project will target areas where economic, environmental and inclusion challenges overlap and hinders
+sustainable development of the agrifood system. Economic indicators may include poverty level, access to markets and
+agriculture public goods and services, environmental indicators may include water resources, deforestation rates,
+inclusion indicators may include gender, identification as Traditional People and Communities (TPCs). Project preparation
+will allow to map those areas, with the support of available information at the State level.
+25. The proposed project is an Investment Project Financing (IPF) of US$120.0 million to be implemented over a six-
+year period. The total project cost is estimated to be US$150.00 million, including US$30.00 million of counterpart funding
+from the State of Santa Catarina and beneficiaries. The project will be implemented through 4 components: (i)
+Environmental management, (ii) Entrepreneurship and Innovation, (iii) Agriculture public goods and services and (iv) Public
+management of the agricultural sector.
+26. Project design will build upon the successful results and lessons learned from previous projects implemented in
+the State.34 Project design will also leverage lessons learned from similar on-going or completed projects in in Brazil,
+funded by World Bank or other development partners35 and will benefit from the design of the first 2 phases of the MPA.
+
+
+Beneficiaries
+27. The Project’s direct beneficiaries are family farmers, as defined by the Brazilian law . The number of these direct
+beneficiaries is estimated at 50,000 farmers in total, representing 35 percent of the State’s family farmers. To ensure
+inclusion of women and Traditional People and Communities (TPC), the project will develop a targeting approach to ensure
+outreach and tailored capacity building for these groups as well as disaggregate beneficiary indicators to track their
+participation. In addition, indirect project beneficiaries will include: (i) institutions and organizations that will see their
+capacities strengthened through the various components, (ii) rural households who will benefit from better natural
+resources management and (iii) the 142,000 family farmers of the State of SC who will benefit from improved agricultural
+institutions, policy monitoring and evaluation.
+Components
+
+
+34 See Implementation Completion Results and Reports (ICRR) from Santa Catarina Rural Competitiveness Project (P118540), Report ICR00004054,
+December 22, 2017, and Microbacias I and II projects.
+35 Such as the WB funded Bahia Sustainable Rural Development project (P147157).
+
+
+
+                                                                                                                                           Page 8
+       The World Bank
+       Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+Component 1. Agrifood system sustainability (Total cost US$47.70 million; IBRD loan US$38.16 million; counterpart
+funding US$9.54 million).
+28. Natural resources management and climate change resilience involve managing complex dimensions, such as land
+use changes, natural resources management, sustainable use, and environmental services assessment. The main
+objective of this Component is to contribute to improving the State’s capacity to promote sustainable natural resources
+management (including natural vegetation cover and water resources) and adoption of CSA practices by family farmers,
+including historically marginalized groups targeted by the project such as TPC and women.
+29. The component has three main activities: (i) support the creation of a new Ecological Corridor and the
+implementation and operationalization of 3 existing corridors (Nascentes, Chapecó and Timbó) to support ecological
+connectivity between conservation areas and the design and piloting of mechanisms for Payments for Environmental
+Services (PSE) to enhance the adoption of environmentally friendly agriculture practices, (ii) support research on CSA, GHG
+emissions monitoring and reduction, and biodiversity practices and technical assistance and capacitation of family farmers
+and agricultural technicians to foster the dissemination and adoption of those practices, and (iii) provide direct support to
+family farmers to adopt sustainable and CSA practices, and support the recovery of degraded areas within private
+landholdings, as necessary, and recovery and conservation of springs. This component will help protect native vegetation
+and restore degraded areas, increase carbon storage in soil and vegetation, reduce on-farm GHG emissions thus
+contributing to climate mitigation and enhance climate resilience of family farmers.
+Component 2. Agrifood Entrepreneurship and Innovation (Total cost US$52.45 million; IBRD loan US$41.96 million;
+counterpart funding US$10.49 million).
+30. This Component aims to increase the socio-economic inclusion and competitiveness of family farmers, by (i)
+supporting access to technologies and finance of family farmers, in particular TPCs; (ii) improving access to markets; and
+(iii) strengthening the agriculture public services to create an enabling environment for the market inclusion of family
+farmers.
+31. The component has 3 main activities: (i) support through technical assistance and access to finance demand-driven
+productive investments by Family Farmers’ Organizations (FFO), including diversification and CSA improvement of
+production systems, agro-processing, support to meet legal environmental and sanitary requirements, marketing and
+logistics; (ii) support research, generation and development of sustainable technologies and innovations adapted to family
+farmers, through partnership between the State public research agency (EPAGRI) and startups, science and technology
+institutions, and small private innovation companies, and (iii) support agricultural services for increased market access
+and competitiveness, in particular through enhancing dissemination, adoption and monitoring of good food safety and
+sanitary and phytosanitary (SPS) practices, agri-product traceability and development of agrifood quality labels (such as
+geographic indication) to enable greater access to markets for agri-food products.
+32. The component will ease family farmers’ capacity for investment and act as a de -risking tool to ease investment
+decision making by lowering the upfront costs. The access to finance provided by the project is expected to jump start
+innovations and spark the adoption of new technologies and practices to enhance competitiveness and sustainable use of
+natural resources.
+Component 3. Agriculture public goods (Total cost US$37.40 million).
+33. This Component aims to provide last-mile agricultural public goods to family farmers benefitting from the other 2
+components to improve the structural rural competitiveness framework. Investments will be supported to solve the
+bottlenecks that affect the outflow of agri-food products in the State. The improvement of rural infrastructure will
+enhance the quality of life in rural areas and foster the competitiveness and sustainability of agrifood businesses.
+
+
+
+                                                                                                                         Page 9
+       The World Bank
+       Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+34. The Component has three main activities: (i) support digital connectivity and inclusion of targeted beneficiaries,
+through support to on-farms investments to increase access to digital technologies as well as capacity building on the
+various digital tools developed for family farmers (e.g. Digital ATER); (ii) support improvement of energy access on-farms
+to align with the needs of the business development supported under Component 2, as well as support of energy
+generation projects from agricultural products and coproducts (e.g. biodigestors) to diversify the energy matrix in rural
+areas; and (iii) support the improvement and maintenance of on-farms feeder roads of beneficiaries of Component 2, to
+connect to the State rural roads and ease the outflow of agri-food products to markets.
+Component 4. Public management of the agrifood system (Total cost US$12.45 million)
+35. This Component aims to enhance the governance of the agrifood system, improve the monitoring and evaluation
+of the various policies and programs that support the sector to facilitate their repurposing towards greater resilience and
+inclusiveness.
+36. The Component has three main activities: (i) support the collection and provision of data on the agrifood system and
+on natural resources management to provide accurate information for the elaboration of public policies and programs,
+including through the expansion of the Integrated Agricultural Information System (SIIA) and the development of new
+systems to monitor the implementation of public policies and programs; (ii) strengthen the institutional capacities of the
+State Secretary of Agriculture and Livestock and other associated institutions (EPAGRI, IMA, CIDASC) to improve
+implementation and monitoring of public policies and programs through training, capacity building, studies and Deep Dive
+analyses of various policies; and (iii) support Project coordination and management, including: project management and
+administration; financial management (FM); procurement; monitoring and evaluation (M&E) of Project performance and
+impact; environmental and social risks management and Grievance Redress Mechanism (GRM); and communication and
+outreach.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                                                                                  Triggered?
+                                                            Last approved                           Current
+ Projects on International Waterways OP 7.50                     No
+ Projects in Disputed Area OP 7.60                               No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+37. Environmental risk is moderate. The moderate risk rating accounts primarily for the moderate impacts from the road
+rehabilitation works, which may include: the generation and disposal of construction wastes; water pollution from
+construction runoff; noise, dust emissions and land degradation from quarries, construction workplace and traffic hazards
+for the workers and communities; and workplace construction OHS risks. Also, moderate risks can be expected from
+investments on agri-food marketing chain (food processing) such as wastewater generation and disposal (subcomponent
+
+
+                                                                                                                      Page 10
+       The World Bank
+       Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+1.1). On the other side lower and diffuse impacts are also expected from smallholder’s (family) agriculture activities
+supported by the project (subcomponent 1.2) and community-based tourism (subcomponent 1.3). The prior experience
+and demonstrated capacity to manage E&S risks built from Project’s phase 1 experience has also been considered as part
+of the risk rating determination.
+38. The social risk rating also is Moderate. The positive social impacts of the Project far outweigh its potential negative
+impacts. Although it cannot be ruled out that the recovery works of critical points of secondary roads may require the
+acquisition of small areas of bare land, the Project is not expected to need land acquisition with significant adverse impacts
+related to physical or economic resettlement. Adverse impacts related to the influx of workers and issues related to sexual
+harassment or abuse and violence against women are also not expected. The adoption of clear socioeconomic criteria to
+prioritize groups in situations of greater social and economic vulnerability in the selection of beneficiaries and participatory
+processes in the planning of activities reduce the risk of elite capture. Indigenous peoples and traditional communities will
+be prioritized and assisted separately from other beneficiaries due to their cultural peculiarities, with free, prior, informed
+and culturally adequate consultations planned for the identification and planning of their community-driven demands.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Marie Caroline Paviot
+   Senior Agriculture Economist
+
+   Irene Natalia Wasilevsky
+   Senior Agriculture Economist
+
+ Borrower/Client/Recipient
+  State of Santa Catarina
+
+ Implementing Agencies
+  Secretary of Agriculture and Livestock of Santa Catarina
+  Alexandre Conceição Neto
+  Coordenador de Projetos
+  conceicaoneto@agricultura.sc.gov.br
+
+ FOR MORE INFORMATION CONTACT
+
+ The World Bank
+ 1818 H Street, NW
+ Washington, D.C. 20433
+ Telephone: (202) 473-1000
+ Web: http://www.worldbank.org/projects
+
+ @#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+
+
+                                                                                                                          Page 11
+     The World Bank
+     Santa Catarina Rural Development Project for Sustainability and Innovation(P506142)
+
+
+APPROVAL
+
+
+Task Team Leader(s):                    Marie Caroline Paviot, Irene Natalia Wasilevsky
+
+Approved By
+
+Practice Manager/Manager:               Diego Arias Carballo                    03-Jul-2024
+
+Country Director:                       Johannes C.M. Zutt                      23-Jul-2024
+
+
+
+
+                                                                                              Page 12
+

@@ -1,0 +1,798 @@
+﻿          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 29-Oct-2019 | Report No: PIDISDSA28075
+
+
+
+
+Oct 29, 2019                                                                                          Page 1 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                Project Name                Parent Project ID (if any)
+   Peru                                          P162278                   National Urban Cadaster
+                                                                           and Municipal Support
+                                                                           Project
+   Region                      Estimated Appraisal Date                    Estimated Board Date        Practice Area (Lead)
+   LATIN AMERICA AND CARIBBEAN 23-Oct-2019                                 15-Jan-2020                 Urban, Resilience and
+                                                                                                       Land
+   Financing Instrument                          Borrower(s)               Implementing Agency
+   Investment Project Financing                  Ministry of Economy and   Agency for the
+                                                 Finance                   Formalization of Informal
+                                                                           Property - COFOPRI
+
+   Proposed Development Objective(s)
+
+   The project development objective is to strengthen urban cadasters in selected municipalities to improve local
+   government capacities for revenue generation and urban management.
+
+   Components
+   Component 1: Building Municipal Systems, Services and Capacities to Generate and Maintain Cadasters
+   Component 2: Strengthening of the Institutional Framework
+   Component 3: Project Management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                       80.90
+   Total Financing                                                                                                          80.90
+                             of which IBRD/IDA                                                                              50.00
+   Financing Gap                                                                                                             0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                          50.00
+
+
+Oct 29, 2019                                                                                                             Page 2 of 16
+           The World Bank
+           National Urban Cadaster and Municipal Support Project (P162278)
+
+
+
+   Non-World Bank Group Financing
+
+        Counterpart Funding                                                                                               30.90
+          Borrower/Recipient                                                                                              30.90
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+
+   B.       Country Context
+
+           1.       Peru has been one of the most prominent economic performers in Latin America in the last 25
+           years. With GNI per capita of US$5,975 in 2015 (2011 PPP), its economy is one of the largest in Latin
+           America and the Caribbean (LAC). Peru’s rapid economic growth, averaging 5.3 percent since 2001, was
+           second only to Panama’s in the region. Economic growth has been widely shared. The poverty incidence
+           rate fell from 58 to 23 percent from 2004–14, and households’ incomes at the bottom 40 percent grew
+           50 percent faster than the national average. This fast and pro-poor growth transformed Peru into an
+           upper-middle income economy, with aspirations to become a high-income economy in the next 20 years.
+           However, after a long and positive trend in poverty reduction, the poverty rate increased from 20.7
+           percent in 2016 to 21.7 percent in 2017, while the extreme poverty rate stagnated. The increase in poverty
+           was greater in urban than in rural areas (1.2 percentage points, compared to 0.6). Modest economic
+           growth, a stagnation of the labor market, and a halt in the expansion of social spending led to the increase
+           in poverty. In 2018, as Peru resumed economic growth, the poverty rate decreased again to 20.5, and this
+           trend is expected to continue in the short term.
+
+
+           2.      Like most other countries in the region, Peru urbanized quickly in the second half of the
+           twentieth century, which has led to the rapid, unplanned expansion of urban areas. Peru shifted from
+           just over 50 percent urban in 1965 to almost 80 percent urban today. The urban population continues to
+           grow at a rate of 1.72% per year, slightly higher than the Latin American average of 1.49 percent per year
+           (World Bank, WDI, 2015). Lack of urban planning in Lima and other cities has increased disparities between
+           the capital city and the rest of the country, and between Lima’s affluent neighborhoods and its informal
+           urban dwellings. The lack of land information systems has contributed to the uncontrolled growth of
+           major cities without governments being able to produce development plans. To date only 20 percent of
+           urban municipalities have updated urban development plans.
+
+
+           3.      Coupled with the high urbanization rates, Peru’s vulnerability to climate change impacts is also
+           increasing. Observed and projected climate change impacts in Peru include rising temperatures, extreme
+
+Oct 29, 2019                                                                                                         Page 3 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+           precipitation, and more frequent and severe occurrences of natural disasters, including flooding and
+           droughts linked to the recurrent El Niño and La Niña phenomena. In 2017, the natural phenomenon
+           known as El Niño Costero caused numerous mudslides, landslides and floods in coastal areas of Peru.
+           These disaster events revealed the limited capacity of local governments for land management and
+           planning and the lack of actionable data to identify and define risk-prone areas. The absence of urban
+           cadasters is also hindering the ongoing reconstruction efforts also aimed at increasing resilience to climate
+           change.
+
+
+           4.       As urban populations have grown, municipalities’ capacity to finance and manage infrastructure
+           and service provision has not kept pace. As the urbanization process continues, most municipalities1 lack
+           adequate capacity and instruments for income generation. According to the Municipal Tax Law
+           (Legislative Decree No. 776 and its amendments), municipalities are entitled to collect revenue through
+           different taxes,2 including the property tax. Property tax income belongs to the respective municipality
+           where the property is located. One of the main tools available to municipalities to identify properties and
+           their attributes, and assign values for property taxes, is the urban cadaster. By law, municipalities must
+           allocate five percent of the property tax income collected to finance the development, maintenance and
+           management of their cadasters, as well as to improve tax collection activities. However, most
+           municipalities do not comply with this provision. In addition, annually each municipality must approve its
+           Cadastral Development Plan based on the property taxes collected in the previous year.
+
+           5.       Only 8 of the 522 urban municipalities in the country have complete and updated cadasters.
+           This factor, along with weak tax administration capacity at the municipal level, contributes to making Peru
+           one of the countries with the lowest levels of property tax revenue in the region: about 4.2 percent of
+           municipal income comes from this source. In comparison, in Chile and Brazil, municipal collection accounts
+           for 25-30 percent of municipal revenues, respectively (World Bank, 2017). As a result, the municipalities
+           are budget strapped, which hinders their ability to provide public services and to invest in infrastructure.
+           These local governments are, on average, highly dependent on intergovernmental transfers, which in
+           some cases account for over 95 percent of their spending.
+
+
+           6.       Municipalities could greatly improve their capacity to manage urbanization in a more
+           sustainable way by leveraging updated cadastral information in urban areas. While there are many
+           issues that municipalities must address to improve urban management, including preparing and executing
+           urban plans and disaster risk management measures, complete and updated cadasters are an important
+           tool that can be used to inform various municipal activities. For example, cadastral data are a fundamental
+           building block to guide development and investment in public services and infrastructure, as the cadaster
+           provides information on public and private buildings and their occupancy. It is also crucial these cadaster
+           data are accessible to the municipal offices in charge of natural hazard risk and climate change adaptation
+           efforts so that the municipality can better identify the location of public assets and residential and other
+
+           1 Peru is a presidential, unitary government. 26 regions constitute the main administrative subdivisions and are governed by
+           regional governments. Regions are subdivided in provinces, which are governed by provincial municipalities. Provinces are
+           comprised of districts, which are governed by district municipalities. Presidential elections take place every five years, while
+           regional and municipal elections take place every four years.
+           2 Municipalities also collect revenue from the following taxes: property sales tax, vehicular property tax, betting tax, and gaming
+
+           tax. They also collect contributions and fees established by the municipal councils (fees for public services or excise taxes,
+           administrative services or fees, licenses for the opening of establishments, parking of vehicles, public transport, among others).
+
+Oct 29, 2019                                                                                                                               Page 4 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+           public and private buildings such as schools, hospitals, hotels, etc., to improve its emergency preparedness
+           and response to the occurrence of natural disasters.
+
+           7.      The government has recognized the need for adequate cadastral information at the national
+           level. Peru does not possess an integrated national system that aggregates all municipal level cadaster
+           data. This hinders the integration of real estate information, which translates into undetermined fiscal
+           value of properties and an underestimation of municipal property tax collection capacity. The need for
+           adequate cadastral information has been established as a national priority through Legislative Decree No.
+           1288 (2016), which declares that the development of a multipurpose urban cadaster as part of a Spatial
+           Data Infrastructure is of national interest. This prioritization acknowledges the importance of the cadaster
+           as a tool for development, planning, and investment to inform integrated territorial management.
+
+
+   C.     Sectoral and Institutional Context
+
+           8.      According to competences and functions assigned in Peru’s legislation, the National Integrated
+           Cadastral System (SNCP) governs matters related to the different types of land cadasters (catastro
+           predial), including the mining cadaster, the rural cadaster, the public asset cadaster and the urban
+           cadaster, among others. The SNCP regulates the integration and unification of standards, nomenclature,
+           and technical processes of Peru’s different cadastral agencies. The SNCP system envisions the creation of
+           a multipurpose cadaster with a focus on the inter-relation of the cadaster and the property registry. To
+           this end, the SNCP creates an institutional structure and a process to integrate the different sources of
+           information into a new, centralized Cadastral Database that would be equally accessible to public agencies
+           and private agents.
+
+           9.     While there are several actors involved in developing policies and enacting programs for urban
+           cadasters and land use planning in Peru, the primary ones are the Ministry of Housing, Construction
+           and Sanitation (MVCS) and the municipalities. An overview of the legal framework and actors is available
+           in Annex 2. These different levels of government have the following responsibilities:
+
+                 a) At the national level, the MVCS is Peru’s leading agency for housing, construction, sanitation,
+                    urban planning and urban development, state property and urban property3. The MVCS has
+                    also the mandate to exercise shared functions with the regional and municipal governments to
+                    promote, coordinate and execute the implementation and evaluation of national and sectoral
+                    policies, programs and strategies in accordance with the characteristics of the regional or local
+                    context. Until recently there were no legal provisions that explicitly established an agency as the
+                    governing body for urban cadaster matters. In 2018, Legislative Decree Nº 1365 established the
+                    MVCS as the governing body for the National Urban Cadaster (NUC). As such, the MVCS is
+                    responsible for setting the policies, standards, guidelines and technical specifications related to
+                    the national urban cadastral information. It also designates the Agency for Informal Property
+                    Formalization (COFOPRI) as the entity responsible to implement, manage, and update the NUC.4
+
+           3Per Law N° 30156 and its regulations, approved by Supreme Decree N ° 010-2014-VIVIENDA and its modifications.
+           4The National Urban Cadaster (NUC) is an instrument of urban management at the national level. Once established, the NUC will
+           contain quantitative and qualitative information on urban infrastructure, formal and informal buildings, urban equipment, and
+           public spaces within urban centers, and urban settlements, including urban conglomerates. This information can be overlapped
+
+Oct 29, 2019                                                                                                                         Page 5 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+                      The MVCS has established the NUC as a platform for updating and creating urban cadastral
+                      information that can be used to improve the policy actions and investments of government
+                      agencies at all levels.
+
+                 b) At the local level, the 2003 Organic Law of Municipalities (Law No. 29792) establishes that
+                    municipalities are responsible for developing and maintaining their urban cadasters.
+                    Municipalities are also responsible for collecting property taxes and for land use planning within
+                    their jurisdiction.
+
+           10.      Despite Peru’s efforts to promote cadaster development under the SNCP, most municipalities
+           do not have the capacity or resources to update or develop their urban cadasters. The primary reason
+           is because the SNCP set a “gold standard�? for cadasters that is difficult to comply with: not only does it
+           require urban municipalities to take on a major institutional project without providing any technical or
+           financial support, but it also requires them to follow a model that is expensive to build and maintain, takes
+           a long time to implement, and is generally much more than needed to achieve their cadastral, revenue
+           generation, and urban management goals. Thus, 14 years after the SNCP law was approved, 60 technical
+           standards have been produced, but in practice only a few municipalities within Metropolitan Lima have
+           formally incorporated their cadasters into the national system.
+
+           11.      Cadaster data can be used to improve urban management efforts. Currently, there is a lack of
+           land information systems, including cadastral data, available to municipal-level urban development units,
+           which hinders their capacity to produce planning instruments to anticipate and manage urban growth.
+           The use of urban cadasters in Peru to inform land use planning is limited and decisions related to urban
+           development are often made in an ad-hoc manner. This has allowed a pattern of unplanned urban growth
+           that is primarily informal. Moreover, weak land information systems make it difficult for government
+           agencies to coordinate their policies and manage their infrastructure and social investments.
+
+           12.    Cadastral information can significantly improve land information systems and be used to inform
+           urban management efforts and property tax collection. Areas for improvement are described below:
+
+                     a) Spatial data and information about the location and conditions of the built environment
+                        (e.g., housing, public and private buildings, hospitals, schools and infrastructure) are
+                        necessary for authorities to be able to take preventive measures to reduce the impacts of
+                        natural disasters. Cadasters provide governments with information on buildings and their
+                        attributes, occupancy, and infrastructure. This spatial information, when combined with
+                        hazard data, becomes a powerful tool for municipalities to plan and control the occupation
+                        of disaster-prone areas and the construction of housing and other facilities in accordance with
+                        the appropriate building codes and standards. These data are also critical when a disaster
+                        occurs, as they are essential to inform reconstruction efforts.
+
+
+
+
+           with existing hazard maps to identify areas prone to natural disasters (Article 3 of Legislative Decree No. 1365). While the
+           legislation was passed in 2018, the Ministry of Housing is in the process of drafting the required regulations to operationalize the
+           system.
+
+
+
+Oct 29, 2019                                                                                                                                Page 6 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+                   b) Municipal property tax collection rates could be increased if municipalities were to have
+                      access to updated cadaster information paired with better tax collection capacity. Only one
+                      third of Peru’s municipalities have assigned tariff values by streets – and even these efforts
+                      are incomplete and/or outdated. A handful of affluent municipalities with functioning and
+                      well-maintained cadasters do have administrative procedures – and the specialized staff – in
+                      place to collect property taxes and enforce payment. However, in most municipalities,
+                      collection capacity is scarce and focuses on collecting property tax payments from formal
+                      industries and commercial areas instead of expanding the tax base. The property tax base is
+                      usually not coordinated with the urban cadaster at the local level, if one exists, which often
+                      causes gaps in data and underreporting of taxpayers. In addition, according to the Municipal
+                      Taxation Law, property tax is to be collected from occupants or other right-holders. The lack
+                      of good sources of revenue generation prevents most municipalities from providing good
+                      quality of public services, which disincentivize families to pay their taxes. As a result,
+                      municipalities are highly dependent on central government fiscal transfers. Past incentive
+                      programs sponsored by the Ministry of Economy and Finance (MEF) to enhance municipal tax
+                      collection have not resulted in significant changes in tax collection practices.
+
+                   c) The current property valuation methods, which are significantly different from commercial
+                      values, require updating. The responsibility for the determination and collection of the
+                      property tax is shared between the national government and the municipalities. The national
+                      government determines the tax scales whereas the municipalities apply the tariffs and collect
+                      the tax. The regulatory framework needs to be updated to allow the valuation to be based on
+                      the market or commercial value of the properties; the current framework uses the official
+                      valuation that is prepared at the national level.
+
+           13.     Previous national government initiatives to update urban cadasters have failed to create
+           ownership and ensure sustainability at the municipal level. Between 2008 and 2011, under the World
+           Bank-financed Project for the Consolidation of Real Estate Property Rights (PCDPI), the Agency for the
+           Formalization of Informal Property (COFOPRI) gathered urban cadastral information on 545,214 urban
+           dwellings through an agreement with 59 municipalities – including buildings located on the formalized
+           plots and improvements per national standards. In 2013, COFOPRI received the mandate to modernize
+           and consolidate the cadaster at the national level and has since carried out new cadastral surveys and
+           updated existing municipal registries. COFOPRI has registered more than 600,000 urban housing units
+           through agreements with municipalities. However, the work was completed with limited engagement
+           with municipalities to build capacity to use and manage the cadasters that COFOPRI created. A 2012 study
+           revealed that only 50 percent of the municipalities were using the cadastral information developed by
+           PCDPI to make specific queries, and even those had not integrated the cadastral data for tax collection
+           purposes (Cabrejos 2012).
+
+
+           14.     Given this experience, the government is taking a new approach to consolidate cadastral
+           information, link cadasters to property tax and urban planning systems at the local level and build local
+           capacity to use cadastral data to improve municipalities’ urban management efforts . The government
+           recognizes the importance of municipal cadasters to promote financial autonomy and improve the
+           provision of public services at the local level. Although cadasters are perceived as useful instruments by
+
+
+Oct 29, 2019                                                                                                       Page 7 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+           municipalities, they are also considered to be complex and costly5. The MVCS, in its role as the governing
+           body for urban cadaster matters, will support target municipalities to develop their urban cadaster
+           systems and link these systems with: (a) their property tax units to have a common set of taxpayer data,
+           and (b) with their urban development units to use the cadaster data to inform urban planning and disaster
+           risk reduction and emergency preparedness efforts. In parallel, the government will provide municipalities
+           with support through institutional strengthening and training activities to ensure adequate capacity is in
+           place to use and update the urban cadasters to increase municipalities’ property tax collection and
+           improve urban management over the longer term. It will also integrate cadastral information from each
+           municipality at the national level as part of the National Urban Cadaster (NUC).
+
+           15.      The Project will focus on the development of urban cadasters and the provision of technical
+           assistance to municipalities required to use these cadasters to improve their tax collection and urban
+           management. It will enhance the key urban management functions of territorial planning, land
+           management, and disaster risk management by providing improved cadaster data, linking it with key tax
+           collection and urban management systems and consolidating the data at the national level as part of the
+           NUC. Investments will be framed within a strategy that recognizes the diverse needs and capacities of
+           Peruvian municipalities and the need for a “fit for purpose�? progressive approach according to the needs
+           and resources of each municipality, which will significantly reduce the costs of generating, maintaining,
+           managing and updating cadastral information. The project will leverage citizen participation for the
+           development of the cadaster and will generate key actionable information that can be used by authorities
+           to address spatial disparities that affect disproportionally women and people living with disabilities. The
+           project will support to the extent possible the future integration of cadastral information with other land
+           administration institutions, such as the property registry, as well as other agencies requiring updated
+           spatial information.
+
+
+           16.      The Bank is well positioned to support this Project due to its knowledge of the institutional
+           setting and capacities governing urban cadasters in Peru. The Bank prepared two Programmatic RAS,
+           which identified the main bottlenecks and shortcomings in the cadastral systems, urban land generation,
+           urban finance instruments, social housing, among other key aspects of urban development. The 2015 –
+           2016 Programmatic RAS - Strengthening of Peru’s National Cadaster System and Legalization Processes
+           provided technical advice to COFOPRI through four subtasks: (i) Diagnostic and Baseline of Local Capacities
+           to Help Modernize and Consolidate Peru’s SNC (P149782); (ii) Capacity Strengthening for the Management
+           of the Urban Cadaster System (P153845); (iii) Strengthening the Property Legalization Process as
+           Alternative to Formalization (P155274); and (iv) Expert Advice for a Diagnostic and Base Lina of Informal
+           Urban Settlements to be Formalized. This work highlighted the varying levels of capacity of local
+           governments to implement cadaster systems, created a typology of municipalities according the specific
+           gaps they had in terms of cadaster development, and presented alternatives to strengthen the
+           institutional framework to allow for the development of fit-for-purpose municipal cadasters.
+
+
+   C. Proposed Development Objective(s)
+
+
+
+           5 PE RAS for a Diagnostic and Base Line of Local Capacities to Help Modernize and Consolidate Peru's National Cadastre System
+           (SNC) (P149782)
+
+Oct 29, 2019                                                                                                                           Page 8 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+           PDO Statement
+
+           The project development objective is to strengthen urban cadasters in selected municipalities to improve local
+           government capacities for revenue generation and urban management.
+
+           PDO Level Indicators
+
+           The PDO-level indicators to measure achievement of the PDO are as follows:
+
+                 a) 60% increase in the property tax base of Project municipalities (Percentage)
+                 b) Number of people living in Project municipalities with access to improved hazard exposure data
+                    (4.7 million)
+                 c) 75% of plots registered by the Project are linked to land use and zoning data (Percentage)
+
+   B. Project Components
+
+           17.     The Project will work with 22 prioritized municipalities located in 4 provinces: Lima, Chiclayo,
+           Lambayeque and Piura. From the total of 1,874 municipalities in Peru, 22 have been prioritized for
+           financing under the project based on a set of eligibility criteria that include, inter alia: i) potential for
+           increased property tax collection; ii) potential for fiscal decentralization (municipalities with inexistent or
+           outdated cadasters, significant potential revenue gap, within main cities); iii) areas affected by the 2017
+           flooding where reconstruction efforts are taking place; iv) rapid urban development and/or expansion;
+           and v) municipalities where the MVCS is supporting the development or updating of urban plans.
+           Interinstitutional agreements were signed between the MVCS and the target municipalities prior to
+           appraisal. The Project focuses only on urban areas and does not include peri-urban or rural areas of the
+           municipalities. Detailed Coordination Agreements will be signed by the MVCS, COFOPRI with each
+           municipality during the implementation stage.
+
+
+           18.      The Project comprises three components:
+
+
+           Component 1: Strengthening Municipal Systems, Services and Capacities to Generate and Maintain
+           Urban Cadasters in Project Municipalities (US$69.1 million, of which US$44.7 million is Bank-financed).
+           This component will finance: a) the creation of an urban cadastral information base for tax purposes and
+           urban management in project municipalities; and b) the enhancement of the capacities of selected
+           municipalities to utilize and update cadastral data.
+
+           Subcomponent 1.1: Creation of an urban cadastral information system for tax purposes and urban
+           management (US$63.6 million, of which US$40 million is Bank-financed). This sub-component will finance
+           the following activities: i) a communication campaign that targets messaging for men and women about
+           the project; ii) the implementation of cadastral surveys in project municipalities, including collection of
+           property status information, disaggregated by gender; iii) the generation of property valuation maps in
+           project municipalities; iv) the updating of municipal databases used for property tax collection based on
+           the new cadastral information; and v) the acquisition of hardware and software required to use and
+           maintain the cadaster system both at the national and local level.
+
+
+
+Oct 29, 2019                                                                                                            Page 9 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+           Subcomponent 1.2: Strengthening Municipal Capacity (US$5.5 million, of which US$4.6 million is Bank-
+           financed). This sub-component will finance the design, implementation and management of face-to-face
+           technical assistance and a virtual learning platform to build capacities in selected municipalities in aspects
+           related to the collection, use, maintenance, and updating of the cadastral information, as well as in the
+           use of this information for property tax collection, land use planning, urban and financial management,
+           disaster risk management, and building construction licensing.
+
+           Component 2: Strengthening of the National Institutional Framework (US$6.3 million, of which US$5.3
+           million is Bank-financed). This activity will finance the following activities to be conducted at the national
+           level: (i) the updating of national level methodologies, procedures, and standards for urban cadastral
+           formation, maintenance and dissemination; (ii) the updating of the property valuation methodology to
+           reflect market prices; (iii) the development and implementation of a national level cadastral information
+           system based on the ISO international standard - Land Administration Domain Model (LADM); (iv)
+           development of guidelines for integrating climate change and natural hazard data into urban cadasters
+           (approximately 20 percent of the component); and (v) institutional strengthening activities for the MVCS
+           and COFOPRI in urban management.
+
+           Component 3: Project Management (US$5.5 million): This component will finance the establishment and
+           staffing of a Project Implementation Unit (PIU) within COFOPRI, which will be responsible for
+           procurement, financial management, social and environmental safeguards activities, and monitoring the
+           results of the project. Activities eligible for financing under this component include: i) consulting services
+           (including specialized personnel required to implement the Project); ii) Project audit (including the
+           preparation of financial reports); iii) Monitoring and evaluation (such as the collection of socioeconomic
+           data and support for the monitoring of environmental and social safeguards, baseline survey and mid-
+           term and end of the project evaluation); the (iv) the design and operation of the project’s grievance
+           redress mechanism; and iv) Operating costs (e.g., equipment, furniture, and information and
+           communication technology).
+
+
+   E. Implementation
+
+   19.    Project implementation will be the responsibility of the Agency for the Formalization of Informal Property
+   (COFOPRI), which is an autonomous agency which falls under the purview of the MVCS. The MVCS, as the governing
+   agency of urban cadaster is responsible for the policies, standards, guidelines and technical specifications under the
+   framework of the SNCP, which ultimately approves cadastral standards.
+
+   20.      A Project Implementation Unit (PIU) will be established within COFOPRI. The PIU will have project
+   management responsibility, coordinating overall project implementation, ensuring the timely availability of fund
+   transfer to contractors, and ensuring continuous community outreach and consultation, maintaining Project accounts
+   and producing financial reports, monitoring and evaluating program implementation and impacts, and reporting the
+   results to the MVCS and other key stakeholders. The PIU will be staffed – at a minimum – by a Project Coordinator, a
+   Cadaster Manager and two Cadaster Specialists, a M&E Manager and a M&E Specialist, a Capacity Strengthening
+   Specialist, a Social Specialist, a Procurement Manager and a Procurement Specialist, a Financial Management Manager
+   and a Budget Specialist, an IT specialist, a Communication Specialist, a Legal Advisor and an Administrative Assistant.
+
+
+Oct 29, 2019                                                                                                          Page 10 of 16
+            The World Bank
+            National Urban Cadaster and Municipal Support Project (P162278)
+
+
+      21.      To ensure coordination at the national level, a Project steering committee will be formed. This committee will
+      be led by the MVCS urban cadaster governing body and will include representatives of COFOPRI, the MVCS, MEF, and
+      IDEP (Peruvian National Spatial Data Infrastructure) as well as target Project municipalities. The role of the committee
+      will be to develop the policy strategy and provide guidance to the Project.
+
+
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      The project intervention area comprises 22 municipalities of Lima, Chiclayo and Piura The urban population
+      in the project intervention area is estimated at 4.8 million people, which represents approximately 18% of
+      the national population. There are approximately 1.3 million households located in the area.
+
+
+
+      G. Environmental and Social Safeguards Specialists on the Team
+
+      Carlos Tomas Perez Brito, Social Specialist
+      Ximena Rosio Herbas Ramirez, Environmental Specialist
+
+
+
+
+      SAFEGUARD POLICIES THAT MIGHT APPLY
+
+      Safeguard Policies                           Triggered?           Explanation (Optional)
+                                                                        This project is classified as Category B. There are no
+                                                                        anticipated environmental negative impacts and
+                                                                        risks since the project does not finance any physical
+                                                                        activity such as civil works. For this reason, the only
+                                                                        safeguards instruments under OP 4.01 is a Social
+                                                                        Assessment that was prepared to inform technical
+                                                                        aspects of this operation. In addition, the project
+                                                                        comprises technical assistance activities such as
+  Environmental Assessment OP/BP 4.01              Yes                  training, background analyses and studies,
+                                                                        procedures development, spatial data generation,
+                                                                        cadastral surveys, aero-photography, cadastral
+                                                                        software and licenses, etc. The team does not
+                                                                        foresee any adverse environmental impact, and risk
+                                                                        in the activity consisting of preparation of a strategy
+                                                                        for the incremental development of cadasters that
+                                                                        include an incentive system for municipalities can be
+                                                                        managed by the central government. Nevertheless,
+
+
+Oct 29, 2019                                                                                                         Page 11 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+                                                                  the Operations Manual states that all relevant Terms
+                                                                  of References for studies prepared as part of this
+                                                                  project incorporate environmental and social
+                                                                  aspects are in line with Bank policies.
+  Performance Standards for Private Sector                        This policy will not be triggered given the nature of
+                                               No
+  Activities OP/BP 4.03                                           activities proposed.
+                                                                  This policy will not be triggered since the project
+  Natural Habitats OP/BP 4.04                  No                 activities will not adversely impact on natural
+                                                                  habitats.
+                                                                  This policy will not be triggered since the project
+  Forests OP/BP 4.36                           No
+                                                                  activities will not adversely impact on forests.
+                                                                  This policy will not be triggered since project
+  Pest Management OP 4.09                      No                 activities will not require purchase or use of any
+                                                                  quantities of pesticides.
+                                                                  This policy will not be triggered since project
+                                                                  activities will not have a negative impact on any sites
+  Physical Cultural Resources OP/BP 4.11       No                 of physical cultural resources, including sites and
+                                                                  areas of cultural and religious value to local
+                                                                  communities.
+                                                                  The social assessment did not confirm the existence
+                                                                  of any indigenous communities or communal land in
+                                                                  participating municipalities, and any outstanding or
+  Indigenous Peoples OP/BP 4.10                No
+                                                                  on-going land conflict that can negatively affect the
+                                                                  implementation of the urban cadaster.
+
+                                                                  Project activities will not finance any infrastructure
+                                                                  that requires land acquisition and involuntary
+                                                                  resettlement. However, the project will encourage
+                                                                  and develop a comprehensive citizen engagement
+                                                                  and participation strategy, including a
+                                                                  communication and information campaign and the
+                                                                  design of a Grievance Redress Mechanism (GRM) for
+  Involuntary Resettlement OP/BP 4.12          No                 the project. In addition, the social assessment
+                                                                  conducted assessed economic and social
+                                                                  distributional impacts on various populations
+                                                                  groups, particularly women, peoples with disabilities
+                                                                  and people without formal land tenure and ethnic
+                                                                  minorities, per the Bank’s Interim Guidance Note on
+                                                                  Land Use Planning.
+
+                                                                  This policy will not be triggered since the project will
+                                                                  not support the construction or rehabilitation of
+  Safety of Dams OP/BP 4.37                    No
+                                                                  dams nor will support other investments which rely
+                                                                  on the services of existing dams.
+
+
+
+Oct 29, 2019                                                                                                    Page 12 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+                                                                     This policy will not be triggered since the project
+  Projects on International Waterways
+                                                No                   activities will not affect areas considered as
+  OP/BP 7.50
+                                                                     international waterways.
+                                                                     This policy will not be triggered since the Project will
+  Projects in Disputed Areas OP/BP 7.60         No
+                                                                     not be implemented in disputed areas.
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+   A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  This project is classified as Category B. There are no anticipated environmental negative impacts and risks since the
+  project does not finance any physical activity such as civil works. The project will improve methodologies, procedures,
+  and standards for urban cadastral formation, maintenance and dissemination and will develop a strategy for the
+  incremental development of cadasters including an incentive system for municipalities that will be managed by the
+  central government. At the same time, the project will finance the institutional strengthening at the national level
+  including the definition of standards and processes to ensure that the integrity of the municipal cadasters is preserved
+  and that the information is treated and shared as a public good.
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  None
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  n/a
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  This Project is classified as Category B. There are no anticipated environmental negative impacts and risks since the
+  Project does not finance any physical activity such as civil works. The Project will improve methodologies, procedures,
+  and standards for urban cadastral formation, maintenance and dissemination and will develop a strategy for the
+  incremental development of cadasters including an incentive system for municipalities that will be managed by the
+  central government. At the same time, the Project will finance institutional strengthening at the national level,
+  including the definition of standards and processes to ensure that the integrity of the municipal cadasters is preserved
+  and that the information is treated and shared as a public good. To comply with OP 4.01, the Project Operations
+  Manual states that all relevant Terms of References for studies prepared as part of this Project will incorporate
+  environmental and social aspects in line with World Bank safeguards policies.
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  Key stakeholders include the 22 municipalities directly involved in the process, business associations and NGOs at the
+  local and regional levels. Two rounds of consultations were carried out by COFOPRI on June 6, 2019 and September
+  26, 2019. The first was carried out directly with several mayors and representatives of municipalities; cooperation
+  agreements were signed during this meeting. Another consultation session was later held with target community
+
+
+Oct 29, 2019                                                                                                       Page 13 of 16
+                         The World Bank
+                         National Urban Cadaster and Municipal Support Project (P162278)
+
+
+        members, business associations, NGOs and civil society.
+
+
+          B. Disclosure Requirements
+
+            OPS_EA_DISCLOSURE_TABLE
+            Environmental Assessment/Audit/Management Plan/Other
+                                                                                            For category A projects, date of
+                Date of receipt by the Bank             Date of submission for disclosure   distributing the Executive Summary of
+                                                                                            the EA to the Executive Directors
+                21-Oct-2019                             24-Oct-2019
+
+                "In country" Disclosure
+                  Peru
+                 23-Oct-2019
+                   Comments
+                    Social Development and Consultations report.
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          No
+ OPS_ PDI_ COMP_TA BLE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+
+
+Oct 29, 2019                                                                                                            Page 14 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+   All Safeguard Policies
+
+
+   Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+   measures related to safeguard policies?
+   Yes
+   Have costs related to safeguard policy measures been included in the project cost?
+   Yes
+   Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+   related to safeguard policies?
+   Yes
+   Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+   reflected in the project legal documents?
+   Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Zoe Elena Trohanis
+   Senior Urban Development Specialist
+
+   Luis Miguel Triveno Chan Jan
+   Urban Development Specialist
+
+   Borrower/Client/Recipient
+   Ministry of Economy and Finance
+   Maria Antonieta Alva
+   Minister
+   ministro@mef.gob.pe
+
+
+   Jose Olivares
+   Director General of Indebtment and Public Treasury
+   jolivaresc@mef.gob.pe
+   Implementing Agencies
+
+   Agency for the Formalization of Informal Property - COFOPRI
+   César Roberto Figueredo Muñoz
+   Executive Director
+   cfigueredo@cofopri.gob.pe
+
+
+
+Oct 29, 2019                                                                                                    Page 15 of 16
+          The World Bank
+          National Urban Cadaster and Municipal Support Project (P162278)
+
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                         Zoe Elena Trohanis
+   Task Team Leader(s):
+                                         Luis Miguel Triveno Chan Jan
+
+   Approved By
+
+   Safeguards Advisor:
+
+   Practice Manager/Manager:             Ming Zhang                         29-Oct-2019
+
+   Country Director:                     Boris Enrique Utria                29-Oct-2019
+
+
+
+
+Oct 29, 2019                                                                              Page 16 of 16
+

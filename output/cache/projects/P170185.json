@@ -1,0 +1,321 @@
+{
+  "project_id": "P170185",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4694e56c",
+  "started_at": "2026-11-07T03:27:37Z",
+  "ended_at": "2026-11-07T03:27:53Z",
+  "input_fingerprint": "ca2c7a728a36f397",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 35,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P170185",
+      "doc_type": "PAD",
+      "doc_date": "2019-11-20",
+      "guid": "645591574699140484",
+      "file_name": "P170185_PAD_2019-11-20_645591574699140484.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:27:37Z",
+      "ended_at": "2026-11-07T03:27:43Z",
+      "status": "ok",
+      "note": "11 document(s) fetched from the WBG API; 16 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:27:43Z",
+      "ended_at": "2026-11-07T03:27:43Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-12-13, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:27:43Z",
+      "ended_at": "2026-11-07T03:27:45Z",
+      "status": "ok",
+      "note": "35 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 35,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 7,
+          "innovation_cycle": 14,
+          "enabling_processes": 4,
+          "results_based_management": 1,
+          "innovation_types": 4,
+          "enabling_technologies": 4,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:27:45Z",
+      "ended_at": "2026-11-07T03:27:45Z",
+      "status": "ok",
+      "note": "PAD 2019-11-20 (P170185_PAD_2019-11-20_645591574699140484.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P170185",
+            "doc_type": "PAD",
+            "doc_date": "2019-11-20",
+            "guid": "645591574699140484",
+            "file_name": "P170185_PAD_2019-11-20_645591574699140484.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:27:45Z",
+      "ended_at": "2026-11-07T03:27:45Z",
+      "status": "ok",
+      "note": "120 reading units (12 numbered paragraphs) from 1013 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 120
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:27:45Z",
+      "ended_at": "2026-11-07T03:27:46Z",
+      "status": "ok",
+      "note": "38 of 120 units carry a digital / AI cue (32 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 38,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 32
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:27:46Z",
+      "ended_at": "2026-11-07T03:27:51Z",
+      "status": "ok",
+      "note": "3 candidate practices from 38 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 121536,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 817,
+          "cached_tokens": 24704,
+          "cache_write_tokens": 0,
+          "output_tokens": 1047,
+          "seconds": 9.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0016
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:27:51Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "ok",
+      "note": "0 accepted, 3 rejected (not_digital 3); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 23458,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1730,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 143,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "accepted": 0,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:27:53Z",
+      "ended_at": "2026-11-07T03:27:53Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 73
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "645591574699140484",
+      "doc_type": "PAD",
+      "position": 899,
+      "char_start": 150210,
+      "char_end": 150390,
+      "sentence": "Private individual investors or funds will contribute at least 40 percent of the total project investment at the time of grant award (previously raised funds will not be eligible).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Angel co-investment matching grants with private investor co-funding",
+      "reason": "reject: Co-investment grant condition; no digital system, data or AI does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: grant de-risked by mandatory private co-investment - cue: 'innovations'",
+      "innovation_cues": "innovations;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Co-investment grant condition; no digital system, data or AI does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1938
+        }
+      ]
+    },
+    {
+      "guid": "645591574699140484",
+      "doc_type": "PAD",
+      "position": 902,
+      "char_start": 150714,
+      "char_end": 151911,
+      "sentence": "(b) Technical Assistance Facility (EUR 2 million over four years); this would include support for: ▪ the competitive selection of companies, program and curriculum development and implementation, and mentoring (approximately EUR 450,000 over four years); ▪ angel group/network creation and deal flow development through two channels, (i) cultivating and equipping an organized angel investment community, and (ii) working with science and technology parks, incubators, accelerators, hubs, and other entrepreneurship support organizations (for instance, through grants) to identify promising entrepreneurs and to improve their investment readiness; the program will include a knowledge transfer component, equipping local entrepreneurship support organizations with the ability to implement acceleration programs and strengthen partnerships with investors (approximately EUR 0.8 million over four years). ▪ regulatory and legal analysis and development of a policy reforms matrix to enable further development of innovative early and growth stage enterprises in Serbia (approximately EUR 300,000); ▪ participation of Serbian diaspora in mentoring innovative enterprises and making angel investments",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Angel network creation and deal-flow development via incubators and accelerators",
+      "reason": "reject: Angel network and incubator deal-flow support; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: organized angel community linked to incubators - cue: 'innovations'",
+      "innovation_cues": "innovations;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Angel network and incubator deal-flow support; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1938
+        }
+      ]
+    },
+    {
+      "guid": "645591574699140484",
+      "doc_type": "PAD",
+      "position": 902,
+      "char_start": 150714,
+      "char_end": 151911,
+      "sentence": "(b) Technical Assistance Facility (EUR 2 million over four years); this would include support for: ▪ the competitive selection of companies, program and curriculum development and implementation, and mentoring (approximately EUR 450,000 over four years); ▪ angel group/network creation and deal flow development through two channels, (i) cultivating and equipping an organized angel investment community, and (ii) working with science and technology parks, incubators, accelerators, hubs, and other entrepreneurship support organizations (for instance, through grants) to identify promising entrepreneurs and to improve their investment readiness; the program will include a knowledge transfer component, equipping local entrepreneurship support organizations with the ability to implement acceleration programs and strengthen partnerships with investors (approximately EUR 0.8 million over four years). ▪ regulatory and legal analysis and development of a policy reforms matrix to enable further development of innovative early and growth stage enterprises in Serbia (approximately EUR 300,000); ▪ participation of Serbian diaspora in mentoring innovative enterprises and making angel investments",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Diaspora mentoring and angel investment engagement",
+      "reason": "reject: Diaspora mentoring and angel investing; no digital mechanism involved",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: diaspora network as mentors and investors - cue: 'innovations'",
+      "innovation_cues": "innovations;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Diaspora mentoring and angel investing; no digital mechanism involved",
+          "reject_code": "not_digital",
+          "context_chars": 1938
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 5,
+    "input_tokens": 2547,
+    "cached_tokens": 27648,
+    "cache_write_tokens": 0,
+    "output_tokens": 1190,
+    "seconds": 11.5,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0024
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "project_id": "P507684",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "371eb2e2",
+  "started_at": "2026-11-07T03:38:11Z",
+  "ended_at": "2026-11-07T03:38:19Z",
+  "input_fingerprint": "753558b8bc76ffe0",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 23,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P507684",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-10",
+      "guid": "099031225175542726",
+      "file_name": "P507684_PAD_2025-03-10_099031225175542726.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:38:11Z",
+      "ended_at": "2026-11-07T03:38:12Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 5 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:38:12Z",
+      "ended_at": "2026-11-07T03:38:12Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-03-31, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:38:12Z",
+      "ended_at": "2026-11-07T03:38:13Z",
+      "status": "ok",
+      "note": "23 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 23,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 2,
+          "innovation_types": 5,
+          "enabling_technologies": 3,
+          "enabling_processes": 3,
+          "innovation_cycle": 9,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:38:13Z",
+      "ended_at": "2026-11-07T03:38:13Z",
+      "status": "ok",
+      "note": "PAD 2025-03-10 (P507684_PAD_2025-03-10_099031225175542726.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P507684",
+            "doc_type": "PAD",
+            "doc_date": "2025-03-10",
+            "guid": "099031225175542726",
+            "file_name": "P507684_PAD_2025-03-10_099031225175542726.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:38:13Z",
+      "ended_at": "2026-11-07T03:38:13Z",
+      "status": "ok",
+      "note": "90 reading units (2 numbered paragraphs) from 761 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 90
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:38:13Z",
+      "ended_at": "2026-11-07T03:38:14Z",
+      "status": "ok",
+      "note": "79 of 90 units carry a digital / AI cue (56 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 79,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 56
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:38:14Z",
+      "ended_at": "2026-11-07T03:38:18Z",
+      "status": "ok",
+      "note": "1 candidate practices from 79 units in 8 calls",
+      "llm_calls": 8,
+      "input_chars": 241415,
+      "output": {
+        "usage": {
+          "calls": 8,
+          "input_tokens": 1368,
+          "cached_tokens": 50816,
+          "cache_write_tokens": 0,
+          "output_tokens": 1381,
+          "seconds": 13.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0024
+        },
+        "extracted": 1
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:38:18Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "ok",
+      "note": "0 accepted, 1 rejected (not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 17459,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 613,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 53,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "accepted": 0,
+        "rejected": 1,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 261
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "099031225175542726",
+      "doc_type": "PAD",
+      "position": 452,
+      "char_start": 66596,
+      "char_end": 66813,
+      "sentence": "As part of the proposed ISSF 2.0 Project implementation, similar surveys will be conducted by ISSF PMU every two years to the effectiveness of interventions, proactively collecting feedback for continuous improvement.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Biennial beneficiary survey of investee startups and funds",
+      "reason": "reject: Recurring beneficiary survey and action plans; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: recurring beneficiary feedback loop with action plans - cue: 'continuous improvement'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Recurring beneficiary survey and action plans; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1355
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 1981,
+    "cached_tokens": 53760,
+    "cache_write_tokens": 0,
+    "output_tokens": 1434,
+    "seconds": 14.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0026
+  }
+}

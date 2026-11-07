@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Workflow v4</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}code{background:#eef1f5;padding:1px 4px;border-radius:3px}
+.note{background:#eef6ff;border-left:4px solid #2f6fed;padding:8px 12px;border-radius:0 6px 6px 0}</style></head>
+<body>
+<h1>Workflow v4 - digital / AI innovation approaches by category × sector × theme</h1>
+<p class="note"><b>Definition.</b> An <b>approach</b> is a digital-, data- or AI-related innovation adopted by a project that falls into one of the four categories of the working paper <i>Innovation Patterns in the World Bank Group Portfolio</i> (Table 3.4): <b>Operational / Institutional</b>, <b>Technological</b>, <b>Financial</b>, <b>Collaborative</b>. Within a project, one approach is identified by the triple <b>(category, sector, theme)</b>: all passages that share the triple are evidence of the same approach, however many times and in whatever wording the document returns to it.</p>
+<h2>Steps</h2>
+<ol>
+<li><b>Segment</b> every selected document (PAD, Project Paper, PID, Program Document, ICR, newest 2 ISRs) into sentences with character offsets and context; boilerplate is flagged.</li>
+<li><b>Candidates</b>: sentences carrying a digital / data / AI cue (the DDAT keyword lists for all 21 digital and data themes, plus the enabling-technology terms of the innovation dictionary). This enforces the digital precondition cheaply before any model call.</li>
+<li><b>Classify</b> (LLM, batches of 20, taxonomy cached): for each candidate, zero or more matches with <code>category</code>, <code>adoption</code> and a short <code>label</code>, plus a reason. Rejected candidates go to the exclusion log.</li>
+<li><b>Codes</b> (LLM, batches of 30): each coded passage gets ONE <code>sector</code> and ONE <code>theme</code>, chosen from the project's own lists in <code>projects.csv</code> (names copied exactly; answers are snapped to the list).</li>
+<li><b>Aggregate</b>: passages with the same (category, sector, theme) collapse into one approach. <code>number_of_evidence</code> = number of passages; the approach's <code>adoption</code> is <code>apply</code> if any passage is apply, otherwise <code>prospect</code> if any is prospect, otherwise <code>discuss</code>; the approach label is the most frequent passage label; the strongest passage (apply, PAD before ISR) is Evidence 1.</li>
+<li><b>Replication</b>: unchanged (explicit cross-references + similarity against the portfolio store; reviewer verification in the web app).</li>
+</ol>
+<h2>Adoption</h2>
+<table>
+<tr><th>Value</th><th>Meaning</th><th>Counts in headline?</th></tr>
+<tr><td><code>apply</code></td><td>This project finances, procures, builds, deploys, pilots, scales, requires or has implemented the approach (component activity, cost line, indicator / DLI, covenant, progress reported)</td><td>Yes</td></tr>
+<tr><td><code>prospect</code></td><td>Envisaged for the future - later phase, follow-on operation, "will be considered", government vision, expected benefits - without a commitment by this project</td><td>No</td></tr>
+<tr><td><code>discuss</code></td><td>Advantages, disadvantages, risks, lessons from elsewhere, other programmes, options weighed, background - without adoption</td><td>No</td></tr>
+</table>
+<h2>Outputs</h2>
+<table>
+<tr><th>Table</th><th>Grain</th><th>Key columns</th></tr>
+<tr><td>project_approaches</td><td>one row per project × (category, sector, theme)</td><td>category, sector, theme, label, adoption, number_of_evidence, evidence_1..n (sentence, document, position), replication</td></tr>
+<tr><td>approach_evidence</td><td>one row per evidence passage</td><td>approach_id, sentence (verbatim), document, char offsets, adoption of the passage, label, reason</td></tr>
+<tr><td>projects</td><td>one row per project</td><td>n_approaches (apply), n_prospect_or_discuss, innovative</td></tr>
+</table>
+<p>The web app lists projects and opens each approach with all its evidence passages; the Excel export expands the passages into Evidence 1, Evidence 2 … columns so a reviewer can read them side by side.</p>
+</body></html>

@@ -1,0 +1,1429 @@
+﻿          The World Bank
+          CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+
+
+                      Project Information Document (PID)
+
+
+                     Appraisal Stage | Date Prepared/Updated: 10-Feb-2022 | Report No: PIDA33093
+
+
+
+
+February 10, 2022                                                                                  Page 1 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+
+   BASIC INFORMATION
+
+  OPS_TABLE_BASIC_DATA
+   A. Basic Project Data
+
+   Country                                      Project ID                  Project Name              Parent Project ID (if any)
+   Central African Republic                     P176274                     CAR Investment and
+                                                                            Business Competitiveness
+                                                                            for Employment
+   Region                                       Estimated Appraisal Date    Estimated Board Date      Practice Area (Lead)
+   AFRICA WEST                                  25-Jan-2022                 29-Mar-2022               Finance, Competitiveness
+                                                                                                      and Innovation
+   Financing Instrument                         Borrower(s)                 Implementing Agency
+   Investment Project Financing                 Ministère des Finances et   Ministère de PME et de la
+                                                du Budget                   Promotion du Secteur
+                                                                            Privé
+
+   Proposed Development Objective(s)
+
+   The objectives of the project are to implement reforms to enable investment, improve access to credit, and support
+   targeted SMEs and young workers.
+
+
+   Components
+   Component 1: Investment Reforms and Facilitation
+   Component 2: Access to Credit
+   Component 3: Supporting Business and Workers
+   Component 4: Citizen Engagement, Implementation Support and M&E
+   Component 5: Contingent Emergency Response (CERC)
+
+
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY                  -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                     30.00
+   Total Financing                                                                                                        30.00
+                            of which IBRD/IDA                                                                             30.00
+   Financing Gap                                                                                                           0.00
+
+
+   DETAILS    -NewFinEnh1
+
+
+
+
+February 10, 2022                                                                                                      Page 2 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+   World Bank Group Financing
+
+       International Development Association (IDA)                                   30.00
+
+          IDA Credit                                                                 30.00
+
+   Environmental and Social Risk Classification
+   Substantial
+
+    Decision
+    The review did authorize the team to appraise and negotiate
+
+
+
+
+    Other Decision (as needed)
+
+
+
+
+February 10, 2022                                                                 Page 3 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+   B. Introduction and Context
+
+   Country Context
+
+   1. Central African Republic (CAR) is one of the poorest and most fragile countries in the world. In 2019, per capita GDP
+      averaged US$468)—much lower than the average of US$1,130 in countries affected by fragility, conflict, and violence
+      (FCV) in Sub-Saharan Africa (SSA). The extreme poverty rate remained high at 71.4 percent in 2020.
+
+   2. CAR’s economy is small (US$2.2 billion GDP), driven by agriculture and extractives, and heavily dependent on
+      imports. Economic growth in CAR has historically been driven by these sectors. Mining and forestry have dominated
+      the export market (consisting primarily of diamonds and rough wood). Asia and the EU are CAR’s main export markets
+      (~90 percent) with China representing 54.3 percent of CAR’s total exports, while exports within Africa represent only
+      14 percent of total exports. Official exports in 2018 totaled US$99.4 million. Agriculture remains a major source of
+      formal and informal employment - the sector accounts for 77.3 percent of total employment and 39 percent of GDP.
+      In recent years, the services sector share of GDP has increased and contributes approximately as much as agriculture
+      to GDP. The agriculture and services sectors were the main supply-side drivers of economic growth in 2019, growing
+      at 3.1 percent and 2.3 percent, respectively.1
+
+   3. Since gaining independence in 1960, the country has faced successive episodes of conflict and violence that have led
+      to enormous development challenges. The Bangui Forum in 2015 began the process of stabilization after the 2013
+      political and military crisis. In 2019 a peace agreement was signed which shifted the efforts towards recovery and
+      development and, despite repetitive violation by several armed groups, contributed to a significant decrease in
+      violence. However, the most recent contentious presidential elections (December 2020) have exacerbated tensions
+      and led to the return of some violence in the provinces. The government has, among other measures to bring back
+      peace, planned to organize the Republican dialogue.
+
+   4. The formal private sector is small, constrained by structural challenges, including limited access to finance and poor
+      infrastructure, poor skills, gaps in legal and regulatory frameworks governing economic activities, and a fragile
+      security environment. CAR has among the lowest education and gender equality indicators in the world. The poor
+      quality of primary education, low participation rates in secondary school education for girls, and high levels of violence
+      against women and girls, with 11,000 reported incidents each year (2016), 74 percent of which involve children, remain
+      pressing challenges.
+
+
+
+   5. The COVID-19 pandemic has had a negative impact on the economy. The pandemic drew significant government
+      resources that could have been spent addressing the country’s shortcomings. With the onset of containment
+      measures, supply chains were interrupted which had a negative impact on all sectors, increasing costs and business
+      risks. The resulting economic downturn, as in other parts of the region, provoked widespread unemployment, shrank
+      domestic markets and decreased liquidity. While the country received additional resources from donors during the
+      pandemic and partly recovered through adaptation, the new post-election instability ahs resulted in backsliding. The
+      country’s economic growth has been revised downward to 0.8 percent for 2020 (−1.1 percent in per-capita terms), 3.6
+      percent below pre-COVID-19 the Projections. The fiscal position is estimated to have deteriorated as tax revenues have
+      declined and public expenditures risen due to the pandemic. The World Bank estimates that the pandemic pushed
+      approximately 70,000 additional people into extreme poverty in 2020.2
+
+
+February 10, 2022                                                                                                   Page 4 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+   6. CAR is also highly vulnerable to climate change, ranked 180 out of 181 countries in the 2020 ND-GAIN Index3. CAR
+      has a population of just over 4.7 million people (2019) with an annual population growth rate of 1.7 percent.
+      Approximately 41.4 percent of the population currently lives in urban areas. This is projected to increase to 48 percent
+      and 60 percent of the population by 2030 and 2050, respectively. The high levels of poverty and low-degree of
+      development in CAR limit capacity of poor households and communities to manage climate risk, increasing their
+      vulnerability to climate-related shocks. Impacts of climate change will affect the poorest and most vulnerable the most
+      and hinder CAR’s development agenda and efforts at economic sustainability and political stability, further impacting
+      poor and vulnerable groups. Adverse climatic events may destroy infrastructure, interrupt business and the functioning
+      of the government. Floods are a recurring and devastating natural disaster and are responsible for the largest share of
+      economic and human losses from natural disasters in CAR.
+
+
+
+
+    Sectoral and Institutional Context
+
+   Business Environment and Investment Climate
+
+   7. CAR is one of the most challenging places in the world to do business. Businesses lament the unpredictability of the
+      business environment with respect to settling disputes, predatorial behavior of tax authorities and a casual respect
+      for legal agreements. Reform workstreams funded by the project will target some of these problems. The Bertelsmann
+      Transformation Index4 which examines economic governance in transitioning and developing economies classified CAR
+      as weak (<3 out of 10) in key dimensions of its business environment including markets and competition, and protection
+      of private property. Furthermore, CAR was ranked 151st out of 160 countries in the World Bank’s 2018 Logistics
+      Performance Index. CAR also ranked 133rd out of 152 economies in UNIDO’s Competitive Industrial Performance Index
+      which measures how successful a country’s industries are at producing and selling their goods on domestic and foreign
+      markets, and subsequently, how they contribute to structural change and development.
+
+   The Public-Private Institutions Supporting Private Sector Development
+
+   8. Key ministries and public organizations entrusted to improve the business environment, implement reforms, and
+      offer training, information and services to businesses lack capacity. The Ministry of Small and Medium Enterpreneurs
+      (SMEs) and Private Sector Development and the Ministry of Commerce and Industry have limited resources to
+      implement their respective workplans, and work with businesses and other stakeholders to understand and be
+      responsive to their needs. These needs include facilitating import/export and investment promotion, market research,
+      and information and facilitating implementation of regulations and economic reforms that help businesses.
+
+   9. The government’s efforts to address obstacles to private sector development have had limited impact, and the
+      ecosystem consisting of public and privately funded services for SMEs is embryonic and functions poorly. The
+      government established the SME and Artisan’s Business Center (Centre d’Assistance aux Petites et Moyennes
+
+
+            1
+              World Bank, CAR Economic Update, July 2021.
+            2
+              World Bank, July 2021, Economic Update.
+            3
+              The ND-GAIN Index ranks 181 countries using a score which calculates a country’s vulnerability to climate change and other
+            global challenges as well as their readiness to improve resilience.
+            4
+              More information on the BTI and its methodology is available at https://bti-project.org/en/?&cb=00000.
+
+February 10, 2022                                                                                                           Page 5 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+        Entreprises et à l’Artisanat - CAPMEA) to be a major implementor of its efforts to support SMEs. CAPMEA is a public
+        entity under the supervision of the Ministry of the SMEs and Private Sector Development and financially dependent on
+        the state budget. While CAPMEA has existed for a long time in various forms, it has lacked the human and financial
+        resources to become a cornerstone of the SME ecosystem as the government has envisioned. From time to time, it has
+        been subject to political changes that have altered its mission and objectives. It continues to be underfunded.
+
+   10. Under the Prime Minister, the Mixed Coordination Framework for Improving Business (Cadre Mixte de Concertation
+       pour l’Amélioration des Affaires- CMCAA) is the main body responsible for public-private dialogue on business
+       environment and economic reforms. With few resources, the CMCAA has been able to propose key laws and reforms,
+       but adoption and reform implementation processes move too slowly. The Chamber of Commerce of Industry, Mines
+       and Artisans is responsible for registering businesses and providing official documents for traders but provides few
+       other services that could help them. Most of the Chamber’s services have been transferred to the Single Window for
+       Business Formalities (Guichet Unique pour les Formalités des Entreprises- GUFE). With donor support, the Chamber
+       has been able to perform feasibility studies for the creation of a guarantee fund for SMEs and the Authorized
+       Management Center (Centre de Gestion Agrée- CGA) that would provide accounting training to businesses. Overall,
+       CAR would benefit from a higher profile economic reform agenda to which more resources, attention and effort are
+       devoted to promote private sector development.
+
+   11. Professional associations, GICA which advocates for the few, formal businesses and the National Union of Businesses
+       (Union Nationale du Patronat Centrafricain- UNPC) representing the interests of 7 national professional unions
+       participate in the work of the CMCAA to inform the reform agenda. With its 149 members, the Central African
+       Businesswomen’s Association (Association des Femmes d’Affaires Centrafricaines – AFAC) is a prominent advocate for
+       women-owned MSMEs and provides training to its members and others. Since 2013, provisions favorable to women
+       have been adopted.6 These organizations and other businesses associations provide services such as networking
+       opportunities, training, advocacy and information to businesses.
+
+   Firms and Informality
+
+   12. Successive crises, and the 2013 Crisis in particular, have had a pernicious, negative impact on the private sector.
+       Infrastructure, institutions, and social capital were destroyed or negatively impacted, all of which have made
+       businesses less competitive, increased costs, and decreased the availability of business support services. Many
+       businesses closed, or lost assets, people, with the skills and means to do so, left the country impacting both the
+       government and public institutions as well as the private sector. The majority of MSMEs have significant deficits in
+       business and management skills. They do not employ adequately modern business practices (accounting, budgeting,
+       planning, marketing techniques, technology). This impacts their ability to access credit, develop linkages with more
+       sophisticated companies, access markets, and improve their businesses. These dimensions of firms, and, thus the
+       households of those they employ, more vulnerable to shocks arising from conflict, climate change or other adverse
+       conditions.
+
+   13. CAR’s informal sector represents approximately 60-80 percent of the output produced by the private sector.
+       Extensive discussions across government ministries, businesses, banks, and business associations over the past 5 years
+       revealed a range of causes for informality. The primary causes cited were the avoidance of taxes and predatorial
+       behavior by officials, and the low value placed on business opportunities foregone by remaining informal such as
+       accessing financing, recovery of value-added taxes, accessing tenders and using more sophisticated business
+       arrangements and contracts. Also prominent were observations of the inefficiency of government agencies charged
+
+
+February 10, 2022                                                                                                Page 6 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+        with processes related to formality like customs, tax collection, labor contracts, investment/corporate structuring,
+        building permits, business registration and licensing.
+
+   14. A sample of 135 MSMEs was surveyed in a 2017 study that identified sectors of opportunity for MSMEs identified
+       constraints to their development and made recommendations to alleviate them.5 This diagnostic found that MSMEs
+       face critical deficits in skills, access to finance and platforms for collaboration horizontally and vertically. While over 90
+       percent of MSMEs in Bangui surveyed had a bank account or an account with a microcredit institution, only 22 percent
+       had obtained a credit of any kind over the past 3 years. For smaller cities, these figures are much worse. Estimated
+       financing needs based on the repayment capacity of MSMEs in the city of Bangui were US$48.7 million while the
+       outstanding loans and other financing amounted to US$9.6 million (May 19, 2017).
+
+   15. Furthermore, there are challenges faced by women with respect to business and employment. Only 6.46 percent of
+       firms have majority female ownership compared to 13.2 percent for Sub-Sahara Africa. Vulnerable employment among
+       women is 96.5 percent and among men is 88.8 percent in CAR for 2019, indicating a gap of 7.7 percent and has
+       worsened among women since 1991. The rate of vulnerable employment is 5.9 percent higher for women in CAR than
+       the average rate for women in Sub-Saharan Africa.7
+
+   Financial Sector
+
+   16. CAR’s financial sector is underdeveloped. The financial system is concentrated in Bangui. The country has 4 banks,8 8
+       microfinance institutions (MFIs)9 and 3 insurance companies. The sector is supervised and regulated at the regional
+       level by the CEMAC regional institutions including BEAC (the regional central bank), COBAC (the regional banking
+       supervisor) and COSUMAF (the regional capital markets regulator). The banking sector remains highly concentrated
+       with one bank controlling close to half of the banking sector assets. Banks’ balance sheets are growing and represent
+       now US$556 million, 17 percent more than last year. Deposits represent US$407 million, 22.9 percent more than last
+       year. Credit is also increasing and represents US$297 million with approximately 15,000 active accounts. Orange offers
+       basic services of cash-in and cash-out transactions on mobile money account, transfers between OM accounts, and a
+       few payment services. As of October 2019, OM transactions were US$6 million up from US$4.4 million in September
+       2019.
+
+   17. Access to finance remains one of the largest constraints for private sector development in particular for SMEs.
+       Despite a regionally integrated financial sector, banks display poor intermediation indicators. Private credit as a
+       percentage of GDP represents only 12.3 percent. According to a recent BEAC report, almost 78 percent of the credit
+       goes to large enterprises, 22.3 percent to SMEs and 7.35 percent to households. The low access to finance numbers is
+
+            5
+              IFC, SME Mapping, 2017.
+            6
+              World Bank Enterprise Survey 2017
+            7
+              Workers in vulnerable employment are the least likely to have formal work arrangements, social protection, and safety nets
+            to guard against economic shocks; thus they are more likely to fall into poverty. (World Bank Gender Portal)
+            8 CommercialBank Centrafrique (CBCA); Banque Populaire Marocco-Centrafricaine (BPMC); Banque Sahélo-saharienne pour l’Investissement
+            et le Commerce (BSIC); and ECOBANK-CENTRAFRIQUE).
+            9 The three main players are: Crédit Mutuel de Centrafrique (CMCA) which accounts for 50 percent of the sector in terms of clients, Société
+            Financière Africaine de Crédit S.A. (SOFIA Crédit), and Crédit Populaire de Centrafrique SA (CPC). International NGOs also propose small credits
+            to the Central African Republic population. CMCA and Express Union seem to be the only MFIs that appear financially sustainable.
+
+
+
+
+February 10, 2022                                                                                                                           Page 7 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+        explained by weak credit infrastructure, high perceived risk, lack of collateral, high costs and a poor operating
+        environment. Central African Republic (as well as other CEMAC member countries) does not have a private credit
+        bureau. The public credit registry is not functional, and the payment incidents database is not fully operational.
+        Although OHADA recently updated the secured transactions legislation to offer a broader range of financial products
+        using movable property as collateral, the country has not set up yet a modern movable collateral registry. Other SME
+        tools to allow asset-based lending such as leasing or factoring or risk sharing facilities do not yet exist despite several
+        requests from the financial sector.
+
+   18. Access to finance is more constrained for women entrepreneurs than for men. The 2017 FINDEX report shows that
+       only 14 percent of the adult population has access to an account. Among this population, only 10 percent of women
+       have access to a transaction account compared to 15 percent of men. Women are also underrepresented on the use
+       of mobile financial services with only 4 percent having made payments with mobile money account (compared to 9
+       percent of men). Data shows that 14 percent of women have saved to start or expand their businesses but only 5
+       percent do so through a formal financial institution. Family, friends and other informal networks remain the most viable
+       way of financing a business. Only 3 percent of female entrepreneurs have borrowed from a financial institution to
+       start/operate/expand a business versus 4 percent of men.
+
+   The Skills Deficit
+
+   19. Given the organization’s role in vocational training, the effectiveness of the Central African Agency for Vocational
+       Training and Employment (L’Agence Centrafricaine pour la Formation Professionnelle et l’Emploi- ACFPE) is relevant
+       to private sector development. The ACFPE is funded out of a tax on salaries and offers training to businesses and
+       individuals but has difficulty funding modernization of the agency’s facilities and expanding in line with demand.
+       Discussions with the ACFPE, indicated that the businesses seeking to fill positions cannot find the training and business
+       skills they need (accounting, management, insurance, finance, administration) amongst available candidates as a result
+       of the:1) a lack of labor market analysis prior to developing training programs; 2) insufficient coordination between
+       training centers and companies; and 3) insufficient opportunities for training trainers in CAR.
+
+   20. Approximately 23 percent of Central Africans aged 15 to 19 years old and 30 percent of aged 20 to 24 years old were
+       neither in education, employment nor in training in 2018. This proportion is much higher among girls (29 percent and
+       34 percent respectively) than boys (17 percent and 26 percent respectively). Among youth who are engaged in an
+       economic activity, agriculture is the predominant sector (77 precent), especially outside Bangui.
+
+   21. A World Bank mission in November 2019 held a series of direct discussions with businesses of all sizes. Businesses
+       most often trained staff in house even when hiring graduates of local technical and vocational education and training
+       (TVET) providers or hired skilled tradespeople from neighboring countries to perform a range of functions:
+       construction, electrical engineering, masonry, carpentry, welding, plumbing, etc. These skills are in high demand.
+       Businesses also indicated that TVET providers often lacked the assets to properly instruct students in the evolving
+       techniques used across sectors. The speed with which technology changes and the impact of this phenomena on all
+       sectors makes it difficult for poorly resourced TVET to renew equipment, tools, and assets to remain current and
+       relevant. This problem, along with the difficulty of finding and retaining experienced instructors leads to deficits in the
+       skills businesses need to grow (In most African countries, the TVET system is broken, instructors are not incentivized
+       to train, their salaries are low, curriculum outdated, etc.).
+
+   22. Apprenticeship is considered one effective way to develop job-specific skills; however, the apprenticeship system is
+       not structured and remains almost entirely informal in CAR. Traditional apprenticeship constitutes the predominant
+
+February 10, 2022                                                                                                     Page 8 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+        avenue of skills acquisition in CAR, just like in most of SSA countries10. In the informal sector, a young worker with no
+        qualifications often enters an informal enterprise as an apprentice and will reach a higher status only if he/she is
+        promoted or manages to get hired as a skilled worker in another enterprise. Field visits of small-scale enterprises in
+        Bangui showed that there was no contractual arrangement, oral or written, between masters and apprentices
+        concerning the duration of the apprenticeship, nor other dimensions. There is no recognized certification provided to
+        apprentices upon completion of their training. Finally, apprentices only benefit from on-the-job training, but they do
+        not benefit from any theoretical training nor any foundational skills training programs.
+
+   23. As a result, Central African firms often are unable to find job-specific skills necessary for their development in the
+       labor market. Mechanics and electricians for maintaining and repairing equipment (elevators & generators) and truck
+       drivers, welders were cited as examples in interviews conducted for the CAR Skills Training and Youth Employability
+       (STYE) study. To address this skill shortage, large companies recruit outside CAR, while MSMEs use traditional
+       apprenticeships (on-the-job training in an informal setting).
+
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+  The Project will implement reforms to enable investment, improve access to credit, and support targeted SMEs and young
+  workers.
+
+    Key Results
+       The proposed PDO indicators are: Increase private investment
+
+                 1.Improved investment climate as reflected in increased G2B service efficiency or increased # of investment
+                   leads (number)
+            Improved access to finance
+
+               2. SME loans guaranteed by the Partial Credit Guarantee mechanism (US$)
+            Increased firm competitiveness
+
+              3. New contracts and transactions of participating SMEs (number)
+            More skilled workers
+
+                 4.   Certified apprentices with active economic activity 6 months after the program completion (youth and
+                      gender disaggregated) (percentage)
+
+
+
+
+            10
+              The 2019 survey conducted by ACFPE in Bangui Metropolitan Area and selected capital cities of 5 prefectures identified
+            1,297 small-scale craft enterprises (59 percent of them located in Bangui). The majority of these enterprises are in the informal
+            sector – 64 percent of surveyed enterprises reported being in the informal sector and 62 percent of them reported having
+            experience in training apprentices. However, there is no information in this survey on the number of apprentices trained nor
+            frequency of training. It is then not possible to ascertain from it the total number of small-scale crafts enterprises in CAR or to
+            estimate the number of apprentices who work there.
+
+February 10, 2022                                                                                                                Page 9 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+  D. Project Description
+
+  Component 1: Investment Reforms and Facilitation (US$4 million equivalent)
+
+  24. Component 1 will fund TA needed to implement priority reforms to improve CAR’s investment climate. The objective
+      is to improve policies, regulations, and support government organizations that are mandated to enable private sector
+      development. Related agencies include the Ministry of Commerce and Industry, the CMCAA and the Ministry of SMEs
+      and Private Sector Development.11 TA and capacity building for these organizations will be based on diagnostics
+      performed under the PPA. These diagnostics will focus on the strategy, organizational structure, mandates and
+      responsibilities, operational plans of public organizations contributing to enable private investment and providing
+      services to businesses. Using regional and global good practices, they will identify gaps, make recommendations, and
+      propose policy and regulatory improvements, as well as training and other actions to optimize the government’s overall
+      schema of how they enable investors and businesses. The Project will then fund the implementation of priority reforms
+      committed to by the key agencies, including legal, regulatory, institutional, and administrative improvements.
+      Implementation action plans, including TA and consulting services on specific reform topics, training courses for staff,
+      and equipment will be provided to these institutions, aligned with clearly defined performance and results measures.
+
+  25. Building on previous diagnostics and ongoing policy dialog, a preliminary list of activities to be supported by
+      Component 1 of the Project may include:
+          • Mapping and recommendation on the organizational structure of investment-related institutions;
+          • Formulation of investment policy and targeted investment promotion strategy;
+          • Studies, TA, transaction advisory to support the PPP Unit and PPP delivery;
+          • Implementation regulations and decrees for the Investment Code, commercial laws and laws on SMEs;
+          • Reform of sectoral regulations for the agriculture12, construction, and ICT sectors to remove key obstacles to
+              investment;
+          • Public-private dialogue consultation and validation activities related to the reform process;
+          • Maintaining, updating, and making available the Practical Guide of Business Regulations.13
+
+  26. Exact priority reforms and supporting activities will be finalized after the PPA diagnostics, around effectiveness or soon
+      after. The project will fund the following tasks led by the CMCAA in collaboration with implicated government agencies
+      as required: 1) identification of best practices for business environment improvements, 2) development of reform action
+      plans, 3) legal experts for drafting of laws, regulations and implementation decrees, and 4) Public-private dialogue
+      consultation and validation activities.
+
+  Component 2: Access to Credit (US$9 million equivalent)
+
+  27. Access to credit is highly constrained in CAR and a risk sharing mechanism is necessary to incentivize the banking sector
+      to serve existing and future SMEs. SMEs are perceived as high risk by the financial sector due to several shortcomings
+      including asymmetry of information and weak credit infrastructure; lack of collateral; limited managerial skills of current
+      and prospective entrepreneurs; and weak collateral enforcement regime. Facing these limitations, banks apply high
+      interest rates and significant collateral requirements (150 percent and above of the value of the loan) on SME loans to
+      better manage the inherent credit risk. As a result, SMEs have limited opportunities to access formal finance in affordable
+      terms. In order incentivize banks better serve SMEs, the government of CAR is in the process of establishing a Partial
+      Credit Guarantee (PCG) scheme (Box 1). A well calibrated PCG with robust capitalization, governance and operational
+
+
+
+February 10, 2022                                                                                                  Page 10 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       procedures/systems in place could contribute to increase access to adapted and affordable financial services for SMEs in
+       CAR.
+
+                                Box 1 : Fond National de Garantie et d’Investissement (FNGI)
+           The SME Code (Law 20-011) of May 16, 2020 provided the legal establishment of the FNGI. The Statutes of
+           the FNGI were adopted in August 2020 and benefited from the input of the World Bank and the UNDP.
+           Below is a short description of the key characteristics of the FNGI:
+
+           The FNGI:
+           Will be incorporated as a joint stock company owned by the CAR’s government with the possibility of having
+           other shareholders including multilateral donors and the domestic banking sector.
+               • Will be incorporated in compliance with OHADA laws on joint stock companies and regional financial
+                    sector regulations.
+               • Will be licensed and supervised independently by the COBAC, the regional banking sector regulator.
+               • Is expected to have a CFA 10 billion capital (approx. US$ 17.5 million).
+               • Is expected to have a governance structure in line with the one expected from a financial institution
+                    including but not limited to having: i) a board of directors with independent board members; ii)
+                    internal controls and risk management functions; iii) financial reporting in compliance with local
+                    standards; and iv) independent external audit.
+               • Will be in a position to guarantee bank and MFI loans for qualifying SMEs.
+               • Will provide portfolio guarantees ranging tentatively from 60-80 percent of the loan at a flat fee of
+                    1.5 percent and 2.5 percent of the total loan depending on the type of loan and inherent risks.
+               • Is expected to offer a silent guarantee in order to avoid moral hazard.
+               • Is expected to provide TA to the participating banks to reduce the risks and potential moral hazard.
+
+
+
+
+            11
+               It may include others as they are relevant to reform implementation or the reorganization of government functions that
+            support private sector development such as government agencies associated with the PPP Unit or delivering PPPs or involved in
+            investment promotion.
+            12
+               A diagnostic analogous to the “Enabling Business of Agriculture�? will inform these sectoral reforms.
+            13The Practical Guide was a joint effort of the World Bank and the CMCAA completed in 2019, that gathered approximately 50 legal texts,
+            regulations and laws likely to be of interest to businesses and investors. The Practical Guide is in an electronic format that is easily shared and
+            must be updated periodically as new texts are developed or existing texts are revised.
+
+
+
+
+February 10, 2022                                                                                                                            Page 11 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+
+
+  28. The proposed financing will contribute to the first endowment of the FNGI; therefore, the World Bank Operational
+      Policy 10 (OP.10) policy will be triggered for this specific component. Since the FNGI has not formally started operations
+      and only exists on paper, the OP.10 requirements will apply ex post. Furthermore, the Project will comply with ESS9 prior
+      to capitalization. The FNGI is expected to be fully compliant with global good practices, in particular, with the Principles
+      for Public Credit Guarantee Schemes for SMEs.14 Disbursements for this specific component will be contingent to the
+      compliance of the FNGI with recognized good practices. Institutional, regulatory and financial arrangements will have to
+      be prepared to the satisfaction of the World Bank. The specific disbursement requirements and conditions will be
+      included in the financing agreement. To ensure FNGI is compliant with global good practices, the proposed financing will
+      provide significant TA and the World Bank will also provide implementation support by mobilizing global experts to
+      support the CAR’s authorities. Annex 5 provides an analysis principle by principle on the prospective structuring of the
+      FNGI in light of OP.10 requirements. Furthermore, a negative list of types of businesses and/or sectors will be developed
+      to ensure the operations of the FNGI are compliant with the World Bank’s E&S policies.
+
+  Subcomponent 2.1: Set Up the Partial Credit Guarantee Mechanism (US$4 million equivalent)
+
+  29. Subcomponent 2.1 will finance the procurement of goods and technical assistance services to ensure the
+      implementation of the PCG is compliant with global good practices. The vision of CAR’s government is to establish a
+      PCG with i) robust corporate governance systems; ii) efficient and transparent operational procedures; iii) sustainable
+      business model (striking the balance between effective guarantee coverage ratio and price to incentivize banks to use
+      the product while at the same time minimizing moral hazard); iv) independent supervision from the banking sector
+      regulator; and v) effective financial and M&E reporting systems. During the first half of 2021, the government has been
+      working on the bylaws and some internal regulations of the PCG with the support of the UNDP and the World Bank
+      (including in the context of the ongoing DPO P175173, Prior Action 8). The Project will finance analytical and advisory
+      services including but not limited to the following areas: i) analysis of effective capitalization requirements and financial
+      modeling; ii) development of a business plan (including tariffication of the guarantee products); iii) Human Resource
+      business plan; iv) infrastructure plan (including physical and IT infrastructure needs) which will improve the climate
+      friendliness of the operations ; v) organizational matrix plan (with particular focus on internal controls and risk
+      management systems); vi) operation manuals; and financial, supervisory and M&E reporting systems. The Project will
+      also finance the procurement of goods and services aiming at operationalizing the PCG including office equipment, IT
+      systems to support the interconnexion of the PCG with PFIs and key staff. A significant portion of these activities are
+      expected to be completed in the context of a Project Preparation Advance (PPA) to ensure that all the analytical and
+      regulatory aspects of the PCG are finalized by the time the Project becomes effective. In addition, compliance with the
+      above-referenced good practices will be a disbursement requirement to proceed with the implementation of component
+      2.2 (see para 49 and Annex 5).
+
+  30. Subcomponent 2.1 will also finance capacity building initiatives to ensure the smooth operationalization of the PCG.
+      In addition to the TA in both legal and operational aspects, the Project will finance capacity building for both PCG and
+      participating financial institutions (PFIs). The Project will finance study tours and trainings (including corporate
+      governance, internal controls, audit, compliance, risk management, IT, financial management and reporting events to
+      provide PFIs with information and good practices to help promote adaptation and resilience to facilitate the screening
+
+            14
+                 Principles for public credit guarantee schemes for SMEs (English). Washington, D.C.: World Bank Group.
+            http://documents.worldbank.org/curated/en/576961468197998372/Principles-for-public-credit-guarantee-schemes-for-SMEs
+
+
+
+February 10, 2022                                                                                                            Page 12 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       of loans for climate Co-Benefits. Since CAR faces capacity constraints, the Project could finance a resident advisor for 1-
+       2 years to help the PCG management with the roll out of the instrument. PFIs will also benefit from different training
+       opportunities to bring up to speed their SME financing capabilities, including climate-smart awareness which includes
+       use of solar energy, flooding risks and impacts. PFIs will also be incentivized to increase the share of the portfolio that
+       addresses climate change adaptation and mitigation. This is a critical activity as it is important for the PFIs to develop
+       robust understanding of SME lending techniques (including credit underwriting approaches, marketing, SME loan
+       portfolio and client management, risk management) to minimize the risks and potential moral hazard for the PCG. Special
+       emphasis will also be put into developing robust M&E capabilities to ensure effective KPIs are developed to measure the
+       impact of the scheme. In particular, M&E data about vulnerable groups such as youth and women entrepreneurship and
+       access to finance (see paragraph 18) will be collected to measure the increase in share of women and youth with bank
+       accounts and new loans provided to close the gap. This data will be produced by the FNGI and it will also be published in
+       the annual report.
+
+  31. PFIs will also be incentivized to increase the share of the portfolio that addresses climate change adaptation and
+      mitigation. Given the prevalent undercapitalization of MSMEs and the PCG’s objective of enhancing access to credit to
+      these firms, Component 2 will improve firm productivity, enable adaptation to impacts from climate and better weather
+      other shocks to their operations. It is estimated that 75 percent of lending facilitated via the PCG will increase firm
+      productivity and thus contribute to these outcomes.
+
+  32. Subcomponent 2.2: Initial Capitalization (US$5 million) The Project will contribute to the first endowment of the partial
+      credit guarantee.15 According to the PCG’s statutes the fund will have a capital of 10 billion CFA (US$17.7 million). In this
+      context, the Project will contribute to the initial endowment of the PCG for an amount of US$5 million. This initial
+      capitalization should contribute to guarantee SME loans for a total amount between US$10 million and US$15 million
+      (assuming a modest leverage ratio of 2 to 3). The proposed amount will allow the PCG to start operations and maintain
+      a sustainable production of guaranteed loans for the first 3-4 years of operations. After this period and thanks to a
+      successful implementation of the system, the PCG will be in a more comfortable position to raise funds from the private
+      sector and other potential donors. To ensure the fund complies with global good practices and due diligence
+      requirements included in the World Bank Operational Policy (OP).10 policy, the disbursements will be structured in two
+      parts. Furthermore, the Project will comply with ESS9 prior to capitalization. The disbursements will proceed as follows:
+      first disbursement of US$2.5 million when the PCG is established in compliance with global good practices as defined in
+      the Project’s operations manual16 (included but not limited to internal policies, governance structure, independent
+      supervision, financial reporting, business model and signature of Memorandum of Understanding (MoUs) with PFIs);
+      second disbursement of US$2.5 million when outstanding credit guaranteed reaches 60 percent of the total maximum
+      credit amount guaranteed (assuming a leverage ratio of 2 maximum 3).
+
+  Component 3: Supporting Businesses and Workers (USD 14 million equivalent)
+
+  33. This component aims to support both the demand and supply side for promoting private sector employment. The
+      subcomponents will follow two main areas of intervention: The first area (Component 3.1) will aim to support to build
+      linkages initiatives to associate SMEs with larger firms as buyers, donor projects, or government procurement contracts,
+
+            15 Capitalization should
+                                   be understood as a contribution to the initial endowment of the PCG. The PCG is not expected to pay back or return the proceeds of
+            the proposed financing utilized for the capitalization to the Ministry of Finance or other relevant government authority.
+
+            16
+              Principles for Public Credit Guarantee Schemes (CGSs) for
+            SMEs:https://www.worldbank.org/en/topic/financialsector/publication/principles-for-public-credit-guarantee-schemes-cgss-
+            for-smes
+
+February 10, 2022                                                                                                                                    Page 13 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       by providing technical assistance and advisory to meet specific requirements and standards reflected in tenders; (2)
+       providing training and support services to select firms that have growth potentials; and last d) providing generic business
+       support services. The second area of intervention (Component 3.2) is to support skills development and encourage
+       recruitment by: (1) piloting an apprenticeship program to ease employment of skilled labor, especially youth and women;
+       and (2) adapting and delivering vocational training that corresponds to market demand.
+
+  Subcomponent 3.1: Build Linkages and Support Firms (USD 6 million equivalent)
+
+  34. Subcomponent 3.1a will work with large firms that could potentially contract MSMEs as suppliers, distributors or
+      service providers, as well as public-sector procuring agencies, including development agencies, and enable MSMEs to
+      better respond to tenders. The subcomponent provides technical assistance to MSMEs to increase their knowledge of
+      standards and quality of output. These include, but are not limited to, building and publishing information platforms (for
+      example contract and tender information, supplier databases), firm production diagnostics, procurement training (for
+      example understanding procurement and contracting processes, technical specifications, financial knowledge,
+      understanding performance guarantees and other qualifying criteria), etc.
+
+  35. GICA, with the participation of CAPMEA and MINUSCA and other agencies as needed, will develop a database and
+      subscription service to share information on tenders and procurements, in close collaboration with large firms,
+      relevant government agencies and donors. The database will assemble information on tenders, tender history but also
+      provide SME profiles and an opportunity for SMEs to present their capabilities. The latter will be cataloged by sector and
+      contain information on firms’ past performance in transactions with larger firms and government and donor tenders.
+      This information will serve as a form of certification or proof of good past performance. This subcomponent will also
+      finance tailored firm level technical assistance support on a first come first basis if the firm meets at least one of the
+      following set of criteria: a) signed delivery order; b) additional employment; and c) the firm will produce at a new (to the
+      firm) quality or standard. The subcomponent will also fund the operational cost of maintaining the information service,
+      outreach & matchmaking efforts, IT hardware and software and other operational expenses.
+
+
+  36. Sub-Component 3.1b will provide training and support services for high-potential firms. Beneficiaries will include SMEs
+      and larger firms such as GICA members, local entrepreneurs, and investors with potential for growth and job creation.
+      The objective of training and technical assistance activities is to increase firm sales, increase investment and create jobs.
+      Targeted training and other services will be provided to firms via this subcomponent.17 These include training in
+      management, accounting, marketing, operations, finance, business planning and digital skills, among others. Sector-
+      specific training on business and operational processes, standards, certifications, SPS, import/export requirements,
+      quality and specialized legal and consulting services will also be possible through this subcomponent. In addition to
+      training, the subcomponent will fund outreach activities, events, technical demonstrations, experts and consulting
+      services, and other activities that enable firms to improve their performance and competitiveness, aligned with the
+      outcomes sought by the Project.
+
+  37. This subcomponent will create a directory of businesses that maps firms by sector and goods and services provided.
+      The directory will help the Project target the wider private sector firms that may need support to improve their
+
+
+            17
+               The project will perform sector and firm survey diagnostics and deep dives to map constraints to firm growth and development that can be alleviated by
+            training and technical assistance the project can provide. These studies will begin with PPA funding available and continue as needed to refine training and
+            technical assistance programs and capitalize on emerging opportunities. Studies will develop specific action plans for sectors that target firms by market segment,
+            firm size and other firm dimensions. These will be translated into specific firm-level training and technical assistance needs that the PIU and implementing
+            partners will organize, fund and implement.
+
+
+February 10, 2022                                                                                                                                          Page 14 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       performance, participate in linkages opportunities in the future, or become exporters. The Project will prioritize such
+       firms for training and technical assistance and develop eligibility criteria and a means of targeting. Furthermore, this
+       business directory will also inform monitoring and evaluation (M&E) efforts and surveys need to ensure that beneficiary
+       firms receiving training and technical assistance can be tracked to measure Project outcomes and results.
+
+  38. The eligibility and selection criteria of training and technical assistance activities will include at least : Eligible firms are
+      a) businesses formally registered in CAR; b) include formal employees; c) are up to date in tax and social security
+      payments at the time of application. The selection criteria will include at least: a) the number of expected additional
+      formal jobs (including the number of female employees); the estimated increase in sales and increase investment.
+      Preference will also be given to climate change mitigation or adaptation related services/products, for example,
+      increasing energy efficiency through process innovations and increased use of ICT, installing Solar Panels, better water
+      management, more efficient use of inputs and raw materials, waste reduction, more efficient use of fossil fuels, or other
+      climate friendly investments. It is estimated that 50 percent of training and TA will be linked to energy efficiency-related
+      process innovations. The Project will target providing training and technical assistance to women-owned and women-
+      managed businesses, by tailoring the curricular to their specific needs. This will be achieved by developing engagement
+      methods and implementation modalities shown to increase the participation by women such as location and times
+      selected to maximize their participation. The knowledge gained from this training aims to improve women businesses’
+      networks, help them connect to new markets and products, resulting in improved economic opportunities for women-
+      led entrepreneurs.
+
+  39. Subcomponent 3.1 will, in addition, provide capacity building to CAPMEA and the Ministry of SMEs and Private Sector
+      Development. The Project will support CAPMEA roll out its strategic plan in partnership with donors, businesses, business
+      associations, NGOs and other organizations. CAPMEA aspires to be CAR’s equivalent of a “Maison de l’Entreprise,�? a
+      structure found elsewhere in Africa that provides a range of capacity building, advocacy, and other services to businesses.
+      As its capacity is developed, CAPMEA will deliver training to SMEs and entrepreneurs to compliment training managed
+      by the PIU. Based upon feedback from businesses, business associations and the public operations, specific training
+      courses and modules are likely to be deployed by CAPMEA and the Project, training partners associated with them and
+      organizations seeking to enable businesses18.
+
+  Subcomponent 3.2: Build Skills for Employment (USD 8 million equivalent)
+
+  40. This subcomponent 3.2a (US$6 million) is to (a) provide market-relevant skills training to out-of-school youth through
+      the upgrading of traditional apprenticeships and (b) support the transition of these youth to gainful employment
+      through economic inclusion programs. Building on recent findings from CAR Skills Training and Youth Employability ASA
+      and on those from the AFD pilot apprenticeship program, this sub-component 3.2a will finance apprenticeship training
+      and certification of 5700 out-of-school youth in a select number of trades for which there is labor market demand.
+      Consistent with research on what has been successful in other settings, the upgraded apprenticeship training program
+      will follow a dual training approach – to include (a) classroom learning to acquire both basic foundational and technical
+      skills and theoretical knowledge as well as (b) on-the-job training.
+
+
+
+            18 One example is the “Gerez Mieux Votre Entreprise�? (GERME) developed by the ILO and IFC’s Business Edge modules. These training courses and modules have
+
+            proved effective at building the skills of MSMEs, managers and entrepreneurs. GERME has been deployed successfully in CAR and CAPMEA could extend these
+            efforts. Another example is the personal initiative (PI) training. PI training facilitates self-starting, future thinking, and overcoming barriers seeks, instills in
+            entrepreneurs a proactive mindset, and enables them to grow their businesses and create jobs. PI training was found to be effective in FCV contexts in Africa,
+            particularly in capacity building activities targeting women entrepreneurs.
+
+
+
+February 10, 2022                                                                                                                                            Page 15 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+  41. The foundational and theoretical technical skills will be acquired through courses on literacy and numeracy, life skills and
+      digital skills (when feasible) and other technical skills provided by training centers19. The theoretical courses will be taught
+      by Technical and Vocational Education and Training (TVET) instructors and by trainers from the ACFPE while the practical
+      on-the-job training will be provided by master craftpersons in respective local business/workshops in selected trades
+      who will also receive training from ACFPE.
+
+  42. The project will finance apprentices’ training and certification costs. This includes operating costs of training centers,
+      training of master craftsmen and TVET instructors as well as learning materials, toolkits, stipend for transport and meals
+      for apprentices. In addition, the project will also finance incentives to local business/workshops that will train
+      apprentices, including provision of tools, raw materials and business development services.
+
+  43. The project will also finance communication and sensitization among youth and local businesses to raise awareness about
+      project activities, calls for applications from interested local business, validation visits, and operating costs for contracts
+      signing. The project will also finance advocacy activities within communities to encourage the participation of young
+      women and ensure they constitute at least 40 percent of apprentices are young women.
+
+  44. Training for apprentices will be for a period of one to two years depending on the trade selected. Before starting the
+      training, apprentices will have an opportunity to choose one trade in which they can specialize. Diagnostic studies will
+      be conducted a part of the PPA to assess and select a number of trades for which there is a high demand in CAR labor
+      market. To facilitate the participation of apprentices to the training centers courses– and to minimize disruptions to the
+      operations of the firm that will receive the apprentice, the apprentice spends two days at the training center for the
+      theoretical training and four days at the firm per week. The project will support the regulation of the apprenticeship via
+      a formal agreement signed between the apprentice, the local business hosting the apprentice, and the ACFPE. The
+      agreement will lay out the responsibilities and requirements of each party and will include conditions and the duration
+      of the apprenticeship training, assessment, certification, and remuneration to be paid by the employer based on industry
+      standards. The agreement will be signed after the apprentices determined the trade in which he/she will pursue his/her
+      apprenticeship.
+
+  45. Under this sub-component 3.2a, the project will also finance post-training support and economic inclusion services to
+      facilitate the labor market insertion of at least 1,900 graduating apprentices. The project will finance three key activities
+      to support apprentices after completion of their training: (i) cash grant and business management skills training to
+      apprentices who wish to become self-employed; (ii) job opportunities within the local business that trained them (where
+      they held apprenticeships) through financial incentives offered to these local businesses; and (iii) job-search coaching
+      services to help trained apprentices to find wage-employment.
+
+  46. First, the project will support the provision of business management skills training for apprentices and the possibility of
+      small cash grants to a select number of individuals who are interested in starting an economic activity or becoming self-
+      employed. The business skills training will provide them with an understanding of how to create and manage a business,
+      to include the development of a business plan. Upon completion of this business skills training, the best performing
+      apprentices who have obtained their certification (completed the program) and have a valid business plan will be eligible
+      to receive the cash grant financed under the project. The amount is currently estimated to be around $500 and will be
+
+            19
+              The project expects to support at least 17 training centers in selected areas namely Bangui, and other prefectures where the
+            Human Capital and Women and Girls Empowerment project supports Vocational Education and Training and Literacy (VETL)
+            Centers. Among these centers, the six VETL centers that are expected to be rehabilitated and expanded as part of the Human
+            Capital and Women and Girls Empowerment project will be included.
+
+February 10, 2022                                                                                                          Page 16 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       provided to apprentices. To encourage participation for female apprentices, the value of the grant might be higher for
+       women.
+
+  47. Second, the project will finance technical assistance and capital grants to a select number of firms as incentives to convert
+      the apprentice position into a full-time job20. Lastly, apprentices interested in finding wage employment will benefit from
+      career guidance services combined with job-seeking skills training delivered by ACFPE.
+
+  48. For this sub-component, beneficiaries will include about 1,900 graduating apprentices who will benefit from these
+      economic inclusion programs and at least 514 local businesses in selected trades that will train or hire apprentices
+      under the project. The amount of the cash grant to be received by the best performing apprentices will be determined
+      prior to launching the project and benchmarked based on the selected income-generating activity and findings from the
+      local assessment. The ACFPE will engage specialized payment services providers to make the payments of cash grants in
+      a selective manner. Moreover, to help sustain economic activities, post-creation coaching will be provided by ACFPE to
+      apprentices, and it will lasts six months based on other similar initiatives in CAR. A set of criteria for selection and
+      procedures, including criteria to assess apprentices’ business plan will be established in the project implementation
+      manual. Also, to make the program attractive to local businesses, in exchange for signing contracts, local business in
+      selected trades will receive training, tools, raw materials and business development services.
+
+  49. The subcomponent 3.2b will strengthen the capacity of public agencies responsible for the TVET sector and of
+      Professional Associations (US$ 2million). The subcomponent will support activities of a technical nature to strengthen
+      the capacity of the Ministry of education (MOE), the Ministry of Small and Medium Enterprises (SME) and Private Sector
+      Development, ACFPE, CAPMEA, the Chambers of Trade and Agriculture, and selected Professional Associations (for
+      example the Network of Artisans Groups (REGAC) and the Federation of Livestock Farmers (FNEC)) to better plan,
+      coordinate and support the TVET system in the country, with the objective of building the TVET system in line with
+      present and future labor market demands. Activities financed under subcomponent 3.2b will include among others:
+    a) Strengthening planning and coordination, capacity of the MOE (TVET; and Literacy and Non-Formal Education
+        departments) in the delivery of skills training programs;
+    b) Strengthening the monitoring and evaluation capacity of the MOE through the development of a management
+        information system (MIS);
+    c) Supporting the mobilization and capacity building of selected professional associations in the informal sector to define
+        competencies, validate skills, and identify skill and technology gaps among their members;
+    d) The development of a skills development strategy for the future based on a series of analytical work on skill supply and
+        demand in CAR;
+    e) Establishing good baseline data on the provision of TVET in CAR, dissemination of baseline information, and dialogue
+        with stakeholders;
+    f) Supporting the elaboration of curricula, dual training programs for selected trades, and a development certification
+        system;
+    g) This subcomponent 3.2b includes a rigorous impact evaluation to assess and document the results of the interventions
+        financed subcomponent 3.2b. Further, all technical assistance and communication and information activities needed
+        for the implementation subcomponent 3.2b.
+
+
+
+            20
+              An assessment will be carried out prior to project implementation to elaborate the suitable recruitment strategies that will
+            outline an operational plan to help secure positions for some apprentices after their training within the local firm.
+
+February 10, 2022                                                                                                          Page 17 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+  50. The PIU will implement these activities with the support of TA provided by the project. The PIU will closely collaborate
+      with the ACFPE, the REGAG and the FNEC on the establishment of an integrated database on labor demand and supply.
+
+
+  Component 4: Citizen Engagement, Implementation Support, M&E and CERC (US$3 million equivalent)
+
+  51. This component will support the establishment of a PIU to provide overall Project coordination and implementation
+      support. The roles of the PIU will include implementation planning, technical supervision, fiduciary (financial
+      management [FM] and procurement), environmental and social safeguards implementation, and M&E for all Project
+      activities, including the provision of training, operating costs, and goods and services for the required purpose. The PIU
+      will also manage the Project’s grievance redress mechanism and CE activities. The support for communication and M&E
+      will be particularly strengthened. The communication and outreach strategy and its implementation, as well as M&E, will
+      be critical for this Project, because the latter involves tracking and accounting for improvements to businesses, increased
+      employment and enterprise growth. In additional to full-time staff in the PIU and focal points within government to help
+      coordinate implementation, the PIU will be supported by external Project management consultants to provide TA for,
+      inter alia, support for procurement, including the evaluation of complex technical and financial proposals from vendors.
+
+  52. Overall communication and information dissemination campaign will be managed through Component 3. Specific
+      activities to be financed will include: (i) staffing of essential Project implementation staff for the PIU, including dedicated
+      FM, procurement, and environmental and social safeguards specialists; (ii) ongoing TA for technical and Project
+      management support, including for procurement and staffing with external consultants; (iii) equipment to support
+      Project supervision; (iv) development and implementation of a communications strategy to support Project
+      implementation; (v) development and implementation of a comprehensive monitoring and evaluation plan for all Project
+      components, including integration with Project Grievance Redress Mechanism (GRM); (vi) acquisition of needed financial
+      capacity and systems, including accounting tools and auditors; and (vii) preparation of the Contingent Emergency
+      Response Component Manual and Emergency Action Plan.
+
+  53. Although specific CE activities applicable to relevant Project activities are integrated into Component 1 and 2, support
+      will be made available under Component 3 for general outreach activities that cut across all Project sub-components.
+      Specific activities to be financed include: (i) the development and implementation of a comprehensive GRM to collect
+      and respond to issues encountered by beneficiaries, system users, other system stakeholders, as well as the general
+      population, including links between the GRM and M&E systems in order to improve Project monitoring data; (ii) the
+      development of a comprehensive CE strategy and national consultation mechanism to ensure that all relevant
+      stakeholders, including beneficiaries and vulnerable population groups, are consulted about the Project design and
+      implementation on at least an annual basis and the feedback from those consultations is fed back into the
+      implementation plan and design of Project-financed citizen-centric services; (iii) research to inform the design and
+      implementation of Project-financed services; and (iv) implementation of the Project Stakeholder Engagement Plan (SEP).
+
+  Component 5: Contingent Emergency Response (CERC) (US$0 million equivalent)
+
+  54. Contingent Emergency Response Component (CERC) (USD 0): following an eligible crisis or emergency, the Borrower
+      may request the World Bank to re-allocate Project funds to address emergency cases creating public sector business and
+      services disruption. A CERC has an initial zero value but may be financed during the Project to allow for agile response to
+      emerging emergency events. Adding the component during Project preparation, albeit with zero funding, provides for
+      the flexibility to respond to crises, as they arise. If the CERC were to be triggered, at the request of the Borrower,
+      simplified procurement procedures shall apply during the emergency for civil works and goods purchase related to
+
+
+February 10, 2022                                                                                                     Page 18 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       emergency response and recovery. This component would draw from the uncommitted loan resources under the Project
+       from other Project components to cover the emergency response. The current Project management structure will remain
+       the same for implementation of the CERC activities.
+
+  .
+  .
+  Legal Operational Policies
+                                                                         Triggered?
+
+   Projects on International Waterways OP 7.50                           No
+
+   Projects in Disputed Areas OP 7.60                                    No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+55. The Project is expected to have positive impacts. The planned activities aim to enhance the growth of MSMEs through
+    provision and enabling of financial and TA and business environment improvements. The Project will target its support
+    to public and private sector MSMEs with the aim of enhancing enterprise growth through applicable and competitive
+    business support. The beneficiaries of the Project will be in various sectors, such as food and agriculture, forestry,
+    education, construction, transportation, logistics and storage, hospitality services, consulting, and business support
+    services, etc.
+
+56. The main activities that could have social and environmental impacts are the MSME support activities described under
+    Components 1 and 2. Activities under these components might involve impacts such as related to capacity
+    building/training –TA – events/information & communication campaign - investments and/or products that are expected
+    to be small, minor or moderate, not requiring major civil works and developed using new and energy efficient
+    technologies. Component 2 will include support for a Partial Credit Guarantee (PCG) Fund and developing Financial
+    Services for MSMEs. The PCG is expected to guarantee SME loans to support the life cycle of a company (establishment,
+    investment, working capital, asset-based lending, lines of credit). Environmental and Social Management System (ESMS)
+    for PCG fund need to be established as described in the ESMF including E&S system and sub-project screening and
+    monitoring. In addition, a negative list of investment Projects that the guarantee fund cannot support (including but not
+    limited to alcohol, tobacco, wildlife, radioactive materials, gambling and firearms), as well as conditions for investment
+    Projects that can be supported under specific parameters and dimensions in order to mitigate their environmental risk.
+    Some types of minor impacts that are expected from the TA/training/capacity building/information campaigns under
+    components 1 and 2 are:
+
+                - Service offer provided by the Project is known by the public and more particularly by the beneficiaries/SMEs
+                - An increase in the productivity of support institutions and SMEs
+                - An increase in the capacity and performance of SMEs to submit solid applications and manage contracts
+
+57. However, the Project is anticipated to have environmental and social (E&S) risks and impacts related to:
+     i. minor civil works especially under Components 1 and 3, where there may be limited investment in upgrading
+        CAPMEA and the CMCAA's offices and renting office space in Bangui and 2-3 other cities.
+
+
+February 10, 2022                                                                                                  Page 19 of 29
+              The World Bank
+              CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+        ii.   small-scale development works envisaged under Component 2 where Partial Credit Guarantee Fund will be
+             supported for which an ESMS will be developed including screening and monitoring of its sub-projects.
+        iii. risks of harassment both through online and face-to-face capacity building/training as a result of the creation of e-
+             services/e-commerce networks, through the digitalization of interfaces through some development of systems on
+             payment of tax that focus on citizens and businesses (especially women entrepreneurs) (iv) expansion of
+             transmissible diseases (STI, HIV/AIDS, Covid-19) given that through the beneficiary agencies, the Project will be able
+             to reach a wide range of businesses, disseminate training, information, and work with the government to improve
+             CAR’ business environment. In addition, labor influx in different cities may lead to the spreading of communicable
+             diseases and a number of other safety and health risks to (communities and workers); (v) risks of sexual exploitation
+             and abuse (SEA) and sexual harassment (SH) specific to the Project; (vi) risks of insecurity, the Project is intending
+             to be implemented in urban, peri-urban or rural areas in the country. Unfortunately, there may be the presence of
+             non-state army groups in these areas; (vii) Risks of exclusion of some MSMEs led by women and other vulnerable
+             individuals; (viii) borrower’s low capacity to manage project-related E&S risks and impacts in a manner consistent
+             with the Environmental and Social Standards (ESS); (ix) limited capacity and experience of the client for effective
+             stakeholder engagement; and (x) limited familiarity of the PIU with the overall Environmental and Social Framework
+             (ESF).
+
+58. The Project is being implemented under the ESF and is rated Substantial for Social Risks and Moderate for
+    Environmental Risks. Therefore, the Environmental and Social Risk of the Project is classified as Substantial. The relevant
+    ESSs are: ESS1 (Assessment and Management of Environmental and Social Risks and Impacts; ESS2 (Labor and Working
+    Conditions); ESS3 (Resource Efficiency and Pollution Prevention and Management); ESS4 (Community Health and Safety);
+    ESS7 (Indigenous Peoples/Sub-Saharan African Historically Underserved Traditional Local Communities); ESS9 (Financial
+    Intermediaries); and ESS10 (Stakeholder Engagement and Information Disclosure). ESS5 (Land Acquisition, Restrictions
+    on Land Use and Involuntary Resettlement); ESS6 (Biodiversity Conservation and Sustainable Management of Living
+    Natural Resources) and ESS8 (Cultural Heritage) are not relevant.
+
+59. Environmental Risks. Key environmental risks are related to (i) minor civil works especially under Component 1, where
+    there may be limited investment in upgrading CAPMEA and the CMCAA's offices and developing additional physical
+    presences in Bangui and 2-3 other cities. (ii) small-scale development works envisaged under Component 2 where Partial
+    Credit Guarantee Fund will be supported for which an ESMS will be developed including screening and monitoring of its
+    sub-projects.
+
+60. Social Risk Issues. Key social risks are those related to: (i) expansion of transmissible diseases (STI, HIV/AIDS); (ii) Risk of
+    Covid-19 (iii) risks of sexual exploitation and abuse (SEA) and sexual harassment (SH) specific to the Project; (iv) risks of
+    insecurity; (v) Risks of exclusion of some MSMEs led by women and other vulnerable individuals; (vi) borrower’s low
+    capacity to manage project-related E&S risks and impacts in a manner consistent with the Environmental and Social
+    Standards (ESS); (vii) limited capacity and experience of the client for effective stakeholder engagement; and (viii) limited
+    familiarity of the PIU with the overall Environmental and Social Framework (ESF).
+
+61. SEA/SH Risks: Due to the nature of the activities (especially TA , training, grants, credit) that will be provided to MSMEs
+    that are mostly owned by women and women entrepreneurs, there are risks of SEA/SH that may arise. Therefore, to
+    mitigate this risk, procedures such as an SEA/HS assessment and action plan will be required. In addition, a code of
+    conduct and awareness of sexual exploitation and abuse, especially among all service providers, will also be needed. It is
+    also worth noting that the Project’s Grievance Redress Mechanism will consider SEA/SH/ related complaints proces s.
+
+
+
+February 10, 2022                                                                                                    Page 20 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+62. Risks of exclusion of some MSMEs led by women and other vulnerable individuals. As this Project involves the selection
+    of MSMEs and entrepreneurs, strategic approaches need to be developed in the SEP to ensure that there is no exclusion
+    or discrimination of certain MSMEs, those owned or run by women and other vulnerable people. In addition, after
+    capacity building some MSMEs will have an increasing need for employees. These strategic approaches will also be
+    applied to the process of recruiting people to ensure that certain qualified vulnerable people especially among IDPs,
+    Indigenous People, ethnic minorities, youth, women, etc. are not excluded. The Project will continue to ensure inclusion
+    of vulnerable social groups through its all-inclusive stakeholder engagement plan (SEP). In fulfilment of ESS10 objectives
+    and requirements, the Project will be required to prepare and an SEP prior to Project appraisal.
+
+
+63. Risk of HIV/AIDS transmission: Labor influx in different cities may lead to the spreading of communicable diseases and
+    a number of other safety and health risks to (communities and workers), especially risk of transmission of STI and
+    HIV/AIDS cases. The client should incorporate awareness raising sessions and preventive materials into the workers'
+    health and safety plan and the ESMP.
+
+64. COVID-19 risks: Current COVID-19 related risks of dissemination, and further uncertainties concerning new waves or
+    variants, will contribute to increase social risks for community-based activities. In order to mitigate likely health risks
+    emanating from COVID-19 the Project will ensure that all MSMEs mobilization activities, mass gatherings, meetings,
+    workshops, training, will scrupulously respect the national provisions on social distancing and other rules set by the
+    national legislation in force in CAR (since March 2019) and according to the standards of the World Health Organization
+    and World Bank. These rules which will be adopted by each beneficiary groups, companies and firms aim to ensure that
+    persons involved are safe.
+
+65. Insecurity risks for Project workers and beneficiaries. The Project is intending to be implemented in urban, peri-urban
+    or rural areas in the country. Unfortunately, there may be the presence of non-state army groups in these areas. Thus,
+    the risk of attacks on Project workers beneficiaries/MSMEs as well as their personnel should be considered. The Recipient
+    will carry out prior to appraisal a security risks assessment and prepare, disclose, consult upon, adopt, and implement a
+    Security Management Plan consistent with the requirements of ESS4, and in a manner acceptable to the World Bank.
+    The Security management plan will include appropriate security risk mitigation measures to protect Project workers and
+    beneficiaries. SRA/SMP will be prepared prior to appraisal and annexed to ESMF. In addition, the security screening of
+    sites shall be done prior to commencement of Project activities (events, works, trainings, etc.) in all Project areas and all
+    bidding documents need to include Security Management Plan (SMP) requirements for contractors.
+
+66. Indigenous people in Sub-Saharan African are historically underserved traditional local communities. The Project has
+    the intention to work with MSMEs in the southwest region where Indigeneous Communities in particular IPs (Aka/
+    Bayaka) are present in 4 areas: namely in Ombella-Mpoko, Sangha-Mbaéré, Lobaye and Mambere-Kadei prefectures. If
+    the Project targets some beneficiaries these prefectures (especially Lobaye which is along corridor), the client will ensure
+    that such communities are appropriately informed and can share in the benefits of the Project in an inclusive and
+    culturally appropriate manner (for example, jobs within MSMEs) with provisions included in the SEP, even if there will
+    be no direct impact to the Indigenous Peoples/Sub-Saharan Historically Underserved Traditional Local Communities or
+    their natural resource base within the suggested Project interventions.
+
+67. Environmental and Social Risk Management Instruments. To mitigate against environmental and social risks, the Project
+    will develop, disclose, and implement the following instruments:
+
+
+
+
+February 10, 2022                                                                                                 Page 21 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+68. The Recipient and the World Bank will jointly prepare an Environmental and Social Commitment Plan (ESCP) by
+    appraisal, which will include material measures and actions to which the Recipient is committed, for the preparation and
+    implementation of the other environmental and social plans or instruments during Project implementation, including the
+    timeline for each of these. The implementation of any commitment included in the ESCP will be monitored and reported
+    to the World Bank. The ESCP, which is itself legally binding, will be a negotiated document. The key applicable
+    environmental and social standards in the Project are listed below.
+
+69. ESS1: Assessment and Management of Environmental and Social Risks and Impacts . An Environmental and Social
+    Management Framework (ESMF) for the screening, assessment, and management of the Project’s environmental and
+    social risks and impacts has been prepared by appraisal. It has included templates for preparing Environmental and Social
+    Management Plans (ESMPs) which will adequately cover environmental and social mitigation measures and procedures
+    as necessary, which has site-specific. The ESMP will also outline the implementation arrangement to be put in place for
+    environmental and social risk management, as well as compliance monitoring and reporting requirements.
+
+70. ESS2: Labor and Working Conditions. The Recipient has prepared, validated, cleared by the Bank and publicly disclosed
+    before appraisal a Labor Management Procedures (LMP) as annex of ESMF that defines how Project workers will be
+    managed in accordance with the requirements of national law and ESS2. The LMP has included terms and conditions of
+    employment, non-discrimination and equal opportunity, the establishment of worker’s organizations, and OHS measures
+    for employees. Labor influx is likely to be minor as civil works are expected to be also minor. In addition, the Project has
+    an overall moderate risk of SEA/SH related to the nature of activities (especially TA, capacity building and face-to-face
+    training initiatives where available, grants, credit, etc.). However, Project has undertaken screening to confirm the risk
+    rating, and to define any other relevant measures to prevent SEA/H risks that has been included in a specific SEA/SH
+    Action Plan. The LMP has set out grievance arrangements for Project workers as well as codes of conduct that also address
+    SEA/SH, and has incorporated labor requirements into Environmental, Social, Health and Safety (ESHS) specifications of
+    the procurement documents and contracts with contractors and supervising firms, including provisions that address
+    SEA/SH risks
+
+71. ESS3: Resource Efficiency and Pollution Prevention and Management. Due to the nature of the Project, no significant
+    use of natural resources is expected from the Project activities, as these will be limited. The quantities of hazardous waste
+    are expected to be small due to the nature of the Project activities - mainly electronic waste and other miscellaneous
+    waste created during the rehabilitation or equipping of offices. The ESMF has set out measures to address the
+    management of various wastes arising from the Project activities, pollution management and control, and resource and
+    energy efficiency in line with national laws and regulations, ESF, WBG EHSGs, and GIIP. Office space expansion related
+    Project activities might involve dealing with asbestos in the existing buildings. Handling and final disposal of asbestos and
+    other hazardous materials and waste will be done according to national laws and regulations, ESF, WBG EHSGs, and GIIP,
+    as described in the ESMF. Project does not have significant GHG emission, hence GHG accounting is not needed.
+    Enhancing the growth of MSMEs through financial and TA will mean an increase in their productivity (increased inputs,
+    increased amounts of waste, increased travel, etc.) and, if adequate measures are not put in place, an increase in their
+    ecological footprint. The accompanying manual and training program for companies, NGOs, MSMEs, should focus on
+    training on new techniques and technologies and the most resource-efficient and environmentally friendly measures as
+    well as setting up environmental management systems in MSMEs.
+
+72. ESS4: Community Health and Safety. The Project activities may have negative risks and impacts on the community health
+    and safety surrounding the digital or rehabilitation works sites. These risks and impacts have been evaluated in the ESMF,
+    which has included community guidelines that provide for specific prevention and mitigation measures related to design
+    and minor civil construction, labor, water sustainability, health, community safety, and general work site-related hazards.
+
+February 10, 2022                                                                                                 Page 22 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       In addition, although the likelihood of face-to-face trainings taking place is low, a COVID 19 protocol will be prepared and
+       implemented by the Project in case such trainings take place, to minimize the risk of infection.
+
+73. Occupational Health and Safety (OHS). To ensure health and safety of (civil and community workers, etc.) and any other
+    person that can be affected by Project activities (minor construction) and operational phases, contractors will develop
+    and implement a Health, Safety and Environmental plan in line with World Bank Group Environment, Health and Safety
+    Guidelines (for construction/rehabilitation activities), and International Good Practices.
+
+74. An SEA/SH assessment and associated Action Plan as annex of ESMF has been prepared by the Recipient by appraisal.
+    It has analyzed the risk on online harassment (especially of women beneficiaries), face-to-face trainings and has
+    recommend measures to address this risk. In addition, the ESMF has also provided an analysis of the current security
+    situation, and the risks of EAS/SH for Project staff and beneficiaries. Through the SEA/SH Action Plan, the Project will put
+    into place a series of prevention, mitigation, and response measures to address identified SEA/SH risks. The mitigation
+    measures to be implemented have been selected in accordance with the risk rating that is ultimately attributed to the
+    Project, but usually include at a minimum an accountability and response framework, codes of conduct and related
+    trainings, as well as community consultations and an awareness-raising strategy to sensitize personnel and stakeholders
+    around SEA/H risks. The framework has specified how SEA/SH complaints will be treated ethically, safely, and
+    confidentially and in accordance with guiding principles for survivor-centered care, such as through a GRM and response
+    protocol to include a mapping of locally available structures that offer quality services. Any stakeholders’ consultations
+    with (young girls, women, and female entrepreneurs) in targeted groups will be conducted in safe and enabling
+    environments, including in sex-segregated groups and with female facilitators, in order to obtain their inputs on planned
+    activities and understand female entrepreneurs, women, young girls and adolescents’ risks and vulnerabilities to SEA/SH.
+    Finally, monitoring SEA/SH risk and impacts have been included as part of the overall Project M&E systems, and the
+    Project will look for opportunities to collaborate with other Projects addressing SEA/H risk mitigation in CAR where this
+    is feasible.
+
+75. Security assessment. If activities take place in areas (urban, peri-urban or rural areas in the country) facing security risks
+    for Project workers and beneficiaries that would require protection by security, it will be ensured that the security
+    personnel follow a strict code of conduct in line with community health and safety considerations (under ESS4) and
+    specifically address SEA/SH, and avoid any escalation of incidents, taking into consideration the needs of Project workers
+    and beneficiaries. As indicated above, a Security Risk Assessment (SRA)/Security Management Plan (SMP) has been
+    prepared by the Project prior to appraisal. Mitigation measures have been defined in this plan to avoid, reduce or mitigate
+    the identified risks to workers, beneficiaries and Project assets.
+
+76. ESS5: Land Acquisition, Restrictions on Land Use, and Involuntary Resettlement. Land acquisition, Restrictions on Land
+    Use and Involuntary Resettlement due to Project activities are not expected. However, the Project could support small
+    work and rehabilitation, but they will be carried within the existing facilities. If small work and rehabilitation works
+    requires private and public land acquisition, this standard will be relevant, and the associated instruments (RPF/RAP) will
+    be prepared.
+
+77. ESS6: Biodiversity Conservation and Sustainable Management of Living Natural Resources . This standard is considered
+    not relevant to the Project at this time. Project related activities are not expected to affect biodiversity.
+
+78. ESS7: Indigenous Peoples (IPs)/ Sub-Saharan African Historically Underserved Traditional Local Communities. The
+    Project has the intention to work with MSMEs in the southwest region where Indigenous Communities in particular IPs
+    (Aka/ Bayaka) are present in 4 areas: namely in Ombella-Mpoko, Sangha-Mbaéré, Lobaye and Mambere-Kadei
+
+February 10, 2022                                                                                                   Page 23 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       prefectures. If the Project targets some beneficiaries these prefectures (especially Lobaye which is along corridor), the
+       client will ensure that such communities are appropriately informed and can share in the benefits of the Project in an
+       inclusive and culturally appropriate manner (for example, jobs within MSMEs, awareness sessions, etc.) with provisions
+       included in the SEP.
+
+79. However, if during the implementation, potential adverse effects on IPs are identified, those adverse effects are avoided,
+    minimized, mitigated, or compensated.
+
+80. As impacts on IPs are unavoidable, an Indigenous Peoples Plan (IPP) is in process of preparation in accordance with the
+    requirement of ESS-7 prior to start of activities under component 2. IP’s Consultations are being carried out in accordance
+    with the requirements of ESS7. As the Project will have no significant impact on the social norms/practices of the
+    indigenous peoples because they are not directly concerned IPs' Free, Prior and Informed Consent (FPIC) will not be
+    required. However, IPs’ Free, Prior and Informed Consent (FPIC) will be required if the Project will:
+       (a) have adverse impacts on land and natural resources subject to traditional ownership or under customary use or
+            occupation;
+       (b) cause relocation of IPs from land and natural resources subject to traditional ownership or under customary use
+            or occupation; or
+       (c) have significant impacts on IPs’ cultural heritage that is material to the identity and/or cultural, ceremonial, or
+            spiritual aspects of the affected IPs’ lives.
+81. ESS8: Cultural Heritage. This standard is considered not relevant to the Project at this time. The Project intervention
+    does not involve any civil works that could affect cultural heritages.
+
+82. ESS9: Financial Intermediaries. ESS9 is currently considered relevant to the Project since component 2 will support the
+    establishment of a Partial Credit Guarantee (PCG) instrument. Therefore, the PCG should be considered as a beneficiary
+    FI in the context of the Project and should meet ESS9 requirements: The Project involves financial intermediaries: (i)
+    directly because the PCG will be a regulated financial institution that will directly be a beneficiary of the proceeds of the
+    proposed financing; and ii)-indirectly because other FIs operating in CAR will make use of the PCG to guarantee SME
+    loans. Since the PCG has not been established yet, it is not yet clear which FIs will participate in the scheme proposed by
+    the PCG. However, it is expected that regulated banks and microcredit organizations operating in CAR will use the PCG.
+    In this context, ESS9 requirements that are expected to be met by the PCG are as follow:
+
+83. The PCG will put in place and maintain an ESMS to identify, assess, manage, and monitor the environmental and social
+    risks and impacts of loans guaranteed. The ESMS will be prepared, disclosed, consulted upon approved, adopted prior to
+    disbursement for the capitalization of the PCG.
+
+84. The government will develop (and access to the PCG will contingent upon compliance with the terms of) a negative list
+    of investment Projects that the guarantee fund cannot support, as well as conditions for investment Projects that can be
+    supported under specific parameters and dimensions in order to mitigate their environmental risk.
+
+85. The ESMS will be commensurate with the nature and magnitude of environmental and social risks and impacts of the
+    guaranteed subprojects, the types of financing, and the overall risk aggregated at the portfolio level.
+
+86. The PCG’s ESMS will include the following elements: (i) environmental and social policy; (ii) clearly defined procedures
+    for the identification, assessment and management of the environmental and social risks and impacts of subprojects; (iii)
+    organizational capacity and competency; (iv) monitoring and review of environmental and social risks of subprojects and
+    the portfolio; and (v) external communications mechanism. Furthermore, the PCG will develop protocols to ensure that
+
+February 10, 2022                                                                                                 Page 24 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       the FIs participating in the guarantee scheme follow the ESMS in the context of the guaranteed loans’ underwriting
+       process.
+
+87. The PCG will comply with any exclusions in the legal agreement and apply relevant national law for all PCG’s guaranteed
+    subprojects. In addition, the PCG will apply the relevant requirements of the ESSs to any PCG’s guaranteed subproject
+    that involves resettlement (unless the risks or impacts of such resettlement are minor), adverse risks or impacts on
+    Indigenous Peoples or significant risks or impacts on the environment, community health and safety, labor and working
+    conditions, biodiversity or cultural heritage.
+
+        Environmental and Social Management System/Environmental and social policy:
+
+88. The environmental and social policy of the PCG will be endorsed by the PCG’s senior management and will include
+    organizational commitments, objectives, and metrics with regard to the PCG’s environmental and social risk
+    management.
+
+89. The policy will clearly state applicable requirements for PCG’s guaranteed subprojects, and will include the following: (a)
+    All PCG’s guaranteed subprojects will be prepared and implemented in accordance with relevant environmental and
+    social national and local laws and regulations; (b) All PCG’s guaranteed subprojects will be screened against exclusions in
+    the legal agreement; (c) All PCG’s guaranteed subprojects will be screened for environmental and social risks and impacts;
+    (d) All PCG’s guaranteed subprojects which involve resettlement (unless the risks or impacts of such resettlement are
+    minor), adverse risks or impacts on Indigenous Peoples or significant risks or impacts on the environment, community
+    health and safety, labor and working conditions, biodiversity or cultural heritage will apply relevant requirements of ESSs.
+
+90. ESS10: Stakeholder Engagement and Information Disclosure. In consultation with the Bank, the Borrower has prepared
+    and disclosed prior to appraisal a Stakeholder Engagement Plan (SEP) proportional to the nature and scale of the Project
+    and its associated risks and impacts, to be implemented and updated as needed throughout the Project lifecycle. The
+    objective of the SEP is to establish a systematic approach for stakeholder engagement, maintain a constructive
+    relationship with them, consider stakeholders’ views, promote and provide means for effective and inclusive engagement
+    with stakeholders and beneficiaries throughout the Project life cycle, and ensure that appropriate project information is
+    disclosed to stakeholders in a timely, understandable, culturally accessible and appropriate manner, which is free of
+    manipulation, interference, coercion, discrimination and intimidation. To ensure this, the Borrower would need, to
+    engage in meaningful consultations with all stakeholders while paying attention to the inclusion of vulnerable and
+    disadvantaged groups. The SEP has also included outreach programs to ensure that vulnerable groups, especially Women,
+    IDPs, IPs, Young Girls, Disabilities, etc., are aware of the Project activities (awareness and training sessions, recruitment
+    within MSMEs, etc.). Since we are in a context of a COVID-19 crisis, measures will be put in place to prevent or minimize
+    the spread of the infectious disease/COVID-19 in the community. Community consultations with women, female
+    entrepreneurs and girls that are related to SEA/SH risk mitigation will be conducted in safe and enabling environments,
+    such as in sex-segregated groups and with female facilitators. The Project will need to identify and consult with relevant
+    stakeholders who could promote increased recruitment and encourage retention of female workers, and female
+    participants to contribute to ensuring a female-friendly environment for Project’s beneficiaries.
+
+91. Grievance Redress Mechanism (GRM). The Project will set up a Project-specific Grievance Redress Mechanism (GRM),
+    sensitive to SEA/SH issues, and the ethical treatment and resolution of such complaints that is proportionate of the
+    potential risks and impacts of the Project. The Grievance redressal committee (GRC) will include women and persons
+    with disability to make it more inclusive. The GRM would also be used for overall Project-related issues, including social
+    and environment safeguards related. Furthermore, the GRM will also serve as a platform for continuous feedback from
+
+February 10, 2022                                                                                                 Page 25 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       project-affected communities, other interested stakeholders and implementing partners. The Project specific GRM will
+       be outlined in the Stakeholder Engagement Plan for people to report concerns or complaints. Elements will include: (i)
+       the development of a comprehensive communication strategy for each Project target area as well as the preparation of
+       all communication materials in accessible form to people with low literacy, disabilities and specially targeted to women
+       to create awareness and disseminate Project information, (ii) private sector and citizens forum to disclose and receive
+       feedback on Projects semi-annual reports, (iii) ensuring that the GRM will also be sensitive to receive and manage project-
+       related GBV (Gender Based Violence) complaints in a confidential manner, and (iv) beneficiary surveys.
+
+92. Institutional capacity. The Project will be implemented under the tutelage of the Ministry of SMEs and Private Sector
+    Development and it will be assisted by a new Project Implementation Unit (PIU) that possesses the skills to plan, budget
+    and organize the activities. The new PIU will be operational prior to effectiveness and will be strengthened with long
+    term qualified social and environmental safeguards experts, with high expertise on issues of inclusion and gender. The
+    new PIU will be in charge of Project implementation, fiduciary management and E&S risks management for the Project.
+    Project funds will ensure that the PIU will be equipped with enough resources to handle management (prepare, monitor,
+    supervise, etc.) E&S risk and impacts of several Projects especially in challenging contextual environment.
+
+93. The leadership will be anchored in the Ministry of Small and Medium-Sized Enterprises and Private Sector Development.
+    A steering committee whose role is to supervise, decide and coordinate, and monitor the strategic orientations of the
+    Project according to sectors, will be created by inter-ministerial decree and will be headed by the SME Ministry. The
+    Steering Committee will be composed of the following: The Ministry of Planning, the Economy and International
+    Cooperation, the Ministry of Small and Medium-Sized Enterprises & Artisans, the CMCAA, CAPMEA, the Ministry of
+    Finance and Budget, The Ministry of Environment, The Ministry of Woman Affairs, the Ministry of Commerce, and
+    Industry, GICA, UNPC, the Chamber of Commerce and the National Director’s Office of the BEAC.
+
+94. Implementation capacity will need to be strengthened at all levels, especially given limited knowledge and experience in
+    implementing WORLD BANK ESF requirements. However, experience from other Bank-financed Projects highlight that
+    the capacity to manage E&S risks and impacts still requires considerable improvement in areas of supervision, monitoring,
+    and reporting. In addition, the CAPMEA, the CMCAA, the Ministry of SMEs and Artisans do not have ESF experience and
+    will require training and capacity building regarding WORLD BANK ESF. Team will therefore prepare and implement a
+    capacity building and training program to help the Borrower manage E&S risk throughout the Project timeline.
+
+
+   E. Implementation
+
+    Institutional and Implementation Arrangements
+
+95. Strategic and technical implementation arrangements will be established, to steer the implementation of the Project.
+    As shown in the figure below, a high-level Project Steering Committee (CPP21) will be created to provide strategic
+    orientation, approve, and adopt the strategic vision for developing the private sector along the dimensions of the Project
+    (reforms, linkages, A2F, skills) the associated roadmap and annual reports. It will be headed by the Minister of SMEs and
+    Private Sector Development and composed of relevant ministers22. This committee will ensure ownership of the Project
+    at the highest levels of government as well as consistency and coordination within public agencies across the work
+
+            21
+              Comité de Pilotage du Projet
+            22
+              Including the Minister of Finance and Budget, the Minister of Economy, Planning and International Cooperation, the Minister
+            of Commerce and Industry and the Governor of the National Bank.
+
+February 10, 2022                                                                                                         Page 26 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+       program. The Project Technical Committee will focus on technical input to Project components and information sharing,
+       while creating a structure to enhance robust cross-agency coordination imperative for Project activities. The Technical
+       Committee is proposed to be led by the PIU Coordinator and be composed of the focal points of the key ministries
+       supported by the Project and representatives of key partner organizations (private sector representatives, the financial
+       sector, ACFPE).
+
+
+
+
+96. Project implementation will be managed by a PIU that will be recruited and fully operational prior to effectiveness. A
+    determination of PIU adequacy through an assessment of its financial management and other systems will be made
+    by the World Bank prior to effectiveness. The PIU will be within the Ministry of SMEs and Private Sector Development.
+    Prior to creating this new PIU, Project preparation will be managed by the implementation unit of the Public Expenditure
+    and Investment Management Reform Project (AGIR) (P161730) that will be responsible for implementing activities under
+    the Project preparation advance and setting up and training the new PIU. Recent financial management supervision
+    missions of AGIR have concluded that this unit has sound financial management arrangements to accommodate the new
+    Project. There are no ineligible expenditures, no overdue external audit as well as interim financial reports from this unit.
+    A coordinator will be recruited for the new PIU, as well as technical leads for each component. Along with the fiduciary
+    staff, they will be responsible for the coordination, oversight, and fiduciary implementation of the Project. The technical
+    leads will be responsible for the achievement of the results of each component, in close collaboration with the focal
+    points at the technical Ministries and agencies. The PIU will be tasked with ensuring fiduciary management (financial
+    management and procurement) and will also coordinate the preparation of Annual Workplan, procurement plans with
+    inputs from the beneficiary agencies, as well as their implementation.
+
+
+February 10, 2022                                                                                                 Page 27 of 29
+            The World Bank
+            CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+97. Disbursements for the partial credit guarantee mechanism will be contingent to the compliance of the FNGI with
+    recognized good practices. Institutional, regulatory, and financial arrangements will have to be prepared to the
+    satisfaction of the World Bank. The specific disbursement requirements and conditions will be included in the financing
+    agreement. To ensure FNGI is compliant with global good practices, the proposed financing will provide significant TA
+    and the World Bank will also provide implementation support by mobilizing global experts to support the CAR’s
+    authorities. Annex 5 provides an analysis principle by principle on the prospective structuring of the FNGI in light of OP.10
+    requirements. Furthermore, the Project will comply with ESS9 prior to capitalization. A negative list of types of businesses
+    and/or sectors will be developed to ensure the operations of the FNGI are compliant with the World Bank’s E&S policies.
+
+98. To ensure the partial credit guarantee mechanism complies with global good practices and due diligence requirements
+    included in the World Bank Operational Policy (OP).10 policy, the disbursements will be structured in two parts. The
+    disbursements will proceed as follows: first disbursement of US$2.5 million when the PCG is established in compliance
+    with global good practices as defined in the Project’s operations manual (included, but not limited to internal policies,
+    governance structure, independent supervision, financial reporting, business model and signature of Memorandum of
+    Understanding (MoUs) with PFIs); second disbursement of US$2.5 million when outstanding credit guaranteed reaches
+    60 percent of the total maximum credit amount guaranteed (assuming a leverage ratio of 2 maximum 3).
+
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Jeremy Robert Strauss
+      Senior Private Sector Specialist
+
+      Jean Michel Lobet
+      Senior Financial Sector Specialist
+
+      Borrower/Client/Recipient
+      Ministère des Finances et du Budget
+
+
+
+
+      Implementing Agencies
+
+      Ministère de PME et de la Promotion du Secteur Privé
+      Sylvestre Kassay-Kain
+      Inspector Central
+      sylvestrekassay@gmail.com
+
+
+
+
+February 10, 2022                                                                                                 Page 28 of 29
+           The World Bank
+           CAR Investment and Business Competitiveness for Employment (P176274)
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+    APPROVAL
+
+
+                                         Jeremy Robert Strauss
+   Task Team Leader(s):
+                                         Jean Michel Lobet
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                     Han Fraeters                         15-Feb-2022
+
+
+
+
+February 10, 2022                                                                           Page 29 of 29
+

@@ -1,0 +1,775 @@
+﻿         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+
+
+                        Project Information Document (PID)
+
+                       Concept Stage | Date Prepared/Updated: 13-May-2021 | Report No: PIDC31588
+
+
+
+
+Apr 19, 2021                                                                                       Page 1 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Peru                                           P176297                                                 STRENGTHENING THE
+                                                                                                         SCIENCE, TECHNOLOGY
+                                                                                                         AND INNOVATION
+                                                                                                         SYSTEM IN PERU - II
+                                                                                                         (P176297)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  LATIN AMERICA AND                              Oct 04, 2021               Dec 14, 2021                 Finance,
+  CARIBBEAN                                                                                              Competitiveness and
+                                                                                                         Innovation
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Ministerio de Economia y   CONCYTEC - Consejo
+                                                 Finanzas                   Nacional de Ciencia,
+                                                                            Tecnología e Innovación
+                                                                            Tecnológica
+
+   Proposed Development Objective(s)
+
+    To Increase the volume and innovation output of Peru’s public and private investments in Science and Technology in
+    targeted sectors and regions, with special focus on green recovery and growth
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                 125.00
+
+    Total Financing                                                                                                    125.00
+                             of which IBRD/IDA                                                                         100.00
+
+    Financing Gap                                                                                                         0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Bank for Reconstruction and Development (IBRD)                                                    100.00
+    Non-World Bank Group Financing
+
+
+
+Apr 19, 2021                                                                                                         Page 2 of 17
+           The World Bank
+           STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+
+         Counterpart Funding                                                                                                              25.00
+
+            National Government                                                                                                           25.00
+
+
+
+
+     Environmental and Social Risk Classification                              Concept Review Decision
+     Moderate                                                                 Track II-The review did authorize the preparation to
+                                                                              continue
+
+
+
+     Other Decision (as needed)
+
+
+     B. Introduction and Context
+
+     Country Context
+
+     1.       Despite a solid macroeconomic policy that has favored growth over the past two decades, Peru’s economy
+     remains highly dependent on a limited number of extractive activities. Driven by structural reforms and prudent
+     macroeconomic policies,1 real GDP growth rate averaged over 4.8 percent between 2000 and 2019, above the average
+     for Latin America and the Caribbean (LAC).2 However, even before the COVID-19 pandemic, GDP growth rates had slowed
+     to a little over 3 percent per year since 2014, in part due to lower international commodity prices and contracting external
+     demand. In the wake of the economic crisis brought on by the COVID-19 pandemic, GDP is expected to contract by 12
+     percent in 2020, which is one of the largest predicted drops in the world.3 Unemployment has increased from 3.6 percent
+     in the second quarter of 2019, to 8.8 percent in the same period of 2020. Given the continued volatility in global
+     commodity prices, Peru’s increasing dependence on extractive industries, which grew by 50 percent as share of GDP over
+     the past 30 years, presents a substantial risk to sustainable economic recovery and growth and underscores the
+     importance of economic diversification.
+     2.      Economic diversification in Peru has been increasing over the past decade, but at a slow pace, with agriculture
+     products and tourism services increasingly contributing to Peru’s expor ts basket. The mining sector continues to
+     dominate the economy representing 60 percent of total country exports, 60 percent of foreign exchange, and 12 percent
+     of GDP in 2019.4 However, agricultural exports have expanded from 0.4 percent of GDP in 2001 to an estimated 2.7
+     percent of GDP in 2019 (equivalent to US$6 billion). Seasonal exports to the northern hemisphere of high-value fresh
+     fruits and vegetables (mostly grapes, avocados, blueberries, and asparagus) totaled US$2.5 billion or 1.2 percent of GDP.
+     Travel and tourism exports have also increased fivefold from $837 million in 2000 to over $4.5 billion in 2018. A much
+     smaller but rapidly growing sector is pharmaceuticals, medicinal chemical substances, and botanical products where in
+
+
+ 1 World Bank Group, Peru Overview.
+ 2 World Bank Group, Macro Poverty Outlook Update June 2020.
+ 3 World Bank (2020). Global Economic Prospects, June 2020.
+ 4 Sociedad Nacional de Mineria, Petroleo y Energia. and Gerencia de Información y Análisis Económico Gerencia Central de Estudios Económicos,
+
+ Actividad Económica Febrero 2020. Abril 2020.
+
+Apr 19, 2021                                                                                                                          Page 3 of 17
+           The World Bank
+           STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+     2018, production grew by 4 percent, but exports grew by 22.6 percent compared to the previous year totaling $76.3
+     million. All these exports are largely concentrated in high value-added products and services, which require significant
+     investments in technology, innovation, and upgrades in skills.
+     3.       Increasing productivity gains and competitiveness in tradable sectors remain critical for export diversification
+     and can directly contribute to the creation of better jobs in the Peruvian economy. Mining and manufacturing are the
+     most productive sectors of the economy, but represent only 1 and 9 percent of total employment, respectively.5 In
+     contrast, agriculture and commerce, despite accounting for the highest shares of employment, are the sectors with the
+     lowest productivity. Significant differences in agricultural productivity growth continue to exist between regions and
+     between categories of producers, and overall agricultural productivity in Peru remains low compared to other countries,
+     in spite of the very significant surges in the past decade in the export of high-value and innovation intensive products. In
+     the larger economy, productivity also varies substantially across firm size with the productivity MSME firms estimated to
+     be 6, 16, and 50 percent that of large firms in Peru (ECLAC, 2013), differentials that are greater than those observed in
+     many other countries in LAC and in several OECD countries.
+     4.     Limited productivity gains are explained in part by limited technology adoption and innovation development in
+     tradable sectors. Peruvian firms invest on average 2.5 percent of their sales in innovation, whereas their peers in Chile
+     invest 3.5 percent. Moreover, technology adoption (acquired through licenses of new technology and imported capital
+     goods), which is a way to move closer to the innovation frontier, is scarce. Only 7 percent of Peruvian firms have licensed
+     technology from abroad, half the LAC region average and 2.5 times less than in OECD countries. Data show that the
+     average age of firms that innovate is five years older and the average number of employees is 75 percent higher than
+     those of firms that do not innovate, and that young and small firms are particularly constrained by product market
+     competition and innovation issues and uneven access to innovation inputs 6.
+     5.      High-skilled work force constraints are also impacting competitiveness and productivity. Peru’s Human Capital
+     Index increased faster than most of its neighboring countries7 during the last decade, but this increase in the Index has
+     been mainly due to improvements in basic education and reduced chronic malnutrition or stunting. However, other
+     aspects of human capital, such as skills development, are still low, leading to a relatively high deficit in skilled workforce
+     in Peru compared to other countries.8 Women, in particular, despite being more likely to attend university than men, are
+     much less likely to study STEM fields9 (science, technology, engineering, and math) or pursue a doctorate program. There
+     are similar disparities in the labor market – women who study STEM fields are less likely to enter STEM careers and tend
+     to exit them sooner, thus limiting women’s participation in the most trade-intensive sectors.10
+     6.      Finally, limited technology adoption and innovation are also constraining the country’s ability to address its
+     sizable social and environmental challenges, such as adequate access to health services, regional disparities, and
+     climate change. Peru has been extremely hard-hit by the COVID-19 pandemic – with 150 deaths per 100,000 population,
+     it is currently among the countries with the highest death toll from the pandemic – underscoring low levels of
+     epidemiological surveillance and public health preparedness.11 Peru also suffers from a substantial imbalance in the
+
+
+
+ 5 This result must be interpreted with caution given that mining and manufacturing are also the most capital-intensive sectors.
+ 6 World Bank. 2015. Peru – Building on Success: Boosting Productivity for Faster Growth. Washington, DC: World Bank Group
+ 7 From 0.55 to 0.61 during the last 10 years. Reference: Human Capital Project, The World Bank, 2020.
+ 8 Manpower Group. (2013). "2014 Talent Shortage Survey". http://www.manpowergroup.com/talent-shortage-explorer/
+ 9 World Bank. 2020. The Equality Equation: Advancing the Participation of Women and Girls in STEM. Washington, DC: World Bank Group.
+ 10 https://www.worldbank.org/en/topic/trade/publication/women-and-trade-the-role-of-trade-in-promoting-womens-equality
+ 11 https://coronavirus.jhu.edu/data/mortality. Retrieved March 11, 2021.
+
+
+
+Apr 19, 2021                                                                                                                       Page 4 of 17
+          The World Bank
+          STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  geographic concentration of economic activity, productivity, population, and institutional capacity.12 Finally, Peru is also
+  highly vulnerable to climate change. Observed and projected climate change impacts include rising temperatures,
+  extreme precipitation, and more frequent and severe occurrences of natural disasters, including flooding and droughts.
+
+
+  Sectoral and Institutional Context
+
+  7.      Research and innovation are powerful drivers of competitiveness, productivity, and economic diversification;
+  but also, a critical contributor to solutions for key developmental challenges such as climate change, inclusive growth,
+  and health. Globally, innovative companies have been shown to grow 15 percent faster in sales and 8 percent faster in
+  labor productivity than firms that do not innovate.13 Firm R&D expenditures significantly contribute to sales (by 14
+  percent) and labor productivity growth (by 7 percent). Innovation is also increasingly perceived as integral for tackling
+  environmental challenges and enhancing green growth, through the introduction of new technologies in climate change
+  mitigation, and through non-technological innovations, such as environmental management practices in manufacturing.
+  Scientific and technological innovation can also help address social challenges, such as health and demographic
+  challenges, social exclusion, poverty, and inequality. A country’s capability to produce, use, and commercialize scientific
+  research is critical for developing innovative solutions to key environmental and socio-economic challenges and for
+  acquiring and adapting innovation from abroad.
+  8.      In the case of Peru, both innovation pull and innovation push factors are inefficient and limit the ability of the
+  National Innovation System (NIS) to contribute to development challenges. The demand (by private sector firms and
+  society at large) and the supply of knowledge and R&D are both limited and misaligned. As far as Innovation push
+  dynamics are concerned14 i) Peru does produce some quality R&D outputs in specific areas of excellence,15 but it does
+  not produce enough R&D to create a critical mass with enough positive externalities for the economy, and ii) it does not
+  sufficiently transfer the quality R&D it does produce into innovation in the economy.
+  9.     The quality of research in Peru is relatively high in specific areas of excellence, but the volume of research
+  output is low. Peru ranks 6th in the quality of science among 48 Latin American countries and 58th globally (out of 238
+  countries) based on the h-index that measures the productivity and citation impact of scientific publications16. However,
+  Peru ranks only 74th globally in number of citable documents and 70th in number of citations, pointing at the low volume
+  of quality output in R&D. Medical research makes up the biggest share (almost 40 percent) of research output and has
+  the highest quality (52nd globally in h-index in medicine and 6th in Latin America), making it an area with a clear and strong
+  potential for knowledge and technology transfer. Engineering and Agriculture are also important areas of quality research
+  in Peru’s universities with potential for impact on the development of mining, fisheries, and food production.
+  10.    Quite remarkably, even in the areas where Peru sustains investment and demonstrates high quality in academic
+  R&D, outputs do not translate into an increase in innovation, revealing inefficient industry-academia linkages. Analysis
+  of WIPO data from 2017-2019 indicates that that the number of industrial design application and registration design
+  count, as well as the number of patent applications, has stayed relatively constant over the past decade in Peru. This gap
+
+
+ 12 Banco Interamericano de Desarrollo, Estimación del PIB Departamental y Análisis de la Desigualdad Regional en el Perú: 1795-2017.
+ 13 World Bank 2009; Seker 2012
+ 14 The Government of Peru has asked the World Bank to primarily focus on the innovation ‘push’ factors, and the IDB to primarily focus on the
+
+ innovation ‘pull’ factors, while acknowledging the need for close coordination and synergies between both.
+ 15 Peru’s h-index (in part based on number of citable scientific articles (quantity) the quality of scientific articles) in SCIMAGO – April 14, 2021 - is
+
+ better than in both Chile and Columbia.
+ 16 Sources: SCIMAGO, April 14, 2021; Slovenia, another country with similar h-index, and Chile.
+
+
+
+Apr 19, 2021                                                                                                                                     Page 5 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  between research and innovation is also reflected in the leading and research-intense universities, suggesting a challenge
+  among all institutions to transfer technology and knowledge. Figure 1 presents the research and global innovation
+  rankings17 (out of 3,897 ranked institutions) of the six leading universities in Peru over the past decade and shows that
+  their innovation rankings are currently much lower than their research ranking - and have declined precipitously over the
+  past few years.
+         Figure 1: University ranking (y-axis) in Research vs. Innovation of top 6 Peruvian universities. Source: March 2021, SCIMAGO
+
+
+
+
+  11.    There are multiple inefficiencies in Peru’s National Innovation System (NIS) that explain this low performance,
+  but evidence points to i) low quality of higher education, especially, but not only, at the higher end of the training chain
+  (doctoral programs) and outside Lima, and a corresponding insufficient number of qualified researchers; ii) inadequate
+  incentives and capacities for university-industry collaboration and knowledge/technology transfer; iii) substantial deficits
+  and poor allocation of public and private investments in R&D and innovation18; and iv) fragmented governance and
+  ineffective science, technology and innovation policies.
+  12.    Insufficient numbers of qualified researchers in academia directly contributes to very low quantities of quality
+  research output. According to the National Register of Science and Technology (RENACYT)19, in February 2021, there
+  were 5,942 full-time researchers20 in Peru, representing a rate of 0.3 researchers per thousand members of the working
+  economic population, which is well below the Latin American and Caribbean (1.3) or the OECD (12.7) average.21 74
+  percent of researchers are over the age of 40, and 43 percent are over the age of 50. In addition, only 31 percent of all
+  researchers are women. A 2019 comparative analysis22 finds that the share of female researchers in Peru is the lowest in
+
+ 17 The research ranking refers to the volume, impact, and quality of the institution's research output. The innovation ranking is calculated on the
+ number of patent applications of the institution and the citations that its research output receives from patents.
+ 18 Including technology uptake more broadly
+ 19 https://portal.concytec.gob.pe/georenacyt/
+ 20 The team is still trying to identify the proportion of PhD holders among these registered researchers, the data is not readily available.
+ 21 CONCYTEC. I National Research and Development Census to Research Centers 2016. Lima, 2016.
+ 22 UNESCO Institute for Statistics. 2019. Women in Science. Fact Sheet No. 55.
+
+
+
+Apr 19, 2021                                                                                                                            Page 6 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  Latin America pointing to important gender inequality and generational challenges that need to be addressed. For
+  example, horizontal and vertical occupational segregation by gender is a universal pattern in the health sector.
+  Researchers are also heavily concentrated in Lima (60 percent), followed by Arequipa with only 5.7 percent.
+  13.     The low number of researchers and the low volume and impact of R&D outputs is partly driven by the deficit in
+  the number of world class quality PhD programs in Peru, and the very low ratio of university faculty and research staff
+  with PhDs. Even though there are more than 400 doctoral programs in Peru and the number of graduates greatly exceed
+  those of neighboring countries (803 in Colombia, 807 in Chile and 2047 in Peru in 201823), a recent study of the University
+  Superintendency (SUNEDU)24 reflects that only 41 percent of the PhD programs in Peru are offered by high-performing
+  research universities and only 20 percent are in STEM areas and 13 percent in health. Furthermore, of the approximately
+  12,300 doctoral students registered in 2020, 9,800 were enrolled in the areas of education, law, administration, and
+  social sciences. Assuring and enhancing the quality of PhD programs in the country has a programmatic dimension
+  through curriculum and research content relevant for innovation-seeking private sector firms and a recruitment and
+  retention dimension through the creation of a pipeline of young researchers and positions for them to fill. This is further
+  exacerbated by regulatory restrictions on the incorporation of new staff in public research and academic institutions, and
+  lack of economic and institutional incentives to attract and retain talent. In addition, the relatively high average age of
+  researchers threatens the viability of the ecosystem and creates an urgent need to prepare or attract young qualified
+  PhD holders to fill faculty and research positions.
+  14.     Intellectual property and technology transfer policies and capacities are also suboptimal and very uneven
+  among different institutions, hindering the identification and support to knowledge with commercial potential, and
+  creating misaligned incentives for researchers. A survey of 78 universities25 revealed that only eight universities have
+  more than five dedicated people in their technology transfer offices. Technology transfer policies in the 16 Public
+  Research Institutes (PRI) in Peru are also highly variable with seven PRIs having no technology transfer policies at all, four
+  having policies that are only partially implemented, and only five institutes with fully implemented technology transfer
+  policies. Other key barriers to technology transfer include insufficient human capital specialized in technology transfer,
+  restrictive legal and regulatory frameworks for commercialization and technology transfer in different sectors,
+  insufficient or weak technology transfer offices, lack of financial and non-financial incentives, lack of knowledge of
+  relevance of research in innovation, etc.26 Finally, a 2016 report27 found that only a limited number of researchers and
+  engineers dedicate a substantial part of their work to R&D and innovation activities, partly driven by strict employment
+  regulations at universities and research centers.
+  15.    Low R&D outputs are also explained by low public investment in basic and applied research in Peru28. In 2019,
+  Peru invested 0.16 percent of GDP in R&D, which is an increase from 0.11 percent in 2016 (Figure 2), but still about half
+  of the average for the Pacific Alliance (Figure 3)29, and well below the OECD average of 2.4 percent. Post-COVID fiscal
+  constraints are already affecting public investments in STI, which had increased from $171 million in 2011 to $229 million
+  in 2019 only to fall back to $195 million in 2020. To preserve past gains and unleash further innovative potential, Peru
+  needs to substantially increase long-term investment in strategic areas of research and, in parallel, increase the impact
+
+
+ 23 OECD statistics for Colombia and Chile and SUNEDU (https://enlinea.sunedu.gob.pe/)
+ 24 La formación doctoral en el Perú, Oferta, admisión y matrícula en universidades licenciadas, Manuel Etesse, SUNEDU, 2021
+ 25 CONCYTEC. How are the offices in TT and IP in Peru today? 2020.
+ 26 Technopolis. “Unblocking and knowledge commercialization in Peru.�? 2016.
+ 27 Ibid.
+ 28 Although it has been slowly and steadily rising over the past few years, with some visible effect in the above-mentioned areas of excellence.
+ 29 RICYT 2017.
+
+
+
+Apr 19, 2021                                                                                                                               Page 7 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  of investments through improved linkages with the private sector and applied use of knowledge and research. This should
+  include funding for R&D outputs with potential commercial application, which is currently unavailable to researchers,
+  except for an embryonic pilot under the ongoing WBG financed project Strengthening the Science, Technology, and
+  Innovation System in Peru (STIS; P156250).
+            Figure 2: Composition of R&D research in Peru                             Figure 3: R&D Spending as % of GDP
+
+
+
+
+      Source: MEF – SIAF, INEI. Preparation: CONCYTEC-DIE          Source: RICYT 2017. Peru 2019. Preparation: CONCYTEC-DIE
+
+  16.     There are also systemic barriers on the part of the private sector that limit private sector investment in R&D
+  and constrain industry collaboration with academia. Like other Latin American countries, over two thirds of investment
+  in R&D in Peru weas made by the public sector (Figure 2). Almost all R&D investment in Peru is in basic and applied
+  science, and only 7.3 percent is in technological development30, which indicates market failures constraining private
+  sector investment, such as low appropriability or concentrated market power in some sectors that limits innovation-
+  driven competition. Most importantly, weak public-private dialogue leads to low relevance of much of the produced
+  research to market demand, as well as a lack of alignment with the country’s priority developmental challenges31. Low
+  relevance of research in turn leads to low interest by industries to collaborate with academia, resulting in a self-
+  perpetuating cycle. A stakeholder network mapping of the innovative entrepreneurship ecosystem in Lima32 found that
+  most of the relationships between actors reflect sporadic contacts (39.9 percent) with low level of joint work (16.7
+  percent). The industry innovation survey found that 83 percent of surveyed firms do not carry out activities involving a
+  link with research centers.33
+  17.    Limited funding for science-based business innovation and startups is another critical barrier to the
+  commercialization of R&D in Peru. Only 10 percent of startups survive more than five years, and financing is cited as the
+  second most frequent cause of failure.34 The market for risk finance is still very small but growing: between 2016 and
+  2018, only $21.8 million was invested in 54 startups, while in 2019 alone, the total number of investment in startups was
+  $20.9 million (Figure 4).35 Venture capital funds became the biggest source of investment in startups in 2019 representing
+  78 percent of all investments (Figure 4)36, driven by a large growth in international investment which accounts for over
+  two thirds of the market. The investment gap, however, remains huge (estimated at $145 million by 2022) (Figure 5),
+
+
+ 30 The share of R&D spent on technological development in OECD countries averages around 60 percent, driven by private investment.
+ 31 A 2020 study by CONCYTEC shows that of the notional 384 PhD programs in Peru, 11.5 percent were on topics in Education, while only 5.4
+ percent were on engineering and 4.1 percent on ICT with even fewer on other STI topics.
+ 32 IDB. “How to map and measure entrepreneurship ecosystems? Methodology and application for the innovative entrepreneurship eco system in
+
+ Lima.�? 2020.
+ 33Ministerio de la Producción. Encuesta Nacional de Innovación en la Industira Manufacterura y de Servicios Intensivos en Conocimiento. 2018.
+ 34 PwC. Entrepreneurial Capital Diagnostic. 2017.
+ 35 PECAP. “Report on Entrepreneurial Capital in Peru: 2016-2018.�?
+ 36 PECAP. Entrepreneurship Capital Report. 2019.
+
+
+
+Apr 19, 2021                                                                                                                         Page 8 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  pointing to risk aversion on the part of private investors to fund market readiness of innovation, which in turn contributes
+  to a weak pipeline of investment-ready scientific innovation that cannot attract funds at scale. This points to a critical
+            Figure 4: Investments in startups by type of investment      role for the public sector in de-risking private
+                                                                         investment and enlarging the pipeline at the
+  inception phase of the innovation lifecycle, particularly for disruptive technologies and university spinoffs.
+ Figure 5: Investment Gap. Source: COFIDE, PwC 2017
+
+
+
+
+  18.      Finally, institutional implementation capacity is low, starting with the governing body of the Science,
+  Technology, and Innovation (STI) system, CONCYTEC. Three main constraints continue to prevent it from effectively
+  fulfilling its role: i) despite being hosted in the Prime Minister’s Office, CONCYTEC does not yet benefit from sufficient
+  recognition of its transversal mandate; ii) insufficiently developed and uncoordinated digital management and accounting
+  systems do not allow CONCYTEC to have an accurate and timely overview of public expenditures on R&D and Innovation
+  across the various agencies and public institutions of the overall NIS; and iii) the financial and institutional arrangements
+  currently prevent CONCYTEC from directing its own funds to partner research and innovation support institutions and
+  programs in line ministries. This has resulted in a fragmented institutional context with instruments and policies that
+  require updating and strengthening to effectively support STI growth37. Recent analysis38 of NIS instruments in Peru found
+  that they cover 11 sectors or government entities, with several agencies and entities within each sector, and a large
+  concentration of expenditures on a small number of instruments. The analysis found a lot of overlap between the sectors,
+  with overlapping beneficiaries and interventions mechanisms, while private sector-focused instruments showed little
+  specialization in business types and needs and little emphasis on improving productivity and diversification. A Public
+  Expenditure Review39 was launched in 2018 as part of the ongoing World Bank Innovation project. The first phase of the
+  analysis of the policy mix found that strategic priorities identified in NIS plans and programs were not matched with
+  commensurate levels of funding, and that actual investments in support of technology and knowledge transfer were
+  lower in areas that were declared priorities.
+  19.    To address these challenges, the government of Peru has launched various investment projects in the past five
+  years, leveraging the parallel technical and financial support of both the World Bank Group (WBG) and the
+  InterAmerican Development Bank (IDB). The WBG has financed three projects with relevance to the topic, including: i)
+  the Strengthening the Science, Technology, and Innovation System in Peru project (STIS; P156250); ii) National
+
+ 37 The full institutional and policy landscape is detailed in the MPA section.
+ 38 World Bank. Estrategias de Innovación para el Perú. 2020.
+ 39 The PER is being conducted under the ingoing Peru Innovation project (Strengthening the Science, Technology, and Innovation System in Peru),
+
+ and only phase 1 has been so far completes, with phases 2 currently under implementation.
+
+Apr 19, 2021                                                                                                                           Page 9 of 17
+            The World Bank
+            STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  Agricultural Innovation Project (PNIA; P131013) and iii) National Program for Innovation in Fisheries and Aquaculture
+  (PNIPA; P155902). STIS, for example, has financed 190 applied research and technological development projects with
+  the participation of more than 2,200 researchers; the improvement of research infrastructure of 17 laboratories; the
+  funding of 10 doctoral programs with the participation of 98 fellows, and the support of 100 startups with a capacity
+  building program and improved access to markets. Finally, the current operation recently started piloting competitive
+  grants to fund potentially commercially viable R&D generated in public and private institutions, as well as value chain
+  specific Public Private Dialogues to better align supply of R&D with market needs in the real economy. PNIA also financed
+  600 innovation sub-projects in the areas of applied research (59), adaptive research (129), extension (367), and seed
+  systems (45), reaching more than 41,000 producers, 762 institutional beneficiaries (including public and private research
+  institutes, universities and technology institutes, private firms, NGOs, producer organizations and public institutions),
+  and leveraging around S/- 36 million in counterpart funding. PNIPA has so far financed 1,324 innovation sub-projects (237
+  in fisheries and 1,087 in aquaculture) through four windows: (1) applied research (135 sub-projects), (2) adaptive
+  research (90 sub-projects), (3) extension (899 sub-projects), and (4) capacity building (200 sub-projects). In addition, 13
+  non-competitive sub-projects have been commissioned to address sectoral priorities, especially including overcoming
+  weaknesses in sanitary and phytosanitary systems in the fisheries and aquaculture sector. The support of the IDB has
+  been mainly focused on technology adoption by private sector firms, primarily through the National Innovation Program
+  for Competitiveness and Productivity (Innovate Peru) and financed by FINCYT40.
+  Relationship to CPF
+
+  20.     The proposed project directly contributes to the World Bank Group Country Partnership Framework (CPF) for
+  Peru for the period FY17 to FY21.41 Specifically, the project is closely linked to multiple Objectives under Pillar I:
+  “Productivity for Growth.�? All components of the project contribute to Objective 2: “Facilitate absorption of skills and
+  technology.�? Component 1 includes activities that reinforce the MSTQ infrastructure in Peru, therefore increasing the
+  ability of innovation seeking firms and SMEs to adopt and integrate technologies in their production processes;
+  Component 2 promotes a stronger prioritization of investments in doctoral programs and skills in alignment with the
+  needs of the private sector; and Component 3 includes activities that improve industry-academia linkages and alignments
+  between investment in R&D and the specific needs of the private sector in terms of technology and innovation, thus
+  increasing the absorption rate by firms of technological advances discovered via these R&D investments. In addition, the
+  project contributes to Objective 3: “Enhance the environment for sustainable private investments�? through activities
+  under Components 1 and 3 that seek to improve the governance of the innovation system and improve innovation
+  resources and financing thus enhancing productivity and investment. Finally, the Project aims to reduce gender
+  disparities, which is a cross-cutting objective of the CPF, by providing specific incentives to female researchers
+  encouraging and increasing their participation in the NIS.
+
+
+  C. Proposed Development Objective(s)
+
+  21.    The project development objective is to increase the volume and innovation output of Peru’s public and private
+  investments in science and technology in targeted areas and regions in Peru. The project will be part of a multiphase
+  programmatic approach (over 10 years) whose higher-level objective is to increase Peru’s National Innovation System’s
+
+
+
+ 40   Acronym of the IDB financed project on science and technology. The ongoing project is the third FINCyT operation (FINCyT 3).
+ 41   WBG. Country Partnership Framework for The Republic of Peru for the Period FY17-FY21. Report No. 112299-PE, April 2017.
+
+Apr 19, 2021                                                                                                                         Page 10 of 17
+            The World Bank
+            STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  contribution to the economy’s productivity and diversification, with special focus on green grow th and regional
+  development.
+  Key Results (From PCN)
+
+  22.        Key results of the MPA Program:
+
+        •    Number of spin-off firms created from scientific research developed in academia and PRIs (of which share with
+             female CEOs and of which focused on products or services directly relevant to climate mitigation or adaptation)
+        •    Volume of technology license income (USD) to universities and PRIs generated from supported research (of
+             which share led by female researchers and of which focused on products or services directly relevant to climate
+             mitigation or adaptation)
+        •    Number of PhD graduates (of which share that are women)
+
+  23.        Intermediate results under consideration include:
+ Component 1: Strengthened institutions, governance and infrastructure for innovation
+    • Average time to process applications by universities and researchers to CONCYTEC services via digital platform
+    • Number of accredited labs in strategic sectors or regions
+    • Number of academic consortia in strategic areas of research anchored in regional public universities
+ Component 2: Strengthened capacity for the generation of knowledge in strategic sectors and regions
+    • Number of supported accredited doctoral programs
+    • Number of research grants awarded (of which share awarded to female researchers)
+    • Number of citable publications in targeted strategic areas of academic research (of which share with female
+       authorship)
+    • Number of patents or licenses (of which share awarded to female researchers)
+ Component 3: Strengthened Industry-academia linkages to accelerate technology transfers and innovations
+    • Number of private sector firms participating in Public Private Dialogues focused on innovation in value chains
+    • Number and value of contract research projects between academia and the private sector
+    • Volume of private venture capital investments (USD) in science-based spinoffs
+
+  D. Concept Description
+
+  24.     The proposed Project will strengthen Peru’s NIS through an integrated approach across three components. The
+  components are linked and interdependent and address the most critical gaps in the innovation ecosystem.42 The
+  activities are not all encompassing and seek to leverage and enhance the outputs of complementary infrastructure,
+  services, and financing instruments of the innovation ecosystem.
+  25.     The theory of change of the proposed project stipulates that: (i) strengthening CONCYTEC’s capacity as a
+  governing body for the NIS, and more broadly strengthening the coordination and management capacity in the larger
+  institutional framework , will greatly enhance the efficiency and effectiveness of public expenditure on innovation and
+  evidence-based and regionally informed policymaking; (ii) increasing the quantity of qualified researchers and PhD
+  graduates will contribute to an increase in the quantity and quality of research outputs and collaborative R&D projects43,
+
+
+
+ 42   These do not overlap with the components of the NIS supported by the IDB project.
+ 43   In addition to improving the quality of higher-education and its outputs in terms of skilled labor
+
+Apr 19, 2021                                                                                                       Page 11 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+  and (iii) improving academia-industry linkages44 and access to financing will improve the alignment between R&D outputs
+  and market needs, therefore improving the returns on R&D investment in terms of innovation in the real economy45. The
+  intermediate outcomes of the projects are expected to contribute to a more efficient and effective NIS that supports
+  competitiveness and sustainable economic growth in Peru.
+  26.     Component 1: Strengthen NIS governance, institutions, and infrastructure (USD 40M) aims to strengthen the
+  effectiveness of the NIS governance, institutions, and MSTQ infrastructure to bolster innovation growth in Peru.
+      (a) Subcomponent 1.1. Strengthening CONCYTEC and digitalizing the NIS. This subcomponent will finance TA, goods,
+          and services to enhance CONCYTEC’s ability to perform its functions as Peru’s NIS governing body. This includes:
+          i) end-to-end digitalization of its services46, modernization of information and knowledge management systems,
+          and the development of an integrated digital platform across innovation sectors; ii) improving its NIS management
+          and monitoring and evaluation capacities; iii) incentivizing the participation of women in high-level managerial
+          positions in CONCYTEC and other agencies of the NIS; iv) enhancing its capacity for evidence-based decision-
+          making through analytical studies and position papers on key innovation policy topics; and v) improving its access
+          to relevant data through data collection surveys.
+      (b) Subcomponent 1.2: Decentralization of NIS and equal access to scientific information. This subcomponent aims
+          to address stark regional disparities in Peru and ensure that all regions benefit from the insights and advances in
+          NIS and contribute to them. This will be achieved by decentralizing research, supporting the creation of
+          macroregional NIS observatories and regional consortia in NIS, the creation of CONCYTEC regional offices47, and
+          giving free access to scientific information and journals to all researchers nationally.
+      (c) Subcomponent 1.3: MSTQ48 and R&D Capacity-building Grants. Grants in this subcomponent will finance i)
+          maintenance, capacity building, certification, and accreditation of new and existing MSTQ laboratories in Peru’s
+          public research Institutions (PRIs) and universities. Priority will be given to laboratories in Peru’s targeted regions
+          and potentially to labs and institutions proposing to develop climate adaptation or mitigation related
+          certifications. Investments will be prioritized based on a project-financed National Research Infrastructure
+          Roadmap, which will also help aligning research infrastructure with national R&D priorities; and ii) grants to
+          support the creation of regional or thematic research networks among universities, research institutions, and the
+          private sector, to promote research and innovation in areas that have a critical mass of demand and/or research
+          quality outputs. The grants will finance operational costs as well as training and other technical assistance
+          activities to strengthen the collaboration or joint output by consortia.
+  27.   Component 2: Capacity development for the generation of knowledge in selected NIS sectors and regions (USD
+  50M) aims to strengthen the capacity of the NIS by improving the quality, quantity and relevance of training at the
+  doctoral level and research products in strategic and general science areas.
+      (a) Subcomponent 2.1: Support institutional partnerships for the creation or strengthening of high-quality doctoral
+          programs. This sub-component will support institutional partnerships among at least two Peruvian universities,
+
+
+ 44 Via increased technology transfer capacities and improved Industry – academia dialogue in innovation seeking value chains.
+ 45 Measured by increased number of spinoffs and/or commercial returns on patents.
+ 46 Including the purchase of equipment
+ 47 This does not include new infrastructure and is limited to operational expenses and procurement of consulting and non-consulting services.
+ 48 Metrology, Standards, Testing, and Quality. MSTQ research infrastructures are tools (laboratories, equipment, devices, collections, archives,
+
+ structured information or a body thereof) and the conditions, expertise, methods, materials, activities and services related thereto, which are used
+ to create, transfer, exchange and/or preserve new knowledge gained through research and development.
+
+Apr 19, 2021                                                                                                                             Page 12 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+          one of which should be outside Lima, one well recognized international university, and private firms, business
+          associations or a social organization, relevant to the program. Institutional partnerships will not support specific
+          research projects but will rather exclusively focus on the creation or strengthening of PhD programs. Partnerships
+          will be selected through open competitive calls based on relevance of program, quality of research groups,
+          targeted number of graduates, and financial coherence. This subcomponent will finance: (a) expenses associated
+          with short- and long-term visits of international and national collaborators; (b) national and international mobility
+          of the program’s researchers and students; and (c) equipment and inputs needed to conduct research, including
+          research materials and tests, with emphasis on doctoral students research projects based on market-conscious
+          orientation.
+      (b) Subcomponent 2.2: Scholarships for doctoral students and young researchers at selected programs . This sub-
+          component will support scholarships for Peruvian citizens to undergo doctoral training in the programs supported
+          by sub-component 2.1 and grants for young faculty of those programs to undergo postdoctoral training in well
+          recognized international universities and research centers. The scholarships and grants will be assigned in a
+          competitive basis considering merit, and vulnerability of the candidates by capitalizing on PRONABEC’s special
+          calls to promote affirmative actions for the participation of female candidates and underserved populations
+          making special efforts to invite eligible candidates to apply for the scholarships.
+      (c) Subcomponent 2.3: Research grants. This subcomponent will finance grants to support research projects aligned
+          with the needs of identified strategic areas.49 CONCYTEC, in consultation with other agencies in the NIS, will review
+          and revise the strategic areas of focus under the new project, potentially including critical transversal areas such
+          as climate change adaptation and mitigation, water resources management; etc. There will be two types of grants:
+          (i) grants to support research projects presented by the research groups that support the selected doctoral
+          programs of sub-component 2.1; and (ii) grants to support basic and applied research relevant to sectoral and
+          regional challenges.
+      (d) Subcomponent 2.4: Technical Assistance to strengthen the quality of higher education. To ensure quality and
+          sustainability of the PhD programs that will be supported through subcomponent 2.1, the Project will provide
+          technical assistance to the relevant agencies in the Ministry of Education responsible for the provision of licenses
+          and accreditation to universities and academic programs. Activities to be supported will include, inter alia, the
+          development of quality standards for PhD programs, preparation of evaluation protocols to license and/or
+          accredit programs.
+  28.    Component 3: Strengthening the connection of academic research to market (USD 30M) aims to strengthen the
+  linkages between R&D outputs and market demand.
+      (a) Subcomponent 3.1: Aligning demand and supply of R&D and promoting Industry-Academia alliances. This
+          subcomponent will support closing knowledge and technological gaps in value chains with high growth potential
+          and direct relevance to regional and/or sustainable development. The subcomponent will implement two more
+          rounds of value-chain level Competitiveness Reinforcement Initiatives for Productive Innovation (or IVAIs)50 giving
+          special attention to the circular economy, resource efficiency (e.g. water) and GHG emissions. Each initiative will
+
+ 49 In the ongoing Innovation project, CONCYTEC set priority sectors as 1) Agribusiness and food processing; 2) Timber Forest; 3) Textile and Apparel;
+ 4) Mining and its Manufacturing; 5) Advanced Manufacturing; 6) Ecotourism, restoration and creative industries, which will be reviewed and
+ revised as needed under the proposed operation.
+ 50 The first-round if currently being launched under component 2 of the ongoing Peru Innovation operation: the Iniciativas de Vinculacion Industria-
+
+ Academia (IVAIs). Each round covers 4-8 value chains.
+
+Apr 19, 2021                                                                                                                             Page 13 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+           culminate in the preparation of a detailed Innovation Upgrading Plan (IUP), jointly prepared by participating firms,
+           universities, and support institutions. IUPs will include all actions needed for a value chain to reach more strategic
+           markets that also contribute to green growth and regional development and will inform CONCYTEC’s targeted
+           calls for matching-grants for contract research proposals (Subcomponent 3.3.a).
+      (b) Subcomponent 3.2: Building the institutional capacity needed to facilitate technology transfer and boost
+          innovation.51 Activities will include i) evaluation of existing institutional policies in supported universities and
+          research centers for protection of intellectual property and technology transfer models; ii) capacity building for
+          five selected Technology Transfer Office (TTO) staff and links / partnerships with international TTOs; iii) technology
+          and commercialization mapping of respective pipelines, and improving early identification of scientific and
+          technical knowledge and research that has the potential of being commercialized (in any of the possible forms of
+          commercial application); and iv) operational funding support for optimal performance of supported TTOs. These
+          activities will be implemented through i) the establishment of a National Knowledge Transfer Center (NTC), which
+          will be able to provide assistance to Peru’s universities and PRIs aiming to adopt international standard
+          approaches for connecting researchers to markets. This national-level TTO will cover gaps and ensure coordination
+          of TTO-related activity at national level; ii) the upgrading, though international partnerships, of the 3-5 most
+          advanced TTOs in Peru’s most innovative universities, selected based on demonstrated strong investment and
+          deal flow; and iii) supporting two regional TTOs in macro-regions, selected based on the same criteria and created
+          in partnership with the universities in these regions.
+      (c) Subcomponent 3.3. Narrowing critical innovation financing gaps. The project will subsidize commercialization-
+          oriented R&D activities to the extent that market and coordination failures make these very difficult to be partly
+          or entirely financed by the private sector. The subcomponent will fund:
+           (i)       Matching grants for contract research. Grants will be received by universities who will implement the
+                     contract research jointly with firms, or at least one large firm (or multiple firms) as a co-sponsor. Co-
+                     sponsor(s) of the matching grants will be selected competitively based on the amount of resources offered
+                     for co-funding; quality of the supply development program proposed; market size and sophistication; and
+                     degree of commitment to procure from selected beneficiaries; with priority given (at equal quality) for
+                     proposals emanating from the IVAIs supported under subcomponent 3.1, or with explicit focus on climate
+                     mitigation and adaptation (and a total minimum of 20 percent of the grants on climate related topics).
+                     The project’s contribution is capped at US$70,000 per university or PRI. The matching funds provided by
+                     the prospective beneficiary are expected to be not less than 30 percent of the total cost of the proposed
+                     development plan. The duration of the program is expected to be 6-12 months.
+           (ii)      Academic Entrepreneurship grants52: Funding will be in the form of competitive grants using a two-phase
+                     approach. The funding will range from US$75,000 to US$300,000 with each phase lasting a maximum of
+
+ 51 It must be noted that connecting researchers to the market – to enable the development of knowledge relevant to both private and societal
+ benefits – has several dimensions, including the one given more prominence in the first phase of the MPA program (this project) of transferring
+ technology arising from research activity. In modern universities there are additional activities where universities interact with the market – for
+ example, providing technical services for public and private bodies, undertaking contract research to solve problems for firms, which is currently at
+ a very low level in Peru, and bespoke training for professional development in advanced skills that do not necessarily lead to degree awards. It is
+ usual that most if not all such activities in universities are combined in a single unit focused on transferring knowledge to those who wish to
+ use it for economic and societal benefit. These will be included in subsequent phases of the MPA Program, as absorption and implementation
+ capacity in supported universities increases.
+ 52 All grants will be assigned through open competitive calls and will finance: (a) goods, consulting and non-consulting services associated with the
+
+
+
+
+Apr 19, 2021                                                                                                                              Page 14 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+                    12 months. The first phase will focus on proving the technology and estimating the likely demand.
+                    Selection criteria will include initial evidence of technical performance, market demand, and likely costs
+                    of bringing the project to market. A second phase will be awarded based on the first phase to advance
+                    projects with strong evidence of real potential. Within those boundaries, each call will have the flexibility
+                    to adjust its parameters depending on the stage of research commercialization, the field of science, and
+                    other related factors. Priority will be given (at equal quality) for proposals with explicit focus on climate
+                    mitigation and adaptation (and a minimum of 20 percent of the total dedicated to climate topics).
+  29.    Component 4: Project Management and Monitoring & Evaluation (USD 5M). The management of the Project will
+  be conducted by a team of technical and fiduciary specialists in areas including project coordination, technical,
+  procurement, environmental and social, financial, and M&E specialists in line with the organizational structure described
+  in the project’s institutional arrangements. The component will support consultancies and technical assistance that
+  reinforce climate mitigation and adaptation measure during the implementation of project activities and support rigorous
+  monitoring and evaluation of climate-related indicators.
+
+
+
+  Legal Operational Policies                                                                              Triggered?
+  Projects on International Waterways OP 7.50                                                             No
+  Projects in Disputed Areas OP 7.60                                                                      No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  .
+
+ Based on the available information, the E&S risk classification is Moderate. Given the nature and scale of activities, low to
+ moderate environmental, health and safety risks and potential impacts are expected, mainly associated with applied
+ research, technological development, and laboratory equipment and certification activities. These risks and impacts are
+ expected to be: (i) temporary and/or reversible; (ii) mainly low (to moderate) in magnitude and not expected to cause
+ serious adverse effects to human health and the environment, even though project activities could be located within
+ natural and critical natural habitats; (iii) site-specific; and (iv) easily mitigated in a predictable manner. The social risk is
+ estimated as Moderate based on: i) the client’s track record of managing project related grievances and complaints under
+ P156250; ii) client’s capacity to mitigate social risks in accordance with WB-ESF given the previous project was subject to
+ WB safeguard policies; and iii) the unknown specific locations of the project interventions, which could involve indigenous
+ peoples and other underserved and vulnerable populations. Potential adverse E&s risks and impacts will be further
+ analyzed during project preparation, as more information is available.
+
+ A well-structured PIU with qualified staff to manage the E&S aspects of the project in line with the ESF will be set up. The
+ Borrower will develop the necessary instruments to adequately manage potential project E&S risks and impacts, including:
+ i) an Environmental and Social Management Framework (ESMF), which will set out the principles, guidelines and
+ procedures to assess the risks and impacts of each intervention, in compliance with both national requirements and
+ relevant standards. The ESMF will include an Exclusion List with non-eligible interventions, including large-scale works
+ with substantial and high E&S risk, and activities which would require Free, Prior and Informed Consent (FPIC) with
+ indigenous peoples; ii) an Environmental and Social Commitment Plan (ESCP); iii) a Stakeholder Engagement Plan (SEP);
+
+ financing of proof of concept, prototypes, protection and commercialization of intellectual property; (b) inputs including research equipment,
+ materials and tests; (c) software and hardware; and (d) dissemination
+
+Apr 19, 2021                                                                                                                            Page 15 of 17
+          The World Bank
+          STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+ and iv) and Labor Management Procedures (LMPs). These documents will be disclosed prior to project appraisal.
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Jade Salhab, Livia M. Benavides
+     Senior Private Sector Specialist
+
+
+     Borrower/Client/Recipient
+     Ministerio de Economia y Finanzas
+     Paul Bringas
+     Director General of Debt and the Treasury
+     pbringas@mef.gob.pe
+
+     Implementing Agencies
+
+     CONCYTEC - Consejo Nacional de Ciencia, Tecnología e Innovación Tecnológica
+     Benjamín Marticorena Castillo
+     President
+     bmarticorena@concytec.gob.pe
+
+
+     FOR MORE INFORMATION CONTACT
+     The World Bank
+     1818 H Street, NW
+     Washington, D.C. 20433
+     Telephone: (202) 473-1000
+     Web: http://www.worldbank.org/projects
+
+
+
+     APPROVAL
+
+     Task Team Leader(s):                     Jade Salhab, Livia M. Benavides
+
+     Approved By
+     APPROVALTBL
+     Practice Manager/Manager:
+
+     Country Director:                       Livia M. Benavides                    14-May-2021
+
+
+
+Apr 19, 2021                                                                                                Page 16 of 17
+         The World Bank
+         STRENGTHENING THE SCIENCE, TECHNOLOGY AND INNOVATION SYSTEM IN PERU - II (P176297)
+
+
+
+
+Apr 19, 2021                                                                                  Page 17 of 17
+

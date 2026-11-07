@@ -1,0 +1,376 @@
+﻿          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+
+
+                       Project Information Document (PID)
+
+
+                      Appraisal Stage | Date Prepared/Updated: 20-Feb-2022 | Report No: PIDA33297
+
+
+
+
+Feb 05, 2022                                                                                        Page 1 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name                Parent Project ID (if any)
+   Yemen, Republic of                            P178347                    Yemen Emergency
+                                                                            Electricity Access Project-
+                                                                            Phase II
+   Region                                        Estimated Appraisal Date   Estimated Board Date        Practice Area (Lead)
+   MIDDLE EAST AND NORTH                         16-Feb-2022                15-Apr-2022                 Energy & Extractives
+   AFRICA
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  UNOPS                      UNOPS
+
+
+   Proposed Development Objective(s)
+
+   Improve access to electricity in rural and peri-urban areas and plan for the restoration of the national power sector.
+
+   Components
+   1. Electricity Access in Rural and Peri-urban Areas
+   2. Implementation Support, Market Development, and Technical Assistance for Power Sector Sustainability
+   3. Contingent Emergency Response Component (CERC)
+
+   OPS_TABLE_FCC
+   The processing of this project is applying the policy requirements exceptions for situations of urgent need of
+   assistance or capacity constraints that are outlined in OP 10.00, paragraph 12.
+   Yes
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                       120.40
+   Total Financing                                                                                                          120.40
+                             of which IBRD/IDA                                                                              100.00
+   Financing Gap                                                                                                              0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+
+
+Feb 05, 2022                                                                                                               Page 2 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+
+      International Development Association (IDA)                                                                              100.00
+
+         IDA Grant                                                                                                             100.00
+
+   Non-World Bank Group Financing
+
+      Commercial Financing                                                                                                      20.40
+         Unguaranteed Commercial Financing                                                                                      20.40
+
+   Environmental and Social Risk Classification
+   Substantial
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+
+          1.       The Republic of Yemen is currently in the middle of a severe humanitarian crisis. The country
+          has been in military conflict since 2014, struggling due to a fall in global prices, weak public infrastructure,
+          a limited ability to cope with extreme climate events, and the strains of COVID-19. Yemen’s overall poverty
+          rate is estimated to be 80 percent, and the war has set the country’s development back by 25 years.
+          Yemen also battles mass outbreaks of preventable diseases such as cholera, diphtheria, measles, and
+          dengue fever. Yemen’s death rate is currently five times the global average1, and the country has been
+          designated a fragility, conflict, and violence (FCV) country by the World Bank.
+
+          2.      The ongoing conflict has severe socioeconomic consequences on the country. The Yemeni riyal
+          continues to depreciate to new historic lows, driving large increases in food prices and pushing more
+          people into extreme poverty. Socioeconomic conditions are deteriorating rapidly, affected by declining
+          remittances, trade disruptions, severe fuel supply shortages, and the disruption and declining
+          humanitarian operations
+
+          3.      The Republic of Yemen’s private sector shows signs of resilience. The private sector in Yemen
+          has acquired a vital role during the economic downturn, as it continued to enhance community resilience
+          and facilitate distribution, storage, and logistical services for humanitarian actors. The business sector
+
+
+          1
+            The United Nations Development Programme estimated in November 2021 that 377,000 Yemenis will have
+          been killed by the conflict by the end of 2021, most indirectly and not in combat, 70% of them children under the
+          age of five.
+
+Feb 05, 2022                                                                                                                  Page 3 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+          leads all economic activities, and roughly 75 percent of local, SME enterprises are still trading and resilient.
+
+          4.       The effects of climate change have also exacerbated the disaster vulnerability of the Republic
+          of Yemen. The Notre Dame Global Adaptation Initiative (ND-GAIN) ranks Yemen as the 26th most climate
+          change vulnerable country in the world and the 17th least-ready country to adapt, with its readiness score
+          significantly affected by the ongoing conflict.
+
+          Yemen’s Rural Context
+
+          5.       Nearly 70 percent2 of Yemen’s 31 million population3 lives in rural and peri-urban areas where
+          the level of poverty is higher than in urban areas and increasing. More than 12 million of the population
+          in rural and peri-urban areas are poor and food insecure, while more than 5 million are on the verge of
+          starvation. GDP per capita has more than halved since 20144, reflecting the deteriorating situation. During
+          the 1980s, Yemeni men sent and brought back substantial remittances from Saudi Arabia, UAE, and other
+          countries5, investing them in vehicles, new houses, and water wells with diesel-operated pumps, and
+          turned their rain-fed farm fields into irrigated fields of qat and citrus. By the 1990s, rural living conditions
+          began to deteriorate because of the civil war and external shocks. In the early 2000s, as farming incomes
+          diminished, the main source of income for most rural households was men’s urban labor, resulting in less
+          earnings. Poverty worsened. By 2020, meager household incomes in rural Yemen had mostly disappeared,
+          falling victim to Yemen’s ongoing conflict, devastating droughts and floods, and the global COVID-19
+          pandemic. Self-sufficiency in basic staples was a distant memory. Rural people became as dependent on
+          food imports as urban dwellers, with one notable difference – the higher added cost of transportation to
+          remote locations.
+
+          6.      Since commencement of the conflict in 2014, rural living conditions have continued to
+          deteriorate. Air strikes that target infrastructure slow down the transport of food and increase its cost.
+          Damage to critical services facilities—health clinics, water and sanitation infrastructure, and schools—has
+          resulted in increased deaths and illnesses due to disease and starvation.
+
+          7.      The World Bank6 and other international organizations have helped provide solar energy
+          solutions for rural and peri-urban health clinics, schools, and water facilities and have encouraged the
+          development of a private sector-driven market for renewable, off-grid electricity. However, the support
+          has not been enough. The need for targeted interventions to improve electricity access to rural and peri-
+
+          2 Yemen Rural Population 1960–2021 Macro Trends. Yemen’s rural population for 2020 was 18,519,540, a 1.24 percent increase
+          from 2019. https://www.macrotrends.net.
+          3 As   of January 19, 2022, based on Worldometer elaboration of the latest UN data.
+          4
+            World Bank data
+          5
+            Remittances, whether from laborers or professionals, have fallen significantly since mid-1990s. Saudi Arabia’s July
+          2021 decision to not renew work contracts for Yemeni professional could result in a mass forced return of Yemeni
+          workers, a move that would further devastate Yemen’s collapsing economy by cutting off at least two million
+          Yemenis’ remittances sent to families in Yemen. Yemen War Victims Beyond the Headlines, Human Rights Watch,
+          2 February 2022; and Saudi Arabia: Yemeni Workers at Risk of Mass Forced Returns Human Rights Watch August
+          31, 2021
+          6
+            RY EEAP, approved in 2018, provided a US$ 50 million IDA grant to address electricity access and product quality
+          issues in rural and peri-urban areas by financing solar PV solutions for urgent needs in rural and peri-urban areas.
+
+Feb 05, 2022                                                                                                                       Page 4 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+          urban households and critical services facilities continues to be huge. More attention and assistance needs
+          be paid to restoring and improving off-grid power supply in rural and peri-urban areas if the worst effects
+          of the humanitarian crisis are to be stemmed. Restoring access to electricity is a critical factor in alleviating
+          the dire humanitarian situation across the country, restoring livelihoods, and fighting preventable
+          diseases, especially in the underserved rural and peri-urban areas of Yemen.
+
+
+
+   Sectoral and Institutional Context
+         8.       The energy sector in Yemen comprises two main components: (a) oil and natural gas production
+         and (b) electricity production, transmission, and distribution. The two are intertwined because oil and
+         gas sector revenues provide most of the government revenues required to subsidize the electricity sector
+         and fuel supply drives electricity production.
+
+          9.       Yemen’s state-owned Public Electricity Corporation (PEC) is the enterprise that oversees
+          electricity generation, transmission, and distribution in the county. Other sector participants include the
+          General Authority for Rural Electrification (GARE), which is responsible for electrifying specific rural areas
+          outside the main and secondary cities; private generators that produce electricity for own use or to sell
+          to the PEC; private captive power produced for government buildings; and self-generation by consumers.
+          The PEC struggles to meet the demand of its existing customers, most of which are urban, and there are
+          no indications that the crises the utility faces will be resolved soon or that rural households and
+          institutions will be connected to the grid any time soon.
+
+          10.       Private sector participation in the electricity sector began in 2006 and was limited, by law, to
+          electricity generation activities. At present, there is no formal legal basis for the direct sale of privately
+          produced electricity to end use consumers, even though such sales are taking place in Yemen during the
+          conflict.
+
+          11. Solar power represents a major opportunity to address some of the most immediate impacts of the
+          developmental crisis and restore livelihoods. In one of the few positive stories that emerged from the
+          conflict, the lack of public electricity supply and limited fuel availability for diesel generators has led to
+          the growth of a nascent industry for small- to medium-scale solar systems.
+
+          12. The affordability of solar products remains a barrier for the poor and most vulnerable, and the low
+          quality of products and after-sales support threaten the sustainability of the fledgling market. The
+          emerging solar market in Yemen is operating on a commercial basis and is driven by the private sector,
+          with a supply chain that ranges from trading houses that import solar equipment to small-scale electronics
+          retailers that expanded their business to solar panels. However, a market assessment by the World Bank
+          found that debt finance is not readily available to most households. It also concluded that many house-
+          hold solar installations suffer from high failure rates.
+
+          Project Description
+
+          13. The proposed Yemen Emergency Electricity Access Project-Phase II (RY-EEAP-II) will build on
+          activities supported by the RY-EEAP, with an expanded focus on TA designed to support access to
+          electricity supply and prepare for post-conflict restoration of the national power sector. The operation
+
+
+Feb 05, 2022                                                                                                              Page 5 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+          will adopt an integrated, area-based approach to expand electricity access for households and electricity-
+          dependent critical public services for the rural and peri-urban population and support preparation of
+          interventions to improve electricity supply across Yemen in a sustainable manner.
+
+   C. Proposed Development Objective(s)
+
+          14. The project’s PDO is to improve access to electricity in rural and peri-urban areas and plan for
+          restoration of the national power sector.
+
+   Key Results
+         15. Achievement of the PDO will be measured against the following key results indicators:
+
+                                  Improve access to electricity in rural and peri-urban areas
+
+                                  (a)   People provided with new or improved electricity service (target: 3,500,000
+                                        of which 48 percent (1,680,000) are female), and
+
+                                  (b)   Critical services facilities provided with new or improved electricity service
+                                        (target: 750)
+
+                                  Plan for restoration of the national power sector
+
+                                  (c)   Completion of an analytical assessment of future engagement options for
+                                        the power sector and subsequent stakeholder consultations to inform on
+                                        findings from the assessment. (Target: minimum 10 discussions
+                                        consultations, with a minimum of 50 persons consulted, of which at least 10
+                                        percent are female)
+
+
+  .
+  .
+  Legal Operational Policies
+                                                                        Triggered?
+
+   Projects on International Waterways OP 7.50                         No
+
+   Projects in Disputed Areas OP 7.60                                  No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+      16. The project will include activities that might cause minor, site-specific reversible impacts such as
+      those resulting from improper disposal of used batteries, and other health and safety impacts. Social risks
+      may include: i) elite capture of investments by powerful and/or better-connected beneficiaries, thus
+      excluding some segments of society especially disadvantaged and marginalized groups; ii) workers and/or
+      community safety such as injuries and health safety including covid; iii) labor working conditions such as
+      child labor and forced labor concerns at the supply chain; iv) associated GBV risks including sexual
+
+Feb 05, 2022                                                                                                         Page 6 of 8
+            The World Bank
+            Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+           harassment and SEA; and (v) security risks due to conflict causing the closure of services. The technical
+           assistance component will consist of pilot studies/activities but with potential E&S implications such as
+           exclusion/discrimination of female stakeholders, e-waste management/recycling, support to existing power
+           plants and transmission lines. Based on the above-expected project risks and impacts, the overall
+           environmental and social risk is rated substantial.
+
+
+  Institutional and Implementation Arrangements
+
+           17. Project implementation will be through UNOPS, who will in turn contract local parties with proven
+           capacity on the ground. Under subcomponent 1.1 of the project, household solar systems will be sold at
+           subsidized prices (for cash or credit) to beneficiaries through Yemeni MFIs. Under subcomponents 1.2 and
+           1.3, UNOPS will procure solar systems for health centers, drinking water wells, schools, and COVID-19
+           isolation and vaccine cold chain units on a grant funded basis. For technical assistance, where other
+           stakeholders will be involved, UNOPS will remain the contracting authority. However, such stakeholders will
+           be represented in execution of the tasks.
+
+           18. The World Bank will provide close implementation support through quarterly review missions and
+           regular videoconferences and travel of the World Bank team to UNOPS’ regional office in Amman.
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+      Katharine Baragona
+      Senior Infrastructure Finance Specialist
+
+      Ghassan Khaled Ismail Al-Akwaa
+      Energy Specialist
+
+      Tendai Gregan
+      Senior Energy Economist
+
+      Borrower/Client/Recipient
+      UNOPS
+
+
+
+
+      Implementing Agencies
+
+
+
+
+Feb 05, 2022                                                                                                        Page 7 of 8
+          The World Bank
+          Yemen Emergency Electricity Access Project-Phase II (P178347)
+
+
+
+   UNOPS
+   Bana Kaloti
+   Regional Director, Middle East United Nations Office for Pro
+   banak@unops.org)
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Katharine Baragona
+   Task Team Leader(s):                   Ghassan Khaled Ismail Al-Akwaa
+                                          Tendai Gregan
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:                      Janette Uhlmann                  28-Feb-2022
+
+
+
+
+Feb 05, 2022                                                                             Page 8 of 8
+

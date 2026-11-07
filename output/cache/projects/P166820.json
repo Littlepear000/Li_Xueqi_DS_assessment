@@ -1,0 +1,1426 @@
+{
+  "project_id": "P166820",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "83827c2d",
+  "started_at": "2026-11-07T03:24:42Z",
+  "ended_at": "2026-11-07T03:25:20Z",
+  "input_fingerprint": "b5062519f26d43e6",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 22,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P166820-A1",
+      "project_id": "P166820",
+      "name": "road crash database and road asset management systems",
+      "description": "The project builds a national crash database with a Road Safety Observatory and completes a road asset management system with network and condition data. Practices: Road accident reporting and analysis database for Road Safety Observatory; Road asset management system with WIMS, traffic counters and roughness profilers; Traffic accident reporting and analysis database; Road Safety Observatory with accident database and staff training.",
+      "why_innovative": "New service: crash data system underpinning road safety observatory - cue: 'establish' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "905511596420087199",
+        "doc_type": "PAD",
+        "doc_date": "2020-07-06",
+        "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+        "char_start": 68670,
+        "char_end": 69084,
+        "text": "(iii) Support DSAI, the lead agency for road safety, to develop a Road Safety Strategy and to establish a Road Safety Observatory through provision of technical assistance, equipment, support for the design installation, commissioning and training of staff for a road accident reporting and analysis database, training of key staff in the management and operation of a Road Safety Observatory, and operating costs.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 105454,
+          "char_end": 106026,
+          "text": "The CARs-4 supports the missing elements of the RAMS, including: (i) collection of the national road network (14,000km) data, including geometry, location, condition, traffic volume and natural hazard exposure, (ii) development of asset management modules for bridges and tunnels within the RAMS, (iii) supply of additional data collection of equipment, (iv) technical assistance and capacity building for data analysis, (v) capacity-building for installation and operationalization of the traffic counters, and (vi) construction and operationalization of additional WIMS.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 105289,
+          "char_end": 105453,
+          "text": "The ongoing CARs-2 project laid the foundation for RAMS, including through deployment of Weight-in- Motion-System (WIMS), traffic counters, and roughness profilers.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 107929,
+          "char_end": 108427,
+          "text": "To that end, the project will support development of a National Road Safety Strategy, including education and measures to raise awareness for traffic safety, requirement for road safety audits, definition and treatment of blackspots, development of a traffic accident reporting and analysis database, restructuring the system of training and licensing of drivers, strengthening first-aid stations for traffic accidents; and mechanizing and modernizing the system for registering motorized vehicles.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 107781,
+          "char_end": 107928,
+          "text": "The above pilot-scale interventions need to be underpinned by a comprehensive strategy and a systematic way to collect and analyze road crash data.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 108823,
+          "char_end": 109285,
+          "text": "Washington, DC., USA Page 27 of 66 The World Bank Fourth Phase of the Central Asia Regional Links Program (P166820) Road Safety Observatory, comprising establishment of a suitable facility to house the Observatory including staffing and equipment, support for the design, installation, commissioning and training of staff for a road accident reporting and analysis database, and training of key staff in the management and operation of a Road Safety Observatory.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the crash database is the core mechanism, not institutional coordination",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Rural and Inter-Urban Roads",
+        "code": "",
+        "confidence": null,
+        "rationale": "Road crash database and observatory directly supports road safety on the road network.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168326",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "roject preparation and implementation. In order to ensure sustainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal an"
+        },
+        {
+          "other_project_id": "P168052",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "ainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal and incorporate relevant lessons to the implementation arrangeme"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: crash reporting database | Innovative: national crash data observatory | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: crash data system underpinning road safety observatory - cue: 'establish'",
+      "innovation_cues": [
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P166820-A2",
+      "project_id": "P166820",
+      "name": "Cross-border customs data exchange with neighboring countries",
+      "description": "Project builds electronic interfacing with other agencies and cross-border customs data exchange with neighbors",
+      "why_innovative": "New delivery arrangement: cross-border electronic customs data sharing - cue: 'data exchange' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "905511596420087199",
+        "doc_type": "PAD",
+        "doc_date": "2020-07-06",
+        "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+        "char_start": 196930,
+        "char_end": 197806,
+        "text": "Automated • Auto-registration and automatic release of of trade facilitation; application of Non-Tariff measures; declarations; • Improved regional positioning of Tajikistan as a • Enhanced controls at the borders; • Facilitated procedures for AEO; regional transit hub; • Strengthened operational capacity for combating • Electronic payment, electronic documents, • Improved protection against illegal activities fraud, smuggling and other infringements; barcodes and other advanced features; resulting in the loss of Customs revenue; • Effective risk management and post audit tools; • Online monitoring of status of submitted • Better institutions; enhanced state capacity to • Anti-corruption and performance measurement; declarations and release time; curb corruption, fraud, smuggling etc.; • Efficient processing through electronic interfacing • Pre-arrival processing;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "905511596420087199",
+          "doc_type": "PAD",
+          "doc_date": "2020-07-06",
+          "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+          "char_start": 197807,
+          "char_end": 198505,
+          "text": "Increased supply- • Safer imported products; with external systems of other governmental chain security; • Strengthened interaction between Customs and agencies; • Improved automated transit procedures; other governmental agencies; • Cross-border Customs data exchange with • More transparency in the availability of • Enhanced cross-border co-operation on trade neighboring countries; information. and transport facilitation; • Improved decision making through real-time • Better decision support through timely and operational statistics and analysis; accurate trade statistics for economic decisions; • Improved data protection and disaster recovery • Co-ordinated border management; capability;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: links customs agencies across borders, not just internal processing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Trade",
+        "code": "",
+        "confidence": null,
+        "rationale": "Cross-border customs data exchange supports regional trade.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168326",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "roject preparation and implementation. In order to ensure sustainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal an"
+        },
+        {
+          "other_project_id": "P168052",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "ainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal and incorporate relevant lessons to the implementation arrangeme"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: cross-border customs data exchange | Innovative: multi-country agency data sharing | Category: collaborative",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: cross-border electronic customs data sharing - cue: 'data exchange'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P166820",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "guid": "905511596420087199",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:24:42Z",
+      "ended_at": "2026-11-07T03:24:50Z",
+      "status": "ok",
+      "note": "10 document(s) fetched from the WBG API; 15 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:24:50Z",
+      "ended_at": "2026-11-07T03:24:50Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-07-30, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:24:50Z",
+      "ended_at": "2026-11-07T03:24:52Z",
+      "status": "ok",
+      "note": "22 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 22,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 7,
+          "enabling_processes": 3,
+          "innovation": 4,
+          "results_based_management": 2,
+          "innovation_types": 3,
+          "enabling_technologies": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:24:52Z",
+      "ended_at": "2026-11-07T03:24:52Z",
+      "status": "ok",
+      "note": "PAD 2020-07-06 (P166820_PAD_2020-07-06_905511596420087199.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P166820",
+            "doc_type": "PAD",
+            "doc_date": "2020-07-06",
+            "guid": "905511596420087199",
+            "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:24:52Z",
+      "ended_at": "2026-11-07T03:24:52Z",
+      "status": "ok",
+      "note": "154 reading units (24 numbered paragraphs) from 1203 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 154
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:24:52Z",
+      "ended_at": "2026-11-07T03:24:54Z",
+      "status": "ok",
+      "note": "84 of 154 units carry a digital / AI cue (19 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 84,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 19
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:24:54Z",
+      "ended_at": "2026-11-07T03:25:05Z",
+      "status": "ok",
+      "note": "28 candidate practices from 84 units in 9 calls",
+      "llm_calls": 9,
+      "input_chars": 273765,
+      "output": {
+        "usage": {
+          "calls": 9,
+          "input_tokens": 1611,
+          "cached_tokens": 55794,
+          "cache_write_tokens": 0,
+          "output_tokens": 5402,
+          "seconds": 39.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0073
+        },
+        "extracted": 28
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:25:05Z",
+      "ended_at": "2026-11-07T03:25:12Z",
+      "status": "ok",
+      "note": "13 accepted, 15 rejected (not_innovative 9, background_or_other_programme 3, not_digital 3); 1 sent to the expanded-context round; 4 calls",
+      "llm_calls": 4,
+      "input_chars": 161057,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 22042,
+          "cached_tokens": 11392,
+          "cache_write_tokens": 0,
+          "output_tokens": 2075,
+          "seconds": 14.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0092
+        },
+        "accepted": 13,
+        "rejected": 15,
+        "expanded": 1,
+        "reject_codes": {
+          "background_or_other_programme": 3,
+          "not_innovative": 9,
+          "not_digital": 3
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:25:12Z",
+      "ended_at": "2026-11-07T03:25:15Z",
+      "status": "ok",
+      "note": "13 of 13 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 3255,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 665,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 428,
+          "seconds": 2.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:25:15Z",
+      "ended_at": "2026-11-07T03:25:17Z",
+      "status": "ok",
+      "note": "13 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 3227,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 546,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 169,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "merged": 9,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:25:17Z",
+      "ended_at": "2026-11-07T03:25:19Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 2 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 9016,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1388,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 237,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:25:19Z",
+      "ended_at": "2026-11-07T03:25:19Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 8 evidence rows, 23 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:25:19Z",
+      "ended_at": "2026-11-07T03:25:20Z",
+      "status": "ok",
+      "note": "2 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P168326",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "roject preparation and implementation. In order to ensure sustainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal an"
+          },
+          {
+            "other_project_id": "P168052",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "ainable project design, quality and timeliness of implementation, and cost- effectiveness of interventions, the team will work closely with other project teams whose project covers the region, including Rural Economy Development Project (P168326) and Socio-Economic Resilience Strengthening Project (P168052), during upcoming appraisal and incorporate relevant lessons to the implementation arrangeme"
+          }
+        ],
+        "store_size": 45
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P166820-A1-E1",
+      "approach_id": "P166820-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U47",
+      "para_no": null,
+      "sentence_position": 400,
+      "char_start": 68670,
+      "char_end": 69084,
+      "sentence": "(iii) Support DSAI, the lead agency for road safety, to develop a Road Safety Strategy and to establish a Road Safety Observatory through provision of technical assistance, equipment, support for the design installation, commissioning and training of staff for a road accident reporting and analysis database, training of key staff in the management and operation of a Road Safety Observatory, and operating costs.",
+      "practice": "Road accident reporting and analysis database for Road Safety Observatory",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: road accident reporting database | Not routine: builds national crash data observatory | Adoption: 'support ... to establish'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: crash reporting database | Innovative: national crash data observatory | Category: Technological",
+      "keywords_hit": "automation;data center",
+      "innovation_cues": "",
+      "innovation_basis": "New service: crash data system underpinning road safety observatory - cue: 'establish'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A1-E2",
+      "approach_id": "P166820-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 627,
+      "char_start": 105454,
+      "char_end": 106026,
+      "sentence": "The CARs-4 supports the missing elements of the RAMS, including: (i) collection of the national road network (14,000km) data, including geometry, location, condition, traffic volume and natural hazard exposure, (ii) development of asset management modules for bridges and tunnels within the RAMS, (iii) supply of additional data collection of equipment, (iv) technical assistance and capacity building for data analysis, (v) capacity-building for installation and operationalization of the traffic counters, and (vi) construction and operationalization of additional WIMS.",
+      "practice": "Road asset management system with WIMS, traffic counters and roughness profilers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: RAMS with WIMS and profilers | Not routine: completes national asset data system | Adoption: 'CARs-4 supports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: RAMS with WIMS/profilers | Innovative: completes national asset data system | Category: Technological",
+      "keywords_hit": "connectivity;data analysis;data collection",
+      "innovation_cues": "",
+      "innovation_basis": "New process: full-network asset data feeding maintenance prioritization - cue: 'missing elements'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A1-E3",
+      "approach_id": "P166820-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U74",
+      "para_no": null,
+      "sentence_position": 626,
+      "char_start": 105289,
+      "char_end": 105453,
+      "sentence": "The ongoing CARs-2 project laid the foundation for RAMS, including through deployment of Weight-in- Motion-System (WIMS), traffic counters, and roughness profilers.",
+      "practice": "Road asset management system with WIMS, traffic counters and roughness profilers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: RAMS with WIMS and profilers | Not routine: completes national asset data system | Adoption: 'CARs-4 supports'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: RAMS with WIMS/profilers | Innovative: completes national asset data system | Category: Technological",
+      "keywords_hit": "connectivity;data analysis;data collection",
+      "innovation_cues": "",
+      "innovation_basis": "New process: full-network asset data feeding maintenance prioritization - cue: 'missing elements'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A1-E4",
+      "approach_id": "P166820-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U76",
+      "para_no": null,
+      "sentence_position": 638,
+      "char_start": 107929,
+      "char_end": 108427,
+      "sentence": "To that end, the project will support development of a National Road Safety Strategy, including education and measures to raise awareness for traffic safety, requirement for road safety audits, definition and treatment of blackspots, development of a traffic accident reporting and analysis database, restructuring the system of training and licensing of drivers, strengthening first-aid stations for traffic accidents; and mechanizing and modernizing the system for registering motorized vehicles.",
+      "practice": "Traffic accident reporting and analysis database",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: crash reporting and analysis database | Not routine: no systematic crash data exists | Adoption: 'project will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: crash reporting database | Innovative: no systematic crash data exists | Category: Technological",
+      "keywords_hit": "survey",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New system: crash data collection and analysis database - cue: 'pilot-scale'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A1-E5",
+      "approach_id": "P166820-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U76",
+      "para_no": null,
+      "sentence_position": 637,
+      "char_start": 107781,
+      "char_end": 107928,
+      "sentence": "The above pilot-scale interventions need to be underpinned by a comprehensive strategy and a systematic way to collect and analyze road crash data.",
+      "practice": "Traffic accident reporting and analysis database",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: crash reporting and analysis database | Not routine: no systematic crash data exists | Adoption: 'project will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: crash reporting database | Innovative: no systematic crash data exists | Category: Technological",
+      "keywords_hit": "survey",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New system: crash data collection and analysis database - cue: 'pilot-scale'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A1-E6",
+      "approach_id": "P166820-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U77",
+      "para_no": null,
+      "sentence_position": 644,
+      "char_start": 108823,
+      "char_end": 109285,
+      "sentence": "Washington, DC., USA Page 27 of 66 The World Bank Fourth Phase of the Central Asia Regional Links Program (P166820) Road Safety Observatory, comprising establishment of a suitable facility to house the Observatory including staffing and equipment, support for the design, installation, commissioning and training of staff for a road accident reporting and analysis database, and training of key staff in the management and operation of a Road Safety Observatory.",
+      "practice": "Road Safety Observatory with accident database and staff training",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Rural and Inter-Urban Roads",
+      "extractor_reason": "Digital core: road accident database | Not routine: no crash observatory in country | Adoption: 'support for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: road accident database | Innovative: first crash observatory | Category: Technological",
+      "keywords_hit": "automated;automation;information system;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New organizational practice: dedicated crash-data observatory - cue: 'establishment'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A2-E1",
+      "approach_id": "P166820-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U141",
+      "para_no": null,
+      "sentence_position": 1096,
+      "char_start": 196930,
+      "char_end": 197806,
+      "sentence": "Automated • Auto-registration and automatic release of of trade facilitation; application of Non-Tariff measures; declarations; • Improved regional positioning of Tajikistan as a • Enhanced controls at the borders; • Facilitated procedures for AEO; regional transit hub; • Strengthened operational capacity for combating • Electronic payment, electronic documents, • Improved protection against illegal activities fraud, smuggling and other infringements; barcodes and other advanced features; resulting in the loss of Customs revenue; • Effective risk management and post audit tools; • Online monitoring of status of submitted • Better institutions; enhanced state capacity to • Anti-corruption and performance measurement; declarations and release time; curb corruption, fraud, smuggling etc.; • Efficient processing through electronic interfacing • Pre-arrival processing;",
+      "practice": "Cross-border customs data exchange with neighboring countries",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Trade",
+      "extractor_reason": "Digital core: cross-border customs data exchange | Not routine: multi-country agency data sharing | Adoption: 'Cross-border Customs data exchange'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: cross-border customs data exchange | Innovative: multi-country agency data sharing | Category: collaborative",
+      "keywords_hit": "automated;data exchange;data protection",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: cross-border electronic customs data sharing - cue: 'data exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    },
+    {
+      "row_id": "P166820-A2-E2",
+      "approach_id": "P166820-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P166820",
+      "doc_id": "905511596420087199",
+      "doc_type": "PAD",
+      "doc_date": "2020-07-06",
+      "file_name": "P166820_PAD_2020-07-06_905511596420087199.txt",
+      "unit_id": "U141",
+      "para_no": null,
+      "sentence_position": 1097,
+      "char_start": 197807,
+      "char_end": 198505,
+      "sentence": "Increased supply- • Safer imported products; with external systems of other governmental chain security; • Strengthened interaction between Customs and agencies; • Improved automated transit procedures; other governmental agencies; • Cross-border Customs data exchange with • More transparency in the availability of • Enhanced cross-border co-operation on trade neighboring countries; information. and transport facilitation; • Improved decision making through real-time • Better decision support through timely and operational statistics and analysis; accurate trade statistics for economic decisions; • Improved data protection and disaster recovery • Co-ordinated border management; capability;",
+      "practice": "Cross-border customs data exchange with neighboring countries",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Trade",
+      "extractor_reason": "Digital core: cross-border customs data exchange | Not routine: multi-country agency data sharing | Adoption: 'Cross-border Customs data exchange'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: cross-border customs data exchange | Innovative: multi-country agency data sharing | Category: collaborative",
+      "keywords_hit": "automated;data exchange;data protection",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: cross-border electronic customs data sharing - cue: 'data exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83827c2d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 223,
+      "char_start": 38191,
+      "char_end": 38414,
+      "sentence": "Development of an axle load control strategy along with pilot program to install automated system to record the axle weights and gross vehicle weights is being implemented in Sughd region under the ongoing CARs-2 operation.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Automated axle-load and gross-vehicle-weight recording system",
+      "reason": "reject: Weigh-in-motion pilot implemented under CARs-2, not this project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: automated axle-weight enforcement pilot - cue: 'pilot program'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Weigh-in-motion pilot implemented under CARs-2, not this project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 495
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 554,
+      "char_start": 94108,
+      "char_end": 94278,
+      "sentence": "Project monitoring will utilize appropriate technologies for digital data collection and analysis, namely Geo- Enabling Initiative for Monitoring and Supervision (GEMS) .",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GEMS digital data collection for project monitoring",
+      "reason": "reject: GEMS digital data collection is standard Bank M&E tooling, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: structured digital monitoring data collection - cue: 'digital data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS digital data collection is standard Bank M&E tooling, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1267
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 555,
+      "char_start": 94279,
+      "char_end": 94618,
+      "sentence": "32 Using the GEMS platform, PIG-affiliated project monitoring officers will collect structured digital data from the project sides, using tailor-made forms and including any appropriate types of data, such as photos, audios, videos, time and date stamps, and GPS coordinates, which would allow for automated geo-mapping of the information.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GEMS geo-mapped remote supervision with GPS-tagged media",
+      "reason": "reject: GEMS GPS-tagged supervision is routine Bank monitoring tool, not project innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GPS-tagged media enabling automated geo-mapping - cue: 'automated geo-mapping'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS GPS-tagged supervision is routine Bank monitoring tool, not project innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1299
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 562,
+      "char_start": 95696,
+      "char_end": 95823,
+      "sentence": "The sustainability of the road network is being addressed through the development of a Road Asset Management System within MoT.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Road Asset Management System with road database and planning analysis",
+      "reason": "reject: RAMS Action Plan supported by ADB, EBRD, IsDB, JICA; donor-coordinated background",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: road database and analysis-driven maintenance planning - cue: 'data analysis'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "RAMS Action Plan supported by ADB, EBRD, IsDB, JICA; donor-coordinated background",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1367
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 582,
+      "char_start": 98376,
+      "char_end": 98566,
+      "sentence": "UNCTAD has extensive experience of trade facilitation initiatives and, in particular, the installation, commissioning and operation of the Automated System for Customs Data (ASYCUDA) system.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "ASYCUDA customs data system for border process rationalization",
+      "reason": "reject: ASYCUDA installation is standard customs automation, routine MDB practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: automated customs data platform at borders - cue: 'automated'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ASYCUDA installation is standard customs automation, routine MDB practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1323
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 646,
+      "char_start": 109325,
+      "char_end": 109509,
+      "sentence": "The introduction of a new Customs ICT system will help address critical bottlenecks to trade and align the regulatory regimes of Tajikistan with its regional and global trade partners.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ASYCUDA World customs ICT system for automated clearance",
+      "reason": "reject: Replacing failed UAIS with ASYCUDA is standard customs automation, routine practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: interoperable automated customs platform - cue: 'new Customs ICT system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Replacing failed UAIS with ASYCUDA is standard customs automation, routine practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1322
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 653,
+      "char_start": 110314,
+      "char_end": 110587,
+      "sentence": "In place of UAIS, the Government of Tajikistan expressed its interest to introduce the Automated System for Customs Data (ASYCUDA) provided by United Nations Conference on Trade and Development (UNCTAD), the system that is successfully implemented in neighboring countries.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "ASYCUDA World customs system interoperable with neighbouring countries",
+      "reason": "reject: ASYCUDA World interoperability is standard customs platform, routine MDB practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: cross-border interoperable customs platform - cue: 'compatible'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "ASYCUDA World interoperability is standard customs platform, routine MDB practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1299
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 823,
+      "char_start": 138003,
+      "char_end": 138264,
+      "sentence": "First, the proposed project will establish processes for participatory planning and needs assessments through a series of digital (virtual, online) or traditional focus group discussions, blended to adapt to post- COVID circumstances and prevailing regulations.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Digital and blended focus groups for participatory road-safety planning",
+      "reason": "reject: Focus groups may be virtual or traditional; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: blended digital focus groups for community design input - cue: 'participatory-planning'",
+      "innovation_cues": "participatory-planning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Focus groups may be virtual or traditional; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1257
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 830,
+      "char_start": 139478,
+      "char_end": 139592,
+      "sentence": "Third, a robust Beneficiary Feedback and Grievance Redress Mechanism will be established for the proposed project.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Multi-channel grievance mechanism via Facebook, WhatsApp, Viber",
+      "reason": "reject: Standard safeguards grievance mechanism; social-app channels routine, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New delivery arrangement: grievance intake through social messaging apps - cue: 'grievance-redress'",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard safeguards grievance mechanism; social-app channels routine, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1569
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 836,
+      "char_start": 140161,
+      "char_end": 140568,
+      "sentence": "Such communication campaign may include frequent beneficiary surveys (for example through online user report card surveys) as well as communications about the objectives of the project, main activities, status of Page 34 of 66 The World Bank Fourth Phase of the Central Asia Regional Links Program (P166820) implementation and next steps through leaflets, posters and localized public consultation meetings.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Online user report card beneficiary surveys",
+      "reason": "reject: Online user report card surveys are routine M&E; only 'may include', not committed",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: online citizen scorecards for project feedback - cue: 'survey'",
+      "innovation_cues": "grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Online user report card surveys are routine M&E; only 'may include', not committed",
+          "reject_code": "not_innovative",
+          "context_chars": 1569
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 866,
+      "char_start": 146528,
+      "char_end": 146810,
+      "sentence": "To make staff accountable to adequate service standards, customers will be given an opportunity to leave anonymous feedback, protocols will be defined to respond to the complaints in a timely manner, and the customer satisfaction will be tracked separately of female and male users.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Anonymous customer feedback with gender-disaggregated satisfaction tracking",
+      "reason": "reject: Anonymous feedback and gender-split satisfaction tracking; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: anonymous feedback plus gender-split satisfaction tracking - cue: 'privacy'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Anonymous feedback and gender-split satisfaction tracking; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1325
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 951,
+      "char_start": 159482,
+      "char_end": 159748,
+      "sentence": "Such risks will be mitigated through the use of digital data collection and monitoring, enabled by GEMS, and strict enforcement of guidelines and procedures to protect the health of workers and communities during works contracts as stipulated in the ESF instruments.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GEMS-enabled digital data collection and monitoring for works supervision",
+      "reason": "reject: GEMS digital data collection is standard Bank supervision tool, not project innovation",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: GEMS digital data collection replaces in-person monitoring - cue: 'digital data collection'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GEMS digital data collection is standard Bank supervision tool, not project innovation",
+          "reject_code": "not_innovative",
+          "context_chars": 1433
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 959,
+      "char_start": 163642,
+      "char_end": 164489,
+      "sentence": "Detailed implementation plan for Developed and adopted by the Not prepared customs automation (Text) government (target by end of 2021) Implementation of customs automation No Yes pilot (Yes/No) Female customs officers at managerial level as share of total managers 5.00 10.00 (Percentage) Female customs inspectors as a share of 10.50 20.00 total inspectors (Percentage) Page 42 of 66 The World Bank Fourth Phase of the Central Asia Regional Links Program (P166820) IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection Travel time survey using a probe vehicle to Travel time between Travel time travel along the Kannibodam and Bekobod survey concerned road BCPs, measuring the conducted by section;",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Customs automation pilot with detailed implementation plan",
+      "reason": "reject: Pilot and implementation plan are standard rollout steps, not a distinct digital practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: piloted customs automation before scale-up - cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Pilot and implementation plan are standard rollout steps, not a distinct digital practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1901
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 969,
+      "char_start": 169228,
+      "char_end": 169914,
+      "sentence": "The indicator will measure the project’s establishment of functioning channels for citizen engagement (that follow approved MoT PIG procedures) at the representatives will use MoT PIG community (village or town) checklists to verify with monitoring in the design/planning and Semi- Mahalla and local Communities in target areas with and MoT PIG monitoring of rehabilitation annually women’s groups that effective citizen engagement channels evaluation and construction of roads to the approved reports ensure that local concerns procedures were and needs are addressed. implemented Procedures will ensure, inclusion, and that the feedback loop is closed by MoT information and response.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Community citizen-engagement channels with MoT checklists and feedback loop",
+      "reason": "reject: Community checklists and feedback loop; no named digital system, connectivity only incidental",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: community checklist verification of road works - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Community checklists and feedback loop; no named digital system, connectivity only incidental",
+          "reject_code": "not_digital",
+          "context_chars": 1446
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 1157,
+      "char_start": 207665,
+      "char_end": 207832,
+      "sentence": "The Single Window Center operates in the form of the State Unitary Enterprise under the Customs Service, which was established in 2010 through a government Resolution.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Single Window Center connecting agencies for trade permits",
+      "reason": "reject: Single Window Center is an existing government/ADB-financed entity described as context, not CARs-4 activity",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New delivery arrangement: multi-agency single window for permits - cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Single Window Center predates project (2010); unclear whether CARs-4 finances or only describes it",
+          "reject_code": "",
+          "context_chars": 1410
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Single Window Center is an existing government/ADB-financed entity described as context, not CARs-4 activity",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 40575
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 405,
+      "char_start": 69236,
+      "char_end": 69706,
+      "sentence": "(i) Upgrading of the Customs information and communication technology (ICT) platform (estimated at US$12.8 million) would include equipment and facilities (computers, networking equipment, data center, end-use terminals), customs automation software suitably adapted and tested to be compatible with local requirements and including a module to facilitate relief consignment in the event of natural disasters and other emergencies, and implementation support up to 2025.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Customs ICT platform upgrade with disaster relief consignment module",
+      "reason": "reject: final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: customs automation with emergency relief consignment module - cue: 'module'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: customs automation platform | Innovative: disaster relief consignment module | Category: Technological",
+          "reject_code": "",
+          "context_chars": 1690
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 661,
+      "char_start": 111893,
+      "char_end": 112177,
+      "sentence": "The new ICT solution would enable a paperless customs declaration and border clearance procedures and transparent implementation of Customs and other border controls, covering all modes of transport and all types of cargo including those handled in the express cargo and postal modes.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Paperless customs declaration with electronic signatures and e-documents",
+      "reason": "reject: final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: paperless border clearance across all cargo modes - cue: 'paperless'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: e-declaration with e-signatures | Innovative: paperless clearance all cargo modes | Category: digital customs system",
+          "reject_code": "",
+          "context_chars": 1355
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 975,
+      "char_start": 173721,
+      "char_end": 174918,
+      "sentence": "the Services detailed covering (i) Project project reviewed and implementation plan Page 49 of 66 The World Bank Fourth Phase of the Central Asia Regional Links Program (P166820) governance and operational assessed by covering all areas listed framework, (ii) technical and independent in the description functional requirements of technical the proposed solution, (iii) expert The identified legal, regulatory and procedural gaps (iii) Technology architecture and procurement elements, (iv) Project schedule, including activities, timelines and milestones, (v) Project benefits profile, including the expected benefits mapped to milestones, (vi) Project risks and mitigation strategies, and (vii) change management strategy Reporting by The pilot implementation of Customs the Customs Automated Services system covering the basic Once at the Customs Service to plan reviewed and Implementation of customs automation Customs features for import end of the and implement a pilot Customs Service assessed by pilot and export is launched for at project project, and report on it independent least one land border technical crossing and Dushanbe expert airport The project aims to promote Reporting by",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Pilot Customs Automated Services system at one land border crossing and Dushanbe airport",
+      "reason": "reject: final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: automated customs clearance piloted before national rollout - cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: Customs Automated Services system | Innovative: phased pilot before national rollout | Category: technological customs automation",
+          "reject_code": "",
+          "context_chars": 1778
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 1094,
+      "char_start": 195898,
+      "char_end": 196639,
+      "sentence": "The Customs Service has developed 52 the following narrative on advantages to the public and private sector stakeholders: Table A-9: Enhanced Customs Automation- advantages to the government and private sector stakeholders Benefits to the Customs Service Benefits to the Private Sector Indirect, economy-wide benefits • Modernized and streamlined Customs legislation, • Online, web-based access to customs • A more reliable and predictable international administrative instructions and business- automated system, Direct Trader Input & trade supply chain; processes; remote lodgment; • Improved ease of participation of firms in • Optimized structure of the Customs • Minimal face-to-face contacts between international trade administration;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Web-based customs system with Direct Trader Input and remote lodgment",
+      "reason": "reject: final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: online trader self-declaration and remote lodgment - cue: 'automated'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: web-based customs system | Innovative: online trader self-declaration, remote lodgment | Category: technological",
+          "reject_code": "",
+          "context_chars": 1479
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: customs automation ICT platform with paperless declarations | Before 2019: customs automation standard in WBG/ADB trade facilitation projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 680,
+      "char_start": 114991,
+      "char_end": 115516,
+      "sentence": "The automated system will enable the introduction of new, more efficient practices, including risk-based inspections; post-clearance compliance checks and controls; pre-arrival processing; the ‘Authorized Economic Operator’ (AEO) program for traders with demonstrated track record of compliance; introduction of binding advance rulings on classification, valuation and origin; electronic methods for payment of duties, taxes and fees; and separation of border clearance from the final determination of duties, taxes and fees.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Automated risk-based customs clearance with AEO and advance rulings",
+      "reason": "reject: final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: risk-based clearance replacing manual inspection - cue: 'new, more efficient practices'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: automated clearance system | Innovative: risk-based AEO, advance rulings, e-payment | Category: re-engineered clearance process",
+          "reject_code": "",
+          "context_chars": 1708
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 681,
+      "char_start": 115517,
+      "char_end": 115859,
+      "sentence": "Keeping in view the disaster proneness of the region as well as to ensure the movement of essential goods under emergency situations such as COVID-19, the automated system will house a module to enable border management agencies to swiftly and efficiently handle relief consignments during disasters at Tajikistan’s land borders and airports.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Disaster relief consignment module in customs system",
+      "reason": "reject: final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: emergency cargo fast-track in customs ICT - cue: 'module'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: customs disaster-relief module | Innovative: emergency consignment fast-track | Category: new clearance process",
+          "reject_code": "",
+          "context_chars": 1231
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 958,
+      "char_start": 162959,
+      "char_end": 163641,
+      "sentence": "Facilitate cross-border movement of goods Establishment of customs procedures for paper-free clearance operations, including electronic payment of duties, No Yes taxes and fees (Yes/No) The established customs procedures Implementation of procedures for There is no established customs Customs procedures are for processing of pre-arrival lodgement of pre-arrival information and procedures for processing of pre- established for processing of pre- information and risk-based border arrival information or risk-based arrival information and risk-based risk-based border clearance (Text) clearance are being implemented border clearance. border clearance. using the automated system.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Automated customs system for pre-arrival risk-based clearance",
+      "reason": "reject: final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: automated risk-based pre-arrival customs clearance - cue: 'automated'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: automated customs system | Innovative: pre-arrival risk-based clearance | Category: re-engineered clearance process",
+          "reject_code": "",
+          "context_chars": 1812
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "905511596420087199",
+      "doc_type": "PAD",
+      "position": 974,
+      "char_start": 172522,
+      "char_end": 173720,
+      "sentence": "Service will develop regulatory and Customs Review and administrative procedures Once in the Establishment of customs procedures for Service’s confirmation of the to operationalize paper-free second paper-free clearance operations, including enactment of Customs Service’s Customs Service clearance operation, to be year of the electronic payment of duties, taxes and the enactment of the compatible with and project fees procedures procedures implemented upon the development of the automation system Customs Service will develop regulatory and administrative procedures Customs Review and to enable pre-arrival Service’s confirmation of the Implementation of procedures for information and risk-based Annually enactment of Customs Service’s Customs Service lodgement of pre-arrival information and border clearance, to be the enactment of the risk-based border clearance compatible with and procedures procedures implemented upon the development of the automation system A detailed plan for customs Once in the Reporting by Customs Service to Detailed implementation plan for customs automation is to be second Customs document their Customs Service automation prepared under the project, year of",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Paper-free customs clearance with electronic payment of duties",
+      "reason": "reject: final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: paper-free clearance procedures with electronic duty payment - cue: 'electronic payment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: paper-free clearance and e-payment | Innovative: electronic duty payment | Category: clearance process, not financial product",
+          "reject_code": "",
+          "context_chars": 2398
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: automated risk-based clearance, e-payment, AEO system | Before 2019: risk-based paperless customs standard in MDB trade projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 16,
+    "input_tokens": 26252,
+    "cached_tokens": 67698,
+    "cache_write_tokens": 0,
+    "output_tokens": 8311,
+    "seconds": 61.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0183
+  }
+}

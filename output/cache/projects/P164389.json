@@ -1,0 +1,488 @@
+{
+  "project_id": "P164389",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "6b3f65ab",
+  "started_at": "2026-11-07T03:23:02Z",
+  "ended_at": "2026-11-07T03:23:23Z",
+  "input_fingerprint": "3757aa0233fd7713",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 10,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P164389-A1",
+      "project_id": "P164389",
+      "name": "SCADA and automated sensor networks for dam operations and safety",
+      "description": "The project deploys SCADA and automated piezometer, extensometer and seismometer data collection to operate Cutzamala and monitor dam safety. Practices: SCADA system with monitoring network data for Cutzamala operations; Automated sensor data collection system for Cutzamala dam safety.",
+      "why_innovative": "New process: automated SCADA control of water supply network - cue: 'sistema SCADA' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "959371588573206103",
+        "doc_type": "PAD",
+        "doc_date": "2020-02-04",
+        "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+        "char_start": 102862,
+        "char_end": 103826,
+        "text": "MARCO DE RESULTADOS Y SEGUIMIENTO Marco de resultados PAÍS: México Programa de Seguridad Hídrica y Resiliencia para el Valle de México (PROSEGHIR) Objetivo de desarrollo del proyecto El objetivo de desarrollo del proyecto es mejorar la confiabilidad del Sistema Cutzamala y fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Indicadores del objetivo de desarrollo del proyecto RESULT FRAME TBL PDO Nombre del indicador IVD Valor de referencia Objetivo final Mejorar la confiabilidad del Sistema Cutzamala Mejora de la confiabilidad del Sistema Cutzamala para el 82,00 90,00 abastecimiento de agua a la ZMVM y la ZMT (porcentaje) Fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Presentación de informes anuales sobre aguas subterráneas (cantidad y calidad) que se utilizan para la toma de decisiones No Sí (Sí/No) Ejecución de un proyecto piloto de recarga gestionada de 0,00 1,00 acuíferos (número).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "959371588573206103",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-04",
+          "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+          "char_start": 117558,
+          "char_end": 118096,
+          "text": "La instrumentación de las presas del Sistema Cutzamala relacionada con la seguridad de las presas mediante la instalación de seis medidores del nivel del agua en las presas; la instalación de instrumentos para el monitoreo de la seguridad de las presas, como dispositivos de medición de filtración, piezómetros, extensómetros, monumentos de encuesta geodésicos, sismómetros, etcétera, y un sistema automatizado de recopilación de datos a fin de recopilar información agregada de los sensores/medidores a lo largo del Sistema Cutzamala. b.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: SCADA automation and sensor data are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Water Supply",
+        "code": "",
+        "confidence": null,
+        "rationale": "SCADA and monitoring data support operation of the Cutzamala water supply system.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SCADA + monitoring data | Innovative: automated control of Cutzamala supply | Category: technological system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: automated SCADA control of water supply network - cue: 'sistema SCADA'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P164389",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-04",
+      "guid": "959371588573206103",
+      "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:23:02Z",
+      "ended_at": "2026-11-07T03:23:02Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 16 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:23:02Z",
+      "ended_at": "2026-11-07T03:23:02Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-02-27, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:23:02Z",
+      "ended_at": "2026-11-07T03:23:06Z",
+      "status": "ok",
+      "note": "10 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 10,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 2,
+          "enabling_processes": 2,
+          "innovation_cycle": 4,
+          "innovation_types": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:23:06Z",
+      "ended_at": "2026-11-07T03:23:06Z",
+      "status": "ok",
+      "note": "PAD 2020-02-04 (P164389_PAD_2020-02-04_959371588573206103.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P164389",
+            "doc_type": "PAD",
+            "doc_date": "2020-02-04",
+            "guid": "959371588573206103",
+            "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:23:06Z",
+      "ended_at": "2026-11-07T03:23:06Z",
+      "status": "ok",
+      "note": "139 reading units (25 numbered paragraphs) from 1019 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 139
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:23:06Z",
+      "ended_at": "2026-11-07T03:23:10Z",
+      "status": "ok",
+      "note": "9 of 139 units carry a digital / AI cue (0 also an innovation cue); 0 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 9,
+        "dropped": 0,
+        "legal_condition": 0,
+        "with_innovation_cue": 0
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:23:10Z",
+      "ended_at": "2026-11-07T03:23:16Z",
+      "status": "ok",
+      "note": "5 candidate practices from 9 units in 1 calls",
+      "llm_calls": 1,
+      "input_chars": 29496,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 196,
+          "cached_tokens": 6784,
+          "cache_write_tokens": 0,
+          "output_tokens": 855,
+          "seconds": 6.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0011
+        },
+        "extracted": 5
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:23:16Z",
+      "ended_at": "2026-11-07T03:23:18Z",
+      "status": "ok",
+      "note": "2 accepted, 3 rejected (not_innovative 2, not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 27285,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 3248,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 342,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0014
+        },
+        "accepted": 2,
+        "rejected": 3,
+        "expanded": 0,
+        "reject_codes": {
+          "not_digital": 1,
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:23:18Z",
+      "ended_at": "2026-11-07T03:23:20Z",
+      "status": "ok",
+      "note": "2 of 2 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1203,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 292,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 75,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:23:20Z",
+      "ended_at": "2026-11-07T03:23:21Z",
+      "status": "ok",
+      "note": "2 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1283,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 302,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 62,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 1,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:23:21Z",
+      "ended_at": "2026-11-07T03:23:23Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4101,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 629,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 69,
+          "seconds": 1.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:23:23Z",
+      "ended_at": "2026-11-07T03:23:23Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 3 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:23:23Z",
+      "ended_at": "2026-11-07T03:23:23Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 7
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P164389-A1-E1",
+      "approach_id": "P164389-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P164389",
+      "doc_id": "959371588573206103",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-04",
+      "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+      "unit_id": "U75",
+      "para_no": null,
+      "sentence_position": 579,
+      "char_start": 102862,
+      "char_end": 103826,
+      "sentence": "MARCO DE RESULTADOS Y SEGUIMIENTO Marco de resultados PAÍS: México Programa de Seguridad Hídrica y Resiliencia para el Valle de México (PROSEGHIR) Objetivo de desarrollo del proyecto El objetivo de desarrollo del proyecto es mejorar la confiabilidad del Sistema Cutzamala y fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Indicadores del objetivo de desarrollo del proyecto RESULT FRAME TBL PDO Nombre del indicador IVD Valor de referencia Objetivo final Mejorar la confiabilidad del Sistema Cutzamala Mejora de la confiabilidad del Sistema Cutzamala para el 82,00 90,00 abastecimiento de agua a la ZMVM y la ZMT (porcentaje) Fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Presentación de informes anuales sobre aguas subterráneas (cantidad y calidad) que se utilizan para la toma de decisiones No Sí (Sí/No) Ejecución de un proyecto piloto de recarga gestionada de 0,00 1,00 acuíferos (número).",
+      "practice": "SCADA system with monitoring network data for Cutzamala operations",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Water Supply",
+      "extractor_reason": "Digital core: SCADA and monitoring network data | Not routine: automated control replaces manual operation | Adoption: 'Implementación del sistema SCADA'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SCADA + monitoring data | Innovative: automated control of Cutzamala supply | Category: technological system",
+      "keywords_hit": "uso de datos",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated SCADA control of water supply network - cue: 'sistema SCADA'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6b3f65ab"
+    },
+    {
+      "row_id": "P164389-A1-E2",
+      "approach_id": "P164389-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P164389",
+      "doc_id": "959371588573206103",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-04",
+      "file_name": "P164389_PAD_2020-02-04_959371588573206103.txt",
+      "unit_id": "U84",
+      "para_no": null,
+      "sentence_position": 622,
+      "char_start": 117558,
+      "char_end": 118096,
+      "sentence": "La instrumentación de las presas del Sistema Cutzamala relacionada con la seguridad de las presas mediante la instalación de seis medidores del nivel del agua en las presas; la instalación de instrumentos para el monitoreo de la seguridad de las presas, como dispositivos de medición de filtración, piezómetros, extensómetros, monumentos de encuesta geodésicos, sismómetros, etcétera, y un sistema automatizado de recopilación de datos a fin de recopilar información agregada de los sensores/medidores a lo largo del Sistema Cutzamala. b.",
+      "practice": "Automated sensor data collection system for Cutzamala dam safety",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Water Supply",
+      "extractor_reason": "Digital core: automated dam-safety sensor network | Not routine: real-time aggregated safety monitoring | Adoption: 'mediante la instalación'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated sensor aggregation | Innovative: real-time dam-safety monitoring | Category: technological",
+      "keywords_hit": "encuesta",
+      "innovation_cues": "",
+      "innovation_basis": "New system: automated dam-safety sensor data aggregation - cue: 'sistema automatizado'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6b3f65ab"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "959371588573206103",
+      "doc_type": "PAD",
+      "position": 579,
+      "char_start": 102862,
+      "char_end": 103826,
+      "sentence": "MARCO DE RESULTADOS Y SEGUIMIENTO Marco de resultados PAÍS: México Programa de Seguridad Hídrica y Resiliencia para el Valle de México (PROSEGHIR) Objetivo de desarrollo del proyecto El objetivo de desarrollo del proyecto es mejorar la confiabilidad del Sistema Cutzamala y fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Indicadores del objetivo de desarrollo del proyecto RESULT FRAME TBL PDO Nombre del indicador IVD Valor de referencia Objetivo final Mejorar la confiabilidad del Sistema Cutzamala Mejora de la confiabilidad del Sistema Cutzamala para el 82,00 90,00 abastecimiento de agua a la ZMVM y la ZMT (porcentaje) Fortalecer la gestión de los recursos de aguas subterráneas en el Valle de México Presentación de informes anuales sobre aguas subterráneas (cantidad y calidad) que se utilizan para la toma de decisiones No Sí (Sí/No) Ejecución de un proyecto piloto de recarga gestionada de 0,00 1,00 acuíferos (número).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Managed aquifer recharge pilot with tertiary treated wastewater",
+      "reason": "reject: Managed aquifer recharge pilot is treatment/recharge infrastructure, no digital core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: pilot aquifer recharge using treated effluent - cue: 'proyecto piloto'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Managed aquifer recharge pilot is treatment/recharge infrastructure, no digital core",
+          "reject_code": "not_digital",
+          "context_chars": 2285
+        }
+      ]
+    },
+    {
+      "guid": "959371588573206103",
+      "doc_type": "PAD",
+      "position": 620,
+      "char_start": 116702,
+      "char_end": 117154,
+      "sentence": "La compra e instalación de instrumentación piezométrica para el monitoreo de aguas subterráneas en las subcuencas de contribución al Sistema Cutzamala mediante la Página 39 de 71 Banco Mundial Proyecto de Seguridad Hídrica y Resiliencia del Valle de México (PROSEGHIR) (P164389) instrumentación de 25 pozos para recopilar datos piezométricos y de temperatura, y 25 pozos para recopilar datos piezométricos, de temperatura y de la calidad del agua. iii.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Piezometric and water-quality well monitoring instrumentation",
+      "reason": "reject: Instrumenting wells for piezometric/quality data is routine groundwater monitoring",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: groundwater monitoring network of instrumented wells - cue: 'instrumentación'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Instrumenting wells for piezometric/quality data is routine groundwater monitoring",
+          "reject_code": "not_innovative",
+          "context_chars": 1394
+        }
+      ]
+    },
+    {
+      "guid": "959371588573206103",
+      "doc_type": "PAD",
+      "position": 621,
+      "char_start": 117155,
+      "char_end": 117557,
+      "sentence": "Instrumentación hidrométrica de los embalses y canales de transporte a cielo abierto (ríos y canales) para monitorear la distribución y el uso del agua, incluida la calidad del agua del embalse, mediante la rehabilitación de 12 estaciones hidrométricas existentes, la instalación de 5 nuevas estaciones hidrométricas y la instalación de 9 medidores flotantes de la calidad del agua en los embalses. iv.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Hydrometric stations and floating quality meters for reservoirs",
+      "reason": "reject: Rehabilitating hydrometric stations and quality meters is standard monitoring practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: hydrometric and quality monitoring network - cue: 'Instrumentación hidrométrica'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Rehabilitating hydrometric stations and quality meters is standard monitoring practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1394
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 5,
+    "input_tokens": 4667,
+    "cached_tokens": 10112,
+    "cache_write_tokens": 0,
+    "output_tokens": 1403,
+    "seconds": 12.9,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0031
+  }
+}

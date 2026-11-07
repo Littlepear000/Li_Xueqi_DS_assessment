@@ -1,0 +1,277 @@
+{
+  "project_id": "P177372",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "bcea7704",
+  "started_at": "2026-11-07T03:33:44Z",
+  "ended_at": "2026-11-07T03:33:50Z",
+  "input_fingerprint": "e7da111f069a2fea",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 16,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P177372",
+      "doc_type": "PAD",
+      "doc_date": "2025-05-20",
+      "guid": "099609105232519898",
+      "file_name": "P177372_PAD_2025-05-20_099609105232519898.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:33:44Z",
+      "ended_at": "2026-11-07T03:33:45Z",
+      "status": "ok",
+      "note": "1 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:45Z",
+      "ended_at": "2026-11-07T03:33:45Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-06-11, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:45Z",
+      "ended_at": "2026-11-07T03:33:45Z",
+      "status": "ok",
+      "note": "16 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 16,
+        "tier": "High",
+        "by_dimension": {
+          "public_good": 2,
+          "enabling_processes": 5,
+          "innovation": 1,
+          "innovation_cycle": 2,
+          "innovation_types": 5,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:45Z",
+      "ended_at": "2026-11-07T03:33:45Z",
+      "status": "ok",
+      "note": "PAD 2025-05-20 (P177372_PAD_2025-05-20_099609105232519898.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P177372",
+            "doc_type": "PAD",
+            "doc_date": "2025-05-20",
+            "guid": "099609105232519898",
+            "file_name": "P177372_PAD_2025-05-20_099609105232519898.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:45Z",
+      "ended_at": "2026-11-07T03:33:45Z",
+      "status": "ok",
+      "note": "113 reading units (4 numbered paragraphs) from 878 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 113
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:45Z",
+      "ended_at": "2026-11-07T03:33:47Z",
+      "status": "ok",
+      "note": "28 of 113 units carry a digital / AI cue (4 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 28,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 4
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:47Z",
+      "ended_at": "2026-11-07T03:33:49Z",
+      "status": "ok",
+      "note": "1 candidate practices from 28 units in 3 calls",
+      "llm_calls": 3,
+      "input_chars": 91875,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 525,
+          "cached_tokens": 19072,
+          "cache_write_tokens": 0,
+          "output_tokens": 574,
+          "seconds": 5.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.001
+        },
+        "extracted": 1
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:49Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "ok",
+      "note": "0 accepted, 1 rejected (not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 17394,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 615,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 56,
+          "seconds": 1.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "accepted": 0,
+        "rejected": 1,
+        "expanded": 0,
+        "reject_codes": {
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "skipped",
+      "note": "no accepted approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "skipped",
+      "note": "0 approaches -> 0 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "skipped",
+      "note": "no approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 1 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:50Z",
+      "ended_at": "2026-11-07T03:33:50Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P180085",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "financed projects. CNTIPPEE is familiar with the World Bank’s FM requirements and is currently adequately managing three other World Bank projects: (i) Digital Gabon Project – P175987; (ii) eGabon – P132824; and (iii) Harmonizing and Improving Statistics in West and Central Africa (HISWACA-SOP 2) – P180085. CNTIPPEE’s fiduciary platform includes an accounting system, a manual of procedures (MOP, u"
+          }
+        ],
+        "store_size": 176
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "099609105232519898",
+      "doc_type": "PAD",
+      "position": 457,
+      "char_start": 76723,
+      "char_end": 76880,
+      "sentence": "Finally, the PIU will use geospatial tools to map and monitor project investments to inform decisions on targeting, beneficiaries and operational challenges.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "geospatial mapping of project investments for targeting decisions",
+      "reason": "reject: Geospatial mapping for M&E and targeting is routine MDB practice, not a new process",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: geospatial mapping drives investment targeting - cue: 'geospatial'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Geospatial mapping for M&E and targeting is routine MDB practice, not a new process",
+          "reject_code": "not_innovative",
+          "context_chars": 1278
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 4,
+    "input_tokens": 1140,
+    "cached_tokens": 22016,
+    "cache_write_tokens": 0,
+    "output_tokens": 630,
+    "seconds": 7.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0012
+  }
+}

@@ -1,0 +1,1802 @@
+{
+  "taxonomy": "Digital & Data Approach Taxonomy (DDAT)",
+  "version": "1.0",
+  "built_on": "2026-11-06",
+  "source": {
+    "title": "The World Bank Theme Taxonomy: June 2025",
+    "publisher": "World Bank, Operations Policy and Country Services",
+    "handle": "https://openknowledge.worldbank.org/handle/10986/43948",
+    "local_file": "background/The World Bank Theme Taxonomy.pdf",
+    "sections": "[250000] Digital Transformation (pp. 371-430); [270000] Data Ecosystem (pp. 441-474)"
+  },
+  "note": "Definitions, typical examples and excluded examples are copied verbatim from the source; only line breaks and end-of-line hyphenation were normalised. Each second-level theme is one approach.",
+  "approach_count": 21,
+  "approaches": [
+    {
+      "approach_code": "250100",
+      "approach_name": "Broadband Connectivity",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities aimed at connecting people, institutions, or businesses to the internet. Supply-side activities focusing on the deployment of broadband infrastructure to close the access gap as well as demand-side initiatives to address barriers affecting the uptake of broadband are included.",
+      "typical_examples": [
+        {
+          "text": "Deployment of broadband networks (direct investment in digital infrastructure and funding consolidated broadband services demand for government or public entities)"
+        },
+        {
+          "text": "Voucher programs and subsidies/financing for internet-connected devices access (computers, smartphones, tablets, and so on)"
+        },
+        {
+          "text": "Telecom and information and communication technology (ICT) policies, regulations, and legislations/law including infrastructure sharing, licensing, spectrum management, quality of service standards setting, numbering, universal service/ access, and all other laws and regulations in the realm of regulatory oversight in the field of telecommunications and policy aimed at increasing broadband connectivity"
+        },
+        {
+          "text": "Regulation or measures to promote competition and boost affordability, including but not limited to the regulation of significant market power, support to market liberalization in telecom markets, and support to (partial) privatization of telecom state-owned enterprises (SOEs)"
+        },
+        {
+          "text": "Measures to create an enabling environment for private investment, including direct interventions to support public-private partnerships (PPPs)"
+        },
+        {
+          "text": "Institutional support and capacity building to telecommunications regulators and policy makers in the field on telecommunications, broadband networks, and device access."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250101",
+          "name": "Broadband Enabling Environment",
+          "definition": "Activities aimed at creating an enabling environment for investment in broadband infrastructure, including through advisory support on improving telecommunications regulatory frameworks and policies, capacity building, and institutional support in the field of broadband connectivity infrastructure, services, and devices to relevant agencies and ministries, and support to privatization and liberalization in telecommunications markets.",
+          "typical_examples": [
+            {
+              "text": "Telecom and information and communication technology (ICT) policies, regulations, and legislations/law including infrastructure sharing, licensing, spectrum management, quality of service standards setting, numbering, universal service/access and all other laws and regulations in the realm of regulatory oversight in the field of telecommunications and policy aimed at increasing broadband connectivity"
+            },
+            {
+              "text": "Regulation or measures to promote competition and boost affordability of broadband services, including but not limited to the regulation of significant market power, support to market liberalization in telecom markets, and support to (partial) privatization of telecom state-owned enterprises (SOEs)"
+            },
+            {
+              "text": "Measures to create an enabling environment for private investment including enabling public-private partnerships (PPPs)"
+            },
+            {
+              "text": "Institutional support and capacity building to telecommunications regulators and policy makers in the field on telecommunications, broadband networks, and device access."
+            }
+          ],
+          "source_page": 373
+        },
+        {
+          "code": "250102",
+          "name": "Broadband Infrastructure & Services",
+          "definition": "Investments in the first, middle, and last mile of broadband networks, including through public-private partnerships (PPPs), subsidies, or indirect means such as demand aggregation activities.",
+          "typical_examples": [
+            {
+              "text": "Investments in first-mile (submarine cables, landing stations, and cross-border links), middle-mile (backbone and intercity networks), and last-mile (mobile and fixed access networks) connectivity"
+            },
+            {
+              "text": "Contributions to formal PPPs such as special purpose vehicle (SPVs) for investments in submarine cables, cross-border links, and backbone networks"
+            },
+            {
+              "text": "Bulk purchase of broadband connectivity to aggregate demand either for public institutions such as schools, health centers, and government agencies, often connected to the creation of (virtual) government networks (GovNet) or National Research and Education Networks (NREN), or at the wholesale level where the public sector pre-purchases capacity in bulk from international operators through a long-term contract and resells it locally to smaller market players or to the whole market"
+            },
+            {
+              "text": "Activities supporting the sharing of active and passive infrastructure, both within the telecommunications sector and with other infrastructure sectors, such as when electricity transmission companies commercialize (dark) fiber along transmission networks."
+            }
+          ],
+          "source_page": 375
+        },
+        {
+          "code": "250103",
+          "name": "Digital Device Access for All",
+          "definition": "Activities that aim to increase access to internet-connected devices such as smartphones, smart feature phones, tablets, laptops, and computers.",
+          "typical_examples": [
+            {
+              "text": "Creation of targeted end-user subsidy programs for Base of the Pyramid or special groups such as women, persons with disabilities, farmers, health workers, and teachers"
+            },
+            {
+              "text": "Bulk purchase of laptops, tablets, and stationary computers for educational institutions, health centers, government agencies, and other public institutions as applicable"
+            },
+            {
+              "text": "Creation of risk-sharing instruments to facilitate consumer lending for smart device access, such as guarantees, exchange rate support, and interest rate subsidies."
+            }
+          ],
+          "source_page": 376
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "EDU, FCI, HNP",
+      "source_page": 372
+    },
+    {
+      "approach_code": "250200",
+      "approach_name": "Data Infrastructure",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities for the development or strengthening of infrastructure needed to provide for the storage and processing of digital data as well as the deployment of software platforms and applications. Data infrastructure includes data center facilities, information technology (IT) equipment deployed in data centers, and cloud platforms rendering this IT equipment accessible over the internet, irrespective of whether this infrastructure is owned or operated by public or private sector actors.",
+      "typical_examples": [
+        {
+          "text": "Financing, deployment, and upgrade of data centers, including government facilities (national data centers [NDCs] and national disaster recovery data centers) and commercial colocation facilities"
+        },
+        {
+          "text": "Deployment and upgrade of the data storage and computing infrastructure housed within data centers, such as storage systems, servers, processing units, switches, and routers"
+        },
+        {
+          "text": "Facilitation of adoption of cloud services, by government and private sectors, including subscription to cloud services deployed on public, community, and/or private clouds, with services provided through infrastructure as a service (IaaS), platform as a service (PaaS), and/or software as a service (SaaS) models, as well as support on policy, security, migration, procurement, and workforce development"
+        },
+        {
+          "text": "Implementation of cloud platforms supplying cloud services, including but not limited to implementation of private cloud and/or community cloud environments reserved for government use (sometimes called government clouds or G-clouds), irrespective of the types of data infrastructure onto which these cloud service platforms are deployed"
+        },
+        {
+          "text": "Cloud and data center market development support to incentivize market entry from cloud service providers, such as through the reforms to the enabling environment, including enabling cross-border data flows, providing intermediary liability protection for data infrastructure providers and other reforms to enable data center and cloud market development."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250201",
+          "name": "Data Centers",
+          "definition": "Activities related to the acquisition, development, upgrade, and investment of physical data hosting facilities to house and secure data. These activities involve the provision of raised floor space, power supply, and security measures to ensure a reliable environment for the day-to-day operations. Data centers can be owned, operated, and financed by government or by the private sector and as part of public-private partnerships (PPPs).",
+          "typical_examples": [
+            {
+              "text": "Financing and deployment of government data centers, including national data centers, national disaster recovery data centers, or other data center facilities serving individual ministries, departments, and agencies"
+            },
+            {
+              "text": "Use of commercial colocation data centers and carrier hotels that provide data hosting services to multiple clients, including but not limited to cloud services providers, private enterprises, government actors, or mobile network operators (for example, to deploy Content Delivery Networks [CDN] or Internet Exchange Points [IXP])"
+            },
+            {
+              "text": "Operational upgrades in cooling and power systems for existing data centers and/or disaster recovery centers"
+            },
+            {
+              "text": "Private capital mobilization (PCM) for data centers, including through PPPs and the implementation of polices and regulations such as intermediary liability protection and regional regulatory harmonization."
+            }
+          ],
+          "source_page": 379
+        },
+        {
+          "code": "250202",
+          "name": "Data Storage and Computing Infrastructure",
+          "definition": "Activities focused on the acquisition, development, and upgrade of information technology (IT) infrastructure within data centers. They include storage infrastructure, such as storage systems and devices; compute infrastructure, including servers, processing units, such as Central Processing Units (CPUs) and Graphics Processing Units (GPUs); and network infrastructure, such as cables, switches, and routers to connect data center components to each other and end-user locations.",
+          "typical_examples": [
+            {
+              "text": "Storage infrastructure. Acquisition and upgrade of storage systems and devices to support data management needs, including disaster recovery systems to ensure business continuity"
+            },
+            {
+              "text": "Compute infrastructure. Acquisition and upgrade of servers and processing units to support the increasing processing needs"
+            },
+            {
+              "text": "Network infrastructure. Upgrades to network components for optimized data transfer and connectivity within the data center and to external locations."
+            }
+          ],
+          "source_page": 380
+        },
+        {
+          "code": "250203",
+          "name": "Cloud Computing",
+          "definition": "Activities focused on enabling on-demand access to data storage and computing infrastructure over a network, including the internet. These efforts aim to enhance scalability, cost-effectiveness, and security for data-driven operations across governments and businesses. Key World Bank initiatives include facilitation of government cloud adoption, implementation and deployment of government cloud platforms, and support for the broader cloud computing market development.",
+          "typical_examples": [
+            {
+              "text": "Facilitate adoption of cloud services across government, by government and private sector, including subscription to cloud services deployed on public, community, and/or private clouds, with services offered through various cloud service models including infrastructure as a service (IaaS), platform as a service (PaaS), and/or software as a service (SaaS). Coded activities include",
+              "sub": [
+                "Policy and regulations. Development of data hosting strategy, cloud-first (cloud-smart) policies, and risk-based data protection policies, including data classification frameworks",
+                "Security and governance. Adoption and compliance of security standards, labels, and certifications for cloud adoption",
+                "Cloud migration. Migration of existing services and workloads to the cloud through various migration strategies, such as re-host, repurchase, re-platform, and re-architect, and development and purchase of cloud-based government services or applications (see Theme code [250704] User-centric Service Delivery)",
+                "Procurement. Creation of cloud marketplace and revamp of procurement guidelines to facilitate centralized procurement driven by framework agreements",
+                "Workforce. Assessment of skills gap for cloud adoption and establishment of Cloud Center of Excellence (or equivalent) to reskill and hire staff for cloud-based information and communication technology (ICT) roles."
+              ]
+            },
+            {
+              "text": "Implement cloud platforms supplying cloud services, including but not limited to implementation of private cloud and/or community cloud environments reserved for government use (sometimes called government clouds or G-clouds), irrespective of the types of data infrastructure onto which these cloud service platforms are deployed."
+            },
+            {
+              "text": "Cloud and data center market development support to incentivize market entry from cloud service providers, such as through reforms to the enabling environment, including enabling cross-border data flows, providing intermediary liability protection for data infrastructure providers, and other reforms to enable data center and cloud market development."
+            }
+          ],
+          "source_page": 381
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "GOV",
+      "source_page": 377
+    },
+    {
+      "approach_code": "250300",
+      "approach_name": "AI and Emerging Technologies",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities focused on adopting, developing, and managing artificial intelligence (AI) and other emerging technologies to enhance capabilities, efficiency, and innovation across sectors. These efforts include the formulation of strategies and policies, development of foundational and enabling infrastructure, deployment of solutions, and the exploration of new technologies such as Internet of Things (IoT), quantum computing, and blockchain. Emphasis is placed on ensuring responsible, sustainable, and ethical use of these technologies while addressing associated risks and governance challenges.",
+      "typical_examples": [
+        {
+          "text": "Development of national or sector-specific AI strategies and policies, including ethical frameworks and regulatory approaches"
+        },
+        {
+          "text": "Deployment of AI-based decision-making systems for public service delivery (for example, health care diagnostics, education personalization, or agricultural analytics)"
+        },
+        {
+          "text": "Exploration and piloting of emerging technologies such as blockchain for secure transactions, quantum computing for advanced analytics, or IoT for smart infrastructure"
+        },
+        {
+          "text": "Building of enabling frameworks for responsible AI adoption, including data privacy and protection measures, cybersecurity protocols, and energy-efficient infrastructure."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250301",
+          "name": "Artificial Intelligence Foundations",
+          "definition": "Activities that focus on building the foundational elements required for developing and deploying artificial intelligence (AI) systems. These include research and development of algorithms and models as well as creation of digital and data infrastructure such as compute capacity and data exchange platforms.",
+          "typical_examples": [
+            {
+              "text": "Development of AI algorithms, machine learning models, and foundational frameworks such as natural language processing or computer vision systems"
+            },
+            {
+              "text": "Creation of data lakes, high-quality training datasets, and data annotation frameworks to support AI development"
+            },
+            {
+              "text": "Investment in high-performance computing (HPC) and cloud infrastructure to support AI training and inference"
+            },
+            {
+              "text": "Review of the AI value chain, including on semiconductors"
+            },
+            {
+              "text": "Establishment of energy-efficient AI data centers and promotion of the use of renewable energy for AI computation."
+            }
+          ],
+          "source_page": 384
+        },
+        {
+          "code": "250302",
+          "name": "Artificial Intelligence Enablers",
+          "definition": "Activities aimed at creating the necessary ecosystem, workforce capabilities, and ethical and regulatory frameworks to guide artificial intelligence (AI) deployment and to enable large-scale AI adoption. These efforts support the broader adoption and scaling of AI technologies through investment in computational resources, capacity building, and collaboration frameworks.",
+          "typical_examples": [
+            {
+              "text": "Development of specialized workforce training programs for AI skills, including data science, machine learning, and AI ethics"
+            },
+            {
+              "text": "Building of partnerships between government, private sector, and academia to foster innovation and knowledge exchange in AI"
+            },
+            {
+              "text": "Establishment of AI governance and ethical frameworks, including policies on bias mitigation, fairness, and accountability in AI systems"
+            },
+            {
+              "text": "Development of standards and protocols for model transparency, explainability, and interoperability."
+            }
+          ],
+          "source_page": 385
+        },
+        {
+          "code": "250303",
+          "name": "Artificial Intelligence Services & Applications",
+          "definition": "Activities focused on the deployment and integration of artificial intelligence (AI) solutions to address specific sectoral challenges or deliver tangible outcomes. These efforts include using AI systems and applications for predictive analytics, automation, decision-making, and enhanced public or private sector service delivery.",
+          "typical_examples": [
+            {
+              "text": "Deployment of AI-powered diagnostic tools in health care or agricultural advisory systems for farmers"
+            },
+            {
+              "text": "Use of AI for predictive maintenance of critical infrastructure, such as power grids or transportation systems"
+            },
+            {
+              "text": "Implementation of conversational AI systems (for example, chatbots) to improve public service delivery and citizen engagement"
+            },
+            {
+              "text": "Adoption of AI-driven decision-making tools for urban planning, climate risk management, or disaster response."
+            }
+          ],
+          "source_page": 386
+        },
+        {
+          "code": "250304",
+          "name": "Other Emerging Technologies (IoT, Quantum, Blockchain, etc.)",
+          "definition": "Activities that explore, develop, and implement emerging technologies beyond artificial intelligence (AI) to address specific challenges or opportunities. These efforts include the piloting and scaling of technologies such as Internet of Things (IoT), quantum computing, blockchain, and others to complement AI and drive innovation.",
+          "typical_examples": [
+            {
+              "text": "Deployment of IoT devices for real-time monitoring and analytics in smart cities, agriculture, or environmental management"
+            },
+            {
+              "text": "Piloting of blockchain technology for secure digital identity systems or transparent supply chains"
+            },
+            {
+              "text": "Exploration of quantum computing for solving complex optimization problems in energy, logistics, or finance"
+            },
+            {
+              "text": "Development of hybrid systems integrating IoT, blockchain, and AI to deliver advanced capabilities."
+            }
+          ],
+          "source_page": 387
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "n.a.",
+      "source_page": 383
+    },
+    {
+      "approach_code": "250400",
+      "approach_name": "Cybersecurity",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities to strengthen cybersecurity and resilience as safeguards for trusted digital transformation. Cybersecurity is the practice of preventing, detecting, and responding to incidents in the digital environment through risk management. The goal of cybersecurity is to maintain the confidentiality, integrity, and availability of networks and data.",
+      "typical_examples": [
+        {
+          "text": "Support for cybersecurity and cyber resilience activities include the following:",
+          "sub": [
+            "Legal, regulatory, institutional, and policy/ strategy reforms that establish good practice governance of cybersecurity in the country, which includes assessments and diagnostics of cybersecurity maturity levels at the national or sectoral levels",
+            "Identification of national critical infrastructure and assessment of its cybersecurity risk profile",
+            "Investments to close the gaps identified by cybersecurity risk audits",
+            "Strengthening of the capacity of a country to respond to cybersecurity incidents through the establishment or upgrade of a Computer Incident Response Team (CIRT) and/or a Security Operation Center (SOC) and the procurement of the specialized IT software/hardware tools this requires, including simulations and drills",
+            "Cybersecurity skills development or training to varying audiences, the establishment of a national cybersecurity academy, cybersecurity public awareness campaigns, and skills programs for women and girls",
+            "Development of a local cyber industry and private sector ecosystem through governmental incentives programs",
+            "Cross-border or regional cybersecurity collaboration mechanisms",
+            "Cybersecurity support and reforms for sectors other than digital that are led by the central cybersecurity supervisory authority."
+          ]
+        }
+      ],
+      "third_level_themes": [],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "EDU, EEX, FCI, GOV, HNP, TRA, URS",
+      "source_page": 388
+    },
+    {
+      "approach_code": "250500",
+      "approach_name": "Data Protection and Privacy",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities focused on enabling the design of laws, regulations, and institutions, alongside capacity-building initiatives, to establish best practice data protection and data governance frameworks that safeguard trusted digital transformation. Key activities include (a) country landscape assessments, (b) law and regulation development and reviews, (c) privacy-by-design and privacy-enhancing features for information and communication technology (ICT) systems, and (d) capacity-building and awareness initiatives.",
+      "typical_examples": [
+        {
+          "text": "Country landscape assessments. Data protection/privacy impact assessments, diagnostics of data protection capacities, and diagnostics of data governance frameworks for data protection"
+        },
+        {
+          "text": "Law and regulation development and reviews. Data protection laws to ensure alignment with international standards (for example, European Union [EU] General Data Protection Regulation [GDPR] and Convention 108+); data governance laws for digital public infrastructure (DPI, for example, identification [ID], payments, and data sharing); data governance laws for sectoral use cases (for example, health and education); and broader legal safeguards to facilitate cross-border data flows"
+        },
+        {
+          "text": "Privacy-by-design and privacy-enhancing features. Primarily for ICT systems involved in digital transformation initiatives, such as civil registration and ID, e-signatures, public key infrastructure (PKI), DPI, and data sharing mechanisms"
+        },
+        {
+          "text": "Capacity-building and awareness initiatives. Workshops, webinars, and conferences for data protection authorities (DPAs) and other agencies conducting digital transformation initiatives, such as ID agencies, Ministry of ICT, Ministry of Digital Economy."
+        }
+      ],
+      "third_level_themes": [],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "DEC, FCI, GOV, LEG",
+      "source_page": 389
+    },
+    {
+      "approach_code": "250600",
+      "approach_name": "Digital Public Infrastructure",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities that develop digital transformation platforms, protocols, standards, interfaces, systems, schemas, and solutions to enable basic digital functions for public and private service delivery, collaboration, commerce, and governance. Analogous to roads and bridges in the physical world, digital public infrastructure (DPI) provides the shared basis for trusted, secure, efficient, and transparent digital interactions and transactions in a way that protects personal data and empowers users.",
+      "typical_examples": [
+        {
+          "text": "DPI includes the protocols, standards, platforms, interfaces, frameworks, systems, schemas, and solutions that facilitate the following:",
+          "sub": [
+            "Standardized enterprise architecture for public and private services, including digital stacks",
+            "Interoperability and data exchange between databases and registries",
+            "Digital identification (ID), identity management, and civil registration systems, including national ID systems, population registries, and digital identity wallets",
+            "Identity verification, authentication, single-sign-on, and similar services",
+            "Digital signature, certification, attestation, and other trust services",
+            "Public key infrastructures and other trusted discovery services",
+            "Consent services allowing users to selectively grant and revoke authorization",
+            "Digital wallets and trusted digital data stores",
+            "Open application programming interfaces (APIs), enterprise service busses, and other systems for economy-wide data sharing and interoperability."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250601",
+          "name": "Identification Systems and Civil Registration",
+          "definition": "Activities that support the development and digitalization of foundational identification (ID) systems, including digital identity for online transactions, henceforth referred to as “ID.” Such systems enable identification of individuals and the digital verification of identity in support of both in-person and online service delivery and build the foundations of trust in the delivery of public and private sector services.",
+          "typical_examples": [
+            {
+              "text": "ID infrastructure includes the policies, protocols, standards, interfaces, frameworks, systems, schemas, and solutions that facilitate the following:",
+              "sub": [
+                "Foundational ID, legal ID, national ID, unique ID, ID management, civil registration, and population registry systems",
+                "Digital ID systems and applications, including ID wallets and verifiable credentials",
+                "Identity verification, authentication, single‑sign-on, and similar services",
+                "Consent services and other systems allowing users to selectively grant and revoke authorization for the use of identity data."
+              ]
+            }
+          ],
+          "source_page": 392
+        },
+        {
+          "code": "250602",
+          "name": "Data Sharing, Data Exchange and Interoperability",
+          "definition": "Activities to support the secure exchange of data between institutions and databases across the public and private sectors. Data sharing underpins digital transactions by enabling trusted data interoperability and exchange across entities and systems.",
+          "typical_examples": [
+            {
+              "text": "Development of policies, protocols, standards, platforms, interfaces, frameworks, systems, schemas, and solutions that facilitate the following:",
+              "sub": [
+                "Interoperability platforms for the purpose of data sharing between databases and institutions in the public and private sectors",
+                "Digital wallets and trusted digital data stores",
+                "Common standards, governance, and regulatory frameworks to govern data collection, storage, and use across the economy, including data classification and legal, technical, and semantic interoperability and quality standards",
+                "Information technology (IT) systems, software, protocols, platforms, and application programming interfaces (APIs) for use in data sharing and promoting interoperability",
+                "Open data platforms."
+              ]
+            }
+          ],
+          "source_page": 393
+        },
+        {
+          "code": "250603",
+          "name": "E-Signatures and Trust Services",
+          "definition": "Activities to support the development of electronic signature systems and related trust services ecosystems, including underlying enablers such as public key infrastructure (PKI), that enable end-to-end digitalization by providing for the legal validity of digital transactions, data, and documents. Electronic signatures and electronic seals are the digital representation of physical personal signatures and institutional seals, enabling legally valid contracts, transactions, and agreements. These agreements may be between natural or legal persons and may be used for providing a trusted means of recording user consent during digital interactions and transactions. PKI refers to cryptographic technologies with complementary policy, organizational, and process elements, through which Certificate Authorities (CAs) issue digital certificates to users (for example, people, firms, and government entities) that allow them to digitally sign and authenticate documents at a high level of trust and to digitally encrypt or verify the integrity of information. Other trust services within the scope of this code include trusted timestamps, registered delivery services, digitally verifiable credentials, data validation services, and digital archiving services.",
+          "typical_examples": [
+            {
+              "text": "E-signature and e-transaction-related laws, regulations, and trust frameworks that establish the legal validity of electronic signatures and electronic seals, including the levels of trust provided by different technology implementations (including but not limited to those implemented using PKI)"
+            },
+            {
+              "text": "Definition and implementation of laws, regulations, policies, protocols, standards, platforms, interfaces, frameworks, systems, schemas, and solutions that facilitate the legally valid and trusted implementation of electronic signatures, including their recognition across sectoral boundaries and national borders"
+            },
+            {
+              "text": "PKI or other underlying systems to enable digital signature, certification, attestation, and other trust services"
+            },
+            {
+              "text": "PKIs that are intended to support specific sectoral use cases (for example, a PKI for use by the financial sector)"
+            },
+            {
+              "text": "Systems used to provide related trust services such as trusted timestamps, registered delivery services, digitally verifiable credentials, data validation services, and digital archiving services."
+            }
+          ],
+          "source_page": 394
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "DEC, FCI, GOV",
+      "source_page": 390
+    },
+    {
+      "approach_code": "250700",
+      "approach_name": "Digital Public Services (DPS)",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Digital public services encompasses leadership and policy development, data management and insights, capacity building and government training, and user-centric approaches for designing and implementing high-impact digital services. It includes establishing institutional arrangements, digital‑ready policies, accurate data and interoperable foundational registers and databases; strengthening public sector capabilities to implement and sustain services; using Digital Public Infrastructure (DPI) and delivering service standards and efficient user experiences through multichannel service delivery; and using new and emerging technologies.",
+      "typical_examples": [
+        {
+          "text": "Support for designing and developing leadership and policies for digital public services, including institutional arrangements, mandates, leadership capacities on digital, and digital-ready policies required for user-centric digital services. This also includes establishing delivery mechanisms such as digital service units, clear mandates, information technology (IT) procurement and spend controls, interagency cooperation, communication for building awareness and driving adoption of digital services, as well as culture and capabilities for technical implementation and change management."
+        },
+        {
+          "text": "Design and implementation of data management and insights, including data governance and quality of foundational and base registers for digital public services (people, businesses, land/location, vehicles, and so on). It also includes digital public services metrics, analytics, service performance monitoring, and feedback mechanisms to improve user experience and adoption of digital services."
+        },
+        {
+          "text": "Capacity building and government training for external capacity-building programs, including global training programs (for example, Digital Academy), knowledge sharing through network of chief digital officers, in-country training centers, and project management functions."
+        },
+        {
+          "text": "Design and implementation of user-centric service delivery, including user interface design and service standards, consolidated access points for digital services for multichannel service delivery (single-sign-on portals, mobile applications, and in-person service centers—one-stop-shops), and process management with online forms design, workflow management, and user authorizations (roles and permissions). It also involves the integration of shared digital enablers, such as DPI, and implementation of new and emerging technologies (artificial intelligence [AI], Internet of Things [IoT], and Blockchain)."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250701",
+          "name": "Leadership and Policy for Digital Public Services",
+          "definition": "Leadership and policy for digital public services encompasses the institutional arrangements and mandates and digital-ready policies and regulations required to design, implement, sustain, and continuously improve user-centric digital services. It involves establishing effective institutional delivery mechanisms, such as digital services units, clear institutional mandates, information technology (IT) procurement and spend controls, and interagency cooperation, as well as creating digital-ready policies and regulations that are machine-readable, automation-friendly, and aligned with horizontal digital policies and regulations that enable data reuse and technological innovation.",
+          "typical_examples": [
+            {
+              "text": "Designing and supporting the implementation of delivery arrangements such as digital services units; institutional mandates; IT procurement frameworks for efficiency and compliance; spend controls; and coordination with ministries, departments, and agencies across the government."
+            },
+            {
+              "text": "Support to designing digital-ready policies and regulations that enable seamless implementation and automation of digital services. This includes making policies and regulations machine-readable with clear rules for automation, defining data for services delivery and reuse of data, aligning with horizontal digital policies (identification [ID] and e-signature/transactions, interoperability, data protection, and cybersecurity), requiring the use of digital public infrastructure (DPI), and allowing for technological developments/innovations."
+            },
+            {
+              "text": "Support for communication and outreach efforts with the government and the public to build awareness of service offerings and drive adoption. This includes promoting digital public service offerings, educating users on how to access and use digital services, and overall building trust in digital service platforms."
+            },
+            {
+              "text": "Support for developing organizational culture and capability for technical implementation, change management that is agile and responsive to user needs, and operation of digital services. This includes fostering agility in the design and implementation of digital services, promoting responsiveness to user needs, equipping teams with necessary skills for change management and technical implementation, with emphasis on continuous learning, user-centric approaches, and iterative and phased developments."
+            }
+          ],
+          "source_page": 398
+        },
+        {
+          "code": "250702",
+          "name": "Data Management and Insights for Digital Public Services",
+          "definition": "Data management and insights for digital public services involves data governance and quality for foundational service registers (for example, people, businesses, land/locations, and vehicles), including policies, standards, and processes to ensure that data are accurate and reliable, and that relevant systems are interoperable for effective and user-centric service delivery. This area also includes analytics and feedback monitoring of service usage through user inputs, by aligning with global standards to drive insights and improve user experiences. It also involves measuring service delivery performance and uptake of online digital public services by leveraging data-driven approaches, also incorporating feedback mechanisms.",
+          "typical_examples": [
+            {
+              "text": "Analysis and design of data governance and quality for foundational or base service registries (for example, for people, businesses, land/locations, and vehicles), including data standards (definition and sharing) and relevant inputs to data catalogs (meta register or master data management)."
+            },
+            {
+              "text": "Design and implementation of analytics and feedback systems to monitor service usage and gather user input, linking to global standards/measures. These systems and services assist in the analysis of digital public services and are used to collect input from users (citizens and businesses) regarding their experiences. They help identify patterns, issues, and areas for improvement."
+            },
+            {
+              "text": "Support for designing and implementing performance management for measuring service delivery performance for data-driven performance improvement, including feedback mechanisms and user testing. It involves using metrics and analytics to evaluate how well services are delivered and are used to drive continuous improvement, ensuring services are aligned with user needs and expectations."
+            }
+          ],
+          "source_page": 400
+        },
+        {
+          "code": "250703",
+          "name": "Capacity Building and Government Training",
+          "definition": "Capacity building and government training for digital public services is a structured approach for strengthening the skills, knowledge, and resources of public sector institutions and individuals to design, deliver, and sustain effective user-centric digital public services. It encompasses capacity-building and training initiatives that empower relevant stakeholders to meet the demand of modern approaches for institutional leadership and digital-ready policies for digital services, data management and insights, user-centric digital service delivery, and other relevant government training on digital.",
+          "typical_examples": [
+            {
+              "text": "Design and implementation of external capacity building and government training, including global training programs (for example, Digital Academy), knowledge sharing through network of chief digital officers, in-country training centers (hardware and software), and support for project management functions. The training on project management involves key areas, including planning, monitoring, evaluation, and risk management to ensure effective implementation and sustainability of digital initiatives."
+            },
+            {
+              "text": "It also involves the development and rollout of training for key competence in digital governance, as well as the establishment and operationalization of physical or virtual training hubs equipped with necessary software and equipment to provide hands-on learning opportunities for government staff and stakeholders."
+            }
+          ],
+          "source_page": 402
+        },
+        {
+          "code": "250704",
+          "name": "User-centric Service Delivery",
+          "definition": "User-centric service delivery focuses on designing and implementing user-centered interfaces and service standards that prioritize inclusivity, accessibility, transparency, and efficiency of digitally enabled service delivery for a wide range of users, including persons and businesses. It focuses on designing inclusive and user-friendly interfaces and seamless and integrated user journeys for individuals and businesses. It emphasizes service standards and multichannel service delivery, which is data driven and based on digital-ready policies, and leverages digital public infrastructure (DPI, for example, digital identification [ID] and trust services, data sharing, and digital payments) and digital foundations (cloud hosting, broadband, and cybersecurity). Additionally, it promotes adopting new and emerging technologies, such as artificial intelligence (AI) virtual agents, Blockchain, and Internet of Things (IoT) to enhance efficiency, accessibility, and innovation in service delivery.",
+          "typical_examples": [
+            {
+              "text": "Support for designing and implementing intuitive, accessible, and user-friendly digital interfaces and service standards, with emphasis on inclusion, ensuring accessibility for users with varying levels of digital literacy, in different languages, and for individuals with disabilities. The standards for seamless user journeys allow standardization of service delivery designs across public institutions tailored to the needs of both individuals and businesses."
+            },
+            {
+              "text": "Support for designing and implementing service catalogs for individuals and businesses organized by user journeys that provide clear, comprehensive, and up-to-date information about available services. The service catalogs are also integrated with relevant registers of regulations implementing mechanisms for supporting up-to-date data following changes in underlying laws and regulations for digital services."
+            },
+            {
+              "text": "Design and implementation of consolidated access points for digital services, such as single-sign-on portals, mobile applications, and in-person service centers, for multichannel service delivery approach and one-stop-shops. In-person service centers provide equitable access for users who require physical assistance or prefer face-to-face interactions."
+            },
+            {
+              "text": "Design and implementation of process and workflow management, online forms, and user authorization (rules and permissions) to streamline service delivery. It also involves the adoption of standardized design patterns and architectural frameworks for scalable and efficient digital service delivery."
+            },
+            {
+              "text": "Integration of shared digital enablers such as DPI (ID and trust services, data sharing, and digital payments), cloud hosting, messaging, appointment scheduling, and redress mechanisms, promoting the use of shared and replicable components within digital public service ecosystems."
+            },
+            {
+              "text": "Exploration and adoption of emerging technologies, such as AI virtual agents and decision-making tools, Blockchain for secure and transparent processes, and IoT to enhance efficiency, accessibility, and innovation in digital public services."
+            }
+          ],
+          "source_page": 403
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "AGR, EDU, FCI, GOV, HNP, MTI, HNP, SPJ",
+      "source_page": 396
+    },
+    {
+      "approach_code": "250800",
+      "approach_name": "Digital Economy",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities that support development and job creation in domestic and export-oriented information technology (IT) industry that fall under the general umbrella of supply of IT products and services, defined as information and communication technology (ICT) infrastructure, equipment, and digital data and other digital services. Activities aimed at integration of data-driven IT solutions in non-IT industry (smart industry) and smart infrastructure. Activities that strengthen digital economy strategy, policy, regulation and enabling environment, data economy, and data markets.",
+      "typical_examples": [
+        {
+          "text": "Analytical work, advisory work, and investment operations focused on the following:",
+          "sub": [
+            "National digital sector development strategy, planning and governance, policy, and regulatory environment",
+            "Subsidy schemes or tax incentives to support investment and growth of digital sector firms",
+            "Promotion of research, development, and innovation in the digital sector",
+            "Skill development and job placement support targeting the digital sector (domestic or export oriented), including remote work facilitated through digital platforms",
+            "Support for the integration of smart digital solutions into infrastructure and non-digital industry",
+            "Promoting growth of data economy and data markets through policy interventions."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250801",
+          "name": "Digital Economy Strategy, Policy, Regulation and Enabling Environment",
+          "definition": "Activities aimed at supporting the strategy, planning, setting up institutional arrangements, and effective policy and regulatory initiatives to promote development and growth of the digital sector, data economy, and markets and adoption of digital solutions by non-digital industry (smart industry) and infrastructure (smart infrastructure). Specifically, such policies would help remove barriers and attract and promote the growth and internationalization of digital markets. Digital sector is defined as information and communication technology (ICT) infrastructure, equipment, and service providers; ICT manufacturing; information technology (IT) hardware, software, and service providers; digital technology; and digital data solution providers. Smart industry and smart infrastructure are defined as an industry or infrastructure with a convergence between IT and operating technology (OT).",
+          "typical_examples": [
+            {
+              "text": "Analytical work, advisory work, and investment operations focused on the following:",
+              "sub": [
+                "Appropriate national digital sector development strategies and implementation support",
+                "Targeted incentives (subsidy and taxation) and schemes to support development of the digital sector",
+                "Support for the enabling environment (policy and regulation) and ecosystem support specific to digital sector development, data economy, and data markets, as well as smart industry and smart infrastructure",
+                "Digital economy diagnostics",
+                "Enhancement of the responsible use of digital technologies and data (artificial intelligence [AI], machine learning [ML], and big data) for public and private sector innovation and innovative data economy activities, including digital twins, data spaces, and metaverse."
+              ]
+            }
+          ],
+          "source_page": 407
+        },
+        {
+          "code": "250802",
+          "name": "ICT Industry",
+          "definition": "Activities aimed to directly support the development of digital sector firms. Digital sector is defined as information and communication technology (ICT) infrastructure, equipment, and service providers; ICT manufacturing; information technology (IT) hardware, software, and service providers; digital technology; and digital data solution providers.",
+          "typical_examples": [
+            {
+              "text": "Analytical work, advisory work, and investments that support the development of digital sector firms throughout their life cycle (research and development [R&D], establishment/ market entry, growth, upgrading, and internationalization) in client countries.",
+              "sub": [
+                "Establishing advanced research institutions and programs to develop enabling digital technologies and solutions that cater to local conditions",
+                "Supporting development of physical and virtual IT parks",
+                "Promoting incubators and accelerators supporting digital sector start-ups",
+                "Attracting domestic and foreign investments in the digital sector",
+                "Promoting the establishment, expansion, upgrading, and internationalization of digital sector firms",
+                "Supporting skill development and job placement programs, platforms, and services targeting the digital sector (domestic and international)",
+                "Creating public-private partnerships (PPPs) supporting demand stimulation, investment, and innovation in the digital sector."
+              ]
+            }
+          ],
+          "source_page": 409
+        },
+        {
+          "code": "250803",
+          "name": "Smart Industry and Smart Infrastructure",
+          "definition": "Industry and infrastructure that rely on convergence of operational technology (OT) and information technology (IT) can be broadly defined as smart industry and smart infrastructure. More specifically, smart industry and smart infrastructure will use a feedback loop of digitally enabled data analysis to provide feedback into decision-making aimed at creating efficiencies and higher productivity. The enabling IT system can monitor, measure, analyze, communicate, and act, based on information captured from sensors. There are different levels of smart systems used in industry and infrastructure augmentation: the most basic one would collect usage and performance data, a more efficient version would have elements of decision-making function (for example, traffic systems that detect congestion and inform drivers), and the most advanced would use collected data to take action without human intervention (self-driven vehicles). The smart systems can be applied in the following infrastructure sectors: 1. utilities (energy and water), 2. transport (air, land, and marine), 3. communications (telecom), and 4. built environment (smart cities). Smart systems can also be applied in non-IT industry in both manufacturing and service industry.",
+          "typical_examples": [
+            {
+              "text": "Support with upgrading to smart energy grids"
+            },
+            {
+              "text": "Support with upgrading to smart water facilities"
+            },
+            {
+              "text": "Support with upgrading to smart transport and logistics systems"
+            },
+            {
+              "text": "Support with upgrading communications systems"
+            },
+            {
+              "text": "Support with use of smart systems in industry that involves product development and service provision"
+            },
+            {
+              "text": "Support with data quality and management provided to infrastructure providers or government entities responsible for infrastructure provision"
+            },
+            {
+              "text": "Support with data quality and management solutions provided to private sector companies"
+            },
+            {
+              "text": "Creation of the right environment for investment in smarter technologies in infrastructure and industry, which may involve procurement framework advisory and critical infrastructure smart strategies aimed at requirement for data capture element"
+            },
+            {
+              "text": "Legal and regulatory frameworks aimed at ensuring privacy and addressing vulnerabilities caused by introduction of smart technologies."
+            }
+          ],
+          "source_page": 411
+        },
+        {
+          "code": "250804",
+          "name": "Data Economy and Data Markets",
+          "definition": "Activities aimed at fostering the development of the data economy, including the creation and management of data markets, the promotion of private sector roles in data ecosystems, and enabling of regulatory and policy frameworks. This includes strengthening systems for data sharing and consent management and ensuring interoperability and trust to generate economic value from data, while supporting cross-border data flows and global data integration.",
+          "typical_examples": [
+            {
+              "text": "Supporting the development of data markets, including policies and platforms for data sharing and exchange"
+            },
+            {
+              "text": "Promoting private sector roles in the data economy, such as data intermediaries and consent managers"
+            },
+            {
+              "text": "Designing legal and regulatory frameworks to enable secure and transparent cross-border data flows"
+            },
+            {
+              "text": "Facilitating interoperability between data systems to promote innovation and inclusion in the data economy"
+            },
+            {
+              "text": "Developing policies and tools to support individual data rights and consent management systems"
+            },
+            {
+              "text": "Providing technical assistance (TA) for the integration of private and public sector data in a secure and ethical manner."
+            }
+          ],
+          "source_page": 413
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "EDU, FCI, INF, JBS, MTI, SPJ",
+      "source_page": 405
+    },
+    {
+      "approach_code": "250900",
+      "approach_name": "Green Digital",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities aiming to reduce the climate impact or environmental footprint of digital infrastructure or digital solutions and enhance the climate resilience of digital infrastructure or solutions or interventions that leverage digital solutions for climate or environmental actions across sectors.",
+      "typical_examples": [
+        {
+          "text": "Two types of activities are included:",
+          "sub": [
+            "Greening of digital. Improving the climate and environmental profile of digital infrastructure, policies, regulations, and solutions. Interventions that aim to reduce the climate or environmental footprint of digital infrastructure and solutions. Activities can relate to either climate action (for example, adaptation or mitigation) or wider environmental issues.",
+            "Greening with digital. Digital investments that either support climate action (for example, adaptation or mitigation) or environmental use cases, including across sectors. Interventions that apply digital solutions for climate or environmental action by enhancing the resilience of climate-vulnerable economies and communities and supporting decarbonizing other sectors."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "250901",
+          "name": "Greening of Digital",
+          "definition": "Activities aiming to reduce the climate impact, environmental footprint, or climate resilience of digital solutions and infrastructure.",
+          "typical_examples": [
+            {
+              "text": "Adaptation",
+              "sub": [
+                "Climate-resilient digital infrastructure",
+                "Digital solutions for disaster monitoring, warning, or response",
+                "Digital solutions which enhance the climate resilience of the population at risk to the effects of climate change",
+                "Digital solutions which improve monitoring, planning, or reporting related to climate change adaptation",
+                "Interventions which improve the environmental footprint of digital infrastructure (for example, water consumption of data centers)."
+              ]
+            },
+            {
+              "text": "Mitigation",
+              "sub": [
+                "Energy-efficient digital infrastructure (for example, data centers and cabling), see also Theme code [241805] Energy-Efficient Demand",
+                "Renewable energy to power digital infrastructure, see also code [241801] Enabling Renewable Energy",
+                "Interventions to dispose, recycle, or reuse e-waste."
+              ]
+            },
+            {
+              "text": "Cross-cutting",
+              "sub": [
+                "Policies or regulations which reduce climate or environmental impact of digital solutions",
+                "Training and capacity building related to enhancing resilience through digital solutions or reducing the environmental footprint of digital solutions",
+                "Support for research and innovation targeting digital solutions for adaptation, mitigation, or other environmental applications",
+                "Digital solutions which monitor, analyze, or report on climate or environment-related data",
+                "Digital solutions which inform or engage target groups on adaptation, resilience, or mitigation-related issues."
+              ]
+            }
+          ],
+          "source_page": 415
+        },
+        {
+          "code": "250902",
+          "name": "Greening with Digital",
+          "definition": "Activities that apply digital solutions for enhancing climate resilience, reducing the environmental footprint across sectors, or improving the management of natural resources.",
+          "typical_examples": [
+            {
+              "text": "Digital solutions for enhancing climate resilience, reducing the environmental footprint across sectors, or improving the management of natural resources, for example,",
+              "sub": [
+                "Modelling and scenarios for resilience to future climate shocks and change (for example, urban planning using digital data, artificial intelligence [AI], or other digital technologies)",
+                "Digital monitoring of land use or natural resources (for example, forests and water)",
+                "Digital solutions to improve emergency efficiency or reduce the environmental footprint across sectors, for example,",
+                "Smart agriculture;",
+                "Smart grids, smart metering, and digitally enabled business models for renewable energy services (energy); and",
+                "Smart transport."
+              ]
+            }
+          ],
+          "source_page": 416
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "CCG, FCI, GOV, INF, SPJ",
+      "source_page": 414
+    },
+    {
+      "approach_code": "251000",
+      "approach_name": "Digital Inclusion",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Digital inclusion refers to the efforts and actions taken to ensure that all individuals, regardless of their background, income, sex, education, or geographic location, have equal access to digital technologies, including the internet, affordable devices and data, and digital services.",
+      "typical_examples": [
+        {
+          "text": "Extending internet coverage to public access/community centers"
+        },
+        {
+          "text": "Leveraging universal service and access funds to support connectivity for women"
+        },
+        {
+          "text": "Enabling consumer financing for smartphones and low-cost devices to lower-income and unbanked women, youth, and persons with disabilities through de-risking instruments"
+        },
+        {
+          "text": "Lowering the cost of a device and data through targeted subsidy programs for women (for example, fintech enabled), low-income women, youth, and persons with disabilities"
+        },
+        {
+          "text": "Developing digital literacy programs for rural communities, low-income women, youth, and persons with disabilities"
+        },
+        {
+          "text": "Incorporating policy efforts focused on online safety."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "251001",
+          "name": "Closing the Gender Digital Divide",
+          "definition": "The “gender digital divide” refers to the gap between men and women in terms of access to and usage of information and communication technologies (ICTs), meaning women generally have less access to the internet, digital devices, and the skills to use them compared to men, often due to factors such as cultural barriers, economic inequalities, and lack of digital literacy training.",
+          "typical_examples": [
+            {
+              "text": "Extending internet coverage to public access/community centers with a focus on spaces where women gather (for example, cooperatives)"
+            },
+            {
+              "text": "Leveraging universal service and access funds to support connectivity for women"
+            },
+            {
+              "text": "Enabling consumer financing for smartphones or subsidies focused on women"
+            },
+            {
+              "text": "Developing women’s digital literacy programs"
+            },
+            {
+              "text": "Incorporating policy efforts focused on online safety, with a focus on technology-facilitated gender-based violence."
+            }
+          ],
+          "source_page": 418
+        },
+        {
+          "code": "251002",
+          "name": "Enhancing the Inclusion of Persons with Disabilities",
+          "definition": "Digital inclusion for persons with disabilities refers to the practice of ensuring that individuals with various disabilities have equal access to, and can fully participate in, the digital world. This includes access to the internet, digital tools, devices, software, and services that are designed to be usable and accessible to everyone, regardless of their abilities or disabilities.",
+          "typical_examples": [
+            {
+              "text": "Accessible websites and apps. Designing digital content and platforms (websites, mobile apps, and online services) that follow accessibility guidelines such as the Web Content Accessibility Guidelines (WCAG), which ensures that people with visual, hearing, motor, or cognitive disabilities can navigate and interact with the content"
+            },
+            {
+              "text": "Assistive technology. Providing technologies that help individuals with disabilities access digital content, such as screen readers, voice recognition software, braille displays, and alternative input devices such as eye-tracking systems"
+            },
+            {
+              "text": "Affordable and available devices. Ensuring that accessible technologies and devices, such as smartphones, computers, and tablets with assistive features, are available and affordable to persons with disabilities"
+            },
+            {
+              "text": "Digital literacy. Providing education and training to help persons with disabilities develop the skills needed to use digital technologies effectively, including online safety, digital communication, and job-related skills"
+            },
+            {
+              "text": "Inclusive design. Involving persons with disabilities in the design and development of digital products and services, ensuring that their needs and preferences are considered from the start"
+            },
+            {
+              "text": "Policy and legal support. Advocating for laws and policies that promote digital accessibility and protect the rights of people with disabilities in the digital economy."
+            }
+          ],
+          "source_page": 419
+        },
+        {
+          "code": "251003",
+          "name": "Supporting Online Safety and Security",
+          "definition": "In the context of gender equality and digital transformation, this specifically refers to technology-facilitated gender-based violence (TFGBV). This is the use of technology and digital platforms to perpetrate violence, abuse, or harassment, specifically targeting individuals based on their gender. It involves the misuse of digital tools and online spaces to inflict harm on victims, often with a gendered or sexualized focus. This form of violence can take many forms and can affect people of any gender, though it disproportionately affects women, girls, and gender minorities.",
+          "typical_examples": [
+            {
+              "text": "Supporting legal or policy efforts focused on TFGBV"
+            },
+            {
+              "text": "Integrating online safety modules into digital skills training"
+            },
+            {
+              "text": "Convening civil society organizations, women’s groups, and nongovernmental organizations (NGOs) to help identify localized solutions"
+            },
+            {
+              "text": "Supporting educational and behavioral efforts aimed at teaching healthy online behaviors to new internet users."
+            }
+          ],
+          "source_page": 420
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "n.a.",
+      "source_page": 417
+    },
+    {
+      "approach_code": "251100",
+      "approach_name": "Digital for Fragile and Conflict-Affected Situations",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities under any of digital transformation’s business lines that are designed to address drivers, risks, and impacts of fragility, conflict, and violence; improve digital opportunities for displaced persons (including internally displaced persons [IDPs], stateless persons, and refugees access) and their host communities; and strengthen resilience of communities in connection with natural or man-made disasters and conflicts.",
+      "typical_examples": [
+        {
+          "text": "Extension of connectivity in fragile and conflict-affected situations (FCS) to decrease marginalization by providing access to digital government services and economic opportunities"
+        },
+        {
+          "text": "Provision of emergency connectivity to people in conflict zones or after natural disasters"
+        },
+        {
+          "text": "Digitalization of government service delivery systems to improve service delivery in underserved areas in FCS"
+        },
+        {
+          "text": "Training of digital skills to populations in areas affected by fragility, conflict, and/or violence or in underserved areas in FCS"
+        },
+        {
+          "text": "Support for digital and data policy reform to strengthen the regulatory environment in FCS"
+        },
+        {
+          "text": "Support for information technology (IT) firms and digital start-ups in FCS"
+        },
+        {
+          "text": "Provision of digital ID to people living in FCS"
+        },
+        {
+          "text": "Digitalization of refugee camps and host communities including connectivity, devices, digital skills training, digital identification (ID), and government services."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "251101",
+          "name": "Digital Solutions for Addressing Fragility, Conflict and Violence",
+          "definition": "Activities under any of digital transformation’s business lines that are designed to address drivers, risks, and impacts of fragility, conflict, and violence. Such interventions can be implemented both in countries and territories classified as fragile and conflict-affected as well as in fragile regions and contexts within non-fragile countries.",
+          "typical_examples": [
+            {
+              "text": "Extension of connectivity to areas affected by fragility and/or conflict to link unconnected parts of the country to government services and economic opportunities"
+            },
+            {
+              "text": "Provision of emergency connectivity to people in conflict zones to ensure their ability to send and receive information to increase their resilience"
+            },
+            {
+              "text": "Improvement of government service delivery systems in fragile and conflict-affected situations (FCS) via digitalization, where digital systems and services are introduced that can help boost transparency/efficiency, strengthening the social contracts"
+            },
+            {
+              "text": "Training of digital skills to populations in areas affected by fragility, conflict, and/or violence or in underserved areas in FCS"
+            },
+            {
+              "text": "Support for digital and data policy reform to strengthen the regulatory environment in FCS"
+            },
+            {
+              "text": "Support for information technology (IT) firms and digital start-ups in FCS"
+            },
+            {
+              "text": "Provision of digital ID to people living in conflict areas to help them access economic opportunities and government services."
+            }
+          ],
+          "source_page": 422
+        },
+        {
+          "code": "251102",
+          "name": "Digital Solutions for Displaced Persons and Host Communities",
+          "definition": "Activities that aim to improve digitally enabled opportunities for displaced persons (including internally displaced persons [IDPs], stateless persons, and refugees access) and their host communities, including connectivity, devices, digital skills training, digital identification (ID), and digital government services as well as policy reform to increase access for refugees, IDPs, stateless persons, and host communities to opportunities for digital work and protect the rights to data privacy and security.",
+          "typical_examples": [
+            {
+              "text": "Provision of connectivity to refugee camps and host communities"
+            },
+            {
+              "text": "Provision of device subsidy schemes for refugees, IDPs, and host communities"
+            },
+            {
+              "text": "Provision of digital ID for refugees and stateless persons"
+            },
+            {
+              "text": "Provision of digital skills to refugees, IDPs, and host communities"
+            },
+            {
+              "text": "Extension of digital government services provision targeting refugees, IDPs, stateless persons, and/or host communities."
+            }
+          ],
+          "source_page": 423
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "FCV",
+      "source_page": 421
+    },
+    {
+      "approach_code": "251200",
+      "approach_name": "Digital Skills and Jobs",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities that aim to increase skills and capacity for citizens, businesses, and governments to seize opportunities in the digital world by using digital devices and tools, creating digital content and solutions, and avoiding risks associated with digital activities.",
+      "typical_examples": [
+        {
+          "text": "Develop policies for digital skills and digital capabilities (such as Science, Technology, Engineering, and Mathematics [STEM] policies and mandatory digital literacy accreditation of civil servants under a given digital development operation)."
+        },
+        {
+          "text": "Develop basic digital literacy training programs for excluded communities, including rural dwellers, the elderly, women, youth, and persons with disabilities."
+        },
+        {
+          "text": "Design and implement digital skills education and training programs in partnership with private sector information and communication technology (ICT) industry and education providers, for all levels of digital skills (foundational, intermediate, advanced, and specialized)."
+        },
+        {
+          "text": "Update curricula to integrate digital skills and provide training for educators to incorporate technology in teaching and learning processes."
+        },
+        {
+          "text": "Increase access to essential digital tools (devices and software) through financing and incentives, while also engaging in awareness building on the productive use of technology."
+        },
+        {
+          "text": "Build capacity on digital infrastructure rollout (for example, National Research and Education Network [NREN]) and use of digital tools for learning management and delivery."
+        },
+        {
+          "text": "Provide bootcamps to unemployed youth on specialized digital themes (ICT equipment operation and maintenance, data entry, software coding, and web content development)."
+        },
+        {
+          "text": "Finance centers of excellence specializing in advanced digital fields (artificial intelligence [AI], robotics, 5G, digital government, and so on)."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "251201",
+          "name": "Digital Literacy",
+          "definition": "Digital skills encompass the ability to access, manage, understand, communicate, and create information using digital technologies. Digital literacy pertains to the most foundational elements of such skills to function at a minimum level of society—covering hardware (for example, using a keyboard and operating touch-screen technology), software (for example, word processing, managing files on laptops, and managing privacy settings on mobile phones), and basic online operations (for example, email, search, or completing an online form).",
+          "typical_examples": [
+            {
+              "text": "Strengthen basic digital skills in education system (for example, update curricula and programs to integrate digital competencies in learning and teaching processes and/or train educators to incorporate technology in classrooms)."
+            },
+            {
+              "text": "Provide digital literacy trainings for civil servants (on agile regulation methods, basic cybersecurity skills, and so on)."
+            },
+            {
+              "text": "Provide digital literacy capacity building to marginalized communities."
+            },
+            {
+              "text": "Engage in awareness building on the productive use of technology."
+            },
+            {
+              "text": "Expand access to basic data devices, equipment, and software through financing, incentives, and so on."
+            }
+          ],
+          "source_page": 425
+        },
+        {
+          "code": "251202",
+          "name": "Intermediate and Advanced Digital Skills",
+          "definition": "Intermediate and advanced digital skills build from basic digital literacy to support the use of digital technologies in more meaningful and beneficial ways, including the ability to critically evaluate technology or create content. Intermediate skills involve job-ready skills since they encompass those skills needed to perform work-related functions such as desktop publishing, digital graphic design, and digital marketing. Advanced skills are those needed by specialists in information and communication technology (ICT) professions such as computer programming and network management.",
+          "typical_examples": [
+            {
+              "text": "Offer specialized certifications and training for advanced digital skills, including artificial intelligence (AI), big data, and digital infrastructure."
+            },
+            {
+              "text": "Establish partnerships with universities, online learning platforms, and/or global tech companies for advanced training and upskilling program."
+            },
+            {
+              "text": "Encourage the creation of local technology and innovation hubs."
+            },
+            {
+              "text": "Provide capacity building to start-ups in digital fields and digital entrepreneurs."
+            }
+          ],
+          "source_page": 426
+        },
+        {
+          "code": "251203",
+          "name": "Digital Jobs",
+          "definition": "Employment opportunities that involve the use of digital technologies or skills as a core component of the role.",
+          "typical_examples": [
+            {
+              "text": "Undertaking a skills gap assessment to gauge alignment of availability of digital skills and job opportunities"
+            },
+            {
+              "text": "Updating curricula/training programs to integrate market-relevant information and communication technology (ICT) skills/ competencies"
+            },
+            {
+              "text": "Improving access to finance and/or providing incentives for start-ups in digital fields and digital entrepreneurs"
+            },
+            {
+              "text": "Providing job placement services connecting jobseekers with employment opportunities requiring intermediate/advanced digital competencies"
+            },
+            {
+              "text": "Establishing digital job platforms to match digitally skilled workers with employers (private or public sector)"
+            },
+            {
+              "text": "Fostering partnerships with tech companies and local businesses to create digital job opportunities"
+            },
+            {
+              "text": "Supporting the digitalization of value chains in targeted sectors (for example, agriculture and health) and building digital skills for managing and using related technologies"
+            },
+            {
+              "text": "Creating/supporting new digital roles in government agencies to advance the implementation of digital platforms and services"
+            },
+            {
+              "text": "Supporting growth of the digital industry and/or selected digitally enabled sectors (for example, through targeted investment promotion, reforms to improve the enabling environment for these sectors, and efforts to grow domestic demand) with a deliberate objective of creating more/better jobs."
+            }
+          ],
+          "source_page": 427
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "DEC, EDU, FCI, GOV",
+      "source_page": 424
+    },
+    {
+      "approach_code": "251300",
+      "approach_name": "Digital Use Cases Across Sectors",
+      "parent_theme_code": "250000",
+      "parent_theme_name": "Digital Transformation",
+      "definition": "Activities that leverage digital technology to enhance processes, services, and outcomes across various economic sectors. These use cases involve the application of digital tools and solutions to address sector-specific challenges, improve efficiency, and drive innovation. The focus is on the practical implementation of digital technologies to achieve measurable benefits in areas such as health care, education, agriculture, finance, and so on. This Theme captures the cross-sectoral impact of digital transformation and highlights the role of digital solutions in fostering sustainable development and economic growth.",
+      "typical_examples": [
+        {
+          "text": "Deployment of digital technology applications in a specific sector such as energy (for example, smart metering), transport (for example, real-time traffic management), health (for example, telemedicine solutions), agriculture (for example, precision agriculture technologies to enhance crop yield), and education (for example, remote learning)"
+        },
+        {
+          "text": "Adoption of digital payment systems or the digitalization of payments previously delivered/received in cash to increase financial inclusion or increase efficiency among other goals, for example, projects digitalizing government-to-person (G2P) payments such as cash transfer programs"
+        },
+        {
+          "text": "Adoption of Digital Public Infrastructure (DPI) to improve service delivery in a specific sector use case, such as integrating a digital identity system to streamline access to a specific set of services offered by a government agency"
+        },
+        {
+          "text": "This code shall be selected when other (non-Digital Transformation) sector-specific Themes focused on digital adoption or transformation have been selected. For example, this code should be selected if the following also apply to the operation:",
+          "sub": [
+            "[140400] GovTech",
+            "[170411] Education Technology",
+            "[170801] Disruptive and Transformative Technologies for Human Development Service Delivery",
+            "[120302] E-commerce, Private Sector Platforms, and Cross-Border Digital Trade",
+            "[251301] Digital and Data-Driven Agriculture."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "251301",
+          "name": "Digital and Data-Driven Agriculture",
+          "definition": "The use of data and digital technologies accelerates the adoption and expansion of technology with the aim of increasing the productivity, efficiency, and resilience of agricultural value chains and food systems. The use of data analytics enables effective public policies and decision-making. The use of digital technologies also enables private sector agriculture technology (AgTech) companies, innovators, and researchers to develop good-quality, efficient, and climate-smart products and services for key stakeholders in the food system. This also enables the creation of good-quality jobs for youth in agriculture and food systems.",
+          "typical_examples": [
+            {
+              "text": "Analytical upstream activities. Digital agriculture profiles; AgTech innovation ecosystem assessments; data analytics for investments and targeting; data and digital agriculture road maps; policies for data access, use, and governance and digitization; policies for AgTech start-ups and innovation; and policies and frameworks for public-private partnerships (PPPs)"
+            },
+            {
+              "text": "Geospatial data for agriculture. Georeferenced farm databases, high-resolution digital soil maps, historic and predictive climatology, weather observatories, and digitized weather stations"
+            },
+            {
+              "text": "Market monitoring. Weather alerts and early warning systems, real-time pest tracking and disease detection systems (plant and animal), high-frequency food price monitoring, agricultural cost and input supplier data, aggregators and off-takers data, and data from agriculture and livestock markets at multiple levels"
+            },
+            {
+              "text": "Digitization of agricultural services. Digital farmer registries; digitization of farmer producer organizations/farmer cooperatives and e-vouchers for agricultural input subsidies (seeds, fertilizer, farm tools, and post-harvest equipment); digital extension and e-advisory services; digital library of videos; digital applications; online marketplaces; digital registries of certified suppliers of agro-inputs and equipment, wholesalers, traders, and so on; digitization of agricultural research and development centers; and establishment of a centralized agricultural data unit (big data platforms) to provide decision support to policy makers and public agencies"
+            },
+            {
+              "text": "Digital financial services for agricultural producers. Mobile wallets for payments, remittances, and savings; credit scoring and history using transaction data; credit platforms; and insurance platforms"
+            },
+            {
+              "text": "Entrepreneur and ecosystem support. Innovation challenges and hackathons for identifying agri-tech start-ups and solutions; financing and technical assistance (TA) for agri-tech incubators and accelerators; design, development, and operation of integrated agri-tech and fintech platforms for public agencies, financial institutions, the private sector, and so on; and digital innovation acceleration facility and enabler funds for AgTech start-ups."
+            }
+          ],
+          "source_page": 431
+        }
+      ],
+      "lead_global_practice": "DT",
+      "relevant_global_practices": "AGR, EDU, FCI, GOV, HNP, INF, SSI, MTI, SPJ, SSI",
+      "source_page": 429
+    },
+    {
+      "approach_code": "270100",
+      "approach_name": "Data Standards and Methods",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Lending, grants, or technical assistance (TA) for support to develop or strengthen data standards and data collection methods. Data standards include documented agreements on representation, format, definition, structuring, tagging, transmission, manipulation, use, and management of data. Data collection methods include quantitative or qualitative processes for data collection, such as through sample surveys, experiments, or observational studies.",
+      "typical_examples": [
+        {
+          "text": "Data standards include",
+          "sub": [
+            "Interventions supporting the creation or strengthening of data standards",
+            "Interventions supporting the regional harmonization of data standards",
+            "Engagements with standard-setting bodies on data and statistics."
+          ]
+        },
+        {
+          "text": "Data methods include",
+          "sub": [
+            "Interventions supporting the development or strengthening of data collection methods for “traditional” data, such as support for development or design of a census, national accounts, household surveys, enterprise surveys, labor force surveys, surveys of personal finance, administrative records",
+            "Interventions supporting the development or strengthening of data collection methods for “new” data, such as support for development or design of data collection methodologies using satellite imaging, digital identification (ID), facial recognition, and e-government platforms."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270101",
+          "name": "Data Standards",
+          "definition": "Support to develop or strengthen data standards. Data standards include documented agreements on representation, format, definition, structuring, tagging, transmission, manipulation, use, and management. This includes support for harmonization around common data standards to help enable the exchange of information and improve efficiency and to help enable the development of equitable policies and practices that respond to countries’ needs and interests.",
+          "typical_examples": [
+            {
+              "text": "Interventions supporting the creation or strengthening of data or statistical standards"
+            },
+            {
+              "text": "Interventions supporting the regional harmonization of data or statistical standards"
+            },
+            {
+              "text": "Engagement with or support for standard-setting bodies on data and statistics."
+            }
+          ],
+          "source_page": 443
+        },
+        {
+          "code": "270102",
+          "name": "Data Methods",
+          "definition": "Support to develop or strengthen quantitative or qualitative methods for data collection, such as through sample surveys, experiments, or observational studies. This includes both “traditional” data collection methods, which are typically associated with traditional data types such as censuses and surveys, and “nontraditional” data collection methods, which are typically associated with newer sources of data, such as from satellite imaging or e-government platforms.",
+          "typical_examples": [
+            {
+              "text": "Interventions supporting the development or strengthening of data collection methods for “traditional” data, such as support for development or design of a census, national accounts, household surveys, enterprise surveys, labor force surveys, surveys of personal finance, and administrative records"
+            },
+            {
+              "text": "Interventions supporting the development or strengthening of data collection methods for “nontraditional” data, such as support for development or design of data collection methodologies using satellite imaging, digital identification (ID), facial recognition, and e-government platforms."
+            }
+          ],
+          "source_page": 444
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "CCG, DD, FCI, FCV, IFC, IPG, JBS, MTI, POV, SSI, URL, WTR",
+      "source_page": 442
+    },
+    {
+      "approach_code": "270200",
+      "approach_name": "Data Collection and Data Acquisition",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support for primary or secondary collection or acquisition of data or statistics at regional, national, or subnational levels. “Primary data” collection describes interventions to obtain data directly from individuals, objects, or processes. “Secondary data” and “data acquisition” describe interventions which use or analyze data that have already been collected by another researcher, organization, or firm. “Data acquisition” may also describe efforts to license, purchase, or subscribe to receive or gain access to commercial or other forms of data.",
+      "typical_examples": [
+        {
+          "text": "Interventions supporting “traditional” data collection activities such as the following:",
+          "sub": [
+            "Surveys (household, price, firm, and so on)",
+            "Census (population, agriculture, and so on)",
+            "Administrative records (budget, civil registration and vital statistics, trade data, and so on)."
+          ]
+        },
+        {
+          "text": "Interventions supporting “nontraditional” or “alternative” data collection activities such as the following:",
+          "sub": [
+            "Social media",
+            "Websites or e-government platforms",
+            "Internet of things (IoT), including data collection from objects that are able to collect and exchange data in real time using embedded sensors, such as mobile devices (mobile phones and tablets), cars, lights, wearable technology, farming equipment, factory equipment, shipping containers, air/water quality sensors, facial recognition (through closed circuit [CC]) cameras and online images), and so on."
+          ]
+        },
+        {
+          "text": "Interventions supporting qualitative data collection, such as the following:",
+          "sub": [
+            "Through focus groups",
+            "In-depth interviews."
+          ]
+        },
+        {
+          "text": "Interventions to license, purchase, or subscribe to data from a commercial vendor or other organization."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270201",
+          "name": "Collection of Data from Traditional Sources",
+          "definition": "Support for primary or secondary collection or acquisition of traditional data or statistics at the regional, national, or subnational levels. “Traditional” data sources generally include surveys, censuses, and administrative records.",
+          "typical_examples": [
+            {
+              "text": "Interventions supporting “traditional” data collection activities such as the following:",
+              "sub": [
+                "Surveys (household, price, firm, migrant, and so on)",
+                "Census (population, agriculture, labor, and so on)",
+                "Administrative records (budget, civil registration and vital statistics, trade data, and so on)",
+                "Interventions to license, purchase, or subscribe to traditional data from a commercial vendor or other organizations."
+              ]
+            }
+          ],
+          "source_page": 446
+        },
+        {
+          "code": "270202",
+          "name": "Collection of Data from Alternative or Non-Traditional Sources",
+          "definition": "Support for primary or secondary collection or acquisition of nontraditional or alternative data at the regional, national, or subnational levels. “Nontraditional” or “alternative” data sources generally include newer sources of data, such as from social media or e-government platforms.",
+          "typical_examples": [
+            {
+              "text": "Interventions supporting “nontraditional” or"
+            },
+            {
+              "text": "“alternative” data collection activities, such as the following:",
+              "sub": [
+                "Big data collection (for example, social media, machine data, and transactional data)",
+                "Data collection or data scraping from websites, e-government platforms, and so on",
+                "Internet of things (IoT), including data collection from objects that are able to collect and exchange data in real time using embedded sensors, such as mobile devices (location data from mobile phones and tablets), cars, lights, wearable technology, farming equipment, factory equipment, shipping containers, air/water quality sensors, facial recognition (through closed circuit [CC] cameras and online images), and so on",
+                "Earth observation (satellite images)",
+                "Mobile telecommunications (call records)",
+                "Citizen-generated data."
+              ]
+            }
+          ],
+          "source_page": 447
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGR, CCG, DD, EDU, ENB, FCI, FCV, GEN, GOV, HNP, IFC, IPG, JBS, MTI, POV, SPJ, SSI, TRA, URL, WTR",
+      "source_page": 445
+    },
+    {
+      "approach_code": "270300",
+      "approach_name": "Data Curation and Data Management",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support for data curation and data management throughout the data life cycle. This includes efforts to clean data to assure consistency; organize and maintain datasets; support proper data documentation; and create metadata so these data can be accessed, used, and reused.",
+      "typical_examples": [
+        {
+          "text": "Interventions to strengthen data management, data quality assurance, and administration across the data life cycle, from data creation to processing, storing, transferring, archiving, and preservation, to disposal or destruction as appropriate"
+        },
+        {
+          "text": "Interventions to support the cleaning or wrangling of datasets"
+        },
+        {
+          "text": "Interventions to support or strengthen organization and maintenance of datasets"
+        },
+        {
+          "text": "Interventions to support proper data documentation, which describes how the data were created, the structure of the data and its contents, and any cleaning or manipulation of the data to enhance quality or enable useability"
+        },
+        {
+          "text": "Interventions to support or strengthen metadata or development of search functions for metadata"
+        },
+        {
+          "text": "Interventions to support development or improvements to a data catalog"
+        },
+        {
+          "text": "Interventions to support the development of a schedule for data management, retention, and/or possible disposal, as appropriate"
+        },
+        {
+          "text": "Interventions to support or strengthen data interoperability."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270301",
+          "name": "Data Management, Documentation, and Preservation",
+          "definition": "Support for data management at any point in (and across) the data life cycle: from data creation to processing, to storing, to data transfers, to archiving and preservation, to disposal or destruction as appropriate. This includes support for data documentation, metadata, database/data catalog management, and data preservation so these data can be accessed, used, and reused.",
+          "typical_examples": [
+            {
+              "text": "Interventions to strengthen data management and administration at any point in (or across) the data life cycle: from data creation to processing, to storing, to data transfers, to archiving and preservation, to disposal or destruction as appropriate"
+            },
+            {
+              "text": "Interventions to support or strengthen organization and maintenance of datasets"
+            },
+            {
+              "text": "Interventions to support proper data documentation, which describes how the data were created, the structure of the data and its contents, and any cleaning or manipulation of the data to enhance quality or enable useability"
+            },
+            {
+              "text": "Interventions to support or strengthen metadata or development of search functions for metadata"
+            },
+            {
+              "text": "Interventions to support development or improvements to a database or data catalog"
+            },
+            {
+              "text": "Interventions to support the development of a schedule for data management, retention, and/or possible disposal, as appropriate."
+            }
+          ],
+          "source_page": 449
+        },
+        {
+          "code": "270302",
+          "name": "Data Cleaning, Consistency, Data Quality Assurance, and Data Interoperability",
+          "definition": "Support to clean data to enhance quality assurance and data consistency and to strengthen or enable data interoperability.",
+          "typical_examples": [
+            {
+              "text": "Interventions to support the cleaning or wrangling of datasets"
+            },
+            {
+              "text": "Interventions to support data quality assurance"
+            },
+            {
+              "text": "Interventions to strengthen syntactic data interoperability (for example, strengthening the structuring and formatting of data to be used in the exchange of information)"
+            },
+            {
+              "text": "Interventions to strengthen data systems semantic interoperability (for example, strengthening interoperability of registries or information systems)"
+            },
+            {
+              "text": "Interventions to support the development or strengthening of interoperability frameworks or interoperability agreements."
+            }
+          ],
+          "source_page": 450
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGF, CCG, DD, ENB, FCI, FCV, GEN, GOV, HNP, IFC, IPG, JBS, MTI, POV, SPJ, SSI, URL, WTR",
+      "source_page": 448
+    },
+    {
+      "approach_code": "270400",
+      "approach_name": "Data Dissemination, Accessibility, and Discoverability",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support for systems or processes to strengthen data dissemination, data accessibility, and discoverability of data.",
+      "typical_examples": [
+        {
+          "text": "Interventions to develop or strengthen management information systems (MISs), such as education or higher education (EMIS/HEMIS), geospatial information systems, disaster risk information systems, climate data/information systems, health (HMIS), Labor (LMIS), social information systems, and more"
+        },
+        {
+          "text": "Interventions to support core government data systems which support the key functions of collecting, processing, and managing records and data and which enable upstream functions, such as public financial management (revenue, expenditures, and debt), e-government procurement, human resource management, and central and local government operations"
+        },
+        {
+          "text": "Development of an open data portal or platform or support for a broader open data initiative, including support to make government data publicly available, free of charge, without restrictions, in machine-readable formats, and reusable formats, with their associated metadata"
+        },
+        {
+          "text": "Development of a website or dashboards for data dissemination and use by the public or by targeted/authorized user groups (for example, ministry staff)"
+        },
+        {
+          "text": "Development of citizen engagement platforms, including CivicTech solutions, to enable citizen participation and the sharing of citizen-generated data, citizen surveys, open government, and open data platforms to improve accountability and reporting/ web publishing"
+        },
+        {
+          "text": "Interventions to develop or strengthen data dissemination strategies or release calendars"
+        },
+        {
+          "text": "Interventions to strengthen data discoverability, which enable users to easily locate available data, detect their quality, understand their structure and lineage, and access them."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270401",
+          "name": "Data Platforms, Websites, Dashboards, or Information Systems (MISs)",
+          "definition": "Data platforms, websites, or dashboards to enable data dissemination, accessibility, and discoverability by government and nongovernment actors.",
+          "typical_examples": [
+            {
+              "text": "Interventions to develop or strengthen management information systems (MISs), such as education (EMIS/HEMIS); geospatial information systems; disaster risk information systems; climate data/ information systems; health (HMIS); Labor (LMIS); social information systems; and more"
+            },
+            {
+              "text": "Development of an open data portal or platform or support for a broader open data initiative, including support to make government data publicly available, free of charge, without restrictions, in machine-readable formats and reusable formats, with their associated metadata."
+            },
+            {
+              "text": "Development of a website or dashboards for data dissemination and use by the public or by targeted/authorized user groups (for example, ministry staff)"
+            },
+            {
+              "text": "Development of citizen engagement (CE) platforms, including CivicTech solutions, to enable citizen participation and the sharing of citizen-generated data, citizen surveys, open government, and open data platforms to improve accountability and reporting/ web publishing."
+            }
+          ],
+          "source_page": 453
+        },
+        {
+          "code": "270402",
+          "name": "Data-Driven Tools or Applications",
+          "definition": "Mobile or web-based applications or tools to enable data sharing or convert data into actionable insights.",
+          "typical_examples": [
+            {
+              "text": "Interventions supporting the development of an app to advance a social, economic, or sustainable development objective"
+            },
+            {
+              "text": "Interventions supporting development or use of a real-time application programming interface (API), which enables users to automatically obtain data in real time from one or more data resources. Support might include embedding APIs in a software application or adding an API to a website"
+            },
+            {
+              "text": "Interventions supporting the development or strengthening of tools or processes to enable data flows (that is, data sharing or data transfers), such as public-private data sharing or cross-border data transfers among/across information management agents."
+            }
+          ],
+          "source_page": 454
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGF, CCG, DD, EDU, EEX, ENB, FCI, FCV, GEN, GOV, HNP, IFC, IPG, JBS, MTI, POV, SPJ, SSI, TRA, URL, WTR",
+      "source_page": 451
+    },
+    {
+      "approach_code": "270500",
+      "approach_name": "Data Use",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support to enable or strengthen use of data by government officials or nongovernment actors, to inform policymaking or decision-making, strategic planning, management, advocacy, or service delivery.",
+      "typical_examples": [
+        {
+          "text": "Interventions to support or enable policymaking or reforms based on data"
+        },
+        {
+          "text": "Intervention to support use of data to monitor or target support for implementation of reform"
+        },
+        {
+          "text": "Interventions to support development of data-driven content to aid in decision processes or advocacy, such as publication of data briefs, data visualizations, data-driven news stories, and so on"
+        },
+        {
+          "text": "Interventions to support the development or strengthening of incentives and processes for institutions and actors to share and use data (including to support or strengthen a culture of data use)"
+        },
+        {
+          "text": "Interventions targeting demand-side actors, to encourage or enable data use (such as civil society organizations, academia, think tanks, news media organizations, civic technology organizations, the private sector, and so on)"
+        },
+        {
+          "text": "Intervention to support use of data to increase accountability."
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270501",
+          "name": "Data Use by Government Officials",
+          "definition": "Support to enable or strengthen use of data by government officials to inform policymaking or decision-making, strategic planning, management, or service delivery.",
+          "typical_examples": [
+            {
+              "text": "Interventions to support use of data analytics and data-driven recommendations to enable/inform effective public policies and decision-making"
+            },
+            {
+              "text": "Intervention to support use of data to monitor or target support for implementation of reform"
+            },
+            {
+              "text": "Interventions to support development of data-driven content to aid in policymaking and government decision processes, such as publication of data briefs, data visualizations, and so on"
+            },
+            {
+              "text": "Interventions to support the development or strengthening of incentives and processes for government institutions and government officials to share and use data (including to support or strengthen a culture of data use)."
+            }
+          ],
+          "source_page": 456
+        },
+        {
+          "code": "270502",
+          "name": "Data Use by non-Government Actors",
+          "definition": "Support to enable or strengthen use of data by nongovernment actors to inform decision-making; inform or broaden the public discourse on social, economic, or sustainable development issues; support strategic planning and management; support advocacy; or enable feedback to government.",
+          "typical_examples": [
+            {
+              "text": "Interventions targeting demand-side actors, to encourage or enable data use (such as civil society organizations, academia, think tanks, news media organizations, civic technology organizations, the private sector, and so on)"
+            },
+            {
+              "text": "Interventions to support development of data-driven content to aid in decision processes or advocacy by nongovernment actors, such as publication of data briefs, data visualizations, data-driven news stories, and so on"
+            },
+            {
+              "text": "Interventions to support the development or strengthening of incentives and processes for nongovernment actors to use data (including to support or strengthen a culture of data use)"
+            },
+            {
+              "text": "Intervention to support use of data to increase accountability."
+            }
+          ],
+          "source_page": 457
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGF, CCG, DD, EDU, EEX, ENB, FCV, HNP, IFC, IPG, JBS, POV, SSI, TRA, URL, WTR",
+      "source_page": 455
+    },
+    {
+      "approach_code": "270600",
+      "approach_name": "Data Policy, Law, Regulation, and Governance",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support to develop or strengthen a policy, law, regulation, diagnostic, strategy, or governance arrangement for data or statistics at the national or subnational level.",
+      "typical_examples": [
+        {
+          "text": "Interventions supporting diagnostics or assessments of data availability or quality, data law or policy environment, data reform readiness, and so on, such as the following:",
+          "sub": [
+            "Open Data Readiness Assessment",
+            "Data Maturity Assessment",
+            "Data availability diagnostic (for example, assessment of data quality or availability against the Data for Policy [D4P] minimum package)",
+            "Data/statistical skills assessment",
+            "Financial inclusion data diagnostic",
+            "Assessments of the climate-related data architecture, including taxonomy; environmental, social, and governance (ESG) data availability; and disclosure frameworks",
+            "Assessment of economic impact of data production, adoption, and use."
+          ]
+        },
+        {
+          "text": "Interventions supporting development or implementation of a data or statistics strategy or data governance arrangements, such as the following:",
+          "sub": [
+            "National or subnational data strategy, such as an open data strategy and big data strategy",
+            "National Statistical Development Strategy (NSDS) or National Quality Assurance Framework for Statistics (NQAF)",
+            "Sectoral data strategies, such as a gender data strategy, an agricultural data strategy, an education data strategy, or climate data strategy",
+            "Preparation of strategy, policy, and programs related to GovTech enablers in the public sector (for example, GovTech/ digital government strategy, policy and action plans, public sector innovation, and private sector involvement in GovTech programs)",
+            "Data governance support activities, such as developing strategies or support to establish or clarify institutional authority, control and/or shared decision-making, planning, monitoring, and enforcement processes over how, by whom, and where data assets are managed",
+            "Support to enable or strengthen whole-of-government data coordination or to support strategic planning, collaboration, compliance, and/or user-centric data systems or data capital",
+            "Support for the operationalization of a social contract for data."
+          ]
+        },
+        {
+          "text": "Interventions supporting the development or strengthening of policies, laws, or regulations for data or statistics, such as the following:",
+          "sub": [
+            "Support for the development of a government decree, executive action, or cabinet declaration to establish a data policy or institutional arrangement for data or statistics",
+            "Support for development or strengthening of legislation which establishes or implements a Data or Statistics Act, or similar legislation which establishes priorities, governance, or oversight of public data, open data, data protection, other data/statistics activity, and so on",
+            "Support for development or strengthening of legislation which establishes an autonomous intergovernment administrative and coordination agency (or national institute for statistics) with the responsibility of oversight and implementation of national or subnational data or statistics activities."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270601",
+          "name": "Data Diagnostic or Data Assessment",
+          "definition": "Support for diagnostics or assessments of data availability or quality, data law or policy environment, and data reform readiness.",
+          "typical_examples": [
+            {
+              "text": "Open data readiness assessment"
+            },
+            {
+              "text": "Data Maturity Assessment"
+            },
+            {
+              "text": "Data availability diagnostic (for example, assessment of data quality or availability against the Data for Policy [D4P] minimum package)"
+            },
+            {
+              "text": "Data/statistical skills assessment"
+            },
+            {
+              "text": "Financial inclusion data diagnostic"
+            },
+            {
+              "text": "Assessments of the climate-related data architecture, including taxonomy; environmental, social, and governance (ESG) data availability; and disclosure frameworks"
+            },
+            {
+              "text": "Assessment of economic impact of data production, adoption, and use."
+            }
+          ],
+          "source_page": 460
+        },
+        {
+          "code": "270602",
+          "name": "Data Strategy and Data Governance",
+          "definition": "Support for the development or implementation of a data or statistics strategy, or data governance arrangements. “Data governance arrangements” describe the exercise of authority, control, and/or shared decision-making (planning, monitoring, and enforcement) over how, by whom, and where data assets are managed.",
+          "typical_examples": [
+            {
+              "text": "National or subnational data strategy, such as an open data strategy and big data strategy"
+            },
+            {
+              "text": "National Statistical Development Strategy (NSDS) or National Quality Assurance Framework for Statistics (NQAF)"
+            },
+            {
+              "text": "Sectoral data strategies, such as a gender data strategy, an agricultural data strategy, an education data strategy, or climate data strategy"
+            },
+            {
+              "text": "Preparation of strategy, policy, and programs related to the GovTech enablers in the public sector (for example, GovTech/ digital government strategy, policy and action plans, public sector innovation, and private sector involvement in GovTech programs)"
+            },
+            {
+              "text": "Data governance support activities, such as developing strategies or support to establish or clarify institutional authority, control, and/or shared decision-making, planning, monitoring, and enforcement processes over how, by whom, and where data assets are managed"
+            },
+            {
+              "text": "Support to enable or strengthen whole-of-government data coordination, or to support strategic planning, collaboration, compliance, and/or user-centric data systems or data capital"
+            },
+            {
+              "text": "Support for the operationalization of a social contract for data."
+            }
+          ],
+          "source_page": 461
+        },
+        {
+          "code": "270603",
+          "name": "Development of Policies, Laws, and Regulations for Data or Statistics",
+          "definition": "Support for the development or strengthening of policies, laws, or regulations for data or statistics.",
+          "typical_examples": [
+            {
+              "text": "Support for the development of a government decree, executive action, or cabinet declaration to establish a data policy or institutional arrangement for data or statistics"
+            },
+            {
+              "text": "Support for development or strengthening of legislation which establishes or implements a Data or Statistics Act, or similar legislation which establishes priorities, governance, or oversight of public data, open data, or other data/statistics activity, and so on"
+            },
+            {
+              "text": "Support for development or strengthening of legislation which establishes an autonomous intergovernment administrative and coordination agency (or national institute for statistics) with the responsibility of oversight and implementation of national or subnational data or statistics activities"
+            },
+            {
+              "text": "Interventions supporting the development of competition, trade, or tax policies for data economy reforms."
+            }
+          ],
+          "source_page": 463
+        },
+        {
+          "code": "270604",
+          "name": "Data Rights",
+          "definition": "Support for the development or implementation of data rights, data empowerment, or data sovereignty reforms.",
+          "typical_examples": [
+            {
+              "text": "Interventions to support or strengthen awareness of the concept of data rights, that is, a rights-based approach for the public to understand and exercise discretion over where their personal data go and how they are used"
+            },
+            {
+              "text": "Interventions to support or strengthen awareness of the concept of data sovereignty, that is, a group’s or individual’s right to control and maintain their own data, such as across data collection and data storage activities, and/or the interpretation of their data"
+            },
+            {
+              "text": "Interventions to support or strengthen awareness of the concept of data portability, that is, to enable a group or individuals to receive—or transmit to another controller on their behalf— personal data they have provided to a controller in a structured, commonly used, and machine-readable format."
+            }
+          ],
+          "source_page": 464
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "CCG, DD, EDU, FCI, FCV, GEN, GOV, HNP, IFC, IPG, JBS, MTI, POV, SPJ, SSI, URL, WTR",
+      "source_page": 458
+    },
+    {
+      "approach_code": "270700",
+      "approach_name": "Literacy and Capacity Building On Data",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support to develop or strengthen human or institutional capacity at the national or subnational level, to enable increased quality, quantity, dissemination, and use of data or statistics for social, economic, and/or sustainable development. “Capacity building” describes support activities designed to enhance the skills or individual agency of government or nongovernment stakeholders to collect, manage, govern, safeguard, analyze, disseminate, or use data or statistics. “Institutional strengthening” describes support activities designed to develop or strengthen national or subnational government or parastatal administrative or coordination agencies or entities that collect, process, analyze, or use data or statistics.",
+      "typical_examples": [
+        {
+          "text": "Interventions to build capacity or strengthen individual agency of government or nongovernment actors on data or statistics, for example,",
+          "sub": [
+            "Any training on statistics (sampling, statistical analysis, econometrics, and so on)",
+            "Any training on data literacy and data use (workshops, data fellowships, hackathons, and so on)",
+            "Support to create/strengthen data communities of practice."
+          ]
+        },
+        {
+          "text": "Interventions to create or strengthen an institution or institutional arrangement to support data or statistics activities, for example,",
+          "sub": [
+            "Creation, designation, or strengthening of an autonomous intergovernment administrative or coordination agency (or national institute for statistics) with the responsibility of oversight and implementation of collection, processing, analysis, or use of data or statistics",
+            "Development or strengthening of a data governance institution, which might, for example, be responsible for strategic planning, rulemaking or rule implementation, compliance, or learning/ evidence generation for data or statistics activities",
+            "Establishment or strengthening of an enabling or safeguarding institution in the public sector, such as a public entity focused on GovTech reforms."
+          ]
+        },
+        {
+          "text": "Interventions to strengthen data ethics, that is, to support or strengthen data producers’ or data users’ responsible data acquisition, management, use, and disposal in line with best practice approaches, for example,",
+          "sub": [
+            "Training to strengthen support, transparency, and accountability in the use of artificial intelligence (AI) and automated decision-making systems in the public sector",
+            "Workshops to train government data scientists or data managers in responsible data use",
+            "Training to enable researchers to adopt open science or open code approaches, that is, by publishing the source code of algorithms in public registers."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270701",
+          "name": "Capacity Building on Data or Statistics",
+          "definition": "“Capacity building” describes support activities designed to enhance the skills or individual agency of government or nongovernment stakeholders or intermediaries to collect, manage, govern, safeguard, analyze, disseminate, or use data or statistics.",
+          "typical_examples": [
+            {
+              "text": "Interventions to build capacity for government or nongovernment actors, for example,",
+              "sub": [
+                "Any training on statistics (sampling, statistical analysis, econometrics, and so on)",
+                "Any training on data literacy and data use (workshops, data fellowships, hackathons, and so on)",
+                "Strengthening the data and statistical literacy of policy makers or decision makers to help them understand the potential utility and limitations of new data sources",
+                "Support to create/strengthen data intermediaries, such as data collaboratives, data trusts, data cooperatives, or data communities of practice."
+              ]
+            }
+          ],
+          "source_page": 467
+        },
+        {
+          "code": "270702",
+          "name": "Development or Strengthening of Data Institutions",
+          "definition": "“Institutional strengthening” describes support activities designed to develop or strengthen national or subnational government or parastatal administrative or coordination agencies or entities that collect, process, analyze, or use data or statistics.",
+          "typical_examples": [
+            {
+              "text": "Interventions to create or strengthen an institution or institutional arrangement to support data or statistics activities, for example,",
+              "sub": [
+                "Creation, designation, or strengthening of an autonomous intergovernment administrative or coordination agency (or national institute for statistics) with the responsibility of oversight and implementation of collection, processing, analysis, or use of data or statistics",
+                "Development or strengthening of a data governance institution, which might, for example, be responsible for strategic planning, rulemaking or rule implementation, compliance, or learning/evidence generation for data or statistics activities",
+                "Establishment or strengthening of an enabling or safeguarding institution in the public sector, such as a public entity focused on GovTech reforms."
+              ]
+            }
+          ],
+          "source_page": 468
+        },
+        {
+          "code": "270703",
+          "name": "Data Ethics",
+          "definition": "Support to strengthen data ethics, that is, to support or strengthen data producers’ or data users’ responsible data acquisition, management, use, and disposal in line with best practice ethical approaches.",
+          "typical_examples": [
+            {
+              "text": "Training to strengthen support, transparency, and accountability in the use of artificial intelligence (AI) and automated decision-making systems in the public sector"
+            },
+            {
+              "text": "Workshops to train government data scientists or data managers in responsible data use"
+            },
+            {
+              "text": "Training to enable researchers to adopt open science or open code approaches, that is, by publishing the source code of algorithms in public registers."
+            }
+          ],
+          "source_page": 469
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGF, CCG, DD, EDU, ENB, FCI, GOV, IFC, MTI, POV, SSI, URL",
+      "source_page": 465
+    },
+    {
+      "approach_code": "270800",
+      "approach_name": "Geospatial Data",
+      "parent_theme_code": "270000",
+      "parent_theme_name": "Data Ecosystem",
+      "definition": "Support for the collection, processing, analysis, visualization, storage, and improving of access and use of spatially referenced data and information.",
+      "typical_examples": [
+        {
+          "text": "Interventions to support or strengthen spatial data creation, analysis, visualization, and use, such as the following:",
+          "sub": [
+            "Support to capture or analyze descriptive information about a geographic location via satellite (global positioning system [GPS])",
+            "Support for the collection of high-resolution images of a geographic location (for example, taken by a drone or unmanned aerial vehicle [UAV])",
+            "Support for the use of geographic information system (GIS) software to use data collected by GPS satellites or drones",
+            "Collection of computer-aided design (CAD) or other images of buildings or architectural data and related geographic information",
+            "Support for geospatial mapping for off-grid electrification that enables private off-grid electrification",
+            "Support for satellite observed data access on groundwater resources, soil moisture and quality, heavy metals and nonpoint source pollution levels, and so on."
+          ]
+        },
+        {
+          "text": "Interventions to develop or support remote sensing or Earth observation products and services, such as the following:",
+          "sub": [
+            "Support to develop a crop information system to support a food security project",
+            "Support to develop a climate change impact or natural disaster monitoring application",
+            "Support to develop a land-use classification or land registry application."
+          ]
+        },
+        {
+          "text": "Interventions to develop or strengthen a geospatial information framework or geospatial data/service standards, such as the following:",
+          "sub": [
+            "Support for research to help develop or harmonize Earth observation methods and standards",
+            "Support to define technical specifications and quality assurance criteria for Earth observation data collection, management, and use."
+          ]
+        }
+      ],
+      "third_level_themes": [
+        {
+          "code": "270801",
+          "name": "Spatial Data Creation, Analysis, Visualization, and Use",
+          "definition": "Support for the collection, processing, analysis, visualization, and use of spatially referenced data and information.",
+          "typical_examples": [
+            {
+              "text": "Interventions to support or strengthen spatial data creation, analysis, visualization, and use, such as the following:",
+              "sub": [
+                "Support to capture or analyze descriptive information about a geographic location via satellite (global positioning system [GPS])",
+                "Support for the collection of high-resolution images of a geographic location (for example, taken by a drone or unmanned aerial vehicle [UAV])",
+                "Support for the use of geographic information system (GIS) software to use data collected by GPS satellites or drones",
+                "Collection of computer-aided design (CAD) or other images of buildings or architectural data and related geographic information",
+                "Support geospatial mapping for off-grid electrification that enables private off‑grid electrification",
+                "Support for satellite-observed data access on groundwater resources, soil moisture and quality, heavy metals and nonpoint source pollution levels, and so on."
+              ]
+            }
+          ],
+          "source_page": 472
+        },
+        {
+          "code": "270802",
+          "name": "Remote Sensing or Earth Observation Products or Services",
+          "definition": "Interventions to develop or support remote sensing or Earth observation products or services.",
+          "typical_examples": [
+            {
+              "text": "Support to develop a crop information system to support a food security project"
+            },
+            {
+              "text": "Support to develop a climate change impact or natural disaster monitoring application"
+            },
+            {
+              "text": "Support to develop a land-use classification or land registry application."
+            }
+          ],
+          "source_page": 473
+        },
+        {
+          "code": "270803",
+          "name": "Geospatial Information Framework, or Geospatial Data/Service Standards",
+          "definition": "Interventions to develop or strengthen a geospatial information framework or geospatial data/service standards.",
+          "typical_examples": [
+            {
+              "text": "Support for activities dealing with establishment of geospatial information systems (geodetic network), Continuous Operating Reference Stations (CORSs), Integrated Geospatial Information Frameworks (IGIF), land information and management systems (LIMS), and use of remote sensing and geographical information systems (GIS) for mapping and surveying"
+            },
+            {
+              "text": "Support for research to help develop or harmonize Earth observation methods and standards"
+            },
+            {
+              "text": "Support to define technical specifications and quality assurance criteria for Earth observation data collection, management, and use."
+            }
+          ],
+          "source_page": 474
+        }
+      ],
+      "lead_global_practice": "DEC",
+      "relevant_global_practices": "AGF, CCG, EEX, ENB, FCI, HNP, IFC, IPG, SSI, TRA, URL, WTR",
+      "source_page": 470
+    }
+  ]
+}

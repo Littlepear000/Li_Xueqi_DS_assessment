@@ -1,0 +1,512 @@
+﻿       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+
+   Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+
+
+
+                       Project Information Document/
+                 Integrated Safeguards Data Sheet (PID/ISDS)
+
+                       Concept Stage | Date Prepared/Updated: 10-Nov-2016 | Report No: PIDISDSC19599
+
+
+
+
+Nov 18, 2016                                                                                                      Page 1 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                        Project ID                      Parent Project ID (if any)     Project Name
+  India                          P160379                                                        Innovation in Solar
+                                                                                                Power and Hybrid
+                                                                                                Technologies
+                                                                                                (P160379)
+  Region                         Estimated Appraisal Date        Estimated Board Date           Practice Area (Lead)
+  SOUTH ASIA                     Jul 20, 2017                    Oct 26, 2017                   Energy & Extractives
+
+  Lending Instrument             Borrower(s)                     Implementing Agency
+  Investment Project Financing   Solar Energy Corporation of     Solar Energy Corporation of
+                                 India Limited                   India Limited
+
+   Proposed Development Objective(s)
+
+    The Project Development Objective is to demonstrate large-scale innovative renewable energy technologies in India.
+
+  Financing (in USD Million)
+   Financing Source                                                                              Amount
+   Borrower                                                                                       200.00
+   Clean Technology Fund                                                                            20.00
+   International Bank for Reconstruction and Development                                          180.00
+   Total Project Cost                                                                             400.00
+  Environmental Assessment Category                              Concept Review Decision
+  A-Full Assessment                                              Track II-The review did authorize the preparation to
+                                                                 continue
+
+
+
+
+   Note to Task Teams: End of system generated content, document is editable from here.
+
+
+ Other Decision (as needed)
+
+
+
+
+Nov 18, 2016                                                                                                   Page 2 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+ B. Introduction and Context
+
+ Country Context
+     1. Fueling India’s economic growth and providing electricity to its rising population require accelerating the growth
+     of its power system. India is placed among the world’s top five, fastest-growing nations, having expanded its
+     economy at an average annual rate of 7.6 percent over the past decade.1 To support this economic growth, the
+     country’s demand for power is expected to rise. With over 300 gigawatts (GW) of installed capacity,2 India’s power
+     system is among the largest in the world. But per capita consumption of electricity is less than one-fourth of the world
+     average. An estimated 300 million people, mainly in rural areas, remain without a connection to the national electrical
+     grid; once they are connected, many face frequent power disruptions.
+
+     2. In the coming decades, India will be a key player in influencing global energy demand and climate change trends.
+     According to the International Energy Agency (IEA), between 2015 and 2040, India will contribute more than any
+     other country to the projected rise in global energy demand; its carbon dioxide (CO2) emissions are expected to triple
+     over the period. Yet, by 2040, the country’s average per capita energy demand would be 40 percent below the world
+     average.3
+
+     3. The Government of India (GOI) has pledged to substantially increase the share of renewable energy (RE) in the
+     country’s electricity generation mix. In its Intended Nationally Determined Contributions (INDCs), submitted to the
+     U.N. Framework Convention on Climate Change (UNFCCC) Conference of the Parties (COP21) held in Paris in
+     2015, India announced its aim of increasing installed electric power capacity based on non-fossil-fuel energy
+     resources to 40 percent by 2030. This includes plans to quadruple the country’s non -hydropower RE capacity to 175
+     GW by 2022, resulting in the abatement of 326 million tons of CO2 equivalent per year. Meeting the 2022 target will
+     require up to US$160 billion in investments in generation, as well as substantial complementary investments in
+     strengthening the transmission network to absorb this variable power.4
+
+ Sectoral and Institutional Context
+     4. In India, electricity is in the concurrent list of the Constitution of India. It means that both the Union/Central and
+     State Governments can formulate policies and laws on the subject, but the responsibility of implementation rests with
+     the States. Before enactment of the Electricity Act (EA) 2003, the Indian power sector was under government control
+     with all major functions of generation, transmission and distribution to consumers predominantly done by state-owned
+     companies and boards. After EA 2003, these companies and boards were encouraged to unbundle into generation,
+     transmission and distribution sector to bring in efficiencies in operations. Amongst many other aspects, the Act
+     specifically encouraged competition in the sector, de-licensed generation, recognized trading as a separate activity,
+     introduced open access in transmission, promoted multiple licenses in the distribution sector, and setting up of
+     independent regulatory commissions to fix tariff and promote development of the sector. Thus, electricity sector
+     reforms have enabled a transition from a vertically integrated monopoly market structure to one of competitive
+     wholesale and retail mechanism with introduction of marketplaces like power exchanges.
+
+     5. In generation, the development of India’s RE has grown significantly over the past decade, with the
+     implementation of major policy and regulatory measures for harnessing RE resources. As of July 2016, India had
+     successfully added more than 44 GW of grid-connected RE (excluding 43 GW in large hydropower capacity). The
+     major contributor to this achievement has been wind power (27.1 GW), followed by solar power (7.8 GW), bio-power
+
+
+ 1
+   The World Bank, http://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=2015&locations=IN&start=2005
+ 2
+   See Central Electricity Authority, Monthly Report on Power Sector, July 2016.
+ 3
+   World Energy Outlook 2015, http://www.worldenergyoutlook.org/media/weowebsite/2015/IndiaEnergyOutlook_WEO2015.pdf
+ 4
+   Ministry of Environment and Forests (MoEF), Government of India.
+
+Nov 18, 2016                                                                                                           Page 3 of 10
+        The World Bank
+        Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+     (4.8 GW), and small hydro (4.3 GW).5 Together, wind and solar power constitute nearly 80 percent of this added
+     capacity. The rate at which this capacity addition has occurred is commendable, considering that total RE installed
+     capacity was just 7.7 GW less than a decade ago (2007).6
+
+     6. Solar and wind power are likely to continue with the dominant share of RE in India for the foreseeable future.
+     Their growth trajectory over the last decade and present level of installed capacity clearly indicate significant potential
+     for both categories. This potential is also reflected in the GOI’s 2022 target of 175 GW, whic h envisages 160 GW
+     coming from solar (100 GW) and wind (60 GW). Recognizing the potential of solar energy to contribute to India’s
+     energy security, and taking advantage of falling solar photovoltaic (PV) prices, which increases the likelihood of more
+     quickly reaching grid parity, the GOI enhanced cumulative solar targets from 20 GW to 100 GW in June 2015 under
+     the Jawaharlal Nehru National Solar Mission (JNNSM).7
+
+     7. However, scaling up stand-alone solar and wind plants faces major constraints, including land scarcity,
+     underutilized evacuation infrastructure, and variability of supplied energy. Land acquisition requirements for stand-
+     alone solar and wind projects are estimated at about 5 acres per megawatt (MW) and 8 –10 acres per MW,
+     respectively.8 Furthermore, transmission lines and related infrastructure are inadequately utilized for stand-alone solar
+     and wind projects; that is, solar electricity is available during daylight hours while wind electricity often picks up later
+     in the evening. With a targeted increase in the share of variable RE, the grid integration cost will go up.
+
+     8. Introduction and scale-up of new technologies and applications—specifically, solar-wind hybrid systems,
+     integrated energy storage for solar and wind, and floating solar technology—can help to overcome the above-
+     mentioned bottlenecks. Solar-wind hybrid systems can provide increased efficiency, as well as greater balance in the
+     energy supply. The complementarity of solar and wind electricity-generation patterns provides an opportunity to
+     improve the utilization factor for the grid/transmission network, as well as better utilize scarce land. 9 Such
+     complementarity, along with integrated electricity storage, will also help reduce the intermittent nature of RE. Finally,
+     floating solar PV panels can help ease pressure on land resources by placing the power plant on water bodies.
+
+     9. India has a vast RE potential. Several states are blessed with excellent wind and solar resources, together offering
+     ideal sites for implementing utility-scale RE hybrid projects. To date, hybrid projects in India have been limited to
+     small-scale and off-grid ones. Existing installations include a few kilowatt (kW) projects, while tendering for a 2.5
+     MW project at Kaza in Himachal Pradesh state is currently under way. To increase the uptake of hybrid technologies,
+     the GOI recently issued a draft policy on hybrid systems that targets achieving 10 GW of generating capacity by 2022
+     through hybridization of solar and wind power projects.10
+
+     10. Given the intermittent nature of RE, energy storage is becoming increasingly important. While RE penetration up
+     to 15–20 percent is relatively easy to integrate into the grid, higher levels may cause challenges. Electricity storage
+     can help with load shifting to meet peak demand, grid stabilization, improved generation efficiency, and better
+     utilization of transmission capacity. With falling prices and enhanced performance, energy-storage technology is
+     gradually becoming competitive. With the launch of India’s Smart Grid and Electrical Vehicle initiatives, along with
+     the promotion of on-site solar energy and rural micro-grids, energy storage is fast evolving into a critical component
+     of the country’s energy strategy.
+
+ 5
+   See Central Electricity Authority, Monthly Report on Power Sector, July 2016.
+ 6
+   Comptroller and Auditor General of India,
+ http://www.cag.gov.in/sites/default/files/audit_report_files/Union_Civil_Performance_Renewable_Energy_Report_34_2015.pdf
+ 7
+   The JNNSM was launched on January 11, 2010 by former Prime Minister Manmohan Singh.
+ 8
+   On a footprint basis, however, the land acquisition requirements for wind are much lower.
+ 9
+   A study conducted by the Reiner Lemoine Institute and Solarpraxis AG concluded that combining wind turbines and PV systems results in
+ generating up to twice the amount of electricity across the same surface area, while shading losses caused by wind turbines amount to just 1–2
+ percent.
+ 10
+    For details, see http://mnre.gov.in/file-manager/UserFiles/Draft-Wind-Solar-Hybrid-Policy.pdf
+
+Nov 18, 2016                                                                                                                               Page 4 of 10
+        The World Bank
+        Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+      11. The GOI is also promoting floating solar technology, which has a large potential in the country. Preliminary
+      studies suggest that utilization of just 10 percent of India’s water bodies would allow for the development of about
+      300 GW of floating solar PV generation capacity.11 This technology can not only reduce demand for land; in case of
+      hydropower dams, it can help to optimize the utilization of existing evacuation infrastructure. Additional advantages
+      of the technology include higher efficiency due to natural cooling; lower cleaning requirements; and potential positive
+      externalities by reducing evaporation, controlling algae growth, and providing shade to fish and other marine life. To
+      date, the uptake of floating solar technologies in India has been modest. The country’s first floating sol ar plant, a 10
+      kW pilot built near Kolkata, was followed by two more 10 kW plants: one at Dhanas Lake in Chandigarh and the
+      other in a cooling water pond of Vidharbha Industries at Nagpur. Also, a 100 kW plant is being built at Loktak Lake
+      in Manipur. At present, India has no utility-scale, floating solar plants.
+
+      12. To scale up the development of innovative and demonstrable solar-energy technologies, the GOI formed the Solar
+      Energy Corporation of India (SECI) in 2011 as one of the key implementing agencies f or JNNSM. Recently, SECI’s
+      mandate was broadened to cover the entire gamut of RE sources. As a Central Public Sector Enterprise (CPSE)
+      dedicated to the RE domain, with the twin objectives of technology and market development, SECI is responsible for
+      finding appropriate technological and market-based solutions to overcome constraints currently faced by the RE
+      sector.
+
+      13. The project promotes such innovative technologies in the renewable energy sector in the country by mitigating an
+      early-mover risk perceived by the private sector. There are at least three barriers, which prevent private sector from
+      financing such technologies: (i) opportunity cost of land is not always properly reflected in prices; (ii) commercial
+      banks may not be comfortable with financing technologies, which haven’t been tested in India and have limited track
+      record globally; and, (iii) absence of proper tariffs, which will encourage deployment of these technologies. The
+      project intends to apply existing tariffs for wind and solar for electricity generated by sub-projects, while in parallel
+      engaging with the regulator on developing specific tariffs for these new technologies. The concessional financing of
+      CTF is expected to be compensated by the learning curve for these technologies, reduced construction and
+      performance risk, and technology specific tariffs to be developed throughout the project.
+
+      14. The investments under this project is expected to have both demonstration effect as well as contribute towards
+      reducing costs given that the scale of the project is relatively large. For instance, 50 MW of floating solar PV will
+      likely double the global installed capacity and help to drive down costs. Hence, the investments under the project are
+      expected to crowd-in private investments in these technologies by: (i) addressing the technical risks involved with
+      such new technologies; (ii) giving confidence to the financial institutions/commercial lenders that such technologies
+      are capable of producing desired results; and, (iii) building on the lessons learned from these sub-projects. The project
+      will also bring out approaches for successful implementation of such technologies through suitable risk mitigation
+      strategies and prudent project design and implementation, not only within India but also in other countries.
+
+      15. The project is one amongst the US$1 billion engagement sought by the GOI from the World Bank in the
+      renewable energy sector.12 In particular, the GOI requests have been received for three other Bank engagements to (i)
+      support the establishment of grid connected rooftop PV (US$648 million), (ii) fund the construction of associated
+      evacuation infrastructure from Bank-supported solar parks (US$300 million), and (iii) demonstrating innovative
+      technologies in renewable energy sector, such as, solar-wind hybrid, energy storage and floating solar (US$200
+      million). This project looks at pushing the technologies in the sector and hence compliments the support in renewable
+      energy comprehensively.
+
+ 11
+   According to a preliminary assessment of Renewable Energy College, Kolkata.
+ 12
+   In particular, the GOI requests have been received for three other Bank engagements to (i) support the establishment of grid connected rooftop PV
+ (US$648 million); (ii) fund the construction of associated evacuation infrastructure from Bank-supported solar parks (US$300 million); and, (iii)
+ demonstrating innovative technologies in renewable energy sector, such as, solar-wind hybrid, energy storage and floating solar (US$200 million).
+
+Nov 18, 2016                                                                                                                            Page 5 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+      16. The project provides support to the generation side of the energy value chain that supports the GOI in its climate
+      change abatement strategy. The off-taker of the energy generated from such sub-projects will either be the electricity
+      distribution companies (Discoms) or the bulk/captive consumers. The GOI acknowledges that the distribution sector
+      is the most fragile segment of the Indian electricity supply chain and their financial distress may discourage them
+      from signing power purchase agreement (PPA) with the solar power developers. Considering this, the GOI has last
+      year undertaken a debt restructuring scheme (Ujawal Discom Assurance Yojana, UDAY) and given a framework to
+      the States to help them to put the distribution sector’s finances back on track. The reluctance of Discoms to buy solar
+      power due to their cash constraints must be weighed against the steps taken by the GoI to reduce the costs of solar
+      power and the new and increased renewable purchase obligations (RPO), which the Discoms will be subjected to,
+      following the approval of proposed amendments to the Electricity Act 2003 as well as enactment of the National
+      Renewable Energy Act.
+
+      17. The project is supporting SECI, which is the borrower as well as the implementing agency for the project, to
+      achieve the desired results. The Ministry of New and Renewable Energy (MNRE) has given a mandate to SECI to
+      promote renewable energy in the country and push the boundaries of the technologies being deployed to help the GOI
+      achieve 175 GW of installed capacity under renewable energy. Thus, overcoming the constraints faced in the sector
+      and deploying the alternate solutions is SECI’s responsibility.
+
+ Relationship to CPF
+     18. The proposed project is aligned with the three pillars of the Country Partnership Framework (CPF) for India:
+     integration, transformation, and inclusion. Under integration, the project will accelerate investment in innovative solar
+     power and hybrid technologies. Under transformation, it aims directly to reduce greenhouse gas (GHG) emissions and
+     local environmental pollution associated with the alternate coal-based thermal power generation, to be displaced by
+     adding clean power-generation capacity and fostering innovative RE development. Under inclusion, it offers the
+     opportunity to increase electricity access by increasing the availability of electricity generation in the system.
+
+  C. Proposed Development Objective(s)
+
+   Note to Task Teams: The PDO has been pre-populated from the datasheet for the first time for your convenience.
+   Please keep it up to date whenever it is changed in the datasheet.
+
+
+  The Project Development Objective is to demonstrate large- -scale innovative renewable energy technologies in India.
+
+  Key Results (From PCN)
+  The following indicators will be used to track progress in achieving the PDO:
+      Cumulative installed capacity of 250–400 MW
+      RE power generation (in megawatt hours [MWh])
+      GHG emissions avoided
+
+  D. Concept Description
+      19. The proposed project aims to support the GOI to promote large-scale deployment of innovative technologies in
+      the RE sector, including solar-wind hybrid systems, integrated energy storage for solar and wind, and floating solar
+      PV panels. This will be done in partnership with SECI, a central sector utility under the Ministry of New and
+      Renewable Energy (MNRE). The proposed project will have the following two components:
+
+
+Nov 18, 2016                                                                                                        Page 6 of 10
+        The World Bank
+        Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+  Component A – Investments in Innovative Technologies (estimated cost: US$398 million, including US$150 –180
+  million from the World Bank, US$18–48 million from the Clean Technology Fund, and US$200 million from SECI).
+
+  This component will finance the following:
+      a. Large-scale solar-wind hybrid power plant(s), potentially with short-term energy storage, with a cumulative
+         capacity of about 200 MW. The power plants will likely be located in Andhra Pradesh.13 Location of the plant
+         sites will be finalized following detailed solar and wind resource assessments, along with technical due diligence
+         of the site and ease of connecting the plant to the grid. Pre-feasibility studies for solar-wind hybrid plants at
+         several potential sites are under way.
+      b. Stand-alone plants for solar PV and wind with storage. Shorter duration (15–30 minutes) and longer duration (2–3
+         hours) energy storage will be further explored during the project preparation phase. This may include investments
+         in capacity of about 150 MW.
+      c. Large-scale floating solar PV power plants with a cumulative capacity of about 50 MW . The plants will likely be
+         located in Andhra Pradesh and Kerala states. The sites initially identified have an estimated potential of 10 MW
+         each. SECI is exploring water surfaces at various other locations to better understand the potential for floating
+         solar PV plants and identify additional sites.
+
+      20. SECI will be the principal sponsor and owner of the proposed power plants. SECI will build power plants through
+      a competitive bidding process for selecting Engineering, Procurement, and Construction (EPC) contractors. These
+      plants will be grid-connected, and the state distribution companies and bulk consumers will purchase the electricity
+      generated from these plants through a power purchase agreement (PPA).
+
+      Component B – Technical Assistance and Institutional Strengthening of SECI (estimated cost: US$2 million from the
+      Clean Technology Fund).
+
+      This component will finance the following activities:
+
+      a. Capacity building and institutional strenghtening to enhance SECI’s core competencies across such functions as
+         human resources, project management and monitoring, procurement and contract management, operations and
+         maintenance (O&M), financial management, and implementation of enterprise-wide Information Technology (IT)
+         systems.
+      b. Conducting site selection and other studies to build the investments pipeline.
+      c. Developing policy and regulatory proposals to support scale-up of innovative technologies.
+
+      21. The World Bank intends to contribute US$200 million, representing 50 percent of the total project cost, estimated
+      at about US$400 million. Of this US$200 million, the World Bank’s own resources will cover about US$150–180
+      million, while the Climate Technology Fund will contribute the other US$20–50 million. SECI will provide the
+      remaining 50 percent from its own balance sheet, as well as GOI subsidies for viability gap funding.
+
+
+
+
+ 13
+    Plant locations and capacity have been specified, depending on the interest conveyed by the respective state-UT administrations; these may
+ subsequently change, depending on the technical due diligence. Other locations will also be explored during the preparation phase to be funded under
+ this project or used to build the pipeline for future investments.
+
+Nov 18, 2016                                                                                                                             Page 7 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+   Note to Task Teams: The following sections are system generated and can only be edited online in the Portal.
+
+
+
+  SAFEGUARDS
+
+  A. Project location and salient physical characteristics relevant to the safeguard analysis (if known)
+
+  Currently, the sub projects and exact locations are not known. However, these will be located across the country.
+ Notwithstanding the benign sustainable energy nature of the investments to be supported by the project, given the
+ novelty of some of the technologies and uncertainties on site selection, there is a risk that the project may cause adverse
+ environmental effects. At this early preparation stage, a Safeguards Category A has been determined, reflecting a
+ cautious approach to the assessments required. Nevertheless, as additional information becomes available, the
+ safeguards category will be re-assessed and may be later determined as Category B.
+
+  B. Borrower’s Institutional Capacity for Safeguard Policies
+
+  The borrower for the proposed operation is SECI under the administrative control of MNRE. It is for the first time that
+ SECI will engage with the World Bank and therefore is not aware of the Bank policies. As of now SECI has only one in-
+ house Environmental Expert. There is no in-house expertise in managing social safeguard measures. The Bank will be
+ strengthening SECI’s capacity on these aspects during project preparation phase and also during supervision phase.
+
+  C. Environmental and Social Safeguards Specialists on the Team
+
+  Gaurav D. Joshi, Parthapriya Ghosh, Pyush Dogra
+
+  D. Policies that might apply
+
+ Safeguard Policies                           Triggered?           Explanation (Optional)
+                                                                   The project activities will have impacts on the
+                                                                   environment that need to be analyzed. Depending on
+                                                                   the proposed configuration of installation and
+ Environmental Assessment OP/BP 4.01          Yes
+                                                                   operation, as well as site conditions, this would need
+                                                                   to be adapted to the conditions of the selected sites
+                                                                   since all sites are not currently known.
+                                                                   While the site locations are not known, areas where
+                                                                   wind turbines are installed currently include forest
+                                                                   areas, which may also be natural habitats. During
+ Natural Habitats OP/BP 4.04                  TBD                  project preparation, this aspect will be further
+                                                                   explored and final determination made. Some water
+                                                                   bodies to be used for floating solar may also be
+                                                                   natural habitats for aquatic life.
+ Forests OP/BP 4.36                           TBD                  Depending on the site, this policy may be triggered.
+                                                                   Practices for control of weeds and pest may involve
+ Pest Management OP 4.09                      TBD
+                                                                   pesticide use depending on the site.
+
+Nov 18, 2016                                                                                                      Page 8 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+                                                                     The project sites would have some cultural properties
+                                                                     which might get impacted. In addition, there is also
+ Physical Cultural Resources OP/BP 4.11       Yes
+                                                                     possibility of chance-finds as project activities would
+                                                                     include excavation and earthmoving.
+                                                                     Since sub projects will be spread all across the country,
+ Indigenous Peoples OP/BP 4.10                Yes                    some locations may have presence of indigenous
+                                                                     population.
+                                                                     While the government plans to prioritize the use of
+                                                                     state-owned unproductive land for innovative solar
+                                                                     and hybrid technologies, resettlement of communities
+ Involuntary Resettlement OP/BP 4.12          Yes                    settled on government land may be required.
+                                                                     Additionally, there is a possibility for acquiring private
+                                                                     land for substation in case of new construction or
+                                                                     augmentation of capacity of the existing ones.
+                                                                     Depending on the activities to be undertaken,
+ Safety of Dams OP/BP 4.37                    TBD                    applicability of this policy will be reviewed during
+                                                                     project preparation and confirmed at appraisal.
+                                                                     Since the project sites are not currently known, this
+ Projects on International Waterways
+                                              TBD                    will be reviewed during preparation and confirmed at
+ OP/BP 7.50
+                                                                     appraisal.
+                                                                     No project activities will be undertaken in disputed
+ Projects in Disputed Areas OP/BP 7.60        No
+                                                                     areas.
+
+  E. Safeguard Preparation Plan
+
+  Tentative target date for preparing the Appraisal Stage PID/ISDS
+
+  Jul 19, 2017
+
+ Time frame for launching and completing the safeguard-related studies that may be needed. The specific studies and
+ their timing should be specified in the Appraisal Stage PID/ISDS
+
+  Following studies will be undertaken by deploying independent consultants and will be completed by March 31, 2017.
+  (i) Social – Social Assessment, leading to a Social Management Framework.
+  (ii) Environmental – Environmental Assessment and Environmental Management Framework
+  (iii) The sub project specific safeguard documents as required will be prepared before the appraisal is known
+
+
+CONTACT POINT
+
+
+  World Bank
+  Surbhi Goyal, Gevorg Sargsyan
+  Senior Energy Specialist
+
+
+
+Nov 18, 2016                                                                                                         Page 9 of 10
+       The World Bank
+       Innovation in Solar Power and Hybrid Technologies (P160379)
+
+
+
+  Borrower/Client/Recipient
+  Solar Energy Corporation of India Limited
+  Ashvini Kumar
+  Managing Director
+  corporate@seci.gov.in
+
+  Implementing Agencies
+
+  Solar Energy Corporation of India Limited
+  Ashvini Kumar
+  Managing Director
+  corporate@seci.gov.in
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+ APPROVAL
+
+ Task Team Leader(s):                     Surbhi Goyal, Gevorg Sargsyan
+
+Approved By
+
+ Safeguards Advisor:                      Takeaki Sato                         10-Nov-2016
+
+ Practice Manager/Manager:                Demetrios Papathanasiou              11-Nov-2016
+
+ Country Director:                        Hisham A. Abdo Kahin                 18-Nov-2016
+
+
+
+   Note to Task Teams: End of system generated content, document is editable from here.
+
+
+
+
+Nov 18, 2016                                                                                 Page 10 of 10
+

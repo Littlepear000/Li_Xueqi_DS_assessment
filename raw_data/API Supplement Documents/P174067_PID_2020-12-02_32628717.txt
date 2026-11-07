@@ -1,0 +1,723 @@
+﻿          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+
+
+                       Project Information Document (PID)
+
+
+                      Appraisal Stage | Date Prepared/Updated: 01-Dec-2020 | Report No: PIDA30207
+
+
+
+
+Oct 29, 2020                                                                                        Page 1 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name                Parent Project ID (if any)
+   India                                         P174067                    Public Service Capability
+                                                                            Enhancement Project
+   Region                                        Estimated Appraisal Date   Estimated Board Date        Practice Area (Lead)
+   SOUTH ASIA                                    14-Dec-2020                08-Feb-2021                 Governance
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Government of India        Department of Personnel
+                                                                            and Training, Ministry of
+                                                                            Personnel, Public
+                                                                            Grievances and Pensions
+
+   Proposed Development Objective(s)
+
+   To enhance technical and core competencies in select departments and agencies of Government of India
+
+   Components
+   Development and Implementation of Competency Frameworks
+   Development of an Integrated Digital Learning Platform and Content Creation
+   Program Monitoring, Evaluation and Management
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY                    -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                       125.00
+   Total Financing                                                                                                         125.00
+                             of which IBRD/IDA                                                                               50.00
+   Financing Gap                                                                                                               0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                             50.00
+
+
+
+Oct 29, 2020                                                                                                              Page 2 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                               75.00
+         Borrower/Recipient                                                                                             75.00
+
+   Environmental and Social Risk Classification
+   Low
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   B. Introduction and Context
+
+   Country Context
+
+     1. India is in a period of unprecedented opportunity, challenge and ambition in its development trajectory,
+     building on significant achievements in last decade. Having already achieved low middle-income status, India
+     aspires to better the lives of all its citizens by becoming a high middle-income country by 2030. India achieved
+     robust GDP growth rate averaging 7.4 percent per annum during Fiscal Years (FY) 16-19, supported by wide
+     ranging macroeconomic, fiscal, tax and business environment reforms. This growth, however, slowed down to
+     4.2 percent in FY19/20 due mostly to unresolved domestic issues in the banking and financial sector and
+     decline in consumption due to weak rural income growth. Against this backdrop, the outbreak of COVID-19
+     and the public health responses adopted to counter it have significantly altered the growth trajectory of the
+     economy, which is now expected to contract significantly in FY20/21. Although India has made remarkable
+     progress in reducing absolute poverty, the COVID-19 outbreak has likely reversed the course of poverty
+     reduction. Between 2011-12 and 2017, India's poverty rate is estimated to have declined from 20.3 percent to
+     values ranging from 8.1 to 11.3 percent. Recent projections of GDP per capita growth rate indicate that due to
+     the pandemic the poverty rates in 2020 have likely reverted to estimated levels in 2016.
+
+     2. To deliver on its aspirations, India needs to address emerging challenges, overcome certain persistent
+     constraints, and be ready to manage the uncertainties of the future. India will need to adapt continuously to
+     a rapidly evolving competitive global economy and accompanying technological shifts. Secondly, India is highly
+     vulnerable to climate change which may likely push 45 million people into poverty. Building resilient and green
+     growth through mitigation and adaptation measures is critical for India. Thirdly, the country needs to spread
+     both the gains of economic progress and access to economic opportunities more equitably in order to build a
+     more stable, productive, inclusive and resilient society. This challenge is not only about inclusive growth -
+     ensuring that benefits of growth are distributed across the population in terms of, for example, access to
+     services or social protection – but, importantly, also about inclusion for growth - ensuring that all citizens,
+     particularly women and groups from disadvantaged social backgrounds, and all states have access to economic
+     opportunities.
+
+
+Oct 29, 2020                                                                                                       Page 3 of 15
+            The World Bank
+            Public Service Capability Enhancement Project (P174067)
+
+
+     3. India’s confident stride towards achieving middle-income status will only be consolidated with a
+     substantial increase in the number of women who join the workforce, have access to human and economic
+     assets, and are empowered as decision makers. However, despite several improvements in the last two
+     decades, gender gaps persist across sectors. India’s female Labor Force Participation Rate (LFPR)—the share of
+     working-age women who report either being employed or being available for work—has fallen to 23.3 percent
+     in 2017-18 , meaning that over three out of four women over the age of 15 in India are neither working nor
+     seeking workforce. In health, at the national level, 54 percent of all adolescent girls are anemic, and 40 percent
+     are underweight. In education, while India has achieved gender parity in enrolment, girls have higher dropout
+     rates starting in Grade 8 and lower school completion rates compared with adolescent boys. Women are more
+     likely than men to work in agriculture (37 percent of all employed women against 33 percent of all employed
+     men) and do not have the requisite skill sets, information, and networks to transition to high-paying technical
+     job roles. To bridge persistent gender gaps across sectors, targeted investments are required on: a) developing
+     strategies that are gender intentional and gender transformative in key government departments/agencies;
+     and b) strengthening gender-informed service delivery.
+
+     4. India's public sector performance is critical to building back better from the impacts of COVID-19 and
+     to achieve its growth and inclusion targets. Strengthening the capabilities of the national and state
+     governments is even more urgent today to ensure a coordinated and adequate response to address the
+     adverse impacts of the COVID-19 pandemic and to put the economy back on to the path of recovery and
+     stabilization. COVID-19 has heightened people’s awareness of the role of public services. Moreover, demand
+     for better public services and public sector performance will only grow as the economy recovers from COVID-
+     19 impacts and the middle class returns to its pre-COVID trajectory. It will be critical to bridge the gap between
+     the aspirations of citizens and the ability of governments and the public sector to meet these aspirations. While
+     many bold and innovative solutions have been tried in different sectors and parts of the country, scalable and
+     replicable solutions to address this issue remain elusive. Improving accountability, efficiency and effectiveness
+     of government personnel, activities and public services, coupled with allocative efficiency is perhaps the most
+     significant challenge confronting the economy.
+
+   Sectoral and Institutional Context
+
+     5. A competent, motivated, and modern civil service will be essential to achieve India’s priorities, and
+     aspirations while managing future un-certainties and disruptions. There is a well-established connection
+     between institutional quality and economic growth1. Strong public institutions underpin successful economic
+     growth and development, and recent research has shown the relationship between a merit-based civil service
+     and growth2. The ‘middle-income trap’ describes a scenario where the bureaucracy could serve an economy
+     well as it moves from low to (lower) middle income but is not yet adequate to support a transition to (upper)
+     middle- or high-income economy. The Indian civil service has served the country well to this point, however,
+
+
+     1
+         See North, Douglass C. 1990. Institutions, Institutional Change and Economic Performance.
+
+     Cambridge, UK: Cambridge University Press; Romer, David H and Jeffrey A. Frankel. 1999. Does Trade Cause Growth? American Economic Review,
+     American Economic Association, vol. 89(3), pp.379-399; Acemoglu, D., Simon Johnson, and James Robinson. 2005. Institutions as a Fundamental Cause
+     of Long-Run Growth. In Handbook of Economic Growth, Volume 1A. New York: Elsevier.; Acemoglu, D and James Robinson. 2012. Why Nations Fail:
+     The Origins of Power, Prosperity, and Poverty. New York: Crown Business.
+     2 See Evans and Rauch 1999 and Cornell, Knutsen and Teorell 2018.
+
+
+
+
+Oct 29, 2020                                                                                                                                       Page 4 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     moving beyond this to transform the economy and society into an upper middle-income economy places new
+     demands on the bureaucracy and calls for reforms to make it fit for purpose.
+
+     6. Key challenges exist to continuously building capabilities across the large and diverse categories of civil
+     servants. While the need for capacity development of officials in India is well acknowledged, and several
+     training institutions at national and state level have been delivering training, these efforts have been limited
+     and not aligned. The sheer size and complexity of the civil services of India pose challenges which are unique
+     to the country.
+
+     7. Due to the sporadic and siloed nature of training management and delivery, the government’s ability
+     to deliver a comprehensive training solutions program has been limited. This was highlighted by the National
+     Training Policy (NTP) 2012, which continues to form the basis for civil service capacity building. The policy
+     identified the need for new skills to deal with complex and challenging issues, such as economic growth,
+     devolution of funds, functions and functionaries to the Panchayats and Municipalities, the need for enhanced
+     transparency, globalization and climate change. The NTP 2012 recommended expansion of systematic training
+     initiatives to Group B and C officials, along with Group A. It emphasized competency driven training and human
+     resource management of officials, marking a shift from ‘rule-based’ system to ‘role-based’ system.
+
+     8. Training is currently the responsibility of each cadre or Ministry. The NTP 2012 laid out an organizational
+     structure to provide training, mandating each Ministry/Department to appoint a Training Manager and a
+     Training Cell with Human Resource (HR) and capacity building professionals to enhance the focus on
+     strengthening core competencies and technical knowledge of the officials. The overall bureaucracy comprises
+     several cadres which broadly represent different specializations – e.g. general administration, accounts and
+     audits, forestry etc. Cadre Training Plans were meant to be developed based on the competencies required
+     and training needs, for ensuring that all cadres under the Ministry/Department or its attached/sub�?ordinate
+     offices had a clearly articulated program for the development of their competencies.
+
+     9. Training institutions lay at the heart of this model. There are several training institutions across the
+     central and state governments. The main CTIs include - Lal Bahadur Shastri National Academy of Administration
+     (LBSNAA), Institute of Secretariat Training and Management (ISTM), Indira Gandhi National Forest Academy
+     (IGFA), National Academy of Customs, Indirect Taxes and Narcotics (NACIN), National Academy of Direct Taxes
+     (NADT), Sardar Vallabhbhai Patel National Police Academy (SVPNPA), and Rafi Ahmed Kidwai National Postal
+     Academy (RAKMPA). The NTP noted the need to strengthen these institutions with requisite staff,
+     infrastructure and finances to perform their functions.
+
+     10. While both the training divisions and training institutions are functional, the quality and adequacy of
+     the training is varied and limited. While training cells have been established in departments, they are not
+     always staffed with HR and capacity building professionals. Competency frameworks (CF) do not exist in
+     departments so training can neither be linked with competency development nor career progression. Training
+     has tended to be supply and procedure oriented and not linked to progressing individual and organizational
+     competencies. Budgets of training divisions and training institutions remain limited.
+
+     11. The NTP lays out a clearly defined inclusionary objective to emphasize the development of proper
+     ethics, commitment to work and empathy for the vulnerable sections such as differently abled, senior
+     citizens, SCs, STs, etc. Further the policy suggests key areas for capacity building such as Rural Development/
+
+
+Oct 29, 2020                                                                                                       Page 5 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     Welfare Programs, Rural Planning, Agricultural Marketing and Agricultural Finance, Rural Industries, Urban
+     planning and Infrastructure development, Urban Poverty and Social Development that are directly aligned to
+     the development needs of the vulnerable sections. The project plans to leverage this as an entry point to build
+     competencies in key departments to reduce gender gaps.
+
+     12. The Prime Minister has called for a ‘future ready’ civil service which can meet an expanding economic
+     and social mandate. An important step in this direction was the organization of a Common Foundation Course
+     for about 430 new officers from more than 20 civil services in October 2019 at Kevadia in Gujarat. This
+     inaugural, joint training course was facilitated by the Department of Personnel and Training (DoPT) under the
+     leadership of the Prime Minister. The World Bank partnered with DoPT to organize this first of its kind capacity
+     development three-day event, bringing global good practices and experts to engage with a new cohort of civil
+     servants. An expansion of digital governance, a renewed focus on citizen centered service delivery and India’s
+     diversity, calls on government to be more agile and coordinated.
+
+     13. GoI has recently developed a wide Human Resource Transformation Strategy, which draws on the
+     recommendations of the NTP 2012. Recognizing that civil servants should be competent and equipped with
+     up-to-date skills, the government is committed to building capabilities for all officials across grades, cadres and
+     locations to deliver better policies and services. The HR Transformation Strategy includes improving the policy
+     and regulatory framework, developing human resource management systems, expanding evaluation
+     capabilities, developing CFs and capacity building platforms. The new strategy aims to promote a learning
+     culture in the public sector and embed it in the policy framework for human resource management system
+     linking processes of recruitment, training, performance and promotions.
+
+     14. As a first step in implementing this strategy, the Government has recently established, through a
+     Cabinet decision, “Mission Karmayogi�?, a new national architecture for civil service capacity building. This
+     innovative program envisages a comprehensive reform of the framework and incentives for capacity building
+     both at the institutional and individual level for efficient public service delivery. Under this program a Prime
+     Minister-led Human Resource Council will approve and monitor civil service capacity building plans for all
+     Ministries and Departments. A Capacity Building Commission (CBC) will be tasked with harmonizing training
+     standards, create shared faculty and resources, and have a supervisory role over all CTIs. A Special Purpose
+     Vehicle ( SPV) will be established to own and operate an online learning platform and facilitate a world- class
+     learning content marketplace.
+
+     15. This new framework is a radical departure from the past. It builds on the NTP’s recommendations to
+     introduce competency frameworks and establishes institutional mechanisms and an operating environment to
+     implement a new human resource learning framework. The new framework calls for the identification of
+     competencies for every role and supports the development of online training content based on the
+     competencies identified. It moves training and capacity building from a traditional supply driven approach to
+     a demand focused approach that is role based. The program proposes to develop robust CFs for Ministries,
+     departments and agencies, that will provide individual civil servants with a framework of behaviors and skills
+     that will be valued, recognized, and rewarded, as a basis for career management. Within this transformational
+     process, it is essential to match individuals’ competencies with the jobs they have and bridge competency gaps
+     for current and future roles through training. At the same time, the process democratizes training by
+     developing a comprehensive online platform that can be accessed by all civil servants to support and widen
+
+
+Oct 29, 2020                                                                                                          Page 6 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     the scope and content of training and capacity development. An integrated, online platform with open source
+     training modules will provide the necessary framework to allow civil servants to emerge out of narrow
+     ministerial, departmental and cadre focused training and develop skills that could make them into more
+     fungible and agile resources across government. Reinvesting in civil service learning will require not only the
+     development of new training modules and infrastructure, but also require an embedding of a learning culture
+     as an organizational value while making it a core responsibility of every civil servant.
+
+     16. DoPT, the nodal agency responsible for personnel management and training, together with the new
+     SPV, will implement this learning transformation to democratize learning and shift to competency-driven
+     capacity building. The project design also gives due consideration to the changes imposed by COVID-19 on the
+     operating environment for government officials. The project leverages technology to create an online platform
+     that provides any-time any-place any-device access to appropriately designed online training courses for civil
+     servants that will enable learning and capacity enhancement to continue unabated during disruptions such as
+     COVID-19. This has already been successfully modelled during the COVID 19 epidemic and the platform has
+     proved its usefulness.
+
+     17. The World Bank proposes to leverage its experience in governance, public sector institutions, and civil
+     service capacity enhancement to support the implementation of “Mission Karmayogi.�? The proposed
+     technical assistance (TA) lending support aims to provide quick and agile support to GoI to operationalize new
+     and innovative ways to build contemporary capabilities for civil servants. It will address the urgent need to
+     operationalize an easy to access learning platform, utilizing digital technology to build new capabilities and
+     competencies for government officials, and supporting governance, business continuity and resilience.
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+  To enhance technical and core competencies in select departments and agencies of Government of India
+
+   Key Results
+     18. The following results indicators are proposed to measure progress towards the PDO:
+
+           (a) Percentage of staff in target departments and agencies who complete training on the iGOT
+               Karmayogi platform
+
+           (a) Percentage of staff onboarded on to the iGOT Karmayogi platform with Testing Competency Score3
+               available
+           (b) Percentage of civil servants expressing satisfaction with training undertaken on the iGOT Karmayogi
+               platform
+
+
+
+
+           3The Testing Competency Score is a composite score that captures the competency levels of a learner based on different
+           competency-based tests she has undertaken on the platform.
+
+Oct 29, 2020                                                                                                                        Page 7 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+   D. Project Description
+
+     19. The project will support the roll out of GoI’s Human Resource Transformation Strategy as laid out in the
+     recently announced “Mission Karmayogi�?. It will focus on the implementation of a competency-based
+     capability development program delivered through a digital platform known as iGOT Karmayogi. The project
+     will specifically support the development and operationalization of a comprehensive new approach to CFs, to
+     build a capable workforce, and the development of an integrated digital training platform including content
+     creation and strengthening the capacity of key institutions responsible for delivery and training. It is through
+     this investment in defining and building relevant competencies that the civil servants are expected to improve
+     their ability to effectively deliver public services. Human resource management for India’s civil service will also
+     be strengthened by improving policies, systems, and processes, for monitoring and evidence-based decision
+     making
+
+     20. Component 1: Development and Implementation of Competency Frameworks (US$32 million, of which
+     US$15 million IBRD and US$17 million GoI). Recognizing the need to develop domain-specific knowledge,
+     cutting-edge technical skills and appropriate behaviors and attitudes, countries across the globe are adopting
+     a competency framework approach for skill development and workforce planning in the public sector. At a
+     strategic level, the competency framework, referred to as the Framework for Roles, Activities and
+     Competencies (FRACs) by DoPT, will enable the government to align official’s knowledge, skills and attitudes
+     with the government’s priorities, resulting in performance improvement and operational efficiencies. This will
+     enable the civil servants to: (a) identify competency gaps in their existing roles and (b) identify competency
+     gaps for the role they aspire to. Further, the definition of competencies will also signal the expertise and
+     expected levels of performance that are valued and recognized, which will guide individuals to build and mold
+     their careers. Further, the component will identify key departments/agencies that have direct linkages to
+     gender disparities in human capital, access to skills, information and technology and women’s participation in
+     the workforce.
+
+     21. Subcomponent 1.1: Establishment of a Centre of Excellence to support the management, coordination
+     and roll out of a competency framework. The Institute of Secretariat Training & Management (ISTM) will be
+     the nodal agency for developing and operationalizing the competency framework. It will set up a specialized
+     unit, the FRAC Centre of Excellence (FRAC CoE), with responsibility to ensure standardization, scale-up and the
+     evolution of the competency framework approach. Designating ISTM as the nodal agency will enable the DoPT
+     to oversee the process of developing and rolling out FRACs during the course of the project implementation
+     and at the same time allow for building internal capabilities within the government for taking forward and
+     expanding this process across various levels of government in the future. The CoE will develop the overall
+     strategy and templates for rollout of FRAC, so that standardization can be maintained across the departments
+     and agencies during rollout. It will create the initial or base competencies for common positions and roles,
+     based on the generic activities they perform across departments and agencies, which will be further refined in
+     collaboration with relevant institutions. A FRACing toolkit will be created by the FRAC CoE. The toolkit will have
+     detailed steps, templates and workflows which will aid any organization to FRAC its own positions, roles and
+     activities. This common toolkit will also ensure consistency in the way each department/agency takes forward
+     the FRACing process and the development of competency dictionaries. The FRAC CoE will play the dual role of
+
+
+
+Oct 29, 2020                                                                                                          Page 8 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     a process owner where it defines, manages and amends the process of FRACing and a process certifier where
+     it certifies the FRACing operations at the departments and agencies.
+
+     22. Subcomponent 1.2 Roll-out of CFs in select government departments and agencies. To successfully re-
+     orient capacity building, an institutional arrangement needs to be established within the departments/
+     agencies to build their own capacity to operationalize the competency frameworks. Each organization will
+     establish a Capacity Building Unit (CBU). This CBU will comprise of internal staff drawn from the department
+     who will work alongside human resource specialists empaneled and certified by the FRAC CoE at ISTM and the
+     SPV, who will constitute a FRAC sub-unit for each department/agency. The Project will support the
+     establishment of these FRAC sub-units in selected institutions.
+
+     23. Working with the specialized FRAC sub-units, the CBUs will develop and operationalize FRACs. The CBUs
+     will have stewardship responsibilities and manage and monitor the FRACing process. Three-year organizational
+     goals will be developed which will enable the identification of roles, activities and competency gaps for
+     respective departments and agencies. Competency dictionaries will be developed for each
+     department/agency. This will be done through an iterative process using specially developed questionnaires
+     and consultative processes to understand cascading responsibilities and tasks. The toolkit developed by the
+     CoE will be used to ensure standardization across roles and institutions. Competencies identified for each role
+     will be validated by individuals performing these roles and their respective managers. The organizational
+     competency framework will be approved by the head of the institutions. As part of developing CFs, roles and
+     competency gaps will be identified that enables gender-intentional decision-making in key sectors and
+     departments
+
+     24. Component 2: Development of an Integrated Digital Learning Platform and Content Creation (US$78
+     million, of which US$31 million IBRD and US$47 million GoI). While a competency framework will underpin
+     the design of courses and learning paths, a technology platform, iGOT Karmayogi, will be the backbone of the
+     entire learning management system. A nascent platform exists which will be scaled up, both in terms of
+     configurability and flexibility. The new advanced digital platform is envisaged to function as a comprehensive
+     learning platform to meet the capacity development needs of India’s 18 million civil servants. It will provide
+     civil servants with platform for continuous-anytime-anyplace learning and provide access to a repository of
+     courses, and modules. The iGOT Karmayogi platform will be a digital backbone which will allow many other
+     layers and solutions to be built on top, including personnel management functions, paving the way for larger
+     HR transformation. This component will support technological upgradation of iGOT Karmayogi and the creation
+     and curation of competency building products (CBPs) on the platform which include modules, courses, and
+     programs for building targeted competencies. The component will also support targeted skill-building in
+     chosen functionalities/domains and promote sectoral expertise of civil servants in select areas such as gender
+     budgeting and planning, gender-informed service delivery, women’s safety and violence prevention, and
+     policies impacting female labor force participation.
+
+     25. Subcomponent 2.1: Development of platform infrastructure. The key technology design principles that
+     will be adhered to for development of the digital platform infrastructure are: (i) use of a modular approach
+     with clear separation of data storage, service and Application Program Interface (API) layers, with all
+     components of digital infrastructure independently replaceable and extensible; (ii) use of micro-services and
+     API driven architecture to allow interoperability with other systems including India Stack components; (iii) use
+
+
+Oct 29, 2020                                                                                                       Page 9 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     of a shared infrastructure model, which will enable different institutions on iGOT Karmayogi to participate in
+     the creation and consumption of content in a collaborative manner to avoid duplication of effort, bring down
+     costs and create a shared knowledge base, and; (iv) use of cloud services for hosting of platform to ensure all-
+     time availability, scalability and flexibility. The project will support hiring of necessary expertise and acquisition
+     of necessary infrastructure including cloud services for the platform. However, no physical infrastructure
+     procurement is envisaged.
+
+     26. Subcomponent 2.2: Embedding of Competency Framework on iGOT Karmayogi. While the competency
+     framework will be developed by the departments/agencies, the project will support the digitization and
+     encoding of these frameworks on to the iGOT Karmayogi platform. This will involve encoding each position,
+     role, activity, competency and its associated proficiency level into the platform. Initially, the mapping and
+     grouping of roles, activities and competencies will require detailed inputs from institutions.
+
+     27. Subcomponent 2.3: Development of Applications and Analytical Engines. The project will support
+     development of applications and engines which will bring the embedded CFs and onboarded content together.
+     Together, this will constitute the front-end delivery and the face of the platform. Learner management and
+     assessment functionalities will maintain the learners’ profile through aggregated and regularly updated
+     telemetric data which will determine both capacity building needs as well as suggest learning pathways. The
+     content management functionalities will support creation, curation and use of content, making it available to
+     all and accessible on multiple devices.
+
+     28. Subcomponent 2.4: Content development for the iGOT Karmayogi. The program envisages the
+     development of curated content in the form of CBPs. The project will support the development of such CBPs
+     as needed and support the digitizing and embedding of content onto the iGOT Karmayogi platform. While CBPs
+     to match competency needs will be sourced from various internal and external markets, this content will
+     require validation to ensure that the content onboarded on the platform is appropriate and of high quality,
+     drives learning, and is regularly updated. It will also need to be periodically updated to ensure currency,
+     validity, and relevancy. For in-house content, institutions, and their associated central training institutions will
+     need to be supported to digitize existing material and creation of content for newer pedagogies. The sub-
+     component will support development of competency-based products that are gender intentional and
+     transformative. These CBPs will be linked to gender disparities in human capital, gender budgeting and
+     planning exercises, policies impacting female labor force participation and women’s safety and violence
+     prevention.
+
+     29. Component 3 - Program Monitoring, Evaluation and Management (US$15 million, of which US$4 million
+     IBRD and US$11 million GoI). Data is the glue that binds different components of the capacity building program
+     and links the three layers of the iGOT Karmayogi platform (FRAC, Digital Backbone and Content Marketplace).
+     The project will support the program goals of development of assessment and monitoring mechanisms for the
+     new training transformation system. It will also provide TA as needed for strengthening HR transformation
+     policies, developing HR databases, and knowledge exchanges with other countries on civil service HR system
+     transformation.
+
+     30. Subcomponent 3.1 - Development of training assessment, monitoring and evaluation mechanisms.
+     iGOT Karmayogi will develop inbuilt mechanisms to assess civil service officials on their levels of proficiency
+     across different competencies -behavioral, domain and functional, as defined in the FRAC. This will include self-
+
+Oct 29, 2020                                                                                                            Page 10 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     rating, supervisor rating and peer rating mechanisms. At the same time, every CBP available on the platform
+     will have defined assessment modules designed to evaluate the learning acquired by civil servants against the
+     stated competency outcomes.
+
+     31. Proctored Independent Authorized Assessments (PIAA) against competencies will also be made
+     available in iGOT Karmayogi. The objective of the PIAAs is to assess the level of proficiency of an individual
+     against a competency or a set of related competencies, as laid out in the competency framework. These
+     assessments will be created by departments/independent assessment agencies, with a special emphasis on
+     standardization in format, test items, levels of difficulty etc., and will be conducted in a proctored environment.
+     Besides evaluating civil service officials, PIAAs will indirectly serve as an evaluation of the CBP on the platform
+     as well4.
+
+     32. Subcomponent 3.2 - Technical assistance support for HR policies, institutions and knowledge sharing.
+     Institutionalizing a framework for enhanced monitoring and evaluation of civil service capacity building efforts
+     is critical. The GoI intends to establish a Capacity Building Commission which will serve as an independent
+     review mechanism for content creation and for activities taken forward by departments and agencies to build
+     capabilities and deploy personnel. For real-time monitoring of the program, a centralized monitoring
+     dashboard - the Prime Minister’s Capacity Building dashboard - will be created, which will capture, for all
+     departments, CTIs, States and other onboarded agencies, the progress towards the achievement of key
+     performance indicators (KPIs) related to the Program. As needed, the project will support these initiatives and
+     the definition, analysis, and quality assurance of data for key indicators and their sources that can be used to
+     report on training outcomes, training satisfaction, and organizational performance. These indicators will feed
+     into the development of monitoring dashboards and organizational scorecards. The indicators will feed into an
+     Annual State of the Civil Services Report as well as a global Annual Human Resource Summit which will be
+     supported by World Bank TA.
+
+     33. Subcomponent 3.3 - Project Management Support Activities financed under this component will include,
+     inter-alia: (i) strengthening the Project Management Unit (PMU), housed under DoPT for the day to day
+     management of project implementation; (ii) supporting other implementation units including the SPV and the
+     CBC with specialist staff as needed, and; (ii) overseeing compliance with fiduciary obligations.
+
+     34. Project cost. The total project cost is US$125 million, out of which the World Bank is funding US$50 million
+     and the remaining US$75million is being borne by the GoI as counterpart funding.
+
+    35. Project closing date. The loan closing date is June 30, 2026.
+  .
+  .
+  Legal Operational Policies
+                                                                                    Triggered?
+
+   Projects on International Waterways OP 7.50                                     No
+
+
+
+     4 PIAAs will support the assessment of the impact of each CBP from the perspective of improving competencies. This will allow for
+     identification of CBPs that do not deliver against their stated objectives.
+
+Oct 29, 2020                                                                                                                             Page 11 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+
+   Projects in Disputed Areas OP 7.60                                     No
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+     36. The Environmental risk rating at appraisal is Low. The emphasis of the project is to enhance training
+     capabilities for civil servants, using departmental reviews to develop a competency-based approach for
+     upgrading of human resource skills. No procurement of civil works construction or IT equipment is envisaged
+     and therefore environmental risks and impacts are not anticipated at the time of IT procurement and adoption.
+     In case the project intends to use modern technology and IT equipment to improve efficiency, facilitate online
+     learnings and enhance competencies and such procurement does take place during project implementation
+     then risk of e-waste and solid waste management at time of disposal would make ESS3 relevant to this
+     operation. Though such procurement would be very limited and resultant risk – very low, it will require the
+     following of national guidelines under the E-Waste Management Rules, 2016 (amended in March 2018) and
+     Solid Waste Management Rules, 2016 for solid waste management and appropriate procedures would be put
+     in place for disposal of equipment as per best environmental practices The same has been recorded as an
+     action in the Environment and Social Commitment Plan.
+
+     37. Social Risk is rated as Low as the proposed interventions does not have any physical footprint and
+     therefore, will not result in adverse impacts on land, community health and safety, Indigenous Peoples/ Tribals
+     or cultural heritage. The main social risks and mitigation measures/ plans are as follows: i) possible exclusion
+     of vulnerable individuals such as physically challenged civil servants if the digital content and platforms are not
+     created with all beneficiaries in mind, such as those with disabilities and speaking/ reading different languages,
+     etc. The digital platform – iGoT Karmayogi will ensure that the content is in compliance with AA levels of Web
+     Content Accessibility Guidelines (WCAG) 2.1 that will make content more accessible to a wider range of people
+     with disabilities, including accommodations for blindness and low vision, deafness and hearing loss, limited
+     movement, speech disabilities, and some accommodation for learning disabilities and cognitive limitations.
+     DoPT will also include relevant clauses in the bid documents to ensure accessibility and that content to be
+     created needs to follow diversity and inclusion principles; ii) Risks relating to labor too are minimal, as all likely
+     types of workers (direct, contracted workers) would have well defined employment terms and/or formal
+     contracts in accordance with national labor laws. While aspects to employment terms, etc. are well defined for
+     civil servants, Occupational Health and Safety and COVID concerns will be relevant risks. This would be
+     mitigated through insertion of requisite clauses within bid documents for those agencies that shall provide
+     services towards content creation, delivery, impact evaluation, etc. Also, in respect of contractors/consultants
+     providing goods and services to the project, the project would have formal contractual agreements in
+     accordance with Bank's procurement guidelines. In light of the above, only Sexual Exploitation and
+     Abuse/Sexual Harassment at workplace and COVID related risks will be the main labor risks relevant to the
+     project. While the former would be addressed as per the relevant clauses of the national legislation, the latter
+     would be addressed through insertion of relevant clauses (in accordance with Ministry of Home Affairs, GoI
+     guidelines) in the bid and contract documents and also stated as an action in the ESCP. Hence no separate
+     Labor Management Plan (LMP) is prepared. iii) Stakeholders risks has been mitigated through the development
+     a comprehensive Stakeholder Engagement Plan that identifies all relevant stakeholders, modes of engagement
+
+Oct 29, 2020                                                                                                            Page 12 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     and presents a greivance redessal mechanism to redress grievances from the various stakeholder, if any. The
+     ESCP lays down the implementation of the above-mentioned actions along with responsibilities, reporting
+     requirements and timelines.
+
+     38. Additionally, the project’s training content shall also include a Module on Management of E&S issues that
+     shall be integrated into the overall training curriculum of the civil servants. This capacity building activity shall
+     serve as a long-term measure that would help not just DoPT to address the minor E&S risks arising from this
+     project but also build capacity of all civil servants to better manage such risks. This module encompassing
+     various E&S aspects – inclusion, non-discrimination, pollution, biodiversity, involuntary resettlement, tribals,
+     stakeholder engagement, cultural heritage, GBV etc. shall enable civil servants to understand and appreciate
+     the various E&S considerations associated with overall project cycle of any infrastructure development and
+     requisite measures to manage them effectively. A suitable indicator to monitor the same has been presented
+     in the results framework.
+
+     39. Considering the low E&S risks and impacts, DoPT shall designate one individual within its organization (or
+     within PMC) to coordinate these activities and carryout other actions as listed in the ESCP.
+
+     40. Citizen Engagement: The Project is unlikely to have any direct interface with the citizens. However, the
+     key stakeholders and beneficiaries would include civil servants, managers, departments and their training
+     institutions, government, and content providers. During the preparation stage, consultations meetings were
+     held by the implementing agency with various stakeholders including civil servants and agencies such as Indira
+     Gandhi National Open University (IGNOU), Bill and Melinda Gates Foundation (BMGF), Infosys, LBSNAA to
+     discuss various aspects of the proposed project including (i) reviewing the capacity building models of other
+     countries across the globe and their outcomes; and (ii) discussing the approach and implementation of iGOT
+     Karmayogi, specifically for the pre-foundation and common foundation courses/content, etc. Hence, to
+     engage with all relevant stakeholders, at appraisal, in accordance with ESS 10 requirements, Project has
+     prepared a Stakeholder Engagement Plan (SEP) that details actions, modes and frequency of engagement with
+     and information disclosure, to various stakeholders – individuals and institutions along with timelines and
+     responsibilities. It lays down the project mechanism to receive and redress grievances as well. The indicator
+     ‘percentage of respondents in staff survey expressing satisfaction with competency-based training undertaken’
+     will be measured through user satisfaction surveys.
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+     1. The Project will be implemented through the framework of institutional arrangements established
+     under the National Program for Civil Services Capacity Building. The Program envisages the establishment of
+     a Prime Minister’s HR Council, a Coordination Unit in the Cabinet Secretariat, as well as the CBC, and an SPV
+     to manage and operationalize iGOT platform and training. The DoPT will be the main implementing agency
+     along with the SPV. The SPV will be established before project effectiveness and will gradually develop the
+     requisite capacity to undertake project implementation. Till such time that the SPV is fully capacitated, the
+     DoPT will lead project activities and transfer leadership to the SPV, as appropriate.
+
+
+Oct 29, 2020                                                                                                           Page 13 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+     2. The DoPT will be the main implementing agency through its training division. A Project Management
+     Unit (PMU) headed by a Project Director (Director Training) and supported by an Under-Secretary rank officer
+     will be responsible for the day to day implementation of the Project. A high-level Steering Committee with
+     ensure coordination with SPV, ISTM and other agencies involved in the project. It will be the nodal unit for
+     engagement and coordination with the World Bank team. The PMU will have professionals hired from the
+     market with required experience in HR policy, strategy, program management, fiduciary and procurement
+     management and monitoring and evaluation. Specifically, it will be responsible for timely preparation and
+     execution of annual work plans and budgets; preparation, execution and updating of procurement and
+     implementation plans; performance of fiduciary functions; and preparation of financial and performance
+     reports, including monitoring and evaluation (M&E) and semi-annual progress reports. The PMU processing
+     disbursements of project funds, reviewing fund utilization and accountability, quality assurance of annual
+     performance audits, overseeing review meetings, and supervision of consultants.
+
+  3.      The SPV will operate and manage the digital platform and serve as an online learning provider organization
+  which will support the management and onboarding of content, independent proctored assessments, and the overall
+  performance monitoring and evaluation of platform users, and the development of key performance indicators. The
+  SPV will be set up under Section 8 of the Companies Act, 2013. This would allow the SPV to have a more independent
+  governance and corporate structure while enjoying flexibility of operations. The SPV will be headed by a Chief Executive
+  Officer (CEO), who will be reporting to the Board of Directors. The SPV will comprise of four departments/ divisions –
+  Learning, Organization, Technology, Marketing & Branding. These divisions will be supported by Finance, Legal, Audit &
+  Compliance, Human Resources, Procurement, Vendor Management & Strategy. The SPV will also have its own PMU that
+  will be responsible for a majority of the procurement of goods and services under the project Given that the SPV’s
+  governance structure has only recently been approved, the DoPT PMU will initially support all the functions that are
+  envisaged as the role of the SPV until the SPV can fully take over. .
+
+   CONTACT POINT
+
+   World Bank
+
+   Vikram Menon
+   Senior Public Sector Specialist
+
+   Borrower/Client/Recipient
+   Government of India
+   Sameer Kumar Khare
+   Additional Secretary, Department of Economic Affairs
+   sameerkhare911@nic.in
+   Implementing Agencies
+
+   Department of Personnel and Training, Ministry of Personnel, Public Grievances and Pensions
+   Ankur Garg
+   Director (Foreign Training & iGOT)
+   ankur.garg@ias.nic.in
+
+
+Oct 29, 2020                                                                                                   Page 14 of 15
+          The World Bank
+          Public Service Capability Enhancement Project (P174067)
+
+
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+
+   Task Team Leader(s):                  Vikram Menon
+
+   Approved By
+
+   Practice Manager/Manager:
+
+   Country Director:
+
+
+
+
+Oct 29, 2020                                                        Page 15 of 15
+

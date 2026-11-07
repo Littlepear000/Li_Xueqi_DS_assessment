@@ -1,0 +1,754 @@
+       The World Bank
+       Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+                                                                                                 REPORT NO.: RES56410
+
+
+
+
+                                              RESTRUCTURING PAPER
+
+                                                       ON A
+
+                                       PROPOSED PROJECT RESTRUCTURING
+
+                                                           OF
+                     TAX ADMINISTRATION AND STATISTICAL SYSTEM MODERNIZATION PROJECT
+                                        APPROVED ON FEBRUARY 28, 2020
+                                                           TO
+
+                                                 KYRGYZ REPUBLIC
+
+
+
+GOVERNANCE
+
+EUROPE AND CENTRAL ASIA
+
+
+
+
+                                Regional Vice President:    Antonella Bassani
+                                      Country Director:     Tatiana A. Proskuryakova
+                                      Regional Director:    Lalita M. Moorty
+                            Practice Manager/Manager:       Daniel J. Boyce
+                                   Task Team Leader(s):     Oleksii Balabushko, Klaus Decker, Saida
+                                                            Ismailakhunova
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+ABBREVIATIONS AND ACRONYMS
+
+    DB                    Doing Business
+    CAPI                  Computer-Assisted Personal Interviewing
+    COVID                 Coronavirus disease
+    CPF                   Country Partnership Framework
+    ECA                   Europe and Central Asia
+    GOKR                  Government of the Kyrgyz Republic
+    GSBPM                 Generic Statistical Business Process Model
+    HR                    Human Resources
+    ICT                   Information and Communications Technology
+    IDA                   International Development Association
+    IRI                   Intermediate Results Indicator
+    ISNAK                 Information System for Tax Administration of the Kyrgyz Republic
+    LSG                   Law on Local Municipal Administration and Local Self-Government
+    MTDP                  Medium-Term Development Program “Unity, Trust, Creation” for 2018-2022
+    NSC                   National Statistical Committee of the Kyrgyz Republic
+    NSS                   National Statistical System
+    ODIN                  Open Data Inventory
+    PDO                   Project Development Objective
+    SDGs                  Sustainable Development Goals
+    SDR                   Special Drawing Right
+    SNA                   System of National Accounts
+    SPI                   Statistical Performance Indicator
+    STS                   State Tax Service under the Government of the Kyrgyz Republic
+    TASSMP                Tax Administration and Statistical System Modernization Project
+    TP                    Twinning Partnership
+    VAT                   Value Added Tax
+    Vision 2040           Kyrgyz Republic National Development Strategy for 2018-2040
+           The World Bank
+           Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+BASIC DATA
+
+
+Product Information
+
+Project ID                                                     Financing Instrument
+P163711                                                        Investment Project Financing
+
+Environmental and Social Risk Classification (ESRC)
+Low
+
+Approval Date                                                  Current Closing Date
+28-Feb-2020                                                    30-Sep-2025
+
+
+Organizations
+
+Borrower                                                       Responsible Agency
+Kyrgyz Republic
+
+
+
+Project Development Objective (PDO)
+Original PDO
+To improve effectiveness of tax collection and the national statistical system.
+OPS_TABLE_PDO_CURRENTPDO
+Summary Status of Financing (US$, Millions)
+                                                                                        Net
+Ln/Cr/Tf                  Approval         Signing Effectiveness         Closing Commitment Disbursed Undisbursed
+
+IDA-65460              28-Feb-2020    28-Apr-2020 09-Dec-2020        30-Sep-2025        17.50       0       18.29
+IDA-D5660              28-Feb-2020    28-Apr-2020 09-Dec-2020        30-Sep-2025        17.50    6.25       10.76
+
+Policy Waiver(s)
+
+Does this restructuring trigger the need for any policy waiver(s)?
+No
+             The World Bank
+             Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+    I. PROJECT STATUS AND RATIONALE FOR RESTRUCTURING
+
+       1. The Kyrgyz Republic Tax Administration and Statistical System Modernization Project (TASSMP) was approved by the World
+       Bank Board of Executive Directors on February 6, 2020, for an International Development Association (IDA) grant of SDR12.7
+       million (US$17.5 million equivalent) and an IDA credit of SDR12.7 million (US$17.5 million equivalent). TASSMP became effective
+       on December 9, 2020. Its objective is to improve effectiveness of tax collection and the national statistical system. TASSMP has
+       five components: (i) State Tax Service (STS) institutional development; (ii) STS operational development; (iii) National Statistical
+       Committee (NSC) institutional development; (iv) data development; and (v) project management. The project closing date is
+       September 30, 2025.
+
+A. Project Status
+
+       2. Overall, project implementation and progress towards achievement of the project development objective (PDO) are
+       moderately satisfactory. The project is generally on track to achieve its development objective by the current closing date,
+       especially in the tax area. However, there is a need to revise the results framework to better present the results chain and
+       recalibrate end-targets under the statistics component. As of May 28, 2023, the total disbursement is US$6.05 million (17.18
+       percent of IDA financing) and contracted amounts of US$12.53 million (35.8 percent of IDA financing).
+
+       3. The project remains highly relevant for the realization of the Kyrgyz Republic National Development Strategy for 2018-2040
+       (Vision 2040), which identifies reforms of the tax administration and national statistical system as priority areas and emphasizes
+       the need for timely and reliable data in advancing the country’s economic wellbeing, social welfare, governance and sustainability.
+       To achieve the objective of Vision 2040 of reducing the share of the shadow economy and improving domestic resource
+       mobilization to finance social and economic priorities, the Medium-Term Development Program “Unity, Trust, Creation” for 2018-
+       2022 (MTDP) of the government of the Kyrgyz Republic (GOKR) and, more recently, the National Development Program 20261
+       seek to comprehensively reform the country’s tax administration. In line with the Vision 2040 and the MTDP, the GOKR also
+       endorsed the Strategy for STS Modernization for 2023-2025. The strategy implements reforms that improve STS effectiveness and
+       efficiency and reduce the compliance burden for taxpayers. At the same time, reliable statistical data continue being key for
+       evidence-based policymaking and digitalization, which remain at the core of Vision 2040 and the NSC’s Development Strategy
+       2020-2024. The TASSMP remains aligned with the World Bank Group’s Country Partnership Framework (CPF) for 2019-2022 which
+       seeks to support the Kyrgyz Republic in strengthening foundations for inclusive, private sector-led growth.2
+
+       4. Implementation of the tax components 1 and 2 of the project has progressed at a steady pace. There has been good progress
+       on procurement of information and communication technology (ICT) equipment (computers, printers, and scanners delivered) as
+       well as consultancies. The strategic performance management consultancy is nearing completion, the change management
+       consultancy is ready to be launched, and the business process reengineering and human resource management consultancies
+       have started. The results of these activities will inform the future Information System for Tax Administration of the Kyrgyz Republic
+       (ISNAK-2). The procurement for ISNAK-2 is planned to be launched towards the end of 2023.
+
+       5. Implementation of the statistical components 3 and 4 has advanced at a moderate pace. The Twinning Partnership (TP)
+       Consortium was contracted to provide consulting services across a broad spectrum of tasks under these components. The
+       inception phase for the TP activity was completed and expert missions assumed their work according to the work plan in April
+       2023. A consultancy to develop tender documentation for the hardware and software was contracted in March 2023.
+       Procurement of other activities that are key for implementation of the statistical components is underway, including procurement
+       of a distance learning system for the NSC’s Institute of Statistical Research and Professional Development, office, and computer
+       equipment for the NSC staff at the local level. Review of the legal framework for the national statistical system (NSS) was
+       completed by a local legal expert and the follow up work is ongoing to advance the improvement of legal and institutional
+
+1   Available at https://www.gov.kg/ru/programs/16.
+2   This CPF is still applicable as the new CPF for 2024-2028 is under preparation.
+          The World Bank
+          Tax Administration and Statistical System Modernization Project (P163711)
+
+
+    framework for the National Statistical System (NSS). Development of an online onboarding course for the new NSC staff is nearing
+    completion.
+
+    6. The implementing agencies (STS and NSC), with support of the respective Project Management Units, ensure compliance with
+    the World Bank’s Environmental and Social Framework requirements, in accordance with the project’s Environmental and Social
+    Commitment Plan, Stakeholder Engagement Plan, and Labor-Management Procedures. The project-level Grievance Redress
+    Mechanism is functioning. The project does not have outstanding financial audits.
+
+B. Rationale for Restructuring
+
+    7. This restructuring seeks to revise the results framework to (i) replace a PDO-level indicator and an intermediate results
+    indicator (IRI) that were measured using data of the discontinued Doing Business (DB) report; (ii) avoid duplication and streamline
+    the measurement of project results through cancelation, addition, and modification of some indicators under components 1 and
+    2; and (iii) reduce end targets to more realistic expected levels of achievement by the project within the remaining implementation
+    period, for two IRIs related to the statistics components 3 and 4. There will be no revisions to the project development objective,
+    closing date, component activities and costs. The request for restructuring was issued on May 11, 2023, by the Ministry of Finance
+    of the Kyrgyz Republic. This is the first restructuring for the project.
+
+ II. DESCRIPTION OF PROPOSED CHANGES
+
+    8. The discontinuation of DB requires the revision of a PDO-level indicator and an IRI that were measured by data previously
+    generated by DB. The PDO-level indicator “time required to comply with taxes” will be replaced by “cost of tax compliance,” which
+    will be measured by a regular tax compliance cost survey. The DB IRI “payments required” will be cancelled and not replaced, as
+    several remaining IRIs will continue measuring STS operational development.
+
+    9. The further cancelation of one PDO-level indicator and seven IRIs, the addition of two IRIs, and the modification of two IRIs
+    is warranted to avoid duplication and streamline the measurement of project results under components 1 and 2:
+
+    (a)      PDO-level indicator “increased additional net taxes assessed per field audit” will be deleted due to an irrelevant basis of
+             measurement. The dramatic increase of the indicator’s value by 6.5 times in 2022 compared to 2021 and by 7.3 times
+             compared to the end of project target is attributed to limitations on field audits during the coronavirus disease (COVID)
+             pandemic and double-digit inflation over the last several years. The remaining PDO-level indicators related to tax
+             adequately measure the PDO dimension of improving effectiveness of tax collection.
+
+    (b)      Seven IRIs will be canceled:
+
+             (i)      The IRI “staff trained in strategic management, planning techniques, accountability system, quality assurance
+                      and control, and internal control systems” will be replaced by a new one to streamline the results chain (see
+                      paragraph 10).
+
+             (ii)     Similarly, the IRI “increased hours in training on field audit techniques on average per auditor per year” will be
+                      replaced.
+
+             (iii)    IRI “taxpayers reporting that the experience of taxpayer services: i) STS website; ii) STS call center, has
+                      improved” will be deleted, because its aspects are sufficiently covered by the modified IRI “improved
+                      satisfaction of taxpayers with the State Tax Service.”
+
+             (iv)     The IRI “payments required” will be dropped because it relied on data generated by DB (see paragraph 8).
+
+             (v)      The data for the IRI “Improved on-time filing rate for value added tax” (VAT) is already collected for the IRI “risk-
+                      based VAT refund claims automation,” which makes this indicator unnecessary.
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+         (vi)     The IRI “improved case management process for enforcement and tax collections” measures aspects outside of
+                  the scope of TASSMP since the automated case management system will be deployed as part of ISNAK-2.
+
+         (vii)    The IRI “taxpayer segment-focused measures in the STS Annual Business Plan and Plan of Measures to Increase
+                  State Tax Revenue” will be deleted, because these plans do not have measures by taxpayer segment.
+
+(c)      Two IRIs will be added:
+
+         (i)      The IRI “number of staff trained under the project (disaggregated by gender)” will be added to capture the
+                  training aspects previously measured by two separate IRIs (points i and ii above).
+
+         (ii)     The IRI “strategy for STS is developed based on the new methodology, approved, and under implementation”
+                  will be added to reflect policy level developments and respective government commitments.
+
+(d)      Three IRIs will be revised:
+
+         (i)      The wording of IRI “taxpayers reporting satisfaction with their interaction with the tax administration” will be
+                  revised to “improved satisfaction of taxpayers with the STS” and be measured by the NSC satisfaction survey.
+
+         (ii)     The wording of IRI “net taxes assessed per desk audit” will be clarified by adding “in constant 2023 prices” to
+                  address inflation.
+
+         (iii)    The IRI “improved process for compliance risk management” will be revised to “improved process for
+                  compliance risk management (compliance management strategy approved and under implementation and
+                  compliance management board established)” to streamline the results chain by adding the strategy here instead
+                  of measuring it through a separate IRI.
+
+10. The revision of the end- targets for two IRIs under the statistics components is required to increase realism:
+
+(a)      Given the remaining timeline for implementation of the project and the average timeframe for review and approval of
+         legal and regulatory acts, the end target of the IRI measuring the number of “decrees issued by the government to
+         enforce legal and regulatory reforms on statistics” will be revised from “at least 15” to “at least 10 decrees” issued by
+         the Kyrgyz government. The list of decrees will cover, among other legislative acts, the amendments to the following
+         four laws critical for efficient and sustainable implementation of reforms supported under the project: (i) Law on Local
+         Municipal Administration and Local Self-Government (LSG) Bodies; (ii) Law on Access to Information under Jurisdiction
+         of State Bodies and LSG Bodies; (iii) Law on Personal Information; and (iv) Law on Official Statistics.
+
+(b)      Based on a detailed analysis of the dimensions of the World Bank’s Statistical Performance Indicator (SPI), the end target
+         will be reduced from “improvement by 10 points” to “improvement by 5 points.” Since activities under the statistics
+         components were delayed, most of the outcomes and SPI improvements will be captured in the SPI after the closing
+         date. The reduction therefore accounts for outcomes that the project will be able to impact during its lifespan.
+
+11. The complete results framework reflecting the changes is in the annex. The theory of change will be revised to align with the
+updated results framework as follows:
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+                                              Figure 1. TASSMP Updated Results Chain / Theory of Change
+
+                                                                 Impact/Higher Level Outcome:
+                  Strengthened institutions for improved macro management, Enhanced conditions for private investment and diversification, and
+                                                    Promoted digitalization and development of the e-economy
+                                                        (Country Partnership Framework [CPF] objectives)
+
+
+
+
+Outcomes /                     Improved                          Improved                     Improved                             Improved
+   PDO                       effectiveness                    effectiveness of                effectiveness of NSS:             effectiveness of
+                                 of tax                        tax collection:                Overall efficiency               NSS: Openness of
+                                                                                              gain (i.e., reduced              official statistical
+                               collection:                     Reduced VAT
+                                                                                              time between                       data across 21
+                              Cost of Tax                           gap
+                                                                                              completion of data                data categories;
+                              Compliance                                                      collection and release               Open Data
+                                                                                              of key statistical               Inventory (ODIN)
+                                                                                              indicators to the                       Score
+                                                                                              public)
+
+
+
+
+Intermediate           Measured as:                      Measured as:                         Measured as:                      Measured as:
+  Outcomes             - Number of staff trained         - Increased net taxes assessed    - At least 10 decrees issued      - At least 75 percent of
+                       under the project                 per desk audit in constant        by the government to              surveys conducted using
+                       (disaggregated by gender);        2023 prices;                      enforce legal and regulatory      Computer-Assisted
+                       -Increased number of e-           - Improved on-time filing rate    reforms on statistics;            Personal Interviewing
+                       services for taxpayers;           for payroll (PAYE);               - Gender gap reduced;             (CAPI) technology;
+                       - e-filing rate for payroll       - Improved process for            - University level curricula in   - SPI increases ranking by
+                                                                                           universities in the Kyrgyz        five points at the end of
+                       (PAYE);                           compliance risk management
+                                                                                           Republic to have special          the project;
+                       - Improved satisfaction of        (Compliance Management
+                                                                                           courses in Official Statistics    - Improved user
+                       taxpayers with the STS;           Strategy approved and under
+                                                                                           and Data Science.                 satisfaction and time
+                       - Strategy for STS is             implementation and                                                  required to respond to
+                       developed based on the new        Compliance Risk Management                                          citizen requests.
+                       methodology, approved and         Board established);
+                       in implementation.                - Risk-based VAT refund
+                                                         claims automation.
+      The World Bank
+      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+Outputs                   - Management                - Support for procedural     - Regulatory            - Periodicity, granularity and
+                          developed a strategic       and other institutional      reforms and             duplication of data collected by
+                          focus in managing the       changes to achieve           enforcement             other ministries/agencies
+                          STS;                        significant efficiency       decrees issued;         analyzed. As a result, number of
+                          - Modernization of          improvements through         - Duplicative           surveys reduced and optimized.
+                          taxpayer services;          implementing business        oblast-level            Collection of data for Sustainable
+                          - STS human resource        process re-engineering;      functions               Develoment Goals (SDG)
+                          function reformed.          - Modernization of the ICT   eliminated;             introduced;
+                                                      systems and further          - New business          - National Accounts data
+                                                      development of the tax       processes for           converted to System of National
+                                                      administration software to   statistical data        Accounts (SNA) 2008 standard;
+                                                      support new business         using Generic           compilation of statistics of all
+                                                      procedures.                  Statistical             areas of economic statistics
+                                                                                   Business Process        improved; poverty lines
+                                                                                   Model (GSBPM)           computation improved;
+                                                                                   international           - More data disseminated as open
+                                                                                   standards               data in open formats, including
+                                                                                   implemented;            providing metadata,
+                                                                                   - New courses in        methodologies and analytical
+                                                                                   official statistics     tools to data users;
+                                                                                   and data science        - Links to government registers
+                                                                                   and related             created. Census and other data
+                                                                                   specializations         used to update government
+                                                                                   introduced in local     registers in STS and other
+                                                                                   universities;           ministries;
+                                                                                   - HR management,        - Long term plans for censuses
+                                                                                   HR systems and          developed; census data used to
+                                                                                   support                 improve estimation of socio-
+                                                                                   modernized in           economic indicators;
+                                                                                   NSC;                    - Household Books digitized;
+                                                                                   - international         capacity of municipal staff
+                                                                                   standards and           improved in compiling these
+                                                                                   methodologies in        statistics;
+                                                                                   statistics utilized     - New and modern ICT hardware
+                                                                                   and capacity built      and software procured and
+                                                                                   through external        implemented; software
+                                                                                   training for NSC        developed to (a) automate
+                                                                                   staff and               business processes and work-
+                                                                                   statisticians in line   flows in NSC; (b) digitalize all data
+                                                                                   ministries.             collection forms; (c) data
+                                                                                   - Gender disparity      processing; (d) facilitate and
+                                                                                   reviewed and            acquire data using Tunduk; and
+                                                                                                           data dissemination over the web.
+     The World Bank
+     Tax Administration and Statistical System Modernization Project (P163711)
+
+
+                                                                                     corrective action
+                                                                                     implemented.
+
+
+
+
+Components                 Component 1:                   Component 2:                 Component 3:           Component 4:
+                          STS Institutional              STS Operational              NSC Institutional   NSC Data Development
+                           Development                    Development                   Development
+
+
+
+
+                                                                          Component 5:
+                                                                       Project Management
+            The World Bank
+            Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+
+    III. SUMMARY OF CHANGES
+
+                                                                       Changed          Not Changed
+    Results Framework                                                     ✔
+    Implementing Agency                                                                     ✔
+    DDO Status                                                                              ✔
+    Project's Development Objectives                                                        ✔
+    PBCs                                                                                    ✔
+    Components and Cost                                                                     ✔
+    Loan Closing Date(s)                                                                    ✔
+    Cancellations Proposed                                                                  ✔
+    Reallocation between Disbursement Categories                                            ✔
+    Disbursements Arrangements                                                              ✔
+    Disbursement Estimates                                                                  ✔
+    Overall Risk Rating                                                                     ✔
+    Legal Covenants                                                                         ✔
+    Institutional Arrangements                                                              ✔
+    Financial Management                                                                    ✔
+    Procurement                                                                             ✔
+    Implementation Schedule                                                                 ✔
+    Other Change(s)                                                                         ✔
+    Economic and Financial Analysis                                                         ✔
+    Technical Analysis                                                                      ✔
+    Social Analysis                                                                         ✔
+    Environmental Analysis                                                                  ✔
+
+
+    IV. DETAILED CHANGE(S)
+
+
+
+
+.
+                           The World Bank
+                           Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+.
+                                                                                        Results framework
+                                                                               COUNTRY: Kyrgyz Republic
+                                                             Tax Administration and Statistical System Modernization Project
+
+    Project Development Objectives(s)
+    To improve effectiveness of tax collection and the national statistical system.
+
+
+    Project Development Objective Indicators by Objectives/ Outcomes
+    RESULT_FRAME_TBL_PDO
+
+
+
+
+                           Indicator Name                 PBC     Baseline                                            Intermediate Targets            End Target
+
+                                                                                                            1
+    Improve effectiveness of tax collection
+
+    Reduction of VAT gap (Percentage)                            13.20                                     12.70                                     12.00
+    Net taxes assessed per field audit (thousand som)
+                                                                 1,726.00                                  1,800.00                                  1,900.00
+    (Text)
+    Action: This indicator has been Marked for
+    Deletion
+
+    Cost of tax compliance (Days)                                44.20                                                                               40.00
+
+                                                         Rationale:
+                                                         Changed due to discontinuation of the Doing Business report. The new measurement is in working days per year for legal entities based
+    Action: This indicator has been Revised
+                                                         on tax compliance cost survey.
+
+
+    Improved effectiveness of the national statistical system
+    Overall efficiency gain: reduction of time between
+    completion of data collection and release of key             90 days                                   80 days                                   66 days
+    statistical indicators to the public (Text)
+                       The World Bank
+                       Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_PDO
+
+
+
+
+                       Indicator Name                 PBC     Baseline                                              Intermediate Targets           End Target
+
+                                                                                                             1
+Openness of official statistics: measures coverage
+                                                             2018/19 score of 50
+and openness of data across 21 data categories,                                                             52.00                                 56.00
+using the Open Data Inventory (ODIN) (Text)
+
+ PDO Table SPACE
+
+Intermediate Results Indicators by Components
+RESULT_FRAME_TBL_IO
+
+
+
+
+                       Indicator Name                 PBC     Baseline                                              Intermediate Targets           End Target
+
+                                                                                                             1
+Component 1: STS Institutional Development
+Staff trained in strategic management, planning
+techniques, accountability system, quality
+assurance, quality control, and internal control             0.00                                                                                 80.00
+systems out of total management staff (disaggreg.
+by gender) (Percentage)
+
+                                                     Rationale:
+                                                     The IRI “staff trained in strategic management, planning techniques, accountability system, quality assurance and control, and internal
+Action: This indicator has been Marked for
+                                                     control systems” is replaced by a new one to streamline the results chain. The newly added IRI will measure the number of people trained
+Deletion
+                                                     under the project, disaggregated by gender.
+
+
+e-Services for taxpayers (Number)                            22.00                                                                                27.00
+
+                                                             38.3% taxpayers report to be fully satisfied
+Taxpayers reporting that the experience of                   with the STS website. 24.8% taxpayers
+taxpayer services: i) STS website; ii) STS call              consider the quality of consultations                                                Improvement by 10 percent
+center, has improved (Text)                                  provided by the call center to be of high
+                                                             quality.
+                      The World Bank
+                      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name                PBC      Baseline                                            Intermediate Targets                End Target
+
+                                                                                                         1
+                                                   Rationale:
+Action: This indicator has been Marked for         This IRI will be deleted, because its aspects are sufficiently covered by the modified IRI “improved satisfaction of taxpayers with the State
+Deletion                                           Tax Service.”
+
+
+e-Filing rate for payroll (PAYE) withholding tax
+                                                           23.80                                                                                   45.00
+(Percentage)
+
+Improved satisfaction of taxpayers with the STS            36% of taxpayers report full satisfaction
+                                                                                                                                                   Improvement by 20 percent
+(Text)                                                     with personal interaction with the STS.
+
+                                                   Rationale:
+                                                   The wording of IRI “taxpayers reporting satisfaction with their interaction with the tax administration” revised for clarification purposes
+Action: This indicator has been Revised
+                                                   to “improved satisfaction of taxpayers with the STS” and will be measured by the NSC satisfaction survey.
+
+
+Strategy for STS is developed based on the new
+                                                                                                                                                   STS strategy developed, approved, and
+methodology, approved, and under                           No STS strategy
+                                                                                                                                                   under implementation
+implementation (Text)
+
+                                                   Rationale:
+Action: This indicator is New                      This IRI is added to reflect policy level developments and respective government commitments.
+
+
+Number of STS staff trained under the project
+                                                           0.00                                                                                    400.00
+(disaggregated by gender) (Number)
+
+                                                   Rationale:
+Action: This indicator is New                      This IRI is added to capture the training aspects previously measured by two separate SRIs under the tax components.
+
+
+Component 2: STS Operational Development
+Net taxes assessed per desk audit in constant
+                                                           3,167.30                                                                                3,848.00
+2023 prices (thousand som) (Number (Thousand))
+                      The World Bank
+                      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name                  PBC      Baseline                                           Intermediate Targets               End Target
+
+                                                                                                          1
+                                                     Rationale:
+Action: This indicator has been Revised              The addition "in constant 2023 prices" is made to address inflation.
+
+
+Payments required – WB Doing Business Paying
+                                                             26.00                                                                                  23.00
+Taxes indicator (Payments) (Number)
+
+                                                     Rationale:
+Action: This indicator has been Marked for           Deleted due to discontinuation of the Doing Business report. Several remaining IRIs will continue adequately measuring STS operational
+Deletion                                             development.
+
+
+Hours in traning on field audit techniques on
+average per auditor per year (disaggregated by               0.00                                                                                   8.00
+gender) (Number)
+
+                                                     Rationale:
+Action: This indicator has been Marked for           This IRI is replaced by a new one to streamline the results chain. The newly added IRI will measure the number of people trained under the
+Deletion                                             project, disaggregated by gender.
+
+
+On-time filing rate for payroll (PAYE) withholding
+                                                             80.20                                                                                  87.00
+tax (Percentage)
+On-time filing rate for Value Added Tax (VAT)
+                                                             93.80                                                                                  97.00
+(Percentage)
+
+                                                     Rationale:
+Action: This indicator has been Marked for
+                                                     The data for this IRI is already collected for the IRI “risk-based VAT refund claims automation,” which makes this indicator unnecessary.
+Deletion
+
+
+                                                                                                                                                    The case management system is in place and
+Improved case management process for                         The automated case management system
+                                                                                                                                                    the majority of routine enforcement
+enforcement and tax collections (Text)                       is not in place.
+                                                                                                                                                    activities are conducted using this system.
+                      The World Bank
+                      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name                 PBC     Baseline                                          Intermediate Targets            End Target
+
+                                                                                                        1
+                                                    Rationale:
+Action: This indicator has been Marked for          This IRI measures aspects outside of the scope of TASSMP since the automated case management system will be deployed as part of
+Deletion                                            ISNAK-2.
+
+
+                                                            STS Annual Business Plan and Plan of                                              STS Annual Business Plan and Plan of
+Taxpayer segment-focused measures in the STS
+                                                            Measures to Increase State Tax Revenue                                            Measures to Increase State Tax Revenue
+Annual Business Plan and Plan of Measures to
+                                                            do not currently have measures by                                                 have measures identified by taxpayer
+Increase State Tax Revenue (Text)
+                                                            taxpayer segment                                                                  segment
+
+                                                    Rationale:
+Action: This indicator has been Marked for
+                                                    This IRI will be deleted, because these plans do not have measures by taxpayer segment.
+Deletion
+
+
+Improved process for compliance risk                                                                                                          Compliance risk management board or
+management (compliance management strategy                  STS does not have a compliance risk                                               equivalent established and operational
+approved and under implementation and                       management board or a risk management                                             within the STS. Compliance management
+compliance management board established)                    strategy.                                                                         strategy approved and under
+(Text)                                                                                                                                        implementation.
+
+                                                    Rationale:
+                                                    The IRI “improved process for compliance risk management” is revised to “improved process for compliance risk management (compliance
+Action: This indicator has been Revised             management strategy approved and under implementation and compliance management board established)” to streamline the results
+                                                    chain by adding the strategy here instead of measuring it through a separate IRI.
+
+
+                                                            No risk based verification procedures for                                         Risk based verification procedures for VAT
+Risk based VAT refund claims automation (Text)
+                                                            VAT refund claims                                                                 refund claims developed and used
+Component 3: NSC Institutional Development
+
+Decrees issued by the Government to enforce                                                                                                   At least 10 decrees issued by the
+                                                            No decrees issued on official statistics
+legal and regulatory reforms on statistics (Text)                                                                                             government
+                      The World Bank
+                      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name                  PBC      Baseline                                            Intermediate Targets                 End Target
+
+                                                                                                           1
+                                                     Rationale:
+                                                     Given the remaining timeline for implementation of the project and the average timeframe for review and approval of legal and
+                                                     regulatory acts, the end target of the IRI measuring the number of “decrees issued by the government to enforce legal and regulatory
+                                                     reforms on statistics” is revised from “at least 15” to “at least 10 decrees” issued by the Kyrgyz government. The list of decrees will cover,
+Action: This indicator has been Revised
+                                                     among other legislative acts, the amendments to the following four laws critical for efficient and sustainable implementation of reforms
+                                                     supported under the project: (i) Law on Local Municipal Administration and Local Self-Government (LSG) Bodies; (ii) Law on Access to
+                                                     Information under Jurisdiction of State Bodies and LSG Bodies; (iii) Law on Personal Information; and (iv) Law on Official Statistics.
+
+
+University level curricula in local universities,
+                                                             No courses exist in local universities in                                                At least one University level course in Official
+including courses in Official Statistics, and Data
+                                                             Official Statistics                                                                      Statistics
+Science (Text)
+Gender disparity in staff count by gender at NSC:
+top level female managers at the oblast and rayon            26.00                                        28.00                                       33.00
+level (Percentage)
+
+Gender disparity in new staff hired during the                                                                                                        The newly recruited staff maintain a less
+                                                             n/a
+project at NSC (Text)                                                                                                                                 than 15% disparity by gender
+Component 4: NSC Data Development
+World Bank Statistical Performance Indicator
+                                                             75.5 in 2018                                                                             Improvement by 5 points
+(Text)
+
+                                                     Rationale:
+                                                     The target of this indicator is revised from "improvement by 10 points" to "improvement by 5 points" to reflect the slower pace of
+Action: This indicator has been Revised              implementation under the statistics components and to increase realism of the achievement of the target within the remaining time
+                                                     frame.
+
+
+Digitization of surveys using CAPI, CATI, CAWI -
+reduction of paper-based questionnaires and                  About 25% surveys are digitalized                                                        At least 75% of surveys are digitized.
+surveys (Text)
+                      The World Bank
+                      Tax Administration and Statistical System Modernization Project (P163711)
+
+
+
+RESULT_FRAME_TBL_IO
+
+
+
+
+                      Indicator Name               PBC    Baseline                                  Intermediate Targets    End Target
+
+                                                                                             1
+Overall data users satisfaction (Percentage)             38.00                                                             60.00
+Time required to respond to citizen requests
+                                                         14.00                              13.00                          11.00
+received through the NSC website (Days)
+
+IO Table SPACE
+The World Bank
+Tax Administration and Statistical System Modernization Project (P163711)
+

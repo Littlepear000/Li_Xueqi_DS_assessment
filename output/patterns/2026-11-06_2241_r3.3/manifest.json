@@ -1,0 +1,81 @@
+{
+  "run": "2026-11-06_2241_r3.3",
+  "package_version": "0.3.28",
+  "workflow": "r3",
+  "workflow_tag": "r3.3",
+  "workflow_hash": "61b5152e1b43",
+  "label": "",
+  "created_at": "2026-11-07T03:43:42Z",
+  "db": "../output/pia_review.db",
+  "kpis": {
+    "approaches": 305,
+    "projects": 121,
+    "judged": 256,
+    "candidate_pairs": 978,
+    "verified_pairs": 242,
+    "rejected_pairs": 736,
+    "unverified_pairs": 0,
+    "patterns": 24,
+    "approaches_in_patterns": 136,
+    "share_in_patterns": 0.446,
+    "replication_events": 14,
+    "replication_confirmed": 10,
+    "replication_likely": 4,
+    "replication_source_in_portfolio": 11,
+    "scaling_events": 12,
+    "replication_patterns": 5,
+    "scaling_patterns": 2,
+    "max_projects_per_pattern": 35
+  },
+  "trace": [
+    {
+      "step": "corpus",
+      "status": "ok",
+      "note": "305 approaches in 121 projects; 101 carry explicit project references",
+      "at": "2026-11-07T03:41:26Z"
+    },
+    {
+      "step": "cues",
+      "status": "ok",
+      "note": "7 approaches with replication language, 4 naming another project in their passages",
+      "at": "2026-11-07T03:41:26Z"
+    },
+    {
+      "step": "match",
+      "status": "info",
+      "note": "embedding backend unavailable (ModuleNotFoundError); using TF-IDF",
+      "at": "2026-11-07T03:41:26Z"
+    },
+    {
+      "step": "match",
+      "status": "ok",
+      "note": "tfidf: 978 candidate pairs >= 0.08 (top 8 earlier approaches per approach)",
+      "at": "2026-11-07T03:41:26Z"
+    },
+    {
+      "step": "judge",
+      "status": "ok",
+      "note": "256 model calls, 0 cached, 0 errors; 49 approaches had nothing to judge",
+      "at": "2026-11-07T03:43:42Z"
+    },
+    {
+      "step": "classify",
+      "status": "ok",
+      "note": "replication: 10 confirmed, 4 likely; scaling: 12",
+      "at": "2026-11-07T03:43:42Z"
+    },
+    {
+      "step": "summarize",
+      "status": "ok",
+      "note": "10 confirmed + 4 likely replication; 12 scaling; 24 same-approach groups",
+      "at": "2026-11-07T03:43:42Z"
+    },
+    {
+      "step": "write",
+      "status": "ok",
+      "note": "../output/patterns/2026-11-06_2241_r3.3; 20 rows of replication_label / scaling_label written to the database",
+      "at": "2026-11-07T03:43:42Z"
+    }
+  ],
+  "llm_calls": 256
+}

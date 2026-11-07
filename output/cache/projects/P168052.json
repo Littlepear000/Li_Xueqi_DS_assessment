@@ -1,0 +1,418 @@
+{
+  "project_id": "P168052",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "6a7cac14",
+  "started_at": "2026-11-07T03:25:44Z",
+  "ended_at": "2026-11-07T03:26:10Z",
+  "input_fingerprint": "96f0c7665019adce",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 38,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P168052-A1",
+      "project_id": "P168052",
+      "name": "MIS with public subproject maps and citizen feedback",
+      "description": "NSIFT builds an MIS for monitoring, auto-reporting, public map disclosure and citizen feedback.",
+      "why_innovative": "New process: map-based transparency plus feedback loop - cue: 'citizen feedback' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "283841561341752653",
+        "doc_type": "PAD",
+        "doc_date": "2019-05-30",
+        "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+        "char_start": 68087,
+        "char_end": 68361,
+        "text": "The component will also finance a management and information system (MIS), which NSIFT will establish and utilize for project monitoring, automatic generation of project reports, project transparency (subproject information will be publicized on maps), and citizen feedback.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "283841561341752653",
+          "doc_type": "PAD",
+          "doc_date": "2019-05-30",
+          "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+          "char_start": 68362,
+          "char_end": 68456,
+          "text": "Feedback and grievances received through the BFM will be included in the semiannual reporting.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers transparency and accountability in delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "MIS for subproject monitoring, public maps and citizen feedback supports sub-national government transparency and accountability.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168326",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "unknown",
+          "evidence": "gress ratings. The project’s progress towards achievement of the PDO and its\r\nimplementation progress are currently rated as Moderately Satisfactory, mostly due to delays with project ratification and\r\n\r\n1The other two operations financed by the IDA 18 RMR are the Rural Economy Development Project (P168326), which supports the creation of\r\neconomic opportunities for vulnerable groups at the market"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: NSIFT MIS with public subproject maps and feedback | Innovative: map-based transparency plus feedback channel | Category: re-engineers delivery transparency",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: map-based transparency plus feedback loop - cue: 'citizen feedback'",
+      "innovation_cues": [
+        "citizen-feedback"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P168052",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-30",
+      "guid": "283841561341752653",
+      "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:25:44Z",
+      "ended_at": "2026-11-07T03:25:58Z",
+      "status": "ok",
+      "note": "18 document(s) fetched from the WBG API; 23 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:25:58Z",
+      "ended_at": "2026-11-07T03:25:58Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-06-20, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:25:58Z",
+      "ended_at": "2026-11-07T03:26:00Z",
+      "status": "ok",
+      "note": "38 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 38,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 9,
+          "innovation": 3,
+          "innovation_types": 4,
+          "innovation_cycle": 14,
+          "results_based_management": 3,
+          "public_good": 4,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:26:00Z",
+      "ended_at": "2026-11-07T03:26:00Z",
+      "status": "ok",
+      "note": "PAD 2019-05-30 (P168052_PAD_2019-05-30_283841561341752653.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P168052",
+            "doc_type": "PAD",
+            "doc_date": "2019-05-30",
+            "guid": "283841561341752653",
+            "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:26:00Z",
+      "ended_at": "2026-11-07T03:26:00Z",
+      "status": "ok",
+      "note": "156 reading units (12 numbered paragraphs) from 1258 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 156
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:26:00Z",
+      "ended_at": "2026-11-07T03:26:03Z",
+      "status": "ok",
+      "note": "55 of 156 units carry a digital / AI cue (13 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 55,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 13
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:26:03Z",
+      "ended_at": "2026-11-07T03:26:06Z",
+      "status": "ok",
+      "note": "1 candidate practices from 55 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 179292,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1269,
+          "cached_tokens": 36864,
+          "cache_write_tokens": 0,
+          "output_tokens": 1000,
+          "seconds": 10.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0018
+        },
+        "extracted": 1
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:26:06Z",
+      "ended_at": "2026-11-07T03:26:08Z",
+      "status": "ok",
+      "note": "1 accepted, 0 rejected; 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 17468,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 508,
+          "cached_tokens": 3072,
+          "cache_write_tokens": 0,
+          "output_tokens": 109,
+          "seconds": 1.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "accepted": 1,
+        "rejected": 0,
+        "expanded": 0,
+        "reject_codes": {}
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:26:08Z",
+      "ended_at": "2026-11-07T03:26:09Z",
+      "status": "ok",
+      "note": "1 of 1 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 824,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 215,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 48,
+          "seconds": 1.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:26:09Z",
+      "ended_at": "2026-11-07T03:26:09Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:26:09Z",
+      "ended_at": "2026-11-07T03:26:10Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 3971,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 246,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 82,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:26:10Z",
+      "ended_at": "2026-11-07T03:26:10Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 0 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:26:10Z",
+      "ended_at": "2026-11-07T03:26:10Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P168326",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "unknown",
+            "evidence": "gress ratings. The project’s progress towards achievement of the PDO and its\r\nimplementation progress are currently rated as Moderately Satisfactory, mostly due to delays with project ratification and\r\n\r\n1The other two operations financed by the IDA 18 RMR are the Rural Economy Development Project (P168326), which supports the creation of\r\neconomic opportunities for vulnerable groups at the market"
+          }
+        ],
+        "store_size": 54
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P168052-A1-E1",
+      "approach_id": "P168052-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P168052",
+      "doc_id": "283841561341752653",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-30",
+      "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 429,
+      "char_start": 68087,
+      "char_end": 68361,
+      "sentence": "The component will also finance a management and information system (MIS), which NSIFT will establish and utilize for project monitoring, automatic generation of project reports, project transparency (subproject information will be publicized on maps), and citizen feedback.",
+      "practice": "MIS with public subproject maps and citizen feedback",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: NSIFT project MIS | Not routine: public maps plus feedback channel | Adoption: 'will establish and utilize'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: NSIFT MIS with public subproject maps and feedback | Innovative: map-based transparency plus feedback channel | Category: re-engineers delivery transparency",
+      "keywords_hit": "MIS;conflict;information system;survey",
+      "innovation_cues": "citizen-feedback",
+      "innovation_basis": "New process: map-based transparency plus feedback loop - cue: 'citizen feedback'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6a7cac14"
+    },
+    {
+      "row_id": "P168052-A1-E2",
+      "approach_id": "P168052-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P168052",
+      "doc_id": "283841561341752653",
+      "doc_type": "PAD",
+      "doc_date": "2019-05-30",
+      "file_name": "P168052_PAD_2019-05-30_283841561341752653.txt",
+      "unit_id": "U49",
+      "para_no": null,
+      "sentence_position": 430,
+      "char_start": 68362,
+      "char_end": 68456,
+      "sentence": "Feedback and grievances received through the BFM will be included in the semiannual reporting.",
+      "practice": "MIS with public subproject maps and citizen feedback",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: NSIFT project MIS | Not routine: public maps plus feedback channel | Adoption: 'will establish and utilize'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: NSIFT MIS with public subproject maps and feedback | Innovative: map-based transparency plus feedback channel | Category: re-engineers delivery transparency",
+      "keywords_hit": "MIS;conflict;information system;survey",
+      "innovation_cues": "citizen-feedback",
+      "innovation_basis": "New process: map-based transparency plus feedback loop - cue: 'citizen feedback'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6a7cac14"
+    }
+  ],
+  "exclusion_log": [],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 2238,
+    "cached_tokens": 40576,
+    "cache_write_tokens": 0,
+    "output_tokens": 1239,
+    "seconds": 14.8,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0024
+  }
+}

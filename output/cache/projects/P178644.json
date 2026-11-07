@@ -1,0 +1,732 @@
+{
+  "project_id": "P178644",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "37e5c77d",
+  "started_at": "2026-11-07T03:35:14Z",
+  "ended_at": "2026-11-07T03:35:44Z",
+  "input_fingerprint": "e563d04310aee7d4",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 27,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P178644-A1",
+      "project_id": "P178644",
+      "name": "geo-referenced climate risk and housing information mapping",
+      "description": "Finances geo-referenced climate risk maps and a Housing Information System to guide territorial planning and investment design. Practices: Geo-referenced climate risk mapping for territorial planning; Housing Information System with geo-referenced housing data; geo-referenced climate risk mapping for municipal planning.",
+      "why_innovative": "New service: geo-referenced climate risk maps for planning - cue: 'geo-referenced' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099110223091038881",
+        "doc_type": "PAD",
+        "doc_date": "2023-10-31",
+        "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+        "char_start": 61329,
+        "char_end": 61690,
+        "text": "The technical assistance for urban planning, under activity (i) above, shall include, inter alia: (i) providing support for the development of geo-referenced climate risks mapping to support informed territorial planning, and specific investments design to support streamlining the climate resilience requirements in all future government plans and investments;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099110223091038881",
+          "doc_type": "PAD",
+          "doc_date": "2023-10-31",
+          "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+          "char_start": 61691,
+          "char_end": 61853,
+          "text": "(ii) providing support for the development and implementation of a Housing Information System, launched under the SOE related Fiscal Management Project (P160796).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099110223091038881",
+          "doc_type": "PAD",
+          "doc_date": "2023-10-31",
+          "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+          "char_start": 61854,
+          "char_end": 62060,
+          "text": "This system is expected to provide geo- referenced information on the social, economic, legal and urban dimensions, with the objective of reducing the gap between demand and supply of housing in Cabo Verde.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099110223091038881",
+          "doc_type": "PAD",
+          "doc_date": "2023-10-31",
+          "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+          "char_start": 190040,
+          "char_end": 190399,
+          "text": "Similarly, this component will finance US$1.65 million towards Technical Assistance for municipal planning to support for the development of geo-referenced climate risks mapping to support informed territorial planning, and specific investments design to support streamlining the climate resilience requirements in all future government plans and investments.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: GIS mapping is the core mechanism, not a delivery reform",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Urban Transport",
+        "code": "",
+        "confidence": null,
+        "rationale": "Climate risk mapping guides territorial planning and investment design, most directly serving urban transport planning.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P169265",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "engthen housing provision; (iv) the Cabo Verde Human Capital Project (P175828), which framed within the\r\nPRRA, finances interventions in urban areas in Praia to improve the access to basic services for poor and vulnerable\r\nhouseholds; (v) the Harmonizing and Improving Statistics in West Africa IPF (P169265); (vi) the Coastal Fisheries Initiative\r\nChallenge Fund in Cabo Verde supporting the identif"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: geo-referenced climate risk maps | Innovative: spatial risk data guiding territorial plans | Category: GIS mapping tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: geo-referenced climate risk maps for planning - cue: 'geo-referenced'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P178644",
+      "doc_type": "PAD",
+      "doc_date": "2023-10-31",
+      "guid": "099110223091038881",
+      "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:35:14Z",
+      "ended_at": "2026-11-07T03:35:18Z",
+      "status": "ok",
+      "note": "4 document(s) fetched from the WBG API; 9 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:35:18Z",
+      "ended_at": "2026-11-07T03:35:18Z",
+      "status": "ok",
+      "note": "in scope (approved 2023-11-21, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:35:18Z",
+      "ended_at": "2026-11-07T03:35:20Z",
+      "status": "ok",
+      "note": "27 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 27,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 1,
+          "public_good": 4,
+          "results_based_management": 4,
+          "innovation_cycle": 6,
+          "innovation_types": 8,
+          "innovation": 3,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:35:20Z",
+      "ended_at": "2026-11-07T03:35:20Z",
+      "status": "ok",
+      "note": "PAD 2023-10-31 (P178644_PAD_2023-10-31_099110223091038881.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P178644",
+            "doc_type": "PAD",
+            "doc_date": "2023-10-31",
+            "guid": "099110223091038881",
+            "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:35:20Z",
+      "ended_at": "2026-11-07T03:35:20Z",
+      "status": "ok",
+      "note": "135 reading units (22 numbered paragraphs) from 1143 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 135
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:35:20Z",
+      "ended_at": "2026-11-07T03:35:23Z",
+      "status": "ok",
+      "note": "85 of 135 units carry a digital / AI cue (25 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 85,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 25
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:35:23Z",
+      "ended_at": "2026-11-07T03:35:30Z",
+      "status": "ok",
+      "note": "10 candidate practices from 85 units in 9 calls",
+      "llm_calls": 9,
+      "input_chars": 277220,
+      "output": {
+        "usage": {
+          "calls": 9,
+          "input_tokens": 1519,
+          "cached_tokens": 57984,
+          "cache_write_tokens": 0,
+          "output_tokens": 2759,
+          "seconds": 22.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0041
+        },
+        "extracted": 10
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:35:30Z",
+      "ended_at": "2026-11-07T03:35:38Z",
+      "status": "ok",
+      "note": "6 accepted, 4 rejected (not_digital 3, not_innovative 1); 2 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 185931,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 30342,
+          "cached_tokens": 5760,
+          "cache_write_tokens": 0,
+          "output_tokens": 888,
+          "seconds": 7.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0102
+        },
+        "accepted": 6,
+        "rejected": 4,
+        "expanded": 2,
+        "reject_codes": {
+          "not_digital": 3,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:35:38Z",
+      "ended_at": "2026-11-07T03:35:40Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1928,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 416,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 234,
+          "seconds": 2.2,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:35:40Z",
+      "ended_at": "2026-11-07T03:35:41Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1919,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 287,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 102,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:35:41Z",
+      "ended_at": "2026-11-07T03:35:44Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 2 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7274,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 438,
+          "cached_tokens": 1024,
+          "cache_write_tokens": 0,
+          "output_tokens": 223,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:35:44Z",
+      "ended_at": "2026-11-07T03:35:44Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 4 evidence rows, 7 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:35:44Z",
+      "ended_at": "2026-11-07T03:35:44Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P169265",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "engthen housing provision; (iv) the Cabo Verde Human Capital Project (P175828), which framed within the\r\nPRRA, finances interventions in urban areas in Praia to improve the access to basic services for poor and vulnerable\r\nhouseholds; (v) the Harmonizing and Improving Statistics in West Africa IPF (P169265); (vi) the Coastal Fisheries Initiative\r\nChallenge Fund in Cabo Verde supporting the identif"
+          }
+        ],
+        "store_size": 208
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P178644-A1-E1",
+      "approach_id": "P178644-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 4,
+      "project_id": "P178644",
+      "doc_id": "099110223091038881",
+      "doc_type": "PAD",
+      "doc_date": "2023-10-31",
+      "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+      "unit_id": "U41",
+      "para_no": 31,
+      "sentence_position": 330,
+      "char_start": 61329,
+      "char_end": 61690,
+      "sentence": "The technical assistance for urban planning, under activity (i) above, shall include, inter alia: (i) providing support for the development of geo-referenced climate risks mapping to support informed territorial planning, and specific investments design to support streamlining the climate resilience requirements in all future government plans and investments;",
+      "practice": "Geo-referenced climate risk mapping for territorial planning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: geo-referenced climate risk maps | Not routine: spatial risk data for planning decisions | Adoption: 'shall include'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geo-referenced climate risk maps | Innovative: spatial risk data guiding territorial plans | Category: GIS mapping tool",
+      "keywords_hit": "geo-referenced;information system;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geo-referenced climate risk maps for planning - cue: 'geo-referenced'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "37e5c77d"
+    },
+    {
+      "row_id": "P178644-A1-E2",
+      "approach_id": "P178644-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 4,
+      "project_id": "P178644",
+      "doc_id": "099110223091038881",
+      "doc_type": "PAD",
+      "doc_date": "2023-10-31",
+      "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+      "unit_id": "U41",
+      "para_no": 31,
+      "sentence_position": 331,
+      "char_start": 61691,
+      "char_end": 61853,
+      "sentence": "(ii) providing support for the development and implementation of a Housing Information System, launched under the SOE related Fiscal Management Project (P160796).",
+      "practice": "Housing Information System with geo-referenced housing data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: Housing Information System | Not routine: geo-referenced housing data to close gap | Adoption: 'providing support for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Housing Information System | Innovative: geo-referenced housing demand-supply data | Category: digital registry",
+      "keywords_hit": "geo-referenced;information system;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geo-referenced housing demand-supply data system - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "37e5c77d"
+    },
+    {
+      "row_id": "P178644-A1-E3",
+      "approach_id": "P178644-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 4,
+      "project_id": "P178644",
+      "doc_id": "099110223091038881",
+      "doc_type": "PAD",
+      "doc_date": "2023-10-31",
+      "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+      "unit_id": "U41",
+      "para_no": 31,
+      "sentence_position": 332,
+      "char_start": 61854,
+      "char_end": 62060,
+      "sentence": "This system is expected to provide geo- referenced information on the social, economic, legal and urban dimensions, with the objective of reducing the gap between demand and supply of housing in Cabo Verde.",
+      "practice": "Housing Information System with geo-referenced housing data",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: Housing Information System | Not routine: geo-referenced housing data to close gap | Adoption: 'providing support for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Housing Information System | Innovative: geo-referenced housing demand-supply data | Category: digital registry",
+      "keywords_hit": "geo-referenced;information system;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geo-referenced housing demand-supply data system - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "37e5c77d"
+    },
+    {
+      "row_id": "P178644-A1-E4",
+      "approach_id": "P178644-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 4,
+      "project_id": "P178644",
+      "doc_id": "099110223091038881",
+      "doc_type": "PAD",
+      "doc_date": "2023-10-31",
+      "file_name": "P178644_PAD_2023-10-31_099110223091038881.txt",
+      "unit_id": "U134",
+      "para_no": null,
+      "sentence_position": 1137,
+      "char_start": 190040,
+      "char_end": 190399,
+      "sentence": "Similarly, this component will finance US$1.65 million towards Technical Assistance for municipal planning to support for the development of geo-referenced climate risks mapping to support informed territorial planning, and specific investments design to support streamlining the climate resilience requirements in all future government plans and investments.",
+      "practice": "geo-referenced climate risk mapping for municipal planning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Urban Transport",
+      "extractor_reason": "Digital core: geo-referenced climate risk maps | Not routine: spatial risk data for planning | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: geo-referenced climate risk maps | Innovative: spatial risk data guiding municipal plans | Category: GIS mapping tool",
+      "keywords_hit": "geo-referenced;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: geo-referenced climate risk maps for planning - cue: 'geo-referenced'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "37e5c77d"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 387,
+      "char_start": 70633,
+      "char_end": 70952,
+      "sentence": "An additional mandate of these Committees of women / women led dialogue will be to serve as organizational bodies that operate, maintain early warning systems, and facilitate the flow of information between women in the communities and assistance providers by advocating on their behalf in the event of natural hazards.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Women-led committees operating community early warning systems",
+      "reason": "reject: Women-led committees are organizational bodies; EWS operation is not a named digital system built here",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: women-led committees run early warning systems - cue: 'early-warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Women-led committees are organizational bodies; EWS operation is not a named digital system built here",
+          "reject_code": "not_digital",
+          "context_chars": 1218
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 439,
+      "char_start": 79062,
+      "char_end": 79205,
+      "sentence": "All project data should be generated and accessible on an open data platform to allow free and easy usage by the government and the World Bank.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "open data platform for project M&E data",
+      "reason": "reject: Open data platform for routine M&E reporting; standard transparency practice, no new mechanism",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: open data platform for M&E transparency - cue: 'open data platform'",
+      "innovation_cues": "PforR",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Open data platform for routine M&E reporting; standard transparency practice, no new mechanism",
+          "reject_code": "not_innovative",
+          "context_chars": 1396
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 676,
+      "char_start": 123426,
+      "char_end": 123782,
+      "sentence": "positions in communitarian committees (Percentage) Proportion of women in permanent decision-making positions within communitarian committees created under the project.These committees will be permenent in nature in collaboration with the municipalities and as part of their competence will be to support the identification of investments and their design.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "community committees operating early warning systems",
+      "reason": "reject: Community committees are organizational bodies; no named digital EWS system financed",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: community bodies run early warning systems - cue: 'early-warning'",
+      "innovation_cues": "early-warning;grievance-redress",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Community committees are organizational bodies; no named digital EWS system financed",
+          "reject_code": "not_digital",
+          "context_chars": 1375
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 987,
+      "char_start": 166426,
+      "char_end": 166638,
+      "sentence": "The Prioritization Framework is a tool that will help to evaluate and rank numerous investments from a long list, determining which ones will have the greatest impact and should be prioritized for implementation.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Prioritization framework ranking long-list investments",
+      "reason": "reject: Prioritization framework is a ranking methodology, no digital system or data tool core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: structured ranking of long-list investments - cue: 'tool'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Prioritization framework is a ranking methodology, no digital system or data tool core",
+          "reject_code": "not_digital",
+          "context_chars": 1336
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 989,
+      "char_start": 166757,
+      "char_end": 166988,
+      "sentence": "Due to the constrained budget, it was proposed to develop a Prioritization Framework to rank the 64 investments and select the most critical ones to be implemented (as a first phase of the project), in addition to the first movers.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "georeferenced multi-criteria prioritization framework for ranking infrastructure investments",
+      "reason": "reject: final check round 1: digital: incidental - Digital: georeferenced maps support it but multi-criteria scoring framework is the approach | Before 2019: MDB multi-criteria infrastructure prioritization standard, e.g. WBG/IDB tools",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: georeferenced indicator scoring to rank public investments - cue: 'georeferenced maps'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: georeferenced indicator maps | Innovative: data-driven scoring of 64 investments | Category: delivery/prioritization process",
+          "reject_code": "",
+          "context_chars": 1374
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: georeferenced maps support it but multi-criteria scoring framework is the approach | Before 2019: MDB multi-criteria infrastructure prioritization standard, e.g. WBG/IDB tools",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 1112,
+      "char_start": 186024,
+      "char_end": 186485,
+      "sentence": "Measures to be implemented include a combination of engineering, NBS, and hybrid hard interventions (e.g., the deployment of slope protection to avoid landslides and rock-falls; the construction of channels, reservoirs and basins to direct and capture water run-off), along with soft measures such as the establishment of a climate-resilient road asset management system that incorporates preventive and climate-informed road and drainage maintenance practices.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "climate and disaster-risk informed transport asset management system and practices",
+      "reason": "reject: final check round 1: digital: incidental - Digital: asset management system and early warning are tools, core is climate-resilient road design | Before 2019: WBG/AfDB climate-resilient road asset management and EWS already applied",
+      "reject_code": "not_digital",
+      "innovation_basis": "Digital asset-management system embedding climate risk data into preventive road and drainage maintenance planning",
+      "innovation_cues": "adaptive",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Cannot tell whether the asset management system is a digital system or a maintenance regime",
+          "reject_code": "",
+          "context_chars": 1372
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: climate-risk-informed asset management system | New: climate data drives maintenance planning | Category: Technological asset-management system",
+          "reject_code": "",
+          "context_chars": 68091
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: asset management system and early warning are tools, core is climate-resilient road design | Before 2019: WBG/AfDB climate-resilient road asset management and EWS already applied",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "099110223091038881",
+      "doc_type": "PAD",
+      "position": 1127,
+      "char_start": 188496,
+      "char_end": 188807,
+      "sentence": "Furthermore, this component will establish climate-informed road asset management practices and systems connected to an early warning system, putting in place provisions for the deployment of routine and periodic maintenance that account for climate stress and strengthening emergency preparedness and response.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "climate-informed road asset management system connected to an early warning system",
+      "reason": "reject: final check round 1: digital: incidental - Digital: asset management system and early warning are tools, core is climate-resilient road design | Before 2019: WBG/AfDB climate-resilient road asset management and EWS already applied",
+      "reject_code": "not_digital",
+      "innovation_basis": "Asset-management system linked to EWS to trigger climate-stress maintenance and emergency response",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether the early warning system is a digital system financed by this project",
+          "reject_code": "",
+          "context_chars": 1515
+        },
+        {
+          "round": 2,
+          "verdict": "revise",
+          "reason": "Digital core: EWS-linked asset management system | New: EWS triggers maintenance and response | Category: Technological",
+          "reject_code": "",
+          "context_chars": 68091
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: asset management system and early warning are tools, core is climate-resilient road design | Before 2019: WBG/AfDB climate-resilient road asset management and EWS already applied",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 14,
+    "input_tokens": 33002,
+    "cached_tokens": 64896,
+    "cache_write_tokens": 0,
+    "output_tokens": 4206,
+    "seconds": 36.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0153
+  }
+}

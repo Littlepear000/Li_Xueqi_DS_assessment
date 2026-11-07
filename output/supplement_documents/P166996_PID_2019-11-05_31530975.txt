@@ -1,0 +1,756 @@
+﻿          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+
+
+                   Combined Project Information Documents /
+                   Integrated Safeguards Datasheet (PID/ISDS)
+
+
+                    Appraisal Stage | Date Prepared/Updated: 04-Nov-2019 | Report No: PIDISDSA26829
+
+
+
+
+Jun 07, 2019                                                                                          Page 1 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                            Project ID                  Project Name                  Parent Project ID (if any)
+   Ghana                              P166996                     Ghana Jobs and Skills
+                                                                  Project
+   Region                             Estimated Appraisal Date    Estimated Board Date          Practice Area (Lead)
+   AFRICA                             20-Sep-2019                 10-Dec-2019                   Social Protection & Jobs
+
+   Financing Instrument               Borrower(s)                 Implementing Agency
+   Investment Project Financing       Republic of Ghana           Ministry of Finance,
+                                                                  Ministry of Employment
+                                                                  and Labor Relations,
+                                                                  Council for Technical and
+                                                                  Vocational Education and
+                                                                  Training, National Board
+                                                                  for Small Scale Industries,
+                                                                  Ministry of Environment,
+                                                                  Science, Technology and
+                                                                  Innovation
+
+   Proposed Development Objective(s)
+
+   The Development Objective is to support skills development and job creation in Ghana
+
+   Components
+   Component 1: Provision of Apprenticeship Training for Jobs
+   Component 2: Provision of Entrepreneurship and Small and Micro Enterprise Support for Jobs
+   Component 3: Operationalization of the Ghana LMIS, Upgrading of District Public Employment Centers and Services,
+   and Independent Reviews of Government Youth Employment & Skills Development Programs
+   Component 4: Capacity Development, Technical Assistance, and Project Management Support for Enhanced Skills and
+   Jobs Impact
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+  SUMMARY      -NewFin1
+
+
+
+
+   Total Project Cost                                                                                               200.00
+   Total Financing                                                                                                 200.00
+               of which IBRD/IDA                                                                                   200.00
+
+Jun 07, 2019                                                                                                      Page 2 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+
+   Financing Gap                                                                                                                0.00
+
+
+  DETAILS      -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Development Association (IDA)                                                                             200.00
+         IDA Credit                                                                                                           200.00
+
+   Environmental Assessment Category
+   B-Partial Assessment
+
+   Decision
+   The review did authorize the team to appraise and negotiate
+
+
+
+
+   Other Decision (as needed)
+
+
+   B. Introduction and Context
+
+   Country Context
+
+           1.      The Republic of Ghana, with a population of about 30 million, is classified as lower-middle-income
+           with a per capita income of US$4,212 (in 2011 PPP dollars) in 2018. Ghana achieved its current income
+           status through strong, sustained economic growth. The country’s per capita national income grew by an
+           average of 4.8 percent per year between 1993 and 2005, by 7.7 percent per year between 2005 and 2012
+           (peaking at 14.4 percent in 2011), and by 5.6 percent between 2012 and 2016. Ghana’s economic growth
+           performance during the 2000s is mainly attributed to the sharp increase in prices for its main commodity
+           exports, cocoa and gold, and the start of commercial oil and gas production in 2011.
+
+           2.       The country’s favorable economic growth performance has been accompanied by a substantial
+           reduction in the prevalence of poverty. Based on the national food poverty line, the extreme poverty rate
+           fell from 36 percent in 1991/92 to 16.5 percent in 2005/06 to 8.4 percent in 2012/13, allowing Ghana to
+           meet the United Nations Millennium Development Goal of halving poverty by 2015. Its current extreme
+           poverty rate, measured in 2016/17, is 8.2 percent. In terms of micro determinants, the reduction in
+           poverty is found to be associated with increases in employment, agricultural income, access to electricity,
+           education attainment, and rainfall. It is also associated with a shift in employment from agriculture to
+           industry and services.
+
+           3.                Ghana’s poverty reduction story is however not without some concern, in three respects. First,
+
+
+Jun 07, 2019                                                                                                             Page 3 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+           the pace of poverty reduction has slowed over time. Second, the association between economic growth
+           and poverty reduction has weakened over time. Third, the poverty reduction record varies substantially
+           by the country’s regions, corresponding with spatial differences in economic activity and output. In some
+           regions, poverty rates have remained persistently high.
+
+           4.      The inequality and shared prosperity picture also exhibits some concern. Income inequality in
+           Ghana has risen over the 1990s and 2000s, driven by poorer regions in the country. Measured in 2016/17,
+           Ghana has a Gini index value of income of 0.43 and the poorest 40 percent of the country’s population
+           receive 26 percent of national income. Consistent with rising income inequality, growth in average
+           consumption spending of the country’s total population was higher than for the poorest 40 percent of the
+           population over the 1990s and 2000s. These trends suggest that Ghana’s gains in prosperity have not been
+           progressive.
+
+           5.      To raise and sustain its economic growth performance, the country would need to (i) increase
+           private investment and productivity; (ii) have stronger macroeconomic policy management, which
+           includes increased domestic revenue mobilization and improved public debt management; and (iii)
+           protect against possible volatility in its economic growth, which, in the past, has been mainly driven by
+           fluctuations in global commodity prices and by increased public spending tied to election cycles.
+
+           6.       Stronger future performance in poverty reduction and shared prosperity gains would require (i)
+           diversifying the economy (away from natural resources and commodities), (ii) raising labor productivity
+           (overall labor productivity growth has changed little over time), and (iii) providing improved jobs to poorer
+           households.
+
+
+   Sectoral and Institutional Context
+
+
+           7.       Ghana’s labor force has been expanding rapidly, from 6.5 million in 1993 to 12.1 million in 2017
+           and it is expected to continue to grow. The sectoral distribution of national income has shifted from
+           agriculture to mainly services. Accompanying this trend, the country’s sectoral distribution of employment
+           has also shifted from agriculture to mainly services. Today, services dominate in terms of their
+           contribution to national income and employment. Measured in 2017, agriculture, industry, and services
+           accounted for 18.3 percent, 25.5 percent, and 56.2 percent of national income, respectively. Similarly, in
+           2016, agriculture, industry, and services accounted for 41 percent, 14 percent, and 45 percent of total
+           employment, respectively. The value-added per worker is currently twice as high in services than in
+           agriculture, but the productivity levels in these two sectors have stagnated over the 2000s. Value-added
+           per worker in industry has increased over time and is now 50 percent higher than in services. All these
+           trends are driven in part by a dramatic shift in the population distribution toward urban areas.
+
+           8.      Ghana’s labor market shows signs of weakness. Youth, officially defined in the country as
+           individuals ages 15-35, are characterized by low secondary school completion rates; high unemployment
+           rates, particularly among women, urban youth, and poorer individuals (i.e., individuals in the poorest 40
+           percent of consumption spending); and high rates of time-based underemployment, particularly in rural
+           areas and among poorer individuals. Those in the poorest 40 percent and in rural areas are more likely to
+
+
+Jun 07, 2019                                                                                                          Page 4 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+           be engaged in agriculture whereas women are more likely to engaged in industry than men. The type of
+           jobs also varies between urban and rural areas. Informal sector jobs and agribusiness account for 61.5
+           percent and 18.7 percent in urban areas, respectively; while in rural areas they account for 23.3 percent
+           and 72.1 percent, respectively. Public sector jobs constitute 5.9 percent of jobs and are found mostly in
+           urban area.
+
+           9.       The vast majority of Ghanaians are self-employed. In 2016/17, 84 percent of the working-age
+           population and 85 percent of youth were self-employed. Among the poorest 40 percent of the population,
+           the rate of self-employment is even higher, at 95 percent. The positive association between self-
+           employment status and poverty status indicates that these activities are often not productive and gainful
+           enough to lift individuals out of poverty. While the population is shifting over time from agriculture to
+           industry and services (the share in agriculture fell from 57 percent in 1991 to 34 percent in 2018), the shift
+           in the population from self-employment to wage employment has been less than commensurate.
+           Additionally, most of the growth in wage employment over time has been primarily in low-wage
+           employment. Improving the economic circumstances of the typical Ghanaian will require homing in on
+           individuals with lower levels of education in disadvantaged labor market statuses such as labor market
+           discouragement, unemployment, time-based underemployment, and self- or wage employment with low
+           earnings. Developing the skills of such individuals and helping them engage in more productive, more
+           gainful employment would be the most direct way of reducing poverty and boosting shared prosperity in
+           the country.
+
+           10.     The labor market for youth is also characterized by gender and geographic disparities. Women
+           and rural residents have lower secondary school completion rates. Less than 12 percent of women are in
+           wage employment, compared to 20 percent for men. Overall, whether self- or wage employed, women
+           tend to work in income-generating activities with lower labor productivity and earn less than men.
+           Reflecting the country’s spatial distribution of poverty, more than half of wage workers in formal
+           enterprises are in Accra and larger urban areas.
+
+           11.    Traditional apprenticeship training is a major source of skill acquisition, especially for youth who
+           have low levels of education and come from poorer households. In 2016/17, the participation rate in
+           apprenticeship training was 27 percent, and the average length of training was 2.5 years. Eighty-five
+           percent of apprenticeship training participants had less than nine years of schooling, and thirty-five
+           percent came for the poorest 40 percent of the population. In comparison, the participation rate in TVET
+           programs (that is, the formal TVET sector) was much lower, at 17 percent. In addition, ninety-five percent
+           of TVET program participants had more than nine years of education (as expected given education
+           completion requirements for TVET program participation), and eighty-four percent came from the richest
+           60 percent.
+
+           12.     The predominance of low-productivity employment activities stems partly from a substantial
+           proportion of youth going through low-quality informal apprenticeship training. Close to half a million
+           people are engaged in informal apprenticeship training, compared to 40 thousand people in the formal
+           TVET system. Most people trained in informal apprenticeships do not benefit from quality training.
+           Informal apprentices depend on the limited knowledge and willingness of the master craft person to train
+           and are limited in their learning by the narrow range of services that the master craft person provides.
+
+
+
+Jun 07, 2019                                                                                                           Page 5 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+           13.      Despite the poor quality of existing informal apprenticeship training, families seem nevertheless
+           to value apprenticeships, as indicated by families and/or apprentices usually paying a fee to the master
+           craft person in exchange for on-the-job training. Given the large number of youth entering into
+           apprenticeship training agreements each year, improved apprenticeship training can lead to appreciable
+           gains for both apprentices and training enterprises. International best practice suggests that the quality
+           of the training can be improved by covering both apprentices and training enterprises. The knowledge of
+           master craft persons should be upgraded and certified; a dual training system combining on-the-job
+           training with classroom training should be introduced to allow the apprentice to acquire trade-specific
+           vocational and socioemotional skills; the skills of apprentices should be certified; and training providers
+           in the process should be accredited. The whole process should ensure that incentives of apprentices,
+           master craft persons, and training providers are aligned, and that training is provided in accordance with
+           standards.
+
+           14.      Weak support systems for entrepreneurship and small business development also contribute to
+           poor labor market outcomes in Ghana. In addition to low skill levels, youth face higher barriers to self-
+           employment stemming from their lack of access to finance, land, social networks, and other factors
+           compared to older adults. There are also intermediation constraints related to the lack of relevant, up-to-
+           date, and actionable labor market information. According to the 2015 Ghana Labor Force Survey, internet-
+           based and other intermediation tools are barely used by job seekers. Among people who actively searched
+           for work, more than two-fifths contacted friends and relatives for information. Fewer than 5 percent of
+           respondents indicated that they searched the internet or newspaper advertisements or used formal
+           employment services. The MELR is developing a LMIS that would provide the needed information on labor
+           market conditions, including on job seekers and job opportunities, with the potential to serve as the
+           primary basis for improved job intermediation services. The first phase of the development of the Ghana
+           LMIS (or GLMIS) has been completed with the basic software in place. District PECs managed by MELR,
+           have a key role to play in gathering and inputting the needed labor market information into the GLMIS as
+           well as in providing job connection services. The PECs are however in poor condition in terms of
+           infrastructure and resources and their staff are oriented towards labor inspections instead of labor market
+           information and job connection services.
+
+           15.     The Government Strategy for Technical and Vocational Education and Training Transformation
+           sets out the landscape for formal and informal sector skill training in Ghana. The strategy developed by
+           COTVET and the MOE identifies key challenges confronting skill training, which include poor linkages
+           between training providers and industry, fragmentation and poor coordination among multiple delivery
+           agencies, multiplicity of parallel standards, inadequate testing and certification, low quality of instruction,
+           and poor perception of skill training. COTVET’s five-year strategic plan (2018-2023) aims to improve
+           access, quality, financing, and coordination of skill training. A key element in the plan for financing skill
+           training in private enterprises is the SDF which currently exists as a development partner funded
+           operation. The government aims to situate the SDF within a legal framework to ensure sustainability with
+           funding contributions from the private sector and government.
+
+           16.      Almost all youth employment programs in the country contain some form of entrepreneurship
+           training. The Student Entrepreneurship Business Model, initiated by COTVET, aims at enhancing
+           professional and entrepreneurship skills for TVET students. There are 13 TVET institutions currently
+           administering this training. The Graduate Entrepreneurial Business Support Scheme, under MELR,
+
+
+Jun 07, 2019                                                                                                            Page 6 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+           operates a public-private partnership modality and aims at supporting graduates to successfully enter
+           self-employment. Finally, a wide range of entrepreneurship training programs are administered by the
+           NBSSI. NBSSI, enacted in 1981 and operationalized in 1985, is the apex governmental body for the
+           promotion and development of the micro and small enterprise sector in Ghana. The government views
+           the sector as having the potential to contribute substantially to improving labor outcomes and economic
+           productivity and growth.
+
+           17.     Recently, the government launched the Coordinated Programme of Economic and Social
+           Development Policies (2017-2024): An Agenda for Jobs: Creating Prosperity and Equal Opportunity for All,
+           which emphasizes the need for greater creation of jobs that are gainful and productive. Other more
+           specific policies introduced by the government in the past decade to address poor labor market
+           circumstances include the National Employment Policy and the National Youth policy; as well as the
+           development of acts to legalize certain agencies such as the Youth Employment Agency and National
+           Youth Authority. These agencies are mandated to formulate policies and implement programs that
+           promote youth development and the effective participation of the youth in the economic development
+           of the country.
+
+           18.     The government continues to invest heavily in several employment programs, with the majority
+           focusing on youth. An inventory of youth employment programs in Ghana compiled in 2016 by the World
+           Bank revealed 40 major youth employment programs, of which 18 programs are implemented by the
+           government. These youth employment programs focus on TVET training, entrepreneurship training,
+           apprenticeship training, employment services, and direct employment. Initial reviews of government
+           youth employment and skills development programs, including the World Bank, raise concern about their
+           performance and impact.
+
+
+   C. Proposed Development Objective(s)
+
+  Development Objective(s) (From PAD)
+
+           19.       The Development Objective is to support skills development and job creation in Ghana.
+
+
+
+   Key Results
+
+                 (a) Indicator #1: Percentage of apprenticeship training program participants that complete the
+                     program and have jobs at least six months after completion
+                 (b) Indicator #2: Percentage of entrepreneurship program participants that complete the program
+                     and have jobs at least six months after completion
+                 (c) Indicator #3: Percentage of grant-receiving private enterprises that have increased workforces at
+                     least six months after the completion of grant support
+                 (d) Indicator #4: Number of upgraded Public Employment Centers that provide improved job
+                     connection services
+
+
+
+
+Jun 07, 2019                                                                                                        Page 7 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+   D. Project Description
+
+           20.    The project supports the government’s prioritized skills development and job creation agenda,
+           through four components:
+
+                   a. Component 1: Provision of Apprenticeship Training for Jobs
+                   b. Component 2: Provision of Entrepreneurship and Small and Micro Enterprise (SME) Support for
+                      Jobs
+                            i. Sub-Component 2.1: Provision of Entrepreneurship Training and Competitive Business
+                               Start-Up Grants
+                           ii. Sub-Component 2.2: Provision of Competitive Grants to Private Enterprises for
+                               Expanded Employment
+                   c. Component 3: Operationalization of the Ghana Labor Market Information System, Upgrading of
+                      District Public Employment Centers and Services, and Independent Performance Reviews of
+                      Selected Government Youth Employment and Skills Development Programs
+                            i. Sub-Component 3.1: Full Development and Operationalization of the Ghana Labor
+                               Market Information System
+                           ii. Sub-Component 3.2: Upgradation of District Public Employment Centers and Provision
+                               of Improved Job Connection and Labor Market Information Services to Job Seekers and
+                               Employers
+                          iii. Sub-Component 3.3: Independent Performance Reviews of, and Technical Assistance
+                               for, Reforming Selected Government Youth Employment and Skills Development
+                               Programs
+                   d. Component 4: Capacity Development, Technical Assistance, and Project Management Support
+                      to Coordinating, Implementing, and Partnering Agencies for Enhanced Skills and Jobs Impact
+                            i. Sub-Component 4.1: Capacity Development and Technical Assistance
+                           ii. Sub-Component 4.2: Project Management Support
+
+           21.         The primary target groups for the project are:
+
+                 (a)   Individuals seeking skills and jobs
+                 (b)   Master craft persons
+                 (c)   Cooperatives and associations
+                 (d)   Private enterprises and their workforces
+                 (e)   Public and private training providers
+                 (f)   Council for Technical and Vocational Education and Training (COTVET); Ministry of Employment
+                       and Labor Relations (MELR); Ministry of Environment, Science, Technology, and Innovation
+                       (MESTI); and National Board for Small Scale Industries (NBSSI) (NBSSI)/Ministry of Trade and
+                       Industry (MOTI).
+
+
+
+   E. Implementation
+
+   Institutional and Implementation Arrangements
+
+
+Jun 07, 2019                                                                                                     Page 8 of 16
+            The World Bank
+            Ghana Jobs and Skills Project (P166996)
+
+
+             22.     The project is multi-sectoral, with multiple ministries and agencies partnering on project activities.
+             This necessitates an encompassing arrangement, with a nodal authority. The overall institutional
+             arrangements for coordinating, overseeing, and managing project activities comprise (i) a Project Inter-
+             Ministerial Oversight Committee, (ii) a Project Coordinating Unit, (iii) a Project Technical Committee, and
+             (iv) implementing and partnering agencies. The government sees this arrangement as efficient and
+             pragmatic, and as providing for due diligence.
+
+             23.      Project Inter-Ministerial Oversight Committee: The primary function of the committee would be
+             to (i) review project status, progress, and performance, (ii) help ensure inter-ministry and inter-agency
+             cooperation, and (iii) resolve any outstanding project implementation issues. Members of the committee
+             would comprise of the Ministers of Education; Employment and Labor Relations; Environment, Science,
+             Technology, and Innovation; Finance; and Trade and Industry.
+
+             24.     Project Coordinating Unit: The primary functions of the unit will be to (i) convene and support
+             oversight committee meetings; (ii) prepare consolidated project status, progress, and performance
+             reports for the oversight committee and the World Bank; (iii) coordinate across implementing and
+             partnering ministries and agencies; and (iv) undertake due diligence and ensure quality assurance of, and
+             accountability for, project implementation, including of financial management, procurement, and
+             safeguards. The coordinating unit will be managed by the Ministry of Finance.
+
+             25.   Project Technical Committee: This committee will be composed of officials from all coordinating,
+             implementing, partnering agencies, COTVET, MELR, MESTI, MOF, and NBSSI. The main function of this
+             committee will be to supervise and advise on technical aspects of project implementation.
+
+             26.     Project Implementing and Partnering Agencies: The main implementing agencies are COTVET,
+             NBSSI, and MELR. The main partnering agency is MESTI. Implementing agencies will be primarily
+             responsible for implementation of project activities that fall under their respective purviews, comprising
+             all elements including financial management, procurement, safeguards, monitoring and evaluation,
+             capacity development and technical assistance, and research and analysis.
+
+
+
+
+      KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+
+
+  .
+      F. Project location and Salient physical characteristics relevant to the safeguard analysis (if known)
+
+      Specific project locations are yet to be determined
+
+
+
+
+Jun 07, 2019                                                                                                             Page 9 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+   G. Environmental and Social Safeguards Specialists on the Team
+
+   Edward Felix Dwumfour, Environmental Specialist
+   Franklin Kuma Kwasi Gavu, Environmental Specialist
+   Alidu Babatu Adam, Social Specialist
+   Justice Odoiquaye Odoi, Environmental Specialist
+   Sarah Antwi Boasiako, Social Specialist
+
+
+
+
+   SAFEGUARD POLICIES THAT MIGHT APPLY
+
+   Safeguard Policies                          Triggered?           Explanation (Optional)
+                                                                    The category for this project is a “B�?. OP 4.01 was
+                                                                    triggered to address the potential risks and impacts
+                                                                    from the following activities: (i) provision of
+                                                                    competitive business start-up capital grants to
+                                                                    individuals that receive entrepreneurship training
+                                                                    under sub-component 2.1; (ii) provision of
+                                                                    competitive grants to private enterprises under sub-
+                                                                    component 2.2; (iii) installation of information and
+                                                                    communication technology for the Ghana Labor
+                                                                    Market Information System at Public Employment
+                                                                    Centers, other relevant local centers, and relevant
+                                                                    ministries and agencies under project component
+                                                                    3.1, and (iv) upgradation of selected Public
+                                                                    Employment Centers under sub-component 3.2.
+                                                                    An Environmental and Social Management
+  Environmental Assessment OP/BP 4.01          Yes
+                                                                    Framework (ESMF) was prepared and disclosed in-
+                                                                    country and the infoshop for the attention of the
+                                                                    public. The ESMF sets out the principles, rules,
+                                                                    guidelines and procedures for the implementation of
+                                                                    such sub-projects. The World Bank Group EHS
+                                                                    guidelines have also been incorporated in the ESMF
+                                                                    to provide guidance for health and safety issues for
+                                                                    the refurbishment activities.
+
+
+
+
+Jun 07, 2019                                                                                                  Page 10 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+
+
+  Performance Standards for Private Sector
+                                               No
+  Activities OP/BP 4.03
+                                                                   Refurbishment of existing infrastructure will not
+  Natural Habitats OP/BP 4.04                  No
+                                                                   have adverse impact on the natural habitat.
+                                                                   Refurbishment of existing infrastructure will not be
+  Forests OP/BP 4.36                           No
+                                                                   undertaken within protected forest reserves.
+                                                                   Project will not support any activities involving the
+  Pest Management OP 4.09                      No
+                                                                   use or procurement of pesticides.
+                                                                   Refurbishment of existing infrastructure will not
+  Physical Cultural Resources OP/BP 4.11       No
+                                                                   involve excavations or physical cultural resources
+                                                                   No indigenous people as defined by the Bank in
+  Indigenous Peoples OP/BP 4.10                No
+                                                                   Ghana.
+                                                                   Expected refurbishment activities will only involve
+  Involuntary Resettlement OP/BP 4.12          No
+                                                                   existing infrastructure
+  Safety of Dams OP/BP 4.37                    No                  The project activities do not involve dams.
+  Projects on International Waterways                              The project will not occur on international
+                                               No
+  OP/BP 7.50                                                       waterways.
+  Projects in Disputed Areas OP/BP 7.60        No                  The project will not occur in disputed areas.
+
+
+
+   KEY SAFEGUARD POLICY ISSUES AND THEIR MANAGEMENT
+
+   A. Summary of Key Safeguard Issues
+
+  1. Describe any safeguard issues and impacts associated with the proposed project. Identify and describe any potential
+  large scale, significant and/or irreversible impacts:
+  The proposed project is classified as Category B (partial assessment) since it involves: (i) provision of competitive
+  business start-up capital grants to individuals that receive entrepreneurship training under sub-component 2.1; (ii)
+  provision of competitive grants to private enterprises under sub-component 2.2; (iii) installation of information and
+  communication technology for the Ghana Labor Market Information System at Public Employment Centers, other
+  relevant local centers, and relevant ministries and agencies under project component 3.1, and (iv) upgradation of
+  selected Public Employment Centers under sub-component 3.2.
+  Potential environmental risks and impacts may include noise nuisance, dust from works, health and safety of workers
+  and the public, visual intrusion, as well as generation and disposal of solid waste. As a result, the Environmental
+  Assessment OP/BP 4.01 policy was triggered to provide the appropriate guidelines for the assessment and
+  management of environmental impacts. On social issues, the project is expected to generate positive outcomes by
+  enhancing skill sets of trainees and apprentices, increasing the competitiveness of entrepreneurs through grants, and
+  creating jobs. Compulsory land acquisition and involuntary resettlement are not expected because investments are
+  limited to land owned by beneficiary institutions and grant awardees and free of incumbrances. Potential social risks
+  may include the tendency to undertake limited consultation and exclusion of vulnerable groups from project benefits.
+  To address these risks, the borrower has prepared a stakeholder engagement plan to ensure adequate information
+  sharing and engagement of relevant stakeholders.
+
+
+Jun 07, 2019                                                                                                    Page 11 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+  2. Describe any potential indirect and/or long term impacts due to anticipated future activities in the project area:
+  The proposed project activities may not have any indirect and/or long-term impacts because the environmental and
+  social screening process as outlined in the ESMF will enable sub-project implementers to identify, assess, mitigate, and
+  monitor potential adverse environmental and social impacts.
+
+  3. Describe any project alternatives (if relevant) considered to help avoid or minimize adverse impacts.
+  Analysis of alternatives will be conducted as part of the sub-project environmental and social impact screening during
+  project implementation. The project’s approach will always seek to prevent, avoid, minimize, and mitigate any adverse
+  impacts. The alternatives to be considered will include the location of the Public Employment Centers identified,
+  rehabilitation procedures, source of building materials, energy and water consumption. Sub-projects requiring land
+  acquisition and displacement are not eligible for support.
+
+  4. Describe measures taken by the borrower to address safeguard policy issues. Provide an assessment of borrower
+  capacity to plan and implement the measures described.
+  To ensure that the project is implemented in an environmentally and socially sustainable manner, the borrower has
+  prepared and disclosed an ESMF. the ESMF provides guidance and procedures for environmental and social due
+  diligence, impact assessments, and mitigation planning once the sub-project activities have been confirmed and Public
+  Employment Centers identified during implementation. The ESMF includes tools for conducting environmental and
+  social screening for each sub-project activity to determine specific risks mitigation instruments that may be relevant
+  for addressing notable risks. The borrower is mandated to prepare, publicly disclose, and implement sub-project level
+  Environmental and Social Impact Assessments and Environmental and Social Management Plans as needed prior to
+  commencement of any civil works.
+  To ensure effective implementation of the ESMF, the project will recruit and train among other expertise, substantive
+  environmental and social safeguards specialists at the Council for Technical and Vocational Education and Training and
+  the Ministry of Employment and Labor Relations, to be supported by safeguards focal persons at the Ministry of
+  Environment, Science, Technology, and Innovation and the National Board for Small Scale Industries. The project will
+  also benefit from the Ghana Environment Protection Agency with offices in Accra and in the original 10 regional
+  capitals.
+
+
+
+  5. Identify the key stakeholders and describe the mechanisms for consultation and disclosure on safeguard policies,
+  with an emphasis on potentially affected people.
+  The ESMF was prepared in compliance with both national regulations and Bank safeguard policies with a broad
+  participatory consultation process with all relevant stakeholder groups. The national consultations involved meetings
+  with officials of the Ministry of Finance; Ministry of Employment and Labor Relations; Council for Technical and
+  Vocational Education and Training; National Board for Small Scale Industries; and the Ministry for Environment,
+  Science, Technology, and Innovation.
+
+  The local consultations included meetings with officials of selected Public Employment Centers, Training Coordinators,
+  Master Crafts Persons of the Association of Garages and Ghana Cooperative Fashion Designers Association, both
+  under the Ghana TVET Voucher Project. Ahead of appraisal, the borrower and the Bank consulted the Ghana
+  Federation of Disability Associations to disclose critical information about the potential benefits and impacts of the
+  project. The borrwer has also developed a Stakeholder Engagement Plan and will roll out a Grievance Redress
+  Mechanism to ensure consultation occurs throughout the project life. The ESMF was disclosed in Ghana on July 12,
+  2019.
+
+Jun 07, 2019                                                                                                    Page 12 of 16
+                         The World Bank
+                         Ghana Jobs and Skills Project (P166996)
+
+
+
+
+          B. Disclosure Requirements
+
+            OPS_EA_DISCLOSURE_TABLE
+            Environmental Assessment/Audit/Management Plan/Other
+                                                                                            For category A projects, date of
+                Date of receipt by the Bank             Date of submission for disclosure   distributing the Executive Summary of
+                                                                                            the EA to the Executive Directors
+                12-Jul-2019                             12-Jul-2019
+
+                "In country" Disclosure
+                  Ghana
+                 12-Jul-2019
+                   Comments
+
+
+
+          C. Compliance Monitoring Indicators at the Corporate Level (to be filled in when the ISDS is finalized by the project
+          decision meeting)
+
+ OPS_EA_COMP_TABLE
+  OP/BP/GP 4.01 - Environment Assessment
+
+          Does the project require a stand-alone EA (including EMP) report?
+          No
+ OPS_ PDI_ COMP_TAB LE
+
+
+
+
+          The World Bank Policy on Disclosure of Information
+
+
+          Have relevant safeguard policies documents been sent to the World Bank for disclosure?
+          Yes
+          Have relevant documents been disclosed in-country in a public place in a form and language that are understandable
+          and accessible to project-affected groups and local NGOs?
+          Yes
+
+
+
+
+Jun 07, 2019                                                                                                            Page 13 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+  All Safeguard Policies
+
+
+   Have satisfactory calendar, budget and clear institutional responsibilities been prepared for the implementation of
+   measures related to safeguard policies?
+   Yes
+   Have costs related to safeguard policy measures been included in the project cost?
+   Yes
+   Does the Monitoring and Evaluation system of the project include the monitoring of safeguard impacts and measures
+   related to safeguard policies?
+   Yes
+   Have satisfactory implementation arrangements been agreed with the borrower and the same been adequately
+   reflected in the project legal documents?
+   Yes
+
+
+
+   CONTACT POINT
+
+   World Bank
+
+   Dhushyanth Raju
+   Lead Economist
+
+   Eunice Yaa Brimfah Ackwerh
+   Senior Education Specialist
+
+   Borrower/Client/Recipient
+   Republic of Ghana
+
+
+
+
+   Implementing Agencies
+   Ministry of Finance
+   Sauda Ahmed
+   Director
+   sahmed@mofep.gov.gh
+
+
+   Franklin Ashiadey
+   Principal Economist
+   franklinashiadey@gmail.com
+
+   Ministry of Employment and Labor Relations
+
+Jun 07, 2019                                                                                                    Page 14 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+   Emma Ofori-Agyeman
+   Director, PPME
+   emmaoforiagyemang912@gmail.com
+
+   Council for Technical and Vocational Education and Training
+   Fred Kyei Asamoah
+   Executive Director, COTVET
+   fkasamoah@cotvet.gov.gh
+
+   National Board for Small Scale Industries
+   Kosi Yankey
+   Executive Director
+   kosi.yankey@gmail.com
+
+   Ministry of Environment, Science, Technology and Innovation
+   Adelaide Asante
+   Ag. Director, STI
+   adelaide.asante@mesti.gov.gh
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+   APPROVAL
+
+
+                                          Dhushyanth Raju
+   Task Team Leader(s):
+                                          Eunice Yaa Brimfah Ackwerh
+
+   Approved By
+
+   Safeguards Advisor:
+
+   Practice Manager/Manager:              Iffath Sharif                04-Nov-2019
+
+   Country Director:                      Agata Pawlowska              05-Nov-2019
+
+
+
+
+Jun 07, 2019                                                                         Page 15 of 16
+          The World Bank
+          Ghana Jobs and Skills Project (P166996)
+
+
+
+
+Jun 07, 2019                                        Page 16 of 16
+

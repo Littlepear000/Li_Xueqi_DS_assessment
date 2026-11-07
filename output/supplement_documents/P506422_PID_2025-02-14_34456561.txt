@@ -1,0 +1,512 @@
+﻿    The World Bank
+    FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                 Project Information Document (PID)
+
+                Concept Stage | Date Prepared/Updated: 14-Feb-2025 | Report No: PIDDC01156
+     The World Bank
+     FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                   Operation Name
+Marshall Islands,              P506422                        FSM and RMI: Implementation Capacity for
+Micronesia, Federated                                         Transformative Results (IMPACT)
+States of
+Region                         Estimated Appraisal Date       Estimated Approval Date       Practice Area (Lead)
+EAST ASIA AND PACIFIC          12-Mar-2025                    22-Apr-2025                   Environment, Natural
+                                                                                            Resources & the Blue
+                                                                                            Economy
+Financing Instrument           Borrower(s)                    Implementing Agency
+Investment Project             Republic of Marshall           Department of Finance and
+Financing (IPF)                Islands, Federated States of   Administration, Ministry of
+                               Micronesia                     Finance
+
+Proposed Development Objective(s)
+To strengthen institutional capacity and enhance technical skills for improved performance of development projects in
+RMI and FSM
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                     No
+Is this project Private Capital Enabling (PCE)?               No
+
+SUMMARY
+  Total Operation Cost                                                                                         15.00
+
+  Total Financing                                                                                              15.00
+             of which IBRD/IDA                                                                                 15.00
+  Financing Gap                                                                                                    0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+
+                                                                                                                    Page 1
+       The World Bank
+       FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+      International Development Association (IDA)                                                                 15.00
+        IDA Grant                                                                                                 15.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                   Concept Review Decision
+Low                                                            The review did authorize the preparation to continue
+
+
+
+
+B. Introduction and Context
+
+Country Context
+
+ 1. The Republic of the Marshall Islands (RMI) and the Federated States of Micronesia (FSM) are defined by their
+    extreme remoteness, small size and geographic dispersion. RMI consists of 29 coral atolls and five isolated islands
+    in the Western and Central Pacific Ocean (WCPO), with a total land area of 181 square kilometers (km²) and an
+    Exclusive Economic Zone (EEZ) of just under 2 million km², making it the 19th largest EEZ in the world. FSM is an even
+    more widely dispersed, and overall larger, archipelagic nation in the WCPO, comprising over 600 islands stretching
+    2,700 km² from West to East, and organized into four semi-autonomous states: Pohnpei, Chuuk, Yap, and Kosrae.
+    FSM's total land area is 702 km² and its EEZ is the 14th largest in the world, covering approximately 3 million km²,
+    including some of the most productive tuna fishing grounds in the WCPO. The geographic dispersion and remoteness
+    results in the high costs of public administration and the uneven availability of quality public services.
+
+ 2. Both countries are classified as fragile countries due to limited state capacity, and exposure to natural disasters
+    and climate change. The fragility in RMI and FSM arise from their extreme geography and limited economic viability,
+    thin institutional capacity, urbanization and youth unemployment, poor land governance, and gender-based
+    violence. RMI also has high levels of Gender-Based Violence (GBV), straining social stability. FSM faces additional
+    challenges relating to its particularly thin institutional capacity. There is also high exposure to frequent and
+    damaging natural hazards however both islands have low capacity to manage the ensuing risks. Vulnerability is
+    exacerbated by the lack of technical capacity for adequate disaster preparedness and mitigation, and by climate
+    change, which is predicted to amplify the magnitude of cyclones, droughts, and flooding. Addressing these
+    challenges is therefore essential for building resilience and supporting sustainable development in both countries.
+
+ 3. RMI and FSM populations are declining because of relatively high rates of migration to the USA. Both countries
+    have a Compact of Free Association with the USA that provides annual financial transfers. The Compact has also,
+    since independence in 1986, offered RMI and FSM open migration to the USA as well as financial support and access
+    to various US federal services and programs. This open access to the USA contributes to relatively high migration
+    and depopulation. RMI's population is estimated at 41,996 as of 2023, concentrated mainly in the capital, Majuro,
+    and the island of Ebeye. This reflects a notable decline from 51,352 in 2013. The population of FSM is estimated at
+    about 115,224 in 2023 and is expected to have declined based on the latest Census. The declining population in
+    both countries reflect an important demographic trend, which has exacerbated the capacity constraints.
+
+
+                                                                                                                      Page 2
+           The World Bank
+           FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+     4. RMI and FSM face significant economic challenges characterized by low growth rates, external vulnerabilities,
+        and dependence on foreign aid. FSM is a lower middle-income country with a Gross National Income (GNI) of
+        US$4,250 per capita in 2023 and RMI is an upper middle-income country with a GNI of US$7,860 per capita in 2023.
+        Over the past 15 years, RMI's real Gross Domestic Product (GDP) has grown at an average rate of 1.8 percent per
+        year, a modest pace by global standards and marked by significant volatility. FSM, however, faces even more
+        pronounced economic challenges, with an average annual growth rate of just 0.6 percent over the same period.
+        FSM’s economy stagnated during 2022 and 2023, with no recorded growth, but is expected to recover modestly to
+        1.1 percent in 2024, driven by an increase in public wages and the resumption of infrastructure projects partly
+        benefitting from new Compact agreements with the USA (see further below). Both Pacific Island Countries (PICs)
+        remain highly vulnerable to external shocks, such as global commodity price fluctuations, labor shortages due to
+        outmigration, and climate-related disasters.
+
+
+    Sectoral and Institutional Context
+
+     5. Public sector capacity in PICs is stretched thin. RMI and FSM score below 3.0 on the overall Country Policy and
+        Institutional Assessment (CPIA) index and are consistently ranked below the other PICs. They also score below 3.0
+        on average for indicators measuring the quality of public sector management and institutions. Scores are particularly
+        low in RMI and FSM for dimensions of particular relevance for countries’ ability to prepare and implement projects,
+        namely: (i) Quality of Public Administration, which measures the extent to which the structure of civilian central
+        government staff supports the effective design and implementation of government policy and delivery of services;
+        and (ii) Quality of Budgetary and Financial Management, which measures, in part, the extent to which there are
+        effective financial management systems in place and timely and accurate accounting and fiscal reporting, including
+        timely and audited public accounts.
+
+
+       Table 1: Snapshot of CPIA Indicators
+                                                                         RMI                       FSM                       PIC-91
+         Indicator
+                                                                         (2023)                    (2023)                    (2023)
+         IDA Resource Allocation Index                                   2.65                      2.78                      2.9
+         CPIA Public Sector Management and
+                                                                         2.8                       2.9                       3.2
+         Institutions Cluster Average
+          - CPIA Quality of Budgetary and Financial
+                                                                         2.5                       2.5                       2.5
+              Management
+          - CPIA Quality of Public Administration                        2.0                       2.5                       2.5
+          - CPIA Transparency, Accountability, and
+                                                                         3.5                       3.5                       4.0
+              Corruption in the Public Sector rating
+
+     6. The public sector faces competition for human resources from the local private sector, development partners, as
+        well as opportunities for outward migrants. There is a scarcity of professional project managers in the Pacific which
+        makes it very difficult to fill core positions and retain expertise in the project teams. Capacity-building efforts are
+        often undermined, as staff with newly acquired skills and qualifications move to new roles in or outside the public
+        service. This includes working with other development partners such as the Asian Development Bank (ADB), United
+        Nations, Australia and New Zealand thereby retaining local capacity to support development projects. In addition,
+
+1   Average CPIA indicators for the rest of the nine Pacific Island Countries (PIC-9) where data is available (Tuvalu, Kiribati, Samoa, Tonga, Vanuatu).
+
+                                                                                                                                                     Page 3
+           The World Bank
+           FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+          RMI’s and FSM’s Compacts of Free Association (Compact) with the USA contribute significantly to a loss of skilled
+          workers with well-established migration pathways to metropolitan centers in Guam, Honolulu, and mainland USA.
+
+     7. COVID-19 further weakened capacity in the PICs. The pandemic created a greater need for transparency and
+        accountability over public spending in an increasingly constrained fiscal space. Concurrently, the pandemic
+        exacerbated PICs’ already serious shortage of domestic technical experts and project managers and diverted public
+        institutions’ attention and resources from other development priorities. These impacts were evident in the small
+        nations of RMI and FSM, where they experienced a particularly high turnover of qualified staff during the period
+        due to limited domestic economic opportunities, with many skilled international consultants leaving their posts.
+
+     8. There are often too few people to complete all the functions required in a particular ministry or department,
+        meaning that available staff are stretched across a wide range of functions. Limited technical expertise and high
+        turnover of employees in public institutions are among the most frequent problems encountered across RMI and
+        FSM, often offset by the inclusion of international experts in donor funded projects. The cost of international
+        consultants is also a relatively high expense in project budgets given the remoteness and fragility of the countries.
+        Remote islands have more challenges hiring skilled technical international consultants, and many of whom do not
+        complete their full contract term. In addition, experience has shown that the reliance on international expertise has
+        not built national capacity which is required for sustainable implementation of development projects.
+
+     9. The World Bank (WB) has implemented innovations to address capacity constraints and improve operational
+        efficiency and effectiveness in PICs. The IDA18 scale-up and the compressed IDA19 period led to a faster than
+        expected expansion of the World Bank-financed portfolio, especially in RMI, both in the number of projects and
+        value of commitments. To address the implementation support and capacity challenges, the WB financed Central
+        Implementation Units (CIUs) were implemented in 2019 in the Ministry of Finance, Banking, and Postal Services
+        (MOFBPS) of RMI, and Department of Finance and Administration (DOFA) in FSM2. Hands-on Expanded
+        Implementation Support (HEIS) for procurement was implemented in 2023 resulting in an average increase of 129%
+        in the number of contracts, 132% in the value of contracts and over 60% reduction in procurement delays across
+        both countries. The WB also implemented expanded financial management (FM) support which has resulted in a
+        moderately satisfactory FM Performance rating across the portfolios in RMI and FSM.
+
+     10. The concept of shared centralized services is still relevant and offers an important solution to improving PIC
+         government capacities. The CIUs current objectives are to (i) to strengthen institutional capacity to build systems
+         and develop a cadre of local staff to operate these systems and implement the policies / processes for the longer
+         term; and (ii) to enhance quality and timeliness of preparation and implementation WB-financed projects. They
+         comprise of local and international staff, under individual consultant contracts. These staff provide support in
+         common function areas including Procurement, Financial Management (FM), and Environmental and Social (E&S),
+         and Monitoring and Evaluation (M&E) coordinated by a Project / Program Manager. The PIUs are comprised of
+         technical Project Manager, Project Officer, administrative staff and technical consultants.
+
+     11. The recent Joint Country Portfolio Performance Reviews (CPPRs) for RMI (December 5, 2024) and FSM
+         (December 12, 2024) highlighted the multiple challenges facing the CIUs. The existing CIUs provide support and
+         capacity building for pipeline delivery and the implementation of active projects in the RMI and FSM portfolios.
+         However, there are challenges which undermine the CIUs’ effectiveness, these include (i) a lack of clear
+         performance metrics to incentivize capacity building (performance and compensation are not linked to capacity
+
+2   Similar central units are also established and financed by the WB in Kiribati, Samoa, Tonga and Tuvalu.
+
+                                                                                                                         Page 4
+     The World Bank
+     FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+    building outcomes) (ii) lack of clarity about the mandate of the CIU, which encompasses both implementation
+    support and capacity building and (iii) inefficient policies, procedures and systems (example the absence of
+    standard operating procedures). A systematic review of the two CIUs is required to identify key recommendations
+    to mitigate these challenges and scale up implementation innovations to strengthen institutional capacity and
+    build sustainable human capacity.
+
+12. The performance of the CIUs has been affected by unclear mandates and absence of standard operating
+    procedures. There is a lack of clarity in roles and responsibilities of PIUs, CIUs and Implementing Agencies. This has
+    led to significant challenges in implementation and increased the risk of implementation delays and mismanaged
+    funds in relation to donor-funded projects. Example: Overlapping division of responsibilities (Project Officer and CIU
+    doing the same function). At times the division of responsibility between the finance and line ministries with respect
+    to the CIUs has also been unclear, as well as the line between the strategic role required of the government and the
+    hands-on implementation more appropriately required of the CIUs. The absence of a clear standard operating
+    procedures (SOPs) exacerbates the confusion related to roles and responsibilities of all implementation
+    stakeholders. A comprehensive review of the CIUs’ structure, composition, processes and systems will be key to
+    improving performance.
+
+13. Changes in the operations of the CIU are needed to build an effective framework for sustainable local capacity.
+    The establishment of CIU served as pilots to build local capacity. However, there is persistent high staff turn-over
+    and experience has proven that the brain drain from both countries cannot be fully mitigated. Factors contributing
+    to the high staff turnover, include the (i) lack of a formal mechanism for workforce planning (ii) inefficient contract
+    renewal and recruitment processes (iii) lack of staff performance reviews and (iv) lack of compensation reviews.
+    Innovative solutions such as a formal knowledge transfer program (international consultants to local staff),
+    implementation of SOPs and systems to improve operational efficiency, and the creation of a pipeline of local talent
+    (by using various strategies including internships; targeting scholarships recipients; capacity building, career
+    development and competitive renumeration) are required to attract, train and retain local staff.
+
+14. CIU international specialists have de-prioritized capacity building activities for local staff in favor of preparation
+    and implementation support activities, which are often perceived as more urgent. The CIUs have not proven
+    effective in building considerable local capacity to manage government funds, in part due to the lack of a clear
+    directive for international experts to work with national staff to transfer knowledge has prohibited capacity building.
+    For example, while E&S consultants in RMI have developed a detailed capacity building plan, this was only partially
+    implemented due to local staff turnover and other demands on the E&S specialists' time. There is an urgent need
+    to identify national candidates invested in national development outcomes including strategies for engagement
+    with high school and college students to provide pathways to career development within PICs. In addition, SOPs are
+    required to ensure that international experts build the capacity to effectively manage all government and public
+    sector funds. A key action arising from the joint CPPRs is that the RMI and FSM will implement formal knowledge
+    transfer programs / capacity building in the short term (6 months).
+
+15. Need for greater accountability and transitioning of the CIU into a Central Support Unit (CSU) . The current CIUs
+    are embedded as components in investment projects. There are no indicators in the investment project’s Results
+    Framework to measure the CIU’s performance. There is also a lack of periodic reviews of the CIUs’ performance by
+    the MOFBPS in RMI and DOFA in FSM. This has contributed to the failure of the CIUs to deliver the desired level of
+    results and impact in both countries. There is an urgent need to develop a stand-alone project with a Results
+    Framework that allows for increased accountability for the performance of the CIUs. This will require an incremental
+    transition of the CIU into a CSU to resolve the ambiguity in the mandate, formalize increased hands-on support to
+
+
+                                                                                                                       Page 5
+     The World Bank
+     FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+    the PIUs and support a more focused approach to portfolio management to achieve performance targets. The
+    transition is necessary to prevent disruptions in operations and portfolio implementation, as requested by the
+    government. The CSUs will be leaner with core staff and PIUs will be strengthened with local staff (FM, Procurement,
+    E&S, Contract management and M&E). A firm will be hired to strengthen capacity and to provide surge support
+    when there is increased workload which requires additional short-term support. A mid-term review will be done by
+    the WB team to assess if this model (consultants and firm) is effective or if course correction is needed to introduce
+    a new model (example: firm only).
+
+16. The World Bank has a coordinating partnership with other development partners to share knowledge, harmonize
+    approaches and to agree on the ‘division of labor’ Close collaboration with development partners is facilitated by
+    formal and informal coordination mechanisms at the regional and individual country level. The WB works closely
+    with Australia, New Zealand, ADB, and other key development partners on macroeconomic policy and public FM
+    issues in the region. Providers of budget support to the Pacific take a coordinated approach and agree on joint policy
+    matrices to minimize the burden of required policy actions on clients. The Alternative Procurement Arrangements
+    specified under the WB Procurement Regulations allow the World Bank to rely on and apply ADB procurement rules
+    and procedures, and for ADB to take the lead in providing implementation support and monitoring of procurement
+    activities for these projects. There is also on-going “division of labor�? in key sectors such as digital and
+    transportation.
+
+
+Relationship to CPF
+
+17. The Project aligns with the World Bank Group’s Nine Pacific Island Countries (PIC9) Regional Partnership
+    Framework (PIC9 RPF) FY17–21, report #100997-EAP. The RPF was extended to FY23 by the Performance and
+    Learning Review (PLR) of The Regional Partnership Framework (report #145750-EAP) on February 6, 2022. A new
+    RPF is under preparation, which will include a stronger focus on selectivity, partnerships, and building client
+    capacities to drive results and increase development impact. The PIC9 RPF FY17-21 outlines four major focus areas,
+    which are relevant to RMI, FSM and the Project in that capacity of national governments to manage large-scale
+    projects, and development partner and donor financing will be enhanced. The focus areas addressed are (i) Focus
+    Area 1: Fully exploiting the available economic opportunities; (ii) Focus Area 2: Enhancing access to economic
+    opportunities and (iii) Focus Area 3: Protecting incomes and livelihoods; and (iv) Focus Area 4: Strengthening the
+    enablers of growth opportunities. In particular, the Project will focus on improving implementation support for
+    projects using government funds by building capacity and streamlining ministry processes, thereby improving public
+    expenditure management.
+
+18. The PLR notes that project delivery units (CIU’s) have proven to be a cost-effective innovation to the complexities
+    of delivering in the Pacific. The PLR states that the PIC9 can benefit from economies of scale through the centralized
+    implementation arrangements. It highlights that the WBG program will put special emphasis on building institutional
+    capacity and sustainable local capacity. The Project is thus aligned with Focus Area 2: Enhancing access to
+    employment opportunities and is fundamental to better delivery across the four Focus Areas.
+
+
+
+
+                                                                                                                      Page 6
+      The World Bank
+      FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+C. Proposed Development Objective(s)
+19. To strengthen institutional capacity and enhance technical skills for improved performance of development
+    projects in RMI and FSM.
+
+ Key Results (From PCN)
+ 20. PDO Level Indicators: Progress toward the achievement of the PDO will be assessed using the following PDO-level
+     results indicators:
+ (i) A system in place for continuous capacity building in WB requirements for proc, FM, E&S, Monitoring and
+     Evaluation, and Contract Management for the WB portfolio.
+ (ii) Improved performance of projects during implementation stage.
+
+
+D. Concept Description
+
+21. The Project will strengthen the institutional and human resource capacity of the implementing agencies within the
+    Governments of the RMI (GoRMI) and the FSM (GoFSM) to enhance operational efficiency and portfolio quality.
+    This will be achieved by amplifying innovative solutions to improve fiduciary, E&S, contract management and M&E
+    capacity and develop sustainable human resources. The Project consists of three components: (i) strengthening
+    institutional capacity; (ii) enhancing human capacity; and (iii) project management.
+
+   Component 1. Strengthening Institutional Capacity (Approximately US$ 9.0 million)
+
+   Sub-component 1.1: Institutional review
+
+22. This sub-component will conduct a comprehensive review of the institutional capacity of the implementation
+    agencies. Activities supported under this component include: (i) mapping the roles and responsibilities of MOFBPS/
+    DOFA in relation to CIU and other ministries implementing investment projects; (ii) reviewing the current structure
+    for CIUs and identifying gaps/overlaps in responsibilities with key government ministries for project management as
+    well as fiduciary, E&S and M&E processes; (iii) implementation of recommendations from the institutional review
+    including the transition from CIU to CSU structure, development of job descriptions, renumeration framework and a
+    performance framework to attract and retain talent; (iv) review country systems against the international best
+    practice including the environmental and social framework (ESF) for RMI and FSM to identify critical gaps and provide
+    recommendations; and (v) implement recommendations from the country system review (i.e. support for legislative
+    revisions, development of Codes of Practice). Independent consultants, excluding current CIU and PIU consultants,
+    will be hired to conduct these activities. Advanced procurement will be done during project preparation to ensure
+    that the institutional review is completed by Year 1.
+
+   Sub-component 1.2. Strengthening government capacity for project support functions.
+
+23. This sub-component will strengthen and improve the efficiency and capacity of key ministries to provide effective
+    project support by improving the operating environment as identified in sub-component 1.1 reviews. Activities
+    supported this sub-component that include: (i) consultancy to develop a revised set of streamlined processes to
+    increase efficiency (i.e. development of SOPs, guidance notes for project documents such as Project Operations
+    Manuals and procurement plans); (ii) investing in emerging technologies for innovative solutions to improve
+
+
+
+                                                                                                                     Page 7
+      The World Bank
+      FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+    operational efficiency and monitoring (Geo-Enabling initiative for Monitoring and Supervision (GEMS) and other
+    systems ); and (iii) financing the operations of the CIU and subsequent CSU.
+
+24. The transition from CIUs to CSUs will be guided by the findings and recommendations from the institutional review
+    under sub-component 1.1. It is anticipated that the two CSUs will be established and functioning by Year 2.
+    Consideration will be given to ensuring that PIU capacity is in place to manage the transition period and technical
+    surge support may be required to ensure continued project implementation. The project will complement the PFM
+    II Projects in RMI and FSM that will support improvements in financial management and procurement. Independent
+    consultants will be hired to implement these activities.
+
+
+   Component 2: Enhancing Human Capacity (Approximately US$ 5 million)
+
+25. This component will enhance technical skills for project support functions in RMI and FSM by attracting, training
+    and retaining talent. A consulting firm will be hired to conduct activities for both countries to facilitate economies of
+    scale and sharing of knowledge. The key activities of this component include; (i) development and implementation
+    of training plans by identifying skill gaps between CSU staff and job description requirements for upskilling; (ii)
+    development and implementation of a formal knowledge transfer program for international consultants to train
+    CSUs, local staff and strengthen the PIUs; (iii) attendance at courses, conferences and relevant trainings identified
+    through training plan; (iv) implementation of human resource management inclusive tools and strategies to recruit
+    and retain high calibre local staff; (v) support for graduate and vocational education for candidates identified through
+    a robust selection process to be documented in the Project Operations Manual, prioritizing staff with intent to remain
+    in / return to country; (vi) support for internships with the College of Micronesia, College of Marshall Islands,
+    government departments, PIUs and CSUs to build transferable skills; (vii) conducting awareness campaigns in high
+    schools to support and promote career pathways within country as well as providing support for fiduciary, E&S,
+    contract management and M&E training and (viii) identifying functions that can be conducted remotely and utilize
+    social media to attract potential candidates in the diaspora / or in remote islands who may be interested in remote
+    work or internships. These activities will be managed by the designated CIUs / CSUs focal points.
+
+   Component 3: Project Management (Approximately US$ 1.0 million)
+
+26. This component will cover the activities related to project management, including procurement, financial
+    management, environment and social safeguards, contract management and monitoring and evaluation. Project
+    management and supervision of the Project components will be done by the designated focal points in the CIUs /
+    CSUs. This component will also finance audits, administrative costs, technology support (ICT and M&E system),
+    operational costs and coordination between countries and activities. Support for a mid-term review (MTR) and the
+    Implementation Completion and Results Report will also be provided under this component.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+
+
+                                                                                                                        Page 8
+       The World Bank
+       FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+                      Policies                                                      Triggered?
+ Projects on International Waterways OP 7.50                                            No
+ Projects in Disputed Area OP 7.60                                                      No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+27. The project is assessed to have low environmental and social risks. The objective of the project is to support the
+    institutional and capacity building of selected ministries of the government of RMI and government of FSM to improve
+    management of public funds and expenditure realized by improved project support functions, which is to be achieved
+    by improving the performance of fiduciary, E&S and M&E management capabilities, and developing sustainable
+    human resources. The project activities are all institutional strengthening and capacity building activities and do not
+    support any civil works, nor any feasibility studies/technical design for future physical infrastructure. Therefore, the
+    project is not expected to have any direct impact on natural habitats or cultural heritage sites, nor support any activity
+    that leads to involuntary resettlement. Key risks relate to labor management of government staff and interns and
+    stakeholder engagement which will be managed via the inclusion of requirements in the Environmental and Social
+    Commitment Plan (ESCP). The ESCP will require that environmental and social considerations are integrated into
+    Terms of Reference for all project activities.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Karlene Collette Francis
+   Senior Operations Officer
+
+   Aimee Terese Hall
+   Environmental Specialist
+
+ Borrower/Client/Recipient
+  Republic of Marshall Islands
+
+  Federated States of Micronesia
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                         Page 9
+     The World Bank
+     FSM and RMI: Implementation Capacity for Transformative Results (IMPACT)(P506422)
+
+
+ Department of Finance and Administration
+ Senny Phillip
+ Assistant Secretary, Division of Investment and International Finance
+ senny.phillip@gov.fm
+
+ Ministry of Finance
+ Malie Tarbwillin
+ Assistant Secretary, Division of International Development Assistance
+ mtarbwillin@gmail.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                      Karlene Collette Francis, Aimee Terese Hall
+
+Approved By
+
+Practice Manager/Manager:                 Marc Peter Sadler                       04-Dec-2024
+
+Country Director:                         Stephen N. Ndegwa                       14-Feb-2025
+
+
+
+
+                                                                                                Page 10
+

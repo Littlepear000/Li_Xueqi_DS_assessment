@@ -1,0 +1,753 @@
+{
+  "project_id": "P171833",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "6ce457ae",
+  "started_at": "2026-11-07T03:29:10Z",
+  "ended_at": "2026-11-07T03:29:36Z",
+  "input_fingerprint": "1a935a7333381de5",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 29,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P171833-A1",
+      "project_id": "P171833",
+      "name": "regional blue economy data platform for knowledge sharing",
+      "description": "The project builds a regional platform for sharing Blue Economy data across OECS countries to strengthen integration and cooperation. Practices: Regional blue economy data platform for knowledge exchange; Regional Blue Economy data sharing platform.",
+      "why_innovative": "New delivery arrangement: shared regional data platform across OECS states - cue: 'knowledge-exchange' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "727801649959720809",
+        "doc_type": "PAD",
+        "doc_date": "2022-04-11",
+        "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+        "char_start": 53563,
+        "char_end": 54015,
+        "text": "Each activity will incorporate low-carbon and climate-resilient approaches.26 This subcomponent will also support establishment of regional knowledge and data systems (e.g., a regional blue economy data platform) and regional knowledge exchange to strengthen integration and cooperation (Annex 2). b) Subcomponent 1.2: Strengthening National Policies, Institutions and Capacity Building (US$7.4 million total: US$4.4 million IDA, US$3 million PROBLUE).",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "727801649959720809",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-11",
+          "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+          "char_start": 117500,
+          "char_end": 117995,
+          "text": "(Percentage) PDO Table SPACE Intermediate Results Indicators by Components RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline End Target Strengthening Governance, Policies, and Capacity Building for Key Productive Sectors/Areas Policies or legal instruments that integrate blue economy visions and climate change adaptation measures, developed or updated 0.00 8.00 (Number) Regional Blue Economy data sharing platform operational No Yes (Yes/No) Blue Economy education/training clusters operation.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "727801649959720809",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-11",
+          "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+          "char_start": 16394,
+          "char_end": 16748,
+          "text": "Type Financing source Description Disbursement Trust Funds, IBRD/IDA OECS • Pursuant to Schedule 2, Section III(B)(1)(b), no withdrawal shall be made under Category 2 until the Recipient has developed and adopted a Regional Grants Manual satisfactory to the Association. vii The World Bank Unleashing the Blue Economy of the Caribbean (UBEC) (P171833) I.",
+          "match_kind": "legal_condition",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: multi-country data sharing platform, not a single-agency tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other Public Administration",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168122",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "), Caribbean Digital Transformation Project (P171528), OECS Regional Health Project (P168539), Pacific Islands Regional Oceanscape Program SOP (P131655, P152938, P151780), Pacific Resilience Program (P156344, P156335), and the Statistical Innovation and Capacity Building in the Pacific Islands SOP (P168122). 44. Specific lessons learned incorporated into the UBEC SOP design include: a) A regional "
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: regional blue economy data platform | Innovative: cross-country shared data system | Category: multi-state data sharing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: shared regional data platform across OECS states - cue: 'knowledge-exchange'",
+      "innovation_cues": [
+        "knowledge-exchange",
+        "low-carbon",
+        "scale-up"
+      ]
+    },
+    {
+      "approach_id": "P171833-A2",
+      "project_id": "P171833",
+      "name": "digital data management and monitoring systems for tourism and fisheries",
+      "description": "The project finances data management and monitoring systems for tourism subsector statistics and for fisheries licensing, vessel registration and catch values. Practices: Digital tourism data management and monitoring system; Fisheries data management system for licensing, registration, catch values.",
+      "why_innovative": "New service: digital tourism monitoring system for subsectors - cue: 'digital monitoring systems' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "727801649959720809",
+        "doc_type": "PAD",
+        "doc_date": "2022-04-11",
+        "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+        "char_start": 182868,
+        "char_end": 183100,
+        "text": "Development and implementation of a data management and monitoring system for the tourism subsectors, including a needs assessment, development of the framework for the system, implementation of the system, and capacity building vi.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "727801649959720809",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-11",
+          "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+          "char_start": 182080,
+          "char_end": 182246,
+          "text": "Support for the establishment of a Tourism Advisory Committee (TAC) and digital monitoring systems to drive the implementation and monitoring of the tourism plan iii.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "727801649959720809",
+          "doc_type": "PAD",
+          "doc_date": "2022-04-11",
+          "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+          "char_start": 236249,
+          "char_end": 236498,
+          "text": "Strengthening of policies and human capacity for monitoring, control, and surveillance of illegal fishing, including data management systems for licensing, registration, and production values to enable better management of the fisheries stock . iii.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the data system itself is the deliverable",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other Public Administration",
+        "code": "",
+        "confidence": null,
+        "rationale": "single sector in projects.csv",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P168122",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "), Caribbean Digital Transformation Project (P171528), OECS Regional Health Project (P168539), Pacific Islands Regional Oceanscape Program SOP (P131655, P152938, P151780), Pacific Resilience Program (P156344, P156335), and the Statistical Innovation and Capacity Building in the Pacific Islands SOP (P168122). 44. Specific lessons learned incorporated into the UBEC SOP design include: a) A regional "
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: tourism data management system | Innovative: new subsector monitoring system | Category: technological system build",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: digital tourism monitoring system for subsectors - cue: 'digital monitoring systems'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P171833",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "guid": "727801649959720809",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:29:10Z",
+      "ended_at": "2026-11-07T03:29:16Z",
+      "status": "ok",
+      "note": "10 document(s) fetched from the WBG API; 15 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:29:16Z",
+      "ended_at": "2026-11-07T03:29:16Z",
+      "status": "ok",
+      "note": "in scope (approved 2022-05-02, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:29:16Z",
+      "ended_at": "2026-11-07T03:29:20Z",
+      "status": "ok",
+      "note": "29 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 29,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_cycle": 8,
+          "enabling_processes": 3,
+          "public_good": 4,
+          "innovation": 5,
+          "innovation_types": 6,
+          "results_based_management": 2,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:29:20Z",
+      "ended_at": "2026-11-07T03:29:20Z",
+      "status": "ok",
+      "note": "PAD 2022-04-11 (P171833_PAD_2022-04-11_727801649959720809.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P171833",
+            "doc_type": "PAD",
+            "doc_date": "2022-04-11",
+            "guid": "727801649959720809",
+            "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:29:20Z",
+      "ended_at": "2026-11-07T03:29:20Z",
+      "status": "ok",
+      "note": "204 reading units (25 numbered paragraphs) from 1726 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 204
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:29:20Z",
+      "ended_at": "2026-11-07T03:29:24Z",
+      "status": "ok",
+      "note": "60 of 204 units carry a digital / AI cue (21 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 60,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 21
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:24Z",
+      "ended_at": "2026-11-07T03:29:28Z",
+      "status": "ok",
+      "note": "8 candidate practices from 60 units in 6 calls",
+      "llm_calls": 6,
+      "input_chars": 187357,
+      "output": {
+        "usage": {
+          "calls": 6,
+          "input_tokens": 1062,
+          "cached_tokens": 38656,
+          "cache_write_tokens": 0,
+          "output_tokens": 2071,
+          "seconds": 15.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.003
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:29:28Z",
+      "ended_at": "2026-11-07T03:29:32Z",
+      "status": "ok",
+      "note": "4 accepted, 4 rejected (unsupported_by_evidence 1, not_digital 1, generic 1, not_innovative 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 32561,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 3260,
+          "cached_tokens": 3328,
+          "cache_write_tokens": 0,
+          "output_tokens": 567,
+          "seconds": 3.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0017
+        },
+        "accepted": 4,
+        "rejected": 4,
+        "expanded": 0,
+        "reject_codes": {
+          "unsupported_by_evidence": 1,
+          "not_digital": 1,
+          "generic": 1,
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:29:32Z",
+      "ended_at": "2026-11-07T03:29:32Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:29:32Z",
+      "ended_at": "2026-11-07T03:29:34Z",
+      "status": "ok",
+      "note": "4 approaches -> 2 by sector x category; 1 Data Sheet sentences attached as extra evidence",
+      "llm_calls": 1,
+      "input_chars": 1739,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 246,
+          "cached_tokens": 128,
+          "cache_write_tokens": 0,
+          "output_tokens": 104,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 2,
+        "legal_evidence": 1
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:29:34Z",
+      "ended_at": "2026-11-07T03:29:36Z",
+      "status": "ok",
+      "note": "2 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 5755,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 816,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 137,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:29:36Z",
+      "ended_at": "2026-11-07T03:29:36Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 6 evidence rows, 4 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:29:36Z",
+      "ended_at": "2026-11-07T03:29:36Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P168122",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "), Caribbean Digital Transformation Project (P171528), OECS Regional Health Project (P168539), Pacific Islands Regional Oceanscape Program SOP (P131655, P152938, P151780), Pacific Resilience Program (P156344, P156335), and the Statistical Innovation and Capacity Building in the Pacific Islands SOP (P168122). 44. Specific lessons learned incorporated into the UBEC SOP design include: a) A regional "
+          }
+        ],
+        "store_size": 102
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P171833-A1-E1",
+      "approach_id": "P171833-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 301,
+      "char_start": 53563,
+      "char_end": 54015,
+      "sentence": "Each activity will incorporate low-carbon and climate-resilient approaches.26 This subcomponent will also support establishment of regional knowledge and data systems (e.g., a regional blue economy data platform) and regional knowledge exchange to strengthen integration and cooperation (Annex 2). b) Subcomponent 1.2: Strengthening National Policies, Institutions and Capacity Building (US$7.4 million total: US$4.4 million IDA, US$3 million PROBLUE).",
+      "practice": "Regional blue economy data platform for knowledge exchange",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "Digital core: regional blue economy data platform | Not routine: cross-country shared data system | Adoption: 'will also support establishment'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: regional blue economy data platform | Innovative: cross-country shared data system | Category: multi-state data sharing",
+      "keywords_hit": "data platform",
+      "innovation_cues": "knowledge-exchange;low-carbon",
+      "innovation_basis": "New delivery arrangement: shared regional data platform across OECS states - cue: 'knowledge-exchange'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    },
+    {
+      "row_id": "P171833-A1-E2",
+      "approach_id": "P171833-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U84",
+      "para_no": null,
+      "sentence_position": 658,
+      "char_start": 117500,
+      "char_end": 117995,
+      "sentence": "(Percentage) PDO Table SPACE Intermediate Results Indicators by Components RESULT_FRAME_TBL_ IO Indicator Name PBC Baseline End Target Strengthening Governance, Policies, and Capacity Building for Key Productive Sectors/Areas Policies or legal instruments that integrate blue economy visions and climate change adaptation measures, developed or updated 0.00 8.00 (Number) Regional Blue Economy data sharing platform operational No Yes (Yes/No) Blue Economy education/training clusters operation.",
+      "practice": "Regional Blue Economy data sharing platform",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "Digital core: regional Blue Economy data platform | Not routine: cross-country shared data platform | Adoption: 'operational'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: regional data sharing platform | Innovative: cross-country shared data system | Category: multi-state data sharing",
+      "keywords_hit": "data sharing platform",
+      "innovation_cues": "scale-up",
+      "innovation_basis": "New delivery arrangement: regional multi-country data sharing platform - cue: 'scale-up'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    },
+    {
+      "row_id": "P171833-A1-L1",
+      "approach_id": "P171833-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 2,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U11",
+      "para_no": null,
+      "sentence_position": 83,
+      "char_start": 16394,
+      "char_end": 16748,
+      "sentence": "Type Financing source Description Disbursement Trust Funds, IBRD/IDA OECS • Pursuant to Schedule 2, Section III(B)(1)(b), no withdrawal shall be made under Category 2 until the Recipient has developed and adopted a Regional Grants Manual satisfactory to the Association. vii The World Bank Unleashing the Blue Economy of the Caribbean (UBEC) (P171833) I.",
+      "practice": "Regional blue economy data platform for knowledge exchange",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "",
+      "judge_rounds": 0,
+      "judge_verdict": "",
+      "judge_reason": "Data Sheet / legal-condition sentence attached to an approach found in the body",
+      "keywords_hit": "",
+      "innovation_cues": "",
+      "innovation_basis": "",
+      "evidence_source": "legal_condition",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    },
+    {
+      "row_id": "P171833-A2-E1",
+      "approach_id": "P171833-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U134",
+      "para_no": null,
+      "sentence_position": 1071,
+      "char_start": 182868,
+      "char_end": 183100,
+      "sentence": "Development and implementation of a data management and monitoring system for the tourism subsectors, including a needs assessment, development of the framework for the system, implementation of the system, and capacity building vi.",
+      "practice": "Digital tourism data management and monitoring system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "Digital core: tourism data management system | Not routine: builds new monitoring system, not M&E | Adoption: 'development and implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: tourism data management system | Innovative: new subsector monitoring system | Category: technological system build",
+      "keywords_hit": "data management",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital tourism monitoring system for subsectors - cue: 'digital monitoring systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    },
+    {
+      "row_id": "P171833-A2-E2",
+      "approach_id": "P171833-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U134",
+      "para_no": null,
+      "sentence_position": 1068,
+      "char_start": 182080,
+      "char_end": 182246,
+      "sentence": "Support for the establishment of a Tourism Advisory Committee (TAC) and digital monitoring systems to drive the implementation and monitoring of the tourism plan iii.",
+      "practice": "Digital tourism data management and monitoring system",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "Digital core: tourism data management system | Not routine: builds new monitoring system, not M&E | Adoption: 'development and implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: tourism data management system | Innovative: new subsector monitoring system | Category: technological system build",
+      "keywords_hit": "data management",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital tourism monitoring system for subsectors - cue: 'digital monitoring systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    },
+    {
+      "row_id": "P171833-A2-E3",
+      "approach_id": "P171833-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P171833",
+      "doc_id": "727801649959720809",
+      "doc_type": "PAD",
+      "doc_date": "2022-04-11",
+      "file_name": "P171833_PAD_2022-04-11_727801649959720809.txt",
+      "unit_id": "U172",
+      "para_no": null,
+      "sentence_position": 1427,
+      "char_start": 236249,
+      "char_end": 236498,
+      "sentence": "Strengthening of policies and human capacity for monitoring, control, and surveillance of illegal fishing, including data management systems for licensing, registration, and production values to enable better management of the fisheries stock . iii.",
+      "practice": "Fisheries data management system for licensing, registration, catch values",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other Public Administration",
+      "extractor_reason": "Digital core: fisheries licensing and production registry | Not routine: replaces paper stock monitoring | Adoption: 'strengthening of policies ... including data management systems'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: fisheries licensing/registration data system | Innovative: digital catch registry for stock management | Category: technological registry",
+      "keywords_hit": "data management",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital fisheries licensing and catch registry - cue: 'data management systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "6ce457ae"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "727801649959720809",
+      "doc_type": "PAD",
+      "position": 307,
+      "char_start": 55605,
+      "char_end": 55969,
+      "sentence": "Concerning (5), because shifting currents and water temperatures and densities due to climate change play a role in moving solid waste, particularly plastics and microplastics, across the region’s waters, a regional OECS Waste Management Strategy will aim to encourage environmental monitoring of plastic pollutio n to identify sources and tackle them accordingly.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Environmental monitoring systems for plastic pollution tracking",
+      "reason": "reject: Text only says strategy will 'aim to encourage' monitoring; no financed monitoring system",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: monitoring systems tracing marine plastic sources - cue: 'circular economy'",
+      "innovation_cues": "circular economy;nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Text only says strategy will 'aim to encourage' monitoring; no financed monitoring system",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1548
+        }
+      ]
+    },
+    {
+      "guid": "727801649959720809",
+      "doc_type": "PAD",
+      "position": 336,
+      "char_start": 62830,
+      "char_end": 62950,
+      "sentence": "COAST enhances inclusiveness by covering not only fishers, but also fish vendors and processors, most of whom are women.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "COAST climate risk fisheries insurance registration for fisherwomen",
+      "reason": "reject: Insurance registration scheme; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: insurance covering fish vendors and processors - cue: 'for the first time'",
+      "innovation_cues": "innovative;low-carbon;nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Insurance registration scheme; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 2186
+        }
+      ]
+    },
+    {
+      "guid": "727801649959720809",
+      "doc_type": "PAD",
+      "position": 660,
+      "char_start": 118462,
+      "char_end": 118545,
+      "sentence": "(Number) Innovative technologies applied for better management of the marine space.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Innovative technologies for marine space management",
+      "reason": "reject: Indicator wording 'innovative technologies' with no named mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New product: technologies for marine spatial management - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator wording 'innovative technologies' with no named mechanism",
+          "reject_code": "generic",
+          "context_chars": 1220
+        }
+      ]
+    },
+    {
+      "guid": "727801649959720809",
+      "doc_type": "PAD",
+      "position": 1246,
+      "char_start": 210645,
+      "char_end": 210778,
+      "sentence": "Strengthening data collection and data management (including TSA) to improve monitoring of the economic impact of the tourism sector.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Tourism satellite account data management for impact monitoring",
+      "reason": "reject: Tourism satellite account data strengthening is standard statistical capacity, not new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: TSA-based tourism impact measurement system - cue: 'data management'",
+      "innovation_cues": "circular economy",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Tourism satellite account data strengthening is standard statistical capacity, not new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1257
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 9,
+    "input_tokens": 5384,
+    "cached_tokens": 42496,
+    "cache_write_tokens": 0,
+    "output_tokens": 2879,
+    "seconds": 23.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0053
+  }
+}

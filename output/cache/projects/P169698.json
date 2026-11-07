@@ -1,0 +1,1552 @@
+{
+  "project_id": "P169698",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "bf9edf8a",
+  "started_at": "2026-11-07T03:27:17Z",
+  "ended_at": "2026-11-07T03:27:59Z",
+  "input_fingerprint": "8fa82e650c07b9b1",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 22,
+  "innovative": "Yes",
+  "n_approaches": 2,
+  "approaches": [
+    {
+      "approach_id": "P169698-A1",
+      "project_id": "P169698",
+      "name": "climate-resilient fiber broadband network design with network redundancy",
+      "description": "Finances climate-smart digital infrastructure with redundancy to keep connectivity during disasters",
+      "why_innovative": "New design: redundant fiber network keeps connectivity during natural disasters | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "996651598925686197",
+        "doc_type": "PAD",
+        "doc_date": "2020-08-06",
+        "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+        "char_start": 44301,
+        "char_end": 44722,
+        "text": "The Project will aim to build resilience through the design of digital infrastructure that can also be used in case of disaster response,46 by including special design provisions that ensure resilience in the case of natural disasters to minimize the risks of connectivity disruptions, e.g. by introducing network redundancy to improve reliability and ensure continuity of Internet services at times of natural disasters.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 44177,
+          "char_end": 44300,
+          "text": "It will finance digital infrastructure that is climate‐smart and supports climate change adaptation and climate resilience.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: resilient network design is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Infrastructure",
+        "code": "",
+        "confidence": null,
+        "rationale": "Directly finances climate-resilient fiber broadband network infrastructure.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: redundant fiber network | Innovative: resilience-by-design redundancy | Category: technological infrastructure design",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New design: redundant fiber network keeps connectivity during natural disasters",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P169698-A2",
+      "project_id": "P169698",
+      "name": "open-access wholesale middle-mile broadband network for rural settlements",
+      "description": "Finances construction of open-access middle-mile backhaul and points of presence so providers can reach unserved rural settlements. Practices: open-access wholesale middle-mile broadband network for rural settlements; open-access wholesale broadband network for rural settlements; public middle-mile open-access broadband network for rural settlements; open-access points of presence with IRU/leased backhaul.",
+      "why_innovative": "New delivery arrangement: open-access wholesale middle-mile model - cue: 'open access' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "996651598925686197",
+        "doc_type": "PAD",
+        "doc_date": "2020-08-06",
+        "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+        "char_start": 56972,
+        "char_end": 57109,
+        "text": "The Government’s ON Program will develop a national infrastructure to offer open access, wholesale broadband telecommunications services.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 57110,
+          "char_end": 57322,
+          "text": "This subcomponent will support construction and activation of high‐ capacity middle‐mile, backhaul networks under the ON Program that will bring high quality, high‐capacity services to selected rural settlements.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 57323,
+          "char_end": 57517,
+          "text": "SPs will then invest to expand their networks to provide services on commercial terms through their own last‐mile infrastructures, to the settlements’ households, enterprises, and organizations.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 59604,
+          "char_end": 59762,
+          "text": "The Project will support Georgia’s Open Net Program to develop national infrastructure to offer open access, wholesale, broadband‐telecommunications services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 59763,
+          "char_end": 59912,
+          "text": "It will finance: (i) Design and construction of an open access, wholesale broadband telecommunications network to connect selected rural settlements;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 59913,
+          "char_end": 60124,
+          "text": "(ii) Acquisition of connectivity services to operate the network; and (iii) Consultancies as needed to support network design, readiness and demand assessments, deployment, operations, maintenance, and upgrades.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 142976,
+          "char_end": 143089,
+          "text": "Subcomponent 1.1 supports the creation of middle‐mile networks as part of the Open Net Program of the Government.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 143090,
+          "char_end": 143268,
+          "text": "In 2015, the Government set up a National Program on Broadband Infrastructure Development (henceforth, the ‘Open Net Program’) to improve middle‐mile connectivity in rural areas.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 143655,
+          "char_end": 143838,
+          "text": "The Government has defined this program as seeking to replicate, as closely as feasible, the RAIN Program of Lithuania, which has received significant funding from the European Union.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 145107,
+          "char_end": 145281,
+          "text": "The Project will finance the construction of middle‐mile networks to connect selected settlements and to establish open access points of presence (PoPs) at those settlements.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 145282,
+          "char_end": 145679,
+          "text": "The Project will finance the design, building, installation, and activation of backhaul infrastructure for up to about 1,000 settlements identified by the ComCom as eligible (of a total of 3,388 settlements across Georgia); most of the rest of the settlements will be covered by a pilot program financed by the GoG using its own resources, and some settlements might not be eligible in the future.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "996651598925686197",
+          "doc_type": "PAD",
+          "doc_date": "2020-08-06",
+          "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+          "char_start": 145680,
+          "char_end": 145922,
+          "text": "The network will include sections that are newly constructed and, where suitable existing infrastructure exists, the program will use that infrastructure either through leasing of capacity or the purchase of indefeasible rights of use (IRUs).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers broadband delivery via wholesale open access",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Infrastructure",
+        "code": "",
+        "confidence": null,
+        "rationale": "Finances construction of middle-mile backhaul network infrastructure.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: open-access middle-mile backhaul | Innovative: wholesale-only rural delivery model | Category: delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile model - cue: 'open access'",
+      "innovation_cues": [
+        "pilot",
+        "replicate"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P169698",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "guid": "996651598925686197",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:27:17Z",
+      "ended_at": "2026-11-07T03:27:26Z",
+      "status": "ok",
+      "note": "14 document(s) fetched from the WBG API; 18 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:27:26Z",
+      "ended_at": "2026-11-07T03:27:26Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-08-28, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:27:26Z",
+      "ended_at": "2026-11-07T03:27:28Z",
+      "status": "ok",
+      "note": "22 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 22,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 2,
+          "innovation_cycle": 6,
+          "enabling_processes": 3,
+          "enabling_technologies": 4,
+          "results_based_management": 2,
+          "innovation_types": 4,
+          "public_good": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:27:28Z",
+      "ended_at": "2026-11-07T03:27:28Z",
+      "status": "ok",
+      "note": "PAD 2020-08-06 (P169698_PAD_2020-08-06_996651598925686197.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P169698",
+            "doc_type": "PAD",
+            "doc_date": "2020-08-06",
+            "guid": "996651598925686197",
+            "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:27:28Z",
+      "ended_at": "2026-11-07T03:27:28Z",
+      "status": "ok",
+      "note": "131 reading units (14 numbered paragraphs) from 1030 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 131
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:27:28Z",
+      "ended_at": "2026-11-07T03:27:30Z",
+      "status": "ok",
+      "note": "108 of 131 units carry a digital / AI cue (23 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 108,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 23
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:27:30Z",
+      "ended_at": "2026-11-07T03:27:45Z",
+      "status": "ok",
+      "note": "25 candidate practices from 108 units in 11 calls",
+      "llm_calls": 11,
+      "input_chars": 333779,
+      "output": {
+        "usage": {
+          "calls": 11,
+          "input_tokens": 2011,
+          "cached_tokens": 70400,
+          "cache_write_tokens": 0,
+          "output_tokens": 5341,
+          "seconds": 40.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0074
+        },
+        "extracted": 25
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:27:45Z",
+      "ended_at": "2026-11-07T03:27:51Z",
+      "status": "ok",
+      "note": "12 accepted, 13 rejected (not_digital 8, generic 2, not_innovative 2, unsupported_by_evidence 1); 2 sent to the expanded-context round; 4 calls",
+      "llm_calls": 4,
+      "input_chars": 163455,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 21821,
+          "cached_tokens": 11392,
+          "cache_write_tokens": 0,
+          "output_tokens": 1868,
+          "seconds": 12.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0089
+        },
+        "accepted": 12,
+        "rejected": 13,
+        "expanded": 2,
+        "reject_codes": {
+          "generic": 2,
+          "not_digital": 8,
+          "not_innovative": 2,
+          "unsupported_by_evidence": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:27:51Z",
+      "ended_at": "2026-11-07T03:27:54Z",
+      "status": "ok",
+      "note": "12 of 12 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 3114,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 632,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 419,
+          "seconds": 2.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:27:54Z",
+      "ended_at": "2026-11-07T03:27:56Z",
+      "status": "ok",
+      "note": "12 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 3182,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 651,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 170,
+          "seconds": 2.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "merged": 8,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:27:56Z",
+      "ended_at": "2026-11-07T03:27:58Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 2 kept (digital & AI core, rare or absent before 2019); 2 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8961,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1388,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 244,
+          "seconds": 2.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:27:58Z",
+      "ended_at": "2026-11-07T03:27:58Z",
+      "status": "ok",
+      "note": "2 approaches (2 applied), 14 evidence rows, 20 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:27:58Z",
+      "ended_at": "2026-11-07T03:27:59Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 81
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P169698-A1-E1",
+      "approach_id": "P169698-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U33",
+      "para_no": null,
+      "sentence_position": 260,
+      "char_start": 44301,
+      "char_end": 44722,
+      "sentence": "The Project will aim to build resilience through the design of digital infrastructure that can also be used in case of disaster response,46 by including special design provisions that ensure resilience in the case of natural disasters to minimize the risks of connectivity disruptions, e.g. by introducing network redundancy to improve reliability and ensure continuity of Internet services at times of natural disasters.",
+      "practice": "climate-resilient fiber broadband network design with network redundancy",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: redundant fiber broadband network | Not routine: resilience-by-design connectivity | Adoption: 'will aim to build resilience'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: redundant fiber network | Innovative: resilience-by-design redundancy | Category: technological infrastructure design",
+      "keywords_hit": "broadband;connectivity;fiber;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New design: redundant fiber network keeps connectivity during natural disasters",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A1-E2",
+      "approach_id": "P169698-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U33",
+      "para_no": null,
+      "sentence_position": 259,
+      "char_start": 44177,
+      "char_end": 44300,
+      "sentence": "It will finance digital infrastructure that is climate‐smart and supports climate change adaptation and climate resilience.",
+      "practice": "climate-resilient fiber broadband network design with network redundancy",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: redundant fiber broadband network | Not routine: resilience-by-design connectivity | Adoption: 'will aim to build resilience'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: redundant fiber network | Innovative: resilience-by-design redundancy | Category: technological infrastructure design",
+      "keywords_hit": "broadband;connectivity;fiber;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New design: redundant fiber network keeps connectivity during natural disasters",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E1",
+      "approach_id": "P169698-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 316,
+      "char_start": 56972,
+      "char_end": 57109,
+      "sentence": "The Government’s ON Program will develop a national infrastructure to offer open access, wholesale broadband telecommunications services.",
+      "practice": "open-access wholesale middle-mile broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access middle-mile backhaul network | Not routine: wholesale open-access rural model | Adoption: 'will support construction and activation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle-mile backhaul | Innovative: wholesale-only rural delivery model | Category: delivery arrangement",
+      "keywords_hit": "broadband;survey;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile model - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E2",
+      "approach_id": "P169698-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 317,
+      "char_start": 57110,
+      "char_end": 57322,
+      "sentence": "This subcomponent will support construction and activation of high‐ capacity middle‐mile, backhaul networks under the ON Program that will bring high quality, high‐capacity services to selected rural settlements.",
+      "practice": "open-access wholesale middle-mile broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access middle-mile backhaul network | Not routine: wholesale open-access rural model | Adoption: 'will support construction and activation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle-mile backhaul | Innovative: wholesale-only rural delivery model | Category: delivery arrangement",
+      "keywords_hit": "broadband;survey;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile model - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E3",
+      "approach_id": "P169698-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 318,
+      "char_start": 57323,
+      "char_end": 57517,
+      "sentence": "SPs will then invest to expand their networks to provide services on commercial terms through their own last‐mile infrastructures, to the settlements’ households, enterprises, and organizations.",
+      "practice": "open-access wholesale middle-mile broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access middle-mile backhaul network | Not routine: wholesale open-access rural model | Adoption: 'will support construction and activation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access middle-mile backhaul | Innovative: wholesale-only rural delivery model | Category: delivery arrangement",
+      "keywords_hit": "broadband;survey;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile model - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E4",
+      "approach_id": "P169698-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U44",
+      "para_no": null,
+      "sentence_position": 337,
+      "char_start": 59604,
+      "char_end": 59762,
+      "sentence": "The Project will support Georgia’s Open Net Program to develop national infrastructure to offer open access, wholesale, broadband‐telecommunications services.",
+      "practice": "open-access wholesale broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access wholesale broadband network | Not routine: wholesale-only model opens rural markets | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access wholesale network | Innovative: no retail intervention model | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile, no retail role - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E5",
+      "approach_id": "P169698-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U44",
+      "para_no": null,
+      "sentence_position": 338,
+      "char_start": 59763,
+      "char_end": 59912,
+      "sentence": "It will finance: (i) Design and construction of an open access, wholesale broadband telecommunications network to connect selected rural settlements;",
+      "practice": "open-access wholesale broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access wholesale broadband network | Not routine: wholesale-only model opens rural markets | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access wholesale network | Innovative: no retail intervention model | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile, no retail role - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E6",
+      "approach_id": "P169698-A2",
+      "evidence_no": 6,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U44",
+      "para_no": null,
+      "sentence_position": 339,
+      "char_start": 59913,
+      "char_end": 60124,
+      "sentence": "(ii) Acquisition of connectivity services to operate the network; and (iii) Consultancies as needed to support network design, readiness and demand assessments, deployment, operations, maintenance, and upgrades.",
+      "practice": "open-access wholesale broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access wholesale broadband network | Not routine: wholesale-only model opens rural markets | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access wholesale network | Innovative: no retail intervention model | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity;telecom;telecommunication",
+      "innovation_cues": "",
+      "innovation_basis": "New delivery arrangement: open-access wholesale middle-mile, no retail role - cue: 'open access'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E7",
+      "approach_id": "P169698-A2",
+      "evidence_no": 7,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 833,
+      "char_start": 142976,
+      "char_end": 143089,
+      "sentence": "Subcomponent 1.1 supports the creation of middle‐mile networks as part of the Open Net Program of the Government.",
+      "practice": "public middle-mile open-access broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: middle-mile backhaul and PoPs | Not routine: public open-access wholesale build | Adoption: 'supports the creation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: middle-mile backhaul and PoPs | Innovative: public wholesale-only open-access rural build | Category: new delivery arrangement",
+      "keywords_hit": "broadband;connectivity;digital inclusion",
+      "innovation_cues": "replicate",
+      "innovation_basis": "New delivery arrangement: state-built open-access middle-mile, wholesale-only - cue: 'replicate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E8",
+      "approach_id": "P169698-A2",
+      "evidence_no": 8,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 834,
+      "char_start": 143090,
+      "char_end": 143268,
+      "sentence": "In 2015, the Government set up a National Program on Broadband Infrastructure Development (henceforth, the ‘Open Net Program’) to improve middle‐mile connectivity in rural areas.",
+      "practice": "public middle-mile open-access broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: middle-mile backhaul and PoPs | Not routine: public open-access wholesale build | Adoption: 'supports the creation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: middle-mile backhaul and PoPs | Innovative: public wholesale-only open-access rural build | Category: new delivery arrangement",
+      "keywords_hit": "broadband;connectivity;digital inclusion",
+      "innovation_cues": "replicate",
+      "innovation_basis": "New delivery arrangement: state-built open-access middle-mile, wholesale-only - cue: 'replicate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E9",
+      "approach_id": "P169698-A2",
+      "evidence_no": 9,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U104",
+      "para_no": null,
+      "sentence_position": 838,
+      "char_start": 143655,
+      "char_end": 143838,
+      "sentence": "The Government has defined this program as seeking to replicate, as closely as feasible, the RAIN Program of Lithuania, which has received significant funding from the European Union.",
+      "practice": "public middle-mile open-access broadband network for rural settlements",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: middle-mile backhaul and PoPs | Not routine: public open-access wholesale build | Adoption: 'supports the creation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: middle-mile backhaul and PoPs | Innovative: public wholesale-only open-access rural build | Category: new delivery arrangement",
+      "keywords_hit": "broadband;connectivity;digital inclusion",
+      "innovation_cues": "replicate",
+      "innovation_basis": "New delivery arrangement: state-built open-access middle-mile, wholesale-only - cue: 'replicate'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E10",
+      "approach_id": "P169698-A2",
+      "evidence_no": 10,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U106",
+      "para_no": null,
+      "sentence_position": 848,
+      "char_start": 145107,
+      "char_end": 145281,
+      "sentence": "The Project will finance the construction of middle‐mile networks to connect selected settlements and to establish open access points of presence (PoPs) at those settlements.",
+      "practice": "open-access points of presence with IRU/leased backhaul",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access PoPs and backhaul | Not routine: wholesale open-access rural model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access PoPs and backhaul | Innovative: wholesale open-access rural model with IRUs | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New delivery arrangement: open-access PoPs mixing new build and IRUs - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E11",
+      "approach_id": "P169698-A2",
+      "evidence_no": 11,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U106",
+      "para_no": null,
+      "sentence_position": 849,
+      "char_start": 145282,
+      "char_end": 145679,
+      "sentence": "The Project will finance the design, building, installation, and activation of backhaul infrastructure for up to about 1,000 settlements identified by the ComCom as eligible (of a total of 3,388 settlements across Georgia); most of the rest of the settlements will be covered by a pilot program financed by the GoG using its own resources, and some settlements might not be eligible in the future.",
+      "practice": "open-access points of presence with IRU/leased backhaul",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access PoPs and backhaul | Not routine: wholesale open-access rural model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access PoPs and backhaul | Innovative: wholesale open-access rural model with IRUs | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New delivery arrangement: open-access PoPs mixing new build and IRUs - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    },
+    {
+      "row_id": "P169698-A2-E12",
+      "approach_id": "P169698-A2",
+      "evidence_no": 12,
+      "number_of_evidence": 12,
+      "project_id": "P169698",
+      "doc_id": "996651598925686197",
+      "doc_type": "PAD",
+      "doc_date": "2020-08-06",
+      "file_name": "P169698_PAD_2020-08-06_996651598925686197.txt",
+      "unit_id": "U106",
+      "para_no": null,
+      "sentence_position": 850,
+      "char_start": 145680,
+      "char_end": 145922,
+      "sentence": "The network will include sections that are newly constructed and, where suitable existing infrastructure exists, the program will use that infrastructure either through leasing of capacity or the purchase of indefeasible rights of use (IRUs).",
+      "practice": "open-access points of presence with IRU/leased backhaul",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Infrastructure",
+      "extractor_reason": "Digital core: open-access PoPs and backhaul | Not routine: wholesale open-access rural model | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: open-access PoPs and backhaul | Innovative: wholesale open-access rural model with IRUs | Category: delivery arrangement",
+      "keywords_hit": "broadband;connectivity",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New delivery arrangement: open-access PoPs mixing new build and IRUs - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "bf9edf8a"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 347,
+      "char_start": 61266,
+      "char_end": 61680,
+      "sentence": "(b) Support to ComCom, including technical assistance to design and implement regulatory reforms; and creation of the IT systems and institutional mechanisms to support broadband cost reduction; and (c) Technical assistance to MOESD (in cooperation with related Government agencies) to engage with foreign and private investors to attract investments into and develop Georgia’s digital connectivity infrastructure.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "IT systems and mechanisms for broadband cost reduction",
+      "reason": "reject: Unnamed 'IT systems and institutional mechanisms'; no specific digital tool described.",
+      "reject_code": "generic",
+      "innovation_basis": "New process: regulator IT systems to lower broadband deployment costs - cue: 'mechanisms'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "unclear what the ComCom IT systems are or whether they are a distinct new practice",
+          "reject_code": "",
+          "context_chars": 1213
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Unnamed 'IT systems and institutional mechanisms'; no specific digital tool described.",
+          "reject_code": "generic",
+          "context_chars": 30537
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 363,
+      "char_start": 63796,
+      "char_end": 63910,
+      "sentence": "The subcomponent will promote specific use‐cases of improved broadband connectivity in selected rural settlements.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "broadband use-case promotion for rural digital services",
+      "reason": "reject: promotion of use-cases, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: demand-side use-case promotion with providers - cue: 'use-cases'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "promotion of use-cases, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1391
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 370,
+      "char_start": 64676,
+      "char_end": 65093,
+      "sentence": "The Project will support the increased use of broadband connectivity in selected rural settlements by promoting specific use‐cases of broadband connectivity, including through stakeholder and citizen engagement, coordination between digital services providers, platform providers, and other public agencies and entities, and mobilization of facilitators to increase coordination, and training and outreach activities.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "facilitators and participatory needs assessment for use-cases",
+      "reason": "reject: facilitators and participatory exercises, no digital system core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: community facilitators co-design use-cases with providers - cue: 'participatory'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "facilitators and participatory exercises, no digital system core",
+          "reject_code": "not_digital",
+          "context_chars": 1327
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 380,
+      "char_start": 66756,
+      "char_end": 67447,
+      "sentence": "Specific tasks include: (i) design and implementation of mobilization and digital literacy programs for persons from identified groups that are at risk of being digitally excluded (initial focus will be on women‐headed households, ethnic minorities, and persons with disabilities);58 (ii) design and implementation of a pilot program to provide accessible technologies to facilitate digital accommodation for persons with disabilities in selected rural settlements; and (iii) monitoring of the impact of all Project activities—including through beneficiary dialogues—to track impact on digital inclusion of women, households headed by women, social minorities, and persons with disabilities.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "digital literacy programs for digitally excluded groups",
+      "reason": "reject: digital literacy training is routine, no new digital tool or system",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: targeted digital literacy for excluded groups - cue: 'digital literacy'",
+      "innovation_cues": "participatory-planning;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "digital literacy training is routine, no new digital tool or system",
+          "reject_code": "not_innovative",
+          "context_chars": 1471
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 470,
+      "char_start": 79379,
+      "char_end": 79521,
+      "sentence": "Indicators on purposes of Internet use will be collected as part of Project activities; the Project will finance the collection of these data.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "beneficiary survey data analysis for impact measurement",
+      "reason": "reject: standard M&E survey data collection and analysis",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: disaggregated use-data analysis feeding agency recommendations - cue: 'survey'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "standard M&E survey data collection and analysis",
+          "reject_code": "not_innovative",
+          "context_chars": 1426
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 547,
+      "char_start": 90900,
+      "char_end": 91321,
+      "sentence": "(iii) to undertake surveys and monitor the impact of Project activities with a focus (as applicable to the settlement) on rural women, households headed by women, social minorities, and persons with disabilities; and (iv) to define and advise on investment attraction into Georgia’s telecommunications industry and its digital economy development; and (d) to develop IT systems to create a Single Information Point (SIP).",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Single Information Point (SIP) IT system development",
+      "reason": "reject: Single Information Point named only in procurement list; no mechanism or function described.",
+      "reject_code": "generic",
+      "innovation_basis": "New service: single information point digital system - cue: 'develop IT systems'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "cannot tell what the Single Information Point system does or whether it is new",
+          "reject_code": "",
+          "context_chars": 1218
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Single Information Point named only in procurement list; no mechanism or function described.",
+          "reject_code": "generic",
+          "context_chars": 20526
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 586,
+      "char_start": 96048,
+      "char_end": 96472,
+      "sentence": "(ii) participatory needs assessment and prioritization exercises to engage beneficiaries in selected settlements to inform the selection of use‐cases and to identify mechanisms to promote them in the community; and (iii) semi‐annual participatory planning and “beneficiary dialogues” (e.g., in the form of a community scorecard) to identify specific interventions that will support digital inclusion in selected settlements.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Participatory needs assessment and prioritization for broadband use-cases",
+      "reason": "reject: Participatory prioritization exercises; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: community prioritization of digital use-cases - cue: 'participatory-planning'",
+      "innovation_cues": "participatory-planning;piloting;scorecard",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Participatory prioritization exercises; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1420
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 704,
+      "char_start": 119101,
+      "char_end": 119432,
+      "sentence": "Page 39 of 58 The World Bank Log‐In Georgia (P169698) Number of persons with disabilities that benefit Reporting as part of Number of beneficiaries of accessible through accessible Biannual ComCom activity ComCom technologies under Subcomponent 2.3 technology provided implementation. through the pilot program in Subcomponent 2.2.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "pilot accessible-technology program for persons with disabilities",
+      "reason": "reject: Cited sentence is an indicator table; no pilot program described",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: accessible technologies pilot for disabled users - cue: 'pilot'",
+      "innovation_cues": "participatory-planning;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentence is an indicator table; no pilot program described",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1381
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 996,
+      "char_start": 171909,
+      "char_end": 172124,
+      "sentence": "The Project will seek to increase the awareness of digital financial services, with special attention on women and lower‐income households, drawing on the findings of planned Bank ASA on digital financial inclusion.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "awareness campaigns on digital financial services for women",
+      "reason": "reject: Awareness campaigns and financial literacy; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: gender-targeted digital finance literacy at settlement level - cue: 'special attention on women'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Awareness campaigns and financial literacy; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1296
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 1000,
+      "char_start": 172526,
+      "char_end": 173581,
+      "sentence": "Activities’ design will rely on surveys, focus groups, and beneficiary engagement to collect detailed information about the status quo of Internet use and to identify relevant use‐cases for each of the settlements to be covered by the ON Program.107 For this, the Project will include: (1) intensive and regular stakeholder and citizen engagement to match use‐cases to settlements through participatory needs assessment and prioritization exercises, (2) coordination with public or private organizations to extend use of their existing digital platforms or services to selected settlements, raise awareness of capabilities, and increase the adoption of broadband, (3) delivery of training and capacity‐ or awareness‐building programs in selected settlements on identified use‐cases, and (4) providing input to public agencies on the needs of the 106 An example is the online digital health platform https://redmed.ge/ka/main 107 These inputs will also serve to confirm the demand for improved connectivity and will inform the delivery of Subcomponent 2.3.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "participatory needs assessment matching broadband use-cases to settlements",
+      "reason": "reject: Surveys and focus groups; no named digital system is the practice",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: citizen feedback loop into public platform design - cue: 'participatory needs assessment'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Surveys and focus groups; no named digital system is the practice",
+          "reject_code": "not_digital",
+          "context_chars": 1282
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 1008,
+      "char_start": 174593,
+      "char_end": 174897,
+      "sentence": "The initiatives under Subcomponents 2.2 and 2.3 will be delivered through a team of ‘digital ambassadors.’ The Project will finance the training of a group of digital ambassadors who will be hired and deployed in the field, matching the network rollout phases for the ON Program (under Subcomponent 1.1).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "field-deployed digital ambassadors for settlement training",
+      "reason": "reject: Field agents delivering training; no digital system is the core",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: resident ambassadors matched to network rollout phases - cue: 'digital ambassadors'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Field agents delivering training; no digital system is the core",
+          "reject_code": "not_digital",
+          "context_chars": 1321
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 1010,
+      "char_start": 175131,
+      "char_end": 175348,
+      "sentence": "Feedback from citizens will be conveyed to the ComCom team, which will then inform relevant agencies on those ideas or opportunities to improve their digital platforms and services, helping to close the feedback loop.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "citizen feedback loop into agency digital platforms",
+      "reason": "reject: Feedback routed via ComCom team; no named digital system does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: structured citizen-to-agency feedback on digital services - cue: 'feedback loop'",
+      "innovation_cues": "feedback loop;innovation",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Feedback routed via ComCom team; no named digital system does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1514
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 1023,
+      "char_start": 177845,
+      "char_end": 178205,
+      "sentence": "Georgia has about 3.5 percent of its population currently registered for social assistance packages due to their disability.110 Building on the Country Social Analysis,111 Subcomponent 2.3 includes the provision of small‐value goods and software—together with related training and support services—to persons with disabilities to improve digital participation.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "small goods and software grants for digital participation of disabled",
+      "reason": "reject: Small goods and software grants with training; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: assistive devices and software bundled with training - cue: 'software'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Small goods and software grants with training; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1559
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 330,
+      "char_start": 58664,
+      "char_end": 58819,
+      "sentence": "Selected rural settlements will be drawn in a phased manner from the list of all targeted rural settlements, as identified by the ComCom and Open Net NNLE.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "phased market-gap settlement targeting list for middle-mile deployment",
+      "reason": "reject: final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: settlement list excluding areas with planned private investment, updated each deployment phase",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: settlement targeting list | Innovative: market-gap exclusion, phased updates | Category: deployment process",
+          "reject_code": "",
+          "context_chars": 1243
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 868,
+      "char_start": 148349,
+      "char_end": 148747,
+      "sentence": "Page 50 of 58 The World Bank Log‐In Georgia (P169698) application of State aid rules in relation to the rapid deployment of broadband networks.92 To ensure that eligible settlements are accurately identified and given market and technology developments, ComCom will update this list annually to ensure that there is no duplication of infrastructure or crowding‐out of equivalent private investment.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "annual white-zone settlement list updated by regulator",
+      "reason": "reject: final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: regulator-maintained white-zone eligibility list to avoid crowding out private investment",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: white-zone settlement registry | Innovative: annual market-gap re-verification | Category: process; drop 'census' cue",
+          "reject_code": "",
+          "context_chars": 1445
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 930,
+      "char_start": 159161,
+      "char_end": 159433,
+      "sentence": "It will support the development of a Single Information Point (SIP) for permits and authorizations, and the creation of an infrastructure mapping tool to support implementation of the planned infrastructure sharing law, and other network deployment cost reduction efforts.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Single Information Point and infrastructure mapping tool for broadband permits",
+      "reason": "reject: final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: one-stop permit point plus shared-infrastructure map - cue: 'support'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SIP portal and infrastructure map | Innovative: cuts broadband deployment permit costs | Category: e-governance process",
+          "reject_code": "",
+          "context_chars": 679
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 585,
+      "char_start": 95789,
+      "char_end": 96047,
+      "sentence": "The Project is considering: (i) the development and piloting of a community scorecard which may be institutionalized beyond the Project to monitor accessibility, affordability, and use of Internet services in the long term with primary inputs from residents;",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Community scorecard piloting for internet service monitoring",
+      "reason": "reject: final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: resident-driven scorecard monitoring internet services - cue: 'piloting'",
+      "innovation_cues": "participatory-planning;piloting;scorecard",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: community scorecard on internet services | Innovative: resident feedback loop | Category: accountability mechanism",
+          "reject_code": "",
+          "context_chars": 1420
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: white-zone mapping supports targeting, not the solution | Before 2019: gap/white-zone mapping standard in WBG broadband projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 379,
+      "char_start": 66413,
+      "char_end": 66755,
+      "sentence": "The Project will support targeted interventions to boost digital inclusion for vulnerable groups including through training programs to address digital exclusion, a pilot program to provide accessible technologies to facilitate digital accommodations, to monitor Project activities with a focus on analyzing their impact on vulnerable groups.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "pilot accessible technologies for persons with disabilities",
+      "reason": "reject: final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New product: assistive technologies for digital accommodation - cue: 'pilot'",
+      "innovation_cues": "participatory-planning;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: accessible assistive technologies | Innovative: disability accommodation pilot | Category: technological product",
+          "reject_code": "",
+          "context_chars": 1471
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 987,
+      "char_start": 170019,
+      "char_end": 170297,
+      "sentence": "Box B: Initial use‐cases of broadband Consultations with potential beneficiaries, reference to Government programs and the COVID‐19 response, and analysis of current usage trends have suggested three pilot use‐cases for broadband in rural Georgia supported by this subcomponent.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "pilot broadband use-cases for rural e-learning and health",
+      "reason": "reject: final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: pilot use-case bundles for rural broadband demand - cue: 'pilot'",
+      "innovation_cues": "innovation;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: rural broadband use-case pilots | Innovative: demand-side use-cases tied to rollout | Category: digital services",
+          "reject_code": "",
+          "context_chars": 1209
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "996651598925686197",
+      "doc_type": "PAD",
+      "position": 1024,
+      "char_start": 178206,
+      "char_end": 178325,
+      "sentence": "ComCom will design and run a pilot program to serve up to 1000 persons with disabilities in selected rural settlements.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "pilot assistive technology provision program for up to 1000 persons with disabilities in rural settlements, coordinated with the Social Security Agency",
+      "reason": "reject: final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: pilot AT provision program coordinated with welfare agency, drawing on disability accommodations funds | Cue: 'pilot'",
+      "innovation_cues": "pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: assistive technology provision pilot | Innovative: AT fund linked to welfare agency | Category: Technological service delivery",
+          "reject_code": "",
+          "context_chars": 1530
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: digital literacy and assistive tech pilots | Before 2019: digital inclusion and assistive technology pilots common in WBG/UN projects",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 18,
+    "input_tokens": 26503,
+    "cached_tokens": 82176,
+    "cache_write_tokens": 0,
+    "output_tokens": 8042,
+    "seconds": 60.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0181
+  }
+}

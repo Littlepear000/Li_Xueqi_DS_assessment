@@ -1,0 +1,49 @@
+<div class="wf">
+<h2>Workflow v6 — innovative practices from the PAD</h2>
+<p class="muted">v5 + an <b>innovation test</b>, the project-level <b>innovation screen</b> and <b>Data Sheet exclusion</b>. v5 extracted any specific digital practice, innovative or not (e.g. a disbursement condition requiring a cyber-risk assessment of the MIS was accepted as an "Operational" approach); v6 adds the missing test.</p>
+
+<h3>1. Definitions</h3>
+<dl>
+  <dt>Approach</dt>
+  <dd>A <b>specific, identifiable, innovative practice</b>: a concrete thing the project does, named precisely enough that the same practice could be recognised in another project. It must pass three tests — <b>specificity</b>, <b>digital / data / AI</b> and <b>innovation</b> — and it maps to exactly one <b>category</b> of the working paper <i>Innovation Patterns in the World Bank Group Portfolio</i>: Operational, Technological, Financial or Collaborative.</dd>
+  <dt>Specificity test</dt>
+  <dd>The practice names (1) the mechanism, tool or system and (2) what it is used for / who uses it. "Use of technology", "digital transformation" or a technology name alone fail the test and are not extracted.</dd>
+  <dt>Innovation test (new in v6)</dt>
+  <dd>The practice introduces a new product, service, process, delivery arrangement or organizational practice to address a development challenge in the project's context (working paper: a distinctive method for addressing a development challenge through novel products, services, processes, or organizational practices). <b>Routine requirements fail</b>: fiduciary, safeguard, legal or disbursement conditions; compliance audits and assessments (including IT or cyber audits) required as conditions; standard M&amp;E and reporting; standard IT procurement or upgrades. The extractor states an <code>innovation_basis</code> for every approach.</dd>
+  <dt>Innovation cues</dt>
+  <dd>Hits of the six non-technology dimensions of the innovation dictionary (working paper Appendix B: innovation, innovation cycle, results-based management, innovation types, enabling processes, public good) in a reading unit. Shown to the model next to the digital cues; they support the innovation test but are not sufficient, and their absence does not fail it.</dd>
+  <dt>Innovation tier</dt>
+  <dd>Project-level screen as in v1: distinct dictionary hits (all seven dimensions) across the project's documents — High ≥ 4, Moderate 2–3, Low 0–1. Informational by default; <code>screening.gate: true</code> extracts only High / Moderate projects.</dd>
+  <dt>Adoption</dt>
+  <dd><b>apply</b> — this project finances, builds, deploys, requires or has implemented the practice; <b>prospect</b> — envisaged for the future without commitment; <b>discuss</b> — discussed as background, lessons or options. Only <b>apply</b> counts in headline figures.</dd>
+  <dt>Reading unit</dt>
+  <dd>The smallest piece of text read at once: one numbered paragraph of the PAD (the running paragraph numbers are followed), or, where numbering cannot be followed, a window of consecutive sentences of about 1,200 characters. Units never split a sentence and keep character offsets into the source file. Half a page ≈ 1,600 characters.</dd>
+</dl>
+
+<h3>2. Steps</h3>
+<ol>
+  <li><b>Innovation screen</b> (Python, new) — innovation tier High / Moderate / Low recorded on every project.</li>
+  <li><b>Locate PAD</b> (Python) — the newest PAD of the project; fallback Project Paper → Program Document → PID. No document: the project is marked <i>failed / Unclear</i>.</li>
+  <li><b>Reading units</b> (Python) — the document is segmented into sentences with offsets, then grouped into units (<code>units.target_chars / max_chars / min_chars</code>).</li>
+  <li><b>Cue filter</b> (Python) — units that carry a digital / data / AI keyword cue (DDAT keyword lists + enabling-technology terms of the innovation dictionary); boilerplate units dropped; <b>PAD Data Sheet units</b> (Conditions, Legal Covenants, ESCP "Sections and Description", effectiveness / disbursement conditions — the zone from the first such header to the first numbered paragraph) are marked <code>legal_condition</code> and never extracted; every unit gets its <code>innovation_cues</code>; at most <code>max_units_per_project</code> units, ranked by cue density.</li>
+  <li><b>Extract practices</b> (LLM, <code>01_extract</code>) — ten units per call. For each unit the model returns zero or more practices that pass the three tests, with category, adoption, <code>innovation_basis</code>, a one-sentence description and 1–3 <b>sentence ids</b>. Sentences are resolved in Python, so evidence is verbatim and anchored by construction; an unresolvable id drops the practice.</li>
+  <li><b>Judge / expand</b> (LLM, <code>02_validate</code>, <code>03_revalidate</code>) — every practice is judged on five questions (specific? digital? right category? evidence and adoption supported? <b>innovative or routine?</b>) with verdict <b>accept</b> / <b>revise</b> (corrected wording, category or adoption) / <b>expand</b> / <b>reject</b>. For <i>expand</i>, the unit is widened by <code>validate.expand_chars</code> (≈ half a page) on each side and judged again, this time to a final verdict. Rejected practices are written to the exclusion log with the judge's reason and a fixed <code>reject_code</code>: generic · not_digital · not_innovative · legal_or_compliance_condition · background_or_other_programme · unsupported_by_evidence.</li>
+  <li><b>Sector</b> (LLM, <code>04_codes</code>) — one sector per accepted practice, chosen from the project's own <code>projects.csv</code> list (assigned directly when the project has a single sector). No theme is assigned (v6.1).</li>
+  <li><b>Group sector × category</b> (Python + one LLM call, <code>05_merge</code>) — accepted practices with the same <b>sector</b> and the same <b>category</b> form one approach; their evidence is pooled and the member practices are listed in its description. The model only names groups with several members. Aim: about three approaches per project on average. Data Sheet sentences that refer to an approach found in the body are attached to it as extra evidence (<code>evidence_source = legal_condition</code>), never as a new approach.</li>
+  <li><b>Final check: digital &amp; AI + pre-2019</b> (LLM, <code>06_novelty</code>, one call per project) — two questions per approach: (1) is digital technology, data or AI the <b>core</b> of the approach? <i>incidental</i> or <i>none</i> drops it (<code>not_digital</code>). (2) Overall, how established was this kind of approach in development projects before 2019? <b>rare or absent</b> (a few early pilots at most) = innovative, kept; <b>in use</b> or <b>common</b> = dropped (<code>existed_before_2019</code>).</li>
+  <li><b>Build records</b> (Python) — one approach per group: name = practice, adoption = highest among members (apply &gt; prospect &gt; discuss), <code>number_of_evidence</code> = pooled evidence sentences; one evidence row per sentence with unit id, paragraph number, judge rounds and verdict.</li>
+  <li><b>Replication scan</b> (Python) — explicit P-code references and TF-IDF similarity against the portfolio store (unchanged from v2).</li>
+</ol>
+
+<h3>3. What to look at when tuning</h3>
+<ul>
+  <li><b>reject_code</b> counts (validate step trace, exclusion log): many <i>not_innovative</i> = the extractor is still too generous; many <i>generic</i> = the specificity rule is not applied at extraction.</li>
+  <li><b>Exclusion log</b> (table 4 / "rejected" in the drawer): the judge's reasons show whether the extractor is too generous (many <i>reject: generic</i>) or the specificity rule is too strict.</li>
+  <li><b>judge_rounds</b> on evidence rows: practices that needed the expanded context; a high share suggests larger units or a larger <code>expand_chars</code>.</li>
+  <li><b>Cue filter recall</b>: units without a cue are never read; <code>candidates.require_cue: false</code> reads every non-boilerplate unit (more calls).</li>
+  <li><b>Merging</b>: compare approaches before and after the merge step in the trace (<code>merged</code>).</li>
+</ul>
+
+<h3>4. Cost profile</h3>
+<p>Per project: ⌈candidate units / 10⌉ extraction calls + ⌈practices / 12⌉ judge calls (+ one more round for the expanded ones) + ⌈practices / 30⌉ coding calls + 1 merge call. A typical PAD (60–100 candidate units, 20–40 practices) is 20–30 calls of 3–6k input tokens; the system prompt is cached on Anthropic. Token counts and a list-price cost estimate are recorded per run (<code>llm_usage</code>) and printed by the CLI.</p>
+</div>

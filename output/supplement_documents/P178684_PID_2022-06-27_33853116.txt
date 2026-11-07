@@ -1,0 +1,838 @@
+﻿         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+
+
+                         Project Information Document (PID)
+
+                         Concept Stage | Date Prepared/Updated: 06-Jun-2022 | Report No: PIDC33697
+
+
+
+
+Jun 05, 2022                                                                                         Page 1 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Congo, Democratic Republic                     P178684                                                 DRC Girls Learning and
+  of                                                                                                     Empowerment Project
+                                                                                                         (P178684)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  EASTERN AND SOUTHERN                           Dec 05, 2022               Apr 17, 2023                 Education
+  AFRICA
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Democratic Republic of     Ministere de l'Education
+                                                 Congo                      Primaire, Secondaire, et
+                                                                            Technique (MEPST)
+
+   Proposed Development Objective(s)
+
+    To improve equitable access and teaching and learning conditions at secondary schools, particularly for girls with the
+    focus on science, technology, engineering and math (STEM) and Sexual and Reproductive Health (SRH) in selected
+    provinces
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                   250.00
+    Total Financing                                                                                                      250.00
+
+                             of which IBRD/IDA                                                                           250.00
+    Financing Gap                                                                                                           0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Development Association (IDA)                                                                       250.00
+
+          IDA Credit                                                                                                     250.00
+
+
+
+
+  Environmental and Social Risk Classification                              Concept Review Decision
+
+
+Jun 05, 2022                                                                                                           Page 2 of 19
+            The World Bank
+            DRC Girls Empowerment Project (P178684)
+
+
+     Substantial                                                                  Track II-The review did authorize the preparation to
+                                                                                  continue
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+     1. The Democratic Republic of Congo (DRC) is the largest country in Sub-Saharan Africa – with a population estimated
+        at 92.4 million.1 DRC has a long history of conflict, political upheaval and instability, and authoritarian rule, all of
+        which contributed to its deep fragility. Due to abundant and diverse natural resources, a strategic location at the
+        center of Africa, and a large and young population, DRC has considerable economic potential. However, the lack of
+        good governance, weak fiscal institutions, mismanagement of natural resources, and protracted conflict and violence
+        have all contributed to limited progress in building human capital and infrastructure and resulted in economic
+        underperformance and high levels of poverty.
+     2. The third largest population of poor in the world lives in the DRC. Although the two existing household budget
+        surveys (2005 and 2012) have revealed a decline in the extreme poverty from 94.3 percent to 77.2 percent between
+        2005 and 2012, because of the high population growth (3 percent), the number of poor people has increased by
+        about 1.5 million every year.
+     3. Notwithstanding these significant and persistent challenges, there are indications that the social contract in DRC
+        may be changing. The government that was formed in the spring of 2021 is showing commitment to reform and to
+        addressing ongoing challenges to development. This is manifested in the adoption, in October 2021, of the country’s
+        first conflict prevention and stabilization strategy and a new community-based reintegration and stabilization
+        program in the eastern part of the country. There has also been progress in the implementation of the free primary
+        education policy—the first high-level political commitment to reform and the provision of basic services since the
+        collection of school fees began 40 years ago. In addition, the new government has restarted a program with the
+        International Monetary Fund (IMF), after the last program was interrupted in 2012 due to transparency concerns
+        around large contracts in the mining sector. The recent appointment of a new governor of the Central Bank of Congo,
+        a selection based on merit over connections, could signal a welcome direction toward open and competitive
+        recruitment processes for key governmental positions.
+     4. The DRC ranked 164th out of 174 countries on the 2020 Human Capital Index (HCI), reflecting decades of conflict
+        and fragility, and constraining development. The country has an HCI score of 0.37, which is below the 0.40 average
+        for Sub-Saharan Africa (SSA) and means that a Congolese child born today can expect to achieve only 37 percent of
+        her potential, compared to what would have been possible if they had benefited from a full, quality schooling
+        experience and optimal health conditions. The main contributors to low HCI are low child survival under age 5 (0.91),
+        child stunting (share of non-stunted only 0.57) and quality of education (while a 4-year-old child is expected to
+        complete 9.1 years of schooling before her 18th birthday, factoring in what children actually learn, expected years of
+        school is only 4.5 years). While girls are doing better in terms of health components of HCI, they are lagging boys
+        both in terms of expected years of schooling and learning outcomes.
+
+
+ 1   World Bank (April 2022): Macro Poverty Outlook (estimate, the latest census took place in 1984).
+
+Jun 05, 2022                                                                                                                    Page 3 of 19
+           The World Bank
+           DRC Girls Empowerment Project (P178684)
+
+
+     5. The DRC ranked 175 out of 189 countries in the 2020 Gender Inequality Index, which benchmarks national gender
+        gaps using economic, political, education, and health criteria. Similarly, the Gender Development Index is currently
+        0.845, indicating women’s human development is about 84 percent that of men’s (UNDP 2020). Across the DRC, girls
+        and women face profound and interconnected disadvantages compared to men. National-level indicators of the
+        World Bank’s Africa Human Capital Strategy show that girls and women in the DRC are highly disadvantaged in terms
+        of empowerment and agency over life choices; access to enhanced health services to enable family planning;
+        education, particularly at the secondary level and beyond; and employment, in terms of labor market participation
+        and earnings. Gender-Based Violence (GBV) is pervasive in the country, with 52 percent of all women aged 15-49
+        reported experiencing physical violence1 and 27 percent have experienced sexual violence1, most commonly by a
+        current or former husband or intimate partner.1 This level of violence, higher than Sub-Saharan Africa regional and
+        global averages, represents a critical barrier to women’s and girls’ full participation in the social and economic space.
+     6. The COVID-19 pandemic has deepened challenges in human development, especially for women, girls, and
+        children. First, according to interviews with school directors, the school attendance has dropped after the reopening
+        of schools following a 7-month closure period due to COVID-19 restrictions. Second, tensions in the food supply
+        emerged in the areas most affected by COVID-19 resulting in rising malnutrition of young children as evidenced by
+        the surveys undertaken by the Social Sciences Analytics Cell (SSAC). Furthermore, there has also been a decrease in
+        contraception use, an increase in pregnancies, and lower attendance vis-a-vis antenatal care. The rise in early
+        pregnancies is pushing young girls out of school. Finally, the incidence of sexual- and gender-based violence increased
+        dramatically, with rates more than doubling since the beginning of the COVID-19 crisis.
+     7. Addressing gender disparities, by investing in the girls’ empowerment, learning, and health, and by expanding
+        their economic opportunities will be critical for the DRC government to revitalize the economy and put the country
+        on a path towards sustainable development. Achieving sustained results in improving girls’ education will be
+        particularly important as it can be a powerful transformative force for the girls, their communities, and the economy
+        as a whole. Girls’ education, especially at the secondary level, is a consistent factor that has been found to positively
+        influence not only the girls’ lives, but also improve numerous other development outcome, including reducing child
+        and maternal mortality, improving educational outcomes of offspring, reducing poverty and achieving equitable
+        growth (World Development Report (WDR), 2012).
+     8. Climate change poses a serious risk to the DRC’s sustainable development. Due to a combination of political,
+        geographic, and social factors, the DRC ranks 177 out of 181 on the 2018 Notre Dame Global Gain Index,2 illustrating
+        high vulnerability to climate change. Globally, DRC is therefore one of the most vulnerable countries but the 5th least
+        ready3 country – meaning that it is very vulnerable to, yet extremely unready to muster the required investments to
+        address climate change effects.4
+     Sectoral and Institutional Context
+
+     9. Primary and secondary education in the DRC is represented by public and private schools with public schools
+        managed under two regimes écoles conventionnées and écoles non-conventionnées. Public schools comprise the
+        majority of schools – 84 percent in primary and 71 percent in secondary education. Conventionnées schools account
+        for 80 percent of public primary and 77 percent of publics secondary schools and are managed by faith-based
+        organizations (FBOs) under a 1977 agreement. The agreement establishes that the State ‘organizes’ education and
+
+ 2 The ND-GAIN Country Index summarizes a country's vulnerability to climate change and other global challenges in combination with its readiness
+ to improve resilience - https://gain.nd.edu/our-work/country-index/.
+ 3 Readiness measures a country’s ability to leverage investments and convert them to adaptation actions.
+ 4 Climate Change Profile: Democratic republic of Congo (2018) Ministry of Foreign Affairs of the Netherlands. Accessed at:
+
+ https://reliefweb.int/sites/reliefweb.int/files/resources/DRC%2B%28east%29.pdf
+
+Jun 05, 2022                                                                                                                           Page 4 of 19
+           The World Bank
+           DRC Girls Empowerment Project (P178684)
+
+
+         churches ‘manage’ the schools. The State defines the pedagogical programs, oversees quality, and pays personnel
+         and operating costs. FBOs hire teachers and mobilize additional resources as needed, including for new
+         infrastructure. They have their own administration and inspection services. Non-conventionnés schools are managed
+         directly by the Government. Both types of schools are supervised by administrative structures known as
+         management offices (bureaux gestionnaires (BGs)). Private schools make up 16 percent of all primary schools and
+         disproportionately serve the better-off families (30 percent of their students come from the top quintile, and only 11
+         percent come from the bottom quintile).5
+     10. The government of the DRC has been making efforts to improve access to education, as a result the enrollment
+         rates have improved significantly across the whole education system between 2000 and 2017 in DRC for both boys
+         and girls. Overall, in 2017 about 87 percent of school-age children (6-17 years old) were enrolled in school, compared
+         to 58 percent around two decades earlier. At the primary level, net enrollment has increased by 50 percent, from 52
+         to 78 percent, and girls have caught up to boys (Figure 1). In 2018, approximately 17 million children were enrolled
+         in primary education (public and private) in the DRC across more than 53,000 schools staffed by 540,000 teachers.
+         The estimated net primary attendance rate was 78 percent, with over 4 million primary school-age children out of
+         school.6,7 Despite starkly lower access at the secondary level, enrollment rates have increased even faster over the
+         same period, with lower secondary net enrollment increasing six-fold from 5 to 31 percent and upper secondary net
+         enrollment increasing five-fold from 7 to 34 percent. In 2018, approximately 6 million children enrolled across more
+         than 28,000 schools staffed by 378,000 teachers.
+
+                                 Figure 1: Trends in net enrollment rates, by educational level, 2000-2017
+
+
+
+
+        Note: MICS 2000-01, 2009-10, and 2017-18 surveys are used for 2000, 2009 and 2017 data points respectively. DHS 2007 and 2013-14 are used
+        for 2007 and 2013 data points respectively. Because of different survey methods, comparisons across surveys may be imperfect.
+
+     11. Yet, girls are less likely than boys to make the transition from primary to lower secondary school as well to
+         complete full cycles of lower and upper secondary with large variation across provinces. Transition rates between
+         primary and lower secondary show that girls are 9 percentage points less likely to complete the cycle and go onto
+         lower secondary.8 Furthermore, girls are less likely to complete upper secondary education, with completion rate for
+         boys at 46 percent and for girls - only 29 percent. Completion rates in primary and lower secondary level are higher
+
+ 5
+   World Bank. 2015. Public Expenditure Review of the Education Sector in the Democratic Republic of Congo.
+ 6 World Bank. 2018. Systematic Country Diagnostic; INS/UNICEF. 2019. DRC 2017-18 Multiple Indicator Cluster Survey.
+ 7 Since September 2019, the Government estimates that about 2.5 million children have entered the system.
+ 8 MEPST Annuaire Statistique 2017-18.
+
+
+
+Jun 05, 2022                                                                                                                          Page 5 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+      for boys than girls in most of the provinces (Figure 2). Rural girls are particularly vulnerable as rural girls are 23
+      percentage points less likely than rural boys to enter grade 12.
+               Figure 2: Proportion of children of completion age to have completed each school level, 2017/18
+
+
+
+
+     Note: Completion rates are calculated using 3 to 5 years above the official completion age Source: MICS 2017/18
+  12. Gender gaps in enrollment are particularly stark in certain provinces (Figure 3). The five provinces with lowest net
+      enrollment rate for girls’ education at the lower secondary education were in Kasai - 3.1 percent, Kasai Central -11.3
+      percent, Ituri – 12 percent, Kasai Oriental – 20.4 percent, and South Kivu – 27.5 percent. In terms of gender gaps, net
+      enrollment for girls is lower in 21 of the 26 provinces. The provinces with lowest NER for girls, except for Kasai Central,
+      also have the highest gender gap in the NER: Kasai – 23.2 percentage points (pp), Kasai Central - - 2.3pp (boys NER
+      was 8.9 percent), Ituri – 8.5pp, Kasai Oriental – 5.9pp, and South Kivu –7.5pp.
+
+
+
+
+Jun 05, 2022                                                                                                           Page 6 of 19
+           The World Bank
+           DRC Girls Empowerment Project (P178684)
+
+
+                                 Figure 3: Secondary net enrollment, by province and gender, 2017/18
+
+
+
+
+               Note: Only secondary school aged children (12-17) are used for this analysis. Source: MICS 2017-18.
+
+     13. While the DRC government has made laudable efforts to bring children to school, the country faces a learning crisis
+         as learning levels are low for both genders.9 About 97 percent of children in the DRC were living in learning poverty
+         in 2021, meaning they could not read and understand a simple paragraph at age 10. Learning poverty in DRC is 10.6
+         percentage points higher than the average for the Sub-Saharan Africa region and 5.9 percentage points higher than
+         the average for low-income countries.10 Results from the 2019 PASEC show by the end of primary school, only 27
+         percent of students cleared the language competency threshold, and a mere 18 percent passed the math threshold.
+         Similarly, results from the 2018-19 EGRA/EGMA assessment show that 64 percent of 4th graders are unable to read a
+         single word of simple text in French, and 63 percent are unable to correctly answer a single multiplication problem.
+         There is no statistical difference in learning outcomes for girls and boys. While there were no standardized learning
+         measurement assessments conducted at the secondary level, learning adjusted years of schooling (LAYS) – a proxy
+         for quality of education – demonstrate a huge learning gap: a four-year-old child is expected to complete 9.1 years
+         of schooling before her 18th birthday, however, factoring in what children actually learn at school proxied by
+         standardized PASEC scores, demonstrate that this is equivalent only to 4.5 LAYS.
+     14. Adolescent girls and boys in the DRC face specific constraints in accessing and completing secondary education
+         which are complex and multi-dimensional. Based on extensive consultations and recently carried out analytical
+         studies by the World Bank,11 a number of supply and demand side constraints to accessing quality secondary
+         education were identified and described below.
+     15. On the supply side, the existing infrastructure for secondary schools in DRC is poor and is disproportionately
+         disadvantageous for girls. Secondary schools are too few and too far, leading to long travel times and increasing both
+         transport costs and security risks for teenage girls, especially in conflict-affected provinces. Existing schools lack
+         gender-segregated sanitation facilities and running water, which can lead girls to be absent during menstruation or
+         to drop out prematurely. Low share of female teachers creates further challenge for access, especially for girls.
+
+
+ 9 While the DRC does not have any national student exams prior to grade 6, three recent learning assessments provide data on the learning levels
+ of primary and lower secondary school-age children: (i) MICS household survey data; (ii) EGRA (reading) and EGMA (Math) 2nd and 4th grade
+ assessments, and (iii) PASEC language and math tests administered to students at the start and at the end of their primary schooling.
+ 10 https://documents1.worldbank.org/curated/en/289621624877434754/pdf/Congo-Democratic-Republic-Learning-Poverty-Brief-2021.pdf
+ 11 Adelman, M., Faron de Goër, E., Sallami, M., and I. Trako. 2021. “Empowering Girls and Enhancing Learning in the DRC.�? World Bank,
+
+ Washington, DC; Gauthier, B., Abouly, Y., and A. Y. Chang. 2021. “Service Delivery Indicators (SDIs) in DRC.�? World Bank, Washington, DC.
+
+Jun 05, 2022                                                                                                                            Page 7 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+          •    The secondary school network is limited, and existing secondary schools lack classrooms, leaving many
+               children out of school.12 While at the primary level, supply still remains a constraint in many areas (Figure 4)
+               with eight provinces (including Kinshasa) having 3 or fewer primary schools per 1,000 primary school-age
+               children, at the secondary level, the school network is even more limited, with 10 provinces (including
+               Kinshasa) having 1-2 secondary schools per 1,000 secondary school-age children and youth. Even if schools
+               are relatively large in terms of enrollment, dispersed populations and lack of safe transportation networks
+               mean that these levels of school supply are likely very inadequate. There are insufficient classrooms,
+               particularly in Grades 7 and 8. Of the 27,168 public secondary schools, 7,391 have a student-classroom ratio
+               (SCR) of 50 or above at Grade 7; at Grade 8, there are 5,237 such schools (MEPST, Geolocalisation database).
+
+
+                   Figure 4: Number of schools per 1000 children of school age, by level and province, 2018
+
+
+
+
+ Source: Annuaire Statistique 2017-2018
+
+          •    The existing infrastructure in many government schools is inadequate. Of the 208,317 public secondary
+               classrooms, 16.5 percent are constructed of straw and leaves and 25.6 percent of clay. Only 3.6per cent of
+               the schools have latrines; of these, 45.6 percent are made of straw and leaves. One of every five available
+               classroom benches is in poor condition (Annuaire Statistique 2019/2020).
+          •    The scarcity of water, sanitation, and hygiene (WASH) facilities, particularly lack of separate toilet facilities
+               and water availability, and lack of health services can impact girl’s performance (Sperling and Winthrop
+               2015). In DRC, the availability of water and sanitation facilities tends to vary widely schools. Poor toilet
+               facilities significantly affect young girls who have started to menstruate. The lack of private, gender-
+               segregated toilets with running water creates difficulties for girls managing menstrual hygiene at school and
+               makes it more likely that they stay home during menstruation. This lack of adequate facilities leads to gaps in
+               their attendance, undermines their academic achievement, and increases the risk of them dropping out of
+               school entirely.13
+
+
+ 12 The number of schools also drops dramatically after the primary level, from 53,451 primary schools to only 28,240 secondary
+ schools (Ministry of Education, 2018).
+ 13 WaterAid reports that 7% of school-age girls in Malawi miss school on days of heavy bleeding during their menstrual period (House,
+ Mahon, and Cavill, 2012). Other findings suggest that a girl can miss between 10% and 20% of the school year due to menstrual
+ hygiene management-related issues (World Bank, 2005).
+
+Jun 05, 2022                                                                                                                Page 8 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+  16. There is a profound shortage of female teachers at the secondary level which leads to low outcomes in secondary
+      education especially for girls. Error! Not a valid bookmark self-reference. shows that female teachers represent
+      only 10 percent of the workforce at the secondary level, on average. Global research has shown that teacher gender
+      can have a positive impact on girl’s educational performance, especially in socially conservative cultures, where girls
+      and women are isolated or segregated into sex-specific spaces and have less mobility, or where concerns are strong
+      about physical or sexual violence against girls by teachers or students (Muralidharan & Sheth, 2016; Rawal &
+      Kingdon, 2010; Makwati, Audinos, & Lairez, 2003; Chan, 2004). Research also suggests that hiring more
+      female teachers is necessary in contexts where there is a great disparity in the ratio between male and female
+      teachers and where social norms prevent girls from attending school with male teachers (Kirk, 2004; World
+      Bank, 2005; Sperling & Winthrop, 2015).14
+
+                               Figure 5: Proportion of female secondary school teachers, by province, 2018
+
+
+
+
+      Source: Annuaire Statistique 2017-2018
+  17. Widespread harassment of students by teachers, including SEA/SH, against schoolgirls has been linked to dropouts
+      in the DRC secondary schools. Physical and sexual violence against girls is higher in DRC than in neighboring countries,
+      with adolescent girls and younger women being particularly vulnerable to it, and local community engagement in
+      school management practices is not sufficient to reduce such pervasiveness. Overall, DRC’s violence indicators tend
+      to be significantly higher than the neighboring countries, especially for physical and sexual violence against
+      adolescent girls. In particular, the data shows that in overall population more than half of girls aged between 15 and
+      19 have experienced physical violence and 21 percent sexual violence. In the school environment, the scarcity of
+      female teachers is believed to contribute to this situation. Given the pervasiveness of violence in communities,
+
+
+ 14 Lee, Rhee, & Rudolf, (2019) analyzed over 31,000 sixth graders over 1,800 schools across 10 Francophone African countries and
+ find that girls performed better than boys when taught by female teachers in both reading and math. Similarly, (Dickerson, McIntosh, &
+ Valente, 2015) use earlier SACMEQ and the Programme d’Analyse des Systèmes Educatifs de la CONFEMEN (PASEC) rounds and
+ find that regional characteristics (regional fertility rates, share of uneducated women, share of Muslims) can explain a large part of the
+ variation in math scores across genders in 19 SSA countries.
+
+Jun 05, 2022                                                                                                                      Page 9 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+       without a strong anti-violence focus, accompanied by effective supervision and support, school and local leaders
+       (including school directors, inspectors, and administrators) are unlikely to be able to create safe environments within
+       schools. The WB-financed Emergency Equity And System Strengthening In Education (EESSE) Project (P172341) has
+       explicitly incorporated measures to address these challenges in primary education, lessons from which can be
+       translated to secondary education. In addition, evidence show that targeted attacks on schools in conflicts in Kasai
+       central have disproportionately affected girls, including through sexual violence.15
+  18. While the prevalence of early marriage and early pregnancies remains high in the DRC and frequently lead to the
+      end to girls’ schooling,16 any efforts on informing communities, parents, and children (both girls and boys) about
+      sexual and reproductive health are at the nascent stage. In DRC, the age at which women and girls enter a formal
+      union has increased slightly over time, but it is still quite early. Despite a law prohibiting marriage before the age of
+      18, in 2017/18 almost one-fifth of teenage girls aged 15-19 were married or cohabiting, and 5 percent of them were
+      married or cohabiting before the age of 15.17 Child marriage not only curtails a girl’s education but also puts girls at
+      a higher risk of early pregnancy and complicated childbirth. Trends in teenage pregnancy in DRC show a slight decline
+      over time but they remain very high.18 In 2017/18, almost one-fourth (23.4 percent) of teenage girls aged 15-19 has
+      already had at least a child or is pregnant, with 2 percent being pregnant even before the age of 15.
+  19. The quality of schooling and learning environment, which is critical for improving learning outcomes and retaining
+      girls in school, is poor in the DRC. Particularly these constraints are demonstrated by inadequate learning materials,
+      shortage of qualified and trained teachers, lack of learning assessment system at the secondary level, and lack of life-
+      skills for the girls who dropout.
+  20. The lack of learning and teaching materials and their quality contributes to poor learning outcomes. There is a
+      severe shortage of textbooks and other teaching-learning materials and equipment. For example, in Grade 7 there
+      is one French Language textbook for every 12.9 students, one Mathematics textbook for every 20.1 students, and
+      one Science textbook for every 26.7 students. The ratios improve somewhat over the secondary cycle, but for Grade
+      12 still remain prohibitively high (7.5, 10.9 and 18.6, respectively). There is one computer for every 385 students,
+      and one scientific kit (often incomplete) for every 1.5 schools (Annuaire Statistique 2019/2020).
+  21. Existing teachers are inadequately skilled across the board including in STEM. Across the country, there are not
+      enough well-prepared teachers and even fewer teachers of Science, Technology, Engineering and Mathematics
+      (STEM). The WB-financed Quality and Relevance of Secondary and Tertiary Education Project (PEQPESU) (P149233)
+      has enacted initiatives and pilots to improve the curricula in certain STEM subjects as well as train teachers on the
+      delivery of those curricula, thereby laying foundations for increasing qualified teacher in STEM. Furthermore, in
+      general there is a shortage of qualified teachers - data show that only 25 percent of secondary school teachers had
+      post-secondary degree (Annuaire Statistique 2017/2018). Underqualified and under-trained teachers further gender
+      stereotypes which can impede girls’ education. In many classrooms, gender stereotypes are furthered by teachers
+      assigning domestic roles to girls, such as cleaning and water collection, and not calling upon girls equally to participate
+      actively in the classroom. Boys, on the other hand, are given more responsibilities and many educators still believe
+
+ 15 Global coalition to protect education from attack, “All That I Have Lost�?: Impact of Attacks on Education for Women and Girls in Kasai Central
+ Province, Democratic Republic of Congo https://protectingeducation.org/publication/all-that-i-have-lost-impact-of-attacks-on-education-for-
+ women-and-girls-in-kasai-central-province-democratic-republic-of-congo/
+ 16 Note that the relationship between early pregnancies and marriages and schooling can go in both directions. On the one hand, early pregnancies
+
+ and marriages frequently lead to girls dropping out of schools; on the other hand, lack of access to schools may results also in early marriages and
+ pregnancies.
+ 17 MICS 2017/18. Data from the 2013/14 DHS report show that 41.5 percent of women aged 20-49 are married before the age of 18, and 13
+
+ percent are married before the age of 15.
+ 18 The main causes of teenage pregnancy in Africa include sexual exploitation and abuse, poverty, lack of information about sexuality and
+
+ reproduction, and lack of access to services such as family planning and modern contraception.
+
+Jun 05, 2022                                                                                                                            Page 10 of 19
+          The World Bank
+          DRC Girls Empowerment Project (P178684)
+
+
+       them to have greater learning abilities, in particular in the STEM fields (Frei & Leowinata, 2014). Few teachers
+       in DRC are provided training to challenge these biases and support adolescent girls through guidance and counseling.
+       While many partner-led initiatives have addressed sexual harassment and gender-based violence in schools, the
+       majority of teachers have not received training on these or broader gender issues.19
+  22. The teacher training system is administered by two separate ministries. Preschool and primary school teacher pre-
+      service training is housed under the Ministry of Primary, Secondary Education and Vocational Training (MEPST), while
+      the Ministry of Higher Education is responsible for pre-service teacher training for secondary school teachers. The in-
+      service teacher training is under the responsibility of the Department of the Training (DIFOR-BG) and the National
+      Service of Training (SERNAFOR) of the MEPST. There is a disconnect between pre-service and in-service training, as
+      well as between training in general and the needs that teachers have in the classrooms. Finally, due to the lower
+      participation rates and higher dropout rates of the girls in the secondary education very few girls make it to the
+      university to eventually be trained and become teachers at the secondary school which contributes to the low share
+      of female teachers at the secondary level.
+  23. There is a little or no use of digital technologies as means to support professional development and teachers’
+      classroom practices. Given the critical role that teachers play in the classroom, there is a pressing need for a
+      harmonized teacher development system to be in place. The system should be based on clearly articulated
+      standards, provide sustainable opportunities for continuous professional development and place a greater emphasis
+      on school-based teacher development approaches that incorporate greater use of information technologies. There
+      is substantial evidence that teacher professional practice is developed most effectively in the classroom and school
+      settings, provided they receive sustained support from their peers and school leaders and are provided with
+      complementary materials.20 The supply and use of complementary materials should take advantage of low-cost
+      digital solutions, which provided they are used to support strengthened teaching-learning practices have been shown
+      in different settings to lead to improved teaching practices and children’s learning involvement.21
+  24. Lack of established assessment system and the culture of regular formative assessment in classrooms makes it
+      impossible to monitor the regular learning progress of students at the secondary education . The international
+      assessments, e.g., EGRA/EGMA conducted in 2019 and PASEC 2019, at the primary level demonstrate low learning
+      outcomes. However, there is no established system of learning assessment in secondary education, except for the
+      final school leaving exam, as well as in-classroom teacher observation and support, making it impossible to monitor
+      student progress on a regular basic and make course correction both to improve classroom- and system-level results.
+  25. Adolescent girls, who dropout from secondary school, not only have very low foundational skills, but also
+      frequently lack any life-skills which will help them to integrate into labor markets. As a result, after dropping out
+      for various reasons, e.g., because of early pregnancy and childbearing or to support in household in doing chores and
+
+
+
+ 19 See for example the following blog from Chemonics: Making schools safe across the Democratic Republic of Congo.
+ 20 See e.g. Westbrook, J., Durrani, N., Brown, R., Orr, D., Pryor, J., Boddy, J., and Salvi, F. (2013). Pedagogy, curriculum, teaching practices and teacher
+ education in developing countries: final report. Education rigorous literature review, EPPI-Centre, Social Science Research Unit, Institute of Education,
+ University of London. pp. 61-62.
+ 21 For a discussion on the successful use of digital technologies and open education resources in Bangladesh, see e.g. Power, T., Shaheen, R., Solly,
+
+ M., Woodward, C., and Burton, S. (2012). English in Action: School Based Teacher Development in Bangladesh. The Curriculum Journal, 23(4):503–
+ 529. The Sub-Saharan African consortium ‘Teacher Education in SSA, TESSA’ has found that the combination of digital technologies and educa tion
+ resources has had a ‘significant impact on changing the identity and practices of teacher educators and a profound impact on teachers themselves.’
+ Hartley k. and Barasa F. (2012) Teacher Education in Sub-Saharan Africa: Formative Evaluation Report, p. 24. See also Wolfenden, F., Buckler, A. and
+ Keraro, F. (2012) OER Adaptation and Reuse across cultural contexts in Sub-Saharan Africa: Lessons from TESSA (Teacher Education in Sub Saharan
+ Africa) Journal of Interactive Media in Education. Pp. 16 ff.
+
+Jun 05, 2022                                                                                                                                   Page 11 of 19
+           The World Bank
+           DRC Girls Empowerment Project (P178684)
+
+
+         raising young siblings, they are not equipped with basic financial literacy or negotiations skills to eventually integrate
+         in labor market or start entrepreneurial activities.
+  Relationship to CPF
+
+  26. The proposed Project would be ensconced within the DRC’s Country Partnership Strategy for the period FY 22 -26
+      particularly its significant shift toward the human development sectors. The proposed Project’s would be fully
+      aligned with the CPF’s Focus Area 2: Strengthen systems for improved service delivery and human capital
+      development. The proposed Project will contribute directly to the following within this focus area: (I) strengthen
+      systems to increase access to and quality of services in education; (ii) improve access to basic infrastructure services
+      (WASH); electricity, classrooms; and (iii) improve gender disparities and inclusion across sectors. Moreover, the
+      proposed project would apply all three of the CPF’s cross cutting themes namely, clima te change, gender and
+      governance. The cross-cutting theme of gender in the CPF is aligned with IDA20 focus on gender and development,
+      aiming to reduce persistent gaps and inequities linked to gender in DRC while robustly addressing GBV the proposed
+      project will directly contribute to this.
+  27. The Project would be also aligned with the World Bank’s Strategy for Africa which has a strong focus on girls and
+      women, in particular two of its priorities: (i) to invest in people and (ii) to make institutions more efficient and
+      accountable. It also contributes directly to the World Bank Education Global Practice’s focus on ending learning
+      poverty, which aims to ensure that, at a minimum, all children go to school and learn to read.
+  28. The Project would also contribute to the IDA20 human capital cross-cutting theme specifically its emphasis on girls’
+      education that prioritizes investments in four key areas: (a) removing barriers to girls’ schooling; (b) promoting safe
+      and inclusive schools for girls; (c) improving the quality of education for girls and boys; and (d) developing skills for
+      life and labor market success for young women.
+  29. Moreover, the Project woul contribute greatly to progress towards the achievement of the education objectives
+      of the National Strategic Development Plan (2019-2023) and the first strategic axis of the DRC’s Education Sector
+      Plan (2016-2025) which aims to expand access and ensure quality, through implementing an effective policy for free
+      primary education.
+  C. Proposed Development Objective(s)
+
+      To improve equitable access and teaching and learning conditions at secondary schools, particularly for girls with the
+      focus on science, technology, engineering and math (STEM) and Sexual and Reproductive Health (SRH) in selected
+      provinces
+
+  Key Results (From PCN)
+  The proposed Project aims to achieve the following PDO results:
+    - NER (or student participation) by gender in lower secondary in selected provinces – outcome
+    - Number of teachers using practices from training in classrooms
+    - Teachers recruited or trained (CRI)
+    - Students benefit from direct interventions to enhance learning (CRI)
+  Selected provinces include Ituri, Kasai, Kasai Central, Kasai Oriental, and South Kivu. The selection was based on the
+  lowest girls’ net enrollment rate and highest gender disparities in lower secondary education in 5 out of 9 provinces
+  which are included in the CPF. 22
+
+ 22Among the CPF-targeted provinces, the provinces with the lowest secondary participation rates (1st cycle) are: Kasai (3.1%), Kasai Central
+ (11.3%), Ituri (12%), and Kasai Oriental (20.4%); while among the remaining provinces, South Kivu has the second greatest gender disparity (27.5%
+
+Jun 05, 2022                                                                                                                           Page 12 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+  D. Concept Description
+
+  30. The proposed Project would be implemented over a four-year period using an investment project financing (IPF)
+      modality. In order to benefit from existing systems in the sector that are in the process of being strengthened as
+      well as complementary Bank operations (e.g., Nutrition project under implementation and WASH project under
+      preparation), the Project would focus on five of the nine target provinces of the DRC CPF. The Project would also put
+      in place the fundamentals (currently missing in secondary schooling), to create a learning environment and hence
+      behavior change amongst males and female that is safe, inclusive and free of sexual abuse, exploitation and sexual
+      harassment (SEA/SH) including the introduction of Sexual Reproductive Health (SRH) education in secondary
+      classrooms. This would include the piloting of programs for both girls in schools and those who have dropped out in
+      order to provide them with an opportunity to learn life skills and improve where possible, their livelihoods.
+ Component 1: Empowering Girls through Improved Access to Quality Schools
+
+  31. The objective of this component is to improve access to school though the creation of quality learning environments
+      and increasing the proportion of female teachers.
+ Subcomponent 1.1: Improving learning environments
+
+  32. The objective of this subcomponent is to increase access to quality, girl-friendly and inclusive learning environments,
+      including for children who are refugees, internally displaced or with disabilities. In the poorest urban and rural areas,
+      the Project would finance the construction, furnishing and equipping of 3,000 disabled-accessible and eco-sensitive
+      classrooms, including classrooms to study science and technology. It will also finance the construction of disabled-
+      accessible latrines at 1,000 schools with facilities for menstrual hygiene management and handwashing, as well as
+      water-point or rain-capture technology. The infrastructure would be equipped to mitigate risks posed by climate
+      change and natural hazards, including strategically situated rooms that can serve as shelters in times of crises. Where
+      required, the Project would also finance the construction of office space for the Director and teachers, and the supply
+      of solar panels. Selection criteria for communities would be finalized during preparation, and would include for
+      example: (a) availability of a school within 30 minutes’ walk; (b) a school exists but is not built with durable materials
+      or is dilapidated beyond repair; (c) an agreement with the community to maintain and clean the school as per
+      commitments to be elaborated in the Project Implementation Manual (PIM); (d) a student-classroom ratio well in
+      excess of the national average; and (e) in the case of schools where only latrines are financed, the latrines are either
+      unavailable or beyond repair. Schools would be selected using a geo-localized database of schools completed under
+      the Bank-financed EESSE Project (P172341). The Project would also support the development of new building
+      standards prior to the start of civil works, based on work done by other development partners and other Bank-
+      financed operations.
+  Subcomponent 1.2: Increasing the proportion of female teachers
+
+  33. The objective of this subcomponent is to increase the proportion of female teachers, with a particular focus on STEM
+      subjects. The Project would finance (i) a campaign to raise awareness among young women about teaching careers
+      and opportunities (ii) conditional scholarships for female teacher trainees. and (iii) bonus payments both to the
+      training institution and the trainee upon successful graduation and her signing of a contract to teach at a public
+      secondary school in the project provinces. The Project will provide technical assistance to support the MEPST to
+
+
+
+ for girls vs. 35% for boys). See MICS 2019.
+
+Jun 05, 2022                                                                                                         Page 13 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+      develop a policy to promote female participation in teacher training, as well as to increase the proportion of female
+      teachers.
+  Subcomponent 1.3: Ensuring safe and inclusive access for girls
+
+  34. The objective of this subcomponent is to promote girls sustained participation in education by ensuring that schools
+      are safe and inclusive, with a particular focus on eliminating sexual exploitation and abuse/harassment (SEA/SH). The
+      Project would finance communications campaigns including awareness-raising sessions for school and community
+      members to promote girls’ participation in education, establish and promote a policy of non-violence and inclusion,
+      create a learning environment with zero tolerance for SEA/SH, roll-out of codes of conduct and related accountability
+      measures to target schools, disseminate sanctions for non-compliance, complaints submission, and care available
+      and monitoring for safety and inclusion. Building on mechanisms established in the Bank-financed EESSE Project
+      (P172341), each school would establish a Grievance Redress Mechanism (GRM) committee made up of local
+      stakeholders, with at least one female focal point responsible for SEA/SH issues to be identified in a participatory
+      manner and through students’ engagement; and each teacher would sign the recently updated Code of Conduct that
+      specifies prohibited behaviors including sexual, physical and emotional violence as well as discrimination and outlines
+      the accountability and response framework including sanctions for non-compliance. School-level focal points would
+      be trained on how to deal with complaints according to the accountability and response framework, including how
+      to receive complaints, provide basic psychosocial support and refer sexual assault cases to emergency medical care.
+      They would also be trained and provided with resources to establish and operate girls’ clubs that focus on
+      empowering girls and their families to attend school and to challenge social norms that harm girls’ well-being.
+  35. The school GRM committee would be linked with existing education GRM focal points at the local (sous-Proved),
+      provincial and national levels, to enable the referral of grievance cases as needed. The Project would also finance on
+      a cost-sharing basis the operations of an existing education sector national hotline (Allô Ecole) to receive grievances
+      through voice calls and SMS messages free-of-charge. The Project would finance the strengthening of the operators’
+      capacity on intake and management of SEA/H complaints, including the referral of cases to the relevant MEPST
+      department based on the accountability and response framework, as well as on how to support persons with
+      disabilities with resource information and referrals. All GRM SEA/SH-specific channels would be designed to allow
+      for the safe and confidential disclosure, documentation, response and management of SEA/SH grievances, including
+      the update of referral pathways developed under the EESSE Project. Regarding services for survivors, the Project
+      would also finance psychosocial support, referral to medical case in cases of sexual assault, and the purchase and
+      prepositioning of Post-Exposure Prophylaxis (PEP) kits and related training in select provinces where existing stock is
+      inadequate, building on the efforts put in place by the primary education project.
+ Component 2: Empowering Girls through Improved Quality of Teaching-Learning
+
+  36. The objective of this component is to empower students, particularly girls, through an improved availability and
+      quality of teaching-learning resources and practices
+ Subcomponent 2.1: Strengthening the Curriculum, Textbooks, and Teaching-Learning Materials
+
+  37. The objectives of this subcomponent are to strengthen the curriculum and increase the availability and use of quality,
+      affordable and gender-sensitive textbooks and teaching materials. The Project would finance the following activities
+      (i) revision of the secondary school and secondary teacher training curricula to incorporate sexual and reproductive
+      health, both curricula would also be reviewed through a gender lens and strengthened; (ii) strengthening of
+      guidelines for textbook developers and suppliers, to ensure that textbooks are aligned with curriculum revisions,
+      incorporating inter alia sexual and reproductive health, and positive representations of girls and women, particularly
+
+
+Jun 05, 2022                                                                                                      Page 14 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+      in STEM subjects; (iii) a series of workshops for national textbook and teaching-learning materials writers and
+      publishers on the development of textbooks, particularly for STEM, with a view to strengthen their capacities to
+      produce affordable textbooks and other teaching-learning materials; (iv) printing and distribution of a set of
+      textbooks for each public secondary school in the Project provinces, with a focus on STEM subjects. Schools would
+      receive a set with sufficient books to have one textbook per two students, as well as a case for storing the books;
+      along with guidance for the teacher and director on how to use the textbook for classroom instruction and
+      homework, and to manage the use and conservation of the books; and (v) the purchase and delivery of a set of
+      natural sciences teaching-learning materials (building on and complementing the kits provided under a prior Bank-
+      financed operation, P149233); a digital device; a projector; and, where needed, a solar panel to recharge the digital
+      device and projector. The digital device would be loaded with teaching-learning resources to support STEM subjects,
+      including digital labs.
+ Subcomponent 2.2: Strengthening the quality of teaching
+  38. The objective of this subcomponent is to strengthen the quality of teaching at public secondary schools. At the
+      teacher training level, the Project would finance (i) the development of training modules on sexual and reproductive
+      health, to be incorporated into the teacher training curriculum; as well as of a module (particularly targeted at female
+      teacher trainees), on how to mentor girls on empowerment including to pursue STEM-related studies and careers;
+      and (ii) the training of IPST faculty on how to deliver these modules to their teacher trainees.
+  39. At the secondary school level, the Project would finance the design and implementation of a model of local
+      continuous professional development (CPD) including (i) the development of a model that uses a valid approach and
+      instrument to measure teacher practices, identify areas in need of strengthening, and provide continuous feedback;
+      and that can be linked to local inspection and in-service training services; (ii) the training on how to implement the
+      model in all public secondary schools in the Project provinces, covering teachers, school directors and the local
+      pedagogical support staff visiting the schools. School directors and teachers would be trained to use the tool to
+      perform regular classroom observations and provide feedback and mentoring. Local officials would also be trained
+      to perform regular classroom observation using the instrument, to provide tailored and actionable feedback to
+      teachers during their regular visits, and to guide teachers and directors for mutual coaching in between the local
+      officer visits, as well as to aggregate findings from classroom observations to provide focus and material for local
+      pedagogical days; and (iii) the acquisition of digital tools and materials for schools participating in the CPD training,
+      such that there is one digital device each for the school director, inspector and animateur pédagogique attached to
+      the school. The digital devices would be preloaded with content related to the training and the CPD activities at
+      school.
+  40. The design of the training content would be informed by a baseline evaluation of teaching-learning practices (see
+      subcomponent 2.3). In addition to digital skills (to use the digital devices supplied under the project), ethics, GBV,
+      FCV sensitivities, climate change, inclusive education and safe schools, trainings would focus on the following four
+      areas: (a) key teaching-learning practices, including formative assessments to identify children falling behind and at
+      risk of dropping out; (b) classroom management techniques, including the management of large groups and
+      leveraging peer instruction; (c) the creation of a pedagogical culture at school and local levels, including (as
+      elaborated in the previous paragraph) classroom observation and feedback by directors, inspectors, pedagogical
+      facilitators, and other teachers; (d) the support of female teachers and the promotion of girls’ empowerment; and
+      (e) the use of the digital materials supplied to support STEM teaching including the use of the digital labs.
+ Subcomponent 2.3: Strengthened systems for education quality assurance
+  41. The objective of this subcomponent is to ensure the availability and use of information pertaining to the quality of
+      education. The Project would finance (i) the development or adaptation of a valid approach and instrument for
+      measuring classroom teaching-learning practices at the secondary level. This instrument would be used by the CPD
+
+
+Jun 05, 2022                                                                                                        Page 15 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+      model supported under subcomponent 2.2 and will include a baseline sample-based observation of practices in
+      Project schools, to establish baseline information that would be used to support the design of the training of teachers,
+      school directors and local pedagogical support personnel and school directors foreseen under subcomponent 2.2; as
+      well as at least one follow-up sample-based observation to gain insight into changes in teaching-learning practices
+      that have followed the introduction of the local CPD model; (ii) the development of a learning assessment tool for
+      Grade 8; as well as the strengthening of the terminal exam administered at the end of Grade 12 to certify graduation
+      from secondary school.
+  Component 3: Empowering Girls through the Provision of Life Skills, Project Management, Monitoring and Evaluation
+
+  42. The objectives of this Component are to provide life skills and knowledge to generate income and promote sexual
+      and reproductive health for girls; and to ensure that capacities and systems are in place to achieve project results
+      while adhering to corporate safeguards and requirements, including those pertaining to fiduciary functions and
+      monitoring, reporting and evaluation.
+ Subcomponent 3.1: Providing income-generating and life skills to adolescent girls and improving health knowledge and
+ practices
+
+  43. The objective of this subcomponent is to improve health knowledge and practices among secondary school students
+      and out-of-school adolescents through girls’ clubs including the piloting of income-generating opportunities and life
+      skills. The Project would finance (i) the development of a package of sexual and reproductive health information
+      materials for adolescents. The package would be a culturally appropriate program that includes sex education, rights
+      education, prevention strategies for sexually transmitted infections/HIV and AIDS and pregnancies, prevention of
+      early marriages, information on alcohol and drug abuse, mental health information, and SEA/SH awareness; (ii) the
+      printing and delivery of the materials to 2,000 public secondary schools, as well as the training of female teachers,
+      parents and other key community members, and the mobilization of NGOs to enable its delivery; and (iii) the package
+      delivery through a series of extracurricular sessions throughout the school year, with some sessions delivered to both
+      sexes, others to girls and their mothers (or other female caregiver), and some targeted at boys to focus on themes
+      of positive masculinity; out of school adolescents would also be mobilized and encouraged to participate. To support
+      the delivery of sessions to girls and their mothers, the Project would finance local NGOs to support the establishment
+      of girls’ clubs; club sessions would also address various themes of female empowerment.
+  44. Furthermore, on a pilot basis, the Project would finance civil society organizations to establish and operate 50
+      adolescent development clubs in South Kivu. The clubs would be targeted at girls who are either in or out of school,
+      including those who are survivors or at risk of sexual violence, with a view to creating safe spaces for girls to learn
+      and to meet and socialize with other adolescent girls. The clubs would work to build human capital through the
+      simultaneous provision of market-relevant skills in vocational trades, entrepreneurship and financial literacy; and of
+      life skills empowering girls to make informed choices about sex, reproduction and marriage. To these ends, the
+      Project would finance trainings, equipment and operating costs to enable the clubs to operate. The proposed Project
+      would explore girls’ club models that have shown positive results in countries such as Uganda, where safe spaces are
+      created for child survivors and others at risk of sexual violence. The clubs would also provide peer-to-peer learning,
+      empowerment and life skills courses, as well as entrepreneurship and financial literacy.
+ Subcomponent 3.2: Project Management, Monitoring and Evaluation
+
+  45. This subcomponent would finance project operating costs, including inter alia personnel costs associated with
+      hiring/seconding staff and contracting technical assistance for the Project Coordination Team (PCT), equipment,
+      supervision costs and incremental operating costs at departments working on project implementation. Finally, the
+
+
+Jun 05, 2022                                                                                                       Page 16 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+      component would finance activities for monitoring, evaluating and reporting. As well as an overall project evaluation,
+      the Project would finance specific evaluations of the scholarships for teacher trainees (subcomponent 1.2), as well
+      as of the girls’ clubs and SRH interventions (subcomponent 3.1) in collaboration with DIME and GIL.
+  Component 4: Contingency Emergency Response (CERC) (US$ 0).
+
+  46. A no-cost CERC would be included in accordance with World Bank Investment Project Financing (IPF) Policy
+      (paragraphs 12 and 13) for projects in Situations of Urgent Need of Assistance or Capacity Constraints. This would
+      allow for rapid reallocation of project proceeds in the event of a natural or man-made disaster or crisis that has
+      caused, or is likely to imminently cause, a major adverse economic and/or social impact.
+  47. The Project would also include cross-cutting areas throughout different components including harnessing the
+      technology to strengthen implementation of project activities as well as support teaching and learning processes at
+      the school level; taking a multidimensional approach to reducing the gender gap, for example, through encouraging
+      female teacher recruitment, revising curricula through a gender lens, as well as designing explicit interventions
+      targeting girls; and being inclusive of children with disabilities through capital, e.g., rehabilitation/construction, and
+      soft interventions, e.g., teacher training, curriculum adaptions.
+
+
+
+  Legal Operational Policies                                                               Triggered?
+  Projects on International Waterways OP 7.50                                              No
+  Projects in Disputed Areas OP 7.60                                                       No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  .
+
+ The project is rated Moderate for Environmental risks, Substantial for Social risks, and High for SEA/SH risks. The
+ anticipated Environmental risks and impacts of the proposed project are minor, localized and can be avoided or
+ minimized. Those risks will be generated by the implementation of activities under subcomponent 1.1, construction,
+ furnishing and equipping of disabled-accessible and eco-sensitive classrooms as well as a science and technology
+ laboratory; disabled-accessible latrines with facilities for menstrual hygiene management and handwashing; a water-
+ point or rain-capture technology, girl?s latrine and of office space for the Director and teachers but also the supply of
+ solar panels. The adverse risks and impacts are mainly linked to civil works and may include occupational health and
+ safety of workers, community health and safety, waste generation, soil erosion and runoff, fugitive dust and air emissions,
+ noise from construction, traffic safety risks (from vehicles transporting construction materials to or from project sites),
+ potential hazardous materials and oil spills associated with equipment operation, risks related to COVID-19 pandemic,
+ community exposure to diseases, hazardous materials and emergency preparedness. These potential adverse risks and
+ impacts are expected to be medium scale, reversible, of limited duration (construction phase) and site-specific and, can
+ be managed through application of appropriate mitigation measures.
+
+ Potential Social issues and risks include SEA/SH risks and violence against beneficiaries at the hand of teaching personnel
+ and other school-related staff, conflict (specifically in Ituri, Kasai, and South Kivu), risks of GBV among beneficiaries of
+ project activities, resettlement activities as a result of the planned civil works (rehabilitation and construction activities of
+ schools and WASH facilities), potential labor influx as a result of construction works and labor issues (child labor, poor
+ labor practices, insufficient wages), discriminatory employment (recruitment, retention and promotion of women as
+ teachers and directors, including women from IP communities and other marginalized groups), and community or
+
+Jun 05, 2022                                                                                                          Page 17 of 19
+          The World Bank
+          DRC Girls Empowerment Project (P178684)
+
+
+ household level social tensions as a result of its strong focus on providing benefits for girls and women. The risks and
+ impacts will be identified in the ESF instruments that will be prepared at various stages of the project cycle, and these will
+ also propose specific measures to address the risks and impacts in a manner that is commensurate with the risk.
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Scherezad Joya Monami Latif, Yevgeniya Savchenko
+     Lead Education Specialist, Program Leader
+
+
+     Borrower/Client/Recipient
+     Democratic Republic of Congo
+
+
+
+
+     Implementing Agencies
+
+     Ministere de l'Education Primaire, Secondaire, et Technique (MEPST)
+     Valere Munsya
+     Permanent Secretary of Education Coordination
+     munsya@yahoo.fr
+
+
+     FOR MORE INFORMATION CONTACT
+     The World Bank
+     1818 H Street, NW
+     Washington, D.C. 20433
+     Telephone: (202) 473-1000
+     Web: http://www.worldbank.org/projects
+
+
+
+     APPROVAL
+
+     Task Team Leader(s):                     Scherezad Joya Monami Latif, Yevgeniya Savchenko
+
+     Approved By
+     APPROVALTBL
+     Country Director:                       Issa Diaw                                 27-Jun-2022
+
+
+
+Jun 05, 2022                                                                                                       Page 18 of 19
+         The World Bank
+         DRC Girls Empowerment Project (P178684)
+
+
+
+
+Jun 05, 2022                                       Page 19 of 19
+

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Workflow v1</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+.steps{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.s{border:1px solid #e2e6ec;border-radius:8px;padding:8px 12px;font-size:12px;min-width:130px;background:#fff}.s b{display:block}
+.a{color:#64748b}table{border-collapse:collapse;width:100%;font-size:13px}th,td{border:1px solid #e2e6ec;padding:6px 8px;text-align:left;vertical-align:top}th{background:#f8fafc}code{background:#eef1f5;padding:1px 4px;border-radius:3px}</style></head>
+<body>
+<h1>Workflow v1 - screen · extract · match · validate · replicate</h1>
+<p>Produces one <em>ProjectRecord</em> per project: an innovation tier, a Yes/No/Unclear verdict and a list of approaches, each with verbatim evidence and four classified attributes.</p>
+<div class="steps">
+<div class="s"><b>0 · Screen</b>keyword dictionary (Appendix B) → tier</div><span class="a">→</span>
+<div class="s"><b>1 · Select documents</b>PAD › Project Paper › PID + latest ISR</div><span class="a">→</span>
+<div class="s"><b>2 · Extract</b>LLM → approaches + verbatim sentence; Python anchors offsets</div><span class="a">→</span>
+<div class="s"><b>3 · Match</b>LLM → pillar, solution, sector, theme</div><span class="a">→</span>
+<div class="s"><b>4 · Validate</b>LLM re-reads document with all attributes as context</div><span class="a">→</span>
+<div class="s"><b>5 · Replication</b>explicit references + similarity across the portfolio</div>
+</div>
+<h2>Attributes of an approach</h2>
+<table>
+<tr><th>Attribute</th><th>Values</th><th>Source</th></tr>
+<tr><td>category</td><td>P1 Access · P2 Affordability · P3 Ecosystem · P4 AI Readiness and Adaptation · PX Digital Trust</td><td>Digital &amp; AI Implementation Plan (FY26-30), four pillars</td></tr>
+<tr><td>category_solution</td><td>S1-S10 (+ SX digital trust, or none)</td><td>Implementation Plan, ten solutions</td></tr>
+<tr><td>sector</td><td>one of the project's own sector codes</td><td>projects.csv <code>sector_names</code> / <code>sector_percents</code></td></tr>
+<tr><td>theme</td><td>one of the project's own theme codes (full path)</td><td>projects.csv <code>themes</code></td></tr>
+<tr><td>replication</td><td>links to other projects: explicit_reference or similar_approach, with score and direction</td><td>portfolio store</td></tr>
+</table>
+<h2>Verbatim guarantee</h2>
+<p>The model only proposes an evidence sentence; <code>piaa.documents.locate_span</code> finds it in the file (exact → whitespace-insensitive → fuzzy ≥ 0.85) and the stored text is always the file's own characters at the stored offsets. Approaches whose sentence cannot be located are dropped and logged in the trace.</p>
+<h2>Replication logic</h2>
+<ol>
+<li><b>Explicit reference</b>: the project's documents mention another in-scope P-code or another in-scope project's name near replication language (builds on, replicates, scales, lessons from, parent project, additional financing).</li>
+<li><b>Similar approach</b>: TF-IDF cosine similarity between this approach (name + description + evidence) and every approach already stored for other projects; links above the threshold are kept with the score. Direction is derived from approval dates (earlier project = origin).</li>
+</ol>
+<p>The scan is incremental: each new project is compared against whatever is already in the store, so the whole portfolio does not need to be re-run when one project is added. A final pass over the store (<code>piaa.replication.rescan</code>) refreshes links once all projects are in.</p>
+</body></html>

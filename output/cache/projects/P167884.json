@@ -1,0 +1,1542 @@
+{
+  "project_id": "P167884",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "5f6f51a1",
+  "started_at": "2026-11-07T03:25:40Z",
+  "ended_at": "2026-11-07T03:26:19Z",
+  "input_fingerprint": "970d75f081ac3f5b",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 25,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P167884-A1",
+      "project_id": "P167884",
+      "name": "scaled ICT citizen engagement tools for participatory budgeting and feedback",
+      "description": "Scales up PACV3-piloted tools: national call center with SMS feedback linked to EWRS, OpenSpending budget visualization, and smartphone geo-localized investment data collection. Practices: Scale-up of PACV3-piloted ICT citizen engagement tools: national call center with SMS feedback linked to EWRS, OpenSpending participatory budget visualization, smartphone-based geo-localized investment data collection; OpenSpending platform for participatory budgeting transparency.",
+      "why_innovative": "Digital platforms linking citizens, LGs and EWRS for oversight and feedback; scaling piloted tools nationwide | category Collaborative; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "233781553565643951",
+        "doc_type": "PAD",
+        "doc_date": "2019-03-01",
+        "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+        "char_start": 59033,
+        "char_end": 59200,
+        "text": "This sub-component will support scale-up and improvement of citizen engagement and EWRS activities that have been piloted under the PACV3, with strong emphasis on ICT.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 59974,
+          "char_end": 60289,
+          "text": "The sub- component will contribute to the scaling up and mainstreaming of participatory approaches tested under PACV3 by financing technical assistance, capacity building, and peer learning, with provision and adaptation of Information and Communication Technologies (ICT) for improved efficiency and accessibility.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 60863,
+          "char_end": 61134,
+          "text": "The subcomponent will also facilitate dialogues with the key stakeholders for institutionalization and transparency of the GRM. o Participatory Budgeting and its data visualization for transparency: the PACV has piloted Participatory Budgeting in 132 LGs in rural Guinea.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: links citizens, LGs and ministries via ICT channels",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Scales up ICT citizen engagement tools including call center, SMS, OpenSpending, and smartphone data collection.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: call center/SMS, OpenSpending, smartphone geo-data | Innovative: scales piloted ICT citizen oversight nationwide | Category: citizen-state collaboration platforms",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital platforms linking citizens, LGs and EWRS for oversight and feedback; scaling piloted tools nationwide",
+      "innovation_cues": [
+        "mainstreaming",
+        "piloted",
+        "scale-up",
+        "scaled-up",
+        "scaling",
+        "scaling-up"
+      ]
+    },
+    {
+      "approach_id": "P167884-A2",
+      "project_id": "P167884",
+      "name": "national call center, SMS feedback and geo-localized early warning system",
+      "description": "Expands the call center for beneficiary surveys and SMS feedback, and scales the EWRS nationwide with real-time geo-localized risk indicators, trained monitors and grievance data. Practices: National call center and SMS platform for citizen feedback/GRM; Real-time geo-localized conflict risk monitoring and response system; Scaled-up EWRS with trained monitors and grievance data feeds; National call center with SMS platform for feedback and early warning.",
+      "why_innovative": "New delivery arrangement: SMS-linked call-center feedback loop - cue: 'piloted' | category Operational; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "233781553565643951",
+        "doc_type": "PAD",
+        "doc_date": "2019-03-01",
+        "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+        "char_start": 60290,
+        "char_end": 60582,
+        "text": "More specifically, the subcomponent will support: o Enhancement of the national-level call center and GRM: the PACV has set up a national-level call center since September 2018, where any citizen can call the dedicated number to provide feedback or to ask questions on the project activities.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 60583,
+          "char_end": 60862,
+          "text": "The project will expand the contract with the call center to strengthen its use, for: a) conducting beneficiary surveys on the project and on key basic services; b) incorporating a SMS platform for better accessibility and for closing the loop (linked to the linked to the EWRS).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 62868,
+          "char_end": 63046,
+          "text": "The project will build on the pilot which is being implemented by the PACV3 in 7 LGs30, refining it and expanding its coverage to the whole country in the course of the SLGP (cf.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 63057,
+          "char_end": 63299,
+          "text": "The EWRS will: (i) ensure real-time monitoring, geo-localization and analysis of specific indicators to monitor potential risk on a diverse range of local conflicts; and (ii) support response mechanisms that are adapted to identified risks31.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 151272,
+          "char_end": 151414,
+          "text": "The project will build on the pilot implemented by the PACV3 in seven communes (5 CR and 2 CU) in the Boké region, to reach national coverage.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 151415,
+          "char_end": 151596,
+          "text": "Under the new project, it is expected that the scale-up of the EWRS will be implemented in phases, focusing first on the Kankan and Nzerekore regions, where conflicts are recurrent.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 152238,
+          "char_end": 152410,
+          "text": "Page 52 of 70 The World Bank Guinea Support to Local Governance Project (P167884) grievance and redress systems set up by the PACV3, and data collected by trained monitors.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 157417,
+          "char_end": 157681,
+          "text": "Enhancement of the national-level call center and Grievance Redress Mechanism: the PACV has set up a national-level call center since September 2018, where any citizen can call the dedicated number to provide feedback or to ask questions on the project activities.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 157682,
+          "char_end": 158039,
+          "text": "The project will expand the use of the call center: a) for conducting beneficiary surveys on the project and on key basic services; b) for incorporating a SMS platform to make it even more accessible to the beneficiaries and citizens, and; c) for sending out early warning messages/SMS to key stakeholders and closing the feedback loop (linked to the EWRS).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers grievance/feedback delivery, not a financial product",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Expands national call center and SMS platform for citizen feedback and grievance redress.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: call center plus SMS platform | Innovative: SMS closes feedback loop to EWRS | Category: delivery arrangement",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New delivery arrangement: SMS-linked call-center feedback loop - cue: 'piloted'",
+      "innovation_cues": [
+        "early-warning",
+        "feedback loop",
+        "grievance-redress",
+        "pilot",
+        "piloted",
+        "scale-up",
+        "scaled-up"
+      ]
+    },
+    {
+      "approach_id": "P167884-A3",
+      "project_id": "P167884",
+      "name": "smartphone GPS geo-localization of local investments and conflicts",
+      "description": "Gives local agents smartphones and training to collect and publish geo-tagged investment data, with plans to map conflicts on the same platform. Practices: Smartphone GPS geo-localization of local investments with public disclosure; Smartphone-based geo-localized data collection by local agents; Geo-localized conflict mapping on infrastructure geo-localization platform.",
+      "why_innovative": "New service: smartphone geo-tagged investment registry - cue: 'GPS' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "233781553565643951",
+        "doc_type": "PAD",
+        "doc_date": "2019-03-01",
+        "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+        "char_start": 61596,
+        "char_end": 62245,
+        "text": "To better incorporate voices of the citizens gathered in the PM&E process, the project will facilitate dialogues and engagement between the LGs and their deconcentrated line ministry focal points on key basic services such as education and health. o Mobile-based data collection and geo-localization of the local-level investments: while the geo- localization of local-level small infrastructures with key management and operational data has already been launched under the PACV3 using GPS devices, the SLGP will provide smartphones and specific training to the ADLs and other key local stakeholders to collect and utilize the data more effectively.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 62246,
+          "char_end": 62581,
+          "text": "This activity aims to facilitate: a) accurate and speedy data collection and supervision of key services and infrastructures at the LG level; b) improved transparency of local- level investments of ANAFIC by disclosing the data on a publicly accessible website, and; c) informed decision-making and development planning for the LGs. b.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 159256,
+          "char_end": 159654,
+          "text": "Mobile-based data collection and geo-localization of the local-level investments: while the geo-localization of local-level small infrastructures with key management and operational data has already been launched under the PACV3 using GPS devices, the SLGP will provide smartphones and specific training to the ADLs and other key local stakeholders to collect and utilize the data more effectively.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 153082,
+          "char_end": 153216,
+          "text": "It is also planned to geo-localize conflicts, using the platform set up for the geo-localization of local-level small infrastructures.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "233781553565643951",
+          "doc_type": "PAD",
+          "doc_date": "2019-03-01",
+          "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+          "char_start": 152858,
+          "char_end": 153081,
+          "text": "The EWRS will: (i) ensure real-time monitoring and analysis of specific indicators to monitor potential risks on a diverse range of local conflicts; and (ii) support response mechanisms that are adapted to identified risks.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: mobile GPS data collection is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "ICT Services",
+        "code": "",
+        "confidence": null,
+        "rationale": "Provides smartphones and GPS geo-localization technology for investment data collection.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: smartphone GPS data collection | Innovative: geo-tagged investments published online | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: smartphone geo-tagged investment registry - cue: 'GPS'",
+      "innovation_cues": [
+        "early-warning",
+        "scaled-up"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P167884",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "guid": "233781553565643951",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:25:40Z",
+      "ended_at": "2026-11-07T03:25:50Z",
+      "status": "ok",
+      "note": "12 document(s) fetched from the WBG API; 16 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:25:50Z",
+      "ended_at": "2026-11-07T03:25:50Z",
+      "status": "ok",
+      "note": "in scope (approved 2019-03-22, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:25:50Z",
+      "ended_at": "2026-11-07T03:25:52Z",
+      "status": "ok",
+      "note": "25 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 25,
+        "tier": "High",
+        "by_dimension": {
+          "results_based_management": 2,
+          "innovation_cycle": 10,
+          "enabling_processes": 7,
+          "innovation_types": 3,
+          "enabling_technologies": 2,
+          "innovation": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:25:52Z",
+      "ended_at": "2026-11-07T03:25:52Z",
+      "status": "ok",
+      "note": "PAD 2019-03-01 (P167884_PAD_2019-03-01_233781553565643951.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P167884",
+            "doc_type": "PAD",
+            "doc_date": "2019-03-01",
+            "guid": "233781553565643951",
+            "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:25:52Z",
+      "ended_at": "2026-11-07T03:25:52Z",
+      "status": "ok",
+      "note": "151 reading units (19 numbered paragraphs) from 1187 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 151
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:25:52Z",
+      "ended_at": "2026-11-07T03:25:53Z",
+      "status": "ok",
+      "note": "63 of 151 units carry a digital / AI cue (24 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 63,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 24
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:25:53Z",
+      "ended_at": "2026-11-07T03:26:03Z",
+      "status": "ok",
+      "note": "23 candidate practices from 63 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 204156,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1413,
+          "cached_tokens": 42491,
+          "cache_write_tokens": 0,
+          "output_tokens": 4330,
+          "seconds": 30.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0059
+        },
+        "extracted": 23
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:26:03Z",
+      "ended_at": "2026-11-07T03:26:11Z",
+      "status": "ok",
+      "note": "10 accepted, 13 rejected (generic 5, unsupported_by_evidence 3, not_innovative 2, uncoded 2, not_digital 1); 4 sent to the expanded-context round; 3 calls",
+      "llm_calls": 3,
+      "input_chars": 250949,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 42893,
+          "cached_tokens": 8832,
+          "cache_write_tokens": 0,
+          "output_tokens": 1695,
+          "seconds": 11.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.015
+        },
+        "accepted": 10,
+        "rejected": 13,
+        "expanded": 4,
+        "reject_codes": {
+          "generic": 5,
+          "not_digital": 1,
+          "not_innovative": 2,
+          "unsupported_by_evidence": 3,
+          "uncoded": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:26:11Z",
+      "ended_at": "2026-11-07T03:26:14Z",
+      "status": "ok",
+      "note": "10 of 10 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2667,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 592,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 382,
+          "seconds": 2.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:26:14Z",
+      "ended_at": "2026-11-07T03:26:16Z",
+      "status": "ok",
+      "note": "10 approaches -> 4 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 2716,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 598,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 191,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        },
+        "merged": 6,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:26:16Z",
+      "ended_at": "2026-11-07T03:26:18Z",
+      "status": "ok",
+      "note": "4 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 1 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 8948,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1448,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 252,
+          "seconds": 2.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0007
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:26:18Z",
+      "ended_at": "2026-11-07T03:26:18Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 17 evidence rows, 14 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:26:18Z",
+      "ended_at": "2026-11-07T03:26:19Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 57
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P167884-A1-E1",
+      "approach_id": "P167884-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 3,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 349,
+      "char_start": 59033,
+      "char_end": 59200,
+      "sentence": "This sub-component will support scale-up and improvement of citizen engagement and EWRS activities that have been piloted under the PACV3, with strong emphasis on ICT.",
+      "practice": "Scale-up of PACV3-piloted ICT citizen engagement tools: national call center with SMS feedback linked to EWRS, OpenSpending participatory budget visualization, smartphone-based geo-localized investment data collection",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: ICT platforms for citizen engagement | Not routine: scales piloted ICT participation nationwide | Adoption: 'will support scale-up'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: call center/SMS, OpenSpending, smartphone geo-data | Innovative: scales piloted ICT citizen oversight nationwide | Category: citizen-state collaboration platforms",
+      "keywords_hit": "accessibility",
+      "innovation_cues": "mainstreaming;piloted;scale-up;scaling;scaling-up",
+      "innovation_basis": "Digital platforms linking citizens, LGs and EWRS for oversight and feedback; scaling piloted tools nationwide",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A1-E2",
+      "approach_id": "P167884-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 3,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 356,
+      "char_start": 59974,
+      "char_end": 60289,
+      "sentence": "The sub- component will contribute to the scaling up and mainstreaming of participatory approaches tested under PACV3 by financing technical assistance, capacity building, and peer learning, with provision and adaptation of Information and Communication Technologies (ICT) for improved efficiency and accessibility.",
+      "practice": "Scale-up of PACV3-piloted ICT citizen engagement tools: national call center with SMS feedback linked to EWRS, OpenSpending participatory budget visualization, smartphone-based geo-localized investment data collection",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: ICT platforms for citizen engagement | Not routine: scales piloted ICT participation nationwide | Adoption: 'will support scale-up'",
+      "judge_rounds": 2,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: call center/SMS, OpenSpending, smartphone geo-data | Innovative: scales piloted ICT citizen oversight nationwide | Category: citizen-state collaboration platforms",
+      "keywords_hit": "accessibility",
+      "innovation_cues": "mainstreaming;piloted;scale-up;scaling;scaling-up",
+      "innovation_basis": "Digital platforms linking citizens, LGs and EWRS for oversight and feedback; scaling piloted tools nationwide",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A1-E3",
+      "approach_id": "P167884-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 3,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 359,
+      "char_start": 60863,
+      "char_end": 61134,
+      "sentence": "The subcomponent will also facilitate dialogues with the key stakeholders for institutionalization and transparency of the GRM. o Participatory Budgeting and its data visualization for transparency: the PACV has piloted Participatory Budgeting in 132 LGs in rural Guinea.",
+      "practice": "OpenSpending platform for participatory budgeting transparency",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: OpenSpending visualization platform | Not routine: opens local budgets to public | Adoption: 'will complement the activity'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: OpenSpending portal | Innovative: publishes participatory budgets openly | Category: multi-stakeholder transparency",
+      "keywords_hit": "SMS;accessibility;data visualization;survey",
+      "innovation_cues": "piloted;scaled-up",
+      "innovation_basis": "New service: open-data budget visualization portal - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E1",
+      "approach_id": "P167884-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 357,
+      "char_start": 60290,
+      "char_end": 60582,
+      "sentence": "More specifically, the subcomponent will support: o Enhancement of the national-level call center and GRM: the PACV has set up a national-level call center since September 2018, where any citizen can call the dedicated number to provide feedback or to ask questions on the project activities.",
+      "practice": "National call center and SMS platform for citizen feedback/GRM",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: call center plus SMS platform | Not routine: closes feedback loop via SMS | Adoption: 'will expand the contract'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: call center plus SMS platform | Innovative: SMS closes feedback loop to EWRS | Category: delivery arrangement",
+      "keywords_hit": "SMS;accessibility;data visualization;survey",
+      "innovation_cues": "piloted;scaled-up",
+      "innovation_basis": "New delivery arrangement: SMS-linked call-center feedback loop - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E2",
+      "approach_id": "P167884-A2",
+      "evidence_no": 2,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U43",
+      "para_no": null,
+      "sentence_position": 358,
+      "char_start": 60583,
+      "char_end": 60862,
+      "sentence": "The project will expand the contract with the call center to strengthen its use, for: a) conducting beneficiary surveys on the project and on key basic services; b) incorporating a SMS platform for better accessibility and for closing the loop (linked to the linked to the EWRS).",
+      "practice": "National call center and SMS platform for citizen feedback/GRM",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: call center plus SMS platform | Not routine: closes feedback loop via SMS | Adoption: 'will expand the contract'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: call center plus SMS platform | Innovative: SMS closes feedback loop to EWRS | Category: delivery arrangement",
+      "keywords_hit": "SMS;accessibility;data visualization;survey",
+      "innovation_cues": "piloted;scaled-up",
+      "innovation_basis": "New delivery arrangement: SMS-linked call-center feedback loop - cue: 'piloted'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E3",
+      "approach_id": "P167884-A2",
+      "evidence_no": 3,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 365,
+      "char_start": 62868,
+      "char_end": 63046,
+      "sentence": "The project will build on the pilot which is being implemented by the PACV3 in 7 LGs30, refining it and expanding its coverage to the whole country in the course of the SLGP (cf.",
+      "practice": "Real-time geo-localized conflict risk monitoring and response system",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: real-time geo-localized risk monitoring | Not routine: scales pilot to whole country | Adoption: 'expanding its coverage'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: real-time geo-localized risk indicator monitoring | Innovative: scales 7-LG pilot nationwide | Category: re-engineered conflict-response delivery",
+      "keywords_hit": "conflict",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New delivery arrangement: nationwide geo-localized conflict EWRS - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E4",
+      "approach_id": "P167884-A2",
+      "evidence_no": 4,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 367,
+      "char_start": 63057,
+      "char_end": 63299,
+      "sentence": "The EWRS will: (i) ensure real-time monitoring, geo-localization and analysis of specific indicators to monitor potential risk on a diverse range of local conflicts; and (ii) support response mechanisms that are adapted to identified risks31.",
+      "practice": "Real-time geo-localized conflict risk monitoring and response system",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: real-time geo-localized risk monitoring | Not routine: scales pilot to whole country | Adoption: 'expanding its coverage'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: real-time geo-localized risk indicator monitoring | Innovative: scales 7-LG pilot nationwide | Category: re-engineered conflict-response delivery",
+      "keywords_hit": "conflict",
+      "innovation_cues": "pilot",
+      "innovation_basis": "New delivery arrangement: nationwide geo-localized conflict EWRS - cue: 'pilot'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E5",
+      "approach_id": "P167884-A2",
+      "evidence_no": 5,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U116",
+      "para_no": null,
+      "sentence_position": 875,
+      "char_start": 151272,
+      "char_end": 151414,
+      "sentence": "The project will build on the pilot implemented by the PACV3 in seven communes (5 CR and 2 CU) in the Boké region, to reach national coverage.",
+      "practice": "Scaled-up EWRS with trained monitors and grievance data feeds",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: EWRS data collection/analysis | Not routine: pilot to national coverage | Adoption: 'will be implemented in phases'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EWRS data collection/analysis | Innovative: pilot to national phased scale-up | Category: new delivery arrangement",
+      "keywords_hit": "FCS;conflict;data collection;early warning;fragile",
+      "innovation_cues": "early-warning;pilot;scale-up",
+      "innovation_basis": "New process: phased national scale-up of EWRS - cue: 'scale-up'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E6",
+      "approach_id": "P167884-A2",
+      "evidence_no": 6,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U116",
+      "para_no": null,
+      "sentence_position": 876,
+      "char_start": 151415,
+      "char_end": 151596,
+      "sentence": "Under the new project, it is expected that the scale-up of the EWRS will be implemented in phases, focusing first on the Kankan and Nzerekore regions, where conflicts are recurrent.",
+      "practice": "Scaled-up EWRS with trained monitors and grievance data feeds",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: EWRS data collection/analysis | Not routine: pilot to national coverage | Adoption: 'will be implemented in phases'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EWRS data collection/analysis | Innovative: pilot to national phased scale-up | Category: new delivery arrangement",
+      "keywords_hit": "FCS;conflict;data collection;early warning;fragile",
+      "innovation_cues": "early-warning;pilot;scale-up",
+      "innovation_basis": "New process: phased national scale-up of EWRS - cue: 'scale-up'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E7",
+      "approach_id": "P167884-A2",
+      "evidence_no": 7,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U116",
+      "para_no": null,
+      "sentence_position": 881,
+      "char_start": 152238,
+      "char_end": 152410,
+      "sentence": "Page 52 of 70 The World Bank Guinea Support to Local Governance Project (P167884) grievance and redress systems set up by the PACV3, and data collected by trained monitors.",
+      "practice": "Scaled-up EWRS with trained monitors and grievance data feeds",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: EWRS data collection/analysis | Not routine: pilot to national coverage | Adoption: 'will be implemented in phases'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: EWRS data collection/analysis | Innovative: pilot to national phased scale-up | Category: new delivery arrangement",
+      "keywords_hit": "FCS;conflict;data collection;early warning;fragile",
+      "innovation_cues": "early-warning;pilot;scale-up",
+      "innovation_basis": "New process: phased national scale-up of EWRS - cue: 'scale-up'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E8",
+      "approach_id": "P167884-A2",
+      "evidence_no": 8,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U120",
+      "para_no": null,
+      "sentence_position": 906,
+      "char_start": 157417,
+      "char_end": 157681,
+      "sentence": "Enhancement of the national-level call center and Grievance Redress Mechanism: the PACV has set up a national-level call center since September 2018, where any citizen can call the dedicated number to provide feedback or to ask questions on the project activities.",
+      "practice": "National call center with SMS platform for feedback and early warning",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: call center and SMS platform | Not routine: closes feedback loop with EWRS | Adoption: 'will expand the use of the call center'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: call center + SMS platform | Innovative: closes feedback loop to EWRS | Category: delivery arrangement",
+      "keywords_hit": "SMS;data visualization;early warning;survey",
+      "innovation_cues": "early-warning;feedback loop;grievance-redress;piloted",
+      "innovation_basis": "New delivery arrangement: call center plus SMS feedback loop - cue: 'feedback loop'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A2-E9",
+      "approach_id": "P167884-A2",
+      "evidence_no": 9,
+      "number_of_evidence": 9,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U120",
+      "para_no": null,
+      "sentence_position": 907,
+      "char_start": 157682,
+      "char_end": 158039,
+      "sentence": "The project will expand the use of the call center: a) for conducting beneficiary surveys on the project and on key basic services; b) for incorporating a SMS platform to make it even more accessible to the beneficiaries and citizens, and; c) for sending out early warning messages/SMS to key stakeholders and closing the feedback loop (linked to the EWRS).",
+      "practice": "National call center with SMS platform for feedback and early warning",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: call center and SMS platform | Not routine: closes feedback loop with EWRS | Adoption: 'will expand the use of the call center'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: call center + SMS platform | Innovative: closes feedback loop to EWRS | Category: delivery arrangement",
+      "keywords_hit": "SMS;data visualization;early warning;survey",
+      "innovation_cues": "early-warning;feedback loop;grievance-redress;piloted",
+      "innovation_basis": "New delivery arrangement: call center plus SMS feedback loop - cue: 'feedback loop'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A3-E1",
+      "approach_id": "P167884-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U44",
+      "para_no": null,
+      "sentence_position": 361,
+      "char_start": 61596,
+      "char_end": 62245,
+      "sentence": "To better incorporate voices of the citizens gathered in the PM&E process, the project will facilitate dialogues and engagement between the LGs and their deconcentrated line ministry focal points on key basic services such as education and health. o Mobile-based data collection and geo-localization of the local-level investments: while the geo- localization of local-level small infrastructures with key management and operational data has already been launched under the PACV3 using GPS devices, the SLGP will provide smartphones and specific training to the ADLs and other key local stakeholders to collect and utilize the data more effectively.",
+      "practice": "Smartphone GPS geo-localization of local investments with public disclosure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: smartphone GPS data collection | Not routine: publishes geo-tagged investment data | Adoption: 'will provide smartphones'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smartphone GPS data collection | Innovative: geo-tagged investments published online | Category: Technological",
+      "keywords_hit": "GPS;conflict;data collection;early warning;smartphone",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: smartphone geo-tagged investment registry - cue: 'GPS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A3-E2",
+      "approach_id": "P167884-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U44",
+      "para_no": null,
+      "sentence_position": 362,
+      "char_start": 62246,
+      "char_end": 62581,
+      "sentence": "This activity aims to facilitate: a) accurate and speedy data collection and supervision of key services and infrastructures at the LG level; b) improved transparency of local- level investments of ANAFIC by disclosing the data on a publicly accessible website, and; c) informed decision-making and development planning for the LGs. b.",
+      "practice": "Smartphone GPS geo-localization of local investments with public disclosure",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: smartphone GPS data collection | Not routine: publishes geo-tagged investment data | Adoption: 'will provide smartphones'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smartphone GPS data collection | Innovative: geo-tagged investments published online | Category: Technological",
+      "keywords_hit": "GPS;conflict;data collection;early warning;smartphone",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: smartphone geo-tagged investment registry - cue: 'GPS'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A3-E3",
+      "approach_id": "P167884-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U121",
+      "para_no": null,
+      "sentence_position": 913,
+      "char_start": 159256,
+      "char_end": 159654,
+      "sentence": "Mobile-based data collection and geo-localization of the local-level investments: while the geo-localization of local-level small infrastructures with key management and operational data has already been launched under the PACV3 using GPS devices, the SLGP will provide smartphones and specific training to the ADLs and other key local stakeholders to collect and utilize the data more effectively.",
+      "practice": "Smartphone-based geo-localized data collection by local agents",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: smartphone GPS data collection | Not routine: replaces GPS-device-only collection | Adoption: 'will provide smartphones'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smartphone GPS collection | Innovative: replaces GPS-device-only workflow | Category: adapted technology",
+      "keywords_hit": "GPS;data collection;smartphone",
+      "innovation_cues": "scaled-up",
+      "innovation_basis": "New process: smartphone GPS data collection by ADLs - cue: 'scaled-up'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A3-E4",
+      "approach_id": "P167884-A3",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U117",
+      "para_no": null,
+      "sentence_position": 885,
+      "char_start": 153082,
+      "char_end": 153216,
+      "sentence": "It is also planned to geo-localize conflicts, using the platform set up for the geo-localization of local-level small infrastructures.",
+      "practice": "Geo-localized conflict mapping on infrastructure geo-localization platform",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: GIS geo-localization platform | Not routine: reuses platform for conflict data | Adoption: 'It is also planned'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: GIS platform | Innovative: conflict data on infrastructure GIS | Adoption: 'It is also planned' = prospect",
+      "keywords_hit": "conflict;early warning",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: reusing GIS infrastructure platform to geo-localize conflicts - cue: 'geo-localize'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    },
+    {
+      "row_id": "P167884-A3-E5",
+      "approach_id": "P167884-A3",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P167884",
+      "doc_id": "233781553565643951",
+      "doc_type": "PAD",
+      "doc_date": "2019-03-01",
+      "file_name": "P167884_PAD_2019-03-01_233781553565643951.txt",
+      "unit_id": "U117",
+      "para_no": null,
+      "sentence_position": 884,
+      "char_start": 152858,
+      "char_end": 153081,
+      "sentence": "The EWRS will: (i) ensure real-time monitoring and analysis of specific indicators to monitor potential risks on a diverse range of local conflicts; and (ii) support response mechanisms that are adapted to identified risks.",
+      "practice": "Geo-localized conflict mapping on infrastructure geo-localization platform",
+      "category": "Technological",
+      "adoption": "prospect",
+      "sector": "ICT Services",
+      "extractor_reason": "Digital core: GIS geo-localization platform | Not routine: reuses platform for conflict data | Adoption: 'It is also planned'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: GIS platform | Innovative: conflict data on infrastructure GIS | Adoption: 'It is also planned' = prospect",
+      "keywords_hit": "conflict;early warning",
+      "innovation_cues": "early-warning",
+      "innovation_basis": "New service: reusing GIS infrastructure platform to geo-localize conflicts - cue: 'geo-localize'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "5f6f51a1"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 230,
+      "char_start": 39112,
+      "char_end": 39369,
+      "sentence": "In line with RMR’s objectives, the project will strengthen the capacity of local actors to manage conflicts through improved early warning and response system, building on local platforms (at LG level and community- level) and citizen engagement mechanisms.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Early Warning and Response System for local conflict management",
+      "reason": "reject: No named digital system; 'early warning and response system' described only as capacity building",
+      "reject_code": "generic",
+      "innovation_basis": "New process: local-platform early warning and response for conflict - cue: 'early-warning'",
+      "innovation_cues": "community-driven;cross-sectoral;early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "No named digital system; 'early warning and response system' described only as capacity building",
+          "reject_code": "generic",
+          "context_chars": 1279
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 344,
+      "char_start": 58021,
+      "char_end": 58251,
+      "sentence": "The sub-component will also provide the technical assistance and studies required to define, implement and assess the LG performance pilot, which will reward the best LGs every year to incentivize LGs to improve their performance.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "LG performance pilot rewarding best-performing local governments",
+      "reason": "reject: Performance reward pilot is programme design; data collection methodology not a named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: performance-based rewards for LGs - cue: 'pilot'",
+      "innovation_cues": "early-warning;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Performance reward pilot is programme design; data collection methodology not a named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 1242
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 363,
+      "char_start": 62582,
+      "char_end": 62639,
+      "sentence": "Community-based Early Warning and Response System (EWRS).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Community-based early warning and response system for local conflict",
+      "reason": "reject: EWRS described only as TA and capacity building; no named digital system",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: community conflict early-warning system - cue: 'early-warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "EWRS described only as TA and capacity building; no named digital system",
+          "reject_code": "generic",
+          "context_chars": 1271
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 492,
+      "char_start": 84018,
+      "char_end": 84312,
+      "sentence": "However, building upon PACV3 experiences, the project will streamline the use of inclusive and participatory planning and M&E tools, and will use mobile devices at the local level, for more efficient and timely data collection and management, including when possible, gender-disaggregated data.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "mobile-device local data collection for participatory M&E",
+      "reason": "reject: Mobile-device M&E data collection is standard monitoring practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: mobile-device field data collection for M&E - cue: 'participatory-planning'",
+      "innovation_cues": "participatory-planning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Mobile-device M&E data collection is standard monitoring practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1451
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 499,
+      "char_start": 85102,
+      "char_end": 85359,
+      "sentence": "The proposed operation will place strong emphasis on linking the project monitoring system to the Geographic Information System (GIS), through a consolidated and publicly accessible database, which will be sustained as the main monitoring system for ANAFIC.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "GIS-linked consolidated public database for ANAFIC monitoring",
+      "reason": "reject: GIS-linked M&E database is standard monitoring system, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: GIS-linked public monitoring database - cue: 'Geographic Information System'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "GIS-linked M&E database is standard monitoring system, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1289
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 729,
+      "char_start": 121012,
+      "char_end": 122204,
+      "sentence": "operationalization of the FNDL Annual disbursement rate of the FNDL to LGs (Percentage) 0.00 80.00 Building institutions and capacity for inclusive and accountable local governance Number of urban LGs with a local development plan adapted to 0.00 8.00 the urban context (Number) Percentage of LGs that manage the accounting and budgetary management of the municipality using the SIM-BA software 0.00 50.00 package in a satisfactory manner (Percentage) Number of people trained, of which women (Number) 0.00 9,802.00 Percentage of reported grievances related to the ANAFIC 0.00 60.00 addressed in a timely manner (Percentage) Percentage of LGs with Participatory Budgeting (BP) and Citizen Monitoring of Service Delivery (SEP) (Percentage) 39.00 100.00 Number of LGs that have set up an EWRS (Number) 7.00 337.00 Percentage of women and youth in different committees in the 35.00 50.00 target LGs (Percentage) Project management support Performance audit of ANAFIC (Number) 0.00 2.00 IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection LGs FNDL",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SIM-BA software for municipal accounting and budget management",
+      "reason": "reject: Only an indicator mentions SIM-BA; no activity description in cited sentence",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: standardized municipal accounting software across LGs - cue: 'software package'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Only an indicator mentions SIM-BA; no activity description in cited sentence",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1476
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 729,
+      "char_start": 121012,
+      "char_end": 122204,
+      "sentence": "operationalization of the FNDL Annual disbursement rate of the FNDL to LGs (Percentage) 0.00 80.00 Building institutions and capacity for inclusive and accountable local governance Number of urban LGs with a local development plan adapted to 0.00 8.00 the urban context (Number) Percentage of LGs that manage the accounting and budgetary management of the municipality using the SIM-BA software 0.00 50.00 package in a satisfactory manner (Percentage) Number of people trained, of which women (Number) 0.00 9,802.00 Percentage of reported grievances related to the ANAFIC 0.00 60.00 addressed in a timely manner (Percentage) Percentage of LGs with Participatory Budgeting (BP) and Citizen Monitoring of Service Delivery (SEP) (Percentage) 39.00 100.00 Number of LGs that have set up an EWRS (Number) 7.00 337.00 Percentage of women and youth in different committees in the 35.00 50.00 target LGs (Percentage) Project management support Performance audit of ANAFIC (Number) 0.00 2.00 IO Table SPACE UL Table SPACE Monitoring & Evaluation Plan: PDO Indicators Methodology for Data Responsibility for Data Indicator Name Definition/Description Frequency Datasource Collection Collection LGs FNDL",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Early Warning and Response System (EWRS) in local governments",
+      "reason": "reject: Only an indicator target; no description of EWRS mechanism or digital system",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New delivery arrangement: LG-level conflict early warning and response - cue: 'EWRS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Only an indicator target; no description of EWRS mechanism or digital system",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1476
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 735,
+      "char_start": 123725,
+      "char_end": 124123,
+      "sentence": "Measures the percentage of tensions that could result in a conflict, which are reported through the data reporting mechanisms put ANAFIC in place by the project and annual ANAFIC database and Reported risks of conflicts addressed by are addressed by the EWRS, Annual ANAFIC report and LG archives EWRS that includes action groups LGs archives who were trained in response/conflict resolution tools.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "EWRS conflict-risk reporting feeding trained local action groups",
+      "reason": "reject: Indicator definition only; no named digital system described",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: conflict tensions reported and routed to response groups - cue: 'data reporting mechanisms'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Indicator definition only; no named digital system described",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1363
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 800,
+      "char_start": 139369,
+      "char_end": 139639,
+      "sentence": "The collaboration will be strengthened through the geo-localized investments database which is being developed by the PACV and managed by the SPD, as well as other citizen engagement mechanisms such as the participatory monitoring and evaluation of these basic services.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Geo-localized investments database for local development planning",
+      "reason": "no_answer: ",
+      "reject_code": "",
+      "innovation_basis": "New service: geo-localized investments database - cue: 'being developed'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether SLGP finances the PACV-built geo-localized database or just uses it",
+          "reject_code": "",
+          "context_chars": 1587
+        },
+        {
+          "round": 2,
+          "verdict": "no_answer",
+          "reason": "",
+          "reject_code": "",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 872,
+      "char_start": 150594,
+      "char_end": 151067,
+      "sentence": "(ii) support community institutions and citizen engagement mechanisms (participatory planning budgeting, participatory monitoring, enhance feedback mechanisms), which will be financed mainly under the sub- component 2.3. on “Citizen Engagement and Community-based Early Warning and Response System (EWRS)”, with dedicated results monitoring indicators to measure outputs and outcomes of these activities, with a dedicated team in the PIU for the EWRS and the CE activities.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Community-based early warning and response system for local conflicts",
+      "reason": "reject: Generic community EWRS mention; no specific digital mechanism named",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: community-based conflict early warning/response - cue: 'early-warning'",
+      "innovation_cues": "early-warning;participatory-planning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic community EWRS mention; no specific digital mechanism named",
+          "reject_code": "generic",
+          "context_chars": 1278
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 909,
+      "char_start": 158268,
+      "char_end": 158409,
+      "sentence": "Participatory Budgeting and its data visualization for transparency: the PACV has piloted Participatory Budgeting in 132 LGs in rural Guinea.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "OpenSpending data visualization of participatory budgeting",
+      "reason": "no_answer: ",
+      "reject_code": "",
+      "innovation_basis": "New service: OpenSpending budget visualization - cue: 'data visualization'",
+      "innovation_cues": "early-warning;feedback loop;grievance-redress;piloted",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Cited sentences do not mention OpenSpending; unclear what visualization is financed",
+          "reject_code": "",
+          "context_chars": 1219
+        },
+        {
+          "round": 2,
+          "verdict": "no_answer",
+          "reason": "",
+          "reject_code": "",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 950,
+      "char_start": 165672,
+      "char_end": 165937,
+      "sentence": "Sub- component 2.3: Citizen Engagement and Community-based Early Warning and Response System (EWRS) (US$ 5.0m) will support scale-up and improvement of citizen engagement and EWRS pilot activities that have been piloted under the PACV3, with strong emphasis on ICT.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "ICT-enabled community early warning and response system",
+      "reason": "reject: Generic 'strong emphasis on ICT' sub-component description; no specific mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: community-based ICT early warning platform - cue: 'piloted'",
+      "innovation_cues": "early-warning;pilot;piloted;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic 'strong emphasis on ICT' sub-component description; no specific mechanism",
+          "reject_code": "generic",
+          "context_chars": 1368
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 1045,
+      "char_start": 181119,
+      "char_end": 181323,
+      "sentence": "Also, setting up an Early Warning System embedded in country system, will mitigate the risk of fragility and violence, and their consequences on poverty, service delivery, social inclusion and livelihood.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "Early Warning System embedded in country systems",
+      "reason": "reject: Generic EWRS embedded in country systems; no specific digital mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New organizational practice: EWRS embedded in country systems - cue: 'early-warning'",
+      "innovation_cues": "early-warning",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic EWRS embedded in country systems; no specific digital mechanism",
+          "reject_code": "generic",
+          "context_chars": 2466
+        }
+      ]
+    },
+    {
+      "guid": "233781553565643951",
+      "doc_type": "PAD",
+      "position": 312,
+      "char_start": 52541,
+      "char_end": 52845,
+      "sentence": "Support the implementation of the Integrated Financial Management Information System (IFMIS) software SIM_BA in all LGs: Currently, financial reports do not allow for a proper analysis of budget expenditures, which constitutes a serious constraint to the effective management of LGs’ financial resources.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "SIM_BA IFMIS accounting software deployed in all local governments",
+      "reason": "reject: final check round 1: common - Digital: SIM_BA IFMIS accounting software is the core system | Before 2019: IFMIS rollouts standard in WBG PFM projects since 2000s",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: IFMIS budget software rolled out to all LGs - cue: 'digitalizing'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: SIM_BA IFMIS package | Innovative: IFMIS extended to all LGs | Category: Technological system",
+          "reject_code": "",
+          "context_chars": 1420
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: SIM_BA IFMIS accounting software is the core system | Before 2019: IFMIS rollouts standard in WBG PFM projects since 2000s",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 13,
+    "input_tokens": 46944,
+    "cached_tokens": 51707,
+    "cache_write_tokens": 0,
+    "output_tokens": 6850,
+    "seconds": 50.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0226
+  }
+}

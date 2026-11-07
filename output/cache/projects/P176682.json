@@ -1,0 +1,460 @@
+{
+  "project_id": "P176682",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "c1be84d9",
+  "started_at": "2026-11-07T03:33:26Z",
+  "ended_at": "2026-11-07T03:33:42Z",
+  "input_fingerprint": "5ff78cd3de4b0214",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 15,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P176682-A1",
+      "project_id": "P176682",
+      "name": "track recording car data for condition-based rail maintenance",
+      "description": "Project operates track recording car, builds data analysis capacity, shifts TRC to condition-based maintenance.",
+      "why_innovative": "New process: sensor-based track data replaces force-account maintenance - cue: 'condition-based maintenance' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "34278989",
+        "doc_type": "PAD",
+        "doc_date": "2024-03-06",
+        "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+        "char_start": 65375,
+        "char_end": 65593,
+        "text": "The\r\nproject will support operation of the ‘track recording car’ for effective network data collection, provide capacity\r\nstrengthening for data analysis, and support preparation of maintenance strategies and programs.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "34278989",
+          "doc_type": "PAD",
+          "doc_date": "2024-03-06",
+          "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+          "char_start": 65594,
+          "char_end": 65781,
+          "text": "The support will enable\r\nTRC to switch to condition-based maintenance (from currently force account maintenance methods) as part of their\r\nenterprise-wide asset management transformation.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: track recording car data is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Railways",
+        "code": "",
+        "confidence": null,
+        "rationale": "Track recording car data and condition-based maintenance directly serve railway infrastructure management.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: track recording car network data | Innovative: condition-based maintenance replaces force-account | Category: sensor data system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: sensor-based track data replaces force-account maintenance - cue: 'condition-based maintenance'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P176682",
+      "doc_type": "PAD",
+      "doc_date": "2024-03-06",
+      "guid": "34278989",
+      "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+      "source": "api",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:33:26Z",
+      "ended_at": "2026-11-07T03:33:28Z",
+      "status": "ok",
+      "note": "4 document(s) fetched from the WBG API; 7 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:33:28Z",
+      "ended_at": "2026-11-07T03:33:28Z",
+      "status": "ok",
+      "note": "in scope (approved 2024-03-28, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:33:28Z",
+      "ended_at": "2026-11-07T03:33:30Z",
+      "status": "ok",
+      "note": "15 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 15,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 1,
+          "enabling_technologies": 1,
+          "innovation_types": 5,
+          "public_good": 3,
+          "innovation": 1,
+          "innovation_cycle": 3,
+          "results_based_management": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:33:30Z",
+      "ended_at": "2026-11-07T03:33:30Z",
+      "status": "ok",
+      "note": "PAD 2024-03-06 (P176682_PAD_2024-03-06_34278989.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P176682",
+            "doc_type": "PAD",
+            "doc_date": "2024-03-06",
+            "guid": "34278989",
+            "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+            "source": "api",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:33:30Z",
+      "ended_at": "2026-11-07T03:33:30Z",
+      "status": "ok",
+      "note": "196 reading units (42 numbered paragraphs) from 1530 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 196
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:33:30Z",
+      "ended_at": "2026-11-07T03:33:32Z",
+      "status": "ok",
+      "note": "37 of 196 units carry a digital / AI cue (7 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 37,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 7
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:33:32Z",
+      "ended_at": "2026-11-07T03:33:35Z",
+      "status": "ok",
+      "note": "3 candidate practices from 37 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 119323,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 14177,
+          "cached_tokens": 11264,
+          "cache_write_tokens": 0,
+          "output_tokens": 1037,
+          "seconds": 8.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0056
+        },
+        "extracted": 3
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:33:35Z",
+      "ended_at": "2026-11-07T03:33:39Z",
+      "status": "ok",
+      "note": "1 accepted, 2 rejected (background_or_other_programme 2); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 47456,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 4556,
+          "cached_tokens": 5248,
+          "cache_write_tokens": 0,
+          "output_tokens": 254,
+          "seconds": 3.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0017
+        },
+        "accepted": 1,
+        "rejected": 2,
+        "expanded": 1,
+        "reject_codes": {
+          "background_or_other_programme": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:33:39Z",
+      "ended_at": "2026-11-07T03:33:40Z",
+      "status": "ok",
+      "note": "1 of 1 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 886,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 227,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 40,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:33:40Z",
+      "ended_at": "2026-11-07T03:33:40Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:33:40Z",
+      "ended_at": "2026-11-07T03:33:42Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4062,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 507,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 67,
+          "seconds": 1.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:33:42Z",
+      "ended_at": "2026-11-07T03:33:42Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 2 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:33:42Z",
+      "ended_at": "2026-11-07T03:33:42Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 175
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P176682-A1-E1",
+      "approach_id": "P176682-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 2,
+      "project_id": "P176682",
+      "doc_id": "34278989",
+      "doc_type": "PAD",
+      "doc_date": "2024-03-06",
+      "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 354,
+      "char_start": 65375,
+      "char_end": 65593,
+      "sentence": "The\r\nproject will support operation of the ‘track recording car’ for effective network data collection, provide capacity\r\nstrengthening for data analysis, and support preparation of maintenance strategies and programs.",
+      "practice": "track recording car data for condition-based rail maintenance",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Railways",
+      "extractor_reason": "Digital core: track recording car network data | Not routine: replaces force-account maintenance | Adoption: 'will support operation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: track recording car network data | Innovative: condition-based maintenance replaces force-account | Category: sensor data system",
+      "keywords_hit": "data analysis;data collection",
+      "innovation_cues": "",
+      "innovation_basis": "New process: sensor-based track data replaces force-account maintenance - cue: 'condition-based maintenance'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c1be84d9"
+    },
+    {
+      "row_id": "P176682-A1-E2",
+      "approach_id": "P176682-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 2,
+      "project_id": "P176682",
+      "doc_id": "34278989",
+      "doc_type": "PAD",
+      "doc_date": "2024-03-06",
+      "file_name": "P176682_PAD_2024-03-06_34278989.txt",
+      "unit_id": "U45",
+      "para_no": null,
+      "sentence_position": 355,
+      "char_start": 65594,
+      "char_end": 65781,
+      "sentence": "The support will enable\r\nTRC to switch to condition-based maintenance (from currently force account maintenance methods) as part of their\r\nenterprise-wide asset management transformation.",
+      "practice": "track recording car data for condition-based rail maintenance",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Railways",
+      "extractor_reason": "Digital core: track recording car network data | Not routine: replaces force-account maintenance | Adoption: 'will support operation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: track recording car network data | Innovative: condition-based maintenance replaces force-account | Category: sensor data system",
+      "keywords_hit": "data analysis;data collection",
+      "innovation_cues": "",
+      "innovation_basis": "New process: sensor-based track data replaces force-account maintenance - cue: 'condition-based maintenance'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "c1be84d9"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "34278989",
+      "doc_type": "PAD",
+      "position": 316,
+      "char_start": 58489,
+      "char_end": 58737,
+      "sentence": "Further, the Korea Green Growth Trust Fund is providing a World\r\nBank-executed trust fund for conducting data collection and digitization of the Tanzania central railway network and\r\ncatchment area for climate resilience and operational efficiency.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digitized central railway network and catchment data for climate resilience",
+      "reason": "reject: Korea trust fund study, not project-financed activity; data collection/digitization only mentioned",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: digitized railway network and catchment dataset - cue: 'digitization of'",
+      "innovation_cues": "nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Trust-funded data collection/digitization; unclear if project finances it or what dataset does",
+          "reject_code": "",
+          "context_chars": 1607
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Korea trust fund study, not project-financed activity; data collection/digitization only mentioned",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 11008
+        }
+      ]
+    },
+    {
+      "guid": "34278989",
+      "doc_type": "PAD",
+      "position": 785,
+      "char_start": 151268,
+      "char_end": 151345,
+      "sentence": "The GoT has developed a new system, the National e-Procurement System (NeST).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "National e-Procurement System (NeST) with e-registration and e-tendering modules",
+      "reason": "reject: Government's NeST rollout described as context; not a project-financed practice",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: phased national e-procurement platform replacing TANePS - cue: 'piloted'",
+      "innovation_cues": "piloted",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Government's NeST rollout described as context; not a project-financed practice",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1336
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 8,
+    "input_tokens": 19467,
+    "cached_tokens": 16896,
+    "cache_write_tokens": 0,
+    "output_tokens": 1398,
+    "seconds": 15.6,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0076
+  }
+}

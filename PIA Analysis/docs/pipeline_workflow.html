@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PIA Analysis — Pipeline Workflow (Draft v0.1)</title>
+<style>
+  :root{
+    --ink:#1f2933;--muted:#5f6b7a;--line:#d9dee5;--bg:#f7f8fa;--card:#fff;
+    --c1:#2f6fed;--c2:#0f9d7a;--c3:#d97706;--c4:#7c3aed;--c5:#6b7280;
+    --tbd:#fff4e5;--tbd-ink:#9a3412;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+  header{background:#fff;border-bottom:1px solid var(--line);padding:28px 40px}
+  header h1{margin:0 0 6px;font-size:26px}
+  header p{margin:0;color:var(--muted)}
+  main{max-width:1180px;margin:0 auto;padding:28px 40px 80px}
+  h2{font-size:20px;margin:40px 0 12px;padding-bottom:6px;border-bottom:2px solid var(--line)}
+  h3{font-size:16px;margin:22px 0 8px}
+  p{margin:8px 0}
+  code{background:#eef1f5;padding:1px 5px;border-radius:4px;font-size:13px}
+  pre{background:#0f172a;color:#e2e8f0;padding:14px 16px;border-radius:8px;overflow:auto;font-size:13px;line-height:1.5}
+  table{border-collapse:collapse;width:100%;background:var(--card);font-size:14px;margin:10px 0}
+  th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  th{background:#eef1f5}
+  .tag{display:inline-block;font-size:11px;font-weight:600;letter-spacing:.03em;padding:2px 8px;border-radius:999px;color:#fff;vertical-align:middle}
+  .t1{background:var(--c1)}.t2{background:var(--c2)}.t3{background:var(--c3)}.t4{background:var(--c4)}.t5{background:var(--c5)}
+  .tbd{background:var(--tbd);color:var(--tbd-ink);border:1px dashed #f59e0b;padding:2px 8px;border-radius:4px;font-size:12px;font-weight:600}
+  .note{background:#eef6ff;border-left:4px solid var(--c1);padding:10px 14px;border-radius:0 6px 6px 0;margin:12px 0}
+
+  /* flow diagram */
+  .flow{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin:18px 0 6px}
+  .stage{background:var(--card);border:1px solid var(--line);border-top:5px solid var(--c5);border-radius:10px;padding:14px 14px 12px;position:relative;min-height:230px}
+  .stage.s0{border-top-color:var(--c5)}.stage.s1{border-top-color:var(--c1)}.stage.s2{border-top-color:var(--c2)}.stage.s3{border-top-color:var(--c3)}.stage.s4{border-top-color:var(--c4)}
+  .stage .n{font-size:11px;font-weight:700;color:var(--muted);letter-spacing:.06em;text-transform:uppercase}
+  .stage h4{margin:4px 0 8px;font-size:15px}
+  .stage ul{margin:0;padding-left:16px;font-size:13px;color:#334155}
+  .stage li{margin:3px 0}
+  .stage:after{content:"→";position:absolute;right:-16px;top:46%;font-size:22px;color:var(--muted)}
+  .stage:last-child:after{content:""}
+  .cross{background:var(--card);border:1px dashed var(--c4);border-radius:10px;padding:12px 16px;margin-top:12px;font-size:13px}
+  .cross b{color:var(--c4)}
+
+  /* step cards */
+  .steps{display:grid;grid-template-columns:1fr;gap:12px}
+  .step{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+  .step .hd{display:flex;align-items:center;gap:10px;margin-bottom:6px}
+  .step .hd code{font-size:14px;font-weight:600;background:transparent;padding:0}
+  .step dl{display:grid;grid-template-columns:110px 1fr;gap:4px 12px;margin:6px 0 0;font-size:13.5px}
+  .step dt{color:var(--muted);font-weight:600}
+  .step dd{margin:0}
+  .tree{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;background:#fff;border:1px solid var(--line);border-radius:8px;padding:12px 16px;white-space:pre;overflow:auto}
+  footer{color:var(--muted);font-size:13px;margin-top:50px;border-top:1px solid var(--line);padding-top:14px}
+</style>
+</head>
+<body>
+<header>
+  <h1>PIA Analysis — Pipeline Workflow</h1>
+  <p>Project Innovation Approach Analysis · Python package <code>piaa</code> · Draft v0.1 · 2026-11-05 · Status: skeleton, to be filled in step by step</p>
+</header>
+
+<main>
+
+<div class="note">
+  <b>How to read this document.</b> It is the design map of the <code>piaa</code> package: what goes in, which stages the data passes through, which public functions ("APIs") each stage exposes, and how outputs are versioned. Items marked <span class="tbd">TBD</span> are placeholders that will be filled in during the next design steps.
+</div>
+
+<h2>1. Design principles</h2>
+<table>
+  <tr><th style="width:230px">Principle</th><th>What it means in practice</th></tr>
+  <tr><td>Single input: the raw-data folder</td><td>The only required input is a folder (e.g. <code>raw_data/</code>) containing <code>projects.csv</code> — the list of projects in scope — and a <code>documents/</code> sub-folder with local project documents. Nothing else is assumed.</td></tr>
+  <tr><td><code>project_id</code> is the join key</td><td>Every row in <code>projects.csv</code>, every local document file name, every API response and every output row is linked by the World Bank project ID (e.g. <code>P176935</code>).</td></tr>
+  <tr><td>User-specified output folder</td><td>Every run writes to an <code>output_dir</code> passed by the caller. The package never writes next to its own source code.</td></tr>
+  <tr><td>Never overwrite, always version</td><td>Each run creates a new, time-stamped run folder with a new copy of the Excel outputs. Previous versions stay untouched.</td></tr>
+  <tr><td>Check-before-recompute</td><td>Per-project results are cached. On re-run the caller chooses to <em>reuse</em> cached results, <em>refresh</em> everything, or refresh only what is new or changed.</td></tr>
+  <tr><td>Single-record first, batch second</td><td>Every analysis function can be run for one <code>project_id</code> so that it can be tested repeatedly before the full database is built.</td></tr>
+  <tr><td>Driven from a Jupyter Notebook</td><td>The package is installed locally (<code>pip install -e</code>) and called from a notebook template that lives in the user's project folder.</td></tr>
+  <tr><td>English only</td><td>All code, comments, docstrings and documents inside <code>PIA Analysis/</code> are in English.</td></tr>
+</table>
+
+<h2>2. End-to-end flow</h2>
+<div class="flow">
+  <div class="stage s0">
+    <div class="n">Stage 0</div>
+    <h4>Inputs</h4>
+    <ul>
+      <li><code>raw_data/projects.csv</code> — list of projects in scope</li>
+      <li><code>raw_data/documents/*.txt</code> — local project documents</li>
+      <li><code>output_dir</code> chosen by the user</li>
+      <li>Run options (reuse / refresh)</li>
+    </ul>
+  </div>
+  <div class="stage s1">
+    <div class="n">Stage 1</div>
+    <h4>Catalog &amp; Acquisition</h4>
+    <ul>
+      <li>Load and validate <code>projects.csv</code></li>
+      <li>Check every project against the WB Projects API</li>
+      <li>List documents available per project in the WB Documents API</li>
+      <li>Audit local vs. online documents; download what is missing</li>
+      <li>(Future) expand the project catalog from the API</li>
+    </ul>
+  </div>
+  <div class="stage s2">
+    <div class="n">Stage 2</div>
+    <h4>Project Analysis</h4>
+    <ul>
+      <li>Build one bundle per project (CSV row + documents)</li>
+      <li>Run the <em>Project Flow</em> on one project → one record</li>
+      <li>Single-record test API for repeated manual checks</li>
+      <li>Batch analysis with cache</li>
+    </ul>
+  </div>
+  <div class="stage s3">
+    <div class="n">Stage 3</div>
+    <h4>Database Build</h4>
+    <ul>
+      <li>Assemble per-project records into two tables</li>
+      <li>Write <code>Table 1</code> and <code>Table 2</code> as Excel</li>
+      <li>Write a run manifest (inputs, options, versions)</li>
+      <li>Accessor APIs to load either table</li>
+    </ul>
+  </div>
+  <div class="stage s4">
+    <div class="n">Stage 4</div>
+    <h4>Consumption</h4>
+    <ul>
+      <li>Jupyter Notebook template calls the package</li>
+      <li>Versioned Excel files in <code>output_dir</code></li>
+      <li>Re-run on CSV / document updates</li>
+    </ul>
+  </div>
+</div>
+<div class="cross"><b>Cross-cutting: run registry &amp; cache.</b> Every stage records what it did under <code>output_dir/</code>. Per-project results are fingerprinted (project row + document set) so that unchanged projects can be skipped on later runs.</div>
+
+<h2>3. Inputs in detail</h2>
+<h3>3.1 <code>projects.csv</code></h3>
+<p>One row per project in scope. Current columns:</p>
+<pre>project_id, project_name, country, region, vertical, lead_practice, status,
+approval_date, commitment_usd, sector_names, sector_percents, themes</pre>
+<p>The file can be updated at any time (rows added, removed or edited). It is the sole definition of "which projects are in scope".</p>
+
+<h3>3.2 <code>documents/</code></h3>
+<p>Plain-text documents, one file each, named by convention:</p>
+<pre>{project_id}_{doc_type}_{doc_date}_{guid}.txt
+e.g. P158418_PAD_2018-12-21_443201548471646286.txt</pre>
+<p>The trailing <code>guid</code> equals the document ID in the World Bank Documents &amp; Reports API, which makes local files and online records directly comparable. Known document types so far: <code>PAD</code>, <code>PID</code>, <code>ISR</code>, <code>ProjectPaper</code>; others may be added. <span class="tbd">TBD: final list of document types used by the analysis</span></p>
+
+<h3>3.3 External sources (World Bank APIs)</h3>
+<table>
+  <tr><th>API</th><th>Endpoint</th><th>Used for</th></tr>
+  <tr><td>Projects API</td><td><code>https://search.worldbank.org/api/v2/projects</code></td><td>Verify a project ID exists; pull project metadata; (future) list candidate projects by fiscal year / filters.</td></tr>
+  <tr><td>Documents &amp; Reports API</td><td><code>https://search.worldbank.org/api/v3/wds</code></td><td>List documents per <code>proid</code>; filter by <code>docty_exact</code> and date; download full text via <code>txturl</code>. Must paginate (<code>rows</code>/<code>os</code>); Additional Financing documents are filed under the parent project ID.</td></tr>
+</table>
+
+<h2>4. Public API catalog (by stage)</h2>
+<p>Function names below are the proposed public surface of <code>piaa</code>. Signatures are indicative and will be finalised stage by stage.</p>
+
+<h3><span class="tag t1">Stage 1</span> Catalog &amp; Acquisition — module <code>piaa.catalog</code> / <code>piaa.wb_api</code></h3>
+<div class="steps">
+  <div class="step"><div class="hd"><span class="tag t1">1.1</span><code>load_projects(raw_dir) → ProjectList</code></div>
+    <dl><dt>Purpose</dt><dd>Read <code>projects.csv</code>, validate required columns and ID format, de-duplicate, report problems.</dd>
+        <dt>Output</dt><dd>DataFrame + validation report (duplicates, malformed IDs, missing fields).</dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t1">1.2</span><code>check_projects_online(project_ids) → CoverageReport</code></div>
+    <dl><dt>Purpose</dt><dd>Query the Projects API for every ID; confirm it is found and return key metadata.</dd>
+        <dt>Output</dt><dd>Table: <code>project_id, found_online, api_name, api_status, api_approval_fy, …</code></dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t1">1.3</span><code>list_online_documents(project_id, doc_types=None) → DocumentIndex</code></div>
+    <dl><dt>Purpose</dt><dd>List every document the Documents API holds for one project (paginated; parent-project handling for Additional Financing).</dd>
+        <dt>Output</dt><dd>Table: <code>project_id, guid, doc_type, doc_date, txturl, pdfurl</code></dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t1">1.4</span><code>audit_documents(raw_dir, project_ids=None) → AuditReport</code></div>
+    <dl><dt>Purpose</dt><dd>Compare local <code>documents/</code> against the online index: which projects have no local documents, which document types are missing, which local files do not match any online record.</dd>
+        <dt>Output</dt><dd>Gap table per project + summary counts.</dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t1">1.5</span><code>fetch_documents(project_ids, doc_types, dest_dir, overwrite=False) → FetchLog</code></div>
+    <dl><dt>Purpose</dt><dd>Download full text for missing documents and save them with the standard file name convention so they become indistinguishable from pre-existing local documents.</dd>
+        <dt>Reference</dt><dd>Based on the earlier prototype <code>_archive/…/api_probe/fetch_wb_documents_v0.py</code> and <code>API_NOTES.md</code>.</dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t1">1.6</span><code>expand_catalog(filters) → CandidateProjects</code> <span class="tbd">Future</span></div>
+    <dl><dt>Purpose</dt><dd>Pull additional candidate projects from the Projects API (by fiscal year, practice, theme, …) to help grow <code>projects.csv</code>.</dd></dl></div>
+</div>
+
+<h3><span class="tag t2">Stage 2</span> Project Analysis — module <code>piaa.analysis</code></h3>
+<div class="steps">
+  <div class="step"><div class="hd"><span class="tag t2">2.1</span><code>build_bundle(project_id, raw_dir) → ProjectBundle</code></div>
+    <dl><dt>Purpose</dt><dd>Collect everything known about one project: its CSV row, its local documents (parsed, typed, dated), and any API supplement.</dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t2">2.2</span><code>analyze_project(project_id, raw_dir, config=None) → ProjectRecord</code></div>
+    <dl><dt>Purpose</dt><dd><b>The single-record test API.</b> Runs the full Project Flow on one project and returns the record that will later become one row in each output table, together with an explanation trace (which document / passage supported each field).</dd>
+        <dt>Project Flow</dt><dd><span class="tbd">TBD: the sequence of analytical steps (document selection → extraction → classification of innovation approach → scoring) will be defined in the next design step.</span></dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t2">2.3</span><code>analyze_batch(project_ids, raw_dir, cache_dir, mode="reuse") → list[ProjectRecord]</code></div>
+    <dl><dt>Purpose</dt><dd>Run <code>analyze_project</code> over many projects with caching. <code>mode</code>: <code>reuse</code> (skip projects whose fingerprint is unchanged), <code>refresh</code> (recompute all), <code>missing</code> (only projects with no cached result).</dd></dl></div>
+</div>
+
+<h3><span class="tag t3">Stage 3</span> Database Build — module <code>piaa.database</code></h3>
+<div class="steps">
+  <div class="step"><div class="hd"><span class="tag t3">3.1</span><code>build_database(raw_dir, output_dir, mode="reuse", run_label=None) → RunResult</code></div>
+    <dl><dt>Purpose</dt><dd><b>The aggregate API.</b> Executes Stage 1 checks → Stage 2 batch → writes both Excel tables and a run manifest into a new versioned run folder.</dd>
+        <dt>Output</dt><dd>Paths of <code>table1</code>, <code>table2</code>, <code>run_manifest.json</code>, plus counts (reused / recomputed / failed).</dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t3">3.2</span><code>load_table1(output_dir, run=None)</code> · <code>load_table2(output_dir, run=None)</code></div>
+    <dl><dt>Purpose</dt><dd>Load either output table from the latest run (default) or a named run as a DataFrame.</dd>
+        <dt>Schema</dt><dd><span class="tbd">TBD: column definitions of Table 1 and Table 2</span></dd></dl></div>
+  <div class="step"><div class="hd"><span class="tag t3">3.3</span><code>list_runs(output_dir) → RunIndex</code></div>
+    <dl><dt>Purpose</dt><dd>Enumerate previous runs with their time stamp, label, input fingerprint and output files.</dd></dl></div>
+</div>
+
+<h2>5. Output folder layout &amp; versioning</h2>
+<div class="tree">{output_dir}/
+├── runs/
+│   ├── 2026-11-05_2230_initial/
+│   │   ├── table1_&lt;name_tbd&gt;.xlsx
+│   │   ├── table2_&lt;name_tbd&gt;.xlsx
+│   │   ├── run_manifest.json        # inputs, options, package version, counts
+│   │   └── run_log.txt
+│   └── 2026-11-12_0910_csv_update/
+│       └── …
+├── cache/
+│   ├── projects/{project_id}.json   # per-project analysis record + fingerprint
+│   └── online_index/{project_id}.json
+└── latest → runs/2026-11-12_0910_csv_update   (pointer file, not a symlink)</div>
+<table>
+  <tr><th style="width:260px">Rule</th><th>Behaviour</th></tr>
+  <tr><td>New run folder every time</td><td>Folder name = timestamp + optional label. Existing run folders are never modified.</td></tr>
+  <tr><td>Fingerprint per project</td><td>Hash of the project's CSV row + the set of (file name, size, mtime) of its documents. If unchanged and <code>mode="reuse"</code>, the cached record is copied into the new run without recomputation.</td></tr>
+  <tr><td>Manifest</td><td>Records the <code>projects.csv</code> hash, the document count, the mode, the package version and per-project status (reused / recomputed / failed / no-documents).</td></tr>
+</table>
+
+<h2>6. Update scenarios</h2>
+<table>
+  <tr><th style="width:280px">What changed</th><th>What the pipeline does</th></tr>
+  <tr><td>Rows added to <code>projects.csv</code></td><td>New IDs are checked online (1.2), their documents listed and fetched if absent (1.3–1.5), analysed (2.2), and appended; unchanged projects are reused.</td></tr>
+  <tr><td>Rows removed from <code>projects.csv</code></td><td>Removed projects are excluded from the new run's tables; their cache entries are kept for traceability.</td></tr>
+  <tr><td>New local documents for an existing project</td><td>Fingerprint changes → project is recomputed automatically even in <code>reuse</code> mode.</td></tr>
+  <tr><td>A project has no local documents</td><td>Flagged by the audit (1.4); <code>fetch_documents</code> (1.5) pulls them from the Documents API; if nothing exists online the project is marked <code>no-documents</code> in the manifest.</td></tr>
+  <tr><td>Analysis logic / config changed</td><td>Run with <code>mode="refresh"</code> to recompute everything into a new run folder.</td></tr>
+</table>
+
+<h2>7. Jupyter Notebook template (planned)</h2>
+<p>A notebook <code>piaa_analysis_template.ipynb</code> will ship with the package and follow the same stage order:</p>
+<pre>import piaa
+
+RAW_DIR    = "path/to/raw_data"
+OUTPUT_DIR = "path/to/output"
+
+# Stage 1 — catalog & acquisition
+projects = piaa.load_projects(RAW_DIR)
+coverage = piaa.check_projects_online(projects.ids)
+audit    = piaa.audit_documents(RAW_DIR)
+piaa.fetch_documents(audit.missing, dest_dir=f"{RAW_DIR}/documents")
+
+# Stage 2 — single-record tests (repeat as needed)
+rec = piaa.analyze_project("P176935", RAW_DIR)
+rec.show()                      # record + explanation trace
+
+# Stage 3 — build the database
+run = piaa.build_database(RAW_DIR, OUTPUT_DIR, mode="reuse", run_label="initial")
+t1  = piaa.load_table1(OUTPUT_DIR)
+t2  = piaa.load_table2(OUTPUT_DIR)</pre>
+
+<h2>8. Proposed package layout</h2>
+<div class="tree">PIA Analysis/
+├── NAMING.md
+├── docs/
+│   └── pipeline_workflow.html      # this document
+├── pyproject.toml
+├── piaa/
+│   ├── __init__.py                 # public API re-exports
+│   ├── config.py                   # paths, options, constants
+│   ├── catalog.py                  # Stage 1: projects.csv loading & validation
+│   ├── wb_api.py                   # Stage 1: World Bank API client (projects + documents)
+│   ├── documents.py                # local document index, naming convention, parsing
+│   ├── analysis.py                 # Stage 2: project flow, single-record & batch
+│   ├── database.py                 # Stage 3: run folders, cache, Excel writers
+│   └── cli.py                      # optional command-line entry point
+├── notebooks/
+│   └── piaa_analysis_template.ipynb
+└── tests/</div>
+
+<h2>9. Open items</h2>
+<table>
+  <tr><th style="width:60px">#</th><th>Item</th><th style="width:120px">Status</th></tr>
+  <tr><td>1</td><td>Define the <b>Project Flow</b>: analytical steps from documents to the innovation-approach record</td><td><span class="tbd">TBD</span></td></tr>
+  <tr><td>2</td><td>Define the schema (columns) of <b>Table 1</b> and <b>Table 2</b></td><td><span class="tbd">TBD</span></td></tr>
+  <tr><td>3</td><td>Decide which document types are required / optional for analysis, and the priority order</td><td><span class="tbd">TBD</span></td></tr>
+  <tr><td>4</td><td>Decide the analysis engine (rule-based, LLM-assisted, or hybrid) and where its configuration lives</td><td><span class="tbd">TBD</span></td></tr>
+  <tr><td>5</td><td>Handling of Additional Financing projects whose documents sit under the parent project</td><td><span class="tbd">TBD</span></td></tr>
+  <tr><td>6</td><td>Finalise function signatures and error-handling conventions</td><td><span class="tbd">TBD</span></td></tr>
+</table>
+
+<footer>PIA Analysis · pipeline_workflow.html · Draft v0.1 · This document is the living design reference and will be revised as each stage is specified.</footer>
+</main>
+</body>
+</html>

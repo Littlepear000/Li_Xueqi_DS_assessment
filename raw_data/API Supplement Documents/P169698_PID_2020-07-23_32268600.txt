@@ -1,0 +1,492 @@
+﻿           The World Bank
+           Log-In Georgia (P169698)
+
+
+
+
+                        Project Information Document (PID)
+
+
+                       Appraisal Stage | Date Prepared/Updated: 23-Jul-2020 | Report No: PIDA28879
+
+
+
+
+Jul 07, 2020                                                                                         Page 1 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+
+   BASIC INFORMATION
+
+ OPS_TABLE_BASIC_DATA
+  A. Basic Project Data
+
+   Country                                       Project ID                 Project Name               Parent Project ID (if any)
+   Georgia                                       P169698                    Log-In Georgia
+
+   Region                                        Estimated Appraisal Date   Estimated Board Date       Practice Area (Lead)
+   EUROPE AND CENTRAL ASIA                       20-Jul-2020                29-Sep-2020                Digital Development
+
+   Financing Instrument                          Borrower(s)                Implementing Agency
+   Investment Project Financing                  Ministry of Finance        Ministry of Economy and
+                                                                            Sustainable Development,
+                                                                            Communications
+                                                                            Commission, Open Net
+                                                                            NNLE
+
+   Proposed Development Objective(s)
+
+   To increase access to affordable broadband internet, and to promote its use by individuals and enterprises, in selected
+   rural settlements.
+
+   Components
+   Increasing access to broadband
+   Promoting the use of broadband-enabled digital services
+   Project implementation support
+
+
+
+   PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY                   -NewFin1
+
+
+
+
+   Total Project Cost                                                                                                       80.10
+   Total Financing                                                                                                          80.10
+                             of which IBRD/IDA                                                                              40.00
+   Financing Gap                                                                                                              0.00
+
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+   World Bank Group Financing
+
+      International Bank for Reconstruction and Development (IBRD)                                                          40.00
+
+
+
+Jul 07, 2020                                                                                                             Page 2 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+
+   Non-World Bank Group Financing
+
+      Counterpart Funding                                                                                                      40.10
+          Borrower/Recipient                                                                                                   40.10
+
+   Environmental and Social Risk Classification
+   Moderate
+
+    Decision
+    The review did authorize the team to appraise and negotiate
+
+
+   B. Introduction and Context
+
+           Strategic Context
+
+           1.       The proposed Project aims to connect more people, enterprises, and institutions across rural Georgia
+           to high-quality, affordable broadband internet, and to promote the use of digital services. Georgia’s economic
+           growth has been strong over the past decade, with far�?reaching reforms improving governance and the business
+           environment. A key challenge for Georgia is to overcome economic dualism, especially to ensure that people and
+           enterprises in rural areas have equal access to opportunity as their urban compatriots. Investing in digital
+           connectivity across rural Georgia and promoting the digital services that use improved connectivity will bridge
+           this divide and help equalize access to digital opportunities. The Project will also support Georgia’s recovery from
+           and help build resilience to natural disasters and crises such as the COVID-19 pandemic.
+
+           Country Context
+
+           2.      Georgia’s economy has grown significantly over the past decade and positioning it as an upper -middle
+           income country. A small and open economy, Georgia has a population of 3.7 million, a land area of 69,700 km2,
+           and ranks seventh in the global Ease of Doing Business rankings.1 Between 2010 and 2018, the Georgian economy
+           grew at an average annual rate of 4.8 percent, fueled by reforms in economic management and governance, and
+           a move to boost exports and integration with the regional and global economy. Poverty has declined, even though
+           inequality is still a concern.
+
+           3.      Georgia will need to build bridges to overcome income inequality and a lack of economic opportunities,
+           especially in rural areas, to address economic dualism. Poverty and inequality remain high in rural areas; one in
+           every five people is still poor. As of 2019, rural households earned 11 percent less than urban households on
+           average; the gap on a per capita basis is 16 percent.2 And especially in rural areas, households headed by women
+           are particularly vulnerable to poverty.3 The Systematic Country Diagnostic identified addressing economic dualism
+
+
+
+
+           1 See https://www.doingbusiness.org/content/dam/doingBusiness/country/g/georgia/GEO.pdf
+           2 GeoStat Data 2018: https://www.geostat.ge/en/modules/categories/50/households-income
+           3 World Bank, Social Exclusion and Inclusion in Georgia: A Country Social Analysis, 2017, pp. 30, available at
+
+           https://openknowledge.worldbank.org/handle/10986/28317
+
+
+Jul 07, 2020                                                                                                                Page 3 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+           as a high-priority, noting the need to equalize access to opportunities and investing in people to ensure that rural
+           residents can participate in the modern economy, whether in rural activities or through internal mobility.4
+
+           4.      The COVID-19 pandemic and its aftermath has worsened the outlook for the Georgian economy and
+           could disrupt the country’s growth trajectory. Real gross domestic product (GDP) is expected to decline by over
+           4 percent in 2020.5 Key challenges foreseen stem from declines in domestic consumption and investment, and in
+           remittances.6 Declines in the tourism industry, which contributed about eight percent of GDP in 2018, and in trade
+           with Europe, China, and the Middle East, will further slow economic growth. Unemployment may rise and some
+           share of the employed might see their incomes reduced due to the contraction in economic activity; some people
+           might be pushed into poverty in the wake of the COVID-19 pandemic. At the same time, the Government of
+           Georgia (GoG) has taken decisive steps to manage the economic fallout. A cautious reopening of the economy is
+           underway as of June 2020.
+
+           5.       Digital technologies can build and support resilience to natural disasters, the effects of climate change,
+           and future events such as the COVID-19 pandemic. Georgia is highly vulnerable to climate change and natural
+           disasters. Risks include the negative effects of a rise in temperatures on agriculture, and of the increasing
+           frequency and severity of droughts, floods, frosts, and extreme temperature events. These effects could be more
+           severe in rural and remote mountainous regions, where agriculture is still the major economic activity.
+           Investments in climate-resilient infrastructure, and which promote climate-smart agriculture and enable
+           economic diversification will be part of the response. In addition, investments that help people and enterprises
+           stay connected and working during situations such as natural disasters and pandemics will also boost economic
+           resilience. Improved connectivity can boost remote learning and support livelihoods hampered by pandemic-
+           required social distancing. And they will support wider adoption of digital technology solutions for post-disaster
+           service delivery and emergency response in affected rural communities.
+
+          Sectoral and Institutional Context
+
+           6.      The expansion of Georgia’s digital economy has continued over the last two decades. Following the
+           Rose Revolution in 2003, government focus has been on improving public service delivery and management by
+           using digital technologies.7 Since 2013, the GoG has integrated national digital and related initiatives in its
+           programs: to support innovation and the use of technology across the economy, to expand access to the internet,
+           and build digital skills among students and young people.8
+
+           7.      Open markets and private-sector investments have worked well together to bring many people online.
+           Access to and use of basic internet has developed at a steady pace and has been driven by private sector
+           investment. As of 2019, four-fifths of households have at least basic internet access, while over 70 percent of
+           people use the internet. Broadband adoption is also on the rise with 67 percent of households subscribing to fixed
+           broadband services, and mobile broadband connections accounting for over 50 percent of total mobile
+           subscriptions. Fifth generation (5G) mobile networks are expected to be introduced in 2020.9
+
+
+           4 World Bank, Georgia: From Reformer to Performer - Systematic Country Diagnostic, 2018:
+           http://documents.worldbank.org/curated/en/496731525097717444/pdf/GEO-SCD-04-24-04272018.pdf
+           5 World Bank, World Bank. 2020. Global Economic Prospects, June 2020. Washington, DC:
+
+           World Bank. DOI: 10.1596/978-1-4648-1553-9
+           6 ISET Policy Institute, The Economic Response to COVID-19: How is Georgia Handling the Challenge? March 2020:
+
+           https://drive.google.com/file/d/1pUToPsqzRYK6XDpZog2Mag4NAqreevWW/view
+           7 World Bank. 2012. Fighting Corruption in Public Services: Chronicling Georgia's Reforms. Directions in Development: public sector governance.
+
+           World Bank. https://openknowledge.worldbank.org/handle/10986/2234
+           8 Government of Georgia, Freedom, Rapid Development & Welfare, Government Program 2018-2020
+           9
+             See, for example, a press release by ComCom (in Georgian): http://ComCom.ge/ge/yvela-siaxle/komunikaciebis-komisia-5g-teqnologias-male-
+
+
+Jul 07, 2020                                                                                                                                            Page 4 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+           8.       Despite this progress, access to high-quality broadband networks is limited in rural areas; this
+           contributes to economic dualism and could worsen other social divides. Fixed broadband networks are less
+           common outside of the cities: a third of rural households connect to fixed broadband as compared to over 90
+           percent of urban households. And only a quarter of rural households subscribe to optical fiber cable (OFC) based
+           internet services (compared with 57 percent nationally).10 And even though mobile broadband networks cover
+           most of the population, the quality of service varies, with rural areas often not well-served in terms of connection
+           speeds or reliable coverage. These gaps imply differences in the ability of people and enterprises outside of the
+           larger cities to access the full range of digital opportunities.
+
+           9.      The fixed broadband market is underdeveloped due to high deployment costs and limited competition.
+           The costs of building high-quality broadband infrastructure for many rural settlements are significant for private
+           investors, especially given the perception of limited potential returns on investment. In addition, limited
+           competition in means that there has been underinvestment in middle-mile infrastructure, which connects
+           settlements to the national network and thence the global internet. Only 3 of 29 major middle-mile network
+           routes in the country have more than two competing service providers.
+
+           10.      These market failures—limited competition, high deployment costs, and underinvestment—limit the
+           expansion of middle-mile infrastructure capable of delivering high-speed broadband in many rural settlements.
+           Investments in upgrading and expanding middle-mile networks have remained limited. The result is that internet
+           services available in rural areas (and some smaller towns) are either of limited quality; upstream networks cannot
+           deliver the capacity needed for high-speed connectivity to downstream users. Or, services are unaffordable for
+           many households, and especially for rural households or households headed by women. Moreover, even where
+           internet services are available, consumers regularly complain of limited choice of plans and lower-than-advertised
+           speeds, implying that they are in effect paying more per unit than say consumers in larger cities.11
+
+           11.      Boosting rural broadband internet adoption will also require addressing the lack of relevant use-cases
+           to attract rural users. Internet use has been increasing nationally, but people in rural Georgia lag people in urban
+           Georgia and in rural EU in activities such as internet banking, seeking health information online, or searching for
+           jobs online. In the context of the COVID-19 pandemic, anecdotal reports suggest that many people have switched
+           to digital services where possible; this might trigger a change in how people, enterprises, and institutions use the
+           internet in the longer-term and highlight the possibilities of use-cases such as online learning and telemedicine.
+           Even so, many households are not connected or do not have access to devices; this constrained the reach of
+           online learning during school closures, for example. Improved digital connectivity can also help rural populations
+           build resilience against climate change and related natural disasters such as droughts, earthquakes, floods.
+
+           12.     There are specific gender gaps in internet use. A small yet constant gender gap—about three percentage
+           points—persists among recent internet users. This is even as the share of women who have never used the
+           internet has fallen sharply from 41 percent in 2016 to 29 percent in 2019.12 The limited depth of use of broadband
+           internet extends to enterprises as well. Low awareness of how to implement use-cases may be why relative few
+           enterprises subscribe to broadband (connections above 30 Mbps) even where it is available: in 2019, only 16
+
+
+
+
+           davnergavt-radgan-qveynis-ekonomikuri-ganvitarebis-gza-axali-taobis-internet-teqnologiebze-gadis.page?fbclid=IwAR31HNk-
+           c5ZMc7Ogq6F2q92Q8muuZROuoi5mWQaX2dgdbnwNgCMGogdEvLU
+           10 Connections including xDSL, fiber, and Wi-Fi based connections. World Bank analysis based on ComCom data, March 2020.
+           11 For example, while a household can subscribe to a 100 Mbps fiber internet service for GEL 100 a month in many larger cities, in smaller cities
+
+           or towns an 8 Mbps connection can cost GEL 65 a month or more.
+           12
+              GeoStat data, 2019. Among internet users (within the last 3 months), the share of female and male users who are daily users is almost equal
+
+
+Jul 07, 2020                                                                                                                                              Page 5 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+           percent of enterprises had such subscriptions, even though over 65 percent had access to high-speed-capable
+           technologies.13
+
+           13.     The policy context is in line with international good practices. Georgia has signed an Association
+           Agreement with the European Union (EU) and is a member of the World Trade Organization (WTO). The line
+           Ministry of Economy and Sustainable Development of Georgia (MOESD), sets policy and strategy for the
+           information and communication technology sector through a dedicated department. The ComCom is a statutorily
+           mandated independent regulatory agency.14 The legal and regulatory frameworks reflect global best practices
+           and are transposing EU practices in line with Association Agreement commitments. To improve access and
+           affordability, the Government—through policymaker MOESD—and the regulator, ComCom have identified or
+           implemented a range of measures to increase competition in markets or to regulate wholesale markets.15
+
+           14.       In January 2020, the Government adopted a National Broadband Development Strategy (NBDS) to
+           2025. The NBDS—prepared with technical assistance of the World Bank (P167086), and with the support of the
+           EU4Digital initiative of the EU16—sets ambitious goals for the sector, in line with the EU’s Gigabit Society targets.
+           It recognizes the importance of available, affordable, and reliable broadband connectivity as a foundational
+           infrastructure to implement its economic development vision. The strategy also recognizes the need to promote
+           digital inclusion and build skills and demand for broadband internet access, especially in rural areas.
+
+           15.     The Government plans to prepare and adopt a digital Georgia strategy in 2021. There has been much
+           progress in individual public and private agencies’ efforts to digitize services, and to support digital innovation by
+           entrepreneurs, businesses, and government. However, the overall strategic vision for digital economy
+           development in Georgia is still unstated and there is no institutional mechanism to coordinate these efforts across
+           stakeholders. This represents a missed opportunity for efficiency and to generate visibility to mobilize resources,
+           especially from private stakeholders, to support digital economy initiatives. The World Bank is currently providing
+           technical assistance to the MOESD as it scopes out and considers the elements of such as digital strategy.17
+
+           C. Proposed Development Objective(s)
+
+           Development Objective
+
+           To increase access to affordable broadband internet, and to promote its use by individuals and enterprises, in
+           selected rural settlements.
+
+           Key Results
+
+           16.     The project is expected to increase access to high-speed broadband connectivity for populations in rural
+           areas, promote the use of select digitally enabled services (including digital public services) among connected
+           populations, and improve the affordability of broadband services across the country. The improved access to
+           high-speed connectivity will be measured by the number of individuals provided access to broadband connectivity
+           through the project. The project will contribute to improved affordability of broadband services through pro-
+           competition and investment regulatory reforms, enabling internet service providers in rural areas to provide
+
+           13 GeoStat data, 2019
+           14
+              See https://ComCom.ge/en/the-commission/about-commission
+           15 For a listing of recent activities of the ComCom, please refer to: https://comcom.ge/ge/regulation/eleqtronuli-komunikaciebi/comm-
+
+           sakonsultacio-dokumentebi-da-sxva-masalebi (in Georgian)
+           16 See https://eufordigital.eu/
+           17
+              This technical assistance is being provided under an advisory services activity: South Caucasus Digital Economy Initiatives (P168996)
+
+
+Jul 07, 2020                                                                                                                                          Page 6 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+           competitive high-quality broadband internet services, as measured through the number of affordable broadband
+           subscription packages available in project areas. The project will also contribute to the increased use of specific
+           digitally enabled services through training and capacity building programs and be measured by share of individuals
+           and enterprises using the internet for specific purposes, as identified by GeoStat annual Information and
+           Communication Technologies (ICT) use household and enterprise surveys. The data on use of ICT services will be
+           gender disaggregated.
+
+           D. Project Description
+
+           17.      Through a combination of IBRD funding and counterpart financing, the proposed Project will support
+           activities that will increase access to and realization of digital opportunity across Georgia, with a focus on rural
+           areas. The Government has requested that the proposed Project include retroactive financing for eligible
+           expenditures to accelerate Project implementation.
+
+           Component 1: Increasing access to broadband
+
+           18.      This Component will help expand access to broadband internet in rural settlements across Georgia and
+           improve the enabling environment for digital development. Subcomponent 1.1 will support the Government’s
+           Open Net Program, which seeks to expand access to broadband services to selected rural settlements.
+           Subcomponent 1.2 will finance activities to enhance the enabling environmental for Georgia’s digital
+           infrastructure development.
+
+           Component 2: Promoting the use of broadband-enabled digital services
+
+           19.      This Component will support the development of Georgia’s digital economy through a strengthened
+           enabling environment, promoting digital use-cases of broadband, and addressing barriers to the participation of
+           individuals in the digital economy. Subcomponent 2.1 will strengthen the enabling environment to develop
+           Georgia’s digital economy. Subcomponent 2.2 will identify and promote broadband-enabled digital use-cases to
+           help solve meaningful problems in the connected settlements and for specific user-groups (women-headed
+           households, ethnic minorities, and persons with disabilities). Subcomponent 2.3 will support activities that ensure
+           the digital inclusion of specific groups of individuals that are at risk of missing out on digital opportunities.
+
+           Component 3: Project implementation support
+
+           20.      This component will support the management and implementation of the Project and associated
+           activities, including capacity building of the implementing entity and agencies. This would include hiring of
+           consultants needed for key areas including for project management, technical input, procurement, financial
+           management, environment and social framework implementation, monitoring and evaluation, communications,
+           and citizen and stakeholder engagement, to enable Project implementation.
+  .
+  .
+  Legal Operational Policies
+                                                                         Triggered?
+
+   Projects on International Waterways OP 7.50                           No
+
+   Projects in Disputed Areas OP 7.60                                    No
+
+
+
+Jul 07, 2020                                                                                                         Page 7 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+  Summary of Assessment of Environmental and Social Risks and Impacts
+  .
+
+
+           21.      The Environmental and Social Risk Classification (ESRC) for the Project is Moderate. Civil works to be
+           undertaken under the Project are related to the development of the broadband infrastructure, and specifically,
+           deployment of OFC. Overall, OFC corridor will overlap or closely follow the existing linear infrastructure and will
+           not have considerable additional environmental footprint. In any case, possible impacts will be confined to the
+           Project sites and be typical for the construction and operation of small to medium-size infrastructure. Small and
+           medium-scale civil works could have some impacts on people and communities, but these are expected to be
+           limited in scope and time, predictable, and possible to manage during the Project. Social impacts would mostly
+           be positive and will benefit communities who have so far not benefitted fully from affordable and reliable
+           broadband coverage in their community. At the same time, the implementing entities have limited knowledge of
+           World Bank environmental and social standards, and no prior track record of working with international finance
+           institutions.
+
+           E. Implementation
+
+           Institutional and Implementation Arrangements
+
+           22.      The Project will be implemented by Open Net NNLE over a five-year period, with the oversight of the
+           MOESD. Open Net NNLE, chartered by GITA for the purpose of implementing the ON Program, will be the Project
+           implementing entity (PIE) for the Project. It will jointly implement with MOESD and with ComCom for various
+           parts of the Project. The MOESD Deputy Minister (responsible to oversee the ICT sector) will play a strategic role
+           in ensuring the Project activities are implemented in a timely manner as well as supporting the overall
+           achievement of Project outcomes. The MOESD Deputy Minister will also chair the proposed Project Coordination
+           Group (PCG) that will coordinate project implementation across the implementing agencies.
+
+           23.      Ensuring strong collaboration and transparency across implementation agencies is seen as critical for
+           the successful implementation of the Project. These arrangements would be governed by the guidelines and
+           procedures set out in a Project Operational Manual (POM) and applied through a Subsidiary Agreement between
+           the MOF, MOESD, Open Net NNLE, and ComCom. The POM will be developed and adopted by Open Net NNLE
+           with inputs from the other implementing agencies. The POM will reflect the financial management, procurement,
+           ESF management, monitoring and evaluation, and reporting arrangements planned for the Project. It will include
+           details on the implementation and action plans and approaches for Project activities. The Subsidiary Agreement
+           will detail the relationships, roles, and responsibilities of the various agencies participating, implementing, and
+           involved in the Project. Importantly, the POM will specify the exact roles of Open Net NNLE vis-à-vis the activities
+           jointly implemented by ComCom, to avoid any perception of either organization influencing the outcomes of
+           activities of the other.
+
+
+  .
+
+      CONTACT POINT
+
+      World Bank
+
+
+
+Jul 07, 2020                                                                                                         Page 8 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+
+
+   Siddhartha Raja
+   Senior Digital Development Specialist
+
+   Borrower/Client/Recipient
+   Ministry of Finance
+   Nikoloz Gagua
+   Deputy Minister of Finance
+   N.Gagua@mof.ge
+   Implementing Agencies
+   Ministry of Economy and Sustainable Development
+   Eka Kubusidze
+   Head, Communications, Information & Modern Technologies Dept
+   ekubusidze@moesd.gov.ge
+
+
+   Akaki Saghirashvili
+   Deputy Minister
+   asaghirashvili@moesd.gov.ge
+
+   Communications Commission
+   Natia Kukuladze
+   Head of Media Literacy Development Department
+   nkukuladze@comcom.ge
+
+   Open Net NNLE
+   Mariam Sulaberidze
+   Director
+   msulaberidze@opennet.ge
+
+
+   FOR MORE INFORMATION CONTACT
+
+
+   The World Bank
+   1818 H Street, NW
+   Washington, D.C. 20433
+   Telephone: (202) 473-1000
+   Web: http://www.worldbank.org/projects
+
+
+
+
+Jul 07, 2020                                                      Page 9 of 10
+           The World Bank
+           Log-In Georgia (P169698)
+
+
+
+   APPROVAL
+
+
+
+   Task Team Leader(s):                 Siddhartha Raja
+
+   Approved By
+   Environmental and Social Standards
+   Advisor:
+   Practice Manager/Manager:
+
+   Country Director:                    Sebastian-A Molineus   23-Jul-2020
+
+
+
+
+Jul 07, 2020                                                                 Page 10 of 10
+

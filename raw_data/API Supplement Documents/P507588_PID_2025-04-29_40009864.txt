@@ -1,0 +1,494 @@
+﻿    The World Bank
+    Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+
+@#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+                 Project Information Document (PID)
+
+                Appraisal Stage | Date Prepared/Updated: 29-Apr-2025 | Report No: PIDIA01304
+     The World Bank
+     Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                       Operation ID                 Operation Name
+                                                                                         Sierra Leone Water
+                               WESTERN AND CENTRAL
+Sierra Leone, Sierra Leone                                  P507588                      Security and WASH Access
+                               AFRICA
+                                                                                         Improvement Project
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date      Practice Area (Lead)
+Investment Project
+                               08-May-2025                  25-Sep-2025                  Water
+Financing (IPF)
+Borrower(s)                    Implementing Agency
+                               Ministry of Water
+Ministry of Finance
+                               Resources and Sanitation
+
+Proposed Development Objective(s)
+Strengthen sector institutions and capacity, improve operational performance of the water supply service provider
+and promote sanitation in the Western Area of Sierra Leone.
+
+Components
+Institutional Strengthening and Human Capital Development
+Water Resources Management Improvement
+Priority Investments in Urban Water Supply and Sanitation
+Urban Sanitation Service Delivery Improvement
+Project Management
+Contingency Emergency Response Component
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                          60.00
+
+  Total Financing                                                                                               60.00
+
+
+
+                                                                                                                    Page 1
+      The World Bank
+      Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+              of which IBRD/IDA                                                   60.00
+   Financing Gap                                                                   0.00
+
+ DETAILS
+   World Bank Group Financing
+     International Development Association (IDA)                                  60.00
+       IDA Grant                                                                  60.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Substantial
+
+
+ Decision
+
+
+
+
+Other Decision (as needed)
+
+
+
+
+                                                                                    Page 2
+          The World Bank
+          Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+    B. Introduction and Context
+    Country Context
+    1.      Sierra Leone is highly vulnerable to economic and climate shocks, which have disrupted macroeconomic
+    stability and hindered sustained growth. Over the past decade, Sierra Leone faced crises such as Ebola, commodity price
+    collapses, natural disasters, COVID-19, and geopolitical unrest. These events disrupted growth and caused
+    macroeconomic imbalances. With a GDP per capita of US$542, 24.5 percent of the population lives below the
+    international poverty line1. The country aims to achieve middle-income status by 2039, requiring significant reforms in
+    macroeconomic stability, access to services, human capital development, disaster resilience, and governance.
+    2.      Rising economic pressures in Sierra Leone have led to tough policy measures to prevent a crisis. Recent policy
+    failures, combined with external shocks, threaten stability. By October 2023, inflation hit 54.6 percent, averaging 47.3
+    percent for the year. The currency depreciated by 18 percent, following a 40 percent drop in 2022, and the fiscal deficit
+    exceeded its target. Domestic revenue collection is among the lowest globally at 7.4 percent of GDP. In response, the
+    government tightened fiscal and monetary policies, increasing fuel (by 40 percent) and electricity prices (by 100 percent),
+    raising interest rates (775 basis points), and consolidating expenditures (0.9 percent of GDP). Consequently, year-on-year
+    inflation dropped to 20.2 percent. However, employment remains primarily in subsistence agriculture, which is low-
+    productivity and climate-vulnerable.
+    3.      Climate change impacts are severe in Sierra Leone. Over the past 25 years, the country has experienced more
+    than 300 disaster events. The Notre Dame Global Adaption Index ranks Sierra Leone 158 out of 182 countries and
+    territories in terms of vulnerability to climate change.2 It is considered the 11th most climate vulnerable country in the
+    world with increasing exposure to recurrent and more extreme flooding, landslides, drought, and wildfire events,
+    particularly in the Western Area. Urban expansion, hillside deforestation, poor drainage, and settlement in floodplains
+    and coastal areas exacerbate flood impacts. Droughts are becoming more frequent because of shifting rainfall patterns,
+    less predictable rainy seasons, and rising temperatures leading to higher evaporation. The World Bank Climate Change
+    Knowledge Portal highlights that the growing number of climate change-exacerbated droughts and floods affects the
+    country’s water resources and related infrastructure, which in turn hinders growth.
+    4.      Water security3 and reliable access to Water Supply, Sanitation, and Hygiene (WASH) are fundamental to
+    human development and to reducing vulnerability to climate-sensitive public health risks.4 In Sierra Leone’ Human
+    Development Index score of 0.452 falls below the West African average of 0.505, ranking 182nd out of 189 countries
+    (UNDP, 2022). Poor water quality and WASH cause waterborne diseases such as diarrhea and cholera, thus adversely
+    affecting health, cognitive development, and economic growth. Limited WASH access reduces living standards and
+    hampers economic growth. To meet SDG 6, which calls for universal access to safely managed water and sanitation5 by
+    2030, Sierra Leone must expand basic WASH access6 and invest in service efficiency improvement. These improvements
+    will enhance public health, promote human development, drive poverty eradication, and increase the country’s resilience
+
+
+1
+  World Bank, Macro Poverty Outlook, 2024
+2
+  Notre Dame Global Adaptation Index (http://index.gain .org/ranking/vulnerability).
+3 “a society's capacity to have enough water of sufficient quality for survival and to carry out different productive activities. Therefore, a society with water security can
+
+reduce poverty and improve living standards.�?( Definition from the World Bank Water Security Diagnostic Initiative January 2021.)
+4 The Sierra Leone Water Supply and Sanitation Diagnostic – 2024: A Paradox of Scarcity in Abundance (The World Bank 2024)
+5
+  “Safely managed water and sanitation�? means “drinking water from an improved source that is accessible on premises, available when needed a nd free from faecal
+and priority chemical contamination (WHO)�?. “Available when needed�? often translates to continuous or near -continuous supply, which JMP classified as water is
+available on the premises at least 12 hours per day.
+6 Basic WASH access combines access to basic drinking water, basic sanitation and basic hygiene. “At least basic drinking water�? means water from an improved source,
+
+provided collection time is not more than 30 minutes for a roundtrip including queuing. “At least basic sanitation�? means the use of improved facilities which are not
+shared with other Households. “Basic hygiene service�? includes households with a handwashing facility with soap and water available on-premises. Households that
+have a facility but lack water or soap will be classified as having a limited hygiene service, to distinguish from households that have no facility at all.
+
+
+                                                                                                                                                                        Page 3
+            The World Bank
+            Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+    to current and expected climate change impacts, especially floods and droughts. Strengthening WASH interventions is
+    therefore essential for environmental sustainability, economic resilience, and overall well-being in Sierra Leone.
+       Sectoral and Institutional Context
+    5.     Sierra Leone has abundant water resources yet faces an economic water scarcity challenge. The country receives
+    an average of 2,526 millimeters of rain annually. This is the highest in West Africa. The actual withdrawal rate is only 0.1
+    percent of approximately 160 billion cubic meters of annual renewable water. While it is enough to meet basic domestic
+    needs in absolute terms, these resources are not equitably distributed in space and time and are insufficient to cover
+    agricultural, commercial and industrial needs. This reveals a systemic economic water scarcity problem, which is primarily
+    due to limited water infrastructure, inefficient services, and poor water governance, compounded by climate change.
+    6.      Access to WASH remains stubbornly low hindering human development and exacerbating poverty. Sierra
+    Leone's population doubled between 2000 and 2022, but access to WASH only recorded marginal increases. Access to
+    water supply increased in par with population growth but not sanitation and hygiene. While 63 percent of Sierra Leoneans
+    have access to basic water, only 23 percent have access to improved drinking water sources within premises. Only 32
+    percent of people have access to either safely managed or basic sanitation and 12 percent have access to basic hygiene
+    as illustrated by Figure 1. Sierra Leone's open defecation rate is 25 percent. Human feces and untreated wastewater
+    pollute human settlements and ground- and surface water. A 2022 study found that all tested standpipes and wells in
+    Freetown were contaminated with E. coli.7 Earlier studies reported that 30 to 60 percent of water sources surveyed across
+    the country showed bacteriological contamination.8 Joined UNICEF/WHO/World Bank health indicator monitoring
+    reports that child mortality in the country is 45 percent higher than Sub-Saharan Africa’s average and over 26 percent of
+    children under 5 are stunted. These statistics highlight the need for improved water management and development
+    strategies to harness the underutilized resources, increase water security for all purposes and improve access to WASH
+    in Sierra Leone.
+    7.     Binding constraints to WASH service delivery. The WASH Poverty Diagnostic (World Bank, 2024) highlights the
+    binding constraints to WASH sector development and service delivery. In addition to poor water resources management,
+    low operational efficiency, rapid and unplanned urbanization, and the impacts of climate change, other aspects that
+    hinder the sector and restrict the operator’s capacity to achieve sustainability and expand access to WASH include:
+        •    The sanitation sector is the least developed in Sierra Leone: The sanitation value chain is almost inexistent. When
+             people have access to a toilet facility, it is usually not connected to a proper on-site treatment system. There are
+             vacuum truck operators, but inadequate Fecal Sludge Treatment Plant (FSTP) to handle the sludge they collect.
+             Freetown has a few kilometers of sewerage network conveying sewage from the central business district and
+             discharging it untreated into the sea.
+        •    Inadequate sector financing and investment: To meet the SDG 6 targets, Sierra Leone needs to invest about
+             US$557 per capita, about US$84 million per annum to achieve universal basic access, and US$361 million for safely
+             managed access to WASH. The budgetary allocation to the water sector is far from these levels. The FY22 WASH
+             budget was US$19 million, representing 9 percent of the country budget, of which only 27 percent materialized.
+             The sector depends heavily on external funding and operators are not creditworthy, which prevents them
+             accessing private capital.
+        •    Poor sector coordination: WASH interventions in Sierra Leone are hindered by a lack of coordination among
+             stakeholders. There is insufficient collaboration between the government and its development partners, as well
+
+
+
+7   Kamara et al., 2022 (https://pubmed.ncbi.nlm.nih.gov/35682235/)
+8   Massally et al., 2017; Fileccia, Alie, & Juanah, 2018 (doi:10.4236/jwarp.2017.96040)
+
+
+                                                                                                                             Page 4
+       The World Bank
+       Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+       as within government entities. The absence of long-term vision and planning, along with weak implementation
+       and policy enforcement, creates a constant need for quick fixes and an over-dependence on short-term projects.
+   •   Sector inefficiencies and capacity gaps: Key water utilities in the sector could be more efficient. The Guma Valley
+       Water Company (GVWC) reports 60 percent Non-Revenue Water (NRW) and 73 percent collection efficiency. This
+       means that only 29 percent of the water injected into the network generates revenue. The Sierra Leone Water
+       Company (SALWACO) reports 30 percent NRW. Institutional and human resource capacities are limited, with
+       insufficient focus on systems strengthening, human resource development, and institutional development to plan,
+       deliver, and manage WASH services effectively. Monitoring and Evaluation (M&E) systems and WASH data
+       platforms exist, but routine data collection and management need improvement. In addition, WASH emergency
+       preparedness is essential, learning from the Ebola and COVID 19 outbreaks.
+   •   Institutional weaknesses. The sanitation mandate was transferred from the Ministry of Health to the Ministry of
+       Water Resources (MWRS) in July 2023. This transfer needs to be operationalized, and the institutional capacity of
+       the MWRS has to be built. The National Water Resources Management Agency (NWRMA), which started its
+       operations in 2019, also requires extensive capacity building to carry out its mandate effectively. Local councils,
+       which have a sanitation mandate, are inadequately staffed and have insufficient budget to deliver on it.
+8.     Recognizing the need for a comprehensive programmatic approach to support the WASH sector, the
+Government of Sierra Leone (GoSL) prepared a National WASH Sector Development Plan 2025-2035 (NWASHSDP). The
+NWASHSDP builds on previous efforts and aligns with national, regional, and international commitments, such as the
+Medium-Term National Development Plan (MTNDP) 2024-2030, SDG 6 and the African Union's Agenda 2063. It presents
+GoSL’s vision to develop WASH and a roadmap to achieve its goal of universal access to WASH. The vision of the
+NWASHSDP is “a water-secure and sanitation-safe Sierra Leone through efficient and resilient water institutions by 2035�?.
+By aligning sector interventions with the roadmap, GoSL will strengthen its WASH sector and generalize access to WASH.
+
+9.     The Ministry of Water Resources and Sanitation (MWRS) has the overall governance mandate for WASH. This
+entails sector policy and governance, sector oversight, monitoring, evaluation, and collaboration with water supply
+service providers, local governments responsible for sanitation, regulators, and parallel Ministries to promote WASH
+sector's development and improvement.
+
+
+C. Proposed Development Objective(s)
+Development Objective(s) (From PAD)
+10.     The overall Program Development Objective (PrDO) is to improve water security and increase access to
+WAter, Sanitation and Hygiene (WASH) services in selected areas in Sierra Leone. For the purpose of this program,
+water security is defined as “securing sufficient water resources to meet WASH needs and improving the institutional
+and people’s capacity to manage and protect the resource sustainably in a changing climate�?.
+11.     The proposed Project Development Objective (PDO) for MPA Phase 1 is to strengthen sector institutions and
+capacity, improve operational performance of the water supply service provider and promote sanitation in the
+Western Area of Sierra Leone.
+ Key Results
+12.    About 5 million people are expected to benefit from climate resilient planning, preparation, surveillance, and/or
+response, for which 2.5 million female and 1.5 million youth. About 800,000 people are expected to be provided with
+water, sanitation and/or hygiene in the Western Area as a result of the Project and about 200,000 people are expected
+to be provided with limited sanitation in public facilities.
+
+                                                                                                                      Page 5
+      The World Bank
+      Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+13.    The Project will extend treatment capacity so that about 50,000 cubic meters of fecal sludge a year will be treated
+at a Fecal Sludge Treatment Plant.
+14.    About 1,000 people will benefit from strengthened capacity under the Project, of which about 200 female.
+15.    The National Water Resources Master Plan will be adopted and under implementation by the end of the Project
+ D. Project Description
+16.     The Project is designed to increase access to water supply and sanitation services, improve the operational
+performance of water service providers, and enhance water resources management in Sierra Leone. Its components are
+mutually reinforcing, creating a platform for both immediate service improvements and long�?term capacity building that
+will drive water security. The proposed Project is structured around six components
+
+Component 1: Institutional Strengthening and Capacity Building (US$ 10 million).
+17.    This component will focus on strengthening the WASH sector Policy, Institutions, Regulation, and the MWRS’ role
+of coordinating sector stakeholders and their interventions. It will also support the MWRS in operationalizing the
+sanitation mandate; establish a Donor coordination group involving all sector stakeholders to ensure coordinated
+approaches and alignment with the Government’s priorities; institutional and staff capacity building of sector agencies;
+strengthen national water quality monitoring and surveillance; assess PPP options to leverage private sector value
+addition to improve the quality-of-service delivery and to extend access to WASH services in Sierra Leone; and will
+construct a WASH Administrative Center to host the MWRS, NWRMA and SLEWRC.
+
+Component 2: Water Resources Management Improvement (US$ 7 million).
+18.     This component will support activities to improve water resources planning and mobilization and to protect the
+Western Area Peninsula National Park—the only water resource for the Western Area of Sierra Leone. It will develop a
+national Water Resources Master Plan, building on updated reporting of water resources, both in quantity and quality. It
+will also raise awareness of the greenbelt boundaries, building protective barriers to protect the catchment of selected
+water supply weirs which are under increasing encroachment pressure; and map out areas requiring measures to restore
+the forest cover of the greenbelt in places where it has been degraded.
+
+Component 3: Priority Investments in Urban Water Supply (US$ 30 million).
+19.      This component will strengthen the Guma Valley Water Company’s (GVWC) operational efficiency, improve water
+supply service delivery and reduce water losses in the GVWC service area. Activities under this component will include
+updating GVWC’s commercial processes, improving customer engagement, and expanding metering programs to reduce
+commercial losses and boost revenue. It will also carry out a comprehensive inspection of the Guma Dam. It will improve
+service delivery through the construction or rehabilitation of selected critical infrastructure to increase the reliability of
+water service delivery, and through leak detection and the preparation of performance-based PPPs for NRW reduction.
+It will also finance studies for priority investments which may be funded in the next phases of the multiphase approach.
+
+Component 4: Urban Sanitation Service Delivery Improvement (US$10 million).
+20.    This component will develop improved toilets facilities with handwashing in selected schools, hospitals/health
+centers, and possibly major marketplaces and bus stations in the Freetown City Council (FCC) and in the Western Area
+Rural Development Council (WARDC) area. It will upgrade the existing Fecal Sludge Treatment Plant (FSTP) in the Kingtom
+area of Freetown and build additional FSTPs in FCC and in WARDC to increase the sludge treatment capacity in the
+Western Area. It will also develop a City-Wide Inclusive Sanitation plan to structure the sludge management value chain
+
+
+                                                                                                                         Page 6
+      The World Bank
+      Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+in the Western Area ; and prepare a national behavior change campaign called “Clean Salone�? to make Sierra Leone
+Open-Defecation Free.
+
+Component 5: Project Management (US$ 3 million).
+21.   This component will finance costs related to Project implementation, monitoring and reporting and consultants
+and/or technical assistance support to the MWRS and implementing agencies. It may also finance the cost of
+implementation of the Environmental and Social (E&S) framework (ESF), including costs related to resettlement.
+
+Component 6: Contingency Emergency Response Component (US$ 0 million).
+22.    Following an eligible crisis or emergency, this component would draw from uncommitted grant resources and
+allow reallocating Project funds to support emergency response and reconstruction consistent with the PDO.
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                              Triggered?
+ Projects on International Waterways OP 7.50                                             Yes
+ Projects in Disputed Area OP 7.60                                                       No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+
+23.     The Project’s E&S risk rating is substantial, based on the information available at this stage. Potential risks emanate
+from project activities in water infrastructure, pollution, and disease transmission from sewage handling, and weak
+institutional capacity to manage these risks. MWRS and partners will establish E&S risk management per the ESF.
+24.     The Project aims to strengthen institutions, develop human capital, improve urban water and sanitation, and
+eradicate open defecation. It will not finance dam construction but faces risks from sewage handling, civil works,
+biodiversity impact, and conflicts over barriers in water catchment areas. Construction may cause noise, air, and water
+pollution, and health and safety risks. Institutions involved have some E&S risk management experience from previous
+projects but require ESF training. EPASL has a rigorous risk assessment process. Stakeholder consultation and grievance
+redress mechanisms are prioritized. Risks include social exclusion, involuntary resettlement, and ensuring clean water
+access in poor and remote areas. Fecal Sludge Treatment Facility construction may require additional land acquisition,
+and disadvantaged groups must be included in consultations. Civil works could induce labor influx and GBV risks. The
+Project may cause temporary and permanent land acquisition and displacement. MWRS’s weak E&S capacity necessitates
+strategic capacity building and technical assistance for design and feasibility studies, ensuring access for the vulnerable.
+25.     The risk of Sexual Exploitation, Abuse, and Sexual Harassment (SEA/SH) is substantial, with 62% of women in Sierra
+Leone experiencing violence. The Project will support women’s health, hygiene, and sanitation, contributing to gender
+equality. An SEA/SH assessment and action plan will be prepared, including recruiting a service provider and GBV/SEA/SH
+staff. The Project will leverage existing SEA/SH risk action plans and ensure a responsive Grievance Redress Mechanism
+(GRM), worker training, and an Accountability and Response Framework.
+26.      Stakeholder engagement will focus on inclusive participation and information disclosure using appropriate
+language and media. Key stakeholders include MWRS, NWRMA, GVWC, SALWACO, Freetown City Council, and city
+councils of selected secondary cities. Beneficiaries include communities with access to clean water, schools, health
+facilities, students, water service providers, maintenance workers, FSTP users, CSO/NGOs, and those adversely affected
+by the project. An inclusive Stakeholder Engagement Plan (SEP) will be prepared and implemented, proportional to the
+
+
+                                                                                                                          Page 7
+       The World Bank
+       Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+project's nature, scale, risks, and impacts. The SEP will be disclosed before project appraisal, ensuring consultations are
+timely, relevant, understandable, and accessible. A documented record of stakeholder engagement will be maintained
+and publicly disclosed. A project-wide GRM will address concerns, including a confidential channel for GBV issues.
+27.    Local actors and liaison officers may be designated to coordinate the SEP implementation. When there is adequate
+information about the Project locations, scope of investment and the corresponding risks, the Project E&S risks will be
+reassessed based on the scope of Project activities and determine if it needs to upgrade the E&S risk rating at appraisal
+stage and additional E&S instruments as needed.
+
+
+ E. Implementation
+ Institutional and Implementation Arrangements
+28.     The implementing agencies involved include MWRS, NWRMA, GVWC, SALWACO, FCC and WARDC.
+29.      The MWRS will have overall responsibility for Project implementation and coordination among other
+implementing agencies. It will create a WASH Project Implementation Team (WASHIT), which will oversee Project
+implementation and coordination. Each IA will designate a focal point for the Project. The MWRS, through the WASHIT,
+will directly implement components 1 and 4.3. It will ensure that capacity building activities benefit all IAs, as well as
+SALWACO and SLEWRC. NWRMA will be the IA for component 2, GVWC for component 3, FCC for component 4.1 and
+WARDC for component 4.2. The WASHIT will monitor and ensure that implementation is in accordance with Bank
+requirements on procurement, accounting and financial management, environmental and social aspects, and monitoring
+and reporting. The WASHIT will be composed of competitively selected personnel including a WASHIT Coordinator,
+specialists in Procurement, Financial Management (FM), Environment, Social, Gender, Planning and M&E, Communication
+and Institutional Development. MWRS will competitively recruit consultants (firm or individual) to join the WASHIT in the
+first two years with the double role of supporting Project implementation and of building the Project management
+capability (staff and systems) of the MWRS, the WASHIT and other IAs.
+30.     With respect to procurement, for their respective components, each IA will prepare bidding documents, then send
+these to the WASHIT for review, input information into the Systematic Tracking of Exchanges in Procurement (STEP) and
+submit to the World Bank for review if subject to prior review. Upon review and eventual receipt of the Bank’s no
+objection, the WASHIT will publish the bidding documents. Received bids will be evaluated by a bid evaluation committee
+chaired by the WASHIT with representatives from the respective IA. Bid evaluation reports and recommendation of
+contract award will be co-signed by the heads of the relevant IA and of the WASHIT. Contracts will be co-signed by the
+MWRS and the WASHIT Project coordinator. Upon contract signature, the concerned IA will manage the contract and
+monitor its implementation. The WASHIT will inform the STEP for all Project activities and will be the entry point for Bank
+communication on procurement.
+31.      With respect to financial management, the MWRS will open a Designated Account in United States dollars (US$)
+dedicated to the Project, which the WASHIT will be entrusted to manage. Each IA will open an account in US$ and an
+account in Sierra Leonean Leones (SLL) dedicated to the Project. Funds corresponding the management of signed contracts
+will be transferred from the Designated Account to the Project account of the concerned IA. The exchange from US$ to
+SLL will be made at the time of payment of invoices in SLL, to minimize the exchange rate risk. Each IA will prepare IUFRs
+per the agreed frequency and will send them to the WASHIT for consolidation prior to submission to the Bank. One auditor
+will be hired for the Project and will be responsible to audit all Project related accounts (Designated and Project accounts)
+and will prepare annually a single audit report.
+32.    A Project Implementation Manual (PIM) will be developed before effectiveness to clarify the roles and
+responsibility sharing, as well as the flow of documents and funds across all institutions for the various steps of Project
+implementation.
+
+                                                                                                                         Page 8
+       The World Bank
+       Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+33.      A PSC will be established, chaired by the MWRS and composed of high-level representatives of WASH related
+ministries and all institutions involved in Project implementation. Considering the cross-cutting nature of WASH
+interventions, the PSC will gather Ministries of Finance, Environment and Climate Change, Lands and Country Planning,
+Local Government and Community Development, Western Region, Health, Basic and Senior Secondary Education, Gender
+and Children’s Affairs, Planning and Economic Development, and FCC, WARDC, GVWC, SALWACO, NWRMA, and SLEWRC.
+The PCS will meet at least every semester to review progress, provide strategic direction, and make high-level decisions
+that impact Project success. It will also foster partnerships for WASH service improvement in Sierra Leone, including the
+roll-out of public toilet facilities, the preparation of the national campaign to make Sierra Leone ODF, and to create and
+enhance synergy on supporting the community awareness campaigns which the Project will finance.
+34.     The Project will seek to leverage community and Citizen Engagement (CE) to monitor, contribute to operate, and
+maintain their WASH facilities and to raise awareness of the benefits of sustaining quality service delivery, create coalitions
+for improved WASH practices and encourage behavior change to make communities ODF. The Project may hire facilitating
+partners to support communities in organizing themselves to carry out these tasks. The facilitating partners may use the
+Bank-supported Wan Fambul Framework (WFF) to guide their work. The WFF has supported the GoSL to promote
+decentralization efforts that enhance rural service delivery through a community-led development approach that
+emphasizes women’s empowerment and reconciliation/social cohesion. GoSL’s MTNDP 2024-2030 aims to roll out the
+WFF in 40 percent of Chiefdoms by 2030.
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Xavier Chauvot De Beauchene
+   Lead Water Specialist
+
+   Judith Ibiada Warmate
+   Senior Water Supply and Sanitation Specialist
+
+ Borrower/Client/Recipient
+  Ministry of Finance
+  Sheku Bangura
+  Minister
+  safbangura@mof.gov.sl
+
+ Implementing Agencies
+
+
+
+
+                                                                                                                          Page 9
+     The World Bank
+     Sierra Leone Water Security and WASH Access Improvement Project (P507588)
+
+
+ Ministry of Water Resources and Sanitation
+ Sao-Kpato Hannah Isatta Macarthy
+ Minister
+ hannahmacarthy@yahoo.fr
+ Maada Kpenge
+ Managing Director
+ mkpenge@gumavalley.sl
+ Mohamed Bah
+ Programme Officer Monitoring and Evaluation
+ smalljueah@gmail.com
+ Musa Shiaka
+ Performance Tracking Manager & NGO Desk Coordinator
+ musashiaka@yahoo.com
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Xavier Chauvot De Beauchene, Judith Ibiada Warmate
+
+Approved By
+
+Practice Manager/Manager:
+
+Country Director:                     Abdu Muwonge                          29-Apr-2025
+
+
+
+
+                                                                                           Page 10
+

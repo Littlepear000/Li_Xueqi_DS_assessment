@@ -1,0 +1,82 @@
+name: "r3 - replication (confirmed / likely, with source project) and scaling (same country + sector), database only"
+description: >
+  Portfolio-level workflow that reads only the review database (no document access). Every validated approach
+  carries its evidence passages, the explicit project references found when it was extracted, and its project's
+  country, sector and approval date. (1) Rules scan the passages for replication language, P-codes and project
+  names. (2) Approaches are matched semantically to EARLIER approaches of other projects. (3) One model call per
+  approach judges, from the passages and the candidate list, whether the approach replicates an earlier project
+  (CONFIRMED when the text says so and the source project is identifiable; LIKELY when the text only refers to
+  earlier experience and a closely matching earlier approach exists in another country) and which candidates are
+  the same approach. (4) SCALING is recorded when a verified same approach exists in an earlier project of the
+  same country and the same sector. Each approach ends with two columns: replication (level + source project)
+  and scaling (source project).
+
+scope:
+  exclude_status: [rejected, referenced_only, mentioned_only]
+  exclude_adoption: [mentioned, prospect, discuss]
+  max_passages: 4                 # evidence sentence + up to 3 extra passages per approach shown to the model
+
+cues:
+  # Note 3 Appendix: starting cue lists (English + FR / ES / PT); extend after review
+  replication:
+    - 'replicat\w*'
+    - 'based on (?:the |a )?(?:experience|success|model|lessons|approach|results|achievements|design)'
+    - 'modell?ed (?:on|after)'
+    - 'build(?:s|ing)? (?:up)?on (?:the |a )?(?:experience|success|lessons|achievements|results|model|approach|work)'
+    - 'draw(?:s|ing)? on (?:the )?(?:lessons|experience)'
+    - 'adapted from'
+    - 'inspired by'
+    - 'similar to (?:the )?(?:approach|model|system|project)'
+    - 'lessons (?:learned |learnt )?from'
+    - 'following the example of'
+    - 'successful experience'
+    - 'piloted (?:in|under|by)'
+    - 'proven (?:model|approach)'
+    - 'r[ée]pliqu\w+'
+    - 's''inspir\w+'
+    - 'basad[oa] en la experiencia'
+    - 'com base na experi[êe]ncia'
+  scaling:
+    - 'scal(?:e|es|ed|ing)[- ]?up'
+    - 'nation-?wide'
+    - 'national(?:ly)? roll-?out'
+    - 'roll(?:ed|ing)?[- ]out (?:to|across|nationally)'
+    - 'expand(?:ed|ing|s)? (?:its |the )?coverage'
+    - '(?:second|third|next) phase'
+    - 'follow-?on (?:project|operation)'
+  min_project_name_words: 3       # project names shorter than this are not searched for in the passages
+
+match:
+  # candidates = semantic matches to EARLIER approaches + the similar_approach links stored by the approach workflow
+  backend: auto                   # sentence-transformers when installed, else TF-IDF
+  embedding_model: all-MiniLM-L6-v2
+  text: [name, description, evidence]
+  threshold: {embedding: 0.40, tfidf: 0.08}   # r3.2: lowered - TF-IDF on short texts rarely exceeds 0.15 even for the same approach
+  top_k: 8                        # earlier candidates kept per approach (bounds the prompt size)
+  always_same_sector_country: 3   # r3.2: additionally keep the 3 best earlier approaches of the same country + sector even below the threshold
+  reference_bonus: {same_sector: 0.03, same_category: 0.03}
+
+judge:
+  enabled: true                   # needs an API key; without it the rule fallback below is used
+  parallel: 6
+  min_confidence: 0.5             # LIKELY replication: the earlier approach is the same or closely similar at this confidence
+  min_confidence_scaling: 0.45    # scaling: "same or closely similar" approach from this confidence (r3.2: loosened)
+  cache: true                     # verdicts cached in <output>/patterns/_judge_cache.json (keyed by prompt + inputs)
+
+classify:
+  likely_requires_match: true     # LIKELY needs a same / similar candidate in an earlier project of another country
+  explicit_ref_upgrade: true      # r3.2: model says none, but an explicit reference (score 0.9) to an earlier project exists and that project has a similar approach -> confirmed
+  scaling_requires: [same_country, same_sector]   # loosened definition: a similar approach in an earlier project of the same country and sector
+  rule_min_score: {embedding: 0.55, tfidf: 0.30}  # without a model verdict, a candidate above this similarity counts (0.30 = the approach workflow's "replicated" link threshold)
+  write_back: true                # write the two columns into the database (approaches.replication_label / scaling_label)
+
+steps: [corpus, cues, match, judge, classify, summarize, write]
+
+steps_meta:
+  corpus:    {kind: python, label: "Build corpus", summary: "Validated approaches with evidence passages, explicit references, country, sector, FY (database only)", inputs: [review database], outputs: [approach corpus]}
+  cues:      {kind: python, label: "Find cues", summary: "Replication / scaling language, P-codes and project names in the evidence passages", inputs: [approach corpus], outputs: [cues per approach]}
+  match:     {kind: python, label: "Match earlier approaches", summary: "Semantic similarity to approaches of earlier projects; top 5 candidates", inputs: [approach corpus], outputs: [candidate pairs]}
+  judge:     {kind: llm, label: "Judge replication & sameness", summary: "One call per approach: replication level + source project; which candidates are the same approach", prompts: [00_system, 01_judge], inputs: [cues, candidate pairs], outputs: [judgements]}
+  classify:  {kind: python, label: "Two columns", summary: "replication = confirmed / likely (+ source project); scaling = same approach earlier in the same country and sector", inputs: [judgements], outputs: [approach table, events, groups]}
+  summarize: {kind: python, label: "Story tables", summary: "By sector, region, country and fiscal year; confirmed vs likely", inputs: [approach table], outputs: [by_sector, by_fy, by_country]}
+  write:     {kind: python, label: "Write results", summary: "result.json + CSVs; the two columns written back to the database", inputs: [all], outputs: [result.json]}

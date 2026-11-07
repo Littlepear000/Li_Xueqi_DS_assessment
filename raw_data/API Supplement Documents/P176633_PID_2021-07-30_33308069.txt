@@ -1,0 +1,853 @@
+﻿         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+
+
+                          Project Information Document (PID)
+
+                          Concept Stage | Date Prepared/Updated: 18-Jun-2021 | Report No: PIDC32028
+
+
+
+
+Jun 17, 2021                                                                                          Page 1 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                 Parent Project ID (if any)   Project Name
+  Mali                                           P176633                                                 Mali Electricity System
+                                                                                                         Reinforcement and
+                                                                                                         Access Expansion
+                                                                                                         Project (P176633)
+  Region                                         Estimated Appraisal Date   Estimated Board Date         Practice Area (Lead)
+  AFRICA WEST                                    Jan 28, 2022               Mar 30, 2022                 Energy & Extractives
+
+  Financing Instrument                           Borrower(s)                Implementing Agency
+  Investment Project Financing                   Republic of Mali           EDM, AMADER
+
+
+
+   Proposed Development Objective(s)
+
+    The Project Development Objective (PDO) to increase access to electricity in selected areas of Mali and the integration
+    of least-cost solar energy by leveraging private sector participation.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                    200.00
+
+    Total Financing                                                                                                       200.00
+                             of which IBRD/IDA                                                                            157.00
+
+    Financing Gap                                                                                                            0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Development Association (IDA)                                                                        157.00
+
+          IDA Credit                                                                                                        78.50
+          IDA Grant                                                                                                         78.50
+
+    Non-World Bank Group Financing
+       Other Sources                                                                                                        43.00
+
+
+Jun 17, 2021                                                                                                            Page 2 of 19
+          The World Bank
+          Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+
+           Development Grant Facility                                                                                            43.00
+
+
+
+
+     Environmental and Social Risk Classification                        Concept Review Decision
+     Substantial                                                         Track II-The review did authorize the preparation to
+                                                                         continue
+
+
+
+     Other Decision (as needed)
+
+
+     B. Introduction and Context
+
+     Country Context
+
+ 1.       Mali is a large, landlocked, and fragile country with a rapidly growing population of about 19 million and a per
+ capita GDP of US$879. Although Mali is a large country with its 1,241,238 sq. km, 60 percent of the land area is desert
+ and economic activity is confined to the riverine area irrigated by the Niger River, pushing population growth mainly into
+ urban or already populated areas. Mali has a low Human Development Index (0.434), ranking 184th among 189 nations,
+ and lacking critical services in health and education. More than 40 percent of the Malian population live under the national
+ poverty line, 90 percent of them in rural areas in the South of the country. There is a large disparity between wealth levels
+ in rural and urban areas and more importantly there are significant gender gaps. Mali ranks 158th out of 162 on the
+ Gender Inequality Index (UNDP 2018).1 Mali’s population is young and has been increasing by 3 percent on average per
+ year and a median age of around 16 years. The population is projected to double by 2045, increasing the demand for social
+ and infrastructure services and natural resources.
+
+ 2.      The economy grew over the past years, but remains highly vulnerable to security and natural crises,
+ and is now recovering from the COVID-19 crisis. The structure of the economy remains undiversified with
+ significant dependance on agriculture as the main source of jobs (this sector alone represents around two third
+ of employment). Most exports are gold and cotton (accounting for 70 and 15 percent of total exports
+ respectively), making the economy highly vulnerable to changes in commodity prices and rainfall patterns. The
+ country’s economic performance has been relatively strong, with GDP growth averaging 5.7 percent since 2014.
+ But economic activity slowed down in 2019. The real GDP growth contracted by 2 percent (-4.9 percent for GDP
+ per capita) as a result of the impact of COVID-19 pandemic, which pushed the economy into recession resulting
+ in high fiscal pressures. Growth is expected to slow down to below one percent per annum in the next few years
+ and gradually recover over the medium term, with recovery of economic activities especially in the service
+ sector and continued structural reform already underway. The economic slowdown was particularly acute in
+ the tourism, retail and construction sectors. In addition, the country also suffered from the drop in international
+ remittance, general inflation, and drop in labor income, leading to an estimated increase of at least 1.5
+
+ 1The Gender Inequality Index measures three important aspects of human development—reproductive health, empowerment, and economic
+ status.
+
+Jun 17, 2021                                                                                                                 Page 3 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ percentage point in the poverty rate. According to the International Monetary Fund (IMF), economic activity,
+ spillovers from global trade shocks, along with fiscal measures to combat the crisis, have created urgent
+ financing needs which, that if left unaddressed, could represent a threat for development and social spending
+ and represent an additional challenge to an already preoccupying social and security situation in the country.
+
+ 3.      Mali has been experiencing instability and conflict since the violence of 2012, exacerbated by the
+ recent military coups of August 2020 and May 2021. Since the 2012 coup d’état, the country has been
+ experiencing recurrent instability, conflict, and violence with the occupation of its northern regions by armed
+ groups. Despite the 2015 Algiers Peace Accord (“Accord pour la Paix et la Reconciliation au Mali�?) which includes
+ a wide range of provisions, such as security sector reform, disarmament, demobilization and reintegration
+ (DDR), as well as governance reform, deepening of decentralization, and socio-economic development of
+ northern regions, the northern regions are still experiencing recurrent episodes of violence by extremist groups.
+ More recently, regions in the center and in the south of Mali are increasingly experiencing conflict and violence.
+ Since 2017, the situation has deteriorated in Mopti and Segou regions and recently conflict and violence are
+ also gradually moving to the Koulikoro, Kayes and Sikasso regions. In many regions, the Government of Mali is
+ limited in its ability to provide basic services to the population. Political tensions and insecurity have also led to
+ a surge of internally displaced people, generating new demand for services that the country is not able to meet.
+ This situation has been exacerbated by the recent military coups of August 2020 and May 2021, fragilizing
+ further the country.
+
+ 4.       Electricity access, and the quality of electricity services, are among the top priorities in the country’s
+ efforts to support economic recovery post COVID-19, as energy is an important input for job creation,
+ economic diversification, improving human capital outcomes, reducing fragility, and improving the delivery
+ of services in rural areas. To recover from the multiple crises it faces, Mali is elaborating its Strategic Framework
+ for Economic Recovery and Sustainable Development (Cadre Stratégique pour la Relance Economique et le
+ Développement Durable, CREDD) (2019-2023), and the transitional government has expressed willingness to
+ implement that strategy. It is articulated around five pillars (i) governance, (ii) peace, security, and the
+ strengthening of peaceful coexistence, (iii) inclusive growth and the structural transformation of the economy,
+ (iv) environmental protection and to strengthening of resilience in the face of climate change, and (v) the
+ development of human capital. It will pave the way to the economic development in the medium term.
+ Increased access to reliable and affordable electricity services is a top priority for the GoM to power socio-
+ economic development activities. The ability to increase electricity access to rural and remote areas will be an
+ important driver for job creation and economic diversification. It would enable the country to improve
+ agriculture production through enabling irrigation and refrigeration, achieve better human capital outcomes
+ through improved health and education services in electrified health clinics and schools, and improve
+ participation in digital economy. The new energy development strategy prioritizes electricity access for
+ economic transformation especially in rural areas. The GoM’s objective, as outlined in the new electrification
+ strategy currently being updated with IDA’s support, is to expand sustainable access for rural transformation,
+ prioritizing potential economic nodes with agro-processing and mining activities.
+
+ 5.     At the regional level, energy poverty has been identified as one of key drivers of fragility in the Sahel,
+ including in Mali. The provision of energy services is a key part of Mali’s strategy to improve living conditions of
+
+
+Jun 17, 2021                                                                                                  Page 4 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ the population and of the strategy for the mitigation of conflict and violence risks (2020-2023) that the
+ Government recently adopted. Increasing access to electricity in the conflict areas, in the northern and central
+ regions, will increase resilience and serve as prevention measure. In accordance with strategy, the electrification
+ of high-risk areas can contribute to address conflict spreading by preventing conflict spillover effects and
+ increasing trust between the state and citizens, which is a dynamic that is prevalent across the Sahel. Addressing
+ energy poverty will also benefit women and girls as they often have to spend more time fulfilling household
+ chores manually including for example fetching firewood and water, and as a result, have less time for income-
+ generating and educational activities. In Mali, the lack of affordable electricity services also leads to higher
+ reliance on polluting and inefficient solid fuels for various tasks, including cooking or heating, which can
+ negatively affect their health. This is particularly important in the context of Mali as it is estimated that 38.5
+ percent of women nationwide have experienced physical and/or sexual intimate partner violence at some point
+ in their lives.2 The conflicts and insecurity in some areas of the country and the absence of social safety nets
+ have further exacerbated gender issues.
+
+ 6.      The energy sector in Mali continues to face a structural financial deficit and is heavily dependent on
+ government subsidies. The electricity utility, EDM-SA, has been overdrawing the national budget, in the range
+ of US$ 100-150 million per annum in the last few years, constraining government efforts for socio-economic
+ development. GoM with support of the Bank’s series of national and regional development policy financing
+ (DPF) operations, has been and is committed to keep to the implementation of energy sector reforms to improve
+ financial sustainability of the sector, and gradually eliminate subsidies within 5 years, in addition to expanding
+ access to modern energy services.
+
+ 7.       Mali has very low carbon emissions (0.10 percent of world emissions), but it is highly vulnerable to climate
+         3
+ change , which will impact its agriculture sector and pose a direct threat for food security and household income,
+ particularly for rural households. The country’s undiversified economy and high dependance on rain-fed agriculture, in a
+ region where droughts, floods and locust infestations occur regularly, makes household incomes and overall GDP growth
+ prone to shocks. Mali is already experiencing high natural risks, including flooding (river and urban), water scarcity,
+ extreme heat and wildfire4, which are expected to increase further due to climate change. Increased pressure on water
+ and food resources will exacerbate poverty and conflicts between communities. While already one of the hottest countries
+ in the word, Mali will also suffer from increased temperature (the annual mean temperature is expected to rise by about
+ 2°C by mid-century).5 Moreover, Mali ranks 174th (out of 181) in the vulnerability index on climate change.6 The lack of
+ adequate infrastructure and social safety nets limit the ability of the country and its population to adapt and respond to
+ climate change impacts. In this context, the country is determined to act on climate change and presented its priorities in
+ its Nationally Determined Contribution (NDC). By 2030, Mali ambitions to reduce its emissions compared to a Business-
+ as-Usual scenario by 29 percent for agriculture, 31 percent for energy (including through developing its solar resources)
+ and 21 percent for forests and land use change and to take ambitious measures for adaptation, particularly for sustainable
+ land management and to combat desertification; but it will require substantial financing to reach its climate objectives. In
+ the energy sector, in addition to the heavy reliance of the power sector on fossil fuel, for cooking and heating households
+
+
+ 2 Mali Demographic and Health Survey (DHS) 2018.
+ 3 Further details are presented in Annex 3.
+ 4 https://thinkhazard.org/en/report/155-mali
+
+ 5 https://climateknowledgeportal.worldbank.org/country/mali/climate-data-projections
+
+ 6 The ND-GAIN Index summarizes a country's vulnerability to climate change and other global challenges in combination with its readiness to
+
+ improve resilience. http://index.gain.org/
+
+Jun 17, 2021                                                                                                                            Page 5 of 19
+          The World Bank
+          Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ are still heavily dependent on biomass, primarily firewood, which has negative health and environmental impacts, such as
+ desertification and deforestation.
+
+     Sectoral and Institutional Context
+
+ The Mali Power System
+
+                  The electricity sector in Mali faces several challenges, including low electricity access rate, aging and saturated grid, high cost of
+               generation, poor performance of the utility, and structural financial deficit of the sector, which represent a fiscal burden to the national
+                                              budget, and hamper Mali’s social, economic, and industrial development.
+
+                                                      Table 1. Key electricity sector indicators (2019)
+
+                             Key metrics                                                     Value
+                       Electricity access rate                                          49%
+                     Installed capacity (2019)          772 MW (including 670.2 MW for the interconnected grid and 101.77
+                                                        MW for isolated grids): hydro 18.7 MW, oil/diesel 488.3 MW, imports
+                                                                                      100 MW.
+                          Generation mix                 hydro (31.6%), HFO/Diesel (41.8%), imports (26.6%), solar (0.05%)7
+                       Current cost of supply                    US$0.27/kWh per unit of electricity billed in 2020
+                           Average tariff               US$0.18/kWh for LV customers and US$0.16/kWh for MV customers
+                                                                     (weighted average tariff of US$0.17/kWh).
+                       Average system losses                    22.8% (17% T&D losses and 5.8% commercial losses)
+                      Electricity bill collection
+                                                                                              93%
+                                 rate
+                         DSCR (EBITDA/debt            Since 2018 EBITDA has been negative, implying a negative DSCR (even in
+                               service)                 2016 and 2017, DSCR was considerably below 1, albeit not negative).
+                       Debt ratio (total debt
+                                                        EDM has negative equity from 2018 with Debt ratio of around 1.25 in
+                          including debt to
+                                                                                      2020.
+                      suppliers / total assets)
+                          Arrears related to
+                      electricity consumption                                 US$13 million (February 2021)
+                       from the public sector
+
+
+                                               Figure 1. Electricity generation mix in Mali in 2019
+
+
+
+
+ 7The presented figures include statistics from the interconnected grid and isolated grids in regional cities, as described in the 2019 annual report of
+ EDM-SA.
+
+Jun 17, 2021                                                                                                                                     Page 6 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+
+
+ 8.       Mali's power system has a total installed capacity of 772 MW (as of 2019), including 150 MW of rental capacity,
+ generating about 2,413 GWh per year, to be expanded by about 1,000 MW additional capacity by 2025 with additional
+ imports and ongoing renewable energy generation projects to meet the increasing demand. The power system in Mali
+ is characterized by an interconnected grid serving 35 urban centers and localities including the capital Bamako (Error!
+ Reference source not found.), 33 isolated distribution networks in rural areas, and two localities connected to the Ivorian
+ distribution network. The key sector indicators are presented in Error! Reference source not found.. The annual energy
+ generated in 2019 was about 2,413 GWh and the peak demand on the interconnected network was 395.9 MW. The total
+ installed capacity of the interconnected network is 670.2 MW (including imports from Côte d’Ivoire), but it is not fully
+ exploited due to the poor state of the generation and transmission infrastructure. The isolated grids in regional centers
+ are powered by small and costly diesel generators of about 101.77 MW (2019) of total installed capacity operated by the
+ national electricity utility, Electricité du Mali (EDM). The Malian rural electrification agency (AMADER) also manages about
+ 250 privately operated mini-grids in remote areas, out of which about 50 are hybridized with solar PV.
+
+ 9.      GoM is committed to shift the mix towards least-cost imports (despite recent unfortunate incidents that led to
+ reduction of imports from Cote d’Ivoire8 during the summer of 2021), and domestic renewable energies, to meet its
+ increasing demand. About 42 percent of energy is generated from thermal power plants. Mali also relies on imports,
+ mainly from Côte d’Ivoire to meet its demand (imports amounted to 27 percent of energy supplied in 2019). The projected
+ peak demand for the interconnected network, including demand created by the project, is estimated at around 495 MW
+ by 2025 and 722 MW by 2035. The annual energy demand is projected to be 4 942 ,6 MWh GWh and 5,482 GWh by 2025
+ and 2035 respectively. The ongoing and planned capacity would be sufficient to meet the projected demand9, including
+
+
+ 8 A series of generation supply incidents in the Ivoirian power sector have led to a temporally non-delivery of the contracted amount of imports to
+ Mali. Instead of 100 MW, the delivered capacity is currently constrained to less than 50 MW. This represented a major shortage for Mali, which led
+ to a further increased reliance on thermal generation and forced load shedding, and the situation is likely to remain until August 2021 when full
+ capacity of hydropower will be restored.
+ 9 Plans to expand generation mix include the commissioning of ongoing hydropower plants Gouina HPP (with 60 MW of the 140 MW allocated to
+
+ Mali), Kenie HPP (56 MW), IsDB financed 100 MW HFO in Bamako to be commissioned in April 2022, the additional imports from Cote d’Ivoire
+ (from 100 MW to 200 MW) and Guinea (150 MW) by 2023 when the ongoing interconnections9 are completed; and the planned IPP Solar PV
+ projects totaling about 6309 MW by 2025, including the IDA/IFC supported Segou Solaire 33 MWp project (P148355) and the 60 MW with battery
+ storage to be supported by the proposed operation.
+
+Jun 17, 2021                                                                                                                            Page 7 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ the demand created by the proposed access expansion project. The country aims to eliminate its rental power plant by
+ 2023 when the ongoing projects will be commissioned.
+
+ 10.     Least-cost solar energy procured on a competitive basis is expected to increase security of supply and
+ bring down the high production costs. Mali is endowed with high solar radiation (average solar radiation in Mali
+ is well distributed and estimated at 5-7 kWh/m2/day and a daily sun lighting duration of 7-10 hours). The
+ continuous decline in prices of solar electricity generation10 capital expenditure and battery storage represent
+ a unique opportunity for the country. Yet, today solar remains largely unexploited and much-needed network
+ reinforcements and updates limit the integration of new generation projects. Developing least-cost solar power
+ projects (with storage and required grid improvements) could contribute to increase domestic generation
+ capacity, diversify sources of electricity supply, accelerate the shift away from expensive thermal production,
+ and lower the cost of electricity production. Development of least cost solar PV is a top priority of the 2021-
+ 2025 sector investment plan adopted by the Board of Directors of EDM to complement hydropower, and it is
+ part of the least-cost generation plan, to be adopted in July 2021. However, the successful implementation of
+ the least cost generation plan will depend on the renewed commitment of GoM to adhere to the competitive
+ selection of IPPs as per the provision of the PPP law and the power sector law. Today, the country has signed
+ directly negotiated memoranda of understanding and/or concession agreements with about 13 unsolicited
+ bidders, which are 30 to 40 % more costly than competitively selected and well-structured IPPs (IRENA 2021).
+
+ 11.      Mali has decided to fast-track the implementation of solar park approach as part of its medium-term
+ solar deployment strategy. Pursuant to the US$ 21 million technical assistance to the WAPP (P162580), which
+ was approved in mid-201811 , the Bank is working with several countries to develop regional solar projects at
+ scale, which are included in the WAPP master plan to share energy resources at the regional level. Contrary to
+ the current market practice with negotiated deals, the solar park approach aims to support Mali in piloting an
+ innovative large-scale solar tender with battery storage, following a fully structured approach to drive down
+ costs, reduce delays to reach financial close and increase penetration of least-cost domestic generation. Mali is
+ leveraging the work done under the Sustainable Renewables Risk Mitigation Initiative (SRMI)12 on the best
+ practice for competitive bidding, as well as the World Bank experience, most recently in the regional solar park
+ IPP with storage, supported by the Burkina Faso Solare Energy and Access Project (P166785). As part of SRMI,
+ GoM has access significant resources from the Green Climate Fund SRMI Facility. GoM would provide pre-
+ arranged comprehensive de-risking measures such as financing for the provision of land, permits, power
+ evacuation, as well as off-take risk mitigation instruments and financing package available to bidders. The
+ country plans to develop the solar park at three sites for a total of 300 MWp, to be deployed in phases with a
+ first phase of 60 MWp (with about 60 MWh of battery storage). The competitive selection of the IPPs for the
+ first phase is expected to be launched mid-2022.
+
+ 12.     The transmission and distribution infrastructure is limited and constrained, and the quality of
+ electricity services has been deteriorating due to aging infrastructure, poor planning, lack of funding and
+ maintenance. Planned and unplanned outages have increased sharply in both frequency and duration in the
+
+ 10 The unit cost of solar PV has reduced by 82 percent between 2010 and 2019.
+ 11 Solar Development in Sub-Saharan Africa - Phase 1 (Sahel) - (P162580).
+ 12 The World Bank with AFD, IRENA and ISA are working together in a implementing an Initiative – SRMI – to support a sustainable solar
+
+ deployment leveraging private investments in development countries.
+
+Jun 17, 2021                                                                                                                              Page 8 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ past years. This is due to multiple factors, including the lack of maintenance of existing generation and
+ transmission infrastructure, lack of appropriate planning and fast increase in the number of customers of EDM.
+ The current transmission network is saturated and is not adequate to integrate new power plants, including
+ Albatros (92 MW) HFO power plant stranded capacity13, Gouina and Kénié hydropower plants, and additional
+ imports from Cote d’Ivoire. As detailed in Error! Reference source not found., the ongoing multi donors financed
+ investments are expected to significantly boost the transmission capacity to deliver energy from the current
+ stranded and planned capacity to end consumers. The Mali’s high-voltage ring around Bamako where most of
+ the load is concentrated, is underdeveloped, but reinforcement investments are being implemented with
+ financial support from different donors including the AFD, the African Development Bank (AfDB), the Exim Bank
+ of India, the West African Development Bank and the World Bank, as detailed in Error! Reference source not
+ found.. These ongoing reinforcement and grid expansion activities are expected to be completed by 2023 to
+ allow the absorption of additional generation capacity and grid expansion. The Electricity Master Plan has
+ identified investment needs at US$1.3 billion through 2034, including the secured US$867 million in 2021, which
+ highlights the scale of the challenges the Mali’s grid is facing today.
+
+                                      Figure 2. Simplified map of the interconnected grid
+
+
+
+
+                                                                 Source: EDM
+
+ Electricity Access
+
+ 13.     Despite significant investments over the last 12 years, Mali’s access rate to electricity services remains low,
+ especially in rural areas (see Figure 3 and
+
+ 14.      Table 1), and overall unreliable. The current access rate of about 49 percent is about the average of Sub-Saharan
+ Africa. In the past 12 years, Mali utility’s customer base grew from 120,000 households to over 600,000. There are
+
+ 13The Albatros HFO power plant was commissioned in 2019. The energy output can not be transmitted to Bamako due to limited capacity of the
+ existing transmission line. A parallel line Manantali – Bamako is being constructed to full evacuate that energy by 2023.
+
+Jun 17, 2021                                                                                                                       Page 9 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ currently 552,480 customers in the interconnected network and 75,202 in the isolated generation centers. But rural areas
+ still suffer from very limited access to electricity (less than 10 percent on average), and primarily rely on direct wood fuel
+ for cooking and kerosene lamps for lighting. Rural electrification for socio-economic transformation is a priority in the
+ economic development agenda of the government.
+
+ 15.      Mali has been a pioneer in mini grid development in West Africa, but its business model requires improvement
+ to enhance their sustainability and reliability, in particular in remote localities. Mini grids in Mali have enabled rural
+ access to increase from 2 to 10 percent in one decade. The country started the rollout of diesel-powered mini grids back
+ in 2003. About 250 systems are operational in different regions, under concessions with private operators. The ongoing
+ IDA REHSP was designed in 2013 to reduce cost of supply and increase reliability through hybridization of 45 diesel mini
+ grids with solar PV. The AFD is also financing the hybridization of about 60 mini-grids and the IsDB is providing a
+ complementary funds to develop 24 mini grids. However, new concerted efforts are needed to scale up access to
+ electricity in rural areas. A geospatial electricity access rollout program is under preparation with IDA financing, to guide
+ investments in grid extension and off grid solutions. At the same time, GoM through AMADER, is revising its mini grid
+ development model to be able to scale up solar PV mini grids with private sector participation. The current model does
+ not attract private investors, but rather local operators with no visibility on the replacement of the aging assets, and hence
+ lack of sustainability. The new business model will inform the preparation of the proposed project to help the government
+ meet its ambitious energy access goals.
+
+                                         Figure 3. Maps of unelectrified localities in Mali
+
+
+
+
+                                                   Table 1. Access rate by region
+                                             Region            Regional access rate
+                                              Kayes                  39.60%
+                                            Koulikoro                 14%
+                                             Sikasso                 36.70%
+                                             Ségou                    22%
+                                             Mopti                     6%
+
+ 16.    Despite progress made in the last decade, the energy sector in Mali continues to face structural financial deficit
+ and heavily relies on government subsidies. The generation mix (presented in
+
+
+
+Jun 17, 2021                                                                                                        Page 10 of 19
+          The World Bank
+          Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ 17.       Figure 1) relies on expensive thermal including rental power, and it is exposed to fluctuating fuel costs in
+ international markets. In 2020, the weighted average realized tariff was US$0.18/kWh for LV customers and US$0.16/kWh
+ for MV customers. This tariff is relatively high and yet, it is not sufficient to cover the cost of service, which stood at
+ US$0.27/kWh per unit of electricity sold, resulting in a deficit of around US$ 9.5c/kWh. This imbalance contributes to the
+ critical financial situation of the sector and, in turn, to the lack of adequate maintenance and investments. To respond to
+ these multiple challenges and restore the financial viability of the sector, a sector recovery plan was adopted in 2019 and
+ updated in 2020 as part of the DPF series, which sought to eliminate subsidies within five years. This plan should improve
+ the cost of production from around 87 FCFA/kWh in 2021 to 63 FCFA/kWh in 2025. These objectives are aligned with the
+ electricity master plan adopted in 2015 (covering 2016-2035) and with the electricity sector investment plan (2021 –
+ 2025), which aims at recovering costs while also accelerating energy access.
+
+ Institutional context
+                                              Figure 4. Institutional framework for the energy sector in Mali
+
+
+
+
+ 18.      Though Mali’s electricity sector is dominated by public sector institutions , it is liberalized by the presidential
+ order no. N°00-019/P-RM of March 15, 2000.The Ministry of Mines, Energy and Water (Ministère des Mines, de l’Energie
+ et de l’Eau, MMEE) is responsible for the formulation, promotion, coordination, monitoring and evaluation of the national
+ energy policy. GoM has a concession agreement with the vertically integrated state-owned utility, (Energie du Mali, EDM),
+ which is responsible for electricity service delivery in Mali. EDM owns the interconnected grid and manages the isolated
+ small grids in regional centers. Within the perimeter of its concession, EDM has monopoly over power transmission and
+ distribution, while generation is open to the private sector14, but EDM is the single off-taker. EDM is also responsible for
+ cross-border electricity trade (export and import). EDM supplies energy from its owned and rented thermal generation
+ plants, electricity imports from Côte d’Ivoire, Mauritania, and from the regional OMVS hydropower facilities (M anantali
+ and Felou). The Water and Electricity Regulatory Commission (Commission de Régulation de l'Electricité et de l'Eau, CREE),
+ established in 2000, is in charge of the regulation of the water and electricity sectors and reports to the Prime Minister’s
+ Office. CREE’s mandate, which is limited to EDM’s concession perimeter, is to protect customers, promote competition
+ when possible, arbitrate disputes between GoM and operators, and approve adjustments to ensure cost-reflective tariffs.
+ The capability of the regulator to effectively regulate the sector remains, however, very limited today, especially with
+ regard to tariff setting. Outside the EDM concession area, the Malian Rural Electrification Agency ( Agence Malienne pour
+
+
+ 14The presidential Order No. 00-019/P-RM of 15 March 2000 amended by Implementing Decree No. 00-184 /P-RM of 14 April 2000 liberalized the power sector.
+ Independent power producers supply about 23% of energy generated per annum.
+
+
+Jun 17, 2021                                                                                                                                     Page 11 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ le Développement de l'Energie Domestique et l'Électrification Rurale, AMADER) was created in 2003, with the mandate to
+ provide electricity services to the population in remote areas. It supplies electricity through a public-private partnership
+ approach and acts as de facto regulator for rural electrification. Finally, to encourage the development of renewable
+ energy, the Renewable Energy Agency (l’Agence des Energies Renouvelables du Mali, AER) was created in 2014 (replacing
+ the National Center for Solar Energy). It has the mandate to expand and accelerate the use of renewable energies in Mali.
+
+ 19.     Mali’s electricity sector also benefits from regional integration. Mali is a member of the Senegal River Basin
+ Development Organization (Organisation pour la Mise en Valeur du Fleuve Sénégal, OMVS) which also includes Guinea,
+ Mauritania and Senegal. OMVS developed Manantali and Félou hydropower plants. EDM is also a member of the West
+ African Power Pool (WAPP), an institution established in 1999 as part of ECOWAS to harmonize national electricity systems
+ within the region and deliver power in a stable, reliable and cost-competitive manner. Through the Solar Development in
+ Sub-Saharan Africa – Phase 1 (Sahel) Project (P162580), the World Bank has been supporting the WAPP to strengthen the
+ regional technical capacity for preparation of large–scale solar parks and integration of solar electricity into the grids.
+
+ Financial situation of EDM
+
+ 20.      EDM has been facing a structural financial deficit and dependent on an operational subsidy from the
+ Government, which is not sufficient to cover the tariff deficit. The sector suffers from a structural financial deficit mainly
+ due to: (i) the high electricity costs and non-cost reflective tariffs; (ii) the inability to significantly raise tariffs in a fragile
+ environment resulting in a deficit of US$0.095 per kWh per unit of electricity sold in 2020; and (iii) operating inefficiencies
+ at EDM with combined technical and commercial losses of about 21% in 2020. The amount of subsidy provided to the
+ sector stood at US$52 million in 2020, which corresponds to about US$0.026 per kWh per unit of electricity sold that year,
+ significantly below the tariff revenue shortfall the sector is facing today. Hence, such subsidy is not sufficient to cover the
+ sector costs in view of the considerable tariff revenue shortfall, which reached US$182 million in 2020, hence EDM
+ reported a net loss of around US$130 million in that year. This loss added to the already accumulated loss from previous
+ years, bringing the total equity to negative of US$206 million as at the end of 2020. The insufficient sector revenues mean
+ that EDM has to rely on expensive short-term commercial loans to be able to continue to provide electricity services, fund
+ necessary O&M costs and pay debt service. In addition, EDM has accumulated significant debt towards fuel and power
+ suppliers with trade payables estimated at US$385 million at the end of 2020. Very little funding (if any) is left to carry out
+ investments necessary for sector expansion and improvement of the quality of service provided.
+
+ 21.       The proposed post crisis reengagement DPO will support GoM’s efforts to sustain the implementation of the
+ power sector recovery plan adopted in 2019 and updated in 2020 as part of the national and regional DPFs, which
+ sought to turn around the sector performance and gradually eliminate subsidies within 5 years. The measures to be
+ taken to achieve this objective include: (i) a significant shift in the energy mix, from a high reliance on fossil fuel, to least
+ cost imports and local renewable energy; (ii) reduction in debt service costs through debt restructuring;
+ (iii) reduction in fuel costs through open and competitive bulk procurement (and strategic storage) and remote control of
+ fuel consumption; (iv) improvements in EDM operational efficiency and governance; and (v) modest and gradual tariff
+ increases. The Mali Sustainable Energy and Improved Service Delivery for Increased Stability Development Policy Financing
+ (P167547) supported the clearance of arrears of GoM to EDM for public electricity consumption, the elimination of
+ subsidies for connection fee for large consumers (MV clients), the increase of MT and public lighting tariffs (aligned them
+ to the consumer price index), and the establishment of an advance payment mechanism for electricity consumption of
+ public institutions. While the West Africa Regional Energy Trade Development Policy Financing Program (P171225)
+ supported reforms to facilitate trade and ensure increased imports, the proposed reengagement DPL is expected to
+ establish a transparent regulatory mechanism for tariff adjustments and compensation, strengthen the Government’s
+ oversight on the sector performance improvement. It will also support reforms to cut down the costs of fuel and reduce
+ the financial losses due to poorly negotiated deals with IPPs.
+
+Jun 17, 2021                                                                                                               Page 12 of 19
+           The World Bank
+           Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+
+      Relationship to CPF
+
+ 22.      The proposed project is fully consistent with the 2015 Systematic Country Diagnostic (SCD) and the World Bank
+ Group Country Partnership Framework (CPF) for Mali for the period FY16-FY19 (extended to FY21)15. The SCD identified
+ priorities necessary to end extreme poverty and increase shared prosperity in Mali. These include
+ (i) restoring security in the north, (ii) redistributive efforts to reduce extreme vulnerability and (iii) increasing the incomes
+ of the rural poor, by improving productivity in the agricultural sector. However, several constraints were identified to
+ reach these objectives, including the lack of adequate governance and policy environment conducive to sector reforms,
+ the low productive capacity of poor farmers and pastoralists, and uninsured risks. A new SCD is under preparation as well
+ as a country engagement note. The latest draft indicated that the broad development challenges facing Mali have not
+ changed since the previous SCD, but insecurity, continued and escalated conflicts, the COVID-19 crisis, and the military
+ coup d’état in 2020 have further deteriorated the economic, political, and social context. The FY16 -19 CPF16 identified
+ three areas of focus: (i) improving governance, by strengthening public resource management at central and local levels
+ and fostering citizen engagement; (ii) creating economic opportunities, notably by enhancing the productive capacity of
+ smallholders and improving basic services by developing infrastructure and connectivity; and (iii) building resilience,
+ including by developing human capital, improving risk management mechanisms and mitigating climate shock. This project
+ will support critical energy infrastructure that will directly contribute to the priorities of the CPF by improving basic
+ services, productive capacity, and strengthening the resilience and diversification of the economy.
+
+  C. Proposed Development Objective(s)
+
+ The Project Development Objective (PDO) is to increase access to electricity in selected areas of Mali and the integration
+ of least cost solar energy by leveraging private finance.
+
+  Key Results (From PCN)
+
+ 23.        The following indicators have been selected to measure progress toward achieving the PDO:
+            (a) People provided with new or improved electricity service (number) (Corporate Results Indicator), of
+                which female (%);
+            (b) Micro-small enterprises in rural areas provided with new electricity services (number), of which
+                female-led (%);
+            (c) Public institutions (schools, health centres and local administrative offices) provided with new or
+                improved electricity services (number); and
+            (d) Solar generation capacity constructed under the project (MW).
+            (e) Private capital mobilized
+            (f) Female-headed households with new or improved electricity service (number)
+
+  D. Concept Description
+ 24.       The proposed project will increase access to sustainable, reliable, and affordable energy in in Mali. It will target
+ mainly four key areas: (i) grid rehabilitation, upgrading and extension to areas/localities around the interconnected grid
+ (i.e. transmission lines and substations in the regional cities); (ii) development of mini-grids in rural areas with solar PV
+
+ 15   Report No. 94005-ML; November 3, 2015.
+ 16No new CPF has been published yet as the Performance and Learning Review of the CPF implementation, undertaken in late FY19, led to the extension of the CPF
+ period to cover FY20.
+
+
+Jun 17, 2021                                                                                                                                        Page 13 of 19
+          The World Bank
+          Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ under PPP arrangement to ensure sustainability; (iii) off-grid solar electrification in health, education and administration
+ facilities and households in remote communities; and (iv) increase in generation capacity through a solar auction to secure
+ large scale solar IPP with storage. Given the high natural and climate risks in Mali, the team will explore TF funding to
+ conduct a vulnerability analysis of the planned investments and identify adequate measures to increase the resilience of
+ the project.
+ The proposed project would be comprised of four main components as indicated below.
+
+ Component 1: Rehabilitation and upgrading of grid infrastructure and access extension in secondary cities
+ (IDA, US$95 million)
+
+ 25.      This component would finance: (i) rehabilitation, upgrading, densification and extension of distribution networks
+ in communities/localities under the interconnected grid in secondary cities; (ii) electrification of localities around the
+ existing HV substations (about 100 km of radius); (iii) electrification of localities along the existing transmission lines (HV
+ and MV); and (iv) interconnection of selected regional cities to the main grid to eliminate expensive diesel generation and
+ ensure sustainability of power supply in these cities. While specific investments will be selected during project preparation
+ based on ongoing geospatial planning study to be commissioned by August 2021, these will cover in selected geographical
+ areas construction of new MV lines, installations of new MV/LV transformers, associated distribution (LV) networks,
+ consumption meters to new customers and new connections. Selection criteria for new areas to electrify will include
+ economic nodes and high-income communities with potential to increase revenues of the utility. Preliminary estimates
+ indicate that the project would add 140,000 connections by 2025 as part of this component, but this estimate will be
+ refined during preparation. This component will also reduce technical and commercial losses by regularizing connections
+ in peri urban areas to improve financial performance of EDM.
+
+ Component 2: Electrification of selected communities with mini grids in remote areas (IDA, US$ 50 million)
+
+ 26.      This component would finance: (i) the hybridization of existing diesel mini grids, including in conflict zones to
+ increase resilience to increase affordability and reliability of supply. Foreseeable activities under the ongoing REHSP
+ (P131084) that would not be completed at the closing date of the project in March 202217, would be financed under this
+ component; (ii) promotion of greenfield PPP solar mini-grids in selected economic nodes and areas that are closer to
+ conflict zones to increase conflict prevention capacity; and (iii) electrification of public institutions (health centers, schools
+ and local administrative offices) and households in off-grid rural areas. These efforts will contribute to reducing disparity
+ of access to electricity, between urban and rural areas with poorer households, and in particular poorer female-headed
+ households. A commercial approach for the distribution of SHS through private distribution companies will be used
+ learning from lessons of REHSP and in coordination with ROGEP, potentially including strategies for increasing women's
+ participation in SHS distribution and maintenance. Community development initiatives including solar water pumping
+ stations in remote areas would be supported. This component will be designed in such a way that private operators are
+ involved in supply of and installation of the systems and operation and maintenance, and beneficiaries pay regular
+ consumption fee to guarantee sustainability of the installations. A technical audit of the existing mini grids development
+ model is being undertaken by AMADER to inform the project design. Mini grids will be developed in in relatively high
+ population density areas with relatively high income per household to attract private investments in remote areas.
+ Financing under this component will subsidize end-users by reducing the cost of supply. Subsidies will be designed in such
+ a way that they address both investment mobilization and operational constraints to ensure sustainability of service
+ delivery in remote areas. Preliminary estimates indicate that the project would add 10,000 connections by 2025 as part of
+ this component, but this estimate will be refined during preparation. While REHSP reduced costs of services and increased
+
+ 17An extension of project closing date by six months to remain in the same fiscal year, as per the client request, is recommended to complete the ongoing activities
+ and maximize the achievement of the project development objectives.
+
+
+Jun 17, 2021                                                                                                                                             Page 14 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ reliability of the existing diesel mini grids, it did not target economic nodes that attract private investments and ensure
+ sustainability of mini grid systems.
+
+ Component 3: Utility-Scale grid Solar IPP with Storage to secure additional least-cost renewable energy
+ generation (GCF/SRMI, US$43 million)
+
+ 27.       This component will contribute to increase generation capacity, improve security of supply through diversification
+ of sources, lower costs of generation, and improve grid stability while increased amount of variable energy gets integrated.
+ It will support the efforts of GoM to increase domestic least-cost renewable energy generation. Mali has a great solar
+ potential, and in the past years, these resources have generated increasing interest. The government received many
+ unsolicited solar development projects. Several privately-owned solar projects (without storage) are currently in different
+ stages of preparation (see Table ), and the negotiated prices reached are so far well above the regional standards (with
+ prices well above US$0.10 per kWh). Given Mali’s limited fiscal space, leveraging private sector financing is critical to
+ deploy grid-connected and off-grid solar generation projects. However, unstructured and often noncompetitive processes
+ have impeded the timely delivery of cost-effective electricity supply by IPPs. Experiences from other countries show that
+ for IPPs to deliver the lowest possible tariffs specific regulatory, structural, and technical conditions are required,
+ particularly for solar projects, which present grid integration, planning, and dispatch capacity challenges. Moreover, while
+ an IPP regulatory framework exists in Mali, it has not been implemented at the sectoral level and line ministries lack
+ experience with IPPs.
+
+ 28.      Following the World Bank’s Sustainable Risk Mitigation Initiative’s approach, this component will help GoM to de-
+ risk investments to attract the private sector, minimizing tariffs and maximizing local co-benefits of solar projects. The
+ solar PV deployment would be phased taking into account the commissioning of the ongoing regional interconnections
+ and planned solar projects to avoid oversupply and financial losses with take or pay IPP arrangements and will help GoM
+ to rationalize the IPP pipeline. The Bank’s engagement would help GoM to follow a plug and play approach, whereby a
+ solar auction is launched to competitively procure an IPP on a pre-selected and pre-authorized site, thus ensuring the best
+ value for money for Mali. In addition, Mali is eligible for a US$5 million GCF funding grant and
+ US$38 million loan through the SRMI Facility. This additional least cost capacity would enable the country to eliminate the
+ expensive thermal generation, increase energy security and reduce the power sector’s carbon footprint.
+
+                               Table 4. List of the potential pipeline of solar projects in Mali (2020)
+                Plant name         Targeted    Capacity in 2023   Capacity in 2025               Status
+                                  connection       (MW)               (MW)
+                                     date
+               TIAKADOUGOU
+                                    2022             50                 50                  Signed contracts
+                 (SELINGUE)
+                    SÉGOU           2022             33                  33                 Signed contracts
+                   SIKASSO          2022             50                  50                 Signed contracts
+                  KOUTIALA          2022             25                  25                 Signed contracts
+                BLA (SEGOU)         2023                                 93               Contracts not signed
+                     FANA           2024                                 50               Contracts not signed
+                     SAFO           2025                                 45               Contracts not signed
+                     FANA           2023             60                  60
+               Sanankoroba 1        2024             90                 190              Solar park with storage
+                  Bougouni          2025                                 50
+                    TOTAL                            308                646
+
+
+ 29.    Preliminary analyses have been conducted for the development of a solar park with storage following a phased
+ approach: 150 MW of PV with storage (150 MWh) around 2025 (provided planned grid improvements are completed on
+ scheduled) and a possibility for another 150 MW of PV with storage (150 MWh) after 2025, contingent to major grid
+ improvements and on the realization of a detailed VRE analysis reflecting the state of grid at that point. These analyses
+
+
+Jun 17, 2021                                                                                                       Page 15 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ showed that this solar park could contribute to reduction of Mali’s average generation cost by 8 percent in 2022 and by 9
+ percent in 2025 compared with a business as usual case. It would mainly contribute by reducing fuel costs, leading to a
+ saving of US$31 million in 2022 and US$50 million in 2025 and hence co ntributing to the efforts toward EDM’s financial
+ recovery. It would reduce generation costs from US$0.158 to US$0.152 per kWh in phase 1 and US$0.118 to US$0.109 per
+ kWh in phase 2 of the solar park, compared to the scenario without park. It could also allow for more solar penetration
+ thanks to storage capacity. Three sites have been identified for phase 1, namely the existing substation of Fana (to be fast-
+ tracked under the project for 60 MW), and Sanankoroba and Bougouni substations under construction as part of HV
+ transmission system reinforcement. This component will finance the publicly-financed shared infrastructure required for
+ the development of the solar park as well as the grid upgrades necessary for the integration of VRE, including the public
+ battery storage.
+
+ Component 4: Institutional Capacity Building, Technical Assistance, and Implementation Support (US$12.0
+ million)
+
+ 30.      The component will finance activities to create a robust institutional arrangement to implement an accelerated
+ access rollout program. It will strengthen the capacity of the Ministry in sector planning, resource mobilization and overall
+ oversight of the program implementing agencies namely EDM-SA for grid extension components 1 and 3, and AMADER
+ for component 2. Component 4 will be implemented by both EDM-SA and AMADER. It will finance the operationalization
+ and running of the Project Implementation Units within EDM for grid access and AMADER for off-grid access for the
+ duration of the project. Specifically, costs will include: (i) the recruitment specialized consultants to strengthen fiduciary,
+ engineering, safeguard, and community development implementation capacity; (ii) office equipment; (iii) transport
+ equipment needed for supervision of the implementation especially in the regions; and (iv) monitoring and evaluation. It
+ will also strengthen the capacity of AER to actively participate in the implementation of component 3, as well as the
+ regulatory commission to prepare the required regulatory and monitoring instruments and capacity-building activities for
+ its technical staff. Gender integration activities in key public sector institutions will be implemented to facilitate
+ coordination and development of an overall gender-energy framework of intervention. Dedicated activities addressing
+ gender disparities will aim to (i) reduce disparity of access to electricity of poor rural households and in particular female-
+ headed households following a gap assessment to determine main barriers and design appropriate measures such as
+ awareness campaigns and pro-poor measures to alleviate these; (ii) increase the uptake of productive uses of electricity
+ to enhance women’s livelihoods and time savings and promote women-led businesses; and (iii) increase female
+ participation in the energy sector, mainly in the public sector, and in off-grid solutions. This component will also finance
+ the transaction advisory needed for the Regional Solar Park.
+
+
+ 31.     This component will also finance all activities related to the awareness-raising, technical and managerial training,
+ and communication with respect to the roll-out of access investments in rural areas. It will specifically target private sector
+ and local community players, building upon the experience acquired through REHSP. In addition, it will support capacity
+ development of local service providers (SMEs) to implement the grid access program through the construction of LV lines
+ and household connections.
+
+
+
+
+Jun 17, 2021                                                                                                         Page 16 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+                                                      Theory of Change
+
+
+
+
+  Legal Operational Policies                                                             Triggered?
+  Projects on International Waterways OP 7.50                                            No
+  Projects in Disputed Areas OP 7.60                                                     No
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  .
+
+
+  The project environmental and social risks are substantial due to the nature of activities which will be financed through
+ project four components. It is expected that the electricity infrastructures construction/rehabilitation such as
+ transmission lines (HV and MV), interconnected grid in the suburbs of Bamako and regional cities; HV substations, hybrid
+ solar mini-grids, solar park and floating solar at Manantali will generate significant environmental and social risks/impacts
+ which will be in number through several sites. Those impacts will occurboth in Bamako and surrounded areas and rural
+ areas certain a long side of electric line with security limit. However, those risks/impact can be mitigated by easily
+ identifiable measures. EDM and AMADER have World Bank IPF project implementation under OP with relevant
+ safeguards staffs, not in ESF. The institutional capacity will be assessed during project preparation and any gap will filled.
+
+
+
+
+Jun 17, 2021                                                                                                       Page 17 of 19
+          The World Bank
+          Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+ .
+     CONTACT POINT
+
+
+     World Bank
+     Yussuf Uwamahoro, Celine Sarah Marie Ramstein
+     Senior Energy Specialist
+
+
+     Borrower/Client/Recipient
+     Republic of Mali
+     Fadeby Doumbia
+     Ministry of Economy and Finances
+     doumfad@yahoo.fr
+
+
+     Moussa OMBOTIMBE
+     Ministry for Energy and Water
+     mombotimbe2@yahoo.fr
+
+     Implementing Agencies
+     EDM
+     Oumar Barou DIARRA
+     DG
+     odiarra@edmsa.ml
+
+     AMADER
+     Amadou Sidibe
+     PDG
+     amadousidibe25@yahoo.fr
+
+
+     FOR MORE INFORMATION CONTACT
+     The World Bank
+     1818 H Street, NW
+     Washington, D.C. 20433
+     Telephone: (202) 473-1000
+     Web: http://www.worldbank.org/projects
+
+
+
+
+Jun 17, 2021                                                                             Page 18 of 19
+         The World Bank
+         Mali Electricity System Reinforcement and Access Expansion Project (P176633)
+
+
+  APPROVAL
+
+  Task Team Leader(s):                      Yussuf Uwamahoro, Celine Sarah Marie Ramstein
+
+  Approved By
+  APPROVALTBL
+  Country Director:                        Soukeyna Kane                          30-Jul-2021
+
+
+
+
+Jun 17, 2021                                                                                    Page 19 of 19
+

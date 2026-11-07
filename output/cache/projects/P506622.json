@@ -1,0 +1,336 @@
+{
+  "project_id": "P506622",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "4a479fe3",
+  "started_at": "2026-11-07T03:37:46Z",
+  "ended_at": "2026-11-07T03:37:56Z",
+  "input_fingerprint": "7ac0f6bc89ac8ef0",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 9,
+  "innovative": "No",
+  "n_approaches": 0,
+  "approaches": [],
+  "documents_used": [
+    {
+      "project_id": "P506622",
+      "doc_type": "ProjectPaper",
+      "doc_date": "2025-03-26",
+      "guid": "099032725170561118",
+      "file_name": "P506622_ProjectPaper_2025-03-26_099032725170561118.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:37:46Z",
+      "ended_at": "2026-11-07T03:37:46Z",
+      "status": "ok",
+      "note": "no missing documents fetched; 1 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:37:46Z",
+      "ended_at": "2026-11-07T03:37:46Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-03-26, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:37:46Z",
+      "ended_at": "2026-11-07T03:37:47Z",
+      "status": "ok",
+      "note": "9 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 9,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 4,
+          "enabling_processes": 1,
+          "innovation_cycle": 1,
+          "results_based_management": 1,
+          "public_good": 2
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:37:47Z",
+      "ended_at": "2026-11-07T03:37:47Z",
+      "status": "ok",
+      "note": "ProjectPaper 2025-03-26 (P506622_ProjectPaper_2025-03-26_099032725170561118.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P506622",
+            "doc_type": "ProjectPaper",
+            "doc_date": "2025-03-26",
+            "guid": "099032725170561118",
+            "file_name": "P506622_ProjectPaper_2025-03-26_099032725170561118.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:37:47Z",
+      "ended_at": "2026-11-07T03:37:47Z",
+      "status": "ok",
+      "note": "106 reading units (42 numbered paragraphs) from 710 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 106
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:37:47Z",
+      "ended_at": "2026-11-07T03:37:48Z",
+      "status": "ok",
+      "note": "25 of 106 units carry a digital / AI cue (6 also an innovation cue); 1 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 25,
+        "dropped": 0,
+        "legal_condition": 1,
+        "with_innovation_cue": 6
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:37:48Z",
+      "ended_at": "2026-11-07T03:37:51Z",
+      "status": "ok",
+      "note": "2 candidate practices from 25 units in 3 calls",
+      "llm_calls": 3,
+      "input_chars": 84446,
+      "output": {
+        "usage": {
+          "calls": 3,
+          "input_tokens": 584,
+          "cached_tokens": 17024,
+          "cache_write_tokens": 0,
+          "output_tokens": 647,
+          "seconds": 6.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0011
+        },
+        "extracted": 2
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:37:51Z",
+      "ended_at": "2026-11-07T03:37:55Z",
+      "status": "ok",
+      "note": "1 accepted, 1 rejected (not_innovative 1); 2 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 62023,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 7016,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 232,
+          "seconds": 3.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0024
+        },
+        "accepted": 1,
+        "rejected": 1,
+        "expanded": 2,
+        "reject_codes": {
+          "not_innovative": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:55Z",
+      "ended_at": "2026-11-07T03:37:55Z",
+      "status": "ok",
+      "note": "single sector option: assigned directly",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:55Z",
+      "ended_at": "2026-11-07T03:37:55Z",
+      "status": "ok",
+      "note": "1 approaches -> 1 by sector x category; no group needed naming; 2 Data Sheet sentences attached",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "merged": 0,
+        "legal_evidence": 2
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:55Z",
+      "ended_at": "2026-11-07T03:37:56Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 0 kept (digital & AI core, rare or absent before 2019); 1 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4064,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 251,
+          "cached_tokens": 640,
+          "cache_write_tokens": 0,
+          "output_tokens": 70,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "dropped": 1
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:56Z",
+      "ended_at": "2026-11-07T03:37:56Z",
+      "status": "ok",
+      "note": "0 approaches (0 applied), 0 evidence rows, 2 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:56Z",
+      "ended_at": "2026-11-07T03:37:56Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P167428",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicates",
+            "evidence": "ment Strategy for Development RED-1 Regional Economic Development Project SDR Special Drawing Rights SME Small and Medium Enterprise UNESCO United Nations Educational, Scientific and Cultural Organization US$ United States Dollar The World Bank Kyrgyz Republic Regional Economic Development Project (P167428) PROJECT PAPER TABLE OF CONTENTS I. BACKGROUND AND RATIONALE FOR ADDITIONAL FINANCING ......"
+          }
+        ],
+        "store_size": 257
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [],
+  "exclusion_log": [
+    {
+      "guid": "099032725170561118",
+      "doc_type": "ProjectPaper",
+      "position": 178,
+      "char_start": 33115,
+      "char_end": 33344,
+      "sentence": "Furthermore, the project emphasizes improving the seismic resilience of urban infrastructure and includes the establishment of early warning systems for floods and landslides, enhancing disaster preparedness and community safety.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Flood and landslide early warning systems",
+      "reason": "reject: Early warning systems are routine MDB disaster-risk practice; no specific digital system named",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: flood/landslide early warning systems - cue: 'early-warning'",
+      "innovation_cues": "early-warning;nature-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "No named digital system or technology described; unclear whether sensors/monitoring or just civil works",
+          "reject_code": "",
+          "context_chars": 1633
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Early warning systems are routine MDB disaster-risk practice; no specific digital system named",
+          "reject_code": "not_innovative",
+          "context_chars": 7250
+        }
+      ]
+    },
+    {
+      "guid": "099032725170561118",
+      "doc_type": "ProjectPaper",
+      "position": 103,
+      "char_start": 20897,
+      "char_end": 21069,
+      "sentence": "Additionally, at the GoKR's request, the Project is financing the development of an Online Platform for Regional Development, which is scheduled to be deployed by mid-2025.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Online Platform for Regional Development planning",
+      "reason": "reject: final check round 1: digital: incidental - Digital: online planning platform is a tool, approach is regional development planning | Before 2019: WBG/UN regional planning platforms and GIS-based spatial planning already in use",
+      "reject_code": "not_digital",
+      "innovation_basis": "First online resource pooling all donor/state regional activities for transparency",
+      "innovation_cues": "climate-smart",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Only one sentence; unclear what the online platform does or whether it is more than a planning website",
+          "reject_code": "",
+          "context_chars": 2528
+        },
+        {
+          "round": 2,
+          "verdict": "accept",
+          "reason": "Digital core: online regional development platform | Innovative: first consolidated donor/state activity portal | Category: new digital transparency tool",
+          "reject_code": "",
+          "context_chars": 18869
+        },
+        {
+          "round": 3,
+          "verdict": "reject",
+          "reject_code": "not_digital",
+          "reason": "final check round 1: digital: incidental - Digital: online planning platform is a tool, approach is regional development planning | Before 2019: WBG/UN regional planning platforms and GIS-based spatial planning already in use",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 6,
+    "input_tokens": 7851,
+    "cached_tokens": 23168,
+    "cache_write_tokens": 0,
+    "output_tokens": 949,
+    "seconds": 11.3,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0036
+  }
+}

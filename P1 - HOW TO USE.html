@@ -1,0 +1,53 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PIA Analysis - How to use</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:#1f2328;
+     line-height:1.55;max-width:680px;margin:0 auto;padding:48px 24px 72px;background:#fff}
+h1{font-size:26px;margin:0 0 2px}
+.sub{color:#6b7280;margin:0 0 22px;font-size:14px}
+details{border:1px solid #e5e7eb;border-radius:8px;padding:10px 14px;margin:0 0 26px;background:#f8fafc;font-size:14px}
+summary{cursor:pointer;font-weight:600;color:#374151}
+details p{margin:8px 0 2px;color:#4b5563}
+.step{display:flex;gap:16px;padding:16px 0;border-top:1px solid #eef0f2}
+.n{flex:none;width:30px;height:30px;border-radius:50%;background:#2563eb;color:#fff;font-weight:700;
+   display:flex;align-items:center;justify-content:center;font-size:15px}
+.b{flex:1;min-width:0}.b h2{font-size:16px;margin:3px 0 4px}.b p{margin:0;color:#374151;font-size:14px}
+code{background:#eef0f2;border:1px solid #e1e4e8;border-radius:4px;padding:1px 6px;
+     font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px}
+b.k{color:#111827}
+.note{margin-top:26px;background:#f8fafc;border:1px solid #e5e7eb;border-radius:8px;padding:12px 16px;font-size:13px;color:#4b5563}
+</style></head><body>
+<h1>PIA Analysis</h1>
+<p class="sub">Windows / macOS &middot; Python 3.11, 3.12 or 3.13 &middot; Anthropic API key</p>
+
+<details><summary>No Python yet? (click to expand)</summary>
+<p>Install <b>Python 3.11, 3.12 or 3.13</b> from <a href="https://www.python.org/downloads/">python.org</a>.
+On Windows, tick <b class="k">Add python.exe to PATH</b> and keep the <b class="k">py launcher</b> during install.
+Conda is not needed. If Python is already installed, skip this.</p>
+</details>
+
+<div class="step"><div class="n">1</div><div class="b">
+<h2>Start</h2><p>Double-click <code>start_pia.bat</code> (Windows) or <code>start_pia.command</code> (macOS). The <b class="k">first run</b> builds a private environment and installs everything automatically (one time, a few minutes); after that it just launches. Your browser opens at <code>http://127.0.0.1:18765</code>. Keep the window open: <code>R</code> = restart, <code>Ctrl+C</code> = stop.</p></div></div>
+
+<div class="step"><div class="n">2</div><div class="b">
+<h2>Setup page</h2><p>Set the Anthropic API key, and the <code>raw_data</code> and <code>output</code> folders &rarr; <b class="k">Save</b> &rarr; <b class="k">Test connection</b>.</p>
+<p style="margin-top:6px;background:#fff7ed;border:1px solid #fed7aa;border-radius:6px;padding:8px 11px;font-size:13px;color:#9a3412">
+<b>Use an account API key that starts with <code>sk-ant-api03-</code></b> (created in the Anthropic Console → API Keys).
+Do <b>not</b> use a <code>sk-ant-usr-</code> key — that is a user/session token and will fail with 401.</p></div></div>
+
+<div class="step"><div class="n">3</div><div class="b">
+<h2>Add your data</h2><p>Put <code>projects.csv</code> and <code>documents\</code> into <code>raw_data\</code>. Missing project documents are fetched from the World Bank API automatically during a run (into <code>output\supplement_documents\</code>).</p></div></div>
+
+<div class="step"><div class="n">4</div><div class="b">
+<h2>Run</h2><p><b class="k">Approach Spot</b> → pick projects (From database, optional random/first subset), pick a workflow, set how many run in parallel → <b class="k">Extract</b>.</p></div></div>
+
+<div class="step"><div class="n">5</div><div class="b">
+<h2>Review</h2><p>Check each project's approaches; edit if needed; <b class="k">Push to database</b> to sign off.</p></div></div>
+
+<div class="step"><div class="n">6</div><div class="b">
+<h2>Export</h2><p><b class="k">Database → Export</b> → one Excel with two tabs: <b class="k">Projects</b> and <b class="k">Approaches</b>.</p></div></div>
+
+<div class="note">Port busy → the next free port (up to +10) is used; the real URL prints in the window. Change it with <code>PIAA_PORT</code> in <code>PIA Analysis\config\local.env</code>.</div>
+</body></html>

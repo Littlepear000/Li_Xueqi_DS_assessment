@@ -1,0 +1,782 @@
+{
+  "project_id": "P507865",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "71d0426f",
+  "started_at": "2026-11-07T03:38:16Z",
+  "ended_at": "2026-11-07T03:38:38Z",
+  "input_fingerprint": "c598b5e741284143",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 24,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P507865-A1",
+      "project_id": "P507865",
+      "name": "digital assessment and EMIS for tracking learning outcomes and out-of-school children",
+      "description": "The project builds digital classroom assessment, an upgraded Shiksha Setu EMIS and digitized student records to track learning, flag dropouts and reach out-of-school children. Practices: Digitally enabled classroom assessment system for literacy and numeracy milestones; Enhanced Shiksha Setu EMIS tracking learning outcomes and dropout early warning; Digitized student and household records for out-of-school mobilization and tracking.",
+      "why_innovative": "New service: digital classroom assessment tracking learning milestones - cue: 'advanced analytics' | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "40076197",
+        "doc_type": "PAD",
+        "doc_date": "2025-12-11",
+        "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+        "char_start": 56510,
+        "char_end": 56821,
+        "text": "The project will support: (i) the development of a digitally enabled classroom assessment system\r\nto capture age-appropriate milestones for literacy (such as letter name and sound knowledge, vocabulary, oral reading\r\nfluency and comprehension) and numeracy development for different stages of primary education;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "40076197",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-11",
+          "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+          "char_start": 57488,
+          "char_end": 57639,
+          "text": "The assessment and analysis tools will utilize advanced analytics to enable real-\r\ntime monitoring and insights to improve program design and delivery.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "40076197",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-11",
+          "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+          "char_start": 62599,
+          "char_end": 62741,
+          "text": "Shiksha Setu, the state's EMIS, will be enhanced to align with\r\nthe Vidya Samiksha Kendra guidelines issued by the Ministry of Education, GoI.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "40076197",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-11",
+          "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+          "char_start": 62742,
+          "char_end": 62932,
+          "text": "Enhancements will include: (i) tracking of\r\nstudent learning outcomes data collected through periodic formative assessments, annual summative assessments, and\r\nother state level assessments;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "40076197",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-11",
+          "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+          "char_start": 62933,
+          "char_end": 63096,
+          "text": "(ii) monitoring of student attendance, migration, and transfers to help detect early warning\r\nsigns of potential dropouts and enabling targeted support mechanisms;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "40076197",
+          "doc_type": "PAD",
+          "doc_date": "2025-12-11",
+          "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+          "char_start": 68134,
+          "char_end": 68330,
+          "text": "(iii) enhancing community outreach and\r\nparental engagement; and (iv) implementing a digitized system of student and household records to support mobilization,\r\noutreach, and beneficiary tracking.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the digital assessment system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Primary Education",
+        "code": "",
+        "confidence": null,
+        "rationale": "Classroom assessment of literacy and numeracy milestones directly serves primary education.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174593",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "clubs), including the provision of annual cash grants to adolescent clubs for their\r\nadministration and delivery of adolescent-centric activities. The project will leverage the community platforms of the\r\n\r\n6 As part ofthe ongoing World Bank-financed Assam Integrated River Basin Management Program (P174593), the Assam State Disaster Management\r\nAuthority is collaborating with the DoSE to improve d"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: classroom assessment analytics | Innovative: real-time milestone tracking feeds instruction | Category: technological tool",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: digital classroom assessment tracking learning milestones - cue: 'advanced analytics'",
+      "innovation_cues": [
+        "early-warning",
+        "mainstream",
+        "mainstreaming",
+        "pilot",
+        "scale-up"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P507865",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "guid": "40076197",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "source": "api",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:38:16Z",
+      "ended_at": "2026-11-07T03:38:17Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 4 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:38:17Z",
+      "ended_at": "2026-11-07T03:38:17Z",
+      "status": "ok",
+      "note": "in scope (approved 2026-01-13, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:38:17Z",
+      "ended_at": "2026-11-07T03:38:17Z",
+      "status": "ok",
+      "note": "24 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 24,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_processes": 2,
+          "innovation_cycle": 10,
+          "innovation": 2,
+          "results_based_management": 2,
+          "innovation_types": 3,
+          "enabling_technologies": 2,
+          "public_good": 3
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:38:17Z",
+      "ended_at": "2026-11-07T03:38:17Z",
+      "status": "ok",
+      "note": "PAD 2025-12-11 (P507865_PAD_2025-12-11_40076197.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P507865",
+            "doc_type": "PAD",
+            "doc_date": "2025-12-11",
+            "guid": "40076197",
+            "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+            "source": "api",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:38:17Z",
+      "ended_at": "2026-11-07T03:38:17Z",
+      "status": "ok",
+      "note": "103 reading units (11 numbered paragraphs) from 671 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 103
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:38:17Z",
+      "ended_at": "2026-11-07T03:38:19Z",
+      "status": "ok",
+      "note": "44 of 103 units carry a digital / AI cue (13 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 44,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 13
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:38:19Z",
+      "ended_at": "2026-11-07T03:38:25Z",
+      "status": "ok",
+      "note": "9 candidate practices from 44 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 149550,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 17207,
+          "cached_tokens": 14080,
+          "cache_write_tokens": 0,
+          "output_tokens": 2041,
+          "seconds": 14.6,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0077
+        },
+        "extracted": 9
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:38:25Z",
+      "ended_at": "2026-11-07T03:38:30Z",
+      "status": "ok",
+      "note": "6 accepted, 3 rejected (not_digital 2, background_or_other_programme 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 84192,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 11933,
+          "cached_tokens": 5120,
+          "cache_write_tokens": 0,
+          "output_tokens": 778,
+          "seconds": 5.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0045
+        },
+        "accepted": 6,
+        "rejected": 3,
+        "expanded": 1,
+        "reject_codes": {
+          "background_or_other_programme": 1,
+          "not_digital": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:38:30Z",
+      "ended_at": "2026-11-07T03:38:33Z",
+      "status": "ok",
+      "note": "6 of 6 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 2015,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 436,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 218,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:38:33Z",
+      "ended_at": "2026-11-07T03:38:35Z",
+      "status": "ok",
+      "note": "6 approaches -> 3 by sector x category; 1 Data Sheet sentences attached as extra evidence",
+      "llm_calls": 1,
+      "input_chars": 1928,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 422,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 131,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 3,
+        "legal_evidence": 1
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:38:35Z",
+      "ended_at": "2026-11-07T03:38:37Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 2 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7202,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1157,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 206,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 2
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:38:37Z",
+      "ended_at": "2026-11-07T03:38:37Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 6 evidence rows, 6 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:38:37Z",
+      "ended_at": "2026-11-07T03:38:38Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P174593",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "clubs), including the provision of annual cash grants to adolescent clubs for their\r\nadministration and delivery of adolescent-centric activities. The project will leverage the community platforms of the\r\n\r\n6 As part ofthe ongoing World Bank-financed Assam Integrated River Basin Management Program (P174593), the Assam State Disaster Management\r\nAuthority is collaborating with the DoSE to improve d"
+          }
+        ],
+        "store_size": 267
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P507865-A1-E1",
+      "approach_id": "P507865-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 220,
+      "char_start": 56510,
+      "char_end": 56821,
+      "sentence": "The project will support: (i) the development of a digitally enabled classroom assessment system\r\nto capture age-appropriate milestones for literacy (such as letter name and sound knowledge, vocabulary, oral reading\r\nfluency and comprehension) and numeracy development for different stages of primary education;",
+      "practice": "Digitally enabled classroom assessment system for literacy and numeracy milestones",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: classroom assessment analytics platform | Not routine: real-time milestone tracking feeds instruction | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: classroom assessment analytics | Innovative: real-time milestone tracking feeds instruction | Category: technological tool",
+      "keywords_hit": "analytics;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital classroom assessment tracking learning milestones - cue: 'advanced analytics'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    },
+    {
+      "row_id": "P507865-A1-E2",
+      "approach_id": "P507865-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U34",
+      "para_no": null,
+      "sentence_position": 223,
+      "char_start": 57488,
+      "char_end": 57639,
+      "sentence": "The assessment and analysis tools will utilize advanced analytics to enable real-\r\ntime monitoring and insights to improve program design and delivery.",
+      "practice": "Digitally enabled classroom assessment system for literacy and numeracy milestones",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: classroom assessment analytics platform | Not routine: real-time milestone tracking feeds instruction | Adoption: 'will support'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: classroom assessment analytics | Innovative: real-time milestone tracking feeds instruction | Category: technological tool",
+      "keywords_hit": "analytics;survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: digital classroom assessment tracking learning milestones - cue: 'advanced analytics'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    },
+    {
+      "row_id": "P507865-A1-E3",
+      "approach_id": "P507865-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 245,
+      "char_start": 62599,
+      "char_end": 62741,
+      "sentence": "Shiksha Setu, the state's EMIS, will be enhanced to align with\r\nthe Vidya Samiksha Kendra guidelines issued by the Ministry of Education, GoI.",
+      "practice": "Enhanced Shiksha Setu EMIS tracking learning outcomes and dropout early warning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: Shiksha Setu EMIS platform | Not routine: dropout early-warning analytics | Adoption: 'will be enhanced'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Shiksha Setu EMIS | Innovative: dropout early-warning analytics | Category: technological system",
+      "keywords_hit": "early warning;information system;management information system",
+      "innovation_cues": "early-warning;scale-up",
+      "innovation_basis": "New process: EMIS dropout early-warning and outcome tracking - cue: 'early warning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    },
+    {
+      "row_id": "P507865-A1-E4",
+      "approach_id": "P507865-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 246,
+      "char_start": 62742,
+      "char_end": 62932,
+      "sentence": "Enhancements will include: (i) tracking of\r\nstudent learning outcomes data collected through periodic formative assessments, annual summative assessments, and\r\nother state level assessments;",
+      "practice": "Enhanced Shiksha Setu EMIS tracking learning outcomes and dropout early warning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: Shiksha Setu EMIS platform | Not routine: dropout early-warning analytics | Adoption: 'will be enhanced'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Shiksha Setu EMIS | Innovative: dropout early-warning analytics | Category: technological system",
+      "keywords_hit": "early warning;information system;management information system",
+      "innovation_cues": "early-warning;scale-up",
+      "innovation_basis": "New process: EMIS dropout early-warning and outcome tracking - cue: 'early warning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    },
+    {
+      "row_id": "P507865-A1-E5",
+      "approach_id": "P507865-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U38",
+      "para_no": null,
+      "sentence_position": 247,
+      "char_start": 62933,
+      "char_end": 63096,
+      "sentence": "(ii) monitoring of student attendance, migration, and transfers to help detect early warning\r\nsigns of potential dropouts and enabling targeted support mechanisms;",
+      "practice": "Enhanced Shiksha Setu EMIS tracking learning outcomes and dropout early warning",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: Shiksha Setu EMIS platform | Not routine: dropout early-warning analytics | Adoption: 'will be enhanced'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: Shiksha Setu EMIS | Innovative: dropout early-warning analytics | Category: technological system",
+      "keywords_hit": "early warning;information system;management information system",
+      "innovation_cues": "early-warning;scale-up",
+      "innovation_basis": "New process: EMIS dropout early-warning and outcome tracking - cue: 'early warning'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    },
+    {
+      "row_id": "P507865-A1-E6",
+      "approach_id": "P507865-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 6,
+      "project_id": "P507865",
+      "doc_id": "40076197",
+      "doc_type": "PAD",
+      "doc_date": "2025-12-11",
+      "file_name": "P507865_PAD_2025-12-11_40076197.txt",
+      "unit_id": "U42",
+      "para_no": null,
+      "sentence_position": 267,
+      "char_start": 68134,
+      "char_end": 68330,
+      "sentence": "(iii) enhancing community outreach and\r\nparental engagement; and (iv) implementing a digitized system of student and household records to support mobilization,\r\noutreach, and beneficiary tracking.",
+      "practice": "Digitized student and household records for out-of-school mobilization and tracking",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Primary Education",
+      "extractor_reason": "Digital core: digitized student-household records | Not routine: links records to outreach tracking | Adoption: 'implementing'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digitized student-household records | Innovative: links records to out-of-school outreach tracking | Category: digital registry tool",
+      "keywords_hit": "survey",
+      "innovation_cues": "mainstream;mainstreaming;pilot",
+      "innovation_basis": "Digital records linked to outreach and beneficiary tracking for out-of-school adolescents",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "71d0426f"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 150,
+      "char_start": 37560,
+      "char_end": 37797,
+      "sentence": "In addition, the state has launched Shiksha Setu, a data management system that integrates academic and\r\nadministrative data from various sources, leveraging the UDISE+ database to monitor service delivery across all\r\ngovernment schools.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Shiksha Setu integrated school data management platform",
+      "reason": "reject: State-launched Shiksha Setu described as existing context, not project-financed",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: integrated school data platform tracking attendance, migration, performance - cue: 'data management system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "State-launched Shiksha Setu described as existing context, not project-financed",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1741
+        }
+      ]
+    },
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 268,
+      "char_start": 68331,
+      "char_end": 68553,
+      "sentence": "For adolescents aged 15-19, the project will pilot interventions linked to: (i) providing\r\nremediation support through bridge programs related to second chance education, including open schooling for\r\nelementary and above;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Psychometric assessments for competency-based selection into vocational training",
+      "reason": "reject: Psychometric assessment described with no digital tool or system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New service: psychometric competency-based vocational matching - cue: 'pilot'",
+      "innovation_cues": "mainstream;mainstreaming;pilot",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Psychometric assessment described with no digital tool or system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1450
+        }
+      ]
+    },
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 659,
+      "char_start": 159267,
+      "char_end": 159642,
+      "sentence": "PMU aggregates and reports the data\r\nCollection\r\nResponsibility for Data\r\n                          PMU\r\nCollection\r\nIntroduction of platforms for improved inclusion and delivery of adolescent centric services (Cumulative) (Number)\r\n                          This indicator will track the setting up of platforms to deliver life skills education to out-of-school adolescents.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Pilot adolescent service platforms identifying out-of-school adolescents",
+      "reason": "reject: Adolescent clubs and community platforms are physical delivery, MIS only reports",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: piloted platforms identify out-of-school adolescents - cue: 'pilots'",
+      "innovation_cues": "pilots;scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Adolescent clubs and community platforms are physical delivery, MIS only reports",
+          "reject_code": "not_digital",
+          "context_chars": 2246
+        }
+      ]
+    },
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 275,
+      "char_start": 69812,
+      "char_end": 70140,
+      "sentence": "(ii)\r\ndevelopment and operation of a management information system (MIS) for DWCD programs, which will be linked to\r\n\r\n7 The SAG is a GoI scheme that focuses on creating a supportive environment, improving life skills, health, and nutritional status, and imparting\r\nvocational skills for their overall socioeconomic empowerment.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DWCD program MIS linked to Shiksha Setu and Poshan Tracker",
+      "reason": "reject: final check round 1: common - Digital: DWCD MIS tracking beneficiaries across programs | Before 2019: beneficiary MIS/registries standard in WBG social-sector projects (e.g. India ICDS, social protection MIS)",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: interoperable MIS across ECCE-adolescent programs - cue: 'MIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: DWCD MIS | Innovative: cross-system interoperability | Category: technological system",
+          "reject_code": "",
+          "context_chars": 1257
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: DWCD MIS tracking beneficiaries across programs | Before 2019: beneficiary MIS/registries standard in WBG social-sector projects (e.g. India ICDS, social protection MIS)",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 364,
+      "char_start": 87673,
+      "char_end": 87839,
+      "sentence": "Moreover, the MIS to be designed for DWCD will be able to track all beneficiaries,\r\nsupported through the various programs targeting adolescents, women, and children.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "DWCD MIS tracking adolescent, women and child beneficiaries",
+      "reason": "reject: final check round 1: common - Digital: DWCD MIS tracking beneficiaries across programs | Before 2019: beneficiary MIS/registries standard in WBG social-sector projects (e.g. India ICDS, social protection MIS)",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New product: cross-programme beneficiary tracking MIS",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: DWCD beneficiary MIS | Innovative: unifies multiple programme caseloads | Category: technological; overlaps A6",
+          "reject_code": "",
+          "context_chars": 1365
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: DWCD MIS tracking beneficiaries across programs | Before 2019: beneficiary MIS/registries standard in WBG social-sector projects (e.g. India ICDS, social protection MIS)",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "40076197",
+      "doc_type": "PAD",
+      "position": 361,
+      "char_start": 87239,
+      "char_end": 87412,
+      "sentence": "The project will provide technical\r\nsupport to strengthen and upgrade the current EMIS with a dashboard that will generate dynamic reports for timely\r\ndecisions by the DoSE.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "EMIS dashboard generating dynamic reports for education decisions",
+      "reason": "reject: final check round 1: common - Digital: EMIS dashboard with dynamic reports and quality checks | Before 2019: EMIS dashboards routine in WBG education operations (e.g. India, Vietnam EMIS upgrades)",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: live EMIS dashboard with dynamic reporting and data quality checks",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "revise",
+          "reason": "Digital core: EMIS dashboard | Innovative: dynamic reports plus data quality checks | Category: technological; routine upgrade risk",
+          "reject_code": "",
+          "context_chars": 1365
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: EMIS dashboard with dynamic reports and quality checks | Before 2019: EMIS dashboards routine in WBG education operations (e.g. India, Vietnam EMIS upgrades)",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 10,
+    "input_tokens": 31155,
+    "cached_tokens": 19584,
+    "cache_write_tokens": 0,
+    "output_tokens": 3374,
+    "seconds": 27.4,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0135
+  }
+}

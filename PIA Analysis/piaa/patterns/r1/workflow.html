@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><title>Pattern workflow r1</title>
+<style>body{font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;color:#1b2430;max-width:900px;margin:30px auto;padding:0 20px}
+code{background:#eef1f5;padding:1px 4px;border-radius:3px}.note{background:#eef6ff;border-left:4px solid #2f6fed;padding:8px 12px;border-radius:0 6px 6px 0}
+.warn{background:#fffbeb;border-left:4px solid #d97706;padding:8px 12px;border-radius:0 6px 6px 0}</style></head>
+<body>
+<h1>Pattern workflow r1 - replication &amp; scaling</h1>
+<p class="note">Runs once over the whole review database, not per project. It answers: which digital &amp; AI approaches are used again in other projects, how often, in which sectors, regions and years.</p>
+<h2>What counts as "the same approach"</h2>
+<p>Approach names are generated per project and are not comparable on their own. Two approaches are matched on three things <b>together</b>:</p>
+<ol>
+<li><b>Name</b> - TF-IDF cosine similarity of the approach names (weight 0.40).</li>
+<li><b>Evidence</b> - the original evidence sentence (weight 0.10) and the description the model wrote from that evidence (weight 0.25). Evidence sentences come from different documents and rarely share wording, so the description carries most of the "what it does" signal.</li>
+<li><b>Theme</b> - same level-2 theme = 1.0, same level-1 theme = 0.5, otherwise 0 (weight 0.25).</li>
+</ol>
+<p>Pairs with a combined score between 0.28 and 0.40 are sent to the model, which decides whether they are the same approach (step <code>confirm</code>; skipped when no API key is configured). Calibrated on the current database: at 0.34 the groups read as the same approach (CAPI surveys, EMIS, DHIS2, census cartography from satellite imagery); at 0.30 groups start to mix related but different tools.</p>
+<h2>Patterns and replication</h2>
+<ol>
+<li>Approaches are processed in order of their project's approval date.</li>
+<li>An approach joins an existing pattern when its mean combined score to the pattern's members is at least <code>cluster.threshold</code> (one approach per project per pattern); otherwise it starts a new pattern.</li>
+<li>A pattern spanning two or more projects is a <b>replicated approach</b>. Its earliest project is the <b>origin</b>; every later project is one <b>replication</b> (reuse event).</li>
+<li>Replication is reported at portfolio level: by pattern, by sector of the adopting project (major sector), by region and by fiscal year (first use vs reuse).</li>
+</ol>
+<h2>Scaling</h2>
+<p class="warn"><b>Provisional.</b> Inside a pattern, a later adoption in a country that already used the approach is a scaling candidate (the approach is extended in place); a later adoption in a new country is replication (spread). Commitment growth is shown as a supporting signal. The definition will be replaced once the scaling methodology is agreed.</p>
+</body></html>

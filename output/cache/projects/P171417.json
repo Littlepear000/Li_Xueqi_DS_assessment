@@ -1,0 +1,2186 @@
+{
+  "project_id": "P171417",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "642ceb41",
+  "started_at": "2026-11-07T03:28:46Z",
+  "ended_at": "2026-11-07T03:29:28Z",
+  "input_fingerprint": "bea5009deae3f492",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 31,
+  "innovative": "Yes",
+  "n_approaches": 4,
+  "approaches": [
+    {
+      "approach_id": "P171417-A1",
+      "project_id": "P171417",
+      "name": "integrated digital tax and identity platforms for online public services",
+      "description": "The project funds integrated taxpayer databases, e-filing, e-payment and e-appeal portals, and a single identity platform giving citizens and firms online access to government services. Practices: TA-financed ICT investments, database integration and risk-based audit capacity; Integrated taxpayer data across three tax authorities with third-party links; e-filing, e-payment and e-appeal portals for taxpayers; DLI on citizens accessing services via digital platforms; single identity platform for online citizen services; gender-disaggregated tracking of citizens' access to digital government services via portal, call center, apps and on-counter channels.",
+      "why_innovative": "Digital core: TA-funded database integration and risk-based audit systems | New: cross-agency data integration build | Adoption: 'will finance' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "813071603677623090",
+        "doc_type": "PAD",
+        "doc_date": "2020-09-13",
+        "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+        "char_start": 36733,
+        "char_end": 36967,
+        "text": "The technical assistance (TA) component will finance specific expenditures for ICT investments and institutional capacity building in critical areas including business process reengineering, database integration, and risk-based audit.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 43319,
+          "char_end": 43440,
+          "text": "(iv) integration of taxpayers’ data across three (3 ) tax authorities (selected taxes) and linkage with third party data;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 44290,
+          "char_end": 44452,
+          "text": "(iv) development of e-service capabilities such as e-procurement and e- payments to vendors, e-filing and e-payment of taxes and e-submission of taxpayer appeals;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 43994,
+          "char_end": 44083,
+          "text": "(ii) mapping, redesign and automation of business processes in three (3) tax authorities;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 50251,
+          "char_end": 50347,
+          "text": "Citizens accessing government 45 This DLI measures the impact of digitizing government services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 50348,
+          "char_end": 50517,
+          "text": "The DLI services through digital platforms. complements the efforts of the federal government to establish a Pakistan Business Portal and an e-payment system (Scalable).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 72940,
+          "char_end": 74138,
+          "text": "Reduction (Text) Strategy (DRFS) Strengthened cash Cash Management Cash forecasting reports Cash forecasting reports Cash forecasting reports management function of GoPb does not have cash Cash Management Unit Policy and Accounting published on quarterly published on quarterly published on quarterly management policy. established in FD Framework approved by Government of Punjab (Text) basis by FD basis by FD basis by FD Punjab Cabinet Increased use of digital technology for delivery of selected public services PPRA publishes SBDs, Operational budget and revises Punjab expenditure processed through DLI 3 e-procurement system Procurement Rules 2014 e-Procurement piloted 15% 30% 50% does not exist. in one department. e-procurement (Text) to support e- procurement Additional services provided to citizens and firms online, 10 services are provided 15 services provided to 20 services provided to 30 services provided to 40 services provided to 50 Services provided to through a single identity to citizens online citizens online citizens online citizens online citizens online citizens and firms online platform (Text) Citizen satisfaction with online services (Percentage) 50.00 50.00 55.00",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 94210,
+          "char_end": 94517,
+          "text": "Data source/ Agency PITB Verification Entity TPVA Review of system generated reports on public services provided to citizens, including women (based on gender segregated data), through digital means - including online portal, call center, mobile phone-based services (APPs), and on-counter digital services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 94518,
+          "char_end": 94796,
+          "text": "For assessing female beneficiaries targets (PDO Indicator), the numerator is number of females who benefit Procedure from government’s digital platforms for public service, and the denominator is total number of persons/citizens who have accessed digital platforms for services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 94121,
+          "char_end": 94209,
+          "text": "Description Indicator supports enhanced citizens’ access to digital government services.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: database integration systems are the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Central Government (Central Agencies)",
+        "code": "",
+        "confidence": null,
+        "rationale": "TA-financed ICT and audit capacity for central tax/audit agencies",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174484",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicated_by",
+          "evidence": "roved on June 23, 2020. 10 Actions to Strengthen Performance for Inclusive and Responsive Education (ASPIRE, P173399) and Locust Emergenc y and Food Security (LEAFS, P174314), approved on July 31, 2020. 11 Community Assets and Reviving Employment (CARE, P174368), Crisis-Resilient Social Protection (P174484), Karachi Solid Waste Emergency and Efficiency Project (SWEEP, P173021), Sindh Resilien ce A"
+        },
+        {
+          "other_project_id": "P162302",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "reengineering of business processes through a clearly articulated results chain, rather than focusing on inputs. It will also fund specific expenditures to provide substantial investments to modernize the ICT 20For example, the ongoing KP Revenue Mobilization and Public Resource Management Program (P162302) supports the province’s efforts to improve cash management, Treasury Single Account extensi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: TA-funded database integration | Innovative: cross-agency data build | Category: Technological systems",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital core: TA-funded database integration and risk-based audit systems | New: cross-agency data integration build | Adoption: 'will finance'",
+      "innovation_cues": [
+        "PforR",
+        "mobile money",
+        "piloted"
+      ]
+    },
+    {
+      "approach_id": "P171417-A2",
+      "project_id": "P171417",
+      "name": "inter-operability framework integrating government databases",
+      "description": "Project develops framework and rules enabling integration of government databases",
+      "why_innovative": "New organizational practice: cross-agency database integration rules - cue: 'inter-operability' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "813071603677623090",
+        "doc_type": "PAD",
+        "doc_date": "2020-09-13",
+        "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+        "char_start": 45650,
+        "char_end": 45786,
+        "text": "(ii) development of a comprehensive inter-operability framework and associated rules and regulations to enable integration of databases;",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: enables data sharing across agencies",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Central Government (Central Agencies)",
+        "code": "",
+        "confidence": null,
+        "rationale": "Framework for integrating government databases at central level",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174484",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicated_by",
+          "evidence": "roved on June 23, 2020. 10 Actions to Strengthen Performance for Inclusive and Responsive Education (ASPIRE, P173399) and Locust Emergenc y and Food Security (LEAFS, P174314), approved on July 31, 2020. 11 Community Assets and Reviving Employment (CARE, P174368), Crisis-Resilient Social Protection (P174484), Karachi Solid Waste Emergency and Efficiency Project (SWEEP, P173021), Sindh Resilien ce A"
+        },
+        {
+          "other_project_id": "P162302",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "reengineering of business processes through a clearly articulated results chain, rather than focusing on inputs. It will also fund specific expenditures to provide substantial investments to modernize the ICT 20For example, the ongoing KP Revenue Mobilization and Public Resource Management Program (P162302) supports the province’s efforts to improve cash management, Treasury Single Account extensi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: inter-operability framework for databases | Innovative: cross-agency data integration rules | Category: multi-agency data sharing",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New organizational practice: cross-agency database integration rules - cue: 'inter-operability'",
+      "innovation_cues": []
+    },
+    {
+      "approach_id": "P171417-A3",
+      "project_id": "P171417",
+      "name": "shared integrated tax data warehouse linked by CNIC",
+      "description": "Provincial tax authorities link their databases and third-party data into a shared warehouse where taxpayer records are searchable by CNIC, name or STN. Practices: integrated tax database linking six authorities; shared tax data warehouse accessible by CNIC; integrated tax data warehouse linking three provincial tax authorities.",
+      "why_innovative": "New process: inter-agency tax data sharing - cue: 'linkages' | category Collaborative; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "813071603677623090",
+        "doc_type": "PAD",
+        "doc_date": "2020-09-13",
+        "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+        "char_start": 72940,
+        "char_end": 74138,
+        "text": "Reduction (Text) Strategy (DRFS) Strengthened cash Cash Management Cash forecasting reports Cash forecasting reports Cash forecasting reports management function of GoPb does not have cash Cash Management Unit Policy and Accounting published on quarterly published on quarterly published on quarterly management policy. established in FD Framework approved by Government of Punjab (Text) basis by FD basis by FD basis by FD Punjab Cabinet Increased use of digital technology for delivery of selected public services PPRA publishes SBDs, Operational budget and revises Punjab expenditure processed through DLI 3 e-procurement system Procurement Rules 2014 e-Procurement piloted 15% 30% 50% does not exist. in one department. e-procurement (Text) to support e- procurement Additional services provided to citizens and firms online, 10 services are provided 15 services provided to 20 services provided to 30 services provided to 40 services provided to 50 Services provided to through a single identity to citizens online citizens online citizens online citizens online citizens online citizens and firms online platform (Text) Citizen satisfaction with online services (Percentage) 50.00 50.00 55.00",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 80372,
+          "char_end": 80690,
+          "text": "Baseline is database as reported on July 24, 2020 Review of source documents, data, Source dataware house and Supporting integration of documents FD, PRA, ETNCD, BoR, Database integration in tax administration Annual system walk-through. databases and system PITB Data accessible with reports taxpayer’s CNIC/Name/STN.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 91530,
+          "char_end": 91597,
+          "text": "DLR 7.5: Functional data warehouse for 3 tax authorities of Punjab.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 91598,
+          "char_end": 91763,
+          "text": "FY2024/25 DLR 7.6: Punjab tax authorities have access to 5.00 shared data with links to third parties (total 10 for PRA), accessible with taxpayer’s CNIC/Name/STN. .",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 90889,
+          "char_end": 91529,
+          "text": "FY2020/21 DLR 7.1: Plan for database/ systems integration 5.00 approved by Punjab Cabinet FY2021/22 DLR 7.2: PRA’s linkages with 3 third parties’ 10.00 $ 4M for linkage with 1 third party, databases operational and thereafter $3M for each additional third party up to a maximum of $6M FY2022/23 DLR 7.3: PRA’s linkages with 6 (cumulative) third 10.00 $ 4M for linkage with 1 additional parties' databases operational. third party database, and thereafter $ 3 for each additional third party upto a maximum of $6M FY2023/24 DLR 7.4: Finance Department confirms readiness 7.00 of BoR and ETNCD databases (selected taxes) for linkage with PRA;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Collaborative",
+        "code": "COLL",
+        "confidence": null,
+        "rationale": "Collaborative: multi-agency data sharing is the mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "Punjab provincial tax database linking six authorities",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174484",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicated_by",
+          "evidence": "roved on June 23, 2020. 10 Actions to Strengthen Performance for Inclusive and Responsive Education (ASPIRE, P173399) and Locust Emergenc y and Food Security (LEAFS, P174314), approved on July 31, 2020. 11 Community Assets and Reviving Employment (CARE, P174368), Crisis-Resilient Social Protection (P174484), Karachi Solid Waste Emergency and Efficiency Project (SWEEP, P173021), Sindh Resilien ce A"
+        },
+        {
+          "other_project_id": "P162302",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "reengineering of business processes through a clearly articulated results chain, rather than focusing on inputs. It will also fund specific expenditures to provide substantial investments to modernize the ICT 20For example, the ongoing KP Revenue Mobilization and Public Resource Management Program (P162302) supports the province’s efforts to improve cash management, Treasury Single Account extensi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: shared tax database | Innovative: cross-agency taxpayer data links | Category: Collaborative",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: inter-agency tax data sharing - cue: 'linkages'",
+      "innovation_cues": [
+        "piloted"
+      ]
+    },
+    {
+      "approach_id": "P171417-A4",
+      "project_id": "P171417",
+      "name": "automated tax processes and phased e-procurement in Punjab",
+      "description": "Punjab simplifies and automates registration, payment, refunds, appeals and feedback across eight taxes, and pilots then scales e-procurement across departments. Practices: automated business process re-engineering of tax administration; e-procurement system piloted and rolled out in Punjab departments.",
+      "why_innovative": "New process: automated end-to-end tax business processes - cue: 'automated' | category Operational; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "813071603677623090",
+        "doc_type": "PAD",
+        "doc_date": "2020-09-13",
+        "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+        "char_start": 75358,
+        "char_end": 75431,
+        "text": "MOU for data sharing warehouse for 3 tax for PRA), authorities of Punjab.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 75432,
+          "char_end": 76445,
+          "text": "Taxpayers registration, payment (streamlining BP's of taxpayer Punjab Cabinet approves other payment options, Selected BPs automated Monitoring of arrears registration, payment, Key business processes for tax the plan for BPR and incl. timely transfer of Taxpayers’ appeal in few tax authorities (e- and processing of arrears monitoring and administration simplified and feedback system for tax revenue collections to process simplified and payment for 8 taxes of refunds simplified and refunds, appeals, litigation automated (Text) administration in the Treasury), and automated Punjab) automated and feedback systems Punjab. feedback system simplified and automated. simplified and automated Substantial difference between official and Review of legal Complete properties’ Complete properties’ Enhanced capacity for revenue Complete properties’ market values of framework and market valuation studies market valuation studies Establish a property market valuation studies generation from real estate properties;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 85483,
+          "char_end": 85652,
+          "text": "PPRA pilots e-procurement in one 10.00 department Page 26 of 43 The World Bank Punjab Resource Improvement and Digital Effectiveness Program (P171417) FY2022/23 DLR 3.4.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 85653,
+          "char_end": 86257,
+          "text": "Implementing Entity processes 15% of 5.00 operational budget expenditures through e- procurement FY2023/24 DLR 3.5.Implementing Entity processes 5.00 $2.5M for 20%, and thereafter cumulatively 30% of operational budget $0.25M per additional 1%, with expenditures through e-procurement maximum up to $2.5M FY2024/25 DLR 3.6.Implementing Entity processes 5.00 $2.5M for 40%, and thereafter cumulatively 50% of operational budget $0.25M per additional 1%, with expenditures through e-procurement maximum up to $2.5M _TBL I DL _M X ATRI DLI 4 Citizens accessing government services through digital platforms.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "813071603677623090",
+          "doc_type": "PAD",
+          "doc_date": "2020-09-13",
+          "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+          "char_start": 85052,
+          "char_end": 85283,
+          "text": "Type of DLI Scalability Unit of Measure Total Allocated Amount (USD) As % of Total Financing Amount Intermediate Outcome Yes Text 35.00 13.00 Period Value Allocated Amount (USD) Formula Baseline e-procurement system does not exist.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Operational",
+        "code": "OPER",
+        "confidence": null,
+        "rationale": "Operational: re-engineers tax administration processes",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Sub-National Government",
+        "code": "",
+        "confidence": null,
+        "rationale": "Automates Punjab provincial tax administration processes",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P174484",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.9,
+          "direction": "replicated_by",
+          "evidence": "roved on June 23, 2020. 10 Actions to Strengthen Performance for Inclusive and Responsive Education (ASPIRE, P173399) and Locust Emergenc y and Food Security (LEAFS, P174314), approved on July 31, 2020. 11 Community Assets and Reviving Employment (CARE, P174368), Crisis-Resilient Social Protection (P174484), Karachi Solid Waste Emergency and Efficiency Project (SWEEP, P173021), Sindh Resilien ce A"
+        },
+        {
+          "other_project_id": "P162302",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "reengineering of business processes through a clearly articulated results chain, rather than focusing on inputs. It will also fund specific expenditures to provide substantial investments to modernize the ICT 20For example, the ongoing KP Revenue Mobilization and Public Resource Management Program (P162302) supports the province’s efforts to improve cash management, Treasury Single Account extensi"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: automated tax BPs | Innovative: end-to-end automation of 8 taxes | Category: Operational",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: automated end-to-end tax business processes - cue: 'automated'",
+      "innovation_cues": [
+        "pilots"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P171417",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "guid": "813071603677623090",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:28:46Z",
+      "ended_at": "2026-11-07T03:28:54Z",
+      "status": "ok",
+      "note": "10 document(s) fetched from the WBG API; 15 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:28:54Z",
+      "ended_at": "2026-11-07T03:28:54Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-10-22, status Closed)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:28:54Z",
+      "ended_at": "2026-11-07T03:28:58Z",
+      "status": "ok",
+      "note": "31 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 31,
+        "tier": "High",
+        "by_dimension": {
+          "enabling_technologies": 6,
+          "innovation_types": 11,
+          "enabling_processes": 3,
+          "innovation": 3,
+          "innovation_cycle": 7,
+          "results_based_management": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:28:58Z",
+      "ended_at": "2026-11-07T03:28:58Z",
+      "status": "ok",
+      "note": "PAD 2020-09-13 (P171417_PAD_2020-09-13_813071603677623090.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P171417",
+            "doc_type": "PAD",
+            "doc_date": "2020-09-13",
+            "guid": "813071603677623090",
+            "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:28:58Z",
+      "ended_at": "2026-11-07T03:28:58Z",
+      "status": "ok",
+      "note": "85 reading units (16 numbered paragraphs) from 727 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 85
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:28:58Z",
+      "ended_at": "2026-11-07T03:29:00Z",
+      "status": "ok",
+      "note": "46 of 85 units carry a digital / AI cue (13 also an innovation cue); 4 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 46,
+        "dropped": 0,
+        "legal_condition": 4,
+        "with_innovation_cue": 13
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:29:00Z",
+      "ended_at": "2026-11-07T03:29:11Z",
+      "status": "ok",
+      "note": "38 candidate practices from 46 units in 5 calls",
+      "llm_calls": 5,
+      "input_chars": 150215,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 789,
+          "cached_tokens": 32249,
+          "cache_write_tokens": 0,
+          "output_tokens": 6059,
+          "seconds": 37.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0077
+        },
+        "extracted": 38
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:29:11Z",
+      "ended_at": "2026-11-07T03:29:18Z",
+      "status": "ok",
+      "note": "19 accepted, 19 rejected (generic 7, not_digital 4, background_or_other_programme 3, not_innovative 2, unsupported_by_evidence 2, legal_or_compliance_condition 1); 2 sent to the expanded-context round; 5 calls",
+      "llm_calls": 5,
+      "input_chars": 206312,
+      "output": {
+        "usage": {
+          "calls": 5,
+          "input_tokens": 28662,
+          "cached_tokens": 14848,
+          "cache_write_tokens": 0,
+          "output_tokens": 2821,
+          "seconds": 18.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0121
+        },
+        "accepted": 19,
+        "rejected": 19,
+        "expanded": 2,
+        "reject_codes": {
+          "background_or_other_programme": 3,
+          "generic": 7,
+          "not_digital": 4,
+          "not_innovative": 2,
+          "unsupported_by_evidence": 2,
+          "legal_or_compliance_condition": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:29:18Z",
+      "ended_at": "2026-11-07T03:29:21Z",
+      "status": "ok",
+      "note": "19 of 19 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 4012,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 848,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 624,
+          "seconds": 3.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.001
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:29:21Z",
+      "ended_at": "2026-11-07T03:29:24Z",
+      "status": "ok",
+      "note": "19 approaches -> 7 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 4025,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 868,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 303,
+          "seconds": 2.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "merged": 12,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:29:24Z",
+      "ended_at": "2026-11-07T03:29:27Z",
+      "status": "ok",
+      "note": "7 approaches checked in 1 call(s): 4 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 3 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 13610,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 2409,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 439,
+          "seconds": 3.4,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0013
+        },
+        "dropped": 3
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:29:27Z",
+      "ended_at": "2026-11-07T03:29:27Z",
+      "status": "ok",
+      "note": "4 approaches (4 applied), 21 evidence rows, 26 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:29:27Z",
+      "ended_at": "2026-11-07T03:29:28Z",
+      "status": "ok",
+      "note": "2 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P174484",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.9,
+            "direction": "replicated_by",
+            "evidence": "roved on June 23, 2020. 10 Actions to Strengthen Performance for Inclusive and Responsive Education (ASPIRE, P173399) and Locust Emergenc y and Food Security (LEAFS, P174314), approved on July 31, 2020. 11 Community Assets and Reviving Employment (CARE, P174368), Crisis-Resilient Social Protection (P174484), Karachi Solid Waste Emergency and Efficiency Project (SWEEP, P173021), Sindh Resilien ce A"
+          },
+          {
+            "other_project_id": "P162302",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "reengineering of business processes through a clearly articulated results chain, rather than focusing on inputs. It will also fund specific expenditures to provide substantial investments to modernize the ICT 20For example, the ongoing KP Revenue Mobilization and Public Resource Management Program (P162302) supports the province’s efforts to improve cash management, Treasury Single Account extensi"
+          }
+        ],
+        "store_size": 100
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P171417-A1-E1",
+      "approach_id": "P171417-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U27",
+      "para_no": 19,
+      "sentence_position": 216,
+      "char_start": 36733,
+      "char_end": 36967,
+      "sentence": "The technical assistance (TA) component will finance specific expenditures for ICT investments and institutional capacity building in critical areas including business process reengineering, database integration, and risk-based audit.",
+      "practice": "TA-financed ICT investments, database integration and risk-based audit capacity",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: integrated databases and audit systems | Not routine: TA-funded data integration build | Adoption: 'will finance'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: TA-funded database integration | Innovative: cross-agency data build | Category: Technological systems",
+      "keywords_hit": "upskill",
+      "innovation_cues": "PforR",
+      "innovation_basis": "Digital core: TA-funded database integration and risk-based audit systems | New: cross-agency data integration build | Adoption: 'will finance'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E2",
+      "approach_id": "P171417-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U30",
+      "para_no": null,
+      "sentence_position": 273,
+      "char_start": 43319,
+      "char_end": 43440,
+      "sentence": "(iv) integration of taxpayers’ data across three (3 ) tax authorities (selected taxes) and linkage with third party data;",
+      "practice": "Integrated taxpayer data across three tax authorities with third-party links",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: integrated taxpayer data platform | Not routine: cross-agency data linkage for compliance | Adoption: 'Activities include the support for'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: cross-authority taxpayer data integration | Innovative: third-party data linkage for compliance | Category: Technological data system",
+      "keywords_hit": "cloud;digital technolog;digitization of;geospatial;mobile money",
+      "innovation_cues": "mobile money",
+      "innovation_basis": "New process: cross-authority taxpayer data integration - cue: 'digitization of'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E3",
+      "approach_id": "P171417-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 279,
+      "char_start": 44290,
+      "char_end": 44452,
+      "sentence": "(iv) development of e-service capabilities such as e-procurement and e- payments to vendors, e-filing and e-payment of taxes and e-submission of taxpayer appeals;",
+      "practice": "e-filing, e-payment and e-appeal portals for taxpayers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: e-filing/e-payment tax portals | Not routine: replaces paper tax processes | Adoption: 'development of e-service capabilities'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-filing/e-payment tax portals | Innovative: online tax filing, payment, appeals | Category: digital service channels",
+      "keywords_hit": "automation;e-procurement;e-service;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: online tax filing, payment and appeal channels - cue: 'e-service'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E4",
+      "approach_id": "P171417-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U31",
+      "para_no": null,
+      "sentence_position": 277,
+      "char_start": 43994,
+      "char_end": 44083,
+      "sentence": "(ii) mapping, redesign and automation of business processes in three (3) tax authorities;",
+      "practice": "e-filing, e-payment and e-appeal portals for taxpayers",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: e-filing/e-payment tax portals | Not routine: replaces paper tax processes | Adoption: 'development of e-service capabilities'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-filing/e-payment tax portals | Innovative: online tax filing, payment, appeals | Category: digital service channels",
+      "keywords_hit": "automation;e-procurement;e-service;mapping",
+      "innovation_cues": "",
+      "innovation_basis": "New service: online tax filing, payment and appeal channels - cue: 'e-service'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E5",
+      "approach_id": "P171417-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U35",
+      "para_no": null,
+      "sentence_position": 320,
+      "char_start": 50251,
+      "char_end": 50347,
+      "sentence": "Citizens accessing government 45 This DLI measures the impact of digitizing government services.",
+      "practice": "DLI on citizens accessing services via digital platforms",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: digital government service platforms | Not routine: usage-based DLI on digital services | Adoption: 'DLI measures the impact of digitizing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital service platform usage metric | Innovative: DLI rewards citizen digital uptake | Category: results-based disbursement",
+      "keywords_hit": "digital platform;digital technolog;e-procurement;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New process: results-linked disbursement on digital service usage - cue: 'DLI'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E6",
+      "approach_id": "P171417-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U35",
+      "para_no": null,
+      "sentence_position": 321,
+      "char_start": 50348,
+      "char_end": 50517,
+      "sentence": "The DLI services through digital platforms. complements the efforts of the federal government to establish a Pakistan Business Portal and an e-payment system (Scalable).",
+      "practice": "DLI on citizens accessing services via digital platforms",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: digital government service platforms | Not routine: usage-based DLI on digital services | Adoption: 'DLI measures the impact of digitizing'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: digital service platform usage metric | Innovative: DLI rewards citizen digital uptake | Category: results-based disbursement",
+      "keywords_hit": "digital platform;digital technolog;e-procurement;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New process: results-linked disbursement on digital service usage - cue: 'DLI'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E7",
+      "approach_id": "P171417-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 484,
+      "char_start": 72940,
+      "char_end": 74138,
+      "sentence": "Reduction (Text) Strategy (DRFS) Strengthened cash Cash Management Cash forecasting reports Cash forecasting reports Cash forecasting reports management function of GoPb does not have cash Cash Management Unit Policy and Accounting published on quarterly published on quarterly published on quarterly management policy. established in FD Framework approved by Government of Punjab (Text) basis by FD basis by FD basis by FD Punjab Cabinet Increased use of digital technology for delivery of selected public services PPRA publishes SBDs, Operational budget and revises Punjab expenditure processed through DLI 3 e-procurement system Procurement Rules 2014 e-Procurement piloted 15% 30% 50% does not exist. in one department. e-procurement (Text) to support e- procurement Additional services provided to citizens and firms online, 10 services are provided 15 services provided to 20 services provided to 30 services provided to 40 services provided to 50 Services provided to through a single identity to citizens online citizens online citizens online citizens online citizens online citizens and firms online platform (Text) Citizen satisfaction with online services (Percentage) 50.00 50.00 55.00",
+      "practice": "single identity platform for online citizen services",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: single identity services platform | Not routine: consolidates fragmented online services | Adoption: 'services provided online'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: single identity platform | Innovative: consolidates 10-50 services online | Category: Technological",
+      "keywords_hit": "digital technolog;e-procurement;online platform;online service",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New service: single-sign-on portal for government services - cue: 'single identity platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E8",
+      "approach_id": "P171417-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U66",
+      "para_no": null,
+      "sentence_position": 549,
+      "char_start": 94210,
+      "char_end": 94517,
+      "sentence": "Data source/ Agency PITB Verification Entity TPVA Review of system generated reports on public services provided to citizens, including women (based on gender segregated data), through digital means - including online portal, call center, mobile phone-based services (APPs), and on-counter digital services.",
+      "practice": "gender-disaggregated tracking of citizens' access to digital government services via portal, call center, apps and on-counter channels",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: portal, call center, apps | Not routine: gender-segregated access tracking | Adoption: 'supports enhanced access'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: portal/call center/apps access tracking | Innovative: gender-disaggregated digital access indicator | Category: digital service delivery",
+      "keywords_hit": "data protection;digital government;digital platform;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New measurement: gender-segregated data on digital service access across multiple channels",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E9",
+      "approach_id": "P171417-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U66",
+      "para_no": null,
+      "sentence_position": 550,
+      "char_start": 94518,
+      "char_end": 94796,
+      "sentence": "For assessing female beneficiaries targets (PDO Indicator), the numerator is number of females who benefit Procedure from government’s digital platforms for public service, and the denominator is total number of persons/citizens who have accessed digital platforms for services.",
+      "practice": "gender-disaggregated tracking of citizens' access to digital government services via portal, call center, apps and on-counter channels",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: portal, call center, apps | Not routine: gender-segregated access tracking | Adoption: 'supports enhanced access'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: portal/call center/apps access tracking | Innovative: gender-disaggregated digital access indicator | Category: digital service delivery",
+      "keywords_hit": "data protection;digital government;digital platform;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New measurement: gender-segregated data on digital service access across multiple channels",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A1-E10",
+      "approach_id": "P171417-A1",
+      "evidence_no": 10,
+      "number_of_evidence": 10,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U66",
+      "para_no": null,
+      "sentence_position": 548,
+      "char_start": 94121,
+      "char_end": 94209,
+      "sentence": "Description Indicator supports enhanced citizens’ access to digital government services.",
+      "practice": "gender-disaggregated tracking of citizens' access to digital government services via portal, call center, apps and on-counter channels",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: portal, call center, apps | Not routine: gender-segregated access tracking | Adoption: 'supports enhanced access'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: portal/call center/apps access tracking | Innovative: gender-disaggregated digital access indicator | Category: digital service delivery",
+      "keywords_hit": "data protection;digital government;digital platform;portal",
+      "innovation_cues": "",
+      "innovation_basis": "New measurement: gender-segregated data on digital service access across multiple channels",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A2-E1",
+      "approach_id": "P171417-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U32",
+      "para_no": null,
+      "sentence_position": 288,
+      "char_start": 45650,
+      "char_end": 45786,
+      "sentence": "(ii) development of a comprehensive inter-operability framework and associated rules and regulations to enable integration of databases;",
+      "practice": "inter-operability framework integrating government databases",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Central Government (Central Agencies)",
+      "extractor_reason": "Digital core: inter-operability framework for databases | Not routine: cross-agency data integration | Adoption: 'development of a comprehensive inter-operability framework'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: inter-operability framework for databases | Innovative: cross-agency data integration rules | Category: multi-agency data sharing",
+      "keywords_hit": "e-government;e-waste",
+      "innovation_cues": "",
+      "innovation_basis": "New organizational practice: cross-agency database integration rules - cue: 'inter-operability'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A3-E1",
+      "approach_id": "P171417-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U53",
+      "para_no": null,
+      "sentence_position": 484,
+      "char_start": 72940,
+      "char_end": 74138,
+      "sentence": "Reduction (Text) Strategy (DRFS) Strengthened cash Cash Management Cash forecasting reports Cash forecasting reports Cash forecasting reports management function of GoPb does not have cash Cash Management Unit Policy and Accounting published on quarterly published on quarterly published on quarterly management policy. established in FD Framework approved by Government of Punjab (Text) basis by FD basis by FD basis by FD Punjab Cabinet Increased use of digital technology for delivery of selected public services PPRA publishes SBDs, Operational budget and revises Punjab expenditure processed through DLI 3 e-procurement system Procurement Rules 2014 e-Procurement piloted 15% 30% 50% does not exist. in one department. e-procurement (Text) to support e- procurement Additional services provided to citizens and firms online, 10 services are provided 15 services provided to 20 services provided to 30 services provided to 40 services provided to 50 Services provided to through a single identity to citizens online citizens online citizens online citizens online citizens online citizens and firms online platform (Text) Citizen satisfaction with online services (Percentage) 50.00 50.00 55.00",
+      "practice": "integrated tax database linking six authorities",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: shared tax data warehouse | Not routine: breaks siloed tax databases | Adoption: 'linkages with six tax authorities'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: shared tax database | Innovative: cross-agency taxpayer data links | Category: Collaborative",
+      "keywords_hit": "digital technolog;e-procurement;online platform;online service",
+      "innovation_cues": "piloted",
+      "innovation_basis": "New process: inter-agency tax data sharing - cue: 'linkages'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A3-E2",
+      "approach_id": "P171417-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U57",
+      "para_no": null,
+      "sentence_position": 504,
+      "char_start": 80372,
+      "char_end": 80690,
+      "sentence": "Baseline is database as reported on July 24, 2020 Review of source documents, data, Source dataware house and Supporting integration of documents FD, PRA, ETNCD, BoR, Database integration in tax administration Annual system walk-through. databases and system PITB Data accessible with reports taxpayer’s CNIC/Name/STN.",
+      "practice": "shared tax data warehouse accessible by CNIC",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: shared taxpayer data warehouse | Not routine: links previously siloed databases | Adoption: 'supporting integration of databases'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: shared data warehouse | Innovative: CNIC-linked cross-agency data | Category: Collaborative",
+      "keywords_hit": "automated",
+      "innovation_cues": "",
+      "innovation_basis": "New process: cross-agency taxpayer data integration - cue: 'dataware house'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A3-E3",
+      "approach_id": "P171417-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U64",
+      "para_no": null,
+      "sentence_position": 537,
+      "char_start": 91530,
+      "char_end": 91597,
+      "sentence": "DLR 7.5: Functional data warehouse for 3 tax authorities of Punjab.",
+      "practice": "integrated tax data warehouse linking three provincial tax authorities",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: shared tax data warehouse | Not routine: cross-agency data integration | Adoption: 'Functional data warehouse'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: shared tax data warehouse | Innovative: cross-agency data integration | Category: Collaborative",
+      "keywords_hit": "data warehouse",
+      "innovation_cues": "",
+      "innovation_basis": "New arrangement: cross-agency tax data sharing via warehouse - cue: 'data sharing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A3-E4",
+      "approach_id": "P171417-A3",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U64",
+      "para_no": null,
+      "sentence_position": 538,
+      "char_start": 91598,
+      "char_end": 91763,
+      "sentence": "FY2024/25 DLR 7.6: Punjab tax authorities have access to 5.00 shared data with links to third parties (total 10 for PRA), accessible with taxpayer’s CNIC/Name/STN. .",
+      "practice": "integrated tax data warehouse linking three provincial tax authorities",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: shared tax data warehouse | Not routine: cross-agency data integration | Adoption: 'Functional data warehouse'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: shared tax data warehouse | Innovative: cross-agency data integration | Category: Collaborative",
+      "keywords_hit": "data warehouse",
+      "innovation_cues": "",
+      "innovation_basis": "New arrangement: cross-agency tax data sharing via warehouse - cue: 'data sharing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A3-E5",
+      "approach_id": "P171417-A3",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U64",
+      "para_no": null,
+      "sentence_position": 536,
+      "char_start": 90889,
+      "char_end": 91529,
+      "sentence": "FY2020/21 DLR 7.1: Plan for database/ systems integration 5.00 approved by Punjab Cabinet FY2021/22 DLR 7.2: PRA’s linkages with 3 third parties’ 10.00 $ 4M for linkage with 1 third party, databases operational and thereafter $3M for each additional third party up to a maximum of $6M FY2022/23 DLR 7.3: PRA’s linkages with 6 (cumulative) third 10.00 $ 4M for linkage with 1 additional parties' databases operational. third party database, and thereafter $ 3 for each additional third party upto a maximum of $6M FY2023/24 DLR 7.4: Finance Department confirms readiness 7.00 of BoR and ETNCD databases (selected taxes) for linkage with PRA;",
+      "practice": "integrated tax data warehouse linking three provincial tax authorities",
+      "category": "Collaborative",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: shared tax data warehouse | Not routine: cross-agency data integration | Adoption: 'Functional data warehouse'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: shared tax data warehouse | Innovative: cross-agency data integration | Category: Collaborative",
+      "keywords_hit": "data warehouse",
+      "innovation_cues": "",
+      "innovation_basis": "New arrangement: cross-agency tax data sharing via warehouse - cue: 'data sharing'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A4-E1",
+      "approach_id": "P171417-A4",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 489,
+      "char_start": 75358,
+      "char_end": 75431,
+      "sentence": "MOU for data sharing warehouse for 3 tax for PRA), authorities of Punjab.",
+      "practice": "automated business process re-engineering of tax administration",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: automated tax business processes | Not routine: replaces manual tax workflows | Adoption: 'simplified and automated'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated tax BPs | Innovative: end-to-end automation of 8 taxes | Category: Operational",
+      "keywords_hit": "automated;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated end-to-end tax business processes - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A4-E2",
+      "approach_id": "P171417-A4",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U54",
+      "para_no": null,
+      "sentence_position": 490,
+      "char_start": 75432,
+      "char_end": 76445,
+      "sentence": "Taxpayers registration, payment (streamlining BP's of taxpayer Punjab Cabinet approves other payment options, Selected BPs automated Monitoring of arrears registration, payment, Key business processes for tax the plan for BPR and incl. timely transfer of Taxpayers’ appeal in few tax authorities (e- and processing of arrears monitoring and administration simplified and feedback system for tax revenue collections to process simplified and payment for 8 taxes of refunds simplified and refunds, appeals, litigation automated (Text) administration in the Treasury), and automated Punjab) automated and feedback systems Punjab. feedback system simplified and automated. simplified and automated Substantial difference between official and Review of legal Complete properties’ Complete properties’ Enhanced capacity for revenue Complete properties’ market values of framework and market valuation studies market valuation studies Establish a property market valuation studies generation from real estate properties;",
+      "practice": "automated business process re-engineering of tax administration",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: automated tax business processes | Not routine: replaces manual tax workflows | Adoption: 'simplified and automated'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: automated tax BPs | Innovative: end-to-end automation of 8 taxes | Category: Operational",
+      "keywords_hit": "automated;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New process: automated end-to-end tax business processes - cue: 'automated'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A4-E3",
+      "approach_id": "P171417-A4",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 521,
+      "char_start": 85483,
+      "char_end": 85652,
+      "sentence": "PPRA pilots e-procurement in one 10.00 department Page 26 of 43 The World Bank Punjab Resource Improvement and Digital Effectiveness Program (P171417) FY2022/23 DLR 3.4.",
+      "practice": "e-procurement system piloted and rolled out in Punjab departments",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: e-procurement platform | Not routine: DLI-linked phased rollout | Adoption: 'PPRA pilots e-procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-procurement platform | Innovative: DLI-linked phased rollout | Category: Operational",
+      "keywords_hit": "digital platform;e-procurement",
+      "innovation_cues": "pilots",
+      "innovation_basis": "New process: e-procurement replacing paper procurement - cue: 'pilots'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A4-E4",
+      "approach_id": "P171417-A4",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 522,
+      "char_start": 85653,
+      "char_end": 86257,
+      "sentence": "Implementing Entity processes 15% of 5.00 operational budget expenditures through e- procurement FY2023/24 DLR 3.5.Implementing Entity processes 5.00 $2.5M for 20%, and thereafter cumulatively 30% of operational budget $0.25M per additional 1%, with expenditures through e-procurement maximum up to $2.5M FY2024/25 DLR 3.6.Implementing Entity processes 5.00 $2.5M for 40%, and thereafter cumulatively 50% of operational budget $0.25M per additional 1%, with expenditures through e-procurement maximum up to $2.5M _TBL I DL _M X ATRI DLI 4 Citizens accessing government services through digital platforms.",
+      "practice": "e-procurement system piloted and rolled out in Punjab departments",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: e-procurement platform | Not routine: DLI-linked phased rollout | Adoption: 'PPRA pilots e-procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-procurement platform | Innovative: DLI-linked phased rollout | Category: Operational",
+      "keywords_hit": "digital platform;e-procurement",
+      "innovation_cues": "pilots",
+      "innovation_basis": "New process: e-procurement replacing paper procurement - cue: 'pilots'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    },
+    {
+      "row_id": "P171417-A4-E5",
+      "approach_id": "P171417-A4",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P171417",
+      "doc_id": "813071603677623090",
+      "doc_type": "PAD",
+      "doc_date": "2020-09-13",
+      "file_name": "P171417_PAD_2020-09-13_813071603677623090.txt",
+      "unit_id": "U60",
+      "para_no": null,
+      "sentence_position": 517,
+      "char_start": 85052,
+      "char_end": 85283,
+      "sentence": "Type of DLI Scalability Unit of Measure Total Allocated Amount (USD) As % of Total Financing Amount Intermediate Outcome Yes Text 35.00 13.00 Period Value Allocated Amount (USD) Formula Baseline e-procurement system does not exist.",
+      "practice": "e-procurement system piloted and rolled out in Punjab departments",
+      "category": "Operational",
+      "adoption": "apply",
+      "sector": "Sub-National Government",
+      "extractor_reason": "Digital core: e-procurement platform | Not routine: DLI-linked phased rollout | Adoption: 'PPRA pilots e-procurement'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: e-procurement platform | Innovative: DLI-linked phased rollout | Category: Operational",
+      "keywords_hit": "digital platform;e-procurement",
+      "innovation_cues": "pilots",
+      "innovation_basis": "New process: e-procurement replacing paper procurement - cue: 'pilots'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "642ceb41"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 106,
+      "char_start": 19982,
+      "char_end": 20317,
+      "sentence": "The GoPb has also introduced citizen budgets; implemented a management information system for registering and processing contracts of more than 153 agencies; and enhanced accountability for service delivery through the innovative use of smart management tools to monitor district services in health, education, and agriculture sectors.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "MIS registering and processing contracts of 153 agencies",
+      "reason": "reject: Existing GoPb achievement described as context, not financed by this project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: MIS for registering and processing agency contracts - cue: 'management information system'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Existing GoPb achievement described as context, not financed by this project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1177
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 106,
+      "char_start": 19982,
+      "char_end": 20317,
+      "sentence": "The GoPb has also introduced citizen budgets; implemented a management information system for registering and processing contracts of more than 153 agencies; and enhanced accountability for service delivery through the innovative use of smart management tools to monitor district services in health, education, and agriculture sectors.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Smart management tools monitoring district health, education, agriculture services",
+      "reason": "reject: 'Smart management tools' unnamed; no specific digital system identified",
+      "reject_code": "generic",
+      "innovation_basis": "New process: smart tools for district service monitoring - cue: 'innovative'",
+      "innovation_cues": "innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "'Smart management tools' unnamed; no specific digital system identified",
+          "reject_code": "generic",
+          "context_chars": 1177
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 118,
+      "char_start": 22173,
+      "char_end": 22414,
+      "sentence": "To do this, Punjab would have to enhance cooperation between its three tax authorities to facilitate compliance; tackle tax evasion (for example, by data integration, third-party data links, and audit); and reduce the cost of tax collection.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Data integration and third-party data links across tax authorities",
+      "reason": "reject: Hypothetical 'would have to' reform, not project commitment",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New process: cross-agency tax data integration and third-party links - cue: 'data integration'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Hypothetical 'would have to' reform, not project commitment",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1680
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 124,
+      "char_start": 22883,
+      "char_end": 23187,
+      "sentence": "Page 2 of 43 The World Bank Punjab Resource Improvement and Digital Effectiveness Program (P171417) authorities can also contribute to the province’s goal of improving the business environment through taxpayer facilitation measures, including online filing of tax returns, e-payments, and refunds system.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Online tax filing, e-payments and refunds system",
+      "reason": "reject: Generic taxpayer facilitation measures, not a project-financed system",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: online tax filing, e-payment and refunds - cue: 'automation'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic taxpayer facilitation measures, not a project-financed system",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1680
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 128,
+      "char_start": 23505,
+      "char_end": 23804,
+      "sentence": "If COVID-19 related restrictions on face-to-face service delivery continue, the GoPb will need to expand its existing citizen feedback model, accelerate the use of technology in procurement and digitize key services both for citizens and for routine administrative operations of government business.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Expanded citizen feedback model for service delivery",
+      "reason": "reject: Citizen feedback model unnamed, no digital mechanism specified",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: expanded citizen feedback on services - cue: 'citizen-feedback'",
+      "innovation_cues": "citizen-feedback",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Citizen feedback model unnamed, no digital mechanism specified",
+          "reject_code": "generic",
+          "context_chars": 991
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 136,
+      "char_start": 24943,
+      "char_end": 25150,
+      "sentence": "In addition, the strategy envisions accelerated digitization of business processes, including e-procurement, and delivery of e-services to citizens and firms to ensure business continuity during emergencies.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Accelerated e-procurement and e-services for business continuity",
+      "reason": "reject: Strategy vision of e-procurement/e-services, no specific system",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: e-procurement and e-services continuity - cue: 'e-procurement'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Strategy vision of e-procurement/e-services, no specific system",
+          "reject_code": "generic",
+          "context_chars": 2422
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 217,
+      "char_start": 36968,
+      "char_end": 37113,
+      "sentence": "The TA will also support the rollout of accompanying measures that address the skills gaps and risks that limit women’s utilization of ICT tools.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Measures addressing women's ICT skills gaps",
+      "reason": "reject: Skills-gap measures for women's ICT use; no named digital system",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: gender-focused ICT uptake measures - cue: 'upskill'",
+      "innovation_cues": "PforR",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Skills-gap measures for women's ICT use; no named digital system",
+          "reject_code": "not_digital",
+          "context_chars": 2451
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 246,
+      "char_start": 39784,
+      "char_end": 40072,
+      "sentence": "Of these, Pillar D on Public Financial Management and Disaster Risk Financing and Pillar E on Governance Reforms, focus on strengthening the PFM to respond to COVID-19, digitization of government systems (such as e- procurement), and actions to strengthen transparency and accountability.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Digitization of government systems such as e-procurement",
+      "reason": "reject: Program-wide digitization and e-procurement, no specific mechanism",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: digitized government systems and e-procurement - cue: 'PforR'",
+      "innovation_cues": "PforR",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Program-wide digitization and e-procurement, no specific mechanism",
+          "reject_code": "generic",
+          "context_chars": 2458
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 267,
+      "char_start": 42397,
+      "char_end": 42458,
+      "sentence": "(iii) digitization of public services for citizens and firms;",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Digitization of public services for citizens and firms",
+      "reason": "reject: Generic digitization of public services, no named platform",
+      "reject_code": "generic",
+      "innovation_basis": "New delivery arrangement: digitized citizen and firm services - cue: 'digitization of'",
+      "innovation_cues": "mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic digitization of public services, no named platform",
+          "reject_code": "generic",
+          "context_chars": 1295
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 269,
+      "char_start": 42523,
+      "char_end": 42887,
+      "sentence": "(v) development of a legal framework for electronic payments, mobile money, digital identification, geospatial systems and cloud- based computing; and (vi) revision of PFC award to introduce a need-based formula for transfers from the Provincial Government to LGs and a performance grants scheme for targeted support to LGs for the vulnerable population of Punjab.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Legal framework for e-payments, mobile money, digital ID, geospatial, cloud",
+      "reason": "reject: Enabling legal framework, not a digital system doing the work",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: enabling legal framework for digital payments and ID - cue: 'mobile money'",
+      "innovation_cues": "mobile money",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Enabling legal framework, not a digital system doing the work",
+          "reject_code": "not_innovative",
+          "context_chars": 1295
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 277,
+      "char_start": 43994,
+      "char_end": 44083,
+      "sentence": "(ii) mapping, redesign and automation of business processes in three (3) tax authorities;",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "automation of business processes in tax authorities",
+      "reason": "reject: Business process mapping/automation is generic TA, no named digital system",
+      "reject_code": "generic",
+      "innovation_basis": "New process: automated tax administration workflows - cue: 'automation'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Business process mapping/automation is generic TA, no named digital system",
+          "reject_code": "generic",
+          "context_chars": 1232
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 286,
+      "char_start": 45178,
+      "char_end": 45366,
+      "sentence": "(xi) revision of the rules and regulations as well as the revisions in the Provincial Finance Commission Award and (xii) establishment of a digital reforms implementation unit within PITB.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "digital reforms implementation unit within PITB",
+      "reason": "reject: Organizational unit, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: dedicated digital reform delivery unit - cue: 'digital reforms'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Organizational unit, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1248
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 294,
+      "char_start": 46263,
+      "char_end": 46439,
+      "sentence": "(ix) development of legal framework for digital identity management (including adequate online privacy and safety protections for end-users); and (x) Program impact assessment.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "legal framework for digital identity management with privacy protections",
+      "reason": "reject: Legal/privacy framework drafting, no digital system built or deployed",
+      "reject_code": "not_digital",
+      "innovation_basis": "New organizational practice: digital identity legal and privacy regime - cue: 'digital identity'",
+      "innovation_cues": "PforR;performance-based",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Legal/privacy framework drafting, no digital system built or deployed",
+          "reject_code": "not_digital",
+          "context_chars": 1959
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 427,
+      "char_start": 62792,
+      "char_end": 62871,
+      "sentence": "Citizens will use mobile technology to monitor service delivery (DLIs 4 and 5).",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "mobile-based citizen monitoring of service delivery",
+      "reason": "reject: Only one vague sentence; no named mobile system, channel or mechanism described.",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: mobile citizen monitoring of service delivery - cue: 'mobile technology'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "No named mobile system or channel; unclear what citizens use to monitor",
+          "reject_code": "",
+          "context_chars": 1305
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Only one vague sentence; no named mobile system, channel or mechanism described.",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 21882
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 426,
+      "char_start": 62580,
+      "char_end": 62791,
+      "sentence": "Citizens will also have access to an integrated system of monitoring of development budget to provide firsthand information on the status of development projects, including those that support pro-women outcomes.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "integrated development budget monitoring system for citizens",
+      "reason": "reject: Citizen budget/expenditure transparency portals are routine MDB PFM practice.",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: public transparency via integrated budget monitoring - cue: 'integrated system'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "expand",
+          "reason": "Unclear whether the integrated monitoring system exists or is financed by this project",
+          "reject_code": "",
+          "context_chars": 1305
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reason": "Citizen budget/expenditure transparency portals are routine MDB PFM practice.",
+          "reject_code": "not_innovative",
+          "context_chars": 21882
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 434,
+      "char_start": 63686,
+      "char_end": 63787,
+      "sentence": "The GoPb will design a data integrity protocol to periodically obtain reporting on any data breaches.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "data integrity protocol for breach reporting",
+      "reason": "reject: Data protection framework and breach reporting are safeguard compliance requirements",
+      "reject_code": "legal_or_compliance_condition",
+      "innovation_basis": "New organizational practice: periodic data-breach reporting protocol - cue: 'data integrity protocol'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Data protection framework and breach reporting are safeguard compliance requirements",
+          "reject_code": "legal_or_compliance_condition",
+          "context_chars": 1259
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 469,
+      "char_start": 68452,
+      "char_end": 68559,
+      "sentence": "To mitigate the risk, the Program will support adoption of SBDs and implementation of e-procurement system.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "e-procurement system with standard bidding documents",
+      "reason": "reject: Only sentence says 'will support'; no e-procurement system described as financed activity here",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New process: end-to-end electronic procurement - cue: 'e-procurement'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Only sentence says 'will support'; no e-procurement system described as financed activity here",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 1313
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 490,
+      "char_start": 75432,
+      "char_end": 76445,
+      "sentence": "Taxpayers registration, payment (streamlining BP's of taxpayer Punjab Cabinet approves other payment options, Selected BPs automated Monitoring of arrears registration, payment, Key business processes for tax the plan for BPR and incl. timely transfer of Taxpayers’ appeal in few tax authorities (e- and processing of arrears monitoring and administration simplified and feedback system for tax revenue collections to process simplified and payment for 8 taxes of refunds simplified and refunds, appeals, litigation automated (Text) administration in the Treasury), and automated Punjab) automated and feedback systems Punjab. feedback system simplified and automated. simplified and automated Substantial difference between official and Review of legal Complete properties’ Complete properties’ Enhanced capacity for revenue Complete properties’ market values of framework and market valuation studies market valuation studies Establish a property market valuation studies generation from real estate properties;",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "modern valuation methodology for property tax",
+      "reason": "reject: Property valuation methodology; no named digital system or data tool does the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: modern mass property valuation methods - cue: 'modern valuation methodology'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Property valuation methodology; no named digital system or data tool does the work",
+          "reject_code": "not_digital",
+          "context_chars": 1542
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 690,
+      "char_start": 114776,
+      "char_end": 114882,
+      "sentence": "The TA component will finance ICT investments and TA to accelerate the implementation of these objectives.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "TA-financed ICT investments for modern property valuation and database integration",
+      "reason": "reject: Generic ICT/TA financing list; no named system or specific mechanism described",
+      "reject_code": "generic",
+      "innovation_basis": "New process: modern property valuation system and database integration - cue: 'innovations'",
+      "innovation_cues": "innovations",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Generic ICT/TA financing list; no named system or specific mechanism described",
+          "reject_code": "generic",
+          "context_chars": 1522
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 318,
+      "char_start": 50069,
+      "char_end": 50243,
+      "sentence": "Operational budget expenditure 35 The DLI will support measures to increase the use of e - procurement in processed through e-procurement. government transactions (Scalable).",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "DLI on operational budget processed through e-procurement",
+      "reason": "reject: final check round 1: common - Digital: e-procurement system is the mechanism | Before 2019: e-procurement DLIs standard in WBG PforR operations (e.g. Ukraine, Bangladesh)",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: results-linked e-procurement disbursement - cue: 'DLI'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: e-procurement transaction tracking | Innovative: DLI ties disbursement to e-procurement use | Category: results-based disbursement",
+          "reject_code": "",
+          "context_chars": 1330
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: e-procurement system is the mechanism | Before 2019: e-procurement DLIs standard in WBG PforR operations (e.g. Ukraine, Bangladesh)",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 323,
+      "char_start": 50595,
+      "char_end": 51030,
+      "sentence": "Punjab Urban Local Areas expenditure reports of 319 Urban Local Areas, on the basis of reporting on revenues and expenditure implementation of Integrated Financial Management Information System position, especially related to disaster (IFMIS) or similar expenditure recording system in those Urban Local Areas risk management, core public social (ULAs) (Scalable). services, and gender ResultsAarea 3: Improved collection of OSR DLI 6.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "IFMIS expenditure recording in urban local areas",
+      "reason": "reject: final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: local-government financial management information system - cue: 'IFMIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: IFMIS in 319 ULAs | Innovative: extends IFMIS to local governments | Category: digital financial system",
+          "reject_code": "",
+          "context_chars": 1268
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 501,
+      "char_start": 79235,
+      "char_end": 79831,
+      "sentence": "FD online services and usage. platform single identity platform services Target population is System number of citizens using Review of source reports Citizen satisfaction with online services Annual generated PITB the online services (gender and data data reports dis-aggregated) Supporting digital web Web based Number of Punjab Urban Local Areas based financial reporting Review of notifications, system reporting on revenues and expenditure solutions to Urban Local Annual source documents and FD, PITB generated position Areas for enhanced system walk through reports financial transparency.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "web-based financial reporting for urban local areas",
+      "reason": "reject: final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New service: web-based local government financial reporting - cue: 'web based'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: web-based ULA reporting | Innovative: digitizes local fiscal transparency | Category: Technological",
+          "reject_code": "",
+          "context_chars": 1696
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 524,
+      "char_start": 87450,
+      "char_end": 87545,
+      "sentence": "Baseline Web based MIS implemented in 16 Urban Local Areas (ULAs) for accounting and reporting.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "web-based MIS for ULA accounting and reporting",
+      "reason": "reject: final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New system: web-based MIS in 16 urban local areas - cue: 'MIS'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: web-based ULA MIS | Innovative: extends accounting to 16 ULAs | Category: Technological",
+          "reject_code": "",
+          "context_chars": 1287
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 525,
+      "char_start": 87546,
+      "char_end": 88371,
+      "sentence": "System not integrated with Government IFMIS FY2020/21 DLR 5.1: The Punjab Cabinet approves revised 10.00 Provincial Finance Commission Formula with clear incentives for improving LG revenue and expenditure recording (including disaster risk financing and targeted grants for vulnerable population) FY2021/22 DLR 5.2: Implementing Entity rolls-out an 10.00 expenditure recording systems (compatible with FABS) to 19 Urban Local Areas, with the CGA Page 28 of 43 The World Bank Punjab Resource Improvement and Digital Effectiveness Program (P171417) notified Chart of Accounts FY2022/23 DLR 5.3: After achieving DLR 5.2, Finance 7.00 $1.75M for each 25 ULAs (up to Department publishes budgets and bi-annual total of 119 ULAs) revenue and expenditure reports of 119 Urban Local Areas (cumulative) and the provincial government.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "expenditure recording system compatible with FABS in ULAs",
+      "reason": "reject: final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New system: FABS-compatible local expenditure recording - cue: 'rolls-out'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: FABS-compatible expenditure system | Innovative: extends to 319 ULAs | Category: Technological",
+          "reject_code": "",
+          "context_chars": 1591
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: IFMIS/web financial reporting is the system | Before 2019: IFMIS widely deployed in WBG PFM projects since 2000s",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 329,
+      "char_start": 51436,
+      "char_end": 51547,
+      "sentence": "Database integration in tax to broaden the tax base and tax compliance measures (Scalable). administration III.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "database integration in tax administration",
+      "reason": "reject: final check round 1: common - Digital: tax database integration and e-procurement are digital systems | Before 2019: both standard in WBG tax/PFM operations",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: cross-database tax administration integration - cue: 'Database integration'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: integrated tax authority databases | Innovative: links tax data silos to broaden base | Category: data integration system",
+          "reject_code": "",
+          "context_chars": 1268
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: tax database integration and e-procurement are digital systems | Before 2019: both standard in WBG tax/PFM operations",
+          "context_chars": 0
+        }
+      ]
+    },
+    {
+      "guid": "813071603677623090",
+      "doc_type": "PAD",
+      "position": 484,
+      "char_start": 72940,
+      "char_end": 74138,
+      "sentence": "Reduction (Text) Strategy (DRFS) Strengthened cash Cash Management Cash forecasting reports Cash forecasting reports Cash forecasting reports management function of GoPb does not have cash Cash Management Unit Policy and Accounting published on quarterly published on quarterly published on quarterly management policy. established in FD Framework approved by Government of Punjab (Text) basis by FD basis by FD basis by FD Punjab Cabinet Increased use of digital technology for delivery of selected public services PPRA publishes SBDs, Operational budget and revises Punjab expenditure processed through DLI 3 e-procurement system Procurement Rules 2014 e-Procurement piloted 15% 30% 50% does not exist. in one department. e-procurement (Text) to support e- procurement Additional services provided to citizens and firms online, 10 services are provided 15 services provided to 20 services provided to 30 services provided to 40 services provided to 50 Services provided to through a single identity to citizens online citizens online citizens online citizens online citizens online citizens and firms online platform (Text) Citizen satisfaction with online services (Percentage) 50.00 50.00 55.00",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "e-procurement system rollout across departments",
+      "reason": "reject: final check round 1: common - Digital: tax database integration and e-procurement are digital systems | Before 2019: both standard in WBG tax/PFM operations",
+      "reject_code": "existed_before_2019",
+      "innovation_basis": "New process: piloted e-procurement scaled province-wide - cue: 'piloted'",
+      "innovation_cues": "piloted",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "accept",
+          "reason": "Digital core: e-procurement platform | Innovative: DLI-linked pilot to 50% scale | Category: Operational",
+          "reject_code": "",
+          "context_chars": 2301
+        },
+        {
+          "round": 2,
+          "verdict": "reject",
+          "reject_code": "existed_before_2019",
+          "reason": "final check round 1: common - Digital: tax database integration and e-procurement are digital systems | Before 2019: both standard in WBG tax/PFM operations",
+          "context_chars": 0
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 13,
+    "input_tokens": 33576,
+    "cached_tokens": 47481,
+    "cache_write_tokens": 0,
+    "output_tokens": 10246,
+    "seconds": 65.0,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0227
+  }
+}

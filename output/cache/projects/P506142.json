@@ -1,0 +1,1038 @@
+{
+  "project_id": "P506142",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "83a63555",
+  "started_at": "2026-11-07T03:37:27Z",
+  "ended_at": "2026-11-07T03:37:46Z",
+  "input_fingerprint": "ccddef1e0b177a1c",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 24,
+  "innovative": "Yes",
+  "n_approaches": 3,
+  "approaches": [
+    {
+      "approach_id": "P506142-A1",
+      "project_id": "P506142",
+      "name": "digital extension and remote-sensing GHG monitoring for climate-smart agriculture",
+      "description": "The project uses digital agricultural extension tools and remote-sensing mapped production areas with local emission factors to monitor greenhouse gases and spread climate-smart technologies. Practices: Digital ATER (digital agricultural extension) tools for disseminating CSA technologies to family farmers and technicians; remote-sensing GHG emission monitoring for production chains.",
+      "why_innovative": "Digital extension channel (Digital ATER) delivering CSA technologies to family farmers and technicians | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099032425213513146",
+        "doc_type": "PAD",
+        "doc_date": "2025-03-14",
+        "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+        "char_start": 57126,
+        "char_end": 57560,
+        "text": "The component has four main activities: (a) foster agrifood climate-smart innovations, through activities such as research and development on CSA26, GHG emissions monitoring, monitoring of climate changes in the State, water resilience practices and extension services and trainings towards family farmers and agricultural technicians to foster the dissemination and adoption of CSA technologies, including through digital tools (e.g.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 57561,
+          "char_end": 57575,
+          "text": "Digital ATER).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 128106,
+          "char_end": 128717,
+          "text": "Methodology for The indicator is counted when the system is available to end users, In the final evaluation, quantify the number of accesses Data Collection to the systems used by farmers and the reduction of the time in the procedures (collect baseline data, if possible) Responsibility for SAR, EPAGRI Data Collection Structuring the State's Greenhouse Gas emission monitoring system in the State's priority production chains The GHG monitoring system will consist of 1) Determination of local emission factors in the livestock, grains, horticulture and Description fruit production chains (measured on site);",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 128718,
+          "char_end": 128791,
+          "text": "2) Production areas determined through remote sensing mapping technology;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 128792,
+          "char_end": 128868,
+          "text": "3) Emission estimate taking local factors and production areas as reference.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: digital ATER is the delivery mechanism, not a partnership",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Other - Agriculture, Fishing, and Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital extension tools directly serve farming/agribusiness practices for family farmers.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P504253",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "nal and state entities) that will be contributing with their own skills and experiences under a strong and tightly coordinated framework, collaborating towards achievement of the intended Project outcomes. The Project will also seek synergies with the WB-financed Santa Catarina Rural Roads project (P504253) that will support rehabilitation and sustainable maintenance of State roads that are key fo"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: Digital ATER extension tools | Innovative: digital CSA extension channel for family farmers | Category: digital service delivery",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "Digital extension channel (Digital ATER) delivering CSA technologies to family farmers and technicians",
+      "innovation_cues": [
+        "climate-smart",
+        "innovation",
+        "innovations"
+      ]
+    },
+    {
+      "approach_id": "P506142-A2",
+      "project_id": "P506142",
+      "name": "Digital business platform matching demand and supply of environmental assets",
+      "description": "Project supports a digital platform linking buyers and sellers of environmental assets to create a PES market.",
+      "why_innovative": "New service: digital marketplace for environmental assets - cue: 'digital business platform' | category Financial; adoption apply; judged in 1 round(s); final check: digital core, rare_or_absent before 2019",
+      "evidence": {
+        "guid": "099032425213513146",
+        "doc_type": "PAD",
+        "doc_date": "2025-03-14",
+        "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+        "char_start": 60717,
+        "char_end": 61154,
+        "text": "29 Financing through the PES will support recovery of degraded areas, recovery of Permanent Preservation Areas, conservation of natural areas, support for the development of PES projects, support for the development of carbon projects, and development and implementation of a digital business platform for the dissemination of information and the link between demand and supply of environmental assets, enabling the creation of a market.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [],
+      "category": {
+        "value": "Financial",
+        "code": "FINA",
+        "confidence": null,
+        "rationale": "Financial: creates a market for environmental asset transactions",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Agricultural Markets, Commercialization, Agri-Business and Agriculture finance",
+        "code": "",
+        "confidence": null,
+        "rationale": "Platform matches demand/supply of environmental assets, creating a market mechanism.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P504253",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "nal and state entities) that will be contributing with their own skills and experiences under a strong and tightly coordinated framework, collaborating towards achievement of the intended Project outcomes. The Project will also seek synergies with the WB-financed Santa Catarina Rural Roads project (P504253) that will support rehabilitation and sustainable maintenance of State roads that are key fo"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: environmental asset matching platform | Innovative: new PES market mechanism | Category: financial market creation",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: digital marketplace for environmental assets - cue: 'digital business platform'",
+      "innovation_cues": [
+        "innovation",
+        "pilot"
+      ]
+    },
+    {
+      "approach_id": "P506142-A3",
+      "project_id": "P506142",
+      "name": "integrated agricultural information systems and data warehouse for policy monitoring",
+      "description": "The project expands the SIIA agricultural information system and builds a data warehouse linking state databases and public policy systems to monitor policy implementation and emissions. Practices: Expanded SIIA agricultural information system for policy monitoring; integrated data warehouse linking state agri information systems.",
+      "why_innovative": "New process: integrated data system for agrifood policy monitoring - cue: 'information system' | category Technological; adoption apply; judged in 1 round(s); final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "099032425213513146",
+        "doc_type": "PAD",
+        "doc_date": "2025-03-14",
+        "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+        "char_start": 63082,
+        "char_end": 63625,
+        "text": "The Component has four main activities: (a) support the provision and analysis of data on the agrifood system and on natural resources management to provide accurate information for the elaboration of public policies and programs, through the expansion of the Integrated Agricultural Information System (Sistema Integrado de Informações Agrícolas - SIIA31) and the development of new systems to monitor the implementation of public policies and programs through diagnostics and analyses on the various challenges the agrifood system is facing.",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 63626,
+          "char_end": 63975,
+          "text": "Collected data will include exposure to major climate threats (droughts/floods in particular), GHG emissions factor per region as well as the implementation of a monitoring system for GHG emissions within the agrifood system in the State.32 Those analyses will be shared with the other states participating in the MPA as part of its Learning Agenda;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 127070,
+          "char_end": 127366,
+          "text": "Methodology for Preparation stages and Publication in the official journal Data Collection Responsibility for SAR, EPAGRI Data Collection Structuring public policy management and monitoring systems (Number) The project will support the development and evolution of at least 7 information systems.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 127522,
+          "char_end": 127572,
+          "text": "4_Data Warehouse (database integration) - SAR/SEE;",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "099032425213513146",
+          "doc_type": "PAD",
+          "doc_date": "2025-03-14",
+          "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+          "char_start": 127573,
+          "char_end": 127724,
+          "text": "5_Applications for providing services and Description communication to beneficiaries - SEE/Epagri and CIDASC 6_ATER digital (evolutionary maintenance);",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: the information system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Public Administration - Agriculture, Fishing, and Forestry",
+        "code": "",
+        "confidence": null,
+        "rationale": "Information system supports policy monitoring and public administration functions.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [
+        {
+          "other_project_id": "P504253",
+          "other_approach_id": null,
+          "kind": "explicit_reference",
+          "score": 0.5,
+          "direction": "replicates",
+          "evidence": "nal and state entities) that will be contributing with their own skills and experiences under a strong and tightly coordinated framework, collaborating towards achievement of the intended Project outcomes. The Project will also seek synergies with the WB-financed Santa Catarina Rural Roads project (P504253) that will support rehabilitation and sustainable maintenance of State roads that are key fo"
+        }
+      ],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: SIIA agricultural information system | Innovative: new GHG and policy monitoring systems | Category: digital data system",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New process: integrated data system for agrifood policy monitoring - cue: 'information system'",
+      "innovation_cues": [
+        "grievance-redress",
+        "innovative",
+        "learning agenda",
+        "scaling",
+        "transformative"
+      ]
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P506142",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "guid": "099032425213513146",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:37:27Z",
+      "ended_at": "2026-11-07T03:37:28Z",
+      "status": "ok",
+      "note": "2 document(s) fetched from the WBG API; 6 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:37:28Z",
+      "ended_at": "2026-11-07T03:37:28Z",
+      "status": "ok",
+      "note": "in scope (approved 2025-03-14, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:37:28Z",
+      "ended_at": "2026-11-07T03:37:29Z",
+      "status": "ok",
+      "note": "24 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 24,
+        "tier": "High",
+        "by_dimension": {
+          "innovation": 5,
+          "enabling_processes": 4,
+          "public_good": 3,
+          "innovation_cycle": 4,
+          "results_based_management": 2,
+          "innovation_types": 5,
+          "enabling_technologies": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:37:29Z",
+      "ended_at": "2026-11-07T03:37:29Z",
+      "status": "ok",
+      "note": "PAD 2025-03-14 (P506142_PAD_2025-03-14_099032425213513146.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P506142",
+            "doc_type": "PAD",
+            "doc_date": "2025-03-14",
+            "guid": "099032425213513146",
+            "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:37:29Z",
+      "ended_at": "2026-11-07T03:37:29Z",
+      "status": "ok",
+      "note": "123 reading units (26 numbered paragraphs) from 1087 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 123
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:37:29Z",
+      "ended_at": "2026-11-07T03:37:31Z",
+      "status": "ok",
+      "note": "36 of 123 units carry a digital / AI cue (25 also an innovation cue); 2 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 36,
+        "dropped": 0,
+        "legal_condition": 2,
+        "with_innovation_cue": 25
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:37:31Z",
+      "ended_at": "2026-11-07T03:37:35Z",
+      "status": "ok",
+      "note": "9 candidate practices from 36 units in 4 calls",
+      "llm_calls": 4,
+      "input_chars": 122348,
+      "output": {
+        "usage": {
+          "calls": 4,
+          "input_tokens": 672,
+          "cached_tokens": 25472,
+          "cache_write_tokens": 0,
+          "output_tokens": 1880,
+          "seconds": 13.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0026
+        },
+        "extracted": 9
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:37:35Z",
+      "ended_at": "2026-11-07T03:37:39Z",
+      "status": "ok",
+      "note": "5 accepted, 4 rejected (not_innovative 2, unsupported_by_evidence 1, not_digital 1); 0 sent to the expanded-context round; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 37870,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 4781,
+          "cached_tokens": 2944,
+          "cache_write_tokens": 0,
+          "output_tokens": 687,
+          "seconds": 4.1,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0023
+        },
+        "accepted": 5,
+        "rejected": 4,
+        "expanded": 0,
+        "reject_codes": {
+          "unsupported_by_evidence": 1,
+          "not_digital": 1,
+          "not_innovative": 2
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:37:39Z",
+      "ended_at": "2026-11-07T03:37:41Z",
+      "status": "ok",
+      "note": "5 of 5 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1896,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 391,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 209,
+          "seconds": 2.0,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0004
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:37:41Z",
+      "ended_at": "2026-11-07T03:37:43Z",
+      "status": "ok",
+      "note": "5 approaches -> 3 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1876,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 393,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 123,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "merged": 2,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:37:43Z",
+      "ended_at": "2026-11-07T03:37:46Z",
+      "status": "ok",
+      "note": "3 approaches checked in 1 call(s): 3 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 7542,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 1107,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 208,
+          "seconds": 2.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0006
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:37:46Z",
+      "ended_at": "2026-11-07T03:37:46Z",
+      "status": "ok",
+      "note": "3 approaches (3 applied), 11 evidence rows, 4 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:37:46Z",
+      "ended_at": "2026-11-07T03:37:46Z",
+      "status": "ok",
+      "note": "1 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [
+          {
+            "other_project_id": "P504253",
+            "other_approach_id": null,
+            "kind": "explicit_reference",
+            "score": 0.5,
+            "direction": "replicates",
+            "evidence": "nal and state entities) that will be contributing with their own skills and experiences under a strong and tightly coordinated framework, collaborating towards achievement of the intended Project outcomes. The Project will also seek synergies with the WB-financed Santa Catarina Rural Roads project (P504253) that will support rehabilitation and sustainable maintenance of State roads that are key fo"
+          }
+        ],
+        "store_size": 252
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P506142-A1-E1",
+      "approach_id": "P506142-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U39",
+      "para_no": 31,
+      "sentence_position": 359,
+      "char_start": 57126,
+      "char_end": 57560,
+      "sentence": "The component has four main activities: (a) foster agrifood climate-smart innovations, through activities such as research and development on CSA26, GHG emissions monitoring, monitoring of climate changes in the State, water resilience practices and extension services and trainings towards family farmers and agricultural technicians to foster the dissemination and adoption of CSA technologies, including through digital tools (e.g.",
+      "practice": "Digital ATER (digital agricultural extension) tools for disseminating CSA technologies to family farmers and technicians",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: Digital ATER extension tools | Not routine: digital CSA extension for family farmers | Adoption: 'including through digital tools'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: Digital ATER extension tools | Innovative: digital CSA extension channel for family farmers | Category: digital service delivery",
+      "keywords_hit": "connectivity;startup;traceability",
+      "innovation_cues": "climate-smart;innovation;innovations",
+      "innovation_basis": "Digital extension channel (Digital ATER) delivering CSA technologies to family farmers and technicians",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A1-E2",
+      "approach_id": "P506142-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U39",
+      "para_no": 31,
+      "sentence_position": 360,
+      "char_start": 57561,
+      "char_end": 57575,
+      "sentence": "Digital ATER).",
+      "practice": "Digital ATER (digital agricultural extension) tools for disseminating CSA technologies to family farmers and technicians",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: Digital ATER extension tools | Not routine: digital CSA extension for family farmers | Adoption: 'including through digital tools'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: Digital ATER extension tools | Innovative: digital CSA extension channel for family farmers | Category: digital service delivery",
+      "keywords_hit": "connectivity;startup;traceability",
+      "innovation_cues": "climate-smart;innovation;innovations",
+      "innovation_basis": "Digital extension channel (Digital ATER) delivering CSA technologies to family farmers and technicians",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A1-E3",
+      "approach_id": "P506142-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 788,
+      "char_start": 128106,
+      "char_end": 128717,
+      "sentence": "Methodology for The indicator is counted when the system is available to end users, In the final evaluation, quantify the number of accesses Data Collection to the systems used by farmers and the reduction of the time in the procedures (collect baseline data, if possible) Responsibility for SAR, EPAGRI Data Collection Structuring the State's Greenhouse Gas emission monitoring system in the State's priority production chains The GHG monitoring system will consist of 1) Determination of local emission factors in the livestock, grains, horticulture and Description fruit production chains (measured on site);",
+      "practice": "remote-sensing GHG emission monitoring for production chains",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: remote-sensing production-area mapping | Not routine: local-factor GHG accounting system | Adoption: 'will consist of'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: remote-sensing production-area mapping | Innovative: local-factor GHG accounting system | Category: remote sensing",
+      "keywords_hit": "data collection;mapping;methodolog;remote sensing;remote-sensing",
+      "innovation_cues": "",
+      "innovation_basis": "New product: remote-sensing-based GHG accounting for agri chains - cue: 'remote sensing mapping'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A1-E4",
+      "approach_id": "P506142-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 789,
+      "char_start": 128718,
+      "char_end": 128791,
+      "sentence": "2) Production areas determined through remote sensing mapping technology;",
+      "practice": "remote-sensing GHG emission monitoring for production chains",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: remote-sensing production-area mapping | Not routine: local-factor GHG accounting system | Adoption: 'will consist of'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: remote-sensing production-area mapping | Innovative: local-factor GHG accounting system | Category: remote sensing",
+      "keywords_hit": "data collection;mapping;methodolog;remote sensing;remote-sensing",
+      "innovation_cues": "",
+      "innovation_basis": "New product: remote-sensing-based GHG accounting for agri chains - cue: 'remote sensing mapping'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A1-E5",
+      "approach_id": "P506142-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U89",
+      "para_no": null,
+      "sentence_position": 790,
+      "char_start": 128792,
+      "char_end": 128868,
+      "sentence": "3) Emission estimate taking local factors and production areas as reference.",
+      "practice": "remote-sensing GHG emission monitoring for production chains",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Other - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: remote-sensing production-area mapping | Not routine: local-factor GHG accounting system | Adoption: 'will consist of'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: remote-sensing production-area mapping | Innovative: local-factor GHG accounting system | Category: remote sensing",
+      "keywords_hit": "data collection;mapping;methodolog;remote sensing;remote-sensing",
+      "innovation_cues": "",
+      "innovation_basis": "New product: remote-sensing-based GHG accounting for agri chains - cue: 'remote sensing mapping'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A2-E1",
+      "approach_id": "P506142-A2",
+      "evidence_no": 1,
+      "number_of_evidence": 1,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U40",
+      "para_no": null,
+      "sentence_position": 368,
+      "char_start": 60717,
+      "char_end": 61154,
+      "sentence": "29 Financing through the PES will support recovery of degraded areas, recovery of Permanent Preservation Areas, conservation of natural areas, support for the development of PES projects, support for the development of carbon projects, and development and implementation of a digital business platform for the dissemination of information and the link between demand and supply of environmental assets, enabling the creation of a market.",
+      "practice": "Digital business platform matching demand and supply of environmental assets",
+      "category": "Financial",
+      "adoption": "apply",
+      "sector": "Agricultural Markets, Commercialization, Agri-Business and Agriculture finance",
+      "extractor_reason": "Digital core: environmental asset matching platform | Not routine: new PES market mechanism | Adoption: 'development and implementation'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: environmental asset matching platform | Innovative: new PES market mechanism | Category: financial market creation",
+      "keywords_hit": "digital business",
+      "innovation_cues": "innovation;pilot",
+      "innovation_basis": "New service: digital marketplace for environmental assets - cue: 'digital business platform'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A3-E1",
+      "approach_id": "P506142-A3",
+      "evidence_no": 1,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U43",
+      "para_no": 33,
+      "sentence_position": 380,
+      "char_start": 63082,
+      "char_end": 63625,
+      "sentence": "The Component has four main activities: (a) support the provision and analysis of data on the agrifood system and on natural resources management to provide accurate information for the elaboration of public policies and programs, through the expansion of the Integrated Agricultural Information System (Sistema Integrado de Informações Agrícolas - SIIA31) and the development of new systems to monitor the implementation of public policies and programs through diagnostics and analyses on the various challenges the agrifood system is facing.",
+      "practice": "Expanded SIIA agricultural information system for policy monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: SIIA agricultural information system | Not routine: new GHG and policy monitoring systems | Adoption: 'expansion of the SIIA'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SIIA agricultural information system | Innovative: new GHG and policy monitoring systems | Category: digital data system",
+      "keywords_hit": "information system",
+      "innovation_cues": "grievance-redress;innovative;learning agenda;transformative",
+      "innovation_basis": "New process: integrated data system for agrifood policy monitoring - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A3-E2",
+      "approach_id": "P506142-A3",
+      "evidence_no": 2,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U43",
+      "para_no": 33,
+      "sentence_position": 381,
+      "char_start": 63626,
+      "char_end": 63975,
+      "sentence": "Collected data will include exposure to major climate threats (droughts/floods in particular), GHG emissions factor per region as well as the implementation of a monitoring system for GHG emissions within the agrifood system in the State.32 Those analyses will be shared with the other states participating in the MPA as part of its Learning Agenda;",
+      "practice": "Expanded SIIA agricultural information system for policy monitoring",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: SIIA agricultural information system | Not routine: new GHG and policy monitoring systems | Adoption: 'expansion of the SIIA'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: SIIA agricultural information system | Innovative: new GHG and policy monitoring systems | Category: digital data system",
+      "keywords_hit": "information system",
+      "innovation_cues": "grievance-redress;innovative;learning agenda;transformative",
+      "innovation_basis": "New process: integrated data system for agrifood policy monitoring - cue: 'information system'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A3-E3",
+      "approach_id": "P506142-A3",
+      "evidence_no": 3,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U88",
+      "para_no": null,
+      "sentence_position": 776,
+      "char_start": 127070,
+      "char_end": 127366,
+      "sentence": "Methodology for Preparation stages and Publication in the official journal Data Collection Responsibility for SAR, EPAGRI Data Collection Structuring public policy management and monitoring systems (Number) The project will support the development and evolution of at least 7 information systems.",
+      "practice": "integrated data warehouse linking state agri information systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: data warehouse integrating agency databases | Not routine: cross-agency system integration | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: data warehouse integrating agency databases | Innovative: cross-agency system integration | Category: digital data platform",
+      "keywords_hit": "data collection;data warehouse;information system;methodolog",
+      "innovation_cues": "innovative;scaling",
+      "innovation_basis": "New product: cross-agency data warehouse and integrated systems - cue: 'information systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A3-E4",
+      "approach_id": "P506142-A3",
+      "evidence_no": 4,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U88",
+      "para_no": null,
+      "sentence_position": 780,
+      "char_start": 127522,
+      "char_end": 127572,
+      "sentence": "4_Data Warehouse (database integration) - SAR/SEE;",
+      "practice": "integrated data warehouse linking state agri information systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: data warehouse integrating agency databases | Not routine: cross-agency system integration | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: data warehouse integrating agency databases | Innovative: cross-agency system integration | Category: digital data platform",
+      "keywords_hit": "data collection;data warehouse;information system;methodolog",
+      "innovation_cues": "innovative;scaling",
+      "innovation_basis": "New product: cross-agency data warehouse and integrated systems - cue: 'information systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    },
+    {
+      "row_id": "P506142-A3-E5",
+      "approach_id": "P506142-A3",
+      "evidence_no": 5,
+      "number_of_evidence": 5,
+      "project_id": "P506142",
+      "doc_id": "099032425213513146",
+      "doc_type": "PAD",
+      "doc_date": "2025-03-14",
+      "file_name": "P506142_PAD_2025-03-14_099032425213513146.txt",
+      "unit_id": "U88",
+      "para_no": null,
+      "sentence_position": 781,
+      "char_start": 127573,
+      "char_end": 127724,
+      "sentence": "5_Applications for providing services and Description communication to beneficiaries - SEE/Epagri and CIDASC 6_ATER digital (evolutionary maintenance);",
+      "practice": "integrated data warehouse linking state agri information systems",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Public Administration - Agriculture, Fishing, and Forestry",
+      "extractor_reason": "Digital core: data warehouse integrating agency databases | Not routine: cross-agency system integration | Adoption: 'will support the development'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: data warehouse integrating agency databases | Innovative: cross-agency system integration | Category: digital data platform",
+      "keywords_hit": "data collection;data warehouse;information system;methodolog",
+      "innovation_cues": "innovative;scaling",
+      "innovation_basis": "New product: cross-agency data warehouse and integrated systems - cue: 'information systems'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "83a63555"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "099032425213513146",
+      "doc_type": "PAD",
+      "position": 364,
+      "char_start": 59148,
+      "char_end": 59531,
+      "sentence": "The activity will support IMA in the implementation of a mechanism for Payments for Environmental Services to enhance the adoption of environmentally friendly and climate-smart agriculture practices for water and soil resources preservation.29 The activity will also support the creation of a database to support the development of a market to finance recovery of preservation areas.",
+      "candidate_codes": [
+        "Financial"
+      ],
+      "route": "judge",
+      "practice": "Digital business platform matching demand and supply of environmental assets",
+      "reason": "reject: Cited sentences mention only a database and PES mechanism, not a matching platform",
+      "reject_code": "unsupported_by_evidence",
+      "innovation_basis": "New service: digital marketplace for environmental assets - cue: 'digital business platform'",
+      "innovation_cues": "climate-smart;innovation;innovations",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Cited sentences mention only a database and PES mechanism, not a matching platform",
+          "reject_code": "unsupported_by_evidence",
+          "context_chars": 2409
+        }
+      ]
+    },
+    {
+      "guid": "099032425213513146",
+      "doc_type": "PAD",
+      "position": 766,
+      "char_start": 125372,
+      "char_end": 125708,
+      "sentence": "Data Collection Responsibility for SAR, EPAGRI Data Collection Startups fostered for the development of innovative technologies (Number) Startups financed through a public selection notice, with the objective of fostering technological development, directed to Description strategic themes for the agricultural sector in Santa Catarina.",
+      "candidate_codes": [
+        "Collaborative"
+      ],
+      "route": "judge",
+      "practice": "public selection notice financing agri-tech startups",
+      "reason": "reject: Competitive startup call is programme design; SGPe is only an M&E data source",
+      "reject_code": "not_digital",
+      "innovation_basis": "New delivery arrangement: competitive call engaging startups in agri R&D - cue: 'Startups fostered'",
+      "innovation_cues": "innovation;innovative",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Competitive startup call is programme design; SGPe is only an M&E data source",
+          "reject_code": "not_digital",
+          "context_chars": 1299
+        }
+      ]
+    },
+    {
+      "guid": "099032425213513146",
+      "doc_type": "PAD",
+      "position": 820,
+      "char_start": 133501,
+      "char_end": 133564,
+      "sentence": "The Project will develop a specific tool to meet these demands.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "GRM tracking tool logging, categorizing and timing complaint responses",
+      "reason": "reject: Standard grievance redress tracking tool, routine M&E instrument",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: timestamped, categorized grievance case tracking - cue: 'specific tool'",
+      "innovation_cues": "innovation;private-capital",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard grievance redress tracking tool, routine M&E instrument",
+          "reject_code": "not_innovative",
+          "context_chars": 1376
+        }
+      ]
+    },
+    {
+      "guid": "099032425213513146",
+      "doc_type": "PAD",
+      "position": 862,
+      "char_start": 139896,
+      "char_end": 140051,
+      "sentence": "In the first year, the Project will develop its Digital Monitoring System, including a single register of beneficiaries and updating the Results Framework.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "Digital Monitoring System with single beneficiary register",
+      "reason": "reject: Standard M&E monitoring system and beneficiary register, routine reporting",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New system: unified beneficiary register for M&E - cue: 'develop'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Standard M&E monitoring system and beneficiary register, routine reporting",
+          "reject_code": "not_innovative",
+          "context_chars": 1263
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 8,
+    "input_tokens": 7344,
+    "cached_tokens": 28800,
+    "cache_write_tokens": 0,
+    "output_tokens": 3107,
+    "seconds": 23.6,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0061
+  }
+}

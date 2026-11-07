@@ -1,0 +1,442 @@
+﻿    The World Bank
+    Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+
+
+@#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+                   Project Information Document (PID)
+
+                 Concept Stage | Date Prepared/Updated: 05-Dec-2025 | Report No: PIDDC01445
+
+
+
+
+                                                                                                             Official Use Only
+     The World Bank
+     Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                  Operation Name
+Ukraine                        P513322                       Social Protection Project for Inclusion, Resilience,
+                                                             Innovation, and Transformation (SPIRIT)
+Region                         Estimated Appraisal Date      Estimated Approval Date         Practice Area (Lead)
+EUROPE AND CENTRAL             27-Mar-2026                   05-May-2026                     Social Protection & Jobs
+ASIA
+Financing Instrument           Borrower(s)                   Implementing Agency
+Investment Project             Ukraine                       Ministry of Social Policy,
+Financing (IPF)                                              Family, and Unity of
+                                                             Ukraine
+
+Proposed Development Objective(s)
+The PDO is to enhance the integration, efficiency, and inclusiveness of the social protection system in Ukraine.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Operation Cost                                                                                              510.00
+
+  Total Financing                                                                                                   510.00
+             of which IBRD/IDA                                                                                      500.00
+  Financing Gap                                                                                                       0.00
+
+DETAILS
+  World Bank Group Financing
+   International Bank for Reconstruction and Development (IBRD)                                                     500.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                        Page 1
+
+
+
+                                                                                                              Official Use Only
+      The World Bank
+      Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+     Trust Funds                                                                                                    10.00
+       Ukraine Relief, Recovery, Reconstruction, and Reform TF                                                      10.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                     Concept Review Decision
+Moderate                                                         The review did authorize the preparation to continue
+
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+1.     Russia’s invasion of Ukraine has caused severe human suffering and triggered an unprecedented humanitarian
+and economic crisis. Almost four years of active hostilities have resulted in significant civilian casualties, widespread
+destruction of critical infrastructure, and massive population displacement that continues to reshape the country's
+demographic landscape. As of October 2025, approximately 5.8 million Ukrainian refugees —14 percent of the
+population—were recorded globally, including 5.2 million in Europe. The number of Internally Displaced Persons peaked
+at 6.5 million in March 2022 and stabilized at approximately 3.7 million as of September 2025, which is 9 percent of the
+population. The invasion has also led to a sharp increase in disability, with the number of people with disabilities rising
+by over 10 percent to reach 3 million by early 2024. The invasion has reversed years of progress in poverty reduction and
+dramatically worsened income inequality. The combination of sustained conflict, mass displacement, rising disability
+prevalence, and deteriorating economic conditions has created compounding pressures on Ukraine's social protection
+system, leading to an unprecedented level of demand for support.
+
+
+Sectoral and Institutional Context
+
+2.     Ukraine’s social protection system has shown remarkable resilience during the ongoing invasion. Overall, social
+protection expenditures, which include pensions and social insurance, account for around 14.8 percent of the country’s
+Gross Domestic Product (GDP). State budget spending on the social safety net (SSN) constitutes about 2 percent of GDP.
+During the invasion, the Government of Ukraine (GoU) not only continues its SSN reform efforts but also strengthens
+existing systems and programs, while developing long-term strategies to lay the foundations for sustainable recovery
+when peace is restored. However, the system is simultaneously challenged by multiple crises: massive displacement,
+surging poverty, large-scale disability, and millions of Ukrainians who need essential social support. These challenges are
+particularly acute in three interconnected domains—social assistance, social services, and disability support.
+
+3.      Social assistance provision needs to be enhanced by connecting beneficiaries to social services through
+integrated case management. The centralized social assistance system lacks effective integration with decentralized
+social services and provides no meaningful pathways out of welfare dependency. Currently, cash transfers significantly
+
+                                                                                                                        Page 2
+
+
+
+                                                                                                               Official Use Only
+          The World Bank
+          Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+    exceed expenditures for social services and support programs designed to help people exit difficult circumstances. To
+    provide comprehensive support to the poor and vulnerable, the current phase of SSN reforms focuses on improving
+    efficiency and targeting of social assistance, linking beneficiaries to social services to support their transition from welfare
+    to self-sufficiency, introducing integrated case management, and advancing the digitalization of the delivery systems. A
+    crucial aspect of this process is the Basic Social Assistance (BSA) reform, which improves Ukraine’s last-resort social
+    assistance program, Guaranteed Minimum Income (GMI), and takes initial steps to address the fragmentation of the
+    system by consolidating five benefits into a single “one-stop-shop�? program.
+
+    4.      The financing mechanisms for social services need improvement to ensure equitable access. The current system
+    tends to prioritize funding for maintaining residential facilities rather than focusing on assessing needs and delivering
+    high-quality community-based services to the vulnerable. The decentralization reform transferred planning, organization,
+    financing, and delivery responsibilities for the main social services to the community level, but local capacities and
+    budgets are now severely strained due to the impacts of the invasion. Additionally, local authorities face challenges in
+    service provision due to the lack of a marketplace and a well-established regulatory framework for procuring services
+    from various providers, including non-governmental organizations (NGOs) and the private sector. As a result, access to
+    services is inconsistent, and communities' capacity to provide services varies significantly. Effectively addressing these
+    challenges requires dynamic central-local relations with aligned functions and financing capabilities, and a financing
+    model that allocates state budget funds for priority services - to rebalance service delivery - and uses an effective service
+    purchasing mechanism. As an initial step, the GoU is currently piloting the purchase of centrally funded social services.
+    This initiative aims to test the new financing model and address existing supply gaps. The pilots are being implemented
+    by the Fund for Social Protection of People with Disabilities.1
+
+    5.      The disability support system is under immense pressure due to an influx of new cases since the invasion began.
+    The system remains complex and requires better coordination, as disability policies are fragmented across multiple
+    ministries—Health, Social Policy, Economy, and Veterans Affairs—operating without a unified framework that links
+    assessment, benefit provision, rehabilitation, and employment support. Currently, only 16 percent of people with
+    disabilities are employed, resulting in a 34 percentage-point employment gap compared to people living with disabilities
+    in the European Union. To improve the disability support, Ukraine is transitioning from a medicalized disability
+    assessment model to an integrated, person-centered approach aligned with the International Classification of
+    Functioning, Disability and Health (ICF) and is developing new systems and programs.
+
+    6.      The GoU has requested a new social protection operation to support the implementation of a comprehensive
+    reform package aimed at accelerating transformative changes across social assistance, social services, and disability
+    support systems. The proposed Social Protection Project for Inclusion, Resilience, Innovation, and Transformation
+    (SPIRIT) is a standalone Investment Project Financing operation, financed by an IBRD loan of US$500 million supported
+    by bilateral guarantees and a grant of US$10 million from the Ukraine Relief, Recovery, Reconstruction, and Reform Trust
+    Fund (URTF). The SPIRIT project will focus on three critical areas within the social protection system: (i) the full-scale
+    implementation of the BSA program and the introduction of effective integrated case management to accelerate poverty
+    reduction; (ii) the development of social services and related regulatory framework to introduce social services of national
+    priority and establish a national purchasing agency for services; and (iii) the modernization of social support for people
+    with disabilities, which includes improved disability assessment system and increased access to the labor market through
+    supported employment services. The World Bank has been providing technical assistance to the GoU for the development
+    and implementation of these reforms with financial support from the Foreign, Commonwealth, and Development Office
+
+1The FSPPD is a non-profit public agency that operates under the guidance and oversight of the Ministry of Social Policy, Family, and Unity. Its
+primary functions include financing social protection measures and coordinating employment programs for people with disabilities. Additionally,
+the FSPPD is responsible for funding social services through pilot projects that utilize state budget funds.
+
+                                                                                                                                              Page 3
+
+
+
+                                                                                                                                     Official Use Only
+             The World Bank
+             Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+    (FCDO) of the United Kingdom and in close collaboration with UNICEF.2
+
+    Relationship to CPF
+
+    7.     SPIRIT is part of the World Bank Group's (WBG) effort to support the people of Ukraine during the invasion,
+    which has mobilized over US$82 billion since February 2022.3 The Bank's engagement in the country is guided by the
+    Ukraine Country Program Update, presented to the Board in December 2024. This update identifies "ensuring the
+    uninterrupted provision of core basic services" as one of its key priorities. Additionally, it emphasizes that the WBG will
+    continue to support essential institutional reforms. The activities financed by SPIRIT align with these priorities by
+    strengthening institutions and programs within Ukraine's social protection system and supporting reforms of social
+    assistance and services for the most vulnerable.
+
+    C. Proposed Development Objective(s)
+    8.      Project Development Objective (PDO). The PDO is to enhance the integration, efficiency, and inclusiveness of the
+    social protection system in Ukraine.
+
+    Key Results (From PCN)
+
+    9.        The key PDO Indicators (PDIs) for tracking progress toward achieving PDO are as follows:
+
+         ▪    PDI 1: Beneficiaries of cash-based interventions (Number). This Corporate Result Indicator will measure the
+              number of individuals benefiting from the consolidated BSA program.
+         ▪    PDI 2: Number of BSA program beneficiaries linked to social services through the integrated case management
+              (Number).
+         ▪    PDI 3: Number of beneficiaries receiving priority social services funded by the state budget (Number).
+         ▪    PDI 4: Number of people with disabilities linked to supported employment services (Number).
+
+    D. Concept Description
+
+    10.     The proposed project is designed to disburse based on the achievement of key results. The loan funds of US$500
+    million will be disbursed against eligible expenditures on selected social assistance benefit programs upon the
+    achievement of Performance-Based Conditions (PBCs). Specifically, disbursements will be triggered by the achievement
+    of PBCs that support essential reforms in social assistance, social services, and the social protection of people with
+    disabilities. Additionally, SPIRIT will provide US$10 million in grant funds to finance activities aimed at strengthening the
+    institutional capacity of the Ministry of Social Policy, Family, and Unity (MoSPFU) and the FSPPD to implement reforms
+    supported by this project, as well as developing community-based social services. The proposed project will have two
+    components.
+
+
+
+2 The technical assistance is provided in coordination with FCDO and UNICEF under the Social Protection for Inclusion, Resilience, Innovation, and
+Transformation Programmatic Advisory Services and Analytics (SPIRIT PASA, P507410). The activity is part of the broader multi-partner support
+program, SPIRIT, which aims to help the GoU develop a strategic vision for inclusive recovery and to strengthen institutions that address the needs
+of vulnerable groups.
+3 Financial support has been mobilized for Ukraine, with the overwhelming majority raised on behalf of donors and partners. World Bank (October
+
+31, 2025). Financing Mobilized for Ukraine since February 24, 2022. https://www.worldbank.org/en/country/ukraine/brief/world-bank-emergency-
+financing-package-for-ukraine
+
+                                                                                                                                              Page 4
+
+
+
+                                                                                                                                     Official Use Only
+      The World Bank
+      Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+Component 1
+
+11.    Component 1 - Improving Social Support for the Poor and Vulnerable. The project will allocate US$500 million in
+loan funds under Component 1. These funds will be disbursed against eligible expenditures once specific PBCs are met.
+The component will finance four selected social benefits envisaged by the state budget, including social assistance for
+children from large families; temporary assistance for children whose parents do not pay alimony; social pensions, and
+BSA, which is being implemented in a pilot phase. The SPIRIT project will reimburse expenditures for these existing
+benefits until the full-scale implementation of the consolidated BSA program is enacted. From that point, the project will
+finance the consolidated BSA program. The achievement of nine PBCs will trigger disbursements of funds under
+Component 1. These disbursement-linked indicators should be considered as conditions that incentivize achieving
+additional outcomes beyond what eligible expenditures alone can deliver.
+
+12.    PBC 1 supports transformative social assistance reform by consolidating Ukraine's safety net, improving
+targeting, and enhancing administrative efficiency to respond flexibly to socio-economic crises. The nationwide
+implementation of the BSA program, which is currently under a pilot, advances four interconnected changes:
+
+Consolidation of existing benefit programs. The BSA merges five existing benefits into a single "one-stop shop" anti-
+poverty program. These programs include the Guaranteed Minimum Income (GMI); social assistance for single parents;
+social assistance for children from large families; temporary assistance for children whose parents do not pay alimony;
+and social assistance for individuals who do not qualify for an old-age pension and for people with disabilities (social
+pension). This consolidation aims to enhance administrative efficiency by unifying programs’ rules and reducing the
+administrative burden on both the system and beneficiaries.
+
+Enhanced adequacy. The BSA will have a higher income eligibility threshold than the existing benefits it consolidates,
+enabling more vulnerable households to access the support they need.
+
+Modernized benefit calculation. The BSA introduces a new indicator of basic needs, the basic value, replacing the
+Subsistence Minimum. This decoupling enhances the scalability of social assistance and allows benefit levels to respond
+to actual vulnerability without triggering budget-straining recalculations across unrelated payment categories linked to
+the Subsistence Minimum.
+
+Improved administration and delivery infrastructure. The GoU is continuing its administrative reform of social assistance
+by shifting responsibilities for client intake, benefits provision, and payments to the Pension Fund of Ukraine (PFU),
+thereby transforming it into a unified payment agency. Currently, the PFU pays over 40 types of benefits and will
+administer the BSA. Multi-channel enrollment—through the PFU offices, Administrative Service Centers, and the Diia
+digital portal—will be refined based on pilot results to minimize inclusion/exclusion errors and ensure that the system
+can effectively manage beneficiary caseloads.
+
+13.     PBC 2 will support a significant shift towards an integrated model of benefits and services provision through a
+case management approach. The World Bank team, in close collaboration with the MoSPFU, is developing an integrated
+case management model to link BSA program beneficiaries to essential social services. This comprehensive approach
+builds on best practices and experiences from similar models implemented with support from the World Bank in other
+countries, such as Italy. The current centralized social assistance system lacks effective integration with decentralized
+social services and provides no meaningful pathways out of welfare dependency. The new model under development is
+expected to consolidate the efforts of various social protection and employment agencies at both the central and local
+levels. It will focus on proactively identifying families in need, especially those in crises, and on preventing them from
+
+
+                                                                                                                       Page 5
+
+
+
+                                                                                                               Official Use Only
+      The World Bank
+      Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+falling into the poverty trap. This innovative approach aims to significantly enhance poverty reduction efforts by helping
+low-income and vulnerable households escape the poverty trap and reduce their dependency on benefits.
+
+14.     Through PBC 3 and PBC 4, the project will advance critical reforms in Ukraine's social services system . The GoU
+is committed to building a system that expands coverage for vulnerable populations and delivers integrated, high-quality,
+and user-friendly social services. To bridge existing coverage gaps, the GoU is developing a diversified financing model
+for social services that incorporates funding from the state budget. As the first step, the GoU launched pilots to purchase
+priority social services using state budget funds from a range of providers, including private-sector organizations and
+NGOs. The next phase of the reform, supported by SPIRIT, will focus on two key policy measures: (i) establishing a
+mechanism for prioritizing services to be funded by the state budget and (ii) the creation of a designated agency
+responsible for purchasing social services.
+
+15.     PBC 5 will support regulatory changes to establish centrally funded procurement of comprehensive
+development and care services for children with disabilities to prevent their exclusion . This pilot will test procedures
+for delivering these services to children with disabilities aged six and older. It aims to create a procurement mechanism
+for the services contributing to: (i) the social integration and development of children who, due to health issues, cannot
+attend mainstream secondary education full-time; (ii) integration of children with disabilities into mainstream
+educational institutions; (iii) support for parents to help them re-enter the workforce; and (iv) prevention of the
+placement of children in institutions by promoting family-based care.
+
+16.     PBCs 6, 7, and 8 aim to support disability support system, moving from a medical model of disability to a
+comprehensive, human rights-based approach. Building on initial reforms that replaced the substandard medical-social
+expertise system with assessments of functioning, PBCs 6 and 7 will support the next transformative step by introducing
+an assessment mechanism based on the biopsychosocial model and aligned with the World Health Organization’s ICF.
+This shift is expected to guide the GoU’s strategies and programs in healthcare, social protection, education, employment,
+and physical culture/sports sectors and expand access to rehabilitation, assistive technologies, and personalized services
+for individuals with disabilities or functional limitations, including older adults. The mechanism will be implemented in
+phases, beginning with the pilot supported by PBC 7. PBC 8 complements these activities by introducing Active Labor
+Market Programs and targeted social services to enhance employability, earnings, and self-sufficiency for people with
+disabilities.
+
+Component 2
+
+17.    Component 2 - Enhancing the Capacity of the Social Protection System and Developing Social Services.
+Component 2, with a total amount of up to US$10 million, will finance investments to develop community-based social
+services and enhance the institutional capacity of the MoSPFU and FSPPD to implement project-supported reforms.
+
+18.     To implement the BSA reform and establish an integrated case management mechanism, the MoSPFU needs to
+strengthen its Management Information System (MIS). A key initiative in Ukraine's efforts to modernize and digitize its
+social protection system is the Unified Information System of the Social Sphere (UISSS). The UISSS is a comprehensive,
+centralized digital environment that streamlines and simplifies the management of social benefits and services. The
+SPIRIT project will finance hardware and application software to ensure that all components of the UISSS work
+synergistically, including the subsystems and modules currently under development. This will be particularly important
+during the full-scale implementation of the BSA and the introduction of integrated case management.
+
+19.    The capacity of the FSPPD needs strengthening to enable the implementation of a new financing model.
+
+
+                                                                                                                       Page 6
+
+
+
+                                                                                                               Official Use Only
+      The World Bank
+      Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+Currently, the FSPPD is implementing pilots focused on social services financed by the state budget. These pilots are
+testing the purchasing mechanism to identify potential bottlenecks, gather essential insights, and ensure timely
+preparation for the full-scale implementation of a new financing model for social services. The SPIRIT project will finance
+services and goods, including computer and office equipment and furniture, for the FSPPD.
+
+20.    Component 2 will also invest in the development of community-based social services. The project seeks not only
+to improve minimum income support and connect beneficiaries to essential services, but also to strengthen the
+availability and quality of social services at the community level. Specifically, the project will help address gaps by
+establishing priority social services tailored to local needs. SPIRIT will support the creation of local social service providers
+through project-financed microprojects. The project will identify target beneficiary groups and the specific service options
+required to address their challenging life circumstances through participatory needs assessments. The project will finance
+goods (equipment) and services to help create community-based providers. The microprojects are not expected to
+involve civil works. The project will develop a community selection methodology, with the selection criteria focused on
+communities with high poverty levels, social vulnerability, and at-risk populations.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                        Triggered?
+ Projects on International Waterways OP 7.50                                              No
+ Projects in Disputed Area OP 7.60                                                        No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Nithin Umapathi
+  Lead Economist
+
+ Borrower/Client/Recipient
+  Ukraine
+
+ Implementing Agencies
+  Ministry of Social Policy, Family, and Unity of Ukraine
+
+
+
+                                                                                                                            Page 7
+
+
+
+                                                                                                                    Official Use Only
+     The World Bank
+     Social Protection Project for Inclusion, Resilience, Innovation, and Transformation (SPIRIT) (P513322)
+
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                      Nithin Umapathi
+
+Approved By
+
+Practice Manager/Manager:                 Paolo Belli                              08-Nov-2025
+
+Country Director:                         Kevin A Tomlinson                        05-Dec-2025
+
+
+
+
+                                                                                                                      Page 8
+
+
+
+                                                                                                              Official Use Only
+

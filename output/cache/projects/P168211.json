@@ -1,0 +1,810 @@
+{
+  "project_id": "P168211",
+  "workflow": "v6",
+  "workflow_tag": "v6.9",
+  "workflow_hash": "f55efc9e38b8",
+  "package_version": "0.3.28",
+  "run_id": "e541c8f4",
+  "started_at": "2026-11-07T03:26:10Z",
+  "ended_at": "2026-11-07T03:26:50Z",
+  "input_fingerprint": "e0d0daaa97081908",
+  "innovation_tier": "High",
+  "innovation_keyword_hits": 14,
+  "innovative": "Yes",
+  "n_approaches": 1,
+  "approaches": [
+    {
+      "approach_id": "P168211-A1",
+      "project_id": "P168211",
+      "name": "AMI smart metering with automated data collection, billing and outage management",
+      "description": "Two-way smart meters with automated meter data, CRM billing, remote disconnection and outage/complaint management cut losses and raise collection rates. Practices: smart-meter AMI with automated data collection and CRM billing; AMI smart metering with automated data collection and billing; AMI remote disconnection to raise collection rates; IRMS integrated into AMI for outage and complaint response.",
+      "why_innovative": "New service: two-way smart metering with automated billing data - cue: 'smart meter' | category Technological; adoption apply; judged in 2 round(s); context expanded; final check: digital core, in_use before 2019",
+      "evidence": {
+        "guid": "685981582945276030",
+        "doc_type": "PAD",
+        "doc_date": "2020-02-03",
+        "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+        "char_start": 67496,
+        "char_end": 67586,
+        "text": "The AMI will comprise: (a) installation of smart meters (with 2-way remote communication);",
+        "match_kind": "exact",
+        "similarity": 1.0
+      },
+      "extra_evidence": [
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 67587,
+          "char_end": 67825,
+          "text": "(b) meter data collection and management (with automated data collection); and (c) billing system (with structured customer accounts and billing procedure based on accurate measured data, including customer relationship management (CRM)).",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 274441,
+          "char_end": 274466,
+          "text": "The AMI will comprise: a.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 274467,
+          "char_end": 274517,
+          "text": "Smart meters (with 2-way remote communication); b.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 274518,
+          "char_end": 274591,
+          "text": "Meter data collection and management (with automated data collection); c.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 351448,
+          "char_end": 351772,
+          "text": "Under the Program, BT will extend the use of AMI to cities of Istaravshan, Isfara, and Konibodom city, which will contribute to further reductions in energy loss rates and increase in collection rates for billed electricity, thus substantially contributing also into the improvement of company’s overall revenue recognition.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 351282,
+          "char_end": 351447,
+          "text": "Remote disconnection functionality of the AMI helped to achieve overall collection rate of 93.6 percent in 2017, with 97.5 percent in the residential category.50 43.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 402362,
+          "char_end": 402451,
+          "text": "It is recommended to include into the AMI, to be supported under the Program, a new IRMS.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        },
+        {
+          "guid": "685981582945276030",
+          "doc_type": "PAD",
+          "doc_date": "2020-02-03",
+          "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+          "char_start": 402452,
+          "char_end": 402620,
+          "text": "It will support better network operations and would allow to better respond to client claims and complaints related to outages and other issues with electricity supply.",
+          "match_kind": "exact",
+          "similarity": 1.0
+        }
+      ],
+      "category": {
+        "value": "Technological",
+        "code": "TECH",
+        "confidence": null,
+        "rationale": "Technological: metering and data system is the core mechanism",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "category_solution": {
+        "value": "",
+        "code": "",
+        "confidence": null,
+        "rationale": "",
+        "validated": "",
+        "validation_note": ""
+      },
+      "sector": {
+        "value": "Energy Transmission and Distribution",
+        "code": "",
+        "confidence": null,
+        "rationale": "Smart metering and billing improve distribution network operations and revenue collection.",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "theme": null,
+      "replication": [],
+      "status": "validated",
+      "adoption": {
+        "value": "apply",
+        "code": "",
+        "confidence": null,
+        "rationale": "Digital core: two-way smart meters, automated meter data, CRM billing | Innovative: replaces manual reading/billing | Category: Technological",
+        "validated": "confirmed",
+        "validation_note": ""
+      },
+      "replication_verdict": "",
+      "innovation_basis": "New service: two-way smart metering with automated billing data - cue: 'smart meter'",
+      "innovation_cues": []
+    }
+  ],
+  "documents_used": [
+    {
+      "project_id": "P168211",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "guid": "685981582945276030",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "source": "local",
+      "role": "primary"
+    }
+  ],
+  "trace": [
+    {
+      "step": "acquire",
+      "started_at": "2026-11-07T03:26:10Z",
+      "ended_at": "2026-11-07T03:26:21Z",
+      "status": "ok",
+      "note": "13 document(s) fetched from the WBG API; 18 already local",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "scope",
+      "started_at": "2026-11-07T03:26:21Z",
+      "ended_at": "2026-11-07T03:26:21Z",
+      "status": "ok",
+      "note": "in scope (approved 2020-02-25, status Active)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "screen",
+      "started_at": "2026-11-07T03:26:21Z",
+      "ended_at": "2026-11-07T03:26:28Z",
+      "status": "ok",
+      "note": "14 distinct keyword hits -> High",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "distinct_hits": 14,
+        "tier": "High",
+        "by_dimension": {
+          "innovation_types": 7,
+          "enabling_technologies": 3,
+          "innovation_cycle": 2,
+          "enabling_processes": 1,
+          "innovation": 1
+        }
+      }
+    },
+    {
+      "step": "locate_pad",
+      "started_at": "2026-11-07T03:26:28Z",
+      "ended_at": "2026-11-07T03:26:28Z",
+      "status": "ok",
+      "note": "PAD 2020-02-03 (P168211_PAD_2020-02-03_685981582945276030.txt)",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "selected": [
+          {
+            "project_id": "P168211",
+            "doc_type": "PAD",
+            "doc_date": "2020-02-03",
+            "guid": "685981582945276030",
+            "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+            "source": "local",
+            "role": "primary"
+          }
+        ],
+        "skipped": []
+      }
+    },
+    {
+      "step": "units",
+      "started_at": "2026-11-07T03:26:28Z",
+      "ended_at": "2026-11-07T03:26:28Z",
+      "status": "ok",
+      "note": "329 reading units (57 numbered paragraphs) from 2717 sentences",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "units": 329
+      }
+    },
+    {
+      "step": "candidates",
+      "started_at": "2026-11-07T03:26:28Z",
+      "ended_at": "2026-11-07T03:26:32Z",
+      "status": "ok",
+      "note": "65 of 329 units carry a digital / AI cue (14 also an innovation cue); 3 Data Sheet / legal-condition units excluded",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "candidate_units": 65,
+        "dropped": 0,
+        "legal_condition": 3,
+        "with_innovation_cue": 14
+      }
+    },
+    {
+      "step": "extract",
+      "started_at": "2026-11-07T03:26:32Z",
+      "ended_at": "2026-11-07T03:26:39Z",
+      "status": "ok",
+      "note": "8 candidate practices from 65 units in 7 calls",
+      "llm_calls": 7,
+      "input_chars": 203823,
+      "output": {
+        "usage": {
+          "calls": 7,
+          "input_tokens": 1333,
+          "cached_tokens": 41984,
+          "cache_write_tokens": 0,
+          "output_tokens": 2237,
+          "seconds": 19.3,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0033
+        },
+        "extracted": 8
+      }
+    },
+    {
+      "step": "validate",
+      "started_at": "2026-11-07T03:26:39Z",
+      "ended_at": "2026-11-07T03:26:44Z",
+      "status": "ok",
+      "note": "4 accepted, 4 rejected (not_innovative 2, background_or_other_programme 1, not_digital 1); 1 sent to the expanded-context round; 2 calls",
+      "llm_calls": 2,
+      "input_chars": 86451,
+      "output": {
+        "usage": {
+          "calls": 2,
+          "input_tokens": 11710,
+          "cached_tokens": 5504,
+          "cache_write_tokens": 0,
+          "output_tokens": 636,
+          "seconds": 4.8,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0043
+        },
+        "accepted": 4,
+        "rejected": 4,
+        "expanded": 1,
+        "reject_codes": {
+          "not_innovative": 2,
+          "background_or_other_programme": 1,
+          "not_digital": 1
+        }
+      }
+    },
+    {
+      "step": "codes",
+      "started_at": "2026-11-07T03:26:44Z",
+      "ended_at": "2026-11-07T03:26:45Z",
+      "status": "ok",
+      "note": "4 of 4 approaches given a sector by the model; 1 calls",
+      "llm_calls": 1,
+      "input_chars": 1420,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 336,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 145,
+          "seconds": 1.7,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        }
+      }
+    },
+    {
+      "step": "merge",
+      "started_at": "2026-11-07T03:26:45Z",
+      "ended_at": "2026-11-07T03:26:47Z",
+      "status": "ok",
+      "note": "4 approaches -> 1 by sector x category",
+      "llm_calls": 1,
+      "input_chars": 1604,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 370,
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "output_tokens": 64,
+          "seconds": 1.5,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0002
+        },
+        "merged": 3,
+        "legal_evidence": 0
+      }
+    },
+    {
+      "step": "novelty",
+      "started_at": "2026-11-07T03:26:47Z",
+      "ended_at": "2026-11-07T03:26:49Z",
+      "status": "ok",
+      "note": "1 approaches checked in 1 call(s): 1 kept (digital & AI core, rare or absent before 2019); 0 dropped as not digital, 0 as existing before 2019",
+      "llm_calls": 1,
+      "input_chars": 4011,
+      "output": {
+        "usage": {
+          "calls": 1,
+          "input_tokens": 525,
+          "cached_tokens": 384,
+          "cache_write_tokens": 0,
+          "output_tokens": 93,
+          "seconds": 1.9,
+          "reused_answers": 0,
+          "model": "deepseek-flash",
+          "est_cost_usd": 0.0003
+        },
+        "dropped": 0
+      }
+    },
+    {
+      "step": "aggregate",
+      "started_at": "2026-11-07T03:26:49Z",
+      "ended_at": "2026-11-07T03:26:49Z",
+      "status": "ok",
+      "note": "1 approaches (1 applied), 9 evidence rows, 4 rejected",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {}
+    },
+    {
+      "step": "replication",
+      "started_at": "2026-11-07T03:26:49Z",
+      "ended_at": "2026-11-07T03:26:50Z",
+      "status": "ok",
+      "note": "0 explicit references, 0 similar approaches",
+      "llm_calls": 0,
+      "input_chars": 0,
+      "output": {
+        "explicit": [],
+        "store_size": 65
+      }
+    }
+  ],
+  "error": "",
+  "aec_rows": [
+    {
+      "row_id": "P168211-A1-E1",
+      "approach_id": "P168211-A1",
+      "evidence_no": 1,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 483,
+      "char_start": 67496,
+      "char_end": 67586,
+      "sentence": "The AMI will comprise: (a) installation of smart meters (with 2-way remote communication);",
+      "practice": "smart-meter AMI with automated data collection and CRM billing",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: smart meters, automated meter data, CRM billing | Not routine: replaces manual meter reading and billing | Adoption: 'The AMI will comprise'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: two-way smart meters, automated meter data, CRM billing | Innovative: replaces manual reading/billing | Category: Technological",
+      "keywords_hit": "automated;data collection;smart meter",
+      "innovation_cues": "",
+      "innovation_basis": "New service: two-way smart metering with automated billing data - cue: 'smart meter'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E2",
+      "approach_id": "P168211-A1",
+      "evidence_no": 2,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U58",
+      "para_no": null,
+      "sentence_position": 484,
+      "char_start": 67587,
+      "char_end": 67825,
+      "sentence": "(b) meter data collection and management (with automated data collection); and (c) billing system (with structured customer accounts and billing procedure based on accurate measured data, including customer relationship management (CRM)).",
+      "practice": "smart-meter AMI with automated data collection and CRM billing",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: smart meters, automated meter data, CRM billing | Not routine: replaces manual meter reading and billing | Adoption: 'The AMI will comprise'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: two-way smart meters, automated meter data, CRM billing | Innovative: replaces manual reading/billing | Category: Technological",
+      "keywords_hit": "automated;data collection;smart meter",
+      "innovation_cues": "",
+      "innovation_basis": "New service: two-way smart metering with automated billing data - cue: 'smart meter'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E3",
+      "approach_id": "P168211-A1",
+      "evidence_no": 3,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U207",
+      "para_no": null,
+      "sentence_position": 1676,
+      "char_start": 274441,
+      "char_end": 274466,
+      "sentence": "The AMI will comprise: a.",
+      "practice": "AMI smart metering with automated data collection and billing",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI smart meters, automated billing | Not routine: cuts losses and raises collection | Adoption: 'will comprise'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smart meters, automated data, CRM billing | Innovative: cuts losses, raises collection | Category: Technological",
+      "keywords_hit": "automated;data collection;smart meter",
+      "innovation_cues": "",
+      "innovation_basis": "New service: two-way smart meters with automated billing - cue: 'roll-out'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E4",
+      "approach_id": "P168211-A1",
+      "evidence_no": 4,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U207",
+      "para_no": null,
+      "sentence_position": 1677,
+      "char_start": 274467,
+      "char_end": 274517,
+      "sentence": "Smart meters (with 2-way remote communication); b.",
+      "practice": "AMI smart metering with automated data collection and billing",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI smart meters, automated billing | Not routine: cuts losses and raises collection | Adoption: 'will comprise'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smart meters, automated data, CRM billing | Innovative: cuts losses, raises collection | Category: Technological",
+      "keywords_hit": "automated;data collection;smart meter",
+      "innovation_cues": "",
+      "innovation_basis": "New service: two-way smart meters with automated billing - cue: 'roll-out'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E5",
+      "approach_id": "P168211-A1",
+      "evidence_no": 5,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U207",
+      "para_no": null,
+      "sentence_position": 1678,
+      "char_start": 274518,
+      "char_end": 274591,
+      "sentence": "Meter data collection and management (with automated data collection); c.",
+      "practice": "AMI smart metering with automated data collection and billing",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI smart meters, automated billing | Not routine: cuts losses and raises collection | Adoption: 'will comprise'",
+      "judge_rounds": 1,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: smart meters, automated data, CRM billing | Innovative: cuts losses, raises collection | Category: Technological",
+      "keywords_hit": "automated;data collection;smart meter",
+      "innovation_cues": "",
+      "innovation_basis": "New service: two-way smart meters with automated billing - cue: 'roll-out'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E6",
+      "approach_id": "P168211-A1",
+      "evidence_no": 6,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U275",
+      "para_no": null,
+      "sentence_position": 2258,
+      "char_start": 351448,
+      "char_end": 351772,
+      "sentence": "Under the Program, BT will extend the use of AMI to cities of Istaravshan, Isfara, and Konibodom city, which will contribute to further reductions in energy loss rates and increase in collection rates for billed electricity, thus substantially contributing also into the improvement of company’s overall revenue recognition.",
+      "practice": "AMI remote disconnection to raise collection rates",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI remote disconnection | Not routine: automated cut-off replaces manual collection | Adoption: 'will extend the use of AMI'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: AMI remote disconnection | Innovative: automated cut-off replaces manual collection | Category: Technological",
+      "keywords_hit": "automated;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New service: remote disconnection via smart meters cuts losses and lifts collection - cue: 'extend the use of AMI'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E7",
+      "approach_id": "P168211-A1",
+      "evidence_no": 7,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U275",
+      "para_no": null,
+      "sentence_position": 2257,
+      "char_start": 351282,
+      "char_end": 351447,
+      "sentence": "Remote disconnection functionality of the AMI helped to achieve overall collection rate of 93.6 percent in 2017, with 97.5 percent in the residential category.50 43.",
+      "practice": "AMI remote disconnection to raise collection rates",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI remote disconnection | Not routine: automated cut-off replaces manual collection | Adoption: 'will extend the use of AMI'",
+      "judge_rounds": 1,
+      "judge_verdict": "revise",
+      "judge_reason": "Digital core: AMI remote disconnection | Innovative: automated cut-off replaces manual collection | Category: Technological",
+      "keywords_hit": "automated;methodolog",
+      "innovation_cues": "",
+      "innovation_basis": "New service: remote disconnection via smart meters cuts losses and lifts collection - cue: 'extend the use of AMI'",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E8",
+      "approach_id": "P168211-A1",
+      "evidence_no": 8,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U316",
+      "para_no": null,
+      "sentence_position": 2635,
+      "char_start": 402362,
+      "char_end": 402451,
+      "sentence": "It is recommended to include into the AMI, to be supported under the Program, a new IRMS.",
+      "practice": "IRMS integrated into AMI for outage and complaint response",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI-integrated outage complaint system | Not routine: links metering to complaint response | Adoption: 'to be supported under the Program'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: AMI-integrated IRMS | New: automated fault detection, claim-to-network linking | Category: new digital service system",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AMI-linked system automating fault detection, claim tracking and outage statistics",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    },
+    {
+      "row_id": "P168211-A1-E9",
+      "approach_id": "P168211-A1",
+      "evidence_no": 9,
+      "number_of_evidence": 9,
+      "project_id": "P168211",
+      "doc_id": "685981582945276030",
+      "doc_type": "PAD",
+      "doc_date": "2020-02-03",
+      "file_name": "P168211_PAD_2020-02-03_685981582945276030.txt",
+      "unit_id": "U316",
+      "para_no": null,
+      "sentence_position": 2636,
+      "char_start": 402452,
+      "char_end": 402620,
+      "sentence": "It will support better network operations and would allow to better respond to client claims and complaints related to outages and other issues with electricity supply.",
+      "practice": "IRMS integrated into AMI for outage and complaint response",
+      "category": "Technological",
+      "adoption": "apply",
+      "sector": "Energy Transmission and Distribution",
+      "extractor_reason": "Digital core: AMI-integrated outage complaint system | Not routine: links metering to complaint response | Adoption: 'to be supported under the Program'",
+      "judge_rounds": 2,
+      "judge_verdict": "accept",
+      "judge_reason": "Digital core: AMI-integrated IRMS | New: automated fault detection, claim-to-network linking | Category: new digital service system",
+      "keywords_hit": "survey",
+      "innovation_cues": "",
+      "innovation_basis": "New service: AMI-linked system automating fault detection, claim tracking and outage statistics",
+      "evidence_source": "body",
+      "workflow_version": "v6",
+      "run_id": "e541c8f4"
+    }
+  ],
+  "exclusion_log": [
+    {
+      "guid": "685981582945276030",
+      "doc_type": "PAD",
+      "position": 1090,
+      "char_start": 150746,
+      "char_end": 150884,
+      "sentence": "The scale up of AMI to cover the cities of Istaravshan, Isfara, and Konibodom is also expected to lead to increased reliability of supply.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "AMI smart metering scale-up to three cities",
+      "reason": "reject: Geographic extension of existing AMI, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New service: AMI smart metering extended to new cities - cue: 'scale up'",
+      "innovation_cues": "scale-up",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Geographic extension of existing AMI, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1280
+        }
+      ]
+    },
+    {
+      "guid": "685981582945276030",
+      "doc_type": "PAD",
+      "position": 2250,
+      "char_start": 350187,
+      "char_end": 350419,
+      "sentence": "The issue is due to lack of automated software for revenue recognition at several subdivisions and subsidiaries of the company, and receivables recording is done manually, which is prone to misstatements and manipulation in records.",
+      "candidate_codes": [
+        "Technological"
+      ],
+      "route": "judge",
+      "practice": "AMI smart metering with Metering Control Center for theft detection",
+      "reason": "reject: MCC established under EBRD/EIB/EU Sughd program, not this project",
+      "reject_code": "background_or_other_programme",
+      "innovation_basis": "New service: AMI plus control center detecting theft - cue: 'extend the use of AMI'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "MCC established under EBRD/EIB/EU Sughd program, not this project",
+          "reject_code": "background_or_other_programme",
+          "context_chars": 1223
+        }
+      ]
+    },
+    {
+      "guid": "685981582945276030",
+      "doc_type": "PAD",
+      "position": 2638,
+      "char_start": 402625,
+      "char_end": 402694,
+      "sentence": "Increased disclosure of operational and financial data related to BT.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Public disclosure of power sector balance, outage and tariff data",
+      "reason": "reject: Disclosure recommendation, no named digital system doing the work",
+      "reject_code": "not_digital",
+      "innovation_basis": "New process: open disclosure of sector balance and outage data - cue: 'increased disclosure'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Disclosure recommendation, no named digital system doing the work",
+          "reject_code": "not_digital",
+          "context_chars": 1308
+        }
+      ]
+    },
+    {
+      "guid": "685981582945276030",
+      "doc_type": "PAD",
+      "position": 2668,
+      "char_start": 408878,
+      "char_end": 408945,
+      "sentence": "No publicly available Create a dedicated section in BT public - BT.",
+      "candidate_codes": [
+        "Operational"
+      ],
+      "route": "judge",
+      "practice": "Dedicated BT web section publishing procurement complaint handling",
+      "reason": "reject: Routine procurement complaint disclosure, not a new practice",
+      "reject_code": "not_innovative",
+      "innovation_basis": "New process: online procurement complaint tracking disclosure - cue: 'dedicated section'",
+      "innovation_cues": "",
+      "rounds": [
+        {
+          "round": 1,
+          "verdict": "reject",
+          "reason": "Routine procurement complaint disclosure, not a new practice",
+          "reject_code": "not_innovative",
+          "context_chars": 1559
+        }
+      ]
+    }
+  ],
+  "llm_usage": {
+    "calls": 12,
+    "input_tokens": 14274,
+    "cached_tokens": 47872,
+    "cache_write_tokens": 0,
+    "output_tokens": 3175,
+    "seconds": 29.2,
+    "reused_answers": 0,
+    "model": "deepseek-flash",
+    "est_cost_usd": 0.0084
+  }
+}

@@ -1,0 +1,673 @@
+﻿         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+
+
+                          Project Information Document (PID)
+
+                        Concept Stage | Date Prepared/Updated: 13-Jan-2019 | Report No: PIDISDSC24013
+
+
+
+
+Jan 11, 2019                                                                                            Page 1 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+  BASIC INFORMATION
+
+
+  A. Basic Project Data OPS TABLE
+
+  Country                                        Project ID                   Parent Project ID (if any)   Project Name
+  China                                          P163679                                                   China Renewable
+                                                                                                           Energy and Battery
+                                                                                                           Storage Project
+                                                                                                           (P163679)
+  Region                                         Estimated Appraisal Date     Estimated Board Date         Practice Area (Lead)
+  EAST ASIA AND PACIFIC                          Mar 20, 2019                 May 30, 2019                 Energy & Extractives
+
+  Financing Instrument                           Borrower(s)                  Implementing Agency
+  Investment Project Financing                   People's Republic of China   Huaxia Bank, National
+                                                                              Energy Administration
+
+   Proposed Development Objective(s)
+
+    The project development objective is to improve the performance of renewable energy (RE) through reduction of
+    curtailment and deployment of emerging uses of RE in China, focusing on application of battery storage technology.
+
+    PROJECT FINANCING DATA (US$, Millions)
+
+   SUMMARY-NewFin1
+
+    Total Project Cost                                                                                                     639.24
+
+    Total Financing                                                                                                        639.24
+                             of which IBRD/IDA                                                                             200.00
+
+    Financing Gap                                                                                                             0.00
+
+   DETAILS     -NewFinEnh1
+
+
+
+
+    World Bank Group Financing
+
+       International Bank for Reconstruction and Development (IBRD)                                                        200.00
+
+    Non-World Bank Group Financing
+
+       Counterpart Funding                                                                                                 425.00
+          Borrower/Recipient                                                                                               425.00
+       Trust Funds                                                                                                           14.24
+
+
+Jan 11, 2019                                                                                                             Page 2 of 14
+          The World Bank
+          China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+
+           Global Environment Facility (GEF)                                                                                14.24
+
+
+
+
+     Environmental and Social Risk Classification                      Concept Review Decision
+     Substantial                                                       Track II-The review did authorize the preparation to
+                                                                       continue
+
+
+
+     Other Decision (as needed)
+
+
+
+     B. Introduction and Context
+
+     Country Context
+
+        1. China has experienced fast growth of energy consumption tied to sustained economy growth in the past
+           decades. Since China announced its ‘reform and opening’ in 1978, China’s GDP per capita has increased 24 fold
+           in the past 40 years, from 385 CNY per capita in 1978 to 59,660 CNY per capita in 2017 (valued at current year
+           price). China’s efforts in economy growth has taken 740 million people out of extreme poverty – the poverty
+           population reduced from 770 million in 1978 to 30.5 million in 2017, and the government shifted its focus on
+           reducing poverty in northern and western provinces. The fast economy growth is accompanied with fast energy
+           consumption: total energy consumption increased from 571 million tons of coal equivalent (mtce) in 1978 to
+           4,490 mtce in 2017, of which the share of coal has been kept at about 70-76 percent before 2000, and decreased
+           gradually to 60 percent in 2017. Challenges are emerging in meeting the continuous growth of energy demand
+           and addressing the ensued serious environmental pollution in China.
+
+        2. Ambitious renewable energy (RE) development has been launched in China, and the Government is committed
+           to reduce carbon intensity of the energy sector. To reduce the serious environmental pollution and greenhouse
+           gas (GHG) emission caused by the coal-dominated energy production, the Government of China has announced
+           ambitious targets of RE development, aiming to reduce the share of coal in the country’s energy mix, and
+           achieved the targets set for the 13th Five-Year Plans (FYPs) period (2016-2020). By end of 2017, the installed
+           capacity of wind power and solar PV amounted to 164 GW and 130 GW respectively, ranked the top in the world.
+           The share of non-fossil fuel energy increased from 8.6 percent in 2010 to 14.2 percent in 2017, close to the
+           government’s 2020 target (15 percent).
+
+        3. In its nationally determined contribution (NDC) for action under the Paris Agreement on climate change, China
+           committed to reduce the GHG emission1. The Government’s Strategy (labeled as the “Energy Revolution�?), issued
+           formally in 2016, sets the long-term goal of having more than half of energy come from non-fossil sources by
+           2050, compared to current targets of 15 percent by 2020, and 20 percent by 2030. Ambitious RE development
+
+
+ 1
+   As part of China’s NDC submitted in 2015, the Government intends to reduce carbon emissions per unit of GDP by 40 –45 percent
+ from 2005 to 2020 and by 60–65 percent from 2005 to 2030, and for carbon emissions to peak by 2030.
+
+Jan 11, 2019                                                                                                            Page 3 of 14
+          The World Bank
+          China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+            is still anticipated in China. Domestic researches2 indicate that total installed capacity of wind power and solar
+            PV could reach more than 400 GW and 300 GW respectively by 2030.
+
+        4. Along with the sustained economic growth, China’s power sector has also experienced fast growth in the past
+           decades. By the end of 2017, total installed capacity in China amounted to 1,777 GW, and total electricity
+           consumption amounted to 6,363 TWh. The average annual growth rates of installed capacity and electricity
+           consumption in China were 9.2 and 8.6 percent respectively in the past four decades. With the fast growth or RE,
+           especially wind and solar power since 2005, the share of coal-fired power generation has been reduced steadily,
+           from 83 percent in 1978, to 81 percent in 2010, and 65 percent in 2017.
+
+     Sectoral and Institutional Context
+
+        5. Though China is already a leading country in RE development, efficiency of RE development has raised concerns
+           due to serious curtailment problems.3 Since 2010, China has experienced serious curtailment of wind and solar
+           energy in northern China and hydropower in the southwest. Taking wind power as an example, National Energy
+           Administration (NEA)’s statistics show that total wind curtailment increased from 39 TWh in 2015 to 49.7 TWh in
+           2016, reaching 17 percent of total available wind power generation in the country, then dropped to 41.9 TWh
+           (or 12 percent of available wind power generation) in 2017. Regional data show that serious curtailment of wind
+           power occurs in northern China, especially Gansu, Xinjiang, Inner Mongolia and Jilin provinces. A comparison of
+           wind power generation in both China and US in 2015 indicated that China produced the same amount of
+           electricity from wind as the US but with twice the installed capacity (See Figure 1)4. Considering the current size
+           of the total wind generation in China, a reduction of curtailment by 1 percent point could increase RE generation
+           by about 3,000 GWh, equivalent to GHG emission reduction of 2.4 million tons of CO2 equivalent 5.
+
+        6. The RE curtailment issue has raised concerns among investors and decision makers in China. As a result, China
+           held back the development of RE capacity in several provinces where serious curtailment occurred in 2016,
+           enhanced its monitoring of the performance of existing wind farms and solar PV stations, and adjusted its 13 th
+           Renewable Energy Development Five-Year-Plan (2016-2020) to discipline the development of centralized RE in
+           2017 and 2018. Without addressing the curtailment issue, achievement of the ambitious target of RE
+           development (more than 700GW by 2030 as projected by China Energy Research Society) could be delayed since
+           the current volume of RE is still a small portion of the ambitious target and future RE development could lead to
+           more curtailment.
+
+        7. RE integration is a key challenge in China, and swift actions are needed to overcome both institutional and
+           technical barriers. The serious RE curtailment in recent years was caused by both institutional and technical
+           barriers. Institutionally, gaps in both RE and grid planning, insufficient incentives to break “provincialism�? and
+           promote inter-provincial power exchange, and vested interests prevented RE generation dispatch. Technically,
+
+ 2
+   China Renewable Energy Outlook, 2018, China Renewable Center (CNREC); China Energy Outlook 2030, Chine Energy Research
+ Society (CERS).
+ 3
+   Curtailment is defined as a reduction in the scheduled capacity or energy delivered to the grid, in this case from wind, solar, and
+ hydro energy facilities. Because electricity from variable resources such as wind and solar must be used when it is produced (unless
+ there is associated energy storage), the resource is therefore wasted.
+ 4
+   Why China's Wind Energy Underperforms. By Peter Fairley - IEEE Spectrum 23 May 2016.
+ 5
+   Total wind generation was 303.4 TWh in 2017 in China. Applying an estimated emission factor of 0.8 tCO2/MWh, an one percent
+ point increase of wind power generation will reduce a total 2.4 million tons of CO2.
+
+
+Jan 11, 2019                                                                                                                 Page 4 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+           coal-dominated generation systems have limited flexibility and storage capacity to integrate the large-scale
+           variable wind and solar power (referred to as VRE in the reminder of the CN). In addition, the transmission
+           bottleneck prevents inter-province power exchange when large amount of RE needs to be transmitted from rich-
+           resource western provinces (with low electricity demand) to high-demand central and eastern provinces. In
+           2015, the State Council issued Decree No. 9 to deepen power sector reforms. It required to gradually phase out
+           the generation quotas for coal-fired power plants, abolish the single buyer model and change the role of grid
+           companies to provide transmission and distribution services, and establish power markets to introduce
+           competition and increase the efficiency of power sector.
+
+               Figure 1. Installed wind capacity in China and US (Image: Tsinghua University/Harvard University)
+
+
+
+
+      8. Achieving the ambitious RE targets also requires rethinking the RE development roadmap, and multi-
+         dimension RE development tracks are needed. The prevailing RE development in China has been contributed
+         mainly by the development of large scale centralized wind and solar power. Development of distributed RE,
+         connected to the distribution networks directly and consumed locally, has been recognized as a new direction of
+         RE development and has been promoted by both state and provincial authorities, leading to a fast growth since
+         the mid-2010s. New uses of RE have also emerged with some success, including RE for heating, thus opening a
+         third track to promote RE development in China.
+
+          a) Technical solutions particularly battery storage, are envisaged to reduce the curtailment and improve the
+             Integration of Large Scale Centralized VRE:
+
+                   Technical solutions for improving the integration of VRE have also been identified but support is
+                    required to promote their development. Improving the operational flexibility of power system,
+                    promoting the development of grid-friendly distributed RE, and developing emerging markets to increase
+                    consumption of RE generated electricity, are three major types of technical solutions envisaged to address
+                    the curtailment issue. Major specific actions of improving system operational flexibility include: (a) easing
+
+Jan 11, 2019                                                                                                           Page 5 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+                   transmission and distribution constraints to allow power dispatch across larger geographical areas; (b)
+                   improving the dispatch flexibility of existing dominated coal-fired thermal power plants, especially the
+                   combined heat and power plants in northern China; (c) reshaping the outputs of existing VRE by deploying
+                   energy storage and improving VRE forecast; and (d) installing energy storage in power systems to adapt
+                   quickly to the changes of both VRE and demand fluctuations, including generation, grid and consumer
+                   sides.
+
+                  Energy storage systems, coupled with advanced information and communication technology (ICT), are
+                   emerging as a technology package that is essential to provide flexibility to integrate higher levels of
+                   VRE. Energy storage is emerging as a technical solution to cut RE curtailment and support RE development
+                   in the short, medium and long term. Among many types of energy storage technologies, batteries offer a
+                   wide range of services and benefits at utility-scale generation, transmission and distribution levels and at
+                   end user level. On the generation side, battery storage can help smooth RE outputs to provide more
+                   stable supply to the grid. At transmission and distribution levels, it can improve the flexibility of system
+                   dispatch by shifting the locations of sources of power supply, increasing demand in the off-peak hours,
+                   and transferring energy supply from off-peak to peak hours. This operation will enable more RE
+                   integration and reduce congestion of transmission system, and eventually reducing RE curtailment. At the
+                   consumer level, it also helps increase demand at off-peak hours and provides localized power supply at
+                   peak hours; it enables expansion of distributed VRE to meet local demand, further contributes to easing
+                   congestion at the transmission level and avoid costly investments in transmission and distribution
+                   networks, and provide additional flexibility to the power system to integrate more centralized VRE
+                   through introduction of demand side management. Advances in ICT, including cloud computing, big data,
+                   artificial intelligence, and blockchain, are enabling efficient planning, design, operation, monitoring, and
+                   safety and life expectancy control over battery systems. Countries that are leading efforts to capture the
+                   value of batteries through innovative policies, regulation and incentives include the US (e.g. California,
+                   New York), Republic of Korea, UK, Germany, Australia, and Japan, while investing hugely in battery
+                   technology innovations to lower down cost, improve efficiency, and enhance safety. The experiences in
+                   these countries can provide lessons and complement solutions envisaged by China to resolve the similar
+                   issues.
+
+          b) Supporting the Development of Distributed RE – energy storage is also an emerging solution to the
+             Integration of DRE
+
+                  Distributed RE is emerging as a major contributor to China’s clean energy development with distinct
+                   opportunities. Distributed RE (DRE) comprises technologies and services at the level of electric power
+                   distribution grid and its users, including generation, energy efficiency, demand response, storage, and
+                   related ICT systems (Hungerford & others 2017). Potential benefits of DRE from the perspective of the
+                   power system include avoiding the need for additional grid capacity, and ancillary services to ensure
+                   quality operation of the grid, among others.
+
+                  Harnessing the potential of DRE for China’s clean energy transition requires further efforts to address
+                   market and policy challenges, as well as technical barriers. However, for specific use-cases of DRE, the
+                   benefits and costs, and their allocation among actors, depend on a wide range of context-specific
+                   technical, economic, and policy factors. Moreover, realizing the full benefits of DRE is likely to require
+                   institutions that look very different from those prevalent today and in charge of setting standards, pricing,
+                   market design, regulation, and business models. In China, DRE and supporting institutions are at a
+
+
+Jan 11, 2019                                                                                                          Page 6 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+                 relatively early stage of development compared with some other countries. Reforms in market design and
+                 other aspects of power sector institutions, which China continues to explore, are thus likely to influence
+                 and be influenced by demand for DRE. Technical barriers relate mainly with the non-conformity of
+                 required technical standards due to quick development of distributed PV in vast areas, as well as the
+                 inadequate capacity of the distribution networks. With the fast growth of distributed solar PV in China,
+                 quality and performance of these installed capacity not up to standards could downgrade the
+                 effectiveness of the investment. Improved maintenance practices, enhanced and more flexible
+                 distribution networks, improved dispatch of DRE with installation of energy storage, could be required.
+
+          c) Promoting New Emerging Use of RE, especially RE for Heating, could be a new area to achieve China’s RE
+             target. Complementary to the development of grid connected centralized and distributed RE, new uses of RE
+             such as RE for heating, are emerging in several countries including China. Such applications contribute to
+             addressing the serious environmental problems in winter and improve RE integration in some cases, especially
+             in northern China. In Gansu, Inner Mongolia and Northeast China, where curtailment is significant, business
+             models have been developed between existing wind farms and cities to increase wind power generation to
+             meet heating demand and replace coal-fired heating boilers. Development of heat pumps to supply heat in
+             some areas has also been piloted in many areas. Scaling up of such solutions is being considered by different
+             levels of government authorities. Some other new emerging use of RE (e.g. hydrogen) could also have the
+             potential to grow in the coming years, if technically well tested and accepted by the markets.
+
+      9. In China, the market for battery storage is growing but faces significant barriers. While some battery segments
+         are already commercial, i.e. car batteries, application of batteries for energy storage in the power sector is yet at
+         its infant stage. However, there is a huge potential of new markets for utility-scale and commercial applications
+         of energy storage in the power sector. According to the 2018 Long-Term Energy Storage Outlook (BNEF, 2018),
+         global battery storage capacity could increase to 942 GW/2857 GWh by 2040, total investment requirement
+         would be around US$ 620 billion; two-thirds of the market would be in China, US, India, Japan, Germany, France,
+         Australia, Korea and UK. However, a series of roadblocks still need to be removed for these new markets to
+         expand. These include high cost, environmental impacts and safety issues. The utility-scale battery storage
+         market is still mainly confined to demonstration although grid companies announced quite large-scale energy
+         storage pilots in 2018. Energy storage demonstration projects installed in existing thermal power plants, have
+         been initiated since 2016 when ancillary services compensation mechanisms were developed in several
+         provinces.
+
+      10. New policies and regulations in China need to be designed and implemented to create the enabling
+          environment for the scale-up of flexibility solutions, such as battery storage, to reduce RE curtailment and
+          enable further development of both centralized and distributed RE. Energy storage is a fairly new focus in
+          China’s 13th Five Year Plan (FYP) and related policy documents. Public institutions in charge of developing
+          policies, pricing and standards need to acquire the corresponding knowledge and experience to develop policies
+          and regulations to allow implementation and sustainable growth of the emerging technical solutions in line with
+          best environmental practice and technical standards. Specific financial or other policy incentives are yet to be
+          developed to address the barrier to scale up energy storage in the power sector, including (i) high cost, (ii)
+          concern on safety management, (iii) environmental risks related to battery recycling and disposal, (iv) lack of
+          regulation for grid access by third-party energy storage investors and for associated energy storage services, and
+          (v) lack of regulation for integration of consumer side battery storage. The business models that are being piloted
+          need to be expanded - most battery storage systems deployed today involve only one of three main applications:
+          demand charge reduction, backup power, or increasing solar self-consumption, though there are some pilot
+
+
+Jan 11, 2019                                                                                                        Page 7 of 14
+          The World Bank
+          China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+            applications of providing ancillary service with battery storage. Capturing multiple benefits of battery storage
+            and adapting its development to different system characteristics can make investments more attractive but
+            would require adequate regulatory and pricing frameworks. Policies, regulations, standards and institutions to
+            fully address these issues are presently lacking in China. Decision making in the sector is also fragmented among
+            concerned agencies and coordination mechanisms are relatively weak.
+
+        11. The Government and related stakeholders in China are already exploring solutions to varying degrees for
+            reduction of RE curtailment and further development of RE, including with World Bank assistance in certain
+            areas. For example, pilot market mechanisms to provide ancillary services, and rehabilitation of thermal power
+            plants to increase its peaking capability, have shown promising results in reducing RE curtailment in various
+            provinces, with strong potential for replication. The grid companies are upgrading transmission capacity at key
+            locations to eliminate transmission bottleneck. The Government also intervened and caused provincial
+            governments and grid companies to increase inter-provincial power exchange, with positive results in 2017 and
+            2018 to reduce VRE curtailment. The Government is also introducing a RE quota system to set minimum
+            renewable power consumption targets for major consumers, distributors, retailers and self-generators in each
+            province. The World Bank has been accompanying and providing support to the development of these policies
+            and regulations for several years, in particular through the “Second Phase of the Renewable Energy Scale-up
+            Program�? (P127033) supported by a GEF grant. Other parallel operations are also under preparation, which
+            include support to DRE and enabling policies for energy storage deployment. However, important investments
+            are needed to unlock the potential of each solution individually.
+
+        12. IFC is supporting front runners of battery storage manufactures but barriers still limit market expansion. IFC’s
+            recent study concluded that energy storage deployment in emerging markets is expected to grow substantially
+            over the next decades and considered this will open new markets and offer tremendous opportunities. To date,
+            IFC has engaged by means of early-stage venture capital investments on battery manufactures 6 , helping to
+            prepare the market for mainstream investments. However, the current barriers hold IFC from providing its
+            commercial loans to specific battery storage investment projects. IFC considers the current levels of cost for
+            battery storage remain relatively high, restricting access to affordable financing. Innovative investment
+            mechanisms, in coordination with improved industry standards and stronger government support, will be needed
+            to unlock the transformative potential of energy storage.
+
+
+     Relationship to CPF
+
+        13. The proposed Project supports the World Bank Groups’ broader strategy of engagement in China. The project
+            furthers the WBG twin goals of ending extreme poverty and boosting shared prosperity and is fully aligned with
+            the key priorities identified in the Systemic Country Diagnostic (Report No. 113092-CN) and the Country
+            Partnership Strategy for China (Report No. 67566-CN) by strengthening the policy and institutional framework
+            for green growth and clean energy. This context informs the concept of the proposed Project and its relationship
+            to other ongoing and prospective activities in the World Bank portfolio in China. In particular, the proposed
+            Project is consistent with three interlinked dimensions of the clean energy transition in China that harness Bank’s
+            global expertise: (a) promote the required enabling environment, supporting sector market reforms, design of
+            new policies and regulations and financing pilots; and (b) support the design and the piloting of innovative
+
+ 6
+  Some of IFC’s noteworthy investments included Microvast, a China -based manufacturer of especially fast-charging lithium-ion
+ batteries; Fluidic Energy, a manufacturer of zinc-air batteries used to power telecom towers; and AST, from India, which deploys
+ photovoltaic (PV) solar plus batteries to power telecom towers.
+
+Jan 11, 2019                                                                                                               Page 8 of 14
+          The World Bank
+          China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+            financing mechanisms to crowd-in commercial banking and capital markets. In addition, the Bank will further
+            help disseminate the most successful Chinese experience in scaling-up and mainstreaming clean energy.
+
+        14. The Project also contributes to WBG global priorities in climate finance, clean energy and batteries. In
+            September 2018, the WBG announced the “Accelerating Battery Storage for Development�? initiative. 7 This
+            includes a commitment of $1 billion in WBG financing, with an aim to fundraise $1 billion in concessional climate
+            funds, through channels such as the Climate Investment Funds’ Clean Technology Fund (CTF), and mobilize at
+            least another $3 billion from the public and private sectors. The goal is to finance 17.5 gigawatt hours (GWh) of
+            battery storage by 2025 (more than triple the 4-5 GWh currently installed in all developing countries). The
+            program intends to help shape policies needed to integrate battery storage and establish procurement practices
+            in favor of environmental friendly technologies and recycling programs. It will also convene a global think tank
+            on battery storage, bringing together national laboratories, research institutions, development agencies and
+            philanthropies to foster international technological cooperation and training to develop and adapt new storage
+            solutions that are tailored to the needs and conditions of developing countries. The proposed Project aligns with
+            this initiative in substance and timing, to potentially contribute up to one-fifth of the global targets for finance
+            and battery capacity. The Project also aligns with the global program emphasis on safeguarding public benefits.
+            The Project would also contribute to the WBG climate targets, announced in December 2018, to provide around
+            $200 billion over 2021-2025 in support for countries to take ambitious climate action.
+
+
+     C. Proposed Development Objective(s)
+
+        15. The project development objective is to improve the performance of renewable energy (RE) through reduction
+            of curtailment and deployment of emerging uses of RE in China, focusing on application of battery storage
+            technology. The global environmental outcome associated with this PDO is to reduce greenhouse gas emissions.
+
+     Key Results (From PCN)
+
+        16. The proposed outcome indicators are:
+            • Reduced curtailment of RE (GWh);
+            • Total MWh of battery storage installed; and
+            • CO2 emissions reduction (million tons)
+
+        17. Intermediate project indicators will be provided in PAD, likely to be:
+            • Capacity installed for emerging RE uses
+            • Installed capacity for distributed RE
+            • Leveraged financing
+
+
+     D. Concept Description
+
+        18. Project activities will promote investments to reduce curtailment and promote emerging use of RE to improve
+            the efficiency of RE development. Considering the investment comprising many small scale sub-projects covering
+            generation, grid and demand sides, and benefits of leverage financing, financial intermediary, identified as Huaxia
+
+ 7
+     http://www.worldbank.org/en/news/feature/2018/09/26/powering-new-markets-for-battery-storage
+
+Jan 11, 2019                                                                                                          Page 9 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+           Bank, is proposed to on lend the IBRD loan to eligible final borrowers. This practice has been applied successfully
+           in the Bank’s previous engagement in energy efficiency, low carbon cities, and air pollution control programs.
+           The proposed implementation period is 2019 to 2024. Project financing will comprise: (a) IBRD loan of US$200
+           million made to the Ministry of Finance and on-lent to Huaxia Bank as a financial intermediary (FI); (b) commercial
+           debt at around US$300 million from Huaxia Bank; and (c) equity in order of US$125 million from sub-borrowers
+           for target investments. A blended GEF grant (US$ 20.2386 million)8 will be included to support activities related
+           to the development of battery storage technology and distributed RE, implemented by Huaxia Bank and National
+           Energy Administration (NEA) respectively.
+
+      Investment Component (US$ 200 million IBRD loan, and co-financing US$ 425 million)
+
+      19. Investments under the proposed Project may cover a range of technologies and use cases of battery storage
+          in generation, grid and demand sides, subject to certain eligibility criteria, in line with the objective to improve
+          performance of RE development. As such, project types could include:
+
+           •   Generation Side:
+                   o Installation of battery storage systems in existing wind farm and solar power plants. It would improve
+                       the dispatchability of wind and solar power by smoothing the power outputs and reduce
+                       curtailments by storing VRE generated in surplus, which would otherwise curtailed, for use when it
+                       is needed by the system.
+                   o Deployment of advanced wind/solar power forecast systems. They would improve the accuracy of
+                       projection and predictability of VRE generation, to allow optimally dispatch and use of installed VRE
+                       capacity
+                   o Installation of heat/battery storage in existing non-coal power plants to increase their flexibility in
+                       energy supply to the grid, which provides additional flexibility to power systems to dispatch RE and
+                       avoid curtailments.
+           •   Grid Side:
+                   o Installation of battery storage systems in existing substations. Such systems would provide
+                       additional capability to power systems to better absorb and integrate VRE and reduce RE
+                       curtailment. Grid side battery systems in substations, as part of the transmission and distribution
+                       networks, can also transfer VRE generation from off-peak to peak periods, provide ancillary services
+                       and system backup to help mitigate the impact of the integration of VRE.
+                   o Installation of advanced energy management systems to improve dispatch of VRE. Examples of this
+                       type of investment could be joint dispatch of both hydropower and VRE for better use of the
+                       intermitted generation of the latter.
+                   o Improving existing distribution network or grid connection to take advantage of DRE generation
+                       potential and reduce the congestion of distribution systems.
+
+
+ 8
+   Total US$ 14.4 million residual GEF grant from the previous CHUEE project could be provided, in addition to US$ 7.2786 GEF grant
+ (original China Distributed RE Scale Up Project, P162299) that endorsed to support development of distributed RE in China. Per
+ discussion with MOF, 90 percent of the residual GEF grant (US$ 12.96 million) can be used to support the development of battery
+ storage development in China, while 10 percent of the grant will be used by the World Bank for project management. Further
+ discussion with MOF will be conducted during project preparation to define the details of project activities and implementation
+ arrangement. The China Distributed Renewable Energy Scale Up Project was approved as a stand-alone project at the PCN stage, but
+ now it is proposed to be blended with the proposed IBRD loan to make it more effective.
+
+Jan 11, 2019                                                                                                            Page 10 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+           •   Demand Side:
+                  o Installation of battery storage systems in existing industrial zones or commercial consumers to meet
+                     the peak demand. This could reduce the peak load to be supplied by the grid and increase off-peak
+                     demand, and enable power systems to integrate more RE with the same generation mix and
+                     transmission networks.
+                  o Development of distributed RE with storage. Installation of battery storage systems in microgrids and
+                     ‘behind the meter’ at consumer sites (e.g. distribution network in industrial development zones and
+                     commercial buildings) to complement distributed VRE generation and other services. The storage
+                     systems could enable the distributed VRE more dispatchable and grid-friendly.
+                  o Pilot heat storage and scale up of use of RE for heating. This is an emerging use of RE in China and
+                     the world 9 . In China, it would consist of using VRE electricity to displace coal consumption for
+                     heating, directly or with heat storage. Additional commercial arrangements or investments will be
+                     made to increase VRE generation to meet this additional electricity consumption. Commercial
+                     arrangements include direct contracting, purchasing of green certificates, or administrative
+                     measures to increase the utilization hours of RE.
+                  o Other innovative use of VRE that can be proved to reduce RE curtailment or increase RE use
+                     efficiently, such as producing hydrogen and powering heat pumps.
+
+
+      20. A Project Operation Manual is being developed by Huaxia Bank to define the eligibility criteria of investment
+          sub-projects, as well as the project management and procurement, financial and safeguard procedures for sub-
+          project evaluation and appraisal. Sub-project criteria will cover: technology adopted; cost effectiveness;
+          contribution to renewable energy integration; environmental and social requirements; and related applied
+          technical standards. Sub-borrower criteria will include creditworthiness, technical competence and track record
+          of related investments. A number of preliminary potential sub-loan activities/projects have already been
+          identified from consultation with different companies in China. The pipeline will be further developed during
+          preparation.
+
+      Technical Assistance Component (US$ 20.2386 million GEF, and co-financing)
+
+      21. A technical assistance component will be included to establish enabling environment for battery storage
+          development, to support the development of distributed RE, capacity building for Huaxia Bank and NEA, and
+          project management. Classified by the implementing agencies (both Huaxia Bank and NEA), Huaxia will
+          implement the activities related to market penetration of battery storage, while NEA will implement the activities
+          related to policies, regulations, technical standards and pilot investment projects in both battery storage and
+          distributed RE.
+
+           •   The residual GEF fund from the previous CHUEE project will be mainly used to (a) buy down cost of battery
+               storage, these could include possible guarantee arrangement, risk sharing mechanism, business models, and
+
+ 9 “Bioenergy contributes the highest absolute growth in renewable heat consumption during the outlook period (2018-23), although
+ other renewable sources are anticipated to grow at a faster rate.�?, “Renewable electricity for heat is expected to have the s econd-
+ largest absolute growth over the outlook period because: 1) the share of renewables in electricity generation is expanding and 2) the
+ use of electricity in heat production is increasing more quickly than total heat consumption. The total use of electricity for heat is
+ expected to grow 20% in the industry sector and 11% in buildings. Heat pumps, mostly powered by electricity, are being increasingly
+ deployed, especially in buildings�?. IEA Renewables 2018, analysis and Forecasts to 2023.
+
+Jan 11, 2019                                                                                                               Page 11 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+               creation of communication platform to build consensus for business development thus expand the market
+               of battery storage; (b) due diligence of investment sub-projects regarding their compliance with
+               requirements in the Operation Manual (technical, environmental, social and fiduciary), (c) project monitoring
+               and evaluation, and (d) capacity building for Huaxia Bank on market development, safety risk assessment
+               and mitigation, and environmental and social management, with special focus on issues related to battery
+               storage.
+
+           •   Policies, regulations and technical standards to promote battery storage and distributed RE will be included,
+               in close consultation with associated government agencies and industrial associations. For battery storage,
+               the focus will be to review and improvement of technical standards of battery storage will be covered. These
+               technical standards could include grid connection, system operation and technical designs of battery storage
+               projects. Suggestions to improve both safety management of battery storage projects and battery disposal
+               will be considered. While for distributed RE, the main activities will focus on: (a) grid access under direct
+               contracting between the generators and other end users; (b) pricing schemes to account for the economic
+               value of DERs to different actors and at given times and locations especially in the context of power sector
+               reform, including tariffs for power supplied to the grid, incentive for DERs to meet peak demand, distribution-
+               level wheeling charges, cost recovery for measures for the grid to accommodate high penetration of
+               distributed resources, and benefits from generation and grid investments avoided due to distributed
+               resources; (c) standards and certification schemes such as for safety, security, technical parameters, and
+               building-integrated PV; (d) urban planning that incorporates DERs at city and township levels; (e) information
+               and communication mechanisms including technology platforms, access, privacy, and cybersecurity risk
+               management.
+
+           •   Support to pilot innovative applications of both battery storage and distributed RE will be included. [Yanqin,
+               please add]. This will primarily involve acquisition of technical assistance (including for carrying out of
+               studies), and may also support specific subprojects for piloting innovative and scalable use-cases of both
+               battery storage and distributed renewables in select parts of China. Activities under this component will
+               support development and demonstration in generation, transmission, and distribution sides for battery
+               storage and specific locations (e.g. a given city, district or industrial park) of specific use-cases for which the
+               techno-economic potential is otherwise already proven for distributed renewables. That is, pilot support is
+               not intended to demonstrate individual technologies, but rather to prove financial, institutional, and
+               business-model viability for scale-up.
+
+           •   Project management: fund will be allocated to support NEA in establishing a project management office
+               during the implementation period of the project.
+
+
+
+  Legal Operational Policies                                                                Triggered?
+  Projects on International Waterways OP 7.50                                               No
+  Projects in Disputed Areas OP 7.60                                                        No
+
+
+
+
+Jan 11, 2019                                                                                                           Page 12 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+  Summary of Screening of Environmental and Social Risks and Impacts
+  Energy storage systems can provide indirect environmental benefits through the improvements of energy
+  resilience and efficiency and the increased use of clean electricity from renewable sources. The proposed
+  subprojects (mostly Battery Energy Storage System) are not complex with small size of footprint. Any
+  subproject with the potential of significant impacts on natural habitat and physical cultural resources can be
+  excluded from the project financing following the eligibility criteria to be developed during project
+  preparation. The environmental risks anticipated are mainly fire and explosion risks and environmental
+  hazards related to the disposal of used batteries containing hazardous waste. Though China has promulgated
+  the regulations on the life cycle management for batteries and electrical apparatus , the risks may increase
+  exposure as new or inexperienced SMEs and individuals deploy distributed user-systems in disparate locations
+  at proximity to people and communities. Any major risk can be addressed by enforcement of appropriate
+  standards and strict eligibility criteria of sub-projects. Necessary actions for risk management will be
+  incorporated into the ESCP to be available prior to appraisal. Most of installations will be minor in dimensions
+  compared to existing premises and will be implemented within existing footprints or within the perimeters of
+  existing facilities (such as power generation facilities, substations or consumers). Potential displacement
+  impact, direct adverse impact on ethnic minorities, risks associated with labor and working conditions of
+  construction related workers is considered low risk during construction period. During operation, community
+  safety risks are linked to explosion, fire and electric shock, which will be strictly managed under China current
+  regulatory framework and ESSs. A multitude of projects located close to vulnerable communities may give rise
+  to limited degree of social conflict, harm, human security risk associated with perceptions of community
+  endangerment and non-receipt of benefits. The social impacts and risks are generally site specific, low
+  probability of serious effects to people and can be mitigated through strict eligibility criteria of subprojects, as
+  well as enforcement of culturally appropriate stakeholder engagement and appropriate standards and
+  regulations.
+
+ Note To view the Environmental and Social Risks and Impacts, please refer to the Concept Stage ESRS Document.
+
+
+
+  CONTACT POINT
+
+
+  World Bank
+  Ximing Peng
+  Senior Energy Specialist
+
+
+  Borrower/Client/Recipient
+  People's Republic of China
+
+
+
+
+Jan 11, 2019                                                                                               Page 13 of 14
+         The World Bank
+         China Renewable Energy Efficiency and Battery Storage Project (P163679)
+
+
+
+  Implementing Agencies
+  Huaxia Bank
+  Yongmiao Zhang
+  Director
+  yongmiaozhang@hotmail.com
+
+  National Energy Administration
+  Zhipeng Liang
+  Deputy Director General
+  luozh@cresp.org.cn
+
+
+  FOR MORE INFORMATION CONTACT
+  The World Bank
+  1818 H Street, NW
+  Washington, D.C. 20433
+  Telephone: (202) 473-1000
+  Web: http://www.worldbank.org/projects
+
+
+
+  APPROVAL
+
+  Task Team Leader(s):                      Ximing Peng
+
+  Approved By
+  APPROVALTBL
+  Practice Manager/Manager:
+
+  Country Director:
+
+
+
+
+Jan 11, 2019                                                                       Page 14 of 14
+
